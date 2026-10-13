@@ -44,5 +44,5 @@ Confirmatory factor analysis with sample 2 (N = 227) preservice English language
 
 ## Related Claims
 
-- [CFA refinement removes three weakly loading items and adds one theoretically justified residual covariance, yielding a 27-item scale](tails-item-refinement-27-item.md) — related
+- CFA refinement removes three weakly loading items and adds one theoretically justified residual covariance, yielding a 27-item scale — related
 - [Confirmatory factor analysis supports the six-facet structure with marginal but acceptable fit](sfailq-cfa-fit.md)

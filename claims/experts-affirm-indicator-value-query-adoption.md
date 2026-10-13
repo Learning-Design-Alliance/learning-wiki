@@ -43,4 +43,4 @@ Qualitative consultation in which 130 items were built into a website data colle
 
 
 ## Related Claims
-- [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
+- The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported — related

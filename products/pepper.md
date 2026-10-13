@@ -13,7 +13,7 @@ generated:
 # Pepper
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Pepper is a humanoid social-robot platform developed by SoftBank Robotics for multimodal social interaction and educational applications.
@@ -23,8 +23,10 @@ Pepper is a humanoid social-robot platform developed by SoftBank Robotics for mu
 - **Pepper humanoid social robot as an educational platform**: Pepper is a humanoid social robot designed for social interaction, officially launched in 2014, that the review identifies as one of the most widely used robotic platforms in educational contexts. It is "characterised by its integration of sensors, cameras, mobility, verbal communication, gestures and a built-in tablet, which facilitates multimodal interaction experiences". In the reviewed studies it was programmed for roles including tutor, assistant, learning partner and tutored agent, though its effective autonomy proved limited and it typically required adult supervision during sessions. (Martinez-Roig et al. (2026))
 
 ### Claims
+
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](../claims/pepper-three-pedagogical-roles.md) [+M]
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](../claims/pepper-technical-difficulties-most-reported-limitation.md) [~M]
+- [Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures](../claims/pepper-requires-constant-teacher-supervision.md) [~W]
 
 ## Related Products and Programmes
 -

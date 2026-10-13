@@ -47,4 +47,4 @@ The review's Data Collection and Analysis section states that planned meta‐ana
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related
 - [Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive](inclusion-effects-heterogeneous-moderator-analyses-inconclusive.md) — related
 - [Inclusion shows a small, non-significant pooled advantage over segregated placement for overall psychosocial adjustment of children with SEN](inclusion-psychosocial-adjustment-smd-020-nonsignificant.md) — related
-- [Meta-analysis of AI-in-nursing-education studies was not feasible due to heterogeneity, so the review used narrative synthesis](narrative-synthesis-ai-nursing-review-heterogeneity.md) — related
+- Meta-analysis of AI-in-nursing-education studies was not feasible due to heterogeneity, so the review used narrative synthesis — related

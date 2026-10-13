@@ -48,4 +48,4 @@ Interview data show teams initially relied on state test scores, then interim an
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection](edtech-product-information-scarce-untrustworthy.md) — related
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related
-- [University–district research partnership models vary widely and many struggle to develop collaboratively designed research that assists districts and improves the profession](partnership-models-vary-struggle-collaborative-research.md) — related
+- University–district research partnership models vary widely and many struggle to develop collaboratively designed research that assists districts and improves the profession — related

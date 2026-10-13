@@ -62,9 +62,9 @@ Risk-of-bias appraisal using ROBINS-I for non-randomised studies. Two quantitati
 
 
 ## Related Claims
-- [Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding](class-size-studies-excluded-high-risk-confounding.md) — related
+- Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
 - [There are virtually no contemporary quantitative studies on the effects of small class sizes in special education, making meta-analysis impossible](no-contemporary-quantitative-studies-special-education-class-size.md) — related
 - [No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness](no-eligible-crc-studies-identified.md) — related
-- [Structured literature synthesis retained 7 studies and policy documents from approximately 173 initial records](literature-synthesis-retained-seven-studies.md) — related
-- [Meta-analysis of AI-in-nursing-education studies was not feasible due to heterogeneity, so the review used narrative synthesis](narrative-synthesis-ai-nursing-review-heterogeneity.md) — related
+- Structured literature synthesis retained 7 studies and policy documents from approximately 173 initial records — related
+- Meta-analysis of AI-in-nursing-education studies was not feasible due to heterogeneity, so the review used narrative synthesis — related

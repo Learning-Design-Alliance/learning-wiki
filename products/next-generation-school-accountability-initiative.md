@@ -13,7 +13,7 @@ generated:
 # Next Generation School Accountability initiative
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Utah's state school-accountability framework, administered by the Utah State Board of Education, that includes growth and equity indicators such as the Lowest Quartile measure.
@@ -25,8 +25,10 @@ Utah's state school-accountability framework, administered by the Utah State Boa
 - **Next generation accountability framework: shared accountability, adaptive improvement, and informational significance in a two-stage design**: The report advances a framework for school accountability under ESSA governed by three principles: shared accountability, in which "performance responsibility is distributed across the system's components"; adaptive improvement, acknowledging that school capacities differ greatly; and informational significance, replacing a single composite with a broad palette of functionally significant indicators. It features a two-stage design: Stage One is formative, providing schools useful information for their own improvement decisions; Stage Two is aggressive, identifying and transforming schools in catastrophic failure. Schools are viewed as systems whose outcomes result from the quality of their resources and processes. (Adams et al. (2017))
 
 ### Claims
+
 - [Oklahoma achievement declined rather than grew across 2012–2014 under the A–F letter grade system, with the largest drops in F schools](../claims/oklahoma-achievement-declined-2012-2014-under-a-f.md) [+M]
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](../claims/composite-indicators-poor-conceptual-alignment-deeper-learning.md) [+M]
+- [Using typical measures of school performance may lead state and local decisionmakers astray when identifying schools for support](../claims/typical-school-performance-measures-may-mislead-identification.md) [+W]
 
 ## Related Products and Programmes
 

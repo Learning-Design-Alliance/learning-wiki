@@ -12,7 +12,7 @@ generated:
 # Rubric-based pedagogical quality scoring for educational AI explanations
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 13 claims (12 for, 1 mixed) · 7 studies (6 design, 1 causal), `q2` · 0 of 7 report an effect size · 13 claims rest on one study
+> **Evidence** · 14 claims (12 for, 2 mixed) · 7 studies (6 design, 1 causal), `q2` · 0 of 7 report an effect size · 14 claims rest on one study
 
 ## Description
 The article defines a composite pedagogical quality score on [0,1] as the mean of six binary criteria applied per response: step-by-step exposition, correct mathematical notation, worked example, query coverage, explanation depth, and proof-step granularity. Because "equivalent mathematical proofs can use substantially different wording", the authors argue this rubric "captures educational value independently of surface wording" and is a more appropriate primary metric than ROUGE or BLEU for mathematical educational AI, offering a reusable benchmark methodology.
@@ -30,6 +30,7 @@ The article defines a composite pedagogical quality score on [0,1] as the mean o
 - **Eight-dimension pedagogical evaluation rubric for AI teaching agents**: The article introduces a transparent, standardized 8-dimension rubric (100 points) designed to assess agent teaching quality rather than student response quality, covering "knowledge accuracy, pedagogical guidance, knowledge coverage, role-play quality, difficulty calibration, medical safety, student engagement, and feedback quality." Weights were assigned on conceptual grounds, with the two core teaching functions at 20 points each and the two supportive dimensions at 5 points each. It was operationalized through LLM scoring under standardized instructions and validated against cross-model agreement and a blinded human expert. (Zhang Hui et al. (2026))
 
 ### Claims
+
 - [BLEU-4 scored zero on all 179 mathematical-proof responses, which the authors interpret as a property of n-gram metrics rather than system failure](../claims/bleu4-zero-mathematical-proofs-metric-limitation.md) [+M]
 - [AlgoRAG answered all 179 TCS exam-style questions successfully with a mean response time of 38.0 seconds and a pedagogical quality score of 0.7620](../claims/algorag-100-success-179-tcs-questions.md) [+M]
 - [CODE-GEN achieves human-validated success rates of 79.9% to 98.6% across seven pedagogical evaluation dimensions](../claims/code-gen-success-rates-seven-dimensions.md) [+M]
@@ -43,6 +44,7 @@ The article defines a composite pedagogical quality score on [0,1] as the mean o
 - [Platform-generated scores and rubric-based teaching quality produced substantially divergent rankings of the same AI teaching agents](../claims/platform-rubric-rankings-diverge-ai-teaching-agents.md) [+M]
 - [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](../claims/agents-differ-knowledge-not-role-performance.md) [+M]
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](../claims/ai-expert-agreement-cognitive-versus-subjective-dimensions.md) [+M]
+- [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](../claims/llm-evaluator-leniency-ceiling-effects.md) [~W]
 
 ## Related Research Methods
 

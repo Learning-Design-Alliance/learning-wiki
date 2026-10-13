@@ -13,7 +13,7 @@ generated:
 # CALPADS student-level longitudinal course record dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 A California Department of Education administrative dataset containing student-level longitudinal K–12 course records for federal reporting and education research.
@@ -28,6 +28,7 @@ A California Department of Education administrative dataset containing student-l
 - [College preparatory elective (G) courses showed markedly lower CALPADS-UC alignment (23-30%) than other A-G areas](../claims/g-elective-courses-low-alignment-calpads-uc.md) [+W]
 - [CALPADS-CSU alignment was slightly lower than CALPADS-UC alignment, with about 70% of courses exactly aligned and GPAs within three tenths for close to 90% of students](../claims/calpads-csu-alignment-slightly-lower.md) [+W]
 - [CALPADS course record availability was lower for students in high-FRPM, small, and nontraditional schools (56%, 36%, and 31% with all four years)](../claims/calpads-availability-lower-small-nontraditional-schools.md) [+W]
+- [Grades 10-11 GPA estimates from CALPADS and UC data agreed closely: over 95% of students within three tenths of a point and the at-or-above-3 conclusion matched for 97%](../claims/calpads-uc-gpa-alignment-close.md) [+W]
 
 ## Related Products and Programmes
 -

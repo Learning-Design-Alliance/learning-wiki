@@ -13,7 +13,7 @@ generated:
 # Socrates
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Socrates is a playground-and-grader system developed by Xinming Yang et al. for instructors to deploy controlled learning-by-teaching assignments with LLM virtual students in computer science courses.
@@ -22,7 +22,9 @@ Socrates is a playground-and-grader system developed by Xinming Yang et al. for 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Running the Socrates playground and grader incurred low cost, with even gpt-4o consuming only $169.90](../claims/socrates-low-operational-cost.md) [+M]
+- [gpt-4o graded student submissions most correctly in almost all assignments, but gemini-1.0-pro graded the boolean-algebra assignment most correctly](../claims/grader-llm-correctness-comparison-socrates.md) [~W]
 
 ## Related Products and Programmes
 

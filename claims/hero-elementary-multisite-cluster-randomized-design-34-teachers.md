@@ -63,5 +63,5 @@ CONSORT-reported sample flow in the Student Participants section: 793 students r
 
 ## Related Claims
 - [In a cluster-randomized trial of the virtual Hero Elementary program, treatment students scored higher than control students on a science post-assessment, but the difference was not statistically significant (effect size 0.15)](hero-elementary-virtual-pivot-nonsignificant-achievement-effect.md) — related
-- [Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample.](hero-elementary-baseline-equivalence-no-statistical-differences.md) — related
+- Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](hero-elementary-playlists-no-significant-science-knowledge-effect.md) — related

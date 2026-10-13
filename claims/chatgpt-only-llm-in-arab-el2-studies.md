@@ -46,7 +46,7 @@ Result of the review's database synthesis: although the search window was chosen
 - [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
 - [Across 11 reviewed Arab-university EL2 studies (2023–2025), learners and educators report overwhelmingly positive perceptions of AI-assisted language learning](arab-el2-positive-ai-perceptions-review.md) — related
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — a broader claim this one bears on
-- [The evidence base on AI in Arab EL2 classrooms is limited by perception-based designs, varied samples, and insufficient reporting of AI versions and implementation](arab-ai-el2-evidence-limitations.md) — related
-- [Questionnaire-based perception surveys were the most common research design among the 11 included studies, with sample sizes ranging from 20 to 350 participants](questionnaire-designs-dominate-arab-ai-el2-studies.md) — related
+- The evidence base on AI in Arab EL2 classrooms is limited by perception-based designs, varied samples, and insufficient reporting of AI versions and implementation — related
+- Questionnaire-based perception surveys were the most common research design among the 11 included studies, with sample sizes ranging from 20 to 350 participants — related
 - [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related
 - [ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)](chatgpt-dominant-tool-usage-education-managers.md) — related

@@ -43,6 +43,6 @@ Design verification in the randomized controlled trial: after a matched-pair ran
 
 
 ## Related Claims
-- [The three treatment groups were equivalent in reading comprehension at pretest](semantic-mapping-groups-equivalent-at-pretest.md) — related
-- [Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment](esp-groups-homogeneous-pretest-reading-comprehension.md) — related
+- The three treatment groups were equivalent in reading comprehension at pretest — related
+- Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related
 - [Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate](baker-trial-pretest-difference-covariate-control.md) — related

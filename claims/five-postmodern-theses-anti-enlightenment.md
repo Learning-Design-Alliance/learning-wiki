@@ -49,6 +49,6 @@ Theoretical argument from the author's close reading of some 60 texts in the pos
 - [Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies](premodern-narratives-assimilate-language-to-world.md) — related
 - [Deconstructing the modern metaphors of nature cultivated by modern science and industrialism is a first step toward reconstructing relationships with the earth](deconstructing-modern-nature-metaphors-first-step.md) — related
 - [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](modernist-discourses-contradictory-environmental-effects.md) — related
-- [The paper identifies five postmodern theses, beginning with rejection of Enlightenment grand narratives](five-postmodern-theses-grand-narrative-rejection.md) — possibly the same claim (merge candidate)
+- The paper identifies five postmodern theses, beginning with rejection of Enlightenment grand narratives — possibly the same claim (merge candidate)
 - [Val Rust's 1991 presidential address opened CIES discourse to postmodern ideas via four crucial aspects](rust-1991-opened-cies-postmodern-debate.md) — related
 - [The ethnic studies movement originated in the 1968 San Francisco State University student strike demanding a non-Eurocentric curriculum](ethnic-studies-origins-1968-sfsu-strike.md) — related

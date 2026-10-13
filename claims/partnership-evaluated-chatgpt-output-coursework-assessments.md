@@ -45,4 +45,4 @@ Case study of a student-staff partnership on an undergraduate medical sciences p
 ## Related Claims
 - [A student-staff co-creation initiative explored generative AI technologies in the context of higher education assessments](co-creation-initiative-explored-generative-ai-assessments.md) — a broader claim this one bears on
 - [ChatGPT produced submissions judged of passing quality for 36 of 40 undergraduate psychology assessments (90%)](chatgpt-passable-36-of-40-psychology-assessments.md) — related
-- [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related
+- GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs — related

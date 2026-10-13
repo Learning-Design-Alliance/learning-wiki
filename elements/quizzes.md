@@ -13,7 +13,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 7 studies (3 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 design), `q2`–`q4` · 3 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
@@ -57,6 +57,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](../claims/classroom-quizzing-medium-effect-achievement.md) [+W]
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [+W]
 - [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](../claims/detailed-answer-keys-improve-momentum-only.md) [~W]
+- [Quiz mode's course-blind Python question generation was the only cross-course failure requiring a code change during onboarding](../claims/course-blind-code-question-generation-failure.md) [~W]
 
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md) — the underlying mechanism; a quiz is retrieval practice with assessment structure

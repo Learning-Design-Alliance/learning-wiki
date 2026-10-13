@@ -17,7 +17,7 @@ sources:
 # Rapid-guessing detection using item response-time thresholds
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (2 associational, 1 design, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 6 studies (4 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 This framework identifies disengaged item responses on computer-based tests using response times—the seconds between item presentation and answer. Responses are "often termed “rapid guessing” because responses are, when effectively detected, correct at a rate no better than chance." Thresholds separate engaged from disengaged responses (e.g., 10% of average item response time, maximum 10 seconds), and student engagement is summarized as the proportion of non-rapid responses. The paper applies this framework to flag disengaged test events (rapid guessing on 10% or more of items) and re-estimate achievement for evaluation metrics.
@@ -27,10 +27,13 @@ This framework identifies disengaged item responses on computer-based tests usin
 - **Rapid-guessing detection framework using item response time thresholds**: This framework identifies disengaged item responses on computer-based tests using response times—the seconds between item presentation and answer. Responses are "often termed “rapid guessing” because responses are, when effectively detected, correct at a rate no better than chance." Thresholds separate engaged from disengaged responses (e.g., 10% of average item response time, maximum 10 seconds), and student engagement is summarized as the proportion of non-rapid responses. The paper applies this framework to flag disengaged test events (rapid guessing on 10% or more of items) and re-estimate achievement for evaluation metrics. (Kuhfeld et al. (2019))
 
 ### Claims
+
 - [Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample](../claims/disengagement-rates-vary-subgroup-grade-term.md) [+M]
 - [Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools](../claims/threshold-methods-compared-large-scale-reading-data.md) [+M]
 - [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](../claims/rapid-guessing-identification-and-context.md) [+M]
 - [Information-based rapid-guessing threshold methods set thresholds more reliably than methods based on response accuracy or visual inspection](../claims/information-based-thresholds-more-reliable-than-accuracy-visual-methods.md) [+M]
+- [Rapid guessing on achievement tests varies across grades, subjects, and teachers](../claims/rapid-guessing-varies-grade-subject-teacher.md) [~W]
+- [Detecting noneffortful responses requires setting response time thresholds that separate effortful from noneffortful responses](../claims/rt-thresholds-separate-noneffortful-responses.md) [+W]
 
 ## Related Research Methods
 -

@@ -44,5 +44,5 @@ Descriptive analysis of educational contexts across the 89 included papers (Tabl
 
 
 ## Related Claims
-- [RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24)](rl-education-evaluation-strategy-distribution.md) — related
+- RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24) — related
 - [Content-related adaptation (n = 53 papers) outnumbers guidance-related adaptation (n = 36) in RL-based educational applications](rl-education-content-adaptation-outnumbers-guidance.md) — related

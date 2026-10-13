@@ -13,7 +13,7 @@ generated:
 # Concept Catalyst
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Concept Catalyst is an LLM-assisted web tool developed by Singh et al. that helps K–12 engineering teachers analyze design challenges, build concept graphs, and generate editable scaffolding questions for students.
@@ -22,9 +22,11 @@ Concept Catalyst is an LLM-assisted web tool developed by Singh et al. that help
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](../claims/concept-catalyst-reduces-cognitive-load-quick-generation.md) [+M]
 - [Teachers judged the AI-generated scaffolds relevant and of similar quality to their own questions, though some felt the wording was too fancy or long and needed modification](../claims/concept-catalyst-scaffold-quality-relevant-but-needs-editing.md) [+M]
 - [The concept-map interface let teachers generate scaffolds matching their content focuses, class activities, and teaching styles](../claims/concept-catalyst-scaffold-diversity-matches-practices.md) [+M]
+- [In a prior Wizard-of-Oz study, K-12 engineering teachers reported positive feedback on the efficiency, quality, and diversity of scaffold content produced with the Concept Catalyst framework](../claims/woz-study-positive-teacher-feedback-concept-catalyst-framework.md) [~W]
 
 ## Related Products and Programmes
 -

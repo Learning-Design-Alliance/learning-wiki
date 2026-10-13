@@ -13,7 +13,7 @@ generated:
 # Cross-dataset Bloom classification benchmark corpus of five datasets totaling 4,179 questions
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A benchmark corpus assembled by Abdolali Faraji et al. from five Bloom-taxonomy-annotated question datasets, with mapped labels, code, prompts, and data for cross-dataset evaluation of Bloom-level question-classification methods.
@@ -22,6 +22,9 @@ A benchmark corpus assembled by Abdolali Faraji et al. from five Bloom-taxonomy-
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Model accuracy on Bloom classification drops with question text length, with LLMs degrading least](../claims/bloom-signal-dilution-with-text-length.md) [~W]
+- [Model retraining on labeled OOD data provides the largest improvement in Bloom classification across models and datasets](../claims/model-retraining-largest-ood-improvement.md) [~W]
 
 ## Related Products and Programmes
 

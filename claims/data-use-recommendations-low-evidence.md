@@ -43,7 +43,7 @@ The panel's synthesis of its literature search: of more than 490 citations, 64 u
 
 
 ## Related Claims
-- [The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations](algebra-guide-evidence-base-15-wwc-studies.md) — related
+- The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations — related
 - [Implementing the guide's five recommendations together improves students' math achievement, while no component's isolated effectiveness was established](five-recommendations-together-improve-achievement.md) — reports the opposite
-- [No rigorous causal studies of specific turnaround practices existed at the time of the guide](no-rigorous-causal-studies-turnaround-practices.md) — related
+- No rigorous causal studies of specific turnaround practices existed at the time of the guide — related
 - [No reviewed study directly compared developmental-progression-guided math instruction with instruction not guided by a progression](no-direct-evidence-developmental-progression-versus-unguided.md) — related

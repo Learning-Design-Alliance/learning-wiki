@@ -44,5 +44,5 @@ Historical narrative within the paper's review of the debate's origins. The four
 
 ## Related Claims
 - [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
-- [The paper identifies five postmodern theses, beginning with rejection of Enlightenment grand narratives](five-postmodern-theses-grand-narrative-rejection.md) — related
+- The paper identifies five postmodern theses, beginning with rejection of Enlightenment grand narratives — related
 - [The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality](postmodern-ontological-shift-anti-essentialism.md) — related

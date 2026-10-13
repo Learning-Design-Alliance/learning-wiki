@@ -43,6 +43,6 @@ Pre-test homogeneity checks on two intact classes (n=49 each): pre-RCT means 7.6
 
 
 ## Related Claims
-- [Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment](esp-groups-homogeneous-pretest-reading-comprehension.md) — possibly the same claim (merge candidate)
+- Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — possibly the same claim (merge candidate)
 - [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](emi-raises-efl-morphological-awareness.md) — related
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — related

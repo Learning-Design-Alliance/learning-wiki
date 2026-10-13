@@ -13,7 +13,7 @@ generated:
 # Prober.ai
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Prober.ai is a research-logging software platform that records consented participant sessions, events, drafts, challenges, unlocks, and reflection-coaching interactions for studying learning behavior.
@@ -27,6 +27,7 @@ Prober.ai is a research-logging software platform that records consented partici
 - [Explicit API interception from a pilot cohort of 19 students yielded 1,880 events over about 57 active student-hours](../claims/vismatic-pilot-cohort-1880-events.md) [+W]
 - [Macro-level behavioral metrics flagged anomalies consistent with automated workflows and off-platform AI code synthesis](../claims/behavioral-metrics-flag-automated-anomalies.md) [+W]
 - [The deterministic reflection gate reliably distinguished low-effort defenses from substantive ones during validation, coaching filler answers rather than unlocking](../claims/reflection-gate-distinguishes-low-effort-defenses.md) [+W]
+- [Schema-constrained Structured Outputs eliminated parse failures: every /challenge and /unlock call returned a valid, fully-typed object during development testing](../claims/structured-outputs-eliminate-parse-failure-class.md) [+W]
 
 ## Related Products and Programmes
 -

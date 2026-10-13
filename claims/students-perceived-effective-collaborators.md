@@ -43,5 +43,5 @@ Descriptive analysis (Table 1) of the Effective Collaborative Rubric Survey amon
 
 
 ## Related Claims
-- [The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation](collaboration-sub-scales-intercorrelated.md) — related
+- The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation — related
 - [Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures](males-more-work-avoidant-than-females-pbl.md) — related

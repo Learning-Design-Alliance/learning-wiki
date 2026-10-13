@@ -66,9 +66,9 @@ Study description of the Fuchs et al. (1997) trial: 22 schools stratified by rea
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
 - [In the meeting-standards study, PALS classrooms used more one-on-one and peer-mediated instruction and less teacher-led instruction than comparison classrooms](pals-classrooms-more-peer-mediated-less-teacher-led.md) — related
 - [PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering](pals-potentially-positive-comprehension-effect-adolescent.md) — related
-- [PALS outcomes in reading fluency and general literacy achievement were excluded from the WWC rating because they did not meet baseline equivalence standards](pals-fluency-literacy-outcomes-excluded-baseline-equivalence.md) — related
+- PALS outcomes in reading fluency and general literacy achievement were excluded from the WWC rating because they did not meet baseline equivalence standards — related
 - [PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately](pals-full-sample-significant-ld-subset-not.md) — related
 - [The evidence base for Reading Mastery with adolescent learners is small: only 2 of 175 reviewed studies met WWC evidence standards](reading-mastery-small-evidence-base-adolescents.md) — related
-- [Of 130 studies of school-based OST programs reviewed, 22 studies of 18 different programs met WWC standards or met them with reservations](22-of-130-ost-studies-met-wwc-standards.md) — a narrower finding that bears on this claim
+- Of 130 studies of school-based OST programs reviewed, 22 studies of 18 different programs met WWC standards or met them with reservations — a narrower finding that bears on this claim
 - [The evidence base for the program is a single RCT of 3,074 randomly assigned youth, with 1,196 in the follow-up analysis sample, and the WWC rates the extent of evidence as small](challengge-single-rct-small-evidence-base.md) — related
 - [The supporting evidence for FLIGHT comes from a single randomized controlled trial with compromised random assignment](flight-evidence-single-rct-compromised-randomization.md) — related

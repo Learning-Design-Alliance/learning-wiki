@@ -63,4 +63,4 @@ The phi correlation matrix among the seven binary labels (Figure 3a) shows gener
 
 ## Related Claims
 - [78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies](low-epistemic-engagement-788-percent-non-mastery.md) — related
-- [The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation](collaboration-sub-scales-intercorrelated.md) — related
+- The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation — related

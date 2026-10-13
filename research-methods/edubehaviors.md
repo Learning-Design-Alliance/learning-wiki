@@ -12,7 +12,7 @@ generated:
 # EduBehaviors
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 EduBehaviors is an interpretable annotation framework in which researchers write explicit binary assertions about conversational behavior; LLMs annotate each assertion as true or false, and a rule or trained statistical model combines these values into a construct label. The article formalizes this as a decomposable schema S=(A,R), noting it is "an example of a concept bottleneck model". It is designed to make coding decisions inspectable and revisable.
@@ -22,8 +22,10 @@ EduBehaviors is an interpretable annotation framework in which researchers write
 - **EduBehaviors: decomposable assertion-based schemas separating behavior identification from construct labeling**: EduBehaviors is an interpretable annotation framework in which researchers write explicit binary assertions about conversational behavior; LLMs annotate each assertion as true or false, and a rule or trained statistical model combines these values into a construct label. The article formalizes this as a decomposable schema S=(A,R), noting it is "an example of a concept bottleneck model". It is designed to make coding decisions inspectable and revisable. (Julian Bernado et al. (2026))
 
 ### Claims
+
 - [EduBehaviors achieves 0.673 macro-F1 and 0.688 Cohen's kappa on Teacher TalkMoves, generally improving over direct LLM prompting](../claims/edubehaviors-matches-direct-llm-prompting-talkmoves.md) [+M]
 - [Adding a cross-model agreement filter improves performance for the top three LLM annotators](../claims/cross-model-agreement-filter-improves-top-annotators.md) [+M]
+- [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](../claims/regex-rules-improve-fewshot-llm-labeling-accuracy.md) [+W]
 
 ## Related Research Methods
 -

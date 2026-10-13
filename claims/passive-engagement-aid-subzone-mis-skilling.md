@@ -68,3 +68,4 @@ Theoretical argument posing a practical supervision challenge: because passive a
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [AI in education poses challenges across three interrelated domains: knowledge itself, the process of knowing, and the socio-environmental impact of knowledge production](ai-education-three-challenge-domains.md) — a broader claim this one bears on
 - [Three recurring AI failure modes arose in this project-based learning context: plausible-but-incorrect code, missing specialized knowledge, and limited long-term context](three-ai-failure-modes-project-based-learning.md) — related
+- [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related

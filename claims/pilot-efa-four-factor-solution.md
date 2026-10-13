@@ -43,5 +43,5 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 
 
 ## Related Claims
-- [Exploratory factor analysis indicates a four-factor solution best fits the survey response data](efa-four-factor-solution-best-fit.md) — related
+- Exploratory factor analysis indicates a four-factor solution best fits the survey response data — related
 - [A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs](mrbq-four-factor-model-partial-support.md) — related

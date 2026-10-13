@@ -45,4 +45,4 @@ Thematic analysis of open-ended survey responses on how students decide whether 
 ## Related Claims
 - [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — a broader claim this one bears on
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
-- [Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied](nine-design-factors-trust-ai-systems.md) — related
+- Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — related

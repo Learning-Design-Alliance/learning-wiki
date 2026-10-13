@@ -47,6 +47,6 @@ Moderator analysis of the 15 included studies under the random effects model, us
 - [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](srl-effect-no-course-type-difference.md) — a narrower finding that bears on this claim
 - [The pooled effect of self-regulated learning does not differ significantly by school level](srl-effect-no-school-level-difference.md) — a narrower finding that bears on this claim
 - [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — a narrower finding that bears on this claim
-- [The pooled effect of self-regulated learning does not differ significantly between empirical and relational study designs](srl-effect-no-study-design-difference.md) — related
+- The pooled effect of self-regulated learning does not differ significantly between empirical and relational study designs — related
 - [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related

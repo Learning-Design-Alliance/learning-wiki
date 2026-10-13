@@ -44,6 +44,6 @@ Conceptual critical review of prior GAI-SDL studies (Wang et al., 2024; Shalong 
 
 ## Related Claims
 - [The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL](gai-adaptive-functionality-encourages-overreliance.md) — related
-- [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — related
-- [Monitoring of AI training relies primarily on records of interactions with AI tools, while attitudes and perceptions are mostly assessed at a single point in time](monitoring-relies-on-interaction-records-single-point-attitudes.md) — related
-- [Self-report questionnaires, dominated by the MSLQ, are the most common SRL/cognitive strategy measure, alongside structured interviews, think-aloud protocols, and cognitive traces](measure-type-mix-mslq-dominant.md) — related
+- AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation — related
+- Monitoring of AI training relies primarily on records of interactions with AI tools, while attitudes and perceptions are mostly assessed at a single point in time — related
+- Self-report questionnaires, dominated by the MSLQ, are the most common SRL/cognitive strategy measure, alongside structured interviews, think-aloud protocols, and cognitive traces — related

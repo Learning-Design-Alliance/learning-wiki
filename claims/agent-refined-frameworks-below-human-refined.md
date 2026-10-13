@@ -43,7 +43,7 @@ Agent–agent reliability analysis: the GPT-4o and GPT-5.2 agents reached QWK = 
 
 
 ## Related Claims
-- [Trained human annotators reach near-perfect agreement on the 7-point engagement scale, improving across refinement stages](human-annotators-near-perfect-agreement-7point-icap.md) — related
+- Trained human annotators reach near-perfect agreement on the 7-point engagement scale, improving across refinement stages — related
 - [Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement](machine-machine-above-human-machine-below-human-human.md) — related
 - [The human-refined framework improved human agreement substantially but produced only modest gains for ICL-based LLM annotation](human-refined-framework-gains-humans-not-llms.md) — related
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related

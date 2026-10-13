@@ -62,6 +62,6 @@ Exploratory inventory of parsed performance-versus-human quotations (Supplementa
 
 
 ## Related Claims
-- [Review automation has shifted toward LLM- and software-facing workflows and into review stages that can alter the evidence base](automation-shift-toward-llm-software-evidence-altering-stages.md) — related
+- Review automation has shifted toward LLM- and software-facing workflows and into review stages that can alter the evidence base — related
 - [Since 2023, software/product papers report markedly less evaluation detail than LLM papers in review automation](software-product-papers-report-less-evaluation-than-llm-papers.md) — related
 - [Reporting coverage increases with LLM workflow complexity, from prompt-only to engineered and retrieval/adapted/agentic methods](reporting-richness-increases-with-llm-workflow-complexity.md) — related

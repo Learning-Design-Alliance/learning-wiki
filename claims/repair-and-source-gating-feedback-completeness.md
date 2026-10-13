@@ -62,5 +62,5 @@ Automated source checks across the four within-case conditions. "The source-veri
 
 
 ## Related Claims
-- [Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues](30-hallucinated-references-14-papers-csed.md) — related
+- Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues — related
 - [Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar](verification-layer-one-mixed-results.md) — related

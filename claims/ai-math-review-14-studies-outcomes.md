@@ -44,7 +44,7 @@ Systematic literature review following PRISMA guidelines, searching multiple dat
 
 ## Related Claims
 - [The review found AI was effective for improving basic problem-solving but required teacher mediation to handle more complex mathematical tasks](ai-basic-problems-teacher-mediation-complex-tasks.md) — related
-- [The review identifies scarcity of long-term impact assessment, limited empirical validation of integrity interventions, and missing equity-focused policy research as key research gaps](ai-math-research-gaps-longitudinal-equity.md) — related
+- The review identifies scarcity of long-term impact assessment, limited empirical validation of integrity interventions, and missing equity-focused policy research as key research gaps — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — related
 - [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
@@ -54,5 +54,5 @@ Systematic literature review following PRISMA guidelines, searching multiple dat
 - [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](ai-pbl-adaptive-personalized-engagement.md) — possibly the same claim (merge candidate)
 - [All reviewed studies aiming to improve AI literacy or adjacent constructs reported their methodology enhanced the targeted construct](all-studies-enhanced-targeted-construct.md) — related
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
-- [A systematic review of 2017–2024 literature yielded 314 publications from which ten AI-in-leadership domains were inductively derived](systematic-review-314-publications-ten-ai-domains.md) — related
+- A systematic review of 2017–2024 literature yielded 314 publications from which ten AI-in-leadership domains were inductively derived — related
 - [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — a narrower finding that bears on this claim

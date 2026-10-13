@@ -45,4 +45,4 @@ The authors' structural analysis of the accreditation system, offered as the exp
 ## Related Claims
 - [More than 35% of accredited colleges graduate fewer than half of their students, yet fewer than 1% ultimately lose accreditation](accredited-colleges-poor-graduation-rates-rarely-sanctioned.md) — a narrower finding that bears on this claim
 - [The draft rule would let sanctioned institutions switch accreditors, increasing accreditation-shopping risk](draft-rule-sanctioned-institutions-accreditor-switching.md) — related
-- [ED's accreditor-competition rationale rests on economic theories rather than empirical evidence, and ED conceded it cannot estimate the causal effect of accreditor switching on student outcomes](ed-competition-rationale-lacks-empirical-evidence.md) — related
+- ED's accreditor-competition rationale rests on economic theories rather than empirical evidence, and ED conceded it cannot estimate the causal effect of accreditor switching on student outcomes — related

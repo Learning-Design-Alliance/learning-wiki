@@ -49,3 +49,4 @@ The study's reported result on the sample-removal technique: the authors state t
 - [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
 - [Student test disengagement may bias estimates of educational effectiveness based on observed test results](test-disengagement-may-bias-effectiveness-estimates.md) — related
 - [Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects](overcontrol-bias-blocking-mediator.md) — a narrower finding that bears on this claim
+- [After accounting for publication bias, the estimated true effect favoring PS-I is strong (Hedge's g = 0.87)](publication-bias-corrected-psi-effect-strong.md) — related

@@ -17,7 +17,7 @@ sources:
 # Empirical Bayes shrinkage for teacher value-added estimates
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Empirical Bayes shrinkage is described as "an approach commonly used in implementing teacher accountability systems" that adjusts value-added estimates. The paper studies how it affects estimates for teachers of students with hard-to-predict achievement levels, finding it increases precision and reduces absolute estimate values without significantly changing extreme-rating probabilities.
@@ -27,6 +27,11 @@ Empirical Bayes shrinkage is described as "an approach commonly used in implemen
 - **Empirical Bayes shrinkage as implemented in teacher value-added accountability systems**: Empirical Bayes shrinkage is described as "an approach commonly used in implementing teacher accountability systems" that adjusts value-added estimates. The paper studies how it affects estimates for teachers of students with hard-to-predict achievement levels, finding it increases precision and reduces absolute estimate values without significantly changing extreme-rating probabilities. (Herrmann et al. (2013))
 
 ### Claims
+
+- [Stabilization makes larger adjustments to scores from smaller student groups and to more extreme scores, as expected](../claims/stabilization-adjusts-small-extreme-scores-most.md) [+W]
+- [Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students](../claims/shrinkage-increases-precision-reduces-absolute-va.md) [+W]
+- [Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students](../claims/hard-to-predict-students-less-precise-teacher-va-estimates.md) [~W]
+- [Shrinkage has no statistically significant effect on the relative probability that teachers of hard-to-predict students receive extreme value-added ratings](../claims/shrinkage-no-significant-effect-extreme-ratings.md) [~W]
 
 ## Related Research Methods
 -

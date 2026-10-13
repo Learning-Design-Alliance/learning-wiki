@@ -47,3 +47,4 @@ Moderator analysis of outcome constructs and test formats (Table 6): retention o
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](segmentation-moderates-verbal-redundancy.md) — related
 - [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — related
+- [Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a significant difference between them](practice-tests-aid-retention-and-transfer.md) — related

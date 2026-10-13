@@ -41,7 +41,7 @@ Directionality sensitivity analysis on the student sample. The reversed model 'w
 
 
 ## Related Claims
-- [The five-factor measurement representation (PNT, LOU, ACS, SRL, CT) showed unusually close fit, replicated in a held-out subsample, and the constructs did not collapse into one general tendency](five-factor-measurement-fit-and-replication.md) — related
+- The five-factor measurement representation (PNT, LOU, ACS, SRL, CT) showed unusually close fit, replicated in a held-out subsample, and the constructs did not collapse into one general tendency — related
 - [The PNT–LOU association remains positive after adjustment for guidance clarity, demographic covariates, institution exclusion, and ordinal estimation](pnt-lou-association-robustness-adjustments.md) — related
 - [Perceived teacher-referenced GenAI normative tension is positively associated with self-reported learning-oriented GenAI use among Chinese university students](pnt-lou-positive-association-chinese-universities.md) — related
 - [The reciprocal EF–ER model fits only marginally better than a forward-only model, so model preference rests on theory as much as fit](reciprocal-versus-forward-only-model-fit.md) — related

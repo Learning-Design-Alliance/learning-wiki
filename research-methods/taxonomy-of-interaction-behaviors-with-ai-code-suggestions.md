@@ -12,7 +12,7 @@ generated:
 # Taxonomy of interaction behaviors with AI code suggestions
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article synthesizes fragmented prior characterizations of AI code completion interactions into a unified taxonomy of behavioral metrics. It organizes events into suggestion generation events (generate attention check, generate suggestion, suggestion shown), acceptance events (tab accept, slow accept), rejection and revision events (accept then modify, accept then delete, ignore), execution events (run code), and derived and aggregated session metrics such as acceptance rate, failed attention check rate, and average dwell time. The taxonomy operationalizes behaviors previously observed only qualitatively, such as slow accept, backtracking, and accept-and-adapt, so they can be captured quantitatively at scale.
@@ -22,7 +22,9 @@ The article synthesizes fragmented prior characterizations of AI code completion
 - **Taxonomy of interaction behaviors with AI code suggestions**: The article synthesizes fragmented prior characterizations of AI code completion interactions into a unified taxonomy of behavioral metrics. It organizes events into suggestion generation events (generate attention check, generate suggestion, suggestion shown), acceptance events (tab accept, slow accept), rejection and revision events (accept then modify, accept then delete, ignore), execution events (run code), and derived and aggregated session metrics such as acceptance rate, failed attention check rate, and average dwell time. The taxonomy operationalizes behaviors previously observed only qualitatively, such as slow accept, backtracking, and accept-and-adapt, so they can be captured quantitatively at scale. (Jessica Hutchison et al. (2026))
 
 ### Claims
+
 - [Log analysis reveals novel post-acceptance behaviors (slow tab accept, slow accept then modify) that show suggestion acceptance is a multi-step process](../claims/novel-post-acceptance-behavioral-metrics.md) [+M]
+- [Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming](../claims/interaction-metrics-weakly-correlated-task-performance.md) [-W]
 
 ## Related Research Methods
 

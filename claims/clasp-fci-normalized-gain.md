@@ -48,3 +48,5 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 - [Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series](clasp-higher-udgpa-than-physics5.md) — related
 - [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
 - [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](active-engagement-higher-learning-gains-than-lecture.md) — a broader claim this one bears on
+- [Active learning gains are larger on concept inventories than on instructor-written course examinations](active-learning-gains-larger-concept-inventories.md) — related
+- [Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing](active-learning-raises-stem-exam-performance-047-sd.md) — related

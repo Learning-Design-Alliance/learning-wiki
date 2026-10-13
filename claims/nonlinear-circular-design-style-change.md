@@ -45,4 +45,3 @@ The author's interpretive argument, applying chaos theory "more as a metaphor th
 ## Related Claims
 
 - [Disorder plays a significant role in good design, challenging the equation of order with aesthetic quality](disorder-significant-role-good-design.md) — related
-- [Chaos theory reverses the traditional format of scientific inquiry by presenting a solution for which the researcher must find a fitting problem](chaos-reverses-scientific-inquiry-format.md)

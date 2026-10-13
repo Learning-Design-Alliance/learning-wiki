@@ -43,4 +43,4 @@ An LDA analysis of titles and abstracts from the 242 catalogued syntheses "revea
 
 
 ## Related Claims
-- [Research syntheses in 11 top LDT journals have increased steadily since the first identified publication in 2015, totaling 242 published reviews by June 2025](242-ldt-syntheses-2011-2025-steady-increase.md) — related
+- Research syntheses in 11 top LDT journals have increased steadily since the first identified publication in 2015, totaling 242 published reviews by June 2025 — related

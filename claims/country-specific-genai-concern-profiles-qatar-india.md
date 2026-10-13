@@ -58,7 +58,7 @@ Omnibus tests of country fixed effects across all three regression models, repor
 
 
 ## Related Claims
-- [Research on AI and personalized learning is geographically spread globally, with China and India the leading contributors](ai-pl-review-geographic-spread.md) — related
+- Research on AI and personalized learning is geographically spread globally, with China and India the leading contributors — related
 - [Higher AI readiness is associated with greater, not lower, concern about GenAI reducing student creativity](ai-readiness-predicts-greater-creativity-concern.md) — related
 - [AI readiness is the strongest predictor of K-12 teachers' positive beliefs about GenAI's instructional impact, with the model explaining 50% of variance](ai-readiness-strongest-predictor-positive-genai-beliefs.md) — related
 - [Predictors of positive GenAI beliefs explain only 6–7% of variance in plagiarism and creativity concerns, indicating a two-track belief structure](two-track-structure-teacher-genai-beliefs.md) — related

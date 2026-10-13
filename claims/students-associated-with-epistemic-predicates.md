@@ -43,7 +43,7 @@ Strict actor–predicate association analysis of the 366-document corpus, compar
 
 
 ## Related Claims
-- [In GenAI higher-education abstracts, AI is the most frequent named actor and dominates action predicates, while commercial providers are the least visible actor group](genai-abstracts-ai-dominant-actor-providers-invisible.md) — related
+- In GenAI higher-education abstracts, AI is the most frequent named actor and dominates action predicates, while commercial providers are the least visible actor group — related
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
 - [Obligation expressions in GenAI higher-education abstracts fall mainly on institutions and educators, with students receiving six and a third of clauses impersonal](obligation-bearers-institutions-educators-dominant.md) — related
 - [The distribution of AI-action, verification-judgment and nominalization patterns varies across tool, interlocutor, proxy and infrastructure representations of GenAI](representation-type-shifts-predicate-distribution.md) — related

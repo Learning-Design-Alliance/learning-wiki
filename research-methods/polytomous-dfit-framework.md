@@ -21,7 +21,7 @@ sources:
 # Polytomous DFIT framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The DFIT framework is an IRT-based, parametric procedure for detecting differential item and test functioning that "can be used withdichotomous, polytomous, ormultidimensional data." For polytomous data it computes expected item scores and true test scores under the graded response model for each Focal Group examinee treated as both Focal and Reference group members; DTF is the expected squared difference between the two true scores. DIF decomposes into C-DIF, which allows cancellation across items at the test level, and NC-DIF, which assumes all other items are DIF-free. The article demonstrates the framework with Samejima's graded response model in simulation.
@@ -32,11 +32,13 @@ The DFIT framework is an IRT-based, parametric procedure for detecting different
 - **Polytomous DFIT framework for differential item and test functioning**: An IRT-based parametric procedure proposed by Raju, van der Linden, and Fleer (1995) for detecting differential item functioning and differential test functioning in polytomously scored data. It computes expected item scores as weighted sums of item category response functions and sums them into true test scores; the article explains that "the difference between the dichotomous and polytomous DFIT framework is the calculation of the item true score," after which the framework is identical to the dichotomous case. It yields compensatory (CDIF) and noncompensatory (NCDIF) DIF indices, the latter assuming all other items are DIF-free. (Flowers et al. (1997))
 
 ### Claims
+
 - [The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions](../claims/polytomous-dfit-effective-dif-detection-simulation.md) [+M]
 - [C-DIF was less stable than NC-DIF across simulated conditions](../claims/polytomous-c-dif-less-stable-than-nc-dif.md) [+M]
 - [Type of DIF affected detection: nonuniform DIF items with higher a-parameters were not detected whereas lower a-parameter items were](../claims/polytomous-dfit-nonuniform-high-a-not-detected.md) [~M]
 - [The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest](../claims/polytomous-dfit-type-i-error-near-alpha.md) [+M]
 - [DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters](../claims/polytomous-dif-detection-rate-factors.md) [+M]
+- [NCDIF Type I error rates are unaffected by focal group distribution, unlike SIBTEST and Lord's chi-square](../claims/ncdif-type-i-error-robust-to-focal-distribution.md) [~W]
 
 ## Related Research Methods
 -

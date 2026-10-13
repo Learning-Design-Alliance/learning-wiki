@@ -44,7 +44,7 @@ The review's synthesis of 75 papers (2022-2025) on GenAI perceptions in Global S
 
 ## Related Claims
 - [GenAI tools are largely Global North products that have spread rapidly worldwide, including into Global South higher education](genai-global-north-origin-rapid-spread.md) — related
-- [The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes](genai-global-south-literature-gaps.md) — related
+- The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes — related
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
 - [AI-enabled service delivery improves responsiveness, personalisation, and student satisfaction in higher education, but remains uneven globally](ai-service-delivery-improves-responsiveness-satisfaction.md) — related
 - [Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education](ethical-financial-infrastructural-barriers-constrain-ai-sustainability.md) — related

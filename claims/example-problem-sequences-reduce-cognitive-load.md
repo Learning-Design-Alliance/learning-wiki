@@ -95,3 +95,4 @@ This page exists because multiple principle and index pages reference `[Example-
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a complementary load-reduction technique.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the underlying theory explaining when example-based sequencing loses its benefit.
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related

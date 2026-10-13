@@ -44,7 +44,7 @@ Career-age composition analysis across four career stages (junior, early-career,
 
 ## Related Claims
 - [AI-assisted teams have a higher probability of producing top-5%-FWCI publications than human-written teams](ai-assisted-teams-higher-top-5-fwci.md) — related
-- [Research teams using AI-assisted writing have a lower average career age than human-written teams](ai-assisted-writing-younger-teams.md) — possibly the same claim (merge candidate)
+- Research teams using AI-assisted writing have a lower average career age than human-written teams — possibly the same claim (merge candidate)
 - [The negative association between AI-assisted writing and team age is strongest among the youngest teams](ai-writing-age-effect-strongest-junior-teams.md) — related
-- [Teams using AI-assisted writing are smaller-sized, with the association stronger for Nature publications](ai-assisted-writing-smaller-teams.md) — related
+- Teams using AI-assisted writing are smaller-sized, with the association stronger for Nature publications — related
 - [AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt](ai-guilt-decreases-with-career-stage.md) — related

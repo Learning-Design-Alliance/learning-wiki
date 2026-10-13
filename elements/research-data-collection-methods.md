@@ -13,7 +13,7 @@ generated:
 # Research Data Collection Methods
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 People tend to change their behavior when they know they're being watched — the **Hawthorne effect**. Observational research can be done **naturalistically**, in the participants' natural environment where they are usually unaware they're being observed (reducing the likelihood of the Hawthorne effect), or in a **laboratory** setting, where the researcher can control confounding factors and distractions at the cost of ecological validity and the expense of maintaining the controlled setting. A naturalistic classroom observation loses control — a substitute teacher on the observation day, for instance, could change student behavior and skew the data — that a laboratory setting would avoid, but at the price of studying behavior somewhat removed from its natural context.
@@ -40,6 +40,7 @@ People tend to change their behavior when they know they're being watched — th
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](../claims/chatbot-student-attitudes-null-survey-selective.md) [-W]
+- [Observation scores and student surveys were moderately correlated with student learning and likely captured different dimensions of teaching quality](../claims/ratings-moderately-correlated-with-student-learning.md) [+M]
 
 ## Related Elements
 

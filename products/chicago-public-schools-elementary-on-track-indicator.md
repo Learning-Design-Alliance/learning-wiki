@@ -18,7 +18,7 @@ sources:
 # Chicago Public Schools Elementary On-Track indicator
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size · 9 claims rest on one study
 
 ## Description
 A Chicago Public Schools indicator system that classifies elementary students by GPA and attendance thresholds to identify academic and attendance support needs and monitor later educational outcomes, including its four-category Condensed EOT version.
@@ -28,6 +28,7 @@ A Chicago Public Schools indicator system that classifies elementary students by
 - **Condensed Elementary On-Track (Condensed EOT) indicator**: The Condensed EOT is a simplified version of CPS's five-level Elementary On-Track indicator that places students in grades 3-8 into four categories using two thresholds: "At least a 3.0 GPA" and "At least 90% attendance." The four categories are On-Track, Academic Support, Attendance Support, and Intensive Support. The report uses it to connect elementary grades and attendance to later outcomes and offers it for identifying and matching students with interventions and monitoring progress over time. (Seeskin et al. (2022))
 
 ### Claims
+
 - [Academic Support students, who attended regularly but earned below a 3.0 GPA, made up nearly 40 percent of students and saw academic struggles persist beyond the middle grades](../claims/condensed-eot-academic-support-persistent-struggles.md) [+W]
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](../claims/condensed-eot-attendance-support-below-average-graduation.md) [+W]
 - [More than one-half of Intensive Support students did not graduate high school in four years and more than 80 percent did not enroll directly in college](../claims/condensed-eot-intensive-support-low-outcomes.md) [+W]
@@ -35,6 +36,8 @@ A Chicago Public Schools indicator system that classifies elementary students by
 - [Elementary students in the On-Track category graduated high school at more than twice the rate and enrolled in college at more than four times the rate of students in the Intensive Support category](../claims/condensed-eot-ontrack-versus-intensive-support-outcomes.md) [+W]
 - [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](../claims/condensed-eot-race-gender-equity-gaps.md) [+W]
 - [Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment](../claims/cps-eot-five-category-progressive-outcomes.md) [+W]
+- [Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs](../claims/gpa-attendance-combination-best-graduation-prediction-el.md) [~W]
+- [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](../claims/middle-grades-grades-attendance-best-prediction.md) [+W]
 
 ## Related Products and Programmes
 -

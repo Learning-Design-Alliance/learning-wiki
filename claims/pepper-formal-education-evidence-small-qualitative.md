@@ -43,7 +43,7 @@ Scoping review synthesis of 13 peer-reviewed empirical studies on Pepper in form
 
 
 ## Related Claims
-- [Research settings split between formal educational environments (16 studies) and informal learning contexts (eight studies)](genai-children-formal-informal-setting-split.md) — related
+- Research settings split between formal educational environments (16 studies) and informal learning contexts (eight studies) — related
 - [Reported benefits of Pepper centre on motivation and engagement, with social-skill and academic-performance gains reported less frequently](pepper-benefits-motivation-engagement-social-skills.md) — related
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
@@ -51,5 +51,5 @@ Scoping review synthesis of 13 peer-reviewed empirical studies on Pepper in form
 - [Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures](pepper-requires-constant-teacher-supervision.md) — related
 - [Recognition of individual Pepper-produced LIS signs varies widely, with several signs significantly above chance and others not significant](pepper-lis-sign-recognition-binomial-tests.md) — related
 - [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — reports the opposite
-- [Empirical studies predominate in the corpus but mostly employ small or moderate samples (median 43.0 participants)](agentic-ai-empirical-studies-small-samples.md) — related
-- [Experimental, quasi-experimental, machine-learning, mixed-methods and survey designs dominate research assessing AI's impact on engagement and satisfaction](dominant-methods-ai-engagement-research.md) — related
+- Empirical studies predominate in the corpus but mostly employ small or moderate samples (median 43.0 participants) — related
+- Experimental, quasi-experimental, machine-learning, mixed-methods and survey designs dominate research assessing AI's impact on engagement and satisfaction — related

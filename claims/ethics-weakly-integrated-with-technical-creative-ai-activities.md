@@ -44,4 +44,4 @@ Off-diagonal co-occurrence analysis of AILEs across the 39 reviewed studies (Fig
 
 ## Related Claims
 - [Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases](critical-technical-gap-k12-ml-activities.md) — related
-- [Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes](ai-ethics-practice-based-keyword-orientation.md) — related
+- Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes — related

@@ -43,5 +43,5 @@ Prospective longitudinal study (N = 1094, ages 5.6 to 11.1) examining family fac
 
 
 ## Related Claims
-- [The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning](school-mobility-timing-versus-cumulative-design.md) — a broader claim this one bears on
+- The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning — a broader claim this one bears on
 - [A recent school move or a single move shows no evidence of relation to children's academic or social functioning](recent-single-school-move-no-functioning-link.md) — related

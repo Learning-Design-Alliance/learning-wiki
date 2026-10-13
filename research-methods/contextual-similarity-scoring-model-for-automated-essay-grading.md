@@ -12,7 +12,7 @@ generated:
 # Contextual similarity scoring model for automated essay grading
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 associational, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's scoring framework matches a student's response to an examiner-supplied model answer using semantic contextual search similarity, returning a similarity index of 0–1 that is multiplied by the item's allotted marks. Its matching phase "combines the similarity algorithm (answer matching), which are Generic Words (GW), Longest Common Subsequence (LCS), and Semantic Distance (SD)", weighted by each algorithm's strength. The model begins with tokenization or normalization of the two strings and considers all possible ways examinees could phrase responses, so it awards scores without manual training on many model answers.
@@ -22,7 +22,9 @@ The article's scoring framework matches a student's response to an examiner-supp
 - **Contextual similarity scoring model for automated essay grading**: The article's scoring framework matches a student's response to an examiner-supplied model answer using semantic contextual search similarity, returning a similarity index of 0–1 that is multiplied by the item's allotted marks. Its matching phase "combines the similarity algorithm (answer matching), which are Generic Words (GW), Longest Common Subsequence (LCS), and Semantic Distance (SD)", weighted by each algorithm's strength. The model begins with tokenization or normalization of the two strings and considers all possible ways examinees could phrase responses, so it awards scores without manual training on many model answers. (Olaoye DD et al. (2026))
 
 ### Claims
+
 - [AEEGS scores show high absolute agreement with 12 human expert raters' scores on mathematical Economics essay items (average-measures ICC = 0.863)](../claims/aeegs-high-agreement-human-raters-icc-0863.md) [+M]
+- [NLI analysis reveals reference-based grading is limited: many semantically correct responses contradict reference answers](../claims/nli-reference-based-grading-limitation.md) [-W]
 
 ## Related Research Methods
 -

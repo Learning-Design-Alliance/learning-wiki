@@ -46,5 +46,5 @@ The report's abstract states the timing of the interim impact analysis: "The imp
 - [The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary](aps-turnaround-first-year-report-scope.md) — related
 - [The PROMISE evaluation estimated program impacts on service receipt, education, employment, and related outcomes at 18 months after enrollment](promise-impact-estimates-18-months.md) — possibly the same claim (merge candidate)
 - [The PROMISE evaluation measured impacts on service receipt, education, employment, expectations, health insurance, income, self-determination, and public assistance at 18 months after enrollment](promise-impact-measured-18-months-multi-domain.md) — a narrower finding that bears on this claim
-- [Primary-outcome impacts in the PROMISE evaluation were measured at an 18-month follow-up point](promise-primary-outcomes-18-month-followup.md) — possibly the same claim (merge candidate)
+- Primary-outcome impacts in the PROMISE evaluation were measured at an 18-month follow-up point — possibly the same claim (merge candidate)
 - [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — a broader claim this one bears on

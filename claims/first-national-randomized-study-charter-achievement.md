@@ -44,7 +44,7 @@ Publisher's abstract-style description of the working paper, which reports findi
 
 ## Related Claims
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
-- [A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools.](nonexperimental-comparison-methods-tested-against-charter-rct-benchmark.md) — related
+- A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — related
 - [For students continuing from KIPP middle schools to KIPP high schools, achievement impacts are not statistically significant](kipp-high-school-continuing-students-achievement-null.md) — related
 - [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](first-rigorous-study-kipp-all-grade-levels.md) — related
 - [Both the offer of charter admission and actual attendance showed similarly negative, non-significant average achievement impacts](charter-offer-and-attendance-impacts-both-negative-nonsignificant.md) — related

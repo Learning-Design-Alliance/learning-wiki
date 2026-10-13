@@ -45,4 +45,4 @@ The review's synthesis of the 26 included VET studies reports that "Intelligent 
 ## Related Claims
 - [AI chatbots in VET show promising effects on self-regulation and task performance](ai-chatbots-vet-self-regulation-task-performance.md) — related
 - [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — related
-- [The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies](ai-vet-evidence-base-only-five-randomized-studies.md) — a broader claim this one bears on
+- The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies — a broader claim this one bears on

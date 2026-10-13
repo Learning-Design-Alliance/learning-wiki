@@ -44,5 +44,5 @@ Authors' interpretation offered in the article's conclusion, not a tested result
 
 ## Related Claims
 - [The levels and rates of studies meeting WWC evidence standards have increased over the life of the What Works Clearinghouse](wwc-studies-meeting-standards-increasing-over-time.md) — a broader claim this one bears on
-- [Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews](wwc-attrition-standard-shapes-study-design.md) — related
+- Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews — related
 - [The Cal-Learn evaluation met WWC evidence standards only with reservations because survey exclusions were based on conditions that could have been affected by the financial incentives](cal-learn-evidence-standards-reservations-attrition.md) — related

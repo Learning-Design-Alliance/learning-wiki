@@ -45,6 +45,6 @@ Robustness SEM with control variables in the same 547-student sample; the model 
 ## Related Claims
 - [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — possibly the same claim (merge candidate)
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
-- [PLS-SEM and CB-SEM estimators converge on the direction and significance of all hypothesised relationships, supporting robustness of the findings](dual-estimator-convergence-genai-model.md) — related
+- PLS-SEM and CB-SEM estimators converge on the direction and significance of all hypothesised relationships, supporting robustness of the findings — related
 - [Exploratory multi-group analyses suggest competence-related paths differ by educational level and gender, with heterogeneity concentrated downstream of intention](mg-sem-competence-paths-subgroups.md) — related
 - [Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect](demographic-differences-ai-anxiety-small-grade-effect.md) — related

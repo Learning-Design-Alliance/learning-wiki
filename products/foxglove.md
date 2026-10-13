@@ -13,7 +13,7 @@ generated:
 # FOXGLOVE
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 3 studies (2 associational, 1 design), `q2` · 0 of 3 report an effect size · 8 claims rest on one study
 
 ## Description
 FOXGLOVE is a parallel dataset of sentence-anchored, goal-labeled instructor and LLM writing feedback with urgency rankings and expert quality ratings, created from twelfth-grade argumentative essays by Yijun Liu and colleagues.
@@ -30,6 +30,7 @@ FOXGLOVE is a parallel dataset of sentence-anchored, goal-labeled instructor and
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](../claims/human-llm-agreement-gap-jaccard.md) [+W]
 - [A substantial part of the LLM rating advantage appears attributable to comment length, as length-adjusted scores converge on every dimension except tone](../claims/length-explains-llm-rating-advantage.md) [+W]
 - [Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both](../claims/similar-goal-distribution-instructor-llm-feedback.md) [+W]
+- [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](../claims/judge-calibration-labels-strong-severity-uneven.md) [~W]
 
 ## Related Products and Programmes
 

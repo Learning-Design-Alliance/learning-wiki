@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 141 claims (97 for, 29 mixed, 15 against) · 121 studies (38 associational, 30 causal, 22 review, 10 qualitative, 8 theoretical, 7 design, 6 quant-synthesis), `q1`–`q4` · 22 of 121 report an effect size · 134 claims rest on one study
+> **Evidence** · 144 claims (98 for, 31 mixed, 15 against) · 121 studies (38 associational, 30 causal, 22 review, 10 qualitative, 8 theoretical, 7 design, 6 quant-synthesis), `q1`–`q4` · 23 of 121 report an effect size · 137 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -175,6 +175,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [The review reports mixed findings on AI's motivational effects: some studies show enhancement, others nonsignificant or negative effects](../claims/ai-motivation-effects-mixed-evidence.md) [~M] — instruction changes it
 - [The Trainer is expected to improve attitudes toward peer feedback relative to rubric-only instruction](../claims/trainer-expected-improve-peer-feedback-attitudes.md) [+W] — instruction changes it
 - [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools](../claims/growth-mindset-reduces-fixed-mindset-beliefs.md) [+M] — instruction changes it
+- [Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults](../claims/developmental-stage-moderates-mindset-correlation.md) [~W] — learners who differ on it differ in outcomes
+- [Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant](../claims/mindset-achievement-heterogeneity-high.md) [~M] — learners who differ on it differ in outcomes
+- [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](../claims/growth-mindset-achievement-correlation-weak.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

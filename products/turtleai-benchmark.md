@@ -13,7 +13,7 @@ generated:
 # TURTLEAI benchmark
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A publicly released benchmark comprising Turtle Graphics programming-task datasets, code-evaluation tools, and synthetic-data generation methods, developed by Chao Wen et al. for evaluating vision-language models on educational visual programming.
@@ -22,8 +22,11 @@ A publicly released benchmark comprising Turtle Graphics programming-task datase
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Current vision-language models struggle on education-oriented Turtle Graphics tasks, with even top models far below reliable performance on real-world tasks for grades 3-6](../claims/vlms-struggle-turtleai-real-world-tasks.md) [+M]
 - [Fine-tuning VLMs on synthetic data from TURTLEAI-Datagen improves performance on TURTLEAI, raising symbolic success rates by over 10% over base counterparts](../claims/fine-tuning-synthetic-data-improves-turtleai.md) [+M]
+- [Fine-tuning primarily improves alignment between code generation and visual reasoning rather than visual understanding or spatial reasoning](../claims/fine-tuning-improves-code-reasoning-alignment.md) [~W]
+- [All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks](../claims/vlms-struggle-spatial-reasoning-visual-precision.md) [~W]
 
 ## Related Products and Programmes
 

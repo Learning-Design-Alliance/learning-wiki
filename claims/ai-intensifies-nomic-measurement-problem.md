@@ -43,6 +43,6 @@ Conceptual analysis in Phase 2 (instrumentation and measurement), applying Chang
 
 
 ## Related Claims
-- [Implementing AI methodologies introduces a new layer of epistemic dependence and diffused accountability in science education research](ai-epistemic-dependence-diffuse-accountability.md) — related
+- Implementing AI methodologies introduces a new layer of epistemic dependence and diffused accountability in science education research — related
 - [BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima](bkt-bf-cost-identifiability-em-local-minima.md) — related
 - [All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts](classifiers-beat-zero-rule-baseline-engagement.md) — related

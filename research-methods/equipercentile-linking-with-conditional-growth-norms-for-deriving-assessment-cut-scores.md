@@ -17,7 +17,7 @@ sources:
 # Equipercentile linking with conditional growth norms for deriving assessment cut scores
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's methodology combines the equipercentile linking method with NWEA's conditional growth norms. The equipercentile procedure "matches scores on the two scales that have the same percentile rank" to find the RIT equivalent of each state cut score, with polynomial loglinear pre-smoothing applied. Fall and winter cuts are then projected using expected growth gains, and Grade 2 cuts are interpolated from longitudinal Grade 3 cohort data. This framework underlies all state linking studies described.
@@ -27,8 +27,10 @@ The article's methodology combines the equipercentile linking method with NWEA's
 - **Equipercentile linking with conditional growth norms as the methodology for deriving MAP Growth cut scores**: The article's methodology combines the equipercentile linking method with NWEA's conditional growth norms. The equipercentile procedure "matches scores on the two scales that have the same percentile rank" to find the RIT equivalent of each state cut score, with polynomial loglinear pre-smoothing applied. Fall and winter cuts are then projected using expected growth gains, and Grade 2 cuts are interpolated from longitudinal Grade 3 cohort data. This framework underlies all state linking studies described. (Ann Hu (2021))
 
 ### Claims
+
 - [MAP Growth RIT scores correlate strongly (r = 0.92–0.93) with state summative mathematics scores in the Minnesota MCA-III linking study](../claims/map-growth-rit-strongly-correlates-state-summative-mca-iii.md) [+M]
 - [MAP Growth spring RIT cut scores classify students as proficient or not proficient on the MCA-III Mathematics test with 0.87–0.90 overall accuracy](../claims/map-growth-cut-scores-classification-accuracy-mca-iii.md) [+M]
+- [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](../claims/linear-regression-selected-linking-model.md) [-W]
 
 ## Related Research Methods
 -

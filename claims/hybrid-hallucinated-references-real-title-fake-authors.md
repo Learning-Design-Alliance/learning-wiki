@@ -43,9 +43,9 @@ Discussion-section analysis of the 30 verified hallucinated references. The arti
 
 
 ## Related Claims
-- [Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues](30-hallucinated-references-14-papers-csed.md) — a broader claim this one bears on
-- [Among 828 manually coded matched references, the most common issue was ACM metadata mismatch (229 cases), followed by author-field errors (225 cases)](acm-metadata-mismatch-most-common-error.md) — related
-- [Publication volume and reference-list lengths in ACM computing education venues have grown over time, particularly since the mid-1990s](csed-publication-and-reference-growth.md) — related
+- Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues — a broader claim this one bears on
+- Among 828 manually coded matched references, the most common issue was ACM metadata mismatch (229 cases), followed by author-field errors (225 cases) — related
+- Publication volume and reference-list lengths in ACM computing education venues have grown over time, particularly since the mid-1990s — related
 - [Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers](sigcse-ts-hallucinations-increased-2025-2026.md) — related
 - [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related

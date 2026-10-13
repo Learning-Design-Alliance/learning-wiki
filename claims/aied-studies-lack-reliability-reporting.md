@@ -43,4 +43,4 @@ The article reports, citing a meta-systematic review of AI in higher education, 
 
 
 ## Related Claims
-- [The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88)](ai-math-review-42-studies-evidence-base.md) — related
+- The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88) — related

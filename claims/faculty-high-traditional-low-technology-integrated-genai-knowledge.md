@@ -44,4 +44,4 @@ Cross-sectional survey of 127 faculty at a large Southern U.S. public research u
 - [Content knowledge is not significantly associated with self-perceived knowledge in any technology-integrated GenAI domain](content-knowledge-not-associated-genai-integration.md) — related
 - [Technological knowledge of GenAI is strongly associated with self-perceived knowledge in technology-integrated domains](tk-strongly-associated-technology-integrated-domains.md) — related
 - [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type](no-age-or-career-type-differences-tpack-genai.md) — related
-- [The three technology-integrated TPACK domains intercorrelate so strongly (r = .81–.91) that they may function as a single factor in this faculty population](technology-integrated-domains-single-factor-discriminant-validity.md) — related
+- The three technology-integrated TPACK domains intercorrelate so strongly (r = .81–.91) that they may function as a single factor in this faculty population — related

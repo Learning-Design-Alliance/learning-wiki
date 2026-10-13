@@ -12,7 +12,7 @@ generated:
 # Baseline covariate adjustment in education randomized trials
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (2 theoretical, 1 associational), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper recommends that studies using student achievement outcomes generally aim to collect and use baseline data, because analyses using more than one wave of data typically have much greater statistical power than posttest-only analyses. Using prior state test results as baseline covariates can substantially reduce overall study costs, since the power improvement allows the sample size to be greatly reduced while maintaining the target power level. Baseline data also help establish treatment-control equivalence and assess potential nonresponse bias.
@@ -23,9 +23,11 @@ The paper recommends that studies using student achievement outcomes generally a
 - **In education RCTs, prefer impact estimators that include late pretests over those that exclude them, provided early-year impact growth is not very rapid**: Design principle for RCT analysis: when pretests can only be collected after random assignment, analysts should generally use estimators that include the late pretest data rather than dropping them or substituting other baseline scores, because the precision gains typically outweigh the bias risk. The paper grounds this in a "loss function approach grounded in the causal inference literature" and conditions it on impact growth rates. (Peter Z. Schochet (2008))
 
 ### Claims
+
 - [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](../claims/unreliability-reduces-rct-statistical-power.md) [+M]
 - [In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data](../claims/late-pretest-estimators-typically-preferred.md) [+M]
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](../claims/late-pretest-preference-conditional-on-slow-early-impact-growth.md) [~M]
+- [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](../claims/pretest-posttest-correlations-vary-by-achievement-level.md) [~W]
 
 ## Related Research Methods
 -

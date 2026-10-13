@@ -13,7 +13,7 @@ generated:
 # Generative AI Literacy Assessment Test (GLAT)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 2 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (1 causal, 1 quant-synthesis, 1 associational, 1 design), `q2`–`q3` · 2 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 A 20-item multiple-choice performance assessment developed by Jin et al. to measure demonstrated generative AI knowledge, application, evaluation and creation skills, and ethical understanding among learners.
@@ -26,9 +26,12 @@ A 20-item multiple-choice performance assessment developed by Jin et al. to meas
 - **Four-dimension GenAI literacy blueprint: Know & Understand, Use & Apply, Evaluate & Create, Ethics**: The GLAT blueprint operationalises GenAI literacy using the four AI literacy dimensions proposed by Ng et al. (2021b), specialised to generative AI: "1) Know & Understand, 2) Use & Apply, 3) Evaluate & Create, and 4) Ethics". Two researchers independently reviewed 19 source documents, consolidated a refined set of 25 GenAI concepts across these dimensions (e.g., foundation models, RAG, hallucination cross-checking, model biases, privacy), and a panel of three GenAI researchers validated coverage. Items were then aligned to these concepts. (Yueqiao Jin et al. (2024))
 
 ### Claims
+
 - [AI literacy shows a small positive association with ethical scenario classification accuracy](../claims/ai-literacy-small-positive-association-ethical-judgment.md) [+M]
 - [Each additional correct GLAT response is associated with a 13.9% increase in modeled odds of correctly classifying a scenario](../claims/glat-predicts-scenario-accuracy-binomial-model.md) [+M]
 - [GenAI literacy predicted immediate independent writing performance after AI removal for Visual Data Integration, Critical Thinking, and overall Composite Score](../claims/genai-literacy-predicts-independent-writing-performance.md) [+M]
+- [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](../claims/glat-2pl-structural-validity-reliability.md) [+W]
+- [Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)](../claims/subjective-objective-ai-literacy-low-correlation.md) [~W]
 
 ## Related Products and Programmes
 

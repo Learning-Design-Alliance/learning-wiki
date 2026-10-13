@@ -18,7 +18,7 @@ sources:
 # Summative Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Summative assessment is the element in which a learner's performance is judged at the end of a unit, course, or other instructional sequence. It is useful when the task is to make a cumulative judgment rather than guide the next immediate revision.
@@ -43,7 +43,7 @@ Summative assessment is the element in which a learner's performance is judged a
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [An earlier YOLO-5-based handwriting recognition method reached only 88.28% accuracy on examination table fields, which the authors judge insufficient for summative assessment](../claims/yolo5-handwriting-recognition-88-percent-insufficient.md) [~W]
 
 ## Related Elements
 - [Final Exam](final-exam.md)

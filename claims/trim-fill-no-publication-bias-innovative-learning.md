@@ -65,8 +65,8 @@ Comparison of forest plots before and after applying the trim and fill model (Fi
 - [Innovative learning is more effective than conventional learning for junior high school students' mathematical problem-solving ability (summary effect 0.95, 95% CI 0.71–1.19)](innovative-learning-more-effective-problem-solving-meta-analysis.md) — related
 - [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related
 - [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](heterogeneity-random-effects-model-problem-solving-meta-analysis.md) — related
-- [Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings](failsafe-n-publication-bias-not-a-threat.md) — related
+- Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
-- [The predominance of positive findings across small, uncontrolled studies suggests a high likelihood of unpublished null or negative results](ai-simulation-publication-bias-concern.md) — related
-- [Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test](publication-bias-minimal-influence-meta-analysis.md) — related
+- The predominance of positive findings across small, uncontrolled studies suggests a high likelihood of unpublished null or negative results — related
+- Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test — related

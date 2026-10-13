@@ -55,5 +55,5 @@ Both findings come from one source, Walker & Leary's (2023) re-analysis of the L
 ## Related Claims
 
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
-- [Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data](rve-study-of-origin-no-impact.md) — related
+- Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data — related
 - [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91](massive-range-pbl-outcome-effect-sizes.md) — related

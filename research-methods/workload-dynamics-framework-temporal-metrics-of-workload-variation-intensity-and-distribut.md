@@ -17,7 +17,7 @@ sources:
 # Workload dynamics framework: temporal metrics of workload variation, intensity, and distribution over a term
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 associational, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article proposes analyzing workload beyond static or average time-on-task by quantifying its temporal patterns. "By workload dynamics, we refer to the temporal patterns and fluctuations in workload over a specific period of time, such as the academic term." The framework comprises dispersion measures (range, SD, CV), time-on-task slopes between consecutive weeks, and a peak analysis classifying high-intensity weeks as Type 1 (25% above course average), Type 2 (50%), and Type 3 (100%). These metrics are computed from weekly timesheet survey and LMS trace data and correlated with perceived difficulty and learning attainment to inform course design.
@@ -27,9 +27,11 @@ The article proposes analyzing workload beyond static or average time-on-task by
 - **Workload dynamics framework: temporal metrics of workload variation, intensity, and distribution over a term**: The article proposes analyzing workload beyond static or average time-on-task by quantifying its temporal patterns. "By workload dynamics, we refer to the temporal patterns and fluctuations in workload over a specific period of time, such as the academic term." The framework comprises dispersion measures (range, SD, CV), time-on-task slopes between consecutive weeks, and a peak analysis classifying high-intensity weeks as Type 1 (25% above course average), Type 2 (50%), and Type 3 (100%). These metrics are computed from weekly timesheet survey and LMS trace data and correlated with perceived difficulty and learning attainment to inform course design. (Paul V. Sargent et al. (2026))
 
 ### Claims
+
 - [Workload peaks and slope variability correlate with perceived learning attainment, with LMS dynamics showing no significant correlations](../claims/workload-peaks-correlate-learning-attainment.md) [+M]
 - [Workload variability and slope metrics correlate strongly with perceived course difficulty](../claims/workload-dynamics-correlate-perceived-difficulty.md) [+M]
 - [Courses with higher average time-on-task exhibit greater variability in their weekly workload evolution](../claims/higher-workload-courses-more-variable.md) [+M]
+- [Synthetic cohorts place week-to-week change in the term's examination weeks, which real cohorts do not](../claims/synthetic-cohorts-misplace-examination-week-structure.md) [~W]
 
 ## Related Research Methods
 -

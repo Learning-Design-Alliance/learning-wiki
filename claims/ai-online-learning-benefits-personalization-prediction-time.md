@@ -63,7 +63,7 @@ The review reports, citing González-Rico & Lluch Sintes (2024), that students u
 
 ## Related Claims
 - [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](bertopic-aiol-major-research-themes.md) — related
-- [AIOL research shows increasing emphasis on multimodal data integration for emotion recognition and personalized learning support](aiol-increasing-multimodal-emotion-personalization.md) — related
+- AIOL research shows increasing emphasis on multimodal data integration for emotion recognition and personalized learning support — related
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — a broader claim this one bears on
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs](ai-personalized-learning-reported-benefits.md) — a narrower finding that bears on this claim

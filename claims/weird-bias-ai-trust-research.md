@@ -43,11 +43,12 @@ Across the 33-study corpus, population sizes ranged from n = 10 to n = 1,511 (me
 
 
 ## Related Claims
-- [Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied](nine-design-factors-trust-ai-systems.md) — related
-- [Self-report remains the dominant trust measurement method in post-2023 AI trust research, used as the sole measure in 72.73% of studies](self-report-dominant-trust-measurement.md) — related
+- Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — related
+- Self-report remains the dominant trust measurement method in post-2023 AI trust research, used as the sole measure in 72.73% of studies — related
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related
 - [AI-based proctoring systems trained on western behavioural norms may exacerbate cultural and social challenges in non-English-speaking regions](ai-proctoring-western-norms-cultural-bias.md) — related
 - [Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity](collider-bias-sample-truncation-at-risk.md) — related
 - [Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback](student-trust-in-automated-feedback-null-apprehension.md) — related
 - [English dominates CA interaction languages: 17 of 23 prototypes relied exclusively on English even though only seven studies originated from English-speaking countries](english-dominance-ca-programming-prototypes.md) — a narrower finding that bears on this claim
 - [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — related
+- [The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants](interleaving-literature-lab-undergraduate-dominance.md) — related

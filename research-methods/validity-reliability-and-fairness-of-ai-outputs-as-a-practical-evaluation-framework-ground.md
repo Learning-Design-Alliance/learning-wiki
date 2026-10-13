@@ -17,7 +17,7 @@ sources:
 # Validity, reliability, and fairness of AI outputs as a practical evaluation framework grounded in educational measurement
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 4 studies (2 theoretical, 1 qualitative, 1 design), `q1`–`q2` · 0 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 15 claims (10 for, 5 mixed) · 10 studies (3 theoretical, 2 review, 2 associational, 2 design, 1 qualitative), `q1`–`q2` · 0 of 10 report an effect size · 15 claims rest on one study
 
 ## Description
 The article proposes a practical framework for evaluating AI-generated outputs in edtech, grounded in educational measurement concepts. Validity asks whether the AI output accurately does what it is designed to do, including face validity and consequential validity; reliability asks whether the AI produces consistent results across repeated uses; fairness asks whether outputs are equally valid across relevant student subgroups. The authors state that "Standards established for educational measurement can serve as a practical framework for AI model evaluation."
@@ -28,6 +28,7 @@ The article proposes a practical framework for evaluating AI-generated outputs i
 - **Argument-based validity and generalizability framing of AI-assigned scores as fallible observations with selective deferral**: The article grounds AI-assisted grading in test theory and generalizability theory, treating AI-assigned points as "fallible observations with multiple error sources (items, raters/runs, tasks)" that can be estimated and, where appropriate, reduced through aggregation or design. For score interpretation it adopts Kane's argument-based validity perspective, requiring that claims about score meaning be supported by explicit warrants and evidence. The human-in-the-loop setup follows selective-prediction/deferral frameworks, in which the model grades confidently when reliable and defers uncertain cases to humans. (Jan Cvengros et al. (2026))
 
 ### Claims
+
 - [Fairness of AI outputs remains under-evaluated in edtech research](../claims/ai-output-fairness-under-evaluated-edtech.md) [+W]
 - [Human expert review is the most credible but slowest and most resource-intensive evaluation method](../claims/human-expert-review-most-credible-slowest.md) [+W]
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](../claims/llm-as-judge-human-level-agreement-with-validation.md) [+W]
@@ -36,6 +37,13 @@ The article proposes a practical framework for evaluating AI-generated outputs i
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](../claims/ai-evaluating-ai-outputs-challenging.md) [~W]
 - [Organizing performance measures into outcomes, impacts, and processes provides rich, fair, and diagnostically useful information](../claims/grouping-outcomes-impacts-processes-yields-diagnostically-useful-information.md) [+W]
 - [AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)](../claims/ai-grading-run-to-run-reliability-icc.md) [+M]
+- [A 200-student pilot showed strong content validity across relevance, comprehensiveness, comprehensibility, and face validity](../claims/glat-content-validity-pilot.md) [~W]
+- [Benchmark success on human-designed assessments may not establish that the underlying abilities are being measured](../claims/benchmark-scores-may-not-transfer-construct-interpretation.md) [~W]
+- [AI-assigned total scores on a handwritten chemistry exam align strongly with TA-assigned totals (R2 = 0.91), while per-problem agreement is lower (R2 = 0.61–0.85)](../claims/ai-total-scores-align-with-ta-grades-chemistry-exam.md) [~W]
+- [High agreement between two LLM screeners indicates consistency among outputs, not accuracy, because models may exhibit correlated failure patterns](../claims/llm-agreement-is-consistency-not-accuracy.md) [~W]
+- [AI-generated 10-question exams provided higher maximum test information and reliability (Imax = 3.85, R = 0.79) than the standardized exams (Imax = 2.61, R = 0.72)](../claims/ai-exams-higher-test-information.md) [+W]
+- [AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation](../claims/ai-detectors-misscore-human-written-text.md) [+W]
+- [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](../claims/llm-accuracy-hallucination-coaching-risk.md) [+W]
 
 ## Related Research Methods
 -

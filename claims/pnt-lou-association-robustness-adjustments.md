@@ -58,7 +58,7 @@ Leave-one-institution-out sensitivity analyses on the student sample. The articl
 
 
 ## Related Claims
-- [The five-factor measurement representation (PNT, LOU, ACS, SRL, CT) showed unusually close fit, replicated in a held-out subsample, and the constructs did not collapse into one general tendency](five-factor-measurement-fit-and-replication.md) — related
+- The five-factor measurement representation (PNT, LOU, ACS, SRL, CT) showed unusually close fit, replicated in a held-out subsample, and the constructs did not collapse into one general tendency — related
 - [Perceived teacher-referenced GenAI normative tension is positively associated with self-reported learning-oriented GenAI use among Chinese university students](pnt-lou-positive-association-chinese-universities.md) — related
 - [Temporal direction between PNT and LOU could not be identified: the reversed specification was observationally equivalent](pnt-lou-temporal-direction-not-identified.md) — related
 - [Intention to use consolidated LLM reports is associated with motivation and personalisation](intention-to-use-associated-motivation-personalisation.md) — related

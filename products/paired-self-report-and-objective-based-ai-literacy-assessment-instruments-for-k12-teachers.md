@@ -13,7 +13,7 @@ generated:
 # Paired self-report and objective-based AI literacy assessment instruments for K–12 teachers
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q2` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (3 associational, 1 quant-synthesis), `q2` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 A psychometrically validated scenario-based multiple-choice test and Likert self-report scale developed to measure K–12 teachers' AI literacy across knowledge, application, evaluation and creation, and ethics.
@@ -22,9 +22,11 @@ A psychometrically validated scenario-based multiple-choice test and Likert self
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality](../claims/ob-ai-literacy-assessment-psychometrically-stable.md) [+M]
 - [The self-report measure supports a refined 13-item, four-factor model with good fit](../claims/sr-measure-four-factor-cfa.md) [+M]
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](../claims/weak-sr-ob-correlation-ai-literacy.md) [+M]
+- [Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)](../claims/subjective-objective-ai-literacy-low-correlation.md) [~W]
 
 ## Related Products and Programmes
 -

@@ -44,4 +44,4 @@ Descriptive prevalences from the review's map of 421 studies, coded on the D1–
 
 ## Related Claims
 - [Among 421 SET-NLP studies, 61.3% demonstrate output or stronger (A2+) but only 11.6% evaluate outputs with intended users or stronger (A3+), a 49.7 percentage-point drop](set-nlp-actionability-discontinuity-a2-a3.md) — related
-- [SET-NLP shows expansion of the methodological repertoire without simple replacement of earlier approaches by newer ones](set-nlp-expansion-without-technological-substitution.md) — related
+- SET-NLP shows expansion of the methodological repertoire without simple replacement of earlier approaches by newer ones — related

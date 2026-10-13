@@ -52,6 +52,6 @@ The report's research summary section describes its literature search reflecting
 - [The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations](reading-plus-evidence-extent-small-one-study.md) — related
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related
 - [The number and proportion of studies excluded due to ineligible design are decreasing over time](wwc-design-exclusions-decreasing-over-time.md) — related
-- [The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations](algebra-guide-evidence-base-15-wwc-studies.md) — related
+- The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations — related
 - [The evidence base for ASAP rests on two randomized controlled trials meeting WWC standards without reservations, out of eight identified studies](asap-evidence-base-two-rcts.md) — related
 - [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related

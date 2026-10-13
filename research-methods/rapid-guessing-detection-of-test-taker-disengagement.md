@@ -17,7 +17,7 @@ sources:
 # Rapid-guessing detection of test taker disengagement
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The page's featured item concerns "rapid guessing" used "to detect test taker disengagement", with an emphasis on validation and applications. Rapid guessing refers to noneffortful, too-fast item responses whose detection flags disengaged test taking; the surrounding publications on the page treat disengagement as a threat to the validity of score interpretations in interim, summative, and international assessments. The element is positioned within NWEA's research program on measurement and scaling and school and test engagement.
@@ -27,8 +27,10 @@ The page's featured item concerns "rapid guessing" used "to detect test taker di
 - **Rapid guessing as an indicator for detecting test taker disengagement**: The page's featured item concerns "rapid guessing" used "to detect test taker disengagement", with an emphasis on validation and applications. Rapid guessing refers to noneffortful, too-fast item responses whose detection flags disengaged test taking; the surrounding publications on the page treat disengagement as a threat to the validity of score interpretations in interim, summative, and international assessments. The element is positioned within NWEA's research program on measurement and scaling and school and test engagement. (Wise (2020))
 
 ### Claims
+
 - [Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools](../claims/threshold-methods-compared-large-scale-reading-data.md) [+W]
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](../claims/partial-engagement-method-effort-moderated-scores-caution.md) [+W]
+- [Rapid guessing is a validated indicator of disengaged item responding](../claims/rapid-guessing-validated-disengagement-indicator.md) [+W]
 
 ## Related Research Methods
 -

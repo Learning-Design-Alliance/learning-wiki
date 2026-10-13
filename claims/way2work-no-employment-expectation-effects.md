@@ -51,7 +51,7 @@ RCT analysis of employment and expectation outcomes at the 24-month follow-up, b
 - [Participants reported satisfaction with selected Way2Work Maryland service components](way2work-participant-satisfaction-service-components.md) — related
 - [Service use differed across local school systems in Way2Work Maryland](way2work-service-use-differences-across-school-systems.md) — related
 - [Most Way2Work Maryland participants (92 percent) had at least one work experience, 74 percent had at least two with one paid, and 44 percent had at least three with one paid](way2work-maryland-most-participants-multiple-work-experiences.md) — related
-- [Primary-outcome impacts in the PROMISE evaluation were measured at an 18-month follow-up point](promise-primary-outcomes-18-month-followup.md) — related
+- Primary-outcome impacts in the PROMISE evaluation were measured at an 18-month follow-up point — related
 - [Community-based work programs for transition-age students with disabilities show mixed effects on employment outcomes](community-based-work-programs-mixed-employment-effects.md) — a broader claim this one bears on
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [LLC did not affect employment for all participants within the first 24 months of enrollment](llc-no-employment-impact-all-participants-24-months.md) — related

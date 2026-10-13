@@ -18,7 +18,7 @@ sources:
 # Evaluating the Relationships Between Poverty and School Performance interactive data visualization gallery
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (8 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 9 claims rest on one study
 
 ## Description
 An interactive data-visualization gallery released and operated by NWEA Research to let users explore relationships between school poverty, achievement, and growth in the report's sample.
@@ -27,6 +27,7 @@ An interactive data-visualization gallery released and operated by NWEA Research
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](../claims/achievement-weighting-clouds-learning-high-poverty.md) [+W]
 - [Growth measures offer a clearer, more accurate picture of learning than achievement data, while achievement data remains critical for tracking student progress](../claims/growth-measures-clearer-picture-of-learning.md) [+W]
 - [School poverty is only weakly associated with median student growth in a school](../claims/frl-weakly-associated-with-school-growth.md) [+W]
@@ -35,6 +36,7 @@ An interactive data-visualization gallery released and operated by NWEA Research
 - [Lowest-income schools show more variable growth than highest-income schools, with more schools both below the 50th and above the 82nd growth percentile](../claims/lowest-income-schools-more-variable-growth.md) [+W]
 - [About 46% of the lowest 5% achieving schools show the same growth as the highest 5% achieving schools](../claims/46-percent-low-achieving-schools-same-growth-as-top.md) [+W]
 - [Growth of schools selected by fall achievement differs by subject: bottom 5% math schools tended to grow worse, while reading showed similar average growth](../claims/fall-achievement-selection-growth-subject-differences.md) [+W]
+- [School median student growth percentiles correlate with student disadvantage](../claims/school-mgp-correlates-student-disadvantage.md) [~W]
 
 ## Related Products and Programmes
 -

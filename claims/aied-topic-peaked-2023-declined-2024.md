@@ -46,23 +46,23 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
 - [Teen ChatGPT use doubled between 2023 and 2024 while 75% of global knowledge workers use generative AI](teen-chatgpt-use-doubled-2023-2024.md) — related
 - [Algorithmic curation on Twitter may amplify optimistic, technically sophisticated AI-in-education narratives while underrepresenting practical implementation concerns and non-technical stakeholders](algorithmic-curation-shapes-aied-discourse-visibility.md) — related
-- [Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications](healthcare-dominates-citation-impact-education-conceptual.md) — related
+- Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications — related
 - [Negative sentiment peaks were tied to specific events: AI governance failures in 2019 and 2021 and diffuse academic-integrity anxiety after ChatGPT in 2023](negative-peaks-tied-to-governance-failures-and-integrity-anxiety.md) — related
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
 - [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](bertopic-aiol-major-research-themes.md) — related
-- [Research output on AI and sustainability grew rapidly after 2015, peaking in 2021](ai-sustainability-publications-grew-after-2015.md) — related
-- [Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025](three-themes-ethical-responsible-energy-efficient-ai.md) — related
-- [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
-- [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related
+- Research output on AI and sustainability grew rapidly after 2015, peaking in 2021 — related
+- Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025 — related
+- Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023 — related
+- GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs — related
 - [The article argues AI Anxiety has distinct psychological impacts from Automation Anxiety, tied to AI-specific advancements](ai-anxiety-distinct-from-automation-anxiety.md) — related
-- [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — related
-- [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — related
-- [Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025](review-automation-publication-growth-4-7-monthly.md) — related
-- [Research on STEAM education for AI literacy in K-12 grew sharply from 2021 onward, peaking in 2024, and is concentrated in middle and high school contexts](steam-ai-literacy-research-growth-since-2021-secondary-concentration.md) — related
-- [Research syntheses in 11 top LDT journals have increased steadily since the first identified publication in 2015, totaling 242 published reviews by June 2025](242-ldt-syntheses-2011-2025-steady-increase.md) — related
-- [GenAI education discourse evolved through three phases: detection crisis, enforcement surge, and practical turn](genai-discourse-three-phase-evolution.md) — related
+- Research on LLM-based family education increased sharply after 2023, following ChatGPT's release — related
+- AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes — related
+- Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025 — related
+- Research on STEAM education for AI literacy in K-12 grew sharply from 2021 onward, peaking in 2024, and is concentrated in middle and high school contexts — related
+- Research syntheses in 11 top LDT journals have increased steadily since the first identified publication in 2015, totaling 242 published reviews by June 2025 — related
+- GenAI education discourse evolved through three phases: detection crisis, enforcement surge, and practical turn — related
 - [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related
-- [Health and education topics rose in prominence across the 2021–2025 AI Index Reports, while sport and exercise themes appeared only indirectly](ai-index-health-education-rise-sport-absent.md) — related
-- [AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis](aied-2024-educators-prominent-stakeholders.md) — related
-- [Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025](agentic-ai-education-rapid-expansion-since-2025.md) — related
-- [Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015](publication-growth-metacognition-stem-after-2015.md) — related
+- Health and education topics rose in prominence across the 2021–2025 AI Index Reports, while sport and exercise themes appeared only indirectly — related
+- AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis — related
+- Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025 — related
+- Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015 — related

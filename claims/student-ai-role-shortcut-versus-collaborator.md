@@ -45,5 +45,5 @@ Qualitative consensus from the January 2026 one-day student workshop with 60 par
 ## Related Claims
 - [Functions metaphors framing GenAI as an efficient tool for routine and creative tasks were the most agreed-upon in the workshops](functions-metaphors-most-agreed-genai-tools.md) — related
 - [Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions](metaphor-workshops-support-genai-sensemaking.md) — related
-- [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — related
+- AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes — related
 - [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](genai-use-concentrates-in-uncertain-design-phases.md) — related

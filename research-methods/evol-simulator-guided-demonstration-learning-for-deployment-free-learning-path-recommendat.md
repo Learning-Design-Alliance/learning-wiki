@@ -12,7 +12,7 @@ generated:
 # EVOL: simulator-guided demonstration learning for deployment-free learning path recommendation
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 EVOL adapts the robotics sim-to-real demonstration recipe to educational recommendation: a DKT-based knowledge evolution simulator (KES) both synthesizes per-learner expert paths via evolutionary search and hosts RL fine-tuning, while the deployed actor plans from the initial mastery alone. Per the article, "An asymmetric actor-critic architecture has the actor commit to blind planning from h0 in keeping the inference constraint while the critic exploits the privileged evolving mastery h𝑡 for accurate value targets during training." Training has three stages: evolutionary expert generation, behavioral cloning, and PPO fine-tuning with a warm-started privileged critic. At deployment the actor alone emits the full L-step path with no KES query.
@@ -22,8 +22,11 @@ EVOL adapts the robotics sim-to-real demonstration recipe to educational recomme
 - **EVOL: simulator-guided demonstration learning for deployment-free learning path recommendation**: EVOL adapts the robotics sim-to-real demonstration recipe to educational recommendation: a DKT-based knowledge evolution simulator (KES) both synthesizes per-learner expert paths via evolutionary search and hosts RL fine-tuning, while the deployed actor plans from the initial mastery alone. Per the article, "An asymmetric actor-critic architecture has the actor commit to blind planning from h0 in keeping the inference constraint while the critic exploits the privileged evolving mastery h𝑡 for accurate value targets during training." Training has three stages: evolutionary expert generation, behavioral cloning, and PPO fine-tuning with a warm-started privileged critic. At deployment the actor alone emits the full L-step path with no KES query. (Geonwoo Bang et al. (2026))
 
 ### Claims
+
 - [Under deployment-free inference, at least one EVOL variant achieves the best test EP in every dataset–length setting across three datasets and eight baselines](../claims/evol-best-ep-every-dataset-length-setting.md) [+M]
 - [Final LPR performance is governed by the quality of evolutionary experts rather than by the particular imitation objective](../claims/expert-quality-over-imitation-objective.md) [+M]
+- [Replacing evolutionary experts with random-path experts collapses performance, and greedy 1-step lookahead reaches only +0.155 EP on ASSIST15 L=10](../claims/random-experts-collapse-lpr-performance.md) [+W]
+- [EVOL variants remain the strongest methods when recommended paths are executed on alternative DKT simulator instances](../claims/evol-robust-to-dkt-instance-shift.md) [+M]
 
 ## Related Research Methods
 -

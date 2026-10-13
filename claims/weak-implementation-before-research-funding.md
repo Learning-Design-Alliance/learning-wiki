@@ -46,5 +46,5 @@ Expert-opinion finding from the interview and focus-group study; the article rep
 - [Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models](expert-motivations-restorative-justice-schools.md) — related
 - [Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools](no-clear-definition-or-accepted-model-of-school-rj.md) — related
 - [Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools](rj-implementation-challenges-time-funding-sustainability.md) — related
-- [Experts call for rigorous outcome-based research, readiness research, a clear RJ definition, and leader training research on RJ in schools](rj-future-research-needs-expert-recommendations.md) — related
+- Experts call for rigorous outcome-based research, readiness research, a clear RJ definition, and leader training research on RJ in schools — related
 - [Many district and school data systems do not track restorative justice efforts or outcomes for students exposed to RJ processes](school-data-systems-do-not-track-rj.md) — related

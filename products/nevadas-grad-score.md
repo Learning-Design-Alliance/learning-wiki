@@ -13,7 +13,7 @@ generated:
 # Nevada's GRAD score
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A machine-learning-generated student at-risk indicator run through Nevada's Infinite Campus system and used by the Nevada Department of Education in its school funding formula.
@@ -22,6 +22,8 @@ A machine-learning-generated student at-risk indicator run through Nevada's Infi
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [GRAD-score-based At-risk identification shows larger proportional year-to-year churn than direct certification would](../claims/grad-score-churn-exceeds-direct-certification.md) [~W]
 
 ## Related Products and Programmes
 -

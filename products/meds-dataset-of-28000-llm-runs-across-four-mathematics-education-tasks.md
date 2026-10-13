@@ -13,7 +13,7 @@ generated:
 # MEDS dataset of 28,000 LLM runs across four mathematics-education tasks
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A publicly released dataset by Esposito et al. containing 28,000 structured multimodal LLM runs across mathematics interviews, psychometric questionnaires, cognitive networks, and quiz items for studying AI mathematics reasoning and learner-related constructs.
@@ -22,6 +22,9 @@ A publicly released dataset by Esposito et al. containing 28,000 structured mult
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [LLM difficulty predictions for fraction items are less stable across repeated runs than for the overall item set](../claims/llm-fraction-predictions-run-to-run-instability.md) [~W]
+- [LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations](../claims/llm-shadows-reproduce-negative-math-semantic-bias.md) [+W]
 
 ## Related Products and Programmes
 

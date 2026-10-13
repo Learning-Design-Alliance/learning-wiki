@@ -26,7 +26,7 @@ sources:
 # Framework for Teaching
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 16 claims (10 for, 5 mixed, 1 against) · 5 studies (4 associational, 1 design), `q2` · 1 of 5 report an effect size · 16 claims rest on one study
+> **Evidence** · 17 claims (10 for, 6 mixed, 1 against) · 5 studies (4 associational, 1 design), `q2` · 1 of 5 report an effect size · 17 claims rest on one study
 
 ## Description
 The Charlotte Danielson Framework for Teaching is a framework developed by Charlotte Danielson for evaluating and supporting classroom teaching through observable components across four domains and four performance levels.
@@ -38,6 +38,7 @@ The Charlotte Danielson Framework for Teaching is a framework developed by Charl
 - **The Framework for Teaching observation rubric with 22 components in four domains**: The Framework for Teaching is a classroom-observation rubric used by principals to evaluate teaching practices. The report describes it as "a rubric that includes 22 components grouped into four broad teaching practice domains": planning and preparation, classroom environment, instruction, and professional responsibilities. It served as the observation instrument in Phase 2 of the Pennsylvania evaluation pilot. (Elias Walsh (2013))
 
 ### Claims
+
 - [Principals rated some instruction components inconsistently, rating communicating with students, using assessment in instruction, and organizing physical space lower than observers, and student engagement higher](../claims/component-level-rating-inconsistencies.md) [~W]
 - [Principals and trained external observers gave aggregate-consistent Danielson Framework ratings in matched observations](../claims/danielson-framework-aggregate-rating-consistency.md) [+W]
 - [The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)](../claims/framework-identifies-more-unsatisfactory-teachers.md) [+W]
@@ -54,6 +55,7 @@ The Charlotte Danielson Framework for Teaching is a framework developed by Charl
 - [Principals in the pilot did not typically use all 22 rubric components when observing teachers](../claims/principals-used-subsets-of-rubric-components.md) [~W]
 - [Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools](../claims/pittsburgh-principal-practice-ratings-vary-across-schools.md) [~W]
 - [Fairness of overall observation scores may not be substantially compromised by principals using different sets of rubric components](../claims/component-subset-fairness-observation-scores.md) [~W]
+- [Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient](../claims/principals-inflate-distinguished-ratings.md) [~W]
 
 ## Related Products and Programmes
 -

@@ -44,4 +44,4 @@ The authors' methodological assertion, offered without accompanying data in the 
 
 ## Related Claims
 - [Adding multiple design elements to the basic ITS structure promotes causal inference by limiting alternative interpretations, demonstrated with No Child Left Behind](adding-design-elements-to-its-promotes-causal-inference.md) — related
-- [The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments.](pretest-posttest-correlation-affects-statistical-power.md) — related
+- The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related

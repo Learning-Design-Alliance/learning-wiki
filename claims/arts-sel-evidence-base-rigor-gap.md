@@ -45,7 +45,7 @@ The report's own narrative literature review of arts education and social-emotio
 ## Related Claims
 - [Artistic and social-emotional competencies are mutually reinforcing](artistic-sel-competencies-mutually-reinforcing.md) — related
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related
-- [Empirical studies of published research judged large proportions of published educational research seriously or completely flawed](published-research-judged-seriously-flawed.md) — a broader claim this one bears on
+- Empirical studies of published research judged large proportions of published educational research seriously or completely flawed — a broader claim this one bears on
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related
 - [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
 - [Educators' efforts to support SEL are hampered by a lack of available, unbiased measures of related competencies](sel-measurement-lack-unbiased-measures.md) — related

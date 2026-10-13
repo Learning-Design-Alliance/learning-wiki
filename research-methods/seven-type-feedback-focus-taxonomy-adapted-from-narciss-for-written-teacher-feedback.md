@@ -12,7 +12,7 @@ generated:
 # Seven-type feedback focus taxonomy adapted from Narciss for written teacher feedback
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adapts and refines Narciss's content-based feedback taxonomy into seven feedback focus types for annotating written feedback: Task Constraints, Concepts, Elaboration, Clarification, Mistakes, Praise, and Other. The authors retain elaborated components that apply to writing, adapt KHP into Elaboration and KCR into Clarification, exclude simple components suited to closed-ended tasks, and add Praise and Other. They argue prior frameworks "either conflate content and function ... or categorize content only broadly," while this taxonomy treats them separately with more precise content focus types.
@@ -22,6 +22,8 @@ The article adapts and refines Narciss's content-based feedback taxonomy into se
 - **Seven-type feedback focus taxonomy adapted from Narciss for written teacher feedback**: The article adapts and refines Narciss's content-based feedback taxonomy into seven feedback focus types for annotating written feedback: Task Constraints, Concepts, Elaboration, Clarification, Mistakes, Praise, and Other. The authors retain elaborated components that apply to writing, adapt KHP into Elaboration and KCR into Clarification, exclude simple components suited to closed-ended tasks, and add Praise and Other. They argue prior frameworks "either conflate content and function ... or categorize content only broadly," while this taxonomy treats them separately with more precise content focus types. (Norah Almousa et al. (2026))
 
 ### Claims
+
+- [Gemini 2.0 Flash validated as a reliable LLM annotator of feedback focus types](../claims/gemini-flash-reliable-feedback-focus-annotator.md) [+W]
 
 ## Related Research Methods
 -

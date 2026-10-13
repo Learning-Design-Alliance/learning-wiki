@@ -47,4 +47,4 @@ Score-variation analysis of the 2012/13 pilot, characterizing the percentages of
 - [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — related
 - [School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories](ffl-practice-categories-correlated.md) — related
 - [Most school leaders received scores in the top two performance categories on FFL-measured practices](ffl-scores-concentrated-in-top-categories.md) — possibly the same claim (merge candidate)
-- [School leaders who scored higher in one FFL category tended to score higher in the other categories](ffl-scores-correlated-across-categories.md) — related
+- School leaders who scored higher in one FFL category tended to score higher in the other categories — related

@@ -44,5 +44,5 @@ Bibliometric comparison of method categories in Section 5.2, contrasting the 199
 
 ## Related Claims
 - [Modeling frameworks from Item Response Theory, Bayes Nets, and Markov Decision Processes appeared in 28% of EDM2008 and EDM2009 papers after being rare early in the field](psychometric-frameworks-28-percent-edm-papers.md) — related
-- [Only a handful of EDM articles had achieved more than 50 citations by 2009, indicating considerable scope for growth in the field's scientific influence](edm-citation-impact-limited-2009.md) — related
+- Only a handful of EDM articles had achieved more than 50 citations by 2009, indicating considerable scope for growth in the field's scientific influence — related
 - [By 2008-2009 roughly a quarter of EDM conference papers used publicly available data, via the PSLC DataShop (14%) or instrumentation of existing online courses (12%)](public-data-sources-quarter-edm-papers.md) — related

@@ -44,4 +44,4 @@ Historical-theoretical argument from the article's abstract: the authors trace t
 
 ## Related Claims
 - [Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)](ai-stem-education-three-evolutionary-stages.md) — related
-- [Terminology for personalized learning is used unevenly, with personalized learning, adaptive learning, and intelligent tutoring dominating the 2019–2025 corpus](pl-terminology-unevenly-distributed-review.md) — related
+- Terminology for personalized learning is used unevenly, with personalized learning, adaptive learning, and intelligent tutoring dominating the 2019–2025 corpus — related

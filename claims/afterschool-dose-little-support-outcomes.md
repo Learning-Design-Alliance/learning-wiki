@@ -44,6 +44,6 @@ The review's synthesis of the literature on afterschool participation amount and
 
 ## Related Claims
 - [Some afterschool participation benefits emerged when high-level participants were compared to non-participants, but not when compared to other program participants](afterschool-high-vs-nonparticipants-benefits.md) — related
-- [The relationship between afterschool participation and outcomes depends on how participation is conceptualized and measured and on the methodology used](afterschool-participation-measurement-moderates-outcomes.md) — related
+- The relationship between afterschool participation and outcomes depends on how participation is conceptualized and measured and on the methodology used — related
 - [IE participation correlated with improved Mathematics Computation NCE scores but lower Reading and Mathematics Concepts NCE scores on city-wide tests](ie-city-wide-nce-mixed-outcomes.md) — related
 - [No association between amount of teacher training coursework and classroom effectiveness](no-association-coursework-amount-effectiveness.md) — related

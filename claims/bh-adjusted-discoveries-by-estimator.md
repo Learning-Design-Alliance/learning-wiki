@@ -45,4 +45,4 @@ Count of significant p-values (Table 3) from applying the four estimators to the
 ## Related Claims
 - [Remnant-based adjustment still adds precision beyond within-sample-only machine-learning adjustment (LOOP), equivalent to roughly a 10–20% sample-size increase in about half of cases](reloop-gains-beyond-within-sample-loop.md) — related
 - [Remnant-based covariate adjustment (ReLOOP/ReLOOP+) reduces estimated sampling variance in A/B effect estimates relative to t-tests, equivalent to roughly a 20% average sample-size increase](reloop-remnant-imputation-variance-reduction-vs-ttest.md) — related
-- [OLS regression-adjusted standard errors and significance levels for average treatment effect estimators are similar to Neyman-model estimates when baseline covariates are included in experimental designs](ols-neyman-similar-standard-errors-with-covariates.md) — related
+- OLS regression-adjusted standard errors and significance levels for average treatment effect estimators are similar to Neyman-model estimates when baseline covariates are included in experimental designs — related

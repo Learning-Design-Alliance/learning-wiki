@@ -17,7 +17,7 @@ sources:
 # Adaptive Self-Referenced Testing (ASRT)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 ASRT is a proposed framework, arising from the project's finding that norm-referenced and criterion-referenced approaches lack a common structure, for measuring individual improvement in achievement during instruction. The report states "ASRT can incorporaw-,P intot tramework the notions.of inter-subtestbranching, intelr-time 4 ,f..thching, And mAstery testing." It measures growth on an individual basis, using the student's performance at an earlier point in time as the starting point for later measurement, and is designed to track an individual's growth in one achievement area as a function of time, identifying the degree and extent of learning as it occurs. It is described as designed uniq
@@ -27,8 +27,10 @@ ASRT is a proposed framework, arising from the project's finding that norm-refer
 - **Adaptive Self-Referenced Testing (ASRT): a framework for measuring individual achievement growth via computerized adaptive testing**: ASRT is a proposed framework, arising from the project's finding that norm-referenced and criterion-referenced approaches lack a common structure, for measuring individual improvement in achievement during instruction. The report states "ASRT can incorporaw-,P intot tramework the notions.of inter-subtestbranching, intelr-time 4 ,f..thching, And mAstery testing." It measures growth on an individual basis, using the student's performance at an earlier point in time as the starting point for later measurement, and is designed to track an individual's growth in one achievement area as a function of time, identifying the degree and extent of learning as it occurs. It is described as designed uniq (Weiss (1980))
 
 ### Claims
+
 - [Achievement dimensionality appears to change from pretest to end-of-course testing, questioning unidimensional ICC measurement of individual growth during instruction](../claims/achievement-dimensionality-changes-during-instruction.md) [~M]
 - [An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality](../claims/inter-subtest-branching-halves-battery-length.md) [+M]
+- [The same achievement variable is measurable up to one month after instruction, supporting ICC-based retention measurement](../claims/icc-retention-measurement-supported-one-month.md) [~W]
 
 ## Related Research Methods
 -

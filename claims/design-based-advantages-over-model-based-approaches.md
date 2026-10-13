@@ -43,4 +43,4 @@ The brief's stated aim includes explaining "in simple terms the advantages of th
 
 
 ## Related Claims
-- [Differences between design-based and model-based impact estimates are no greater than differences between the two considered model-based methods](design-model-differences-no-greater-than-model-model.md) — related
+- Differences between design-based and model-based impact estimates are no greater than differences between the two considered model-based methods — related

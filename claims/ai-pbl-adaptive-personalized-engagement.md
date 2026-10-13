@@ -47,5 +47,5 @@ Thematic synthesis of the 50 included studies in this systematic review; the rev
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — reports the opposite
 - [The review found AI was effective for improving basic problem-solving but required teacher mediation to handle more complex mathematical tasks](ai-basic-problems-teacher-mediation-complex-tasks.md) — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
-- [The review identifies scarcity of long-term impact assessment, limited empirical validation of integrity interventions, and missing equity-focused policy research as key research gaps](ai-math-research-gaps-longitudinal-equity.md) — related
+- The review identifies scarcity of long-term impact assessment, limited empirical validation of integrity interventions, and missing equity-focused policy research as key research gaps — related
 - [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — a narrower finding that bears on this claim

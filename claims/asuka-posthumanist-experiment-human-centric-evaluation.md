@@ -65,7 +65,7 @@ Analysis of Asuka's evaluation phase: she assessed the entangled negotiation by 
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Of 24 reviewed studies on AI and metacognition in STEM, 23 were human-centred and only one was explicitly posthumanist](23-of-24-ai-metacognition-studies-human-centred.md) — related
+- Of 24 reviewed studies on AI and metacognition in STEM, 23 were human-centred and only one was explicitly posthumanist — related
 - [The two students' distinct AI literacy approaches may be shaped by differing rhetorical objectives, genres, and audiences of their writing tasks](task-genre-audience-shape-ai-literacy-approaches.md) — related
 - [A case study of two multilingual undergraduates reveals a productive tension between students' experiments with posthumanist AI literacy and their entrenched humanistic assumptions](posthumanist-literacy-tension-humanistic-assumptions.md) — a broader claim this one bears on
 - [Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related

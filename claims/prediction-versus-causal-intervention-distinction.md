@@ -44,7 +44,7 @@ This is the paper's central methodological argument, made as a theoretical argum
 
 ## Related Claims
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
-- [The College Experiences Survey was conducted as part of an evaluation of factors associated with college persistence and attrition](college-experiences-survey-attrition-evaluation.md) — related
+- The College Experiences Survey was conducted as part of an evaluation of factors associated with college persistence and attrition — related
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Studies finding grades less predictive often use restricted samples or weighted or self-reported GPAs, which are less accurate](restricted-samples-explain-divergent-grade-predictions.md) — related

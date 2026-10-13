@@ -43,7 +43,7 @@ The author's literature-based argument that the CSL field, while drawing on Dewe
 
 
 ## Related Claims
-- [Active learning lacks explicit operational definitions and metrics across literatures](active-learning-lacks-operational-definitions.md) — related
+- Active learning lacks explicit operational definitions and metrics across literatures — related
 - [CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills](chat-rejects-theory-practice-divide-csl-boundary-crossing.md) — related
 - [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related
 - [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related

@@ -17,7 +17,7 @@ sources:
 # Five-step SAS-based item fit analysis procedure for MAP Growth K–2 items
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 3 studies (2 associational, 1 design), `q2` · 0 of 3 report an effect size · 9 claims rest on one study
 
 ## Description
 A psychometric quality-control procedure for validating Rasch-calibrated items after difficulty adjustment. For each sample, the report calculates "the infit, outfit, and point measure correlations" under old and new values, computes distances of fit statistics from 1.0, flags items with point measure correlations below 0.2, applies strong (infit/outfit >1.2 or <0.8) and weak (>1.5 or <0.5) flagging criteria, and plots item characteristic curves for flagged items before content and psychometric review. All analyses were conducted "using SAS 9.4."
@@ -27,12 +27,16 @@ A psychometric quality-control procedure for validating Rasch-calibrated items a
 - **Five-step SAS-based item fit analysis procedure for MAP Growth K–2 items**: A psychometric quality-control procedure for validating Rasch-calibrated items after difficulty adjustment. For each sample, the report calculates "the infit, outfit, and point measure correlations" under old and new values, computes distances of fit statistics from 1.0, flags items with point measure correlations below 0.2, applies strong (infit/outfit >1.2 or <0.8) and weak (>1.5 or <0.5) flagging criteria, and plots item characteristic curves for flagged items before content and psychometric review. All analyses were conducted "using SAS 9.4." (He (2019))
 
 ### Claims
+
 - [Mathematics items showed more variation in fit statistics than Reading items, and outfit statistics varied more than infit statistics](../claims/math-outfit-more-variable-than-reading-infit.md) [+W]
 - [Only about half of misfit items were flagged in common by the AllYr and LatestYr samples, which the authors found surprising](../claims/misfit-flagging-inconsistent-across-samples.md) [+W]
 - [New and old fit statistics are moderately correlated, with Pearson coefficients mostly between 0.50 and 0.79](../claims/new-old-fit-statistics-moderately-correlated.md) [+W]
 - [Adjusting MAP Growth K–2 item difficulties improved item fit, with old infit and outfit statistics more scattered than new ones in both samples](../claims/rit-adjustment-improves-k2-item-fit.md) [+W]
 - [Adjusting MAP Growth K–2 item difficulties in the 2020 scale alignment study improved item fit, with the largest gains in outfit statistics for difficult Mathematics items](../claims/map-k2-2020-difficulty-adjustment-improved-item-fit.md) [+W]
 - [New and old fit statistics are highly correlated after difficulty adjustment, with outfit correlations near 0.99 for Mathematics and infit correlations around 0.7 for Mathematics and mid-to-high 0.8–0.9 for Reading](../claims/map-k2-new-old-fit-statistic-correlations.md) [+W]
+- [Item fit findings were the same regardless of whether the AllYr or LatestYr response sample was used](../claims/map-k2-fit-findings-sample-invariant.md) [+W]
+- [Point measure correlations were unchanged by the difficulty adjustment because the new person ability estimates are linear transformations of the old ones](../claims/map-k2-point-measure-correlations-unchanged.md) [~W]
+- [Flagged items showed no clear pattern by original difficulty, spreading across the entire scale like unflagged items](../claims/flagged-items-no-difficulty-pattern.md) [+W]
 
 ## Related Research Methods
 -

@@ -53,4 +53,4 @@ Authors' interpretation of the randomized experiment's results: the positive mat
 - [An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement](clark-2015-elementary-tfa-indeterminate.md) — a narrower finding that bears on this claim
 - [Secondary math students taught by Teaching Fellows teachers had test scores similar to peers taught by traditional-route teachers](teaching-fellows-secondary-math-similar-traditional.md) — related
 - [Secondary math students taught by Teach For America teachers outperformed peers taught by traditional-route teachers by 0.06 standard deviations](tfa-secondary-math-outperforms-traditional-006-sd.md) — a narrower finding that bears on this claim
-- [Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence](within-school-random-assignment-feasible-but-challenging.md) — related
+- Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence — related

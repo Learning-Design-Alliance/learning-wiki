@@ -22,7 +22,7 @@ sources:
 # Framework for Leadership
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (2 for, 1 mixed, 3 against) · 3 studies (2 associational, 1 design), `q2` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (4 for, 1 mixed, 4 against) · 5 studies (4 associational, 1 design), `q2`–`q3` · 0 of 5 report an effect size · 9 claims rest on one study
 
 ## Description
 Pennsylvania's tool for evaluating the effectiveness of school principals and assistant principals, developed and administered by the Pennsylvania Department of Education.
@@ -33,12 +33,16 @@ Pennsylvania's tool for evaluating the effectiveness of school principals and as
 - **Framework for Leadership (FFL), Pennsylvania's tool for evaluating principals' and assistant principals' leadership practices**: The Framework for Leadership (FFL) is Pennsylvania's tool for evaluating the leadership practices of principals and assistant principals. It measures leadership practices across "four categories of leadership practices," each rated on a scale of "four possible performance levels." The report evaluated three psychometric properties: internal consistency via Cronbach's alpha, score variation across the rating scale, and concurrent validity via regression against estimated contributions to student achievement growth. (Bing-ru Teh et al. (2014))
 
 ### Claims
+
 - [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](../claims/ffl-pilot-psychometric-analysis.md) [~W]
 - [The full FFL showed good internal consistency for both principals and assistant principals in the 2012/13 pilot](../claims/ffl-full-scale-good-internal-consistency.md) [+W]
 - [School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories](../claims/ffl-practice-categories-correlated.md) [+W]
 - [Most FFL scores for specific leadership practices fell in the top two of four performance levels, indicating limited score variation](../claims/ffl-scores-cluster-top-performance-levels.md) [-W]
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](../claims/ffl-scores-not-associated-achievement-growth.md) [-W]
 - [Most school leaders received scores in the top two performance categories on FFL-measured practices](../claims/ffl-scores-concentrated-in-top-categories.md) [-W]
+- [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](../claims/more-evidence-needed-ffl-validity.md) [-W]
+- [The strongest FFL validity relationships are in the systems leadership and professional and community leadership domains](../claims/ffl-systems-and-community-leadership-domains-strongest.md) [+W]
+- [The study assessed rating stability for 2,424 principals and predictive validity for 123 principals using Pennsylvania statewide data](../claims/principal-measure-stability-2424-predictive-123-principals.md) [+W]
 
 ## Related Products and Programmes
 -

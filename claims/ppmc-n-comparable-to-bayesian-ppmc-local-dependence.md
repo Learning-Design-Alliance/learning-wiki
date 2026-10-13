@@ -43,6 +43,6 @@ The article's simulation study compared the proposed PPMC-N method against the B
 
 
 ## Related Claims
-- [Bayesian PPMC methods are increasingly used to investigate multidimensionality in IRT models](ppmc-increasingly-used-for-irt-multidimensionality.md) — related
+- Bayesian PPMC methods are increasingly used to investigate multidimensionality in IRT models — related
 - [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related

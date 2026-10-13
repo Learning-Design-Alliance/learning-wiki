@@ -46,7 +46,7 @@ The Risks from AI Systems section lists six numbered risks, including that "AI s
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
 - [People may absorb bias from AI and carry it beyond their interactions with the algorithm](humans-absorb-bias-from-ai.md) — a narrower finding that bears on this claim
 - [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — a narrower finding that bears on this claim
-- [Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized](aied-2025-lack-cost-sustainability-reporting.md) — related
+- Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized — related
 - [The authors declined requests to name specific technologies or focus the standards on AI, citing rapid technological change](no-named-technologies-standards-scope.md) — related
 - [AI in education poses challenges across three interrelated domains: knowledge itself, the process of knowing, and the socio-environmental impact of knowledge production](ai-education-three-challenge-domains.md) — a narrower finding that bears on this claim
 - [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](datafication-risks-narrowing-educational-processes.md) — related

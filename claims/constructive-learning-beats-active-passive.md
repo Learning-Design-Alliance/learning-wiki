@@ -94,3 +94,5 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
 - [Adjacent-turn support–engagement coupling is state- and form-dependent: explaining predicts constructive follow-up after all prior states, while feedback's positive association concentrates after prior passive turns](adjacent-turn-support-engagement-coupling.md) — a narrower finding that bears on this claim
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md) — related
+- [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related
+- [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — possibly the same claim (merge candidate)

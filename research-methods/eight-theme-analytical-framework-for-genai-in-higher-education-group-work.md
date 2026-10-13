@@ -12,7 +12,7 @@ generated:
 # Eight-theme analytical framework for GenAI in higher-education group work
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review constructs eight recurring themes via reflexive thematic analysis of 18 studies: GenAI reconfigures knowledge development, reshapes higher-order thinking, mediates communication, transforms team interaction, improves administrative efficiency, provides personalised feedback, and raises data privacy/security/transparency and bias/fairness/accuracy concerns. The authors state the themes "can be used as an analytical framework to examine or design collaborative learning (CL) activities involving GenAI" and as predefined categories for future studies. Themes are conceptually integrated and often in tension rather than siloed.
@@ -24,6 +24,7 @@ The review constructs eight recurring themes via reflexive thematic analysis of 
 ### Claims
 
 - [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](../claims/genai-reconfigures-group-knowledge-development.md) [+W]
+- [GenAI improves administrative coordination of group work but its analyses of team members can be inaccurate and hallucinated](../claims/genai-administrative-efficiency-with-accuracy-limits.md) [~W]
 
 ## Related Research Methods
 

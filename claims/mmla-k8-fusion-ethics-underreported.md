@@ -43,8 +43,8 @@ The review's synthesis of the 14 studies found that most did not explicitly addr
 
 
 ## Related Claims
-- [Early fusion is the most common data fusion approach in K–8 MMLA studies, but most fusion use is observed rather than reported](mmla-k8-early-fusion-prevalent.md) — a narrower finding that bears on this claim
-- [MMLA research in K–8 settings is sparse and varied, with only 14 peer-reviewed empirical studies published between 2011 and 2023](mmla-k8-few-varied-studies.md) — related
+- Early fusion is the most common data fusion approach in K–8 MMLA studies, but most fusion use is observed rather than reported — a narrower finding that bears on this claim
+- MMLA research in K–8 settings is sparse and varied, with only 14 peer-reviewed empirical studies published between 2011 and 2023 — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
 - [Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline](mmla-transparency-misconceptions-guesswork.md) — related

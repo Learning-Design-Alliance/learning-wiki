@@ -43,5 +43,5 @@ The review attributes this comparative conclusion to Gupta and Heggond's (2026) 
 
 
 ## Related Claims
-- [Most published studies of AI agents in higher education concern task-specific tools or single-agent systems, with only about 8% covering agentic multi-agent systems](thematic-analysis-ai-architecture-distribution-higher-education.md) — related
+- Most published studies of AI agents in higher education concern task-specific tools or single-agent systems, with only about 8% covering agentic multi-agent systems — related
 - [A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)](constrained-architecture-reduces-rhsi.md) — related

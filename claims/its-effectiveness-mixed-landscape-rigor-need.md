@@ -43,4 +43,4 @@ Systematic literature review following Kitchenham's three-stage method and PRISM
 
 
 ## Related Claims
-- [A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools.](nonexperimental-comparison-methods-tested-against-charter-rct-benchmark.md) — related
+- A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — related

@@ -43,6 +43,6 @@ A 2020 webinar panel of academic and government experts convened to discuss how 
 
 
 ## Related Claims
-- [Researchers deployed stopgaps to address missing data caused by COVID disruptions](researcher-stopgaps-missing-covid-data.md) — related
+- Researchers deployed stopgaps to address missing data caused by COVID disruptions — related
 - [Educators and evaluators faced open questions about how to measure student performance after COVID disruptions](measuring-student-performance-after-covid-open-question.md) — related
 - [Experts at the NISS Ingram Olkin Forum shared statistical and data-analytic challenges in researching COVID-19's impact on U.S. schools](covid-schools-statistical-challenges-forum.md) — related

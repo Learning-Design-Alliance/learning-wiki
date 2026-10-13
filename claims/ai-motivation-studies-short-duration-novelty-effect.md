@@ -63,5 +63,5 @@ The review's analysis of statistical approaches used in the included studies. It
 
 ## Related Claims
 - [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related
-- [General academic motivation, engagement, and self-efficacy are the most studied motivational factors in AI-supported learning research](ai-motivation-studies-narrow-constructs.md) — related
-- [Only 34 of 156 AI-motivation studies explicitly named a pedagogical approach; game-based learning was the most common](ai-motivation-studies-pedagogy-rarely-specified.md) — related
+- General academic motivation, engagement, and self-efficacy are the most studied motivational factors in AI-supported learning research — related
+- Only 34 of 156 AI-motivation studies explicitly named a pedagogical approach; game-based learning was the most common — related

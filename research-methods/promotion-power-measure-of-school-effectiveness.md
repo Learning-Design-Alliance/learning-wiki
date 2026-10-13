@@ -17,7 +17,7 @@ sources:
 # Promotion power measure of school effectiveness
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Promotion power is a measure of school effectiveness that the study defines as distinguishing "a school's contributions to student outcomes from the contributions of the background characteristics of the students it serves." It accounts for prior achievement and other background characteristics, and complements value-added measures by applying similar methods to longer-term outcomes such as graduation and college enrollment.
@@ -27,9 +27,11 @@ Promotion power is a measure of school effectiveness that the study defines as d
 - **Promotion power: a school-effectiveness measure separating school contributions from student background**: Promotion power is a measure of school effectiveness that the study defines as distinguishing "a school's contributions to student outcomes from the contributions of the background characteristics of the students it serves." It accounts for prior achievement and other background characteristics, and complements value-added measures by applying similar methods to longer-term outcomes such as graduation and college enrollment. (Max Gross et al. (2021))
 
 ### Claims
+
 - [Student background characteristics are less strongly related to promotion power scores than to status measures](../claims/background-less-related-promotion-power-than-status.md) [+W]
 - [Schools with high promotion power for high school graduation tended also to have high promotion power for college enrollment](../claims/graduation-promotion-power-relates-college-enrollment.md) [+W]
 - [DC public high schools show wide variation in promotion power for college-ready SAT scores, graduation, and college enrollment](../claims/wide-variation-dc-high-school-promotion-power.md) [+W]
+- [Combining ACT scores with HSGPAs reduces high school variance in college graduation rates relative to HSGPA-only models](../claims/act-plus-hsgpa-reduces-high-school-variance.md) [~W]
 
 ## Related Research Methods
 -

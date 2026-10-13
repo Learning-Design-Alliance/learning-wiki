@@ -14,7 +14,7 @@ generated:
 # College Readiness Indicator Systems (CRIS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A framework developed by the Annenberg Institute for School Reform and partners for organizing indicators of students' academic preparedness, academic tenacity, and college knowledge.
@@ -29,6 +29,7 @@ A framework developed by the Annenberg Institute for School Reform and partners 
 ### Claims
 
 - [Contextual conditions beyond district control shape how a college readiness indicator system can be implemented](../claims/outer-context-shapes-cris-implementation.md) [~W]
+- [The CRIS framework extends existing early warning systems beyond graduation and academic measures](../claims/cris-extends-early-warning-systems.md) [+W]
 
 ## Related Products and Programmes
 -

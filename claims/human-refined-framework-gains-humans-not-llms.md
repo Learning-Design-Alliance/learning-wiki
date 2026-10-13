@@ -44,5 +44,5 @@ Comparative reliability analysis across annotation stages: GPT-5.2 with ICL prom
 
 ## Related Claims
 - [Agent-refined frameworks improved cross-model agreement but remained below the human-refined framework and varied across foundation models](agent-refined-frameworks-below-human-refined.md) — related
-- [Trained human annotators reach near-perfect agreement on the 7-point engagement scale, improving across refinement stages](human-annotators-near-perfect-agreement-7point-icap.md) — related
+- Trained human annotators reach near-perfect agreement on the 7-point engagement scale, improving across refinement stages — related
 - [Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement](machine-machine-above-human-machine-below-human-human.md) — related

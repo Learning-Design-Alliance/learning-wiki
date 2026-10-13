@@ -30,7 +30,7 @@ sources:
 # REACH (Recognizing Educators Advancing Chicago's Students)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 29 claims (20 for, 5 mixed, 4 against) · 7 studies (6 associational, 1 design), `q2`–`q3` · 0 of 7 report an effect size · 29 claims rest on one study
+> **Evidence** · 33 claims (20 for, 9 mixed, 4 against) · 10 studies (8 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 10 report an effect size · 33 claims rest on one study
 
 ## Description
 REACH is Chicago Public Schools' teacher-evaluation programme combining classroom observations using a modified Danielson Framework rubric with student-growth measures and evaluator certification.
@@ -43,6 +43,7 @@ REACH is Chicago Public Schools' teacher-evaluation programme combining classroo
 - **REACH Students teacher evaluation system combining professional practice and student growth measures**: REACH (Recognizing Educators Advancing Chicago's Students) is CPS's teacher evaluation system instituted in fall 2012, replacing a 1970s-era checklist system. It "incorporates a professional practice score and up to two measures of student growth in a teacher's evaluation score." Professional practice is evaluated through four observations using the CPS Framework for Teaching, a modified version of the Danielson Framework, with 19 components across four domains. Student growth includes value-added scores and performance tasks. (Jiang et al. (2016))
 
 ### Claims
+
 - [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](../claims/dual-evaluator-coach-role-undermines-learning.md) [~W]
 - [REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year](../claims/observation-workload-administrator-time.md) [~W]
 - [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](../claims/reach-observation-process-supports-growth.md) [+W]
@@ -77,6 +78,10 @@ REACH is Chicago Public Schools' teacher-evaluation programme combining classroo
 - [Observation scores have a stronger relationship with school poverty than value-added scores](../claims/observation-scores-stronger-school-poverty-relationship-than-value-added.md) [+W]
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](../claims/observation-scores-rated-most-accurate-vam-least.md) [+W]
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](../claims/reach-evaluation-perceived-instruction-improvement.md) [+W]
+- [Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers](../claims/principal-rater-severity-variation.md) [~W]
+- [Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient](../claims/principals-inflate-distinguished-ratings.md) [~W]
+- [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](../claims/teacher-race-observation-gaps-explained-by-school-poverty.md) [~W]
+- [Accurate teacher-student data links are required when high-stakes teacher evaluation decisions include student achievement growth](../claims/accurate-teacher-student-links-high-stakes-evaluation.md) [~W]
 
 ## Related Products and Programmes
 -

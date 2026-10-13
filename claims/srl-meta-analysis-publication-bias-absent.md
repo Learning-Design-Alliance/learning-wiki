@@ -45,7 +45,7 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 ## Related Claims
 - [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — possibly the same claim (merge candidate)
-- [Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings](failsafe-n-publication-bias-not-a-threat.md) — related
+- Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings — related
 - [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](trim-fill-no-publication-bias-innovative-learning.md) — related
-- [Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test](publication-bias-minimal-influence-meta-analysis.md) — related
+- Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test — related
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related

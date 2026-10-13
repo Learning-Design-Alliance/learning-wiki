@@ -47,4 +47,4 @@ The paper's 'Need for a Data Base' section argues, as a theoretical position, th
 - [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](criterion-referenced-tests-measure-mastery-not-relative-standing.md) — related
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
 - [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](thinking-styles-scale-cfa-structural-validity.md) — a narrower finding that bears on this claim
-- [Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges](critical-thinking-rarely-defined-hci-ai-research.md) — a narrower finding that bears on this claim
+- Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges — a narrower finding that bears on this claim

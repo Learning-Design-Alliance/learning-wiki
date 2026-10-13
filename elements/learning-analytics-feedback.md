@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (11 for, 8 mixed, 8 against) · 26 studies (10 review, 7 associational, 4 qualitative, 4 theoretical, 1 design), `q1`–`q3` · 0 of 26 report an effect size · 26 claims rest on one study
+> **Evidence** · 30 claims (12 for, 9 mixed, 9 against) · 27 studies (10 review, 7 associational, 4 qualitative, 4 theoretical, 2 design), `q1`–`q3` · 1 of 27 report an effect size · 29 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -76,6 +76,9 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](../claims/adult-ed-minimal-learner-data-use.md) [-W]
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](../claims/privacy-transparency-lags-proctoring-adoption.md) [-W]
 - [In the SISTC Logistic Regression model, student-visa holders and longer study duration were linked to retention, while Pakistani nationality and subjects failed were linked to dropout risk](../claims/visa-nationality-failed-subjects-dropout-features.md) [+W]
+- [The agent's predictions show a performance gap versus a regression reference that uses real students' post-test data](../claims/agent-gap-versus-regression-reference.md) [~W]
+- [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](../claims/cross-semester-auc-decline-without-retraining.md) [-W]
+- [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](../claims/large-prediction-window-real-time-intervention.md) [+W]
 
 ## Related Elements
 

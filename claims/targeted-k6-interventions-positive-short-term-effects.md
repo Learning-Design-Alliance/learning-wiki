@@ -46,5 +46,5 @@ Random-effects meta-analysis with robust-variance estimation of 205 included stu
 - [Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — a narrower finding that bears on this claim
 - [Follow-up effects of targeted K-6 interventions remain positive up to 2 years after intervention ends, with evidence of fadeout](targeted-k6-interventions-followup-fadeout.md) — related
 - [Targeted school-based interventions for Grades 7–12 students with or at risk of academic difficulties have positive, statistically significant short-run effects on standardised reading and maths tests (ES = 0.22)](targeted-secondary-interventions-positive-short-run-effects.md) — related
-- [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — related
+- Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions](math-test-effects-larger-than-reading.md) — related

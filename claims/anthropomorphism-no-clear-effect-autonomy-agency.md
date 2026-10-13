@@ -43,7 +43,7 @@ The review's discussion of four anthropomorphism studies reports no clear overal
 
 
 ## Related Claims
-- [Research on human autonomy and sense of agency in HRI follows two separate methodological strands with little integrative work bridging them](two-strands-autonomy-agency-hri-research.md) — related
+- Research on human autonomy and sense of agency in HRI follows two separate methodological strands with little integrative work bridging them — related
 - [Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn](robot-exposure-mixed-direction-autonomy-agency.md) — related
 - [Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related
 - [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related

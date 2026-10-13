@@ -44,7 +44,7 @@ Meta-analysis of 15 within-study comparisons in which RD and RCT estimates are m
 
 ## Related Claims
 - [Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity](rd-shrunken-bias-below-0-07-sd-external-validity.md) — related
-- [Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment](rd-theory-valid-causal-inference-at-cutoff.md) — a broader claim this one bears on
+- Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — a broader claim this one bears on
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](rd-individual-estimates-substantial-bias-variation.md) — related
 - [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
 - [The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones](rd-non-parametric-methods-favored.md) — related

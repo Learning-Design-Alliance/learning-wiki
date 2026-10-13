@@ -50,4 +50,4 @@ System-type frequency analysis across the review's 27 included studies. The revi
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
 - [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](ai-enhances-learning-relevance-goal-career.md) — a narrower finding that bears on this claim
 - [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](dashboard-monitoring-orchestration-type.md) — related
-- [Learning analytics is the most frequently occurring AI-related keyword in the literature on metacognition in STEM education](learning-analytics-top-ai-keyword-metacognition-stem.md) — related
+- Learning analytics is the most frequently occurring AI-related keyword in the literature on metacognition in STEM education — related

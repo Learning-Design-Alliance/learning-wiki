@@ -45,7 +45,7 @@ Multisite cluster-randomized longitudinal field experiment with 1,176 first-year
 ## Related Claims
 - [Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfer](agentic-designs-delayed-ai-free-transfer.md) — related
 - [Hybrid feedback outperforms direct GenAI feedback on conceptual learning; the reflective–direct contrast is positive but non-significant](hybrid-feedback-conceptual-learning-advantage.md) — related
-- [Randomization produced baseline-equivalent conditions across the four feedback designs](baseline-equivalence-four-feedback-conditions.md) — related
+- Randomization produced baseline-equivalent conditions across the four feedback designs — related
 - [Argument quality gains favored the PS-GenAI-PF group over the PF group, while elaboration gains favored the GenAI-PF group](genai-peer-feedback-raises-argument-quality.md) — related
 - [The PS-GenAI-PF group outperformed the PF group on rebuttal data and warrant and on addressing the opposing view](ps-genai-pf-improves-rebuttals-and-opposing-view.md) — related
 - [Most individual argument structure and quality dimensions showed no significant differences across the three peer feedback conditions](null-results-argument-dimensions-genai-peer-feedback.md) — related

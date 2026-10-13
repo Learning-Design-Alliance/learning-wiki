@@ -43,7 +43,7 @@ The report's stated purpose, from its abstract: an examination of variability in
 
 
 ## Related Claims
-- [The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments.](pretest-posttest-correlation-affects-statistical-power.md) — related
+- The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related
 - [Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables](vam-estimates-highly-correlated-across-specifications.md) — related
 - [Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score](normalized-gain-pretest-uncorrelated-alpha-process.md) — related
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related

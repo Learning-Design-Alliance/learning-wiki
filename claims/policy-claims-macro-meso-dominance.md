@@ -63,4 +63,3 @@ Same coding exercise: the review reports "14 claims out of 31 claims are implica
 ## Related Claims
 
 - [Digital transformation permeates all levels of the education system as an interdependent structure](digital-transformation-interdependent-multi-level-structure.md) — related
-- [Study type is significantly associated with inclusion of policy implications](study-type-associated-policy-implications.md)

@@ -43,9 +43,9 @@ In the review's discussion of learning-theory integration, it reports that "only
 
 
 ## Related Claims
-- [Most of the 23 reviewed CA studies for novice programmers relied on subjective usability measures, with only three using objective pre/post-test designs to measure knowledge gains](ca-programming-studies-mostly-subjective-measures.md) — related
+- Most of the 23 reviewed CA studies for novice programmers relied on subjective usability measures, with only three using objective pre/post-test designs to measure knowledge gains — related
 - [Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification](four-cas-integrate-pedagogical-theories.md) — possibly the same claim (merge candidate)
 - [Because learning theories are not operationalized into system structures, pedagogical use of digital resources is delegated to teachers' judgment at the moment of use](pedagogical-use-delegated-to-teacher-judgment.md) — related
-- [Most NLP-for-LA studies (89.10%) never apply their models in real educational settings, revealing a gap between model development and practical use](nlp-la-gap-model-development-practical-use.md) — a broader claim this one bears on
+- Most NLP-for-LA studies (89.10%) never apply their models in real educational settings, revealing a gap between model development and practical use — a broader claim this one bears on
 - [Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice](noncognitive-assessment-research-mostly-theoretical.md) — a broader claim this one bears on
-- [Theoretical grounding in teacher-AI learning task design research is fragmented, with a significant number of studies lacking explicit theoretical frameworks](fragmented-theoretical-grounding-teacher-ai-design.md) — related
+- Theoretical grounding in teacher-AI learning task design research is fragmented, with a significant number of studies lacking explicit theoretical frameworks — related

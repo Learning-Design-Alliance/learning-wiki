@@ -62,7 +62,7 @@ Model-choice step of the meta-analysis: given the heterogeneity result, the auth
 
 
 ## Related Claims
-- [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — related
+- Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
 - [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — related
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
@@ -70,5 +70,5 @@ Model-choice step of the meta-analysis: given the heterogeneity result, the auth
 - [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](trim-fill-no-publication-bias-innovative-learning.md) — related
 - [Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling](genai-effect-heterogeneity-random-effects.md) — a narrower finding that bears on this claim
 - [GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices](gai-k12-personalization-assessment-opportunities.md) — related
-- [Meta-analysis of AI-in-nursing-education studies was not feasible due to heterogeneity, so the review used narrative synthesis](narrative-synthesis-ai-nursing-review-heterogeneity.md) — related
+- Meta-analysis of AI-in-nursing-education studies was not feasible due to heterogeneity, so the review used narrative synthesis — related
 - [The variability of feedback-intervention effects, including negative effects, exceeds sampling error and is robust to exclusion of a single prolific lab](fi-negative-effects-robust-not-sampling-error.md) — related

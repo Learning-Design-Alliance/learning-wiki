@@ -44,6 +44,6 @@ Finding from the Data and Measurement section of the expert interview study; man
 
 ## Related Claims
 - [Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools](no-clear-definition-or-accepted-model-of-school-rj.md) — related
-- [Experts call for rigorous outcome-based research, readiness research, a clear RJ definition, and leader training research on RJ in schools](rj-future-research-needs-expert-recommendations.md) — related
+- Experts call for rigorous outcome-based research, readiness research, a clear RJ definition, and leader training research on RJ in schools — related
 - [Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools](rj-implementation-challenges-time-funding-sustainability.md) — related
 - [Experts argue most school RJ implementation is weak and funding should first strengthen implementation before funding research](weak-implementation-before-research-funding.md) — related

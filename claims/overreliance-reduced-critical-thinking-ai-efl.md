@@ -42,7 +42,7 @@ Qualitative synthesis of the 54 included studies codes pedagogical limitations i
 
 ## Related Claims
 - [Academic integrity concerns were the third most prevalent pedagogical limitation, reported in 20 of 54 studies (37%)](academic-integrity-concerns-ai-efl-prevalence.md) — related
-- [The most frequent co-occurrence pattern pairs AI system performance limitations with learner cognitive and autonomy risks, reported together in 25 studies (46%), as association rather than causation](co-occurrence-system-performance-cognitive-autonomy-risks.md) — related
+- The most frequent co-occurrence pattern pairs AI system performance limitations with learner cognitive and autonomy risks, reported together in 25 studies (46%), as association rather than causation — related
 - [Unreliable AI-generated output is the most frequently reported technical limitation of AI-supported undergraduate EFL instruction, appearing in 22 of 54 studies (41%)](unreliable-ai-output-most-frequent-technical-limitation-efl.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](ai-use-positively-associated-critical-thinking-medical-students.md) — related
@@ -51,4 +51,4 @@ Qualitative synthesis of the 54 included studies codes pedagogical limitations i
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — a narrower finding that bears on this claim
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
-- [ACM DL search results for critical thinking rose from 25 in 2000 to more than 1500 in 2025, with 78% also mentioning AI](acm-dl-critical-thinking-ai-growth.md) — related
+- ACM DL search results for critical thinking rose from 25 in 2000 to more than 1500 in 2025, with 78% also mentioning AI — related

@@ -16,7 +16,7 @@ sources:
 # Classical Test Theory
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 CTT (True Score Theory) describes an observed score as composed of a true score and random error, estimating true scores from observed scores. The article lists limitations: "item parameters are dependent on the group to which a test is administered", no item-level evaluation of individuals, one standard error for all individuals, difficulty achieving high reliability with few items, and ordinal-scale data. Its advantages are few assumptions, simple computations, and usability with small samples.
@@ -26,9 +26,11 @@ CTT (True Score Theory) describes an observed score as composed of a true score 
 - **Classical Test Theory (CTT) and its stated limitations**: CTT (True Score Theory) describes an observed score as composed of a true score and random error, estimating true scores from observed scores. The article lists limitations: "item parameters are dependent on the group to which a test is administered", no item-level evaluation of individuals, one standard error for all individuals, difficulty achieving high reliability with few items, and ordinal-scale data. Its advantages are few assumptions, simple computations, and usability with small samples. (Ilhan et al. (2018))
 
 ### Claims
+
 - [CTT and MFRM yield a positive, perfect correlation between item difficulty indices for open-ended items under a crossed design](../claims/ctt-mfrm-difficulty-indices-perfect-correlation-open-ended.md) [+M]
 - [CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design](../claims/ctt-mfrm-agreement-robust-to-design.md) [+W]
 - [Items ranked from easiest to most difficult are identical under CTT and MFRM](../claims/identical-item-difficulty-ranking-ctt-mfrm.md) [+W]
+- [CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation](../claims/irt-validates-ctt-quiz-difficulty-ranking.md) [+W]
 
 ## Related Research Methods
 -

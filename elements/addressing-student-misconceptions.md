@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 2 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -50,6 +50,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [MisconceptionTutor achieves higher pedagogical quality (DAMR) than BaselineTutor on nearly all dimensions, with small-to-moderate effect sizes](../claims/misconception-tutor-higher-damr-pedagogical-quality.md) [+M] — attached 2026-10-10 from Rose Niousha et al. (2026), which proposed "Two deployed AI tutor configurations: BaselineTutor and MisconceptionTutor"; tests this page's relationship.
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 - [Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests](../claims/belief-consistent-facts-better-recognized.md) [~W]
+- [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](../claims/llm-misconception-analysis-reveals-insights-beyond-performance-data.md) [+W]
 
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)

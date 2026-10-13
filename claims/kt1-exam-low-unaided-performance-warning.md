@@ -43,6 +43,6 @@ Written examination record from the KT1 course: "The 27 students who took the ex
 
 
 ## Related Claims
-- [Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding](class-size-studies-excluded-high-risk-confounding.md) — related
+- Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
 - [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](propensity-stratification-multilevel-reduces-selection-bias.md) — related

@@ -62,6 +62,6 @@ Correlation analysis (Table 3); the attitude–discussion collaboration coeffici
 
 
 ## Related Claims
-- [The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation](collaboration-sub-scales-intercorrelated.md) — related
+- The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation — related
 - [Work-avoidant orientation correlates negatively with GPA in the project-based course](gpa-negative-correlation-work-avoidant.md) — related
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related

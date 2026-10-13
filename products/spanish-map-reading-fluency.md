@@ -22,7 +22,7 @@ sources:
 # Spanish MAP Reading Fluency
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 design, 1 associational), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Spanish MAP Reading Fluency is NWEA's adaptive Spanish-language assessment for oral reading fluency and foundational reading skills, administered in group settings with automatic speech scoring and reports for educators.
@@ -33,10 +33,12 @@ Spanish MAP Reading Fluency is NWEA's adaptive Spanish-language assessment for o
 - **Spanish MAP Reading Fluency adaptive oral reading assessment**: Spanish MAP Reading Fluency is a 20-minute benchmark assessment administered up to three times a year that "can be administered in a group setting rather than one-on-one." Students wear headsets, read aloud, and "the audio is recorded and scored automatically by the speech scoring engine rather than relying on human judgment and individual administration." It adapts across pre-readers, early readers, and independent readers, and reports proficiency determinations, an individualized literacy profile, and recommended next steps, with most results appearing immediately. (Spanish MAP Reading Fluency Technical Report (2026))
 
 ### Claims
+
 - [Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks](../claims/sentence-reading-fluency-routing-threshold.md) [+W]
 - [In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension](../claims/spanish-transparent-orthography-rate-predictor.md) [+W]
 - [Four oral reading scores together best predict passage comprehension and enable individualized instruction](../claims/four-scores-predict-passage-comprehension.md) [+W]
 - [MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021](../claims/map-rf-2020-21-operational-scale.md) [+W]
+- [MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96](../claims/swcpm-classification-accuracy-arm-proficiency.md) [+W]
 
 ## Related Products and Programmes
 -

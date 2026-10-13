@@ -47,10 +47,10 @@ Theoretical and empirical power analysis for experimental education evaluations,
 - [Clustering effects vary by design but are typically large in education random-assignment evaluations](clustering-effects-typically-large-education-designs.md) — related
 - [In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools](ols-mediator-power-requires-150-200-schools.md) — a narrower finding that bears on this claim
 - [Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations](rd-designs-need-three-to-four-times-larger-samples-than-experiments.md) — related
-- [Adjusting for school-level proficiency data increases statistical precision less well than adjusting for student-level baseline test scores in education cluster-randomized trials](school-proficiency-adjustment-less-precision-than-student-pretests.md) — related
+- Adjusting for school-level proficiency data increases statistical precision less well than adjusting for student-level baseline test scores in education cluster-randomized trials — related
 - [Most education impact studies can rigorously address only broad questions due to power constraints](most-impact-studies-address-broad-questions-only.md) — related
 - [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](power-limited-to-large-site-subgroups.md) — related
-- [Precision standards for education impact estimates are discussed for standardized test scores of elementary school students](precision-standards-elementary-test-scores.md) — related
+- Precision standards for education impact estimates are discussed for standardized test scores of elementary school students — related
 - [Required numbers of schools differ across school, classroom, and student random-assignment designs](required-schools-vary-by-assignment-level.md) — a narrower finding that bears on this claim
 - [Results for high school achievement are less clear because data limitations precluded a credible impact analysis](dc-high-school-results-inconclusive-data-limitations.md) — related
 - [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — a narrower finding that bears on this claim

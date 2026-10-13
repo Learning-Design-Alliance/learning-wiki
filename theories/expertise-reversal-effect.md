@@ -12,7 +12,7 @@ generated:
 # Expertise Reversal Effect
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The expertise reversal effect is the idea that instructional guidance that helps novices can become redundant or counterproductive as learner expertise increases.
@@ -20,6 +20,10 @@ The expertise reversal effect is the idea that instructional guidance that helps
 ## Claims
 
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](../claims/expertise-reversal-prior-knowledge-interaction.md) [+W] — attached 2026-10-13 from Kalyuga (2007), which proposed "Cognitive load theory provides the prediction and explanation of the expertise reversal effect"; tests this page's relationship.
+- [The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al. (1998) and Yeung et al. (1998) studies it cites](../claims/expertise-reversal-split-attention-redundancy-review.md) [+W] — attached 2026-10-13 from Kalyuga et al. (2003), which proposed "The expertise reversal effect: the reversal of cognitive load effects with increasing learner expertise, explained by schema-based guidance replacing instruction-based guidance"; tests this page's relationship.
+- [The review reports that the modality effect reverses with expertise: audio-visual presentations helped inexperienced learners, but after further training a diagram-only condition showed a substantial advantage](../claims/expertise-reversal-modality-effect-review.md) [+W] — attached 2026-10-13 from Kalyuga et al. (2003), which proposed "The expertise reversal effect: the reversal of cognitive load effects with increasing learner expertise, explained by schema-based guidance replacing instruction-based guidance"; tests this page's relationship.
+- [The review reports that worked examples benefit inexperienced learners but become redundant with increased experience, when problem solving proves superior](../claims/expertise-reversal-worked-examples-review.md) [+W] — attached 2026-10-13 from Kalyuga et al. (2003), which proposed "The expertise reversal effect: the reversal of cognitive load effects with increasing learner expertise, explained by schema-based guidance replacing instruction-based guidance"; tests this page's relationship.
+- [The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise](../claims/expertise-reversal-isolated-elements-and-imagination-review.md) [~W] — attached 2026-10-13 from Kalyuga et al. (2003), which proposed "The expertise reversal effect: the reversal of cognitive load effects with increasing learner expertise, explained by schema-based guidance replacing instruction-based guidance"; tests this page's relationship.
 
 ## Related Theories
 - [Cognitive Load Theory](cognitive-load-theory.md)

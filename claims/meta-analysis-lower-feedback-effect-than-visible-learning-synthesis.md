@@ -41,4 +41,4 @@ Authors' interpretation in the Discussion. They also note the random-effects mod
 
 
 ## Related Claims
-- [Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings](failsafe-n-publication-bias-not-a-threat.md) — related
+- Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings — related

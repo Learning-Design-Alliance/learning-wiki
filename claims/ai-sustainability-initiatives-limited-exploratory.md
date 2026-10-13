@@ -43,6 +43,6 @@ A descriptive finding of the scoping review across its 100 included studies. The
 
 
 ## Related Claims
-- [Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework](fragmented-ai-sdg-scholarship-research-gap.md) — related
+- Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework — related
 - [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](ai-integration-mostly-substitution-augmentation.md) — a broader claim this one bears on
 - [Most states' AI evaluation guidance is exploratory, and only a handful describe systematic, student outcomes-based evaluation](states-ai-evaluation-mostly-exploratory.md) — a broader claim this one bears on

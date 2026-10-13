@@ -44,7 +44,7 @@ Comparative analysis of specification choices in a northern state dataset. The a
 
 ## Related Claims
 - [Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables](vam-estimates-highly-correlated-across-specifications.md) — related
-- [Replacing classroom peer characteristics with teacher-level averages and allowing demographics to influence the lagged-achievement relationship have smaller practical consequences than other specification choices](vam-peer-averages-demographics-interactions-smaller-effects.md) — related
+- Replacing classroom peer characteristics with teacher-level averages and allowing demographics to influence the lagged-achievement relationship have smaller practical consequences than other specification choices — related
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — a broader claim this one bears on
 - [Up to 26% of teachers in the bottom value-added quintile under one specification are ranked higher under another specification](vam-bottom-quintile-reclassification-26-percent.md) — related
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related

@@ -62,7 +62,7 @@ Separate multiple regressions by grade level (N = 392, 366, 374 matched pairs) a
 
 
 ## Related Claims
-- [Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation](st-math-evaluation-baseline-balance-matching.md) — related
+- Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation — related
 - [Schools implementing ST Math with fidelity in at least one grade level showed larger math advantages (ES 0.31-0.35) than matched comparison clusters](st-math-fidelity-implementation-larger-effects.md) — related
 - [Among grades that fully implemented ST Math, grades 2, 3, and 5 showed significant CST advantages but grade 4 did not](st-math-full-implementation-grades-2-3-5-significant.md) — related
 - [Among grades provided with ST Math, only grade 2 showed statistically significant CST advantages; grades 3, 4, and 5 did not](st-math-itt-grade2-only-significant.md) — related

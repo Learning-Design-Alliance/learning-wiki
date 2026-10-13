@@ -45,7 +45,7 @@ Omnibus one-way ANOVA on posttest TOEFL reading comprehension scores for the 187
 ## Related Claims
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — a narrower finding that bears on this claim
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
-- [The three treatment groups were equivalent in reading comprehension at pretest](semantic-mapping-groups-equivalent-at-pretest.md) — related
+- The three treatment groups were equivalent in reading comprehension at pretest — related
 - [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](er-peer-interaction-greater-achievement-gains.md) — related
-- [Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment](esp-groups-homogeneous-pretest-reading-comprehension.md) — related
+- Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related
 - [The Proficiency × Material interaction on reading comprehension was significant, indicating heterogeneous material effects across proficiency strata](proficiency-material-interaction-reading-comprehension.md) — related

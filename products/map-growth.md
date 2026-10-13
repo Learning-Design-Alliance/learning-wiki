@@ -118,7 +118,7 @@ sources:
 # MAP Growth
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 79 claims (76 for, 3 mixed) · 32 studies (24 associational, 3 design, 3 theoretical, 2 causal), `q1`–`q3` · 2 of 32 report an effect size · 77 claims rest on one study
+> **Evidence** · 80 claims (77 for, 3 mixed) · 33 studies (25 associational, 3 design, 3 theoretical, 2 causal), `q1`–`q3` · 3 of 33 report an effect size · 78 claims rest on one study
 
 ## Description
 MAP Growth is NWEA's computer-adaptive assessment system, with national achievement and growth norms and reporting tools such as the MAP Growth National Dashboard.
@@ -160,6 +160,7 @@ MAP Growth is NWEA's computer-adaptive assessment system, with national achievem
 - **MAP Growth interim computer adaptive assessment system**: MAP Growth is an interim computer adaptive test administered up to four times per year in Math, Reading, Language Usage, and Science, with scores on the RIT scale. The report states it is "an interim computer adaptive test administered multiple times per year (fall, winter, spring, summer)" and that "Scores are reported on the RIT scale, an equal-interval vertical scale that allows comparison across grades and terms." It supports in-school and remote administration with trained proctors. (MAP Growth Technical Report for 2024–2025 (2026))
 
 ### Claims
+
 - [The 2020 norms report states the MAP Growth scale remains stable while status patterns shifted relative to the 2015 norms](../claims/map-growth-scale-stable-2020-norms.md) [+W]
 - [EISA-based MAP Growth testing produced slightly lower fall Mathematics scores but higher winter and spring Mathematics scores than traditional MAP Growth, and equipercentile linking was used to align the two versions for norming](../claims/eisa-fall-math-dip-winter-spring-higher-equipercentile-linking.md) [+W]
 - [Under the 2025 norms, higher math growth expectations lower conditional growth percentiles for higher-growth students](../claims/2025-norms-lower-math-cgp-higher-growth-students.md) [+W]
@@ -245,6 +246,7 @@ MAP Growth is NWEA's computer-adaptive assessment system, with national achievem
 - [Test engagement was high across all grades on fall 2020 MAP Growth tests in both administration modes](../claims/map-growth-fall-2020-high-test-engagement.md) [+W]
 - [DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups](../claims/map-growth-negligible-dif-gender-race-ethnicity.md) [+W]
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](../claims/map-growth-real-time-engagement-detection-re-engagement.md) [+W]
+- [Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items](../claims/adaptive-tests-equal-validity-fewer-items.md) [+W]
 
 ## Related Products and Programmes
 -

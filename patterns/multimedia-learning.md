@@ -20,7 +20,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 23 claims (14 for, 8 mixed, 1 against) · 18 studies (9 causal, 3 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 7 of 18 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (16 for, 9 mixed, 1 against) · 19 studies (9 causal, 4 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 19 report an effect size · 22 claims rest on one study
 
 ## Description and scope
 
@@ -76,6 +76,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content](../claims/signaling-principle-increased-learning-outcomes.md) [+M] — attached 2026-10-07 from Marjorie Ceballos (2022), which proposed "Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles"; tests this page's relationship.
 - [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](../claims/spatial-contiguity-meta-analysis-36-studies.md) [+W] — attached 2026-10-07 from Marjorie Ceballos (2022), which proposed "Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles"; tests this page's relationship.
 - [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](../claims/temporal-contiguity-lower-cognitive-load.md) [+W] — attached 2026-10-07 from Marjorie Ceballos (2022), which proposed "Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles"; tests this page's relationship.
+- [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](../claims/integration-of-related-elements-large-mean-effect.md) [+W] — attached 2026-10-13 from Ginns (2006), which proposed "For novices learning complex materials, increase spatial or temporal contiguity of related elements of information"; tests this page's relationship.
+- [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](../claims/element-interactivity-moderates-contiguity-effect.md) [+M] — attached 2026-10-13 from Ginns (2006), which proposed "For novices learning complex materials, increase spatial or temporal contiguity of related elements of information"; tests this page's relationship.
+- [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](../claims/static-dynamic-presentation-no-moderation.md) [~M] — attached 2026-10-13 from Ginns (2006), which proposed "For novices learning complex materials, increase spatial or temporal contiguity of related elements of information".
 
 ## Illustrative design instance and observation record
 

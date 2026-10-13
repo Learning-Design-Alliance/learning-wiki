@@ -43,5 +43,5 @@ The report's introductory rationale asserts, without presenting data on this pag
 
 
 ## Related Claims
-- [Before this study, no focused studies demonstrated what faculty mentors and advisors do to promote research integrity](no-prior-focused-studies-faculty-research-integrity-practices.md) — related
+- Before this study, no focused studies demonstrated what faculty mentors and advisors do to promote research integrity — related
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related

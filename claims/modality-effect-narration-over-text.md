@@ -118,3 +118,8 @@ Open questions include how the effect interacts with learner control over pacing
 - [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — a broader claim this one bears on
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
 - [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](modality-effect-audio-with-visuals-improves-learning.md) — possibly the same claim (merge candidate)
+- [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues](dual-mode-worked-example-presentation.md) — related
+- [Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions](modality-effect-moderated-by-pacing.md) — a narrower finding that bears on this claim
+- [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](modality-effect-overall-audio-visual-advantage.md) — possibly the same claim (merge candidate)
+- [The modality effect is particularly strong for students learning through virtual reality media](modality-effect-stronger-in-virtual-reality.md) — a narrower finding that bears on this claim
+- [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related

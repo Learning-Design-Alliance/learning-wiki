@@ -13,7 +13,7 @@ generated:
 # StudyChat dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 StudyChat is a publicly available dataset released by Menggian Wu and collaborators containing naturalistic undergraduate student–LLM programming dialogues linked to assignment submissions.
@@ -25,9 +25,12 @@ StudyChat is a publicly available dataset released by Menggian Wu and collaborat
 - **StudyChat: a public dataset of annotated student–LLM tutoring dialogues from a university AI course**: StudyChat is a publicly available dataset capturing real-world student interactions with an LLM-powered tutoring chatbot deployed in a semester-long, university-level artificial intelligence course. The authors deployed a web application replicating ChatGPT's core functionalities and logged interactions while students worked on Python programming assignments. It contains 2,214 conversations from 203 students totaling 16,851 utterances, plus 924 graded assignment submissions, all annotated with dialogue act labels and filtered for PII. (The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intellige)
 
 ### Claims
+
 - [78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies](../claims/low-epistemic-engagement-788-percent-non-mastery.md) [+M]
 - [Direction is observable in nearly all AI-mediated conversations, while Integration and Evaluation become progressively more observable as conversation length increases](../claims/direction-nearly-universal-integration-evaluation-rise-with-length.md) [+M]
 - [Assignment scores do not distinguish conversations in which all three observable dimensions appear from those in which at least one is not observed](../claims/no-stable-score-difference-by-die-coverage.md) [+M]
+- [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](../claims/pta-traits-beat-dialogue-act-bloom-baselines.md) [~W]
+- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat](../claims/trait-temporal-trends-inconclusive-learning-curves.md) [~W]
 
 ## Related Products and Programmes
 

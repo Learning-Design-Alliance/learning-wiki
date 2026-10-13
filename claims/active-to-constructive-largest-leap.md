@@ -46,3 +46,4 @@ The review attributes this claim to Chi & Boucher (2023), citing that "The most 
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [In the 5-year translation project, students learned significantly more in Constructive than Active activities](students-learned-more-constructive-than-active.md) — related
 - [Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight](icap-modes-across-ai-literacy-studies.md) — related
+- [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — a broader claim this one bears on

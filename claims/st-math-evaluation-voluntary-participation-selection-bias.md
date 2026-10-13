@@ -44,6 +44,6 @@ Authors' stated evaluation limitation (type e), not a tested result: the evaluat
 
 ## Related Claims
 - [Self-selection into ST Math adoption limits causal interpretation of the positive math outcomes](st-math-self-selection-limits-causal-claims.md) — possibly the same claim (merge candidate)
-- [Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation](st-math-evaluation-baseline-balance-matching.md) — related
+- Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation — related
 - [Among grades that fully implemented ST Math, grades 2, 3, and 5 showed significant CST advantages but grade 4 did not](st-math-full-implementation-grades-2-3-5-significant.md) — related
 - [Schools implementing ST Math with fidelity in at least one grade level showed larger math advantages (ES 0.31-0.35) than matched comparison clusters](st-math-fidelity-implementation-larger-effects.md) — related

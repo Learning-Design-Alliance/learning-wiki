@@ -43,4 +43,4 @@ This invited commentary reports, citing Simpson (2022) and Sims et al (2022), th
 
 
 ## Related Claims
-- [The commentary evaluates the pros and cons of four actionable suggestions for addressing significance-filter inferential errors](commentary-evaluates-four-actionable-suggestions.md) — related
+- The commentary evaluates the pros and cons of four actionable suggestions for addressing significance-filter inferential errors — related

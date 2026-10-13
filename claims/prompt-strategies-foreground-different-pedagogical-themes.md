@@ -58,6 +58,6 @@ Reliability analysis of the 30% double-coded subsample of 96 prompts. The articl
 
 
 ## Related Claims
-- [ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance](chatgpt-literature-skews-toward-classroom-practice.md) — related
+- ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance — related
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Policy–enforcement pairings are dominated by prompt-based constraints, and policy themes differ in enforcement breadth](policy-enforcement-pairings-prompt-dominated.md) — related

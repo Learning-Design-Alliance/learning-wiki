@@ -47,4 +47,4 @@ Independent samples t-test on pretest scores of both groups (Levene's test indic
 - [High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions](high-ct-stronger-srl-cognitive-behaviors.md) — related
 - [High CT students used the AICA for code understanding and debugging while low CT students used it for direct answer retrieval](ct-groups-differ-aica-behavioral-patterns.md) — related
 - [Behavioral trends across three tasks showed high CT students maintained stable independent coding while low CT students' AICA use fluctuated](behavioral-trends-three-tasks-ct-groups.md) — related
-- [Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample.](hero-elementary-baseline-equivalence-no-statistical-differences.md) — related
+- Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related

@@ -43,7 +43,7 @@ Qualitative thematic analysis of semi-structured interviews with 25 university l
 
 
 ## Related Claims
-- [AI ethics research is distributed across applied disciplines, with Social Sciences the largest subject area (52.84%) ahead of Computer Science (34.04%)](ai-ethics-subject-area-distribution.md) — related
+- AI ethics research is distributed across applied disciplines, with Social Sciences the largest subject area (52.84%) ahead of Computer Science (34.04%) — related
 - [In the direct method, teachers perceive conversational ventriloquism, autonomy shifts, authority challenges, and memory erosion](dm-four-ethical-tensions.md) — a narrower finding that bears on this claim
 - [In CLT, teachers perceive an authenticity crisis, risk-free fluency, a confidence mirage, and pragmatic blindness](clt-four-ethical-tensions.md) — a narrower finding that bears on this claim
 - [In CLIL, teachers perceive conceptual hollowing, a bilingual bluff, translation dependency, and a synthesis illusion](clil-four-ethical-tensions.md) — a narrower finding that bears on this claim

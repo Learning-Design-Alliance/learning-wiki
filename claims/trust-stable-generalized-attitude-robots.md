@@ -45,4 +45,4 @@ Pearson correlation analysis of mean trust scores across all robot–task combin
 ## Related Claims
 - [Task type strongly determines trust in educational robots, with highest trust for procedural instruction, moderate trust for teaching, and lowest trust when robots request personal information](task-type-strong-determinant-robot-trust.md) — reports the opposite
 - [The interaction between robot appearance and task on trust was only marginal, suggesting appearance may slightly modulate expectations without determining trust](marginal-robot-task-interaction-trust.md) — related
-- [The three technology-integrated TPACK domains intercorrelate so strongly (r = .81–.91) that they may function as a single factor in this faculty population](technology-integrated-domains-single-factor-discriminant-validity.md) — related
+- The three technology-integrated TPACK domains intercorrelate so strongly (r = .81–.91) that they may function as a single factor in this faculty population — related

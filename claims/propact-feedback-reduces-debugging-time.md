@@ -45,4 +45,4 @@ Same within-subjects experiment (26 dyads); paired t-test on total time spent in
 ## Related Claims
 - [Proactive multimodal feedback significantly increases feedback uptake compared to control](propact-feedback-increases-feedback-uptake.md) — related
 - [Proactive multimodal feedback significantly increases debugging success in pair programming compared to no-feedback control](propact-proactive-feedback-improves-debugging-success.md) — related
-- [No order effect of condition sequence on any dependent measure in the within-subjects design](propact-no-order-effect-dependent-variables.md) — related
+- No order effect of condition sequence on any dependent measure in the within-subjects design — related

@@ -41,5 +41,5 @@ CFA of the 13-item self-report model in the full sample (N = 288) demonstrated "
 
 
 ## Related Claims
-- [The objective-based measure yields a confirmed three-factor structure with acceptable fit in the full sample](ob-measure-three-factor-cfa.md) — related
-- [Both scales showed acceptable-to-good confirmatory factor fit in this sample](aias-jsas-confirmatory-fit-health-students.md) — related
+- The objective-based measure yields a confirmed three-factor structure with acceptable fit in the full sample — related
+- Both scales showed acceptable-to-good confirmatory factor fit in this sample — related

@@ -12,7 +12,7 @@ generated:
 # Digital learning platform process-data analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (3 associational), `q2` · 1 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 4 studies (3 associational, 1 review), `q2` · 1 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 The report urges researchers to use the robust log data DLPs generate, such as which tasks students begin, time spent, and detailed progress. Such data can reveal attrition or compliance indirectly and "may serve as a measure of important intermediate outcomes, or mediators, that are often very difficult to collect in conventional research settings." Researchers unfamiliar with log data should work with platform teams and review codebooks and data dictionaries.
@@ -25,12 +25,15 @@ The report urges researchers to use the robust log data DLPs generate, such as w
 - **Two-stage learning analytics framework for GenAI Tutor engagement: session-level engagement types plus student-level transition patterns**: The article proposes a learning analytics framework that first identifies engagement types at the conversation session level through clustering on behavioral, cognitive, and temporal features, then aggregates them into student-level engagement patterns via process mining. The authors state they "propose a learning analytics framework that identifies conversation session-level engagement types and integrates with student-level engagement patterns, which can be applied to other human-AI interaction data." It builds on prior process-mining work that segments logs into sessions and aggregates tactics into strategies. (Youjie Chen et al. (2026))
 
 ### Claims
+
 - [Delayed start during math practice predicts standardized ELA test performance (β=.10 SD, p<.001)](../claims/delayed-start-math-predicts-ela-outcomes.md) [+M]
 - [Early starters (<5 min delay) show greater outcome growth while chronic delayers (>13 min) show negative trends relative to regular starters](../claims/early-starter-chronic-delayer-subgroups.md) [+M]
 - [Question specificity during Socratic AI tutoring correlates mildly but positively with self-reported expected course grade (Pearson r ≈ 0.43), with substantial scatter](../claims/question-specificity-correlates-expected-grade.md) [+M]
 - [Students' questions shift from broad to specific during Socratic AI tutoring, from about 10–15% specific in the first turn to all students asking specific questions by the final turn](../claims/question-specificity-rises-over-socratic-ai-dialogue.md) [+M]
 - [Four distinct session-level engagement types emerge in GenAI Tutor use: Deep, Shallow, Routine-Learning, and Exam-Driven](../claims/four-session-engagement-types-genai-tutor.md) [+M]
 - [Shallow engagement with a GenAI Tutor persists over time, while deep engagers transition flexibly across engagement types](../claims/shallow-engagement-persists-deep-flexible.md) [+M]
+- [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](../claims/behavioural-engagement-not-cognitive-engagement.md) [~W]
+- [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](../claims/relative-delayed-start-stronger-fit.md) [~W]
 
 ## Related Research Methods
 

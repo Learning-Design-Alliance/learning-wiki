@@ -51,3 +51,5 @@ The review's ICAP analysis of the nine included studies, using classifying verbs
 - [In the 5-year translation project, students learned significantly more in Constructive than Active activities](students-learned-more-constructive-than-active.md) — related
 - [The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed](icap-effective-audit-tool-asynchronous-online.md) — related
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — related
+- [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related
+- [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — related

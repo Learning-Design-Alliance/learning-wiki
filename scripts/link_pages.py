@@ -72,7 +72,7 @@ RANK = {"theories": 4, "learner-variables": 4, "principles": 3, "patterns": 2, "
         "designs": 1, "products": 1, "research-methods": 1, "elements": 1, "strategies": 1, "methods": 1,
         "claims": 0}
 CLAIMS_ON = {"theories", "principles", "patterns", "processes", "learner-variables", "elements", "designs",
-             "products", "research-methods", "strategies"}
+             "products", "research-methods", "strategies", "methods"}
 MARKER_RE = re.compile(r"^[+~-][SMW]$")
 LINK_RE = re.compile(r"\]\(<?([^)>\s#]+\.md)")
 HEAD_RE = re.compile(r"^(#{2,4}) +(.+?)\s*$")
@@ -250,13 +250,14 @@ Reply: {{"links": [{{"n": <number>, "relation": "<relation>", "marker": "<only f
 ORPHAN_TARGETS = ("principles", "patterns", "processes", "elements", "theories", "strategies", "learner-variables")
 
 
-def concept_targets(pages: dict) -> set:
+def concept_targets(pages: dict, kinds: tuple = ORPHAN_TARGETS) -> set:
     out = set()
     for k, p in pages.items():
         f = k.split("/")[0]
-        if f not in ORPHAN_TARGETS:
+        if f not in kinds:
             continue
-        if f in ("principles", "patterns", "processes", "strategies", "learner-variables"):
+        if f in ("principles", "patterns", "processes", "strategies", "learner-variables",
+                 "products", "research-methods", "methods"):
             out.add(k)
             continue
         head = p.read_text(encoding="utf-8")[:3000]
@@ -321,12 +322,13 @@ def classify_claim(rec: dict, cands: list, key: str, model: str) -> dict:
             "model": model, "cost_usd": gen.cost_usd}
 
 
-def run_orphans(keys: list, out: Path, model: str, concurrency: int) -> list:
+def run_orphans(keys: list, out: Path, model: str, concurrency: int, kinds: tuple = ORPHAN_TARGETS) -> list:
     """Ask, for each orphan claim, which concept pages it is evidence about. Returns the
     decisions regrouped by concept page, the shape verify() and apply() take."""
     api_key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
     pages = all_pages()
-    targets = concept_targets(pages)
+    targets_kinds = kinds
+    targets = concept_targets(pages, kinds)
     search_index.ensure().close()
     cache = {}
 
@@ -342,7 +344,7 @@ def run_orphans(keys: list, out: Path, model: str, concurrency: int) -> list:
             # Retrieved per kind: searched across the whole wiki, the top rows were nearly all other
             # claims, and 3,607 claims reached the model with no candidate at all.
             cands = []
-            for f in ORPHAN_TARGETS:
+            for f in targets_kinds:
                 rows = search_index.query(local, r["title"] + " " + r["description"], folder=f,
                                           limit=40, mode="OR")
                 cands += [c for c in dict.fromkeys(f"{x[1]}/{x[2]}" for x in rows) if c in targets][:3]
@@ -614,6 +616,10 @@ def main() -> None:
                      help="claims no concept page cites, each shown the concept pages most like it, a few per kind")
     src.add_argument("--from-orphans", metavar="FILE",
                      help="apply an earlier --orphan-claims run's decisions without re-asking")
+    ap.add_argument("--targets", nargs="+", metavar="KIND",
+                    help="with --orphan-claims: the kinds to offer (default: the concept kinds). A component "
+                         "claim, such as knowledge-tracing accuracy, belongs on its product, research-method "
+                         "or element page; a context claim on a learner variable or a design method.")
     ap.add_argument("--only", metavar="FILE", help="with --orphan-claims: only these claim keys, one per line")
     ap.add_argument("--out", default=None)
     ap.add_argument("--apply", action="store_true")
@@ -636,7 +642,8 @@ def main() -> None:
             keys = [k for k in keys if k in only]
         out = Path(args.out) if args.out else WIKI_ROOT / "eval" / "runs" / "page-links" / "orphan-claims.ndjson"
         print(f"{len(keys)} claim(s) no concept page cites; asking {args.model}; decisions -> {out}", flush=True)
-        results = run_orphans(keys, out, args.model, args.concurrency)
+        results = run_orphans(keys, out, args.model, args.concurrency,
+                              tuple(args.targets) if args.targets else ORPHAN_TARGETS)
     else:
         folder = None
         if args.claims_for:

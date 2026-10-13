@@ -46,6 +46,6 @@ The study's abstract reports that regression discontinuity estimates of EL statu
 - [EL status had either a null effect or led to slight under-identification in SPED placement](el-status-null-or-underidentification-sped.md) — related
 - [EL status led to under-identification for Spanish speakers but proportionate representation for Mandarin/Cantonese and other-language speakers](el-underidentification-varies-by-language-group.md) — related
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](rd-individual-estimates-substantial-bias-variation.md) — related
-- [Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment](rd-theory-valid-causal-inference-at-cutoff.md) — related
+- Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — related
 - [Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity](rd-shrunken-bias-below-0-07-sd-external-validity.md) — related
 - [Under-identification of SPED placement occurred two years after EL classification](underidentification-two-years-after-el-classification.md) — related

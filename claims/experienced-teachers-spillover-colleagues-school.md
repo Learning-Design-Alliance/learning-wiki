@@ -47,4 +47,3 @@ The review's executive summary and findings heading state that "more experienced
 - [Teachers whose colleagues are more experienced improve more quickly, with novices benefiting most](peer-experience-spillover-teacher-improvement.md) — a narrower finding that bears on this claim
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Collaboration with colleagues around instruction has consistently positive relationships with math and science instructional practices](colleague-collaboration-consistently-positive-practices.md) — related
-- [Common experience-measurement methods that cap or band years of experience substantially understate returns to experience, by as much as 68%](wide-experience-indicators-understate-returns.md)

@@ -41,4 +41,4 @@ The article reports, citing Mnguni et al. (2024b), that zero-order associations 
 
 
 ## Related Claims
-- [Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented](ai-math-geographic-distribution-sample.md) — related
+- Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented — related

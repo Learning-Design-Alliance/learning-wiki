@@ -45,4 +45,4 @@ The brief cites these figures as evidence that "accreditors often fail to hold i
 ## Related Claims
 - [The draft rule would let sanctioned institutions switch accreditors, increasing accreditation-shopping risk](draft-rule-sanctioned-institutions-accreditor-switching.md) — related
 - [Accreditors' structural conflict of interest — being composed of and funded by the institutions they accredit — creates incentives to preserve federal aid access rather than sanction](accreditor-conflict-of-interest-funding-institutions.md) — a broader claim this one bears on
-- [ED's accreditor-competition rationale rests on economic theories rather than empirical evidence, and ED conceded it cannot estimate the causal effect of accreditor switching on student outcomes](ed-competition-rationale-lacks-empirical-evidence.md) — related
+- ED's accreditor-competition rationale rests on economic theories rather than empirical evidence, and ED conceded it cannot estimate the causal effect of accreditor switching on student outcomes — related

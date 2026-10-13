@@ -45,6 +45,6 @@ Categorical moderator analysis under the random effects model comparing subgroup
 ## Related Claims
 - [The pooled effect of self-regulated learning does not differ significantly by school level](srl-effect-no-school-level-difference.md) — related
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — a broader claim this one bears on
-- [The pooled effect of self-regulated learning does not differ significantly between empirical and relational study designs](srl-effect-no-study-design-difference.md) — related
+- The pooled effect of self-regulated learning does not differ significantly between empirical and relational study designs — related
 - [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — related
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related

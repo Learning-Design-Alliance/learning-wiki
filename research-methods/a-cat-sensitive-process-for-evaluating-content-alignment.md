@@ -17,7 +17,7 @@ sources:
 # A CAT-sensitive process for evaluating content alignment
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 design), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (1 causal, 1 associational, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article outlines a process for evaluating content alignment that is sensitive to the particular ways computerized adaptive tests can diverge from their intended content domain. It adapts alignment evaluation, described as "key evidence for the validation of test score inferences", to tests that "require large item pools and do not use fixed test forms". The article presents the process and gives an empirical example of applying it.
@@ -27,9 +27,11 @@ The article outlines a process for evaluating content alignment that is sensitiv
 - **A CAT-sensitive process for evaluating content alignment**: The article outlines a process for evaluating content alignment that is sensitive to the particular ways computerized adaptive tests can diverge from their intended content domain. It adapts alignment evaluation, described as "key evidence for the validation of test score inferences", to tests that "require large item pools and do not use fixed test forms". The article presents the process and gives an empirical example of applying it. (Norman Webb (2015))
 
 ### Claims
+
 - [Procedures developed for evaluating content alignment of linear tests are not readily applicable to computerized adaptive tests](../claims/linear-alignment-procedures-not-applicable-cats.md) [+W]
 - [CAT development decisions influence and might threaten content alignment](../claims/cat-development-decisions-threaten-alignment.md) [+W]
 - [The study examines how CAT test design and item bank distribution affect content coverage and test efficiency in a CCSS-aligned reading comprehension test](../claims/cat-design-and-bank-distribution-affect-coverage-and-efficiency.md) [+W]
+- [CAT concentration is item-driven, not category-driven: removing the two vulnerable items collapses the procedural/conceptual odds ratio from 5.6 to 1.0](../claims/cat-vulnerability-item-driven-not-category-driven.md) [~W]
 
 ## Related Research Methods
 -

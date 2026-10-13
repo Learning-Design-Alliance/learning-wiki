@@ -18,7 +18,7 @@ sources:
 # Evaluating and Justifying Mechanistic Explanations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 causal, 1 associational), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Learners are given several plausible explanations for a biological (or other causal) phenomenon — some [mechanistic](../theories/mechanistic-reasoning.md), some teleological or circular — and asked to judge which are acceptable and why, then rank their preferences. Framing the underlying question explicitly as "how does this happen" (rather than "what happens" or "why does this happen") helps learners apply an **explanatory power** criterion: rejecting explanations that don't actually trace a causal chain. Learners also draw on an **information accuracy** criterion, using their existing biological knowledge (principles, schemas, lower-level/cellular reasoning, analogies) mainly to reject explanations that are mechanistic in form but factually wrong.
@@ -45,7 +45,7 @@ Learners are given several plausible explanations for a biological (or other cau
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Interaction traces cannot establish answerability or justificatory dispossession because StudyChat does not elicit reconstruction and defense of reasoning](../claims/interaction-traces-cannot-establish-answerability.md) [~W]
 
 ## Related Elements
 - [Justification](justification.md)

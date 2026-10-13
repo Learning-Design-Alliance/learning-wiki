@@ -43,6 +43,6 @@ Theoretical argument in a literature-review paper on organizational climate rese
 
 
 ## Related Claims
-- [Active learning lacks explicit operational definitions and metrics across literatures](active-learning-lacks-operational-definitions.md) — related
+- Active learning lacks explicit operational definitions and metrics across literatures — related
 - [Supporting the proposition that role distance constitutes one dimension of authenticity requires positive empirical relationships between role distance measures and OCDQ Esprit, Thrust, and Open Climate measures](role-distance-validation-requires-ocdq-relationships.md) — related
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related

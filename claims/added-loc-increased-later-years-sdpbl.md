@@ -63,8 +63,8 @@ The same observational LOC analysis reports the direction of the significant pai
 ## Related Claims
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
-- [Research on AI applications in science and chemistry education increased between 2021 and 2024, with 11 of 18 reviewed studies published in 2024](ai-science-chemistry-studies-increase-2021-2024.md) — related
-- [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — related
-- [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
-- [Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025](review-automation-publication-growth-4-7-monthly.md) — related
+- Research on AI applications in science and chemistry education increased between 2021 and 2024, with 11 of 18 reviewed studies published in 2024 — related
+- Research on LLM-based family education increased sharply after 2023, following ChatGPT's release — related
+- Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023 — related
+- Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025 — related
 - [In SDPBL with SDD introduced, AI usage varies greatly by team and phase, with all teams using AI in Implementation and Debugging but large team differences in Investigation and Planning](ai-usage-varies-by-team-and-phase-sdpbl-sdd.md) — related
