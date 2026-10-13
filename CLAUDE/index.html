@@ -1894,6 +1894,10 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   dimensions reach the research only through those pages. The model names the role (predictor,
   moderator, outcome) and a marker capped at the claim's evidence; the claim gets a
   <code>## Learner Variables</code> section.</li>
+<li><strong>The coded evidence cells are committed</strong> (<code>eval/runs/evidence-axes/cells.ndjson</code> and
+  <code>cells-contrasts.json</code>; maintainer, 2026-10-13), the one folder under <code>eval/runs/</code> that is: every
+  evidence map and report reads them, and the ignored store vanished with each container.
+  <code>code_evidence_axes.py</code> refuses structurally broken replies, so a bad cell is retried, not stored.</li>
 <li><strong>A fresh container needs <code>pip install -r requirements-eval.txt</code></strong> (without pypdf most PDFs fail).</li>
 <li><strong>After a container restart the proxy port changes</strong>; a process started before it keeps the
   old <code>HTTPS_PROXY</code> and every request fails. Compare <code>/proc/&lt;pid&gt;/environ</code> with the current
