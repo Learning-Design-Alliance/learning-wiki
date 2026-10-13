@@ -156,8 +156,8 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   above the full results, turns off Pagefind's long-page penalty, and every page has a header
   search box.
 - **Deploys replace the published tree** (`keep_files: false`), carrying open PR previews over,
-  so renamed and deleted pages do not accumulate. At about 12 KB a page, the 1 GB Pages limit
-  is near 85,000 pages; past that the long tail has to move off GitHub Pages.
+  so renamed and deleted pages do not accumulate. At about 21 KB a page (measured 2026-10-12), the 1 GB
+  Pages limit is near 48,000 pages; past that the long tail has to move off GitHub Pages.
 - **`log.md` holds the current month**; `okf_lib.rotate_log()` moves earlier months to
   `log/YYYY-MM.md`. The log is not on the site.
 - **`wiki-index.json` and `reverse-index.json` are written one record per line**
@@ -189,6 +189,11 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   1,323 to products, 222 to research methods, each move confirmed by a second model. Its 390 plain
   folds into canonical pages are in `eval/candidates/sweep-kinds.ndjson` and were **not** applied
   (too many loose matches); apply them only after review, never with a bare `--from ... --apply`.
+- **Descriptive-context claims are not pages** (maintainer, 2026-10-13: "Context claims are only
+  useful as filters on evidence, not evidence by itself"). A claim that tests no design variable
+  (enrolment and graduation trends, funding gaps, survey shares) was removed when two models agreed
+  (`scripts/remove_pages.py`, list in `eval/removed/pages.ndjson`); the population and setting it
+  describes belong on design evidence as filters (the coded cells). Do not recreate them.
 - **Claims about a learner characteristic link into its `learner-variables/` page and back**
   (`scripts/link_learner_variables.py`, `--new` in every batch): learning-design-spec's learner
   dimensions reach the research only through those pages. The model names the role (predictor,
