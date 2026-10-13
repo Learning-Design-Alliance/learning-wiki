@@ -37,6 +37,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
 </details>
 <p><code>q2 i?</code> Essays receiving low LLM scores are associated with high proportions of negative trait mentions, while higher-scored essays receive increasingly positive feedback, though the relationship varies in strength across traits and datasets. <a href="#jerin-george-mathew-2026">→ Jerin George Mathew 2026</a></p>
+<p><code>q2 i?</code> In proxy XGBoost models predicting LLM scores from trait-specific praise and criticism counts, praise-related features produce positive SHAP values and criticism-related features negative ones. <a href="#jerin-george-mathew-2026">→ Jerin George Mathew 2026</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="jerin-george-mathew-2026">Jerin George Mathew 2026<a class="headerlink" href="#jerin-george-mathew-2026" title="Permanent link">&para;</a></h3>
 <p>Jerin George Mathew, Sumayya Taher, Anindita Kundu, Denilson Barbosa. (2026). LLMs Do Not Grade Essays Like Humans. https://arxiv.org/abs/2603.23714</p>
@@ -45,10 +46,21 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <blockquote>
 <p>"essays receiving low scores are typically associated with a high proportion of negative mentions across traits, while essays receiving higher scores contain increasingly positive feedback."</p>
 </blockquote>
+<!-- merged 2026-10-13 from shap-praise-raises-criticism-lowers-llm-scores: that page's entry for this study, which differed from the one above, kept verbatim.
+### Jerin George Mathew 2026
+
+Jerin George Mathew, Sumayya Taher, Anindita Kundu, Denilson Barbosa. (2026). LLMs Do Not Grade Essays Like Humans. https://arxiv.org/abs/2603.23714
+
+`q2 · i?` · `associational · r2`
+
+XGBoost proxy models trained per dataset and LLM on counts of positive and negative trait mentions, with SHAP used to estimate feature contributions (Figure 13 for Llama models on ASAP Task 7). Similar trends were reported for GPT models and other datasets in an appendix.
+
+> "These results suggest that LLM-assigned scores are coherent with the evaluative signals expressed in their feedback: praise-related mentions increase predicted scores, whereas criticism-related mentions decrease them."
+-->
+
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../shap-praise-raises-criticism-lowers-llm-scores/">SHAP analysis shows praise mentions raise LLM-assigned scores while criticism mentions lower them</a> — possibly the same claim (merge candidate)</li>
 <li><a href="../llms-weight-rubric-traits-differently/">Different LLMs rely on different subsets of rubric traits when assigning essay scores</a> — related</li>
 <li><a href="../marked-students-praise-withholding-bias/">LLM feedback for students marked by race, language, disability, gender, or motivation shows positive feedback bias and feedback withholding bias — more praise and less substantive critique than for unmarked counterparts</a> — related</li>
 <li><a href="../motivation-prompt-enthusiasm-pedagogy/">Motivation prompts shift feedback tone: unmotivated students receive enthusiastic, collaborative encouragement while motivated students receive direct, higher-level critique</a> — related</li>
@@ -71,6 +83,10 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <tr>
 <td><code>id</code></td>
 <td><code>llm-feedback-sentiment-tracks-scores</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>shap-praise-raises-criticism-lowers-llm-scores</code></td>
 </tr>
 <tr>
 <td><code>title</code></td>

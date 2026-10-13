@@ -27,7 +27,7 @@
 <h1 id="use-knowledge-distillation-with-deliberately-limited-synthetic-data-to-expand-scarce-labeled-evaluation-datasets">Use knowledge distillation with deliberately limited synthetic data to expand scarce labeled evaluation datasets<a class="headerlink" href="#use-knowledge-distillation-with-deliberately-limited-synthetic-data-to-expand-scarce-labeled-evaluation-datasets" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Strategy</strong> · <a href="../">All strategies</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>When labeled data for a specialized evaluation task is scarce, the authors generate synthetic student-tutor conversations with a frontier LLM, prompting it to produce nine tutor responses per conversation (three high-quality, three average, three poor) to rebalance class distributions. Citing Stanton et al. (2021), they note that "excessively large distillation datasets can hinder optimization" and therefore deliberately limited the synthetic data. This produced 1,350 conversations and 12,150 labeled tutor responses.</p>
@@ -49,6 +49,10 @@
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Building reliable automated evaluators of AI tutor pedagogical quality when expert-labeled data is limited</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/distillation-improves-ai-tutor-evaluation/">Knowledge distillation from a frontier LLM substantially improves lightweight AI-tutor evaluation across all four pedagogical dimensions</a> [+M]</li>
 </ul>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>

@@ -27,7 +27,7 @@
 <h1 id="use-inference-time-selection-with-a-small-interpretable-index-as-a-pedagogical-alignment-lever-between-full-rl-retraining-and-greedy-decoding">Use inference-time selection with a small interpretable index as a pedagogical alignment lever between full RL retraining and greedy decoding<a class="headerlink" href="#use-inference-time-selection-with-a-small-interpretable-index-as-a-pedagogical-alignment-lever-between-full-rl-retraining-and-greedy-decoding" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Strategy</strong> · <a href="../">All strategies</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>For practitioners, the article recommends keeping the model frozen and selecting among N stochastic candidate responses with an interpretable index rather than retraining: "a useful pedagogical alignment lever sits between full RL retraining and unprincipled greedy decoding: inference-time selection with a tiny interpretable index retains the base model’s mathematical depth and exposes four interpretable weights for behavioural tuning". TEI@N generates N candidates, scores each with regex features plus a one-pass DTR forward hook, and returns the best-scoring response at cost linear in conversation length.</p>
@@ -52,6 +52,10 @@
 <h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Tutoring Effectiveness Index Tei</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/tei4-selects-deliberation-rich-candidates/">TEI@4 selection shifts thinking-trace mass toward deeper deliberation, raising Schoenfeld Explore share by +10.8pp without changing the model</a> [+M]</li>
 </ul>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>

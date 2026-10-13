@@ -689,6 +689,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#claims" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Claims
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -717,7 +728,7 @@
 <h1 id="comparing-learning-intervention-effects">Comparing learning intervention effects<a class="headerlink" href="#comparing-learning-intervention-effects" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Design Method</strong> · <a href="../">All design methods</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 associational), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
 </blockquote>
 <p>The wiki's <code>i0</code>–<code>i3</code> codes are legacy Cohen-like bins for a printed statistic. They are not a scale of educational value or a prediction for an individual learner. In particular, an effect below d = .20 is not necessarily negligible for a broad achievement measure. Preserve the estimate, direction and uncertainty alongside its code.</p>
 <h2 id="comparison-record">Comparison record<a class="headerlink" href="#comparison-record" title="Permanent link">&para;</a></h2>
@@ -780,6 +791,10 @@
 </code></pre></div>
 <p>The controlled values for <code>population_band</code>, <code>outcome_class</code>, <code>unit</code> and <code>assignment</code> are defined in <code>evidence-dimensions.json</code> at the wiki root, with the rest of the shared vocabulary for learners, goals, conditions and outcomes. The script derives assignment for randomized designs, and the metric, value, interval, horizon, comparator and objective, from the record itself, so none is written twice. <code>observation_lib</code> validates the block, and an unknown is a legal value. A claim page is never read for this: its <code>sources[]</code> is rebuilt by <code>sync_evidence_codes.py</code>, and one study backs several claims.</p>
 <p>This block illustrates field shape only; none of its sample values describes a particular study. <code>verified_against_source: true</code> requires the original source and the particular effect to be checked. Missing fields, an unreviewed synthesis, a researcher-designed test, a different outcome, or a negative effect receives <strong>no automatic Kraft tier</strong>. The script does not overwrite the legacy <code>i</code> code. A separate versioned migration can follow review of the eligible records.</p>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/full-sample-nwea-ers-estimate-gap/">In the full samples, NWEA data show far smaller math recovery (.015 SDs) and negative ELA change (-.008 SDs) than ERS (.045 and .019 SDs)</a> [+W]</li>
+</ul>
 <details class="info">
 <summary>Page metadata</summary>
 <table>
