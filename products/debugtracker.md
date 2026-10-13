@@ -20,6 +20,7 @@ DebugTracker is a Visual Studio Code extension created by Jiatong Liu et al. tha
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Treat privacy as a capture-policy problem: record task-relevant metadata rather than full interaction replay**: DebugTracker's privacy stance is to bound capture to the task: "it records task-relevant metadata rather than a full interaction replay". By default it does not store complete terminal output, screen video, mouse movement, or per-keystroke history, and it saves baseline and final source snapshots so instructors can compare the starting bug with the submitted fix. Reports also separate captured evidence from instructor-only interpretation. (Jiatong Liu et al. (2026))
 
 ### Claims
 

@@ -45,3 +45,4 @@ Narrative review attributing this to multiple researchers: "testing effects are 
 - [The pretesting effect on text memory grows with retention interval, being largest at one week](pretesting-effect-grows-with-retention-interval.md) — a narrower finding that bears on this claim
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) — related
+- [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related

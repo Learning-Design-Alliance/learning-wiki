@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q2`–`q3` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 2 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -38,6 +38,7 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](../claims/emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) [~M]
 - [Productive failure, problem-solving before instruction, shows a measured benefit of about d = 0.36 rising to about 0.58 at high design fidelity (as reported)](../claims/productive-failure-problem-solving-before-instruction-effect.md) [+W]
+- [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](../claims/pf-fidelity-predicts-psi-effect-size.md) [+W] — attached 2026-10-13 from Tanmay Sinha et al. (2021), which proposed "Productive Failure as a high-fidelity subset of PS-I designs within preparation for future learning"; tests this page's relationship.
 
 ## Related Theories
 - [Self-Regulated Learning](self-regulated-learning.md) — PS-I's pre-instruction attempt phase is a context in which monitoring and affect regulation become consequential for later learning

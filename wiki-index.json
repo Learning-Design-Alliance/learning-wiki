@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":18372,
+"claim":18409,
 "design":714,
 "element":1080,
 "learner-variable":12,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1579,
 "research-method":421,
-"strategy":5580,
+"strategy":5581,
 "theory":1372
 },
 "kinds":[
@@ -27785,6 +27785,15 @@
 "type":"claim"
 },
 {
+"description":"Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects",
+"evidence_strength":"weak",
+"id":"coaching-complementary-elements-moderators",
+"path":"claims/coaching-complementary-elements-moderators.md",
+"status":"draft",
+"title":"Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects",
+"type":"claim"
+},
+{
 "description":"The complexity of coaching responsibilities may fragment the coaching process and reduce its impact",
 "evidence_strength":"weak",
 "id":"coaching-complexity-may-fragment-impact",
@@ -27809,6 +27818,15 @@
 "path":"claims/coaching-culture-increases-teacher-participation.md",
 "status":"draft",
 "title":"When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change",
+"type":"claim"
+},
+{
+"description":"Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects",
+"evidence_strength":"moderate",
+"id":"coaching-dosage-null-effect",
+"path":"claims/coaching-dosage-null-effect.md",
+"status":"draft",
+"title":"Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects",
 "type":"claim"
 },
 {
@@ -27938,6 +27956,15 @@
 "type":"claim"
 },
 {
+"description":"Coaching effects do not differ significantly across school levels, and in-person versus virtual delivery shows no significant difference",
+"evidence_strength":"weak",
+"id":"coaching-no-school-level-or-mode-differences",
+"path":"claims/coaching-no-school-level-or-mode-differences.md",
+"status":"draft",
+"title":"Coaching effects do not differ significantly across school levels, and in-person versus virtual delivery shows no significant difference",
+"type":"claim"
+},
+{
 "description":"Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes",
 "evidence_strength":"weak",
 "id":"coaching-outcomes-teacher-knowledge-sustainability-student-learning",
@@ -27965,6 +27992,24 @@
 "type":"claim"
 },
 {
+"description":"Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies",
+"evidence_strength":"strong",
+"id":"coaching-pooled-achievement-effect-0-18-sd",
+"path":"claims/coaching-pooled-achievement-effect-0-18-sd.md",
+"status":"draft",
+"title":"Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies",
+"type":"claim"
+},
+{
+"description":"Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies",
+"evidence_strength":"strong",
+"id":"coaching-pooled-instruction-effect-0-49-sd",
+"path":"claims/coaching-pooled-instruction-effect-0-49-sd.md",
+"status":"draft",
+"title":"Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies",
+"type":"claim"
+},
+{
 "description":"None of the three coaching programs had a statistically significant impact on private self-consciousness, self-reflection or insight.",
 "evidence_strength":"moderate",
 "id":"coaching-programs-null-metacognitive-traits",
@@ -27989,6 +28034,15 @@
 "path":"claims/coaching-responsibilities-mentoring-and-advocacy.md",
 "status":"draft",
 "title":"Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy",
+"type":"claim"
+},
+{
+"description":"Coaching program effects shrink substantially at scale: effectiveness trials of larger programs show only a fraction of efficacy-trial effects",
+"evidence_strength":"moderate",
+"id":"coaching-scale-up-diminishing-effects",
+"path":"claims/coaching-scale-up-diminishing-effects.md",
+"status":"draft",
+"title":"Coaching program effects shrink substantially at scale: effectiveness trials of larger programs show only a fraction of efficacy-trial effects",
 "type":"claim"
 },
 {
@@ -41903,6 +41957,15 @@
 "type":"claim"
 },
 {
+"description":"Direct instruction's advantages do not persist over the longer term",
+"evidence_strength":"moderate",
+"id":"direct-instruction-advantages-vanish-long-term",
+"path":"claims/direct-instruction-advantages-vanish-long-term.md",
+"status":"draft",
+"title":"Direct instruction's advantages do not persist over the longer term",
+"type":"claim"
+},
+{
 "description":"Direct Instruction schools' ratings rose significantly only when the program was fully supported with training and coaching",
 "evidence_strength":"moderate",
 "id":"direct-instruction-gains-depend-on-implementation-support",
@@ -41917,6 +41980,15 @@
 "path":"claims/direct-instruction-improves-outcomes.md",
 "status":"draft",
 "title":"Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling",
+"type":"claim"
+},
+{
+"description":"Direct instruction may create a lock-in that constrains search for novel solutions",
+"evidence_strength":"weak",
+"id":"direct-instruction-lock-in-constrains-exploration",
+"path":"claims/direct-instruction-lock-in-constrains-exploration.md",
+"status":"draft",
+"title":"Direct instruction may create a lock-in that constrains search for novel solutions",
 "type":"claim"
 },
 {
@@ -43879,6 +43951,15 @@
 "path":"claims/domain-driven-explanations-increase-understandability-trust-acceptance.md",
 "status":"draft",
 "title":"Domain-driven explanations significantly increase teachers' understandability, trust, and acceptance compared to data-driven explanations",
+"type":"claim"
+},
+{
+"description":"For domain-general skills, effect sizes favor I-PS over PS-I",
+"evidence_strength":"moderate",
+"id":"domain-general-skills-favor-ips",
+"path":"claims/domain-general-skills-favor-ips.md",
+"status":"draft",
+"title":"For domain-general skills, effect sizes favor I-PS over PS-I",
 "type":"claim"
 },
 {
@@ -54108,12 +54189,48 @@
 "type":"claim"
 },
 {
+"description":"The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise",
+"evidence_strength":"weak",
+"id":"expertise-reversal-isolated-elements-and-imagination-review",
+"path":"claims/expertise-reversal-isolated-elements-and-imagination-review.md",
+"status":"draft",
+"title":"The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise",
+"type":"claim"
+},
+{
+"description":"The review reports that the modality effect reverses with expertise: audio-visual presentations helped inexperienced learners, but after further training a diagram-only condition showed a substantial advantage",
+"evidence_strength":"weak",
+"id":"expertise-reversal-modality-effect-review",
+"path":"claims/expertise-reversal-modality-effect-review.md",
+"status":"draft",
+"title":"The review reports that the modality effect reverses with expertise: audio-visual presentations helped inexperienced learners, but after further training a diagram-only condition showed a substantial advantage",
+"type":"claim"
+},
+{
 "description":"The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect",
 "evidence_strength":"weak",
 "id":"expertise-reversal-prior-knowledge-interaction",
 "path":"claims/expertise-reversal-prior-knowledge-interaction.md",
 "status":"draft",
 "title":"The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect",
+"type":"claim"
+},
+{
+"description":"The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al.",
+"evidence_strength":"weak",
+"id":"expertise-reversal-split-attention-redundancy-review",
+"path":"claims/expertise-reversal-split-attention-redundancy-review.md",
+"status":"draft",
+"title":"The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al. (1998) and Yeung et al. (1998) studies it cites",
+"type":"claim"
+},
+{
+"description":"The review reports that worked examples benefit inexperienced learners but become redundant with increased experience, when problem solving proves superior",
+"evidence_strength":"weak",
+"id":"expertise-reversal-worked-examples-review",
+"path":"claims/expertise-reversal-worked-examples-review.md",
+"status":"draft",
+"title":"The review reports that worked examples benefit inexperienced learners but become redundant with increased experience, when problem solving proves superior",
 "type":"claim"
 },
 {
@@ -56522,6 +56639,15 @@
 "path":"claims/feedback-most-effective-at-task-and-process-levels.md",
 "status":"draft",
 "title":"Feedback Most Effective At Task And Process Levels",
+"type":"claim"
+},
+{
+"description":"Providing corrective feedback on practice tests does not significantly change the testing effect (g = 0.63 with feedback vs.",
+"evidence_strength":"moderate",
+"id":"feedback-no-significant-moderation",
+"path":"claims/feedback-no-significant-moderation.md",
+"status":"draft",
+"title":"Providing corrective feedback on practice tests does not significantly change the testing effect (g = 0.63 with feedback vs. g = 0.60 without)",
 "type":"claim"
 },
 {
@@ -68631,6 +68757,33 @@
 "type":"claim"
 },
 {
+"description":"Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry",
+"evidence_strength":"strong",
+"id":"guidance-improves-inquiry-learning-activities",
+"path":"claims/guidance-improves-inquiry-learning-activities.md",
+"status":"draft",
+"title":"Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry",
+"type":"claim"
+},
+{
+"description":"Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)",
+"evidence_strength":"moderate",
+"id":"guidance-improves-inquiry-learning-outcomes",
+"path":"claims/guidance-improves-inquiry-learning-outcomes.md",
+"status":"draft",
+"title":"Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)",
+"type":"claim"
+},
+{
+"description":"Guidance during inquiry learning improves performance success during the inquiry (d = 0.71), with type of guidance moderating this effect",
+"evidence_strength":"moderate",
+"id":"guidance-improves-inquiry-performance-success",
+"path":"claims/guidance-improves-inquiry-performance-success.md",
+"status":"draft",
+"title":"Guidance during inquiry learning improves performance success during the inquiry (d = 0.71), with type of guidance moderating this effect",
+"type":"claim"
+},
+{
 "description":"Guidance supplies the operative rule in over a third of classifications and resolves most cases where binding instruments are silent on GenAI",
 "evidence_strength":"moderate",
 "id":"guidance-resolves-binding-silence-on-genai",
@@ -68646,6 +68799,15 @@
 "path":"claims/guided-ai-use-verification-rules.md",
 "status":"draft",
 "title":"Students used AI mainly for retrieving pharmacological mechanisms, generating PPT outlines, and clarifying concepts under rules requiring verification and student responsibility for AI outputs",
+"type":"claim"
+},
+{
+"description":"Guided discovery outperformed both unguided discovery and direct instruction in classic studies",
+"evidence_strength":"weak",
+"id":"guided-discovery-outperformed-both-extremes",
+"path":"claims/guided-discovery-outperformed-both-extremes.md",
+"status":"draft",
+"title":"Guided discovery outperformed both unguided discovery and direct instruction in classic studies",
 "type":"claim"
 },
 {
@@ -75777,6 +75939,15 @@
 "type":"claim"
 },
 {
+"description":"Guidance during initial problem solving does not translate into better learning from subsequent instruction",
+"evidence_strength":"moderate",
+"id":"initial-guidance-does-not-improve-learning-from-instruction",
+"path":"claims/initial-guidance-does-not-improve-learning-from-instruction.md",
+"status":"draft",
+"title":"Guidance during initial problem solving does not translate into better learning from subsequent instruction",
+"type":"claim"
+},
+{
 "description":"Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique",
 "evidence_strength":"moderate",
 "id":"initial-inquiry-dominates-chatbot-question-types",
@@ -76323,6 +76494,15 @@
 "path":"claims/institutions-black-gains-gap-closure-shares.md",
 "status":"draft",
 "title":"About 68.5 percent of improving institutions raised black graduation rates, but 31.5 percent showed no gains for black students and fewer than half of gainers narrowed gaps",
+"type":"claim"
+},
+{
+"description":"Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains",
+"evidence_strength":"weak",
+"id":"instruction-achievement-weak-link-coaching",
+"path":"claims/instruction-achievement-weak-link-coaching.md",
+"status":"draft",
+"title":"Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains",
 "type":"claim"
 },
 {
@@ -95687,6 +95867,15 @@
 "type":"claim"
 },
 {
+"description":"Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)",
+"evidence_strength":"weak",
+"id":"minimal-guidance-inquiry-inferior-explicit-instruction",
+"path":"claims/minimal-guidance-inquiry-inferior-explicit-instruction.md",
+"status":"draft",
+"title":"Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)",
+"type":"claim"
+},
+{
 "aliases":["minimal-guidance-ineffective-for-novices","minimal-guidance-instruction-less-effective","minimally-guided-instruction-less-effective-for-novices","unguided-discovery-less-effective-than-guided-instruction"],
 "description":"",
 "evidence_strength":"moderate",
@@ -109613,6 +109802,15 @@
 "type":"claim"
 },
 {
+"description":"Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction",
+"evidence_strength":"moderate",
+"id":"pbl-null-basic-knowledge-positive-transfer",
+"path":"claims/pbl-null-basic-knowledge-positive-transfer.md",
+"status":"draft",
+"title":"Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction",
+"type":"claim"
+},
+{
 "description":"The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity",
 "evidence_strength":"moderate",
 "id":"pbl-overall-effect-modest-large-heterogeneity",
@@ -111805,6 +112003,15 @@
 "path":"claims/pets-utility-privacy-tradeoff.md",
 "status":"draft",
 "title":"PETs trade utility for privacy, limiting use where accuracy is mandated",
+"type":"claim"
+},
+{
+"description":"PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences",
+"evidence_strength":"moderate",
+"id":"pf-fidelity-predicts-psi-effect-size",
+"path":"claims/pf-fidelity-predicts-psi-effect-size.md",
+"status":"draft",
+"title":"PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences",
 "type":"claim"
 },
 {
@@ -115183,6 +115390,33 @@
 "type":"claim"
 },
 {
+"description":"Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)",
+"evidence_strength":"moderate",
+"id":"practice-test-format-moderates-effect",
+"path":"claims/practice-test-format-moderates-effect.md",
+"status":"draft",
+"title":"Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)",
+"type":"claim"
+},
+{
+"description":"Taking a practice test before a final test produces a moderately large, statistically significant benefit for learning overall (g = 0.61 fixed-effects; g = 0.70 random-effects)",
+"evidence_strength":"moderate",
+"id":"practice-testing-overall-meta-analytic-benefit",
+"path":"claims/practice-testing-overall-meta-analytic-benefit.md",
+"status":"draft",
+"title":"Taking a practice test before a final test produces a moderately large, statistically significant benefit for learning overall (g = 0.61 fixed-effects; g = 0.70 random-effects)",
+"type":"claim"
+},
+{
+"description":"Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a significant difference between them",
+"evidence_strength":"moderate",
+"id":"practice-tests-aid-retention-and-transfer",
+"path":"claims/practice-tests-aid-retention-and-transfer.md",
+"status":"draft",
+"title":"Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a significant difference between them",
+"type":"claim"
+},
+{
 "description":"Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects",
 "evidence_strength":"weak",
 "id":"practitioner-considerations-experimental-research",
@@ -117786,6 +118020,15 @@
 "type":"claim"
 },
 {
+"description":"Solving novel problems before instruction improves conceptual understanding and transfer but not procedural knowledge",
+"evidence_strength":"moderate",
+"id":"problem-solving-before-instruction-boosts-conceptual-transfer",
+"path":"claims/problem-solving-before-instruction-boosts-conceptual-transfer.md",
+"status":"draft",
+"title":"Solving novel problems before instruction improves conceptual understanding and transfer but not procedural knowledge",
+"type":"claim"
+},
+{
 "description":"Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions",
 "evidence_strength":"weak",
 "id":"problem-solving-preparation-yields-uncritical-or-misconception-based-critiques",
@@ -120173,6 +120416,24 @@
 "type":"claim"
 },
 {
+"description":"PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age",
+"evidence_strength":"moderate",
+"id":"psi-effect-increases-with-grade-level",
+"path":"claims/psi-effect-increases-with-grade-level.md",
+"status":"draft",
+"title":"PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age",
+"type":"claim"
+},
+{
+"description":"The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours",
+"evidence_strength":"moderate",
+"id":"psi-fidelity-time-span-interaction",
+"path":"claims/psi-fidelity-time-span-interaction.md",
+"status":"draft",
+"title":"The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours",
+"type":"claim"
+},
+{
 "description":"Principals' perceptions of their work with their supervisor and of the supervisor's effectiveness improved under the PSI",
 "evidence_strength":"moderate",
 "id":"psi-improved-principal-perceptions-of-supervisors",
@@ -120188,6 +120449,15 @@
 "path":"claims/psi-no-improvement-teacher-perceptions-of-principals.md",
 "status":"draft",
 "title":"The PSI did not improve teachers' perceptions of principals' performance",
+"type":"claim"
+},
+{
+"description":"PS-I shows no pooled benefit for procedural knowledge (g = −0.03, nonsignificant)",
+"evidence_strength":"strong",
+"id":"psi-procedural-knowledge-null-pooled-effect",
+"path":"claims/psi-procedural-knowledge-null-pooled-effect.md",
+"status":"draft",
+"title":"PS-I shows no pooled benefit for procedural knowledge (g = −0.03, nonsignificant)",
 "type":"claim"
 },
 {
@@ -120522,6 +120792,15 @@
 "path":"claims/public-vs-private-reflection-mixed.md",
 "status":"draft",
 "title":"Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing",
+"type":"claim"
+},
+{
+"description":"After accounting for publication bias, the estimated true effect favoring PS-I is strong (Hedge's g = 0.87)",
+"evidence_strength":"moderate",
+"id":"publication-bias-corrected-psi-effect-strong",
+"path":"claims/publication-bias-corrected-psi-effect-strong.md",
+"status":"draft",
+"title":"After accounting for publication bias, the estimated true effect favoring PS-I is strong (Hedge's g = 0.87)",
 "type":"claim"
 },
 {
@@ -127037,6 +127316,15 @@
 "path":"claims/retention-interval-moderates-testing-effect.md",
 "status":"draft",
 "title":"Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals",
+"type":"claim"
+},
+{
+"description":"The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals",
+"evidence_strength":"moderate",
+"id":"retention-interval-one-to-six-days-largest",
+"path":"claims/retention-interval-one-to-six-days-largest.md",
+"status":"draft",
+"title":"The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals",
 "type":"claim"
 },
 {
@@ -135178,6 +135466,15 @@
 "type":"claim"
 },
 {
+"description":"Testing effects hold in classrooms (g = 0.67) as in laboratories (g = 0.62), and are largest for secondary students (g = 0.83)",
+"evidence_strength":"moderate",
+"id":"setting-and-education-level-moderators",
+"path":"claims/setting-and-education-level-moderators.md",
+"status":"draft",
+"title":"Testing effects hold in classrooms (g = 0.67) as in laboratories (g = 0.62), and are largest for secondary students (g = 0.83)",
+"type":"claim"
+},
+{
 "description":"Seven budget-friendly strategies increase expected accessibility by 105%–112% while limiting budget increase to less than 7% and keeping unmet-need increases under $500",
 "evidence_strength":"moderate",
 "id":"seven-budget-friendly-accessibility-strategies",
@@ -136653,6 +136950,15 @@
 "type":"claim"
 },
 {
+"description":"Supplementing simulation-based inquiry with learner guidance modestly improves learning outcomes and inquiry skills, with age and domain moderating the effect (review attribution to D'Angelo et al., 2014)",
+"evidence_strength":"weak",
+"id":"simulation-guidance-moderate-effect-dangelo",
+"path":"claims/simulation-guidance-moderate-effect-dangelo.md",
+"status":"draft",
+"title":"Supplementing simulation-based inquiry with learner guidance modestly improves learning outcomes and inquiry skills, with age and domain moderating the effect (review attribution to D'Angelo et al., 2014)",
+"type":"claim"
+},
+{
 "description":"The participatory simulation group achieved significantly larger application gains than the problem-based group",
 "evidence_strength":"moderate",
 "id":"simulation-larger-application-gains",
@@ -136902,6 +137208,15 @@
 "path":"claims/single-person-image-gender-bias.md",
 "status":"draft",
 "title":"Text-to-image models generating single-person software engineering images predominantly depict men, with a strong significant effect for both evaluated models",
+"type":"claim"
+},
+{
+"description":"A single practice test produced a larger effect (g = 0.70) than two or more practice tests (g = 0.51)",
+"evidence_strength":"moderate",
+"id":"single-practice-test-larger-effect",
+"path":"claims/single-practice-test-larger-effect.md",
+"status":"draft",
+"title":"A single practice test produced a larger effect (g = 0.70) than two or more practice tests (g = 0.51)",
 "type":"claim"
 },
 {
@@ -148599,6 +148914,15 @@
 "type":"claim"
 },
 {
+"description":"Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing",
+"evidence_strength":"moderate",
+"id":"tap-identical-formats-stronger-effect",
+"path":"claims/tap-identical-formats-stronger-effect.md",
+"status":"draft",
+"title":"Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing",
+"type":"claim"
+},
+{
 "description":"Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools",
 "evidence_strength":"moderate",
 "id":"tap-increases-reported-mentoring-support",
@@ -150009,6 +150333,15 @@
 "path":"claims/teacher-growth-three-areas-guiding-preschool-math.md",
 "status":"draft",
 "title":"A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment",
+"type":"claim"
+},
+{
+"description":"More teacher guidance within inquiry is associated with larger advantages over traditional instruction, though magnitude estimates vary across meta-analyses",
+"evidence_strength":"mixed",
+"id":"teacher-guided-inquiry-larger-effects",
+"path":"claims/teacher-guided-inquiry-larger-effects.md",
+"status":"draft",
+"title":"More teacher guidance within inquiry is associated with larger advantages over traditional instruction, though magnitude estimates vary across meta-analyses",
 "type":"claim"
 },
 {
@@ -241100,6 +241433,14 @@
 "type":"strategy"
 },
 {
+"description":"In the policy discussion, the authors recommend that given the tens of billions spent annually on PD with limited results, administrators judge whether current expenditures could be used more effectively.",
+"id":"target-coaching-to-teachers-most-in-need",
+"path":"strategies/target-coaching-to-teachers-most-in-need.md",
+"status":"draft",
+"title":"Allocate PD resources to high-cost but effective coaching programs for teachers most in need, rather than lower-cost programs for all teachers",
+"type":"strategy"
+},
+{
 "description":"The brief directs its recommendations and strategies at three distinct audiences: \\\"state officials, district-level staff, and system developers who seek to promote effective data use by decision makers and educators a...",
 "id":"target-data-guidance-by-role",
 "path":"strategies/target-data-guidance-by-role.md",
@@ -260385,9 +260726,11 @@
 "coaching-academic-task-fidelity-higher-quality":"coaching-academic-task-fidelity-higher-quality",
 "coaching-and-team-collaboration-support-data-use":"coaching-and-team-collaboration-support-data-use",
 "coaching-associated-employment-earnings-gains":"coaching-associated-employment-earnings-gains",
+"coaching-complementary-elements-moderators":"coaching-complementary-elements-moderators",
 "coaching-complexity-may-fragment-impact":"coaching-complexity-may-fragment-impact",
 "coaching-components-inconsistently-reported":"coaching-components-inconsistently-reported",
 "coaching-culture-increases-teacher-participation":"coaching-culture-increases-teacher-participation",
+"coaching-dosage-null-effect":"coaching-dosage-null-effect",
 "coaching-dosage-quality-over-quantity":"coaching-dosage-quality-over-quantity",
 "coaching-effective-all-delivery-modes":"coaching-effective-all-delivery-modes",
 "coaching-expanded-program-exposure-completion":"coaching-expanded-program-exposure-completion",
@@ -260402,12 +260745,16 @@
 "coaching-maintenance-rarely-measured":"coaching-maintenance-rarely-measured",
 "coaching-meta-analysis-instruction-effects-p12":"coaching-meta-analysis-instruction-effects-p12",
 "coaching-meta-analysis-positive-effects-instruction-achievement":"coaching-meta-analysis-positive-effects-instruction-achievement",
+"coaching-no-school-level-or-mode-differences":"coaching-no-school-level-or-mode-differences",
 "coaching-outcomes-teacher-knowledge-sustainability-student-learning":"coaching-outcomes-teacher-knowledge-sustainability-student-learning",
 "coaching-participants-more-credentials-despite-higher-risk":"coaching-participants-more-credentials-despite-higher-risk",
 "coaching-partnership-voluntary-non-evaluative":"coaching-partnership-voluntary-non-evaluative",
+"coaching-pooled-achievement-effect-0-18-sd":"coaching-pooled-achievement-effect-0-18-sd",
+"coaching-pooled-instruction-effect-0-49-sd":"coaching-pooled-instruction-effect-0-49-sd",
 "coaching-programs-null-metacognitive-traits":"coaching-programs-null-metacognitive-traits",
 "coaching-raises-teacher-itu-confidence":"coaching-raises-teacher-itu-confidence",
 "coaching-responsibilities-mentoring-and-advocacy":"coaching-responsibilities-mentoring-and-advocacy",
+"coaching-scale-up-diminishing-effects":"coaching-scale-up-diminishing-effects",
 "coaching-shifts-self-reflection-to-insight":"coaching-shifts-self-reflection-to-insight",
 "coaching-time-frequency-linked-to-perceived-value":"coaching-time-frequency-linked-to-perceived-value",
 "coarse-grained-phase-level-tools-outperform-fine-grained":"coarse-grained-phase-level-tools-outperform-fine-grained",
@@ -261961,8 +262308,10 @@
 "direct-conditions-higher-full-comprehension":"direct-conditions-higher-full-comprehension",
 "direct-experience-insufficient-for-meaningful-learning":"direct-experience-insufficient-for-meaningful-learning",
 "direct-experience-questions-stimulate-thinking":"direct-experience-questions-stimulate-thinking",
+"direct-instruction-advantages-vanish-long-term":"direct-instruction-advantages-vanish-long-term",
 "direct-instruction-gains-depend-on-implementation-support":"direct-instruction-gains-depend-on-implementation-support",
 "direct-instruction-improves-outcomes":"direct-instruction-improves-outcomes",
+"direct-instruction-lock-in-constrains-exploration":"direct-instruction-lock-in-constrains-exploration",
 "direct-instruction-no-significant-reading-difference-sixth-grade":"direct-instruction-no-significant-reading-difference-sixth-grade",
 "direct-instruction-two-years-before-significant-difference":"direct-instruction-two-years-before-significant-difference",
 "direct-instructional-involvement-no-benefits-detriments":"direct-instructional-involvement-no-benefits-detriments",
@@ -262183,6 +262532,7 @@
 "dok-under-targeting-gap-ai-dialogue":"dok-under-targeting-gap-ai-dialogue",
 "domain-driven-explanations-build-trust-more-than-data-driven":"domain-driven-explanations-build-trust-more-than-data-driven",
 "domain-driven-explanations-increase-understandability-trust-acceptance":"domain-driven-explanations-increase-understandability-trust-acceptance",
+"domain-general-skills-favor-ips":"domain-general-skills-favor-ips",
 "domain-moderates-unassisted-discovery-deficit":"domain-moderates-unassisted-discovery-deficit",
 "domain-pressure-sycophancy-concentration-eduframetrap":"domain-pressure-sycophancy-concentration-eduframetrap",
 "domain-robust-familiarity-subtle-univariate-eeg":"domain-robust-familiarity-subtle-univariate-eeg",
@@ -263327,7 +263677,11 @@
 "expertise-reversal-effect-redundant-support-harms-experts":"expertise-reversal-effect",
 "expertise-reversal-fits-ati-patterns":"expertise-reversal-fits-ati-patterns",
 "expertise-reversal-guidance-hurts-experts":"expertise-reversal-effect",
+"expertise-reversal-isolated-elements-and-imagination-review":"expertise-reversal-isolated-elements-and-imagination-review",
+"expertise-reversal-modality-effect-review":"expertise-reversal-modality-effect-review",
 "expertise-reversal-prior-knowledge-interaction":"expertise-reversal-prior-knowledge-interaction",
+"expertise-reversal-split-attention-redundancy-review":"expertise-reversal-split-attention-redundancy-review",
+"expertise-reversal-worked-examples-review":"expertise-reversal-worked-examples-review",
 "experts-affirm-indicator-value-query-adoption":"experts-affirm-indicator-value-query-adoption",
 "experts-attend-to-atypical-events":"experts-attend-to-atypical-events",
 "experts-counteract-automaticity-mental-representations":"experts-counteract-automaticity-mental-representations",
@@ -263599,6 +263953,7 @@
 "feedback-makes-behaviour-seen-asynchronous":"feedback-makes-behaviour-seen-asynchronous",
 "feedback-medium-overall-effect-d048-heterogeneous":"feedback-medium-overall-effect-d048-heterogeneous",
 "feedback-most-effective-at-task-and-process-levels":"feedback-most-effective-at-task-and-process-levels",
+"feedback-no-significant-moderation":"feedback-no-significant-moderation",
 "feedback-outcome-measure-moderator-cognitive-physical":"feedback-outcome-measure-moderator-cognitive-physical",
 "feedback-praise-reduces-learning":"feedback-praise-reduces-learning",
 "feedback-quality-motivation-mediated-srl-path":"feedback-quality-motivation-mediated-srl-path",
@@ -264954,8 +265309,12 @@
 "guest-mode-equity-metacognitive-labor":"guest-mode-equity-metacognitive-labor",
 "guidance-advantage-recedes-with-high-prior-knowledge":"guidance-advantage-recedes-with-high-prior-knowledge",
 "guidance-development-instruments-insufficient-alone":"guidance-development-instruments-insufficient-alone",
+"guidance-improves-inquiry-learning-activities":"guidance-improves-inquiry-learning-activities",
+"guidance-improves-inquiry-learning-outcomes":"guidance-improves-inquiry-learning-outcomes",
+"guidance-improves-inquiry-performance-success":"guidance-improves-inquiry-performance-success",
 "guidance-resolves-binding-silence-on-genai":"guidance-resolves-binding-silence-on-genai",
 "guided-ai-use-verification-rules":"guided-ai-use-verification-rules",
+"guided-discovery-outperformed-both-extremes":"guided-discovery-outperformed-both-extremes",
 "guided-discovery-outperforms-pure-discovery":"guided-discovery-outperforms-pure-discovery",
 "guided-inquiry-computational-model-overcomes-amplitude-misconception":"guided-inquiry-computational-model-overcomes-amplitude-misconception",
 "guided-inquiry-outperforms-pure-discovery":"guided-discovery-outperforms-pure-discovery",
@@ -265754,6 +266113,7 @@
 "inhibitory-control-strongest-reappraisal-correlate":"inhibitory-control-strongest-reappraisal-correlate",
 "initial-disparities-persist-through-grade3":"initial-disparities-persist-through-grade3",
 "initial-elp-level-influences-time-to-proficiency":"initial-elp-level-influences-time-to-proficiency",
+"initial-guidance-does-not-improve-learning-from-instruction":"initial-guidance-does-not-improve-learning-from-instruction",
 "initial-inquiry-dominates-chatbot-question-types":"initial-inquiry-dominates-chatbot-question-types",
 "initial-rubric-openness-systematic-underestimation":"initial-rubric-openness-systematic-underestimation",
 "initiative-forms-and-roles-served":"initiative-forms-and-roles-served",
@@ -265816,6 +266176,7 @@
 "institutionalization-criterion-dropped-mle":"institutionalization-criterion-dropped-mle",
 "institutionalization-devastates-affective-development":"institutionalization-devastates-affective-development",
 "institutions-black-gains-gap-closure-shares":"institutions-black-gains-gap-closure-shares",
+"instruction-achievement-weak-link-coaching":"instruction-achievement-weak-link-coaching",
 "instruction-delivery-depends-on-school-context":"instruction-delivery-depends-on-school-context",
 "instruction-following-evaluators-structural-carve-out":"instruction-following-evaluators-structural-carve-out",
 "instruction-has-unintended-moral-effects-that-performance-data-miss":"instruction-has-unintended-moral-effects-that-performance-data-miss",
@@ -267983,6 +268344,7 @@
 "minimal-climate-instruction-hours":"minimal-climate-instruction-hours",
 "minimal-formal-training-sdm-staff":"minimal-formal-training-sdm-staff",
 "minimal-guidance-ineffective-for-novices":"minimal-guidance-less-effective-for-novices",
+"minimal-guidance-inquiry-inferior-explicit-instruction":"minimal-guidance-inquiry-inferior-explicit-instruction",
 "minimal-guidance-instruction-less-effective":"minimal-guidance-less-effective-for-novices",
 "minimal-guidance-less-effective-for-novices":"minimal-guidance-less-effective-for-novices",
 "minimal-persistence-everyday-problem-solving-youth":"minimal-persistence-everyday-problem-solving-youth",
@@ -269541,6 +269903,7 @@
 "pbl-evidence-base-equivocal":"pbl-evidence-base-equivocal",
 "pbl-knowledge-generation-application-dissemination":"pbl-knowledge-generation-application-dissemination",
 "pbl-large-positive-effect-academic-achievement":"pbl-large-positive-effect-academic-achievement",
+"pbl-null-basic-knowledge-positive-transfer":"pbl-null-basic-knowledge-positive-transfer",
 "pbl-overall-effect-modest-large-heterogeneity":"pbl-overall-effect-modest-large-heterogeneity",
 "pbl-skills-interpersonal-problem-solving-group":"pbl-skills-interpersonal-problem-solving-group",
 "pbl-students-positive-views-interviews":"pbl-students-positive-views-interviews",
@@ -269789,6 +270152,7 @@
 "peters-1992-ucsmp-algebra-indeterminate-algebra-effect":"peters-1992-ucsmp-algebra-indeterminate-algebra-effect",
 "pets-expand-data-value-through-sharing":"pets-expand-data-value-through-sharing",
 "pets-utility-privacy-tradeoff":"pets-utility-privacy-tradeoff",
+"pf-fidelity-predicts-psi-effect-size":"pf-fidelity-predicts-psi-effect-size",
 "pfs-chatbot-higher-than-human-mcq":"pfs-chatbot-higher-than-human-mcq",
 "pfs-detectability-diminishes-with-pollution":"pfs-detectability-diminishes-with-pollution",
 "pgr-genai-supportive-assistant-human-oversight":"pgr-genai-supportive-assistant-human-oversight",
@@ -270167,6 +270531,9 @@
 "practice-instrument-partial-reliability-validity-info":"practice-instrument-partial-reliability-validity-info",
 "practice-presence-raises-cbi-posttest-achievement":"practice-presence-raises-cbi-posttest-achievement",
 "practice-supervisor-communication-about-syllabuses-needed-improvement":"practice-supervisor-communication-about-syllabuses-needed-improvement",
+"practice-test-format-moderates-effect":"practice-test-format-moderates-effect",
+"practice-testing-overall-meta-analytic-benefit":"practice-testing-overall-meta-analytic-benefit",
+"practice-tests-aid-retention-and-transfer":"practice-tests-aid-retention-and-transfer",
 "practitioner-considerations-experimental-research":"practitioner-considerations-experimental-research",
 "practitioner-oversight-governance-norms":"practitioner-oversight-governance-norms",
 "practitioners-learned-about-ai":"practitioners-learned-about-ai",
@@ -270459,6 +270826,7 @@
 "problem-level-factors-negligible-diagnostic-variance":"problem-level-factors-negligible-diagnostic-variance",
 "problem-size-deviation-from-optimality-fault-diagnosis":"problem-size-deviation-from-optimality-fault-diagnosis",
 "problem-slide-completion-top-predictor-doer-effect":"problem-slide-completion-top-predictor-doer-effect",
+"problem-solving-before-instruction-boosts-conceptual-transfer":"problem-solving-before-instruction-boosts-conceptual-transfer",
 "problem-solving-preparation-yields-uncritical-or-misconception-based-critiques":"problem-solving-preparation-yields-uncritical-or-misconception-based-critiques",
 "problems-attributed-unplanned-move-not-online-learning":"problems-attributed-unplanned-move-not-online-learning",
 "problems-hindering-metacognitive-strategy-use":"problems-hindering-metacognitive-strategy-use",
@@ -270726,8 +271094,11 @@
 "psi-and-other-districts-similar-central-office-support-perceptions":"psi-and-other-districts-similar-central-office-support-perceptions",
 "psi-districts-offer-new-aspiring-supervisor-programs":"psi-districts-offer-new-aspiring-supervisor-programs",
 "psi-districts-supervisors-made-substantial-changes":"psi-districts-supervisors-made-substantial-changes",
+"psi-effect-increases-with-grade-level":"psi-effect-increases-with-grade-level",
+"psi-fidelity-time-span-interaction":"psi-fidelity-time-span-interaction",
 "psi-improved-principal-perceptions-of-supervisors":"psi-improved-principal-perceptions-of-supervisors",
 "psi-no-improvement-teacher-perceptions-of-principals":"psi-no-improvement-teacher-perceptions-of-principals",
+"psi-procedural-knowledge-null-pooled-effect":"psi-procedural-knowledge-null-pooled-effect",
 "psi-supervisor-role-differences-and-similarities":"psi-supervisor-role-differences-and-similarities",
 "psi-supervisors-more-role-specific-training":"psi-supervisors-more-role-specific-training",
 "psi-supervisors-supervised-fewer-principals":"psi-supervisors-supervised-fewer-principals",
@@ -270766,6 +271137,7 @@
 "public-scrutiny-risk-aversion-edtech-procurement":"public-scrutiny-risk-aversion-edtech-procurement",
 "public-source-benchmark-corrected-scores-rise-dramatically":"public-source-benchmark-corrected-scores-rise-dramatically",
 "public-vs-private-reflection-mixed":"public-vs-private-reflection-mixed",
+"publication-bias-corrected-psi-effect-strong":"publication-bias-corrected-psi-effect-strong",
 "publication-bias-minimal-influence-meta-analysis":"publication-bias-minimal-influence-meta-analysis",
 "publication-bias-pbl-tutor-meta-analysis":"publication-bias-pbl-tutor-meta-analysis",
 "publication-bias-reduces-intercept-no-transfer-without-moderators":"publication-bias-reduces-intercept-no-transfer-without-moderators",
@@ -271496,6 +271868,7 @@
 "retention-increases-special-education-placement":"retention-increases-special-education-placement",
 "retention-interval-by-levels-of-thinking-interaction-not-significant":"retention-interval-by-levels-of-thinking-interaction-not-significant",
 "retention-interval-moderates-testing-effect":"retention-interval-moderates-testing-effect",
+"retention-interval-one-to-six-days-largest":"retention-interval-one-to-six-days-largest",
 "retention-predictors-vary-by-grade":"retention-predictors-vary-by-grade",
 "retention-programs-meeting-all-three-needs-higher-persistence":"retention-programs-meeting-all-three-needs-higher-persistence",
 "retention-racial-disparity-explained-by-scores":"retention-racial-disparity-explained-by-scores",
@@ -272421,6 +272794,7 @@
 "set-nlp-actionability-discontinuity-a2-a3":"set-nlp-actionability-discontinuity-a2-a3",
 "set-nlp-expansion-without-technological-substitution":"set-nlp-expansion-without-technological-substitution",
 "set-nlp-sentiment-modal-depth-fairness-rare":"set-nlp-sentiment-modal-depth-fairness-rare",
+"setting-and-education-level-moderators":"setting-and-education-level-moderators",
 "seven-budget-friendly-accessibility-strategies":"seven-budget-friendly-accessibility-strategies",
 "seven-disciplines-social-sciences-instruction":"seven-disciplines-social-sciences-instruction",
 "seven-districts-hybrid-trend-comparison-study":"seven-districts-hybrid-trend-comparison-study",
@@ -272585,6 +272959,7 @@
 "simulation-evaluates-policy-change-before-implementation":"simulation-evaluates-policy-change-before-implementation",
 "simulation-explores-model-plausibility":"simulation-explores-model-plausibility",
 "simulation-games-higher-skill-based-knowledge":"simulation-games-higher-skill-based-knowledge",
+"simulation-guidance-moderate-effect-dangelo":"simulation-guidance-moderate-effect-dangelo",
 "simulation-larger-application-gains":"simulation-larger-application-gains",
 "simulation-larger-overall-il-gains":"simulation-larger-overall-il-gains",
 "simulation-near-transfer-robust-far-transfer-weak":"simulation-near-transfer-robust-far-transfer-weak",
@@ -272613,6 +272988,7 @@
 "single-novel-reading-incidental-vocabulary-gains":"single-novel-reading-incidental-vocabulary-gains",
 "single-option-focus-summer-melt-risk":"single-option-focus-summer-melt-risk",
 "single-person-image-gender-bias":"single-person-image-gender-bias",
+"single-practice-test-larger-effect":"single-practice-test-larger-effect",
 "single-pretest-wave-reduces-selection-bias":"single-pretest-wave-reduces-selection-bias",
 "single-refinement-iteration-reduces-personalization-failures":"single-refinement-iteration-reduces-personalization-failures",
 "single-stop-daugherty-outcome-specific-effects":"single-stop-daugherty-outcome-specific-effects",
@@ -273924,6 +274300,7 @@
 "tamarack-collective-impact-poverty-reduction-results":"tamarack-collective-impact-poverty-reduction-results",
 "tan-four-ct-booster-sessions-rural-ky":"tan-four-ct-booster-sessions-rural-ky",
 "tap-chicago-five-year-evaluation-design-2007":"tap-chicago-five-year-evaluation-design-2007",
+"tap-identical-formats-stronger-effect":"tap-identical-formats-stronger-effect",
 "tap-increases-reported-mentoring-support":"tap-increases-reported-mentoring-support",
 "tap-no-test-score-impact-year-one":"tap-no-test-score-impact-year-one",
 "tap-raises-teacher-retention-five-points":"tap-raises-teacher-retention-five-points",
@@ -274082,6 +274459,7 @@
 "teacher-grade-effects-stable-across-years":"teacher-grade-effects-stable-across-years",
 "teacher-grading-category-weights-assessments-dominant":"teacher-grading-category-weights-assessments-dominant",
 "teacher-growth-three-areas-guiding-preschool-math":"teacher-growth-three-areas-guiding-preschool-math",
+"teacher-guided-inquiry-larger-effects":"teacher-guided-inquiry-larger-effects",
 "teacher-guided-inquiry-outperforms-student-led":"teacher-guided-inquiry-outperforms-student-led",
 "teacher-hire-demand-increased-43-percent":"teacher-hire-demand-increased-43-percent",
 "teacher-hiring-difficulty-subgroup-differences":"teacher-hiring-difficulty-subgroup-differences",
@@ -285618,6 +285996,7 @@
 "talking_to_young_children_about_race_and_racism":"talking_to_young_children_about_race_and_racism",
 "tapp-six-online-training-modules-specialists":"tapp-six-online-training-modules-specialists",
 "target-5000-word-level-listening-materials":"target-5000-word-level-listening-materials",
+"target-coaching-to-teachers-most-in-need":"target-coaching-to-teachers-most-in-need",
 "target-data-guidance-by-role":"target-data-guidance-by-role",
 "target-emotion-regulation-skills-adolescents":"target-emotion-regulation-skills-adolescents",
 "target-secondary-community-school-supports":"target-secondary-community-school-supports",

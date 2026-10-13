@@ -48,3 +48,4 @@ Delayed cumulative 11-question no-help final exam administered two weeks after Q
 - [Time-on-task measures did not support a simple duration-based explanation for the outcome pattern](time-on-task-no-duration-explanation.md) — related
 - [A scaffolded AI Study Coach produced no assignment-performance or concept-inventory advantage over unrestricted AI use in a master's programming course pilot](scaffolded-coach-no-assignment-performance-advantage.md) — related
 - [Descriptive time-to-fix patterns favored pragmatic messages, but statistical tests found no significant effects](time-to-fix-descriptive-favor-llm-not-significant.md) — related
+- [Taking a practice test before a final test produces a moderately large, statistically significant benefit for learning overall (g = 0.61 fixed-effects; g = 0.70 random-effects)](practice-testing-overall-meta-analytic-benefit.md) — related

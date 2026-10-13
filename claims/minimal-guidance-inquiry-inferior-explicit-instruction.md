@@ -1,0 +1,44 @@
+---
+type: claim
+title: Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)
+description: Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)
+id: minimal-guidance-inquiry-inferior-explicit-instruction
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-13
+evidence_strength: weak
+sources:
+  - id: lazonder-2016
+    resource: "https://doi.org/10.3102/0034654315627366"
+    title: "Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research, 86(3), 681-718. https://doi.org/10.3102/0034654315627366"
+    author: "Lazonder, A. W., & Harmsen, R."
+    q: 2
+    i: 1
+---
+
+# Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+
+## Subclaims
+`q2 i1` The review reports, citing Alfieri et al. (2011), that inquiry with minimal or no guidance is less effective than explicit instruction (d = -0.38), whereas guided inquiry outperforms expository teaching of the same content (d = 0.30). [→ Lazonder 2016](#lazonder-2016)
+
+## Evidence
+
+### Lazonder 2016
+
+Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research, 86(3), 681-718. https://doi.org/10.3102/0034654315627366
+
+`q2 · i1`
+
+Narrative review section reporting a prior meta-analysis; the review attributes to Alfieri et al. (2011) that "inquiry-based methods with minimal or no guidance are less effective than explicit instruction" while adequately guided inquiry beats expository methods. Design of the original meta-analysis is not described here.
+
+> "Alfieri et al. (2011) found that across domains and settings, inquiry-based methods with minimal or no guidance are less effective than explicit instruction (d = −0.38). But when students receive adequate guidance during the inquiry, they learn more (d = 0.30) than students who are taught the same content by expository methods."
+
+## Discussion
+
+
+## Related Claims
+-
