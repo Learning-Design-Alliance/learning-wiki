@@ -15,12 +15,14 @@ sources:
     author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The review reports that the modality effect reverses with expertise: audio-visual presentations helped inexperienced learners, but after further training a diagram-only condition showed a substantial advantage
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Inexperienced learners benefitted most from a diagram combined with auditory explanations, but after further intensive training the advantage of audio text disappeared and then reversed, with a substantial advantage of diagram-only instruction. [→ Kalyuga 2003](#kalyuga-2003)
@@ -31,7 +33,7 @@ sources:
 
 Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The Expertise Reversal Effect. Educational Psychologist, 38(1), 23-31. https://doi.org/10.1207/S15326985EP3801_4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review attributes this to Kalyuga et al. (2000), experiments on using industrial manufacturing machinery: the same students were followed across training stages, and "Subjective mental load ratings collected immediately after each stage of the experimental training clearly supported a cognitive load interpretation."
 

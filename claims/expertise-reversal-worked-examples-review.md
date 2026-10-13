@@ -15,12 +15,14 @@ sources:
     author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The review reports that worked examples benefit inexperienced learners but become redundant with increased experience, when problem solving proves superior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Inexperienced trainees performed better with lower mental load ratings after studying worked examples than after solving problems, but with more experience the advantage disappeared and problem solving became superior. [→ Kalyuga 2003](#kalyuga-2003)
@@ -31,7 +33,7 @@ sources:
 
 Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The Expertise Reversal Effect. Educational Psychologist, 38(1), 23-31. https://doi.org/10.1207/S15326985EP3801_4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review attributes this to Kalyuga, Chandler, Tuovinen, and Sweller (2001), experiments with inexperienced mechanical trade apprentices, adding that with more experience "The worked examples became redun- dant and problem solving proved superior."
 

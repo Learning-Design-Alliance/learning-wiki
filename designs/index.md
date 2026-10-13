@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**714 entries** · 0 stable · 0 in review · 714 drafts
+**715 entries** · 0 stable · 0 in review · 715 drafts
 
 ---
 
@@ -292,6 +292,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four-model ITS architecture with inner and outer loop pedagogical model](script-four-model-architecture-inner-outer-loop.md) - SCRIPT adopts the standard four-models ITS approach: \"a Pedagogical Model, a Learner Model, a Domain Model, and a User Interface.\" The pedagogical model follows VanLehn's inner/outer loop differentiation: \"The outer l...
 * [Four-module architecture for language-driven robot control in educational simulation](edusim-llm-four-module-architecture.md) - The article describes a hierarchical instruction processing pipeline in which natural language is translated into executable robot behavior.
 * [Four-phase generative-AI physics workflow: video generation, Tracker tracking, Excel Solver curve fitting, parameter validation](genai-video-tracking-fitting-workflow.md) - A replicable instructional workflow combining generative-AI video platforms (PixVerse.ai, Grok Imagine, Pippit), the open-source Tracker video analysis tool, and the Microsoft Excel Solver GRG Nonlinear algorithm.
+* [Four-phase iterative cGPT co-creation process with SPAR reflective logging](four-phase-cgpt-co-creation-spar-pattern.md) - The article describes a reusable co-creation pattern with four construction phases: Creation (writing the system prompt and selecting knowledge-base files), Refinement (iterative testing, prompt editing, and SPAR refl...
 * [Four-phase weekly cycle for AI-based noticing practice: video, chatbot interaction, reflection, mentor feedback](four-phase-weekly-ai-simulation-cycle.md) - The implementation was organised as a repeating weekly structure in which \"each week consisting of four phases\".
 * [Four-pillar conceptual framework for tailoring generative UI to learning: curriculum alignment, agency and motivation, guidance and scaffolding, formative feedback](learning-interactives-four-pillars-framework.md) - The article develops a conceptual framework of four pillars for tailoring generative interfaces to learning: \"curriculum alignment; agency and motivation; guidance and scaffolding; formative feedback.\" Each pillar is...
 * [Four-stage data strategy cycle — understand, collect, transform, socialize — carried by a data strategist working with a team leader](four-stages-data-strategy-understand-collect-transform-socialize.md) - This pattern describes how school-based data work is organized in NCS partner high schools.

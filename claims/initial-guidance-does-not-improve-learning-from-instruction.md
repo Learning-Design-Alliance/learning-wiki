@@ -15,18 +15,22 @@ sources:
     author: Manu Kapur
     q: 3
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: manu-kapur-2016-2
     resource: "https://doi.org/10.1080/00461520.2016.1155457"
     title: "Manu Kapur (2016). Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning. Educational Psychologist, 51(2), 289-299. https://doi.org/10.1080/00461520.2016.1155457"
     author: Manu Kapur
     q: 3
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Guidance during initial problem solving does not translate into better learning from subsequent instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In Kapur (2011), guided problem-solving students achieved problem-solving success, yet productive failure students outperformed both guided-generation and direct instruction conditions on posttest measures. [→ Manu Kapur 2016](#manu-kapur-2016)
@@ -38,7 +42,7 @@ sources:
 
 Manu Kapur (2016). Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning. Educational Psychologist, 51(2), 289-299. https://doi.org/10.1080/00461520.2016.1155457
 
-`q3 · i?`
+`q3 · i?` · `theoretical · r3`
 
 A quasi-experimental study assigned students to productive failure, direct instruction, or guided problem-solving conditions. Guidance produced problem-solving success, but unguided productive failure students outperformed both comparison conditions on all posttest measures; no effect size is printed.
 
@@ -48,7 +52,7 @@ A quasi-experimental study assigned students to productive failure, direct instr
 
 Manu Kapur (2016). Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning. Educational Psychologist, 51(2), 289-299. https://doi.org/10.1080/00461520.2016.1155457
 
-`q3 · i?`
+`q3 · i?` · `theoretical · r3`
 
 An independent replication with three conditions (unguided problem solving, guided problem solving with cognitive prompts, direct instruction) found that "cognitive guidance during the initial problem-solving phase did not result in better learning on the posttest"; no effect size is printed.
 

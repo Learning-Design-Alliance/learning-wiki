@@ -15,12 +15,14 @@ sources:
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Coaching program effects shrink substantially at scale: effectiveness trials of larger programs show only a fraction of efficacy-trial effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r?` · `q2`
 
 ## Subclaims
 `q3 i?` Graphical analysis by deciles of teacher sample size shows a clear negative relationship between program size and program effects for both instruction and achievement. [→ Kraft 2018](#kraft-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r?`
 
 Figure 4 scatterplot of average effect size by deciles of teacher sample size with an overlaid OLS linear relationship, using teacher sample size as a proxy for program size; the pattern is descriptive, not a causal estimate.
 

@@ -8,10 +8,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 18,409 |
-| Evidence entries | 21,654 |
+| Claims | 18,413 |
+| Evidence entries | 21,661 |
 | Distinct studies | 5,115 |
-| Claims resting on one study | 18,025 (98%) |
+| Claims resting on one study | 18,029 (98%) |
 | Claims with no coded evidence | 0 |
 | Studies reporting an effect size | 998 of 5,115 (20%) |
 
@@ -20,13 +20,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
 | causal | 66 | 555 | 197 | 369 | 1,187 |
-| quant-synthesis | 39 | 87 | 38 | 120 | 284 |
+| quant-synthesis | 41 | 88 | 38 | 119 | 286 |
 | review | 53 | 307 | 113 | 111 | 584 |
 | associational | 27 | 637 | 300 | 254 | 1,218 |
 | qualitative | 113 | 278 | 72 | 87 | 550 |
 | design | 61 | 544 | 165 | 37 | 807 |
-| theoretical | 73 | 284 | 72 | 53 | 482 |
-| not yet coded | | | | | 3 |
+| theoretical | 74 | 284 | 72 | 53 | 483 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
@@ -34,7 +33,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 |---|---|---|---|
 | 779 (15%) | 3,264 (64%) | 958 (19%) | 114 (2%) |
 
-**Studies per claim:** 0: 0, 1: 18,025, 2: 320, 3: 58, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 18,029, 2: 320, 3: 58, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -142,7 +141,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,372 | 1,156 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 60 | 0 |
-| [designs](designs/index.md) | 714 | 468 | 1 | 0 |
+| [designs](designs/index.md) | 715 | 469 | 1 | 0 |
 | [products](products/index.md) | 1,579 | 1,259 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 421 | 363 | 1 | 0 |
 

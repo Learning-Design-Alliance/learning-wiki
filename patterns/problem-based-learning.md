@@ -25,7 +25,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (3 for, 11 mixed, 1 against) · 20 studies (7 causal, 4 quant-synthesis, 4 review, 3 theoretical, 2 qualitative), `q1`–`q4` · 2 of 20 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (4 for, 11 mixed, 1 against) · 21 studies (7 causal, 4 quant-synthesis, 4 review, 4 theoretical, 2 qualitative), `q1`–`q4` · 2 of 21 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -80,6 +80,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W] — a single case study found that a teacher's in-the-moment departure from the written PBL sequence, to respond to an unplanned real-world event tied to the driving question, produced deeper student-initiated inquiry than the pre-designed ("contrived") authentic scenario; not yet checked against its sources
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — not yet checked against its sources
+- [Solving novel problems before instruction improves conceptual understanding and transfer but not procedural knowledge](../claims/problem-solving-before-instruction-boosts-conceptual-transfer.md) [+W] — attached 2026-10-13 from Manu Kapur (2016), which proposed "Four design features for realizing the benefits of productive failure"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

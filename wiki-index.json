@@ -1,7 +1,7 @@
 {
 "counts":{
-"claim":18409,
-"design":714,
+"claim":18413,
+"design":715,
 "element":1080,
 "learner-variable":12,
 "method":38,
@@ -38654,6 +38654,15 @@
 "path":"claims/dapo-over-grpo-pedagogical-rl.md",
 "status":"draft",
 "title":"DAPO was selected over GRPO for the RL stage because its decoupled policy update gave more stable gradients and superior CDPK performance",
+"type":"claim"
+},
+{
+"description":"The DARPA Digital Tutor, an ITS for U.S.",
+"evidence_strength":"moderate",
+"id":"darpa-digital-tutor-largest-its-effects",
+"path":"claims/darpa-digital-tutor-largest-its-effects.md",
+"status":"draft",
+"title":"The DARPA Digital Tutor, an ITS for U.S. Navy information systems technicians, produced the largest effects in the data set (average ES of 1.97 and 3.18 in two summative evaluations)",
 "type":"claim"
 },
 {
@@ -79216,6 +79225,15 @@
 "type":"claim"
 },
 {
+"description":"ITS groups outperformed conventional-instruction controls in 92% of the 50 evaluations, with gains above 0.25 SD in 78%",
+"evidence_strength":"strong",
+"id":"its-beat-controls-in-92-percent-of-evaluations",
+"path":"claims/its-beat-controls-in-92-percent-of-evaluations.md",
+"status":"draft",
+"title":"ITS groups outperformed conventional-instruction controls in 92% of the 50 evaluations, with gains above 0.25 SD in 78%",
+"type":"claim"
+},
+{
 "description":"ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring",
 "evidence_strength":"strong",
 "id":"its-beats-large-group-cbi-textbooks-not-human-tutoring",
@@ -79321,6 +79339,15 @@
 "path":"claims/its-mature-implementation-personalized-learning.md",
 "status":"draft",
 "title":"Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM",
+"type":"claim"
+},
+{
+"description":"Intelligent tutoring raised test scores by a median of 0.66 standard deviations over conventional instruction across 50 controlled evaluations",
+"evidence_strength":"strong",
+"id":"its-meta-analysis-median-es-066-sd",
+"path":"claims/its-meta-analysis-median-es-066-sd.md",
+"status":"draft",
+"title":"Intelligent tutoring raised test scores by a median of 0.66 standard deviations over conventional instruction across 50 controlled evaluations",
 "type":"claim"
 },
 {
@@ -153541,6 +153568,15 @@
 "type":"claim"
 },
 {
+"description":"ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)",
+"evidence_strength":"strong",
+"id":"test-type-moderates-its-effects",
+"path":"claims/test-type-moderates-its-effects.md",
+"status":"draft",
+"title":"ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)",
+"type":"claim"
+},
+{
 "description":"Course-specific test volumes dropped sharply in spring 2020 and hit record highs in 2021/22",
 "evidence_strength":"moderate",
 "id":"test-volume-pandemic-drop-and-record-high",
@@ -167929,6 +167965,14 @@
 "path":"designs/four-pedagogical-principles-ai-companion-design.md",
 "status":"draft",
 "title":"Four pedagogical principles for AI companion design derived from the HELF",
+"type":"design"
+},
+{
+"description":"The article describes a reusable co-creation pattern with four construction phases: Creation (writing the system prompt and selecting knowledge-base files), Refinement (iterative testing, prompt editing, and SPAR refl...",
+"id":"four-phase-cgpt-co-creation-spar-pattern",
+"path":"designs/four-phase-cgpt-co-creation-spar-pattern.md",
+"status":"draft",
+"title":"Four-phase iterative cGPT co-creation process with SPAR reflective logging",
 "type":"design"
 },
 {
@@ -261940,6 +261984,7 @@
 "danielson-ratings-predict-value-added":"danielson-ratings-predict-value-added",
 "daoism-more-generative-than-confucianism-ai-education":"daoism-more-generative-than-confucianism-ai-education",
 "dapo-over-grpo-pedagogical-rl":"dapo-over-grpo-pedagogical-rl",
+"darpa-digital-tutor-largest-its-effects":"darpa-digital-tutor-largest-its-effects",
 "dashboard-detail-advantage-trends-comparable":"dashboard-detail-advantage-trends-comparable",
 "dashboard-metrics-percentiles-and-proficiency-projections":"dashboard-metrics-percentiles-and-proficiency-projections",
 "dashboard-monitoring-orchestration-type":"dashboard-monitoring-orchestration-type",
@@ -266481,6 +266526,7 @@
 "itl-standards-infrastructure-prerequisite":"itl-standards-infrastructure-prerequisite",
 "its-ambiguous-preintervention-functional-forms-common":"its-ambiguous-preintervention-functional-forms-common",
 "its-applications-augment-not-transform":"its-applications-augment-not-transform",
+"its-beat-controls-in-92-percent-of-evaluations":"its-beat-controls-in-92-percent-of-evaluations",
 "its-beats-large-group-cbi-textbooks-not-human-tutoring":"its-beats-large-group-cbi-textbooks-not-human-tutoring",
 "its-benefits-vary-by-design-context":"its-benefits-vary-by-design-context",
 "its-design-elements-collective-causal-warrant":"its-design-elements-collective-causal-warrant",
@@ -266493,6 +266539,7 @@
 "its-improve-learning-outcomes-with-actionable-feedback":"its-improve-learning-outcomes-with-actionable-feedback",
 "its-improve-outcomes-structured-domains":"its-improve-outcomes-structured-domains",
 "its-mature-implementation-personalized-learning":"its-mature-implementation-personalized-learning",
+"its-meta-analysis-median-es-066-sd":"its-meta-analysis-median-es-066-sd",
 "its-meta-analysis-overall-effect-0-41":"its-meta-analysis-overall-effect-0-41",
 "its-meta-analytic-positive-outcomes":"its-meta-analytic-positive-outcomes",
 "its-practice-no-self-efficacy-gain":"its-practice-no-self-efficacy-gain",
@@ -274818,6 +274865,7 @@
 "test-scores-translated-to-months-of-learning":"test-scores-translated-to-months-of-learning",
 "test-taking-engagement-essential-for-valid-scores":"test-taking-engagement-essential-for-valid-scores",
 "test-taking-motivation-negative-score-bias":"test-taking-motivation-negative-score-bias",
+"test-type-moderates-its-effects":"test-type-moderates-its-effects",
 "test-volume-pandemic-drop-and-record-high":"test-volume-pandemic-drop-and-record-high",
 "testing-benefits-facts-concepts-problem-solving":"testing-benefits-facts-concepts-problem-solving",
 "testing-effect-generalizes-education-levels":"testing-effect-generalizes-education-levels",
@@ -276461,6 +276509,7 @@
 "four-domains-meaningful-learning-goals":"four-domains-meaningful-learning-goals",
 "four-element-question-authoring-scaffolding-session":"four-element-question-authoring-scaffolding-session",
 "four-pedagogical-principles-ai-companion-design":"four-pedagogical-principles-ai-companion-design",
+"four-phase-cgpt-co-creation-spar-pattern":"four-phase-cgpt-co-creation-spar-pattern",
 "four-phase-weekly-ai-simulation-cycle":"four-phase-weekly-ai-simulation-cycle",
 "four-showcased-ler-technologies":"four-showcased-ler-technologies",
 "four-specialized-evaluation-agents-llm-problems":"four-specialized-evaluation-agents-llm-problems",

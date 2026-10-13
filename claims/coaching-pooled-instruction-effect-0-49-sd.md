@@ -15,12 +15,14 @@ sources:
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 4
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
 
 ## Subclaims
 `q4 i2` Across causal studies of teacher coaching, the pooled effect on teachers' instructional practice is 0.49 SD, with substantial variability across programs (random-effect SD 0.33). [→ Kraft 2018](#kraft-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
-`q4 · i2`
+`q4 · i2` · `quant-synthesis · r?`
 
 Random-effects meta-analysis (RVE) of 186 instructional effect sizes from 60 causal studies of coaching programs; pooled estimate 0.49 SD with between-program random-effect SD of 0.33 SD, indicating "substantial variability across programs".
 

@@ -15,18 +15,22 @@ sources:
     author: "Lazonder, A. W., & Harmsen, R."
     q: 2
     i: 1
+    kind: quant-synthesis
+    rigour: "?"
   - id: lazonder-2016-2
     resource: "https://doi.org/10.3102/0034654315627366"
     title: "Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research, 86(3), 681-718. https://doi.org/10.3102/0034654315627366"
     author: "Lazonder, A. W., & Harmsen, R."
     q: 2
     i: 0
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # More teacher guidance within inquiry is associated with larger advantages over traditional instruction, though magnitude estimates vary across meta-analyses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q2` · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` The review reports, citing Furtak et al. (2012), that inquiry with minimal teacher guidance yielded d = 0.25 over traditional instruction, while teacher-directed inquiry comparisons yielded d = 0.65. [→ Lazonder 2016](#lazonder-2016)
@@ -38,7 +42,7 @@ sources:
 
 Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research, 86(3), 681-718. https://doi.org/10.3102/0034654315627366
 
-`q2 · i1`
+`q2 · i1` · `quant-synthesis · r?`
 
 Narrative review reporting the Furtak, Seidel, Iverson, and Briggs (2012) meta-analysis in science: minimal-guidance inquiry showed d = 0.25 over traditional instruction, while teacher-directed inquiry comparisons showed "a considerably higher overall mean effect size (d = 0.65)."
 
@@ -48,7 +52,7 @@ Narrative review reporting the Furtak, Seidel, Iverson, and Briggs (2012) meta-a
 
 Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research, 86(3), 681-718. https://doi.org/10.3102/0034654315627366
 
-`q2 · i0`
+`q2 · i0` · `quant-synthesis · r?`
 
 Narrative review reporting the Carolan, Hutchins, Wickens, and Cumming (2014) meta-analysis, which found "a small but significant overall benefit (g = 0.15)" for more guided over less guided inquiry learning, failing to replicate the larger teacher-directed effect size.
 

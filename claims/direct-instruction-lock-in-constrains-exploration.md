@@ -15,12 +15,14 @@ sources:
     author: Manu Kapur
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Direct instruction may create a lock-in that constrains search for novel solutions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students taught by direct instruction tended to produce only the correct solution, whereas students who solved problems before instruction designed five to six solutions. [→ Manu Kapur 2016](#manu-kapur-2016)
@@ -31,7 +33,7 @@ sources:
 
 Manu Kapur (2016). Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning. Educational Psychologist, 51(2), 289-299. https://doi.org/10.1080/00461520.2016.1155457
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article reports this solution-variety contrast from Kapur's (2014) experiment on standard deviation as emerging evidence that instruction may constrain search for novel solutions; no effect size or test statistic is printed for this contrast.
 

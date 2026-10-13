@@ -15,12 +15,14 @@ sources:
     author: "Lazonder, A. W., & Harmsen, R."
     q: 2
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Supplementing simulation-based inquiry with learner guidance modestly improves learning outcomes and inquiry skills, with age and domain moderating the effect (review attribution to D'Angelo et al., 2014)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r?` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` The review reports, citing D'Angelo et al. (2014), that supplementing a simulation with learner guidance had a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type. [→ Lazonder 2016](#lazonder-2016)
@@ -31,7 +33,7 @@ sources:
 
 Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research, 86(3), 681-718. https://doi.org/10.3102/0034654315627366
 
-`q2 · i2`
+`q2 · i2` · `quant-synthesis · r?`
 
 Narrative review reporting the D'Angelo et al. (2014) meta-analysis: supplementing simulations with learner guidance yielded "a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41)," independent of guidance type. The review describes this as the meta-analysis's more solid conclusion.
 

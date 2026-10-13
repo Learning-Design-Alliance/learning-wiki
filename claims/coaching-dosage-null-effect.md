@@ -15,12 +15,14 @@ sources:
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r?` · `q2`
 
 ## Subclaims
 `q3 i?` For both total coaching hours and total PD hours, the meta-analytic regressions find no evidence that higher dosage produces larger effects on instruction or achievement. [→ Kraft 2018](#kraft-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r?`
 
 Exploratory meta-analytic regressions across the 60 studies; the authors call the dosage measure exploratory due to inconsistent reporting of hours across studies. No effect size is printed for this null finding.
 

@@ -15,12 +15,14 @@ sources:
     author: "Lazonder, A. W., & Harmsen, R."
     q: 4
     i: 2
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
 
 ## Subclaims
 `q4 i2` Across the synthesized studies, guidance had a facilitative overall effect on learning outcomes, d = 0.50, 95% CI [0.37, 0.62]. [→ Lazonder 2016](#lazonder-2016)
@@ -31,7 +33,7 @@ sources:
 
 Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research, 86(3), 681-718. https://doi.org/10.3102/0034654315627366
 
-`q4 · i2`
+`q4 · i2` · `quant-synthesis · r3`
 
 Random-effects meta-analysis of studies assessing learning outcomes, measured through "posttests, criterion tasks, interviews, or questionnaires" administered immediately or shortly after learning; effect sizes were based on gain scores where possible. The summary effect was d = 0.50.
 

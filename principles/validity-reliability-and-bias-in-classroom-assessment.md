@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 139 claims (79 for, 50 mixed, 10 against) · 105 studies (34 associational, 25 design, 16 review, 13 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 10 of 105 report an effect size · 138 claims rest on one study
+> **Evidence** · 140 claims (80 for, 50 mixed, 10 against) · 105 studies (34 associational, 25 design, 16 review, 13 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 10 of 105 report an effect size · 139 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [LLMs differ systematically in grading strictness, forming liberal, restrictive, and balanced grading styles on programming assignments](../claims/llms-differ-liberal-restrictive-balanced-grading-styles.md) [+W] — attached 2026-10-12 from Marcin Jukiewicz (2025), which proposed "Align LLM grader selection with pedagogical goals and maintain human oversight"; tests this page's relationship.
 - [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](../claims/ai-detection-unreliable-biased-high-stakes.md) [+W] — attached 2026-10-12 from Sangwa et al. (2025), which proposed "AI-aware assessment patterns shift evaluation toward process evidence and demonstration of judgment"; tests this page's relationship.
 - [GPT-4.1 and Llama 4 Maverick achieve ICC reliability above 0.90 across all IELTS dimensions, while Gemini 2.5 Flash is moderate and Claude Sonnet 4 and DeepSeek R1 fall below 0.70 in most dimensions](../claims/llm-essay-scoring-reliability-stratification.md) [+W] — attached 2026-10-12 from Tongxi Liu et al. (2026), which proposed "Validate LLM scoring systems for reliability before classroom deployment and adopt predefined reliability thresholds for high-stakes use"; tests this page's relationship.
+- [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](../claims/gpa-most-predictive-attainment-english-learners.md) [+W] — attached 2026-10-13 from Allensworth et al. (2025), which proposed "Use the same early warning and college readiness indicator systems for English Learners as for other students, but apply group-specific risk thresholds, especially for active English Learners in high school"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

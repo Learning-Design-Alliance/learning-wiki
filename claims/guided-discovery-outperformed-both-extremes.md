@@ -15,12 +15,14 @@ sources:
     author: Manu Kapur
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Guided discovery outperformed both unguided discovery and direct instruction in classic studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Mayer's (2004) review showed direct instruction was not the most effective condition; guided discovery outperformed both unguided discovery and direct instruction. [→ Manu Kapur 2016](#manu-kapur-2016)
@@ -31,7 +33,7 @@ sources:
 
 Manu Kapur (2016). Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning. Educational Psychologist, 51(2), 289-299. https://doi.org/10.1080/00461520.2016.1155457
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article cites Kittel's (1957) three-condition experiment on logic problems, reported within Mayer's (2004) review, in which guided discovery was best for retention and transfer; Gagne and Brown (1961) echoed the finding in math learning. No effect sizes are printed.
 
