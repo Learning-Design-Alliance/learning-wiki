@@ -13,7 +13,7 @@ generated:
 # School Climate Index (SCI)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A California Department of Education Safe and Supportive Schools indicator that aggregates student self-report data to measure school climate across supports, engagement, safety, violence, victimization, substance use, and truancy.
@@ -24,7 +24,7 @@ A California Department of Education Safe and Supportive Schools indicator that 
 
 ### Claims
 - [Beating-the-odds schools have substantially more positive school climate than other California middle and high schools](../claims/bto-schools-higher-school-climate-percentile.md) [+M]
-- [Beating-the-odds California secondary schools have substantially more positive school climates than other secondary schools](../claims/bto-schools-more-positive-school-climates.md) [+M]
+- [Beating-the-odds California secondary schools have substantially more positive school climates than other secondary schools](../claims/bto-schools-higher-school-climate-percentile.md) [+M]
 
 ## Related Products and Programmes
 -

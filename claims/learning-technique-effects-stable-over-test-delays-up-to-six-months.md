@@ -50,4 +50,4 @@ The long-delay effects come mostly from the practice techniques, whose benefits 
 ## Related Claims
 
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
-- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
+- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — related

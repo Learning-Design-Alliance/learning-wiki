@@ -44,7 +44,6 @@ In the pilot analyses, "Cronbach's alpha was calculated for the full FFL and for
 
 ## Related Claims
 - [The full FFL showed good internal consistency for both principals and assistant principals in the 2012/13 pilot](ffl-full-scale-good-internal-consistency.md) — related
-- [Most FFL scores for specific leadership practices fell in the top two of four performance levels, indicating limited score variation](ffl-scores-cluster-top-performance-levels.md) — related
-- [Most school leaders received scores in the top two performance categories on FFL-measured practices](ffl-scores-concentrated-in-top-categories.md) — related
+- [Most FFL scores for specific leadership practices fell in the top two of four performance levels, indicating limited score variation](ffl-scores-concentrated-in-top-categories.md) — related
 - [School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories](ffl-practice-categories-correlated.md) — related
 - School leaders who scored higher in one FFL category tended to score higher in the other categories — related

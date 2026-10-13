@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: generative-processing-improves-learning
-aliases: [generative-learning-improves-retention, generative-learning-improves-comprehension]
+aliases: [generative-learning-improves-retention, generative-learning-improves-comprehension, self-explanation-prompts-meta-analysis-g-055]
 evidence_strength:
 sources:
   - id: bisra-et-al-2018
@@ -32,6 +32,8 @@ Generative processing means learners actively construct connections between new 
 
 `q4 i2` Prompting learners to self-explain — a canonical generative strategy that forces selecting, organizing, and integrating information — produces a moderate learning benefit over passive study or problem-solving without such prompts, across a wide range of instructional conditions. [→ Bisra et al. 2018](#bisra-et-al-2018)
 
+`q4 i2` Across 69 effect sizes from 64 research reports meeting inclusion criteria, participants who received self-explanation prompts while studying or solving problems showed better learning outcomes, with a random-effects weighted mean g = .55. [→ Bisra 2018](#bisra-et-al-2018)
+
 ## Evidence
 
 ### Bisra et al. 2018
@@ -41,6 +43,18 @@ Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2018). Inducing S
 `q4 · meta-analysis (random-effects model)` · `i2 · medium effect, g=0.55` · `n=69 effect sizes (64 research reports)` · `quant-synthesis · r?`
 
 A meta-analysis of studies that induced self-explanation — a generative strategy in which learners produce inferences about causal connections or conceptual relationships in to-be-learned material — while studying text, worked examples, or solving problems, compared with matched conditions without self-explanation prompts. Pooling 69 effect sizes from 64 research reports with a random-effects model, the authors found an overall weighted mean effect of Hedges' *g* = 0.55 favoring self-explanation. The benefit held across 20 coded moderators (task type, subject area, level of education, type of inducement, treatment duration), leading the authors to describe self-explanation prompts as "a potentially powerful intervention across a range of instructional conditions."
+
+<!-- merged 2026-10-13 from self-explanation-prompts-meta-analysis-g-055: that page's entry for this study, which differed from the one above, kept verbatim.
+### Bisra 2018
+
+Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2018). Inducing Self-Explanation: a Meta-Analysis. Educational Psychology Review, 30, 703–725. https://doi.org/10.1007/s10648-018-9434-x
+
+`q4 · i2` · `quant-synthesis · r2`
+
+Meta-analysis with a systematic database search of studies of self-explanation prompts; random-effects synthesis produced an overall weighted mean effect size described as "g = .55" across the included effect sizes.
+
+> "Our systematic search of relevant bibliographic databases identified 69 effect sizes (from 64 research reports) which met certain inclusion criteria. The overall weighted mean effect size using a random effects model was g = .55."
+-->
 
 ## Discussion
 
@@ -89,6 +103,5 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](faded-steps-hypothesized-trigger-self-explanations.md) — related
 - The meta-analysis coded and analyzed 20 moderator variables of the self-explanation effect — related
 - [Self-explanation prompting is potentially effective across a range of instructional conditions](self-explanation-effective-across-instructional-conditions.md) — possibly the same claim (merge candidate)
-- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](self-explanation-prompts-meta-analysis-g-055.md) — possibly the same claim (merge candidate)
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — a narrower finding that bears on this claim
 - [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related

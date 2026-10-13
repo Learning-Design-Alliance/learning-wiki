@@ -44,9 +44,8 @@ The snapshot reports that hiring and transfer patterns across the 26 districts a
 
 ## Related Claims
 - [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — possibly the same claim (merge candidate)
-- [Average differences in teacher effectiveness for high- and low-income students are small in the average study district](small-average-effectiveness-differences-by-income.md) — a broader claim this one bears on
-- [In the average study district, differences in teacher effectiveness between high- and low-income students' teachers are small](small-average-effectiveness-differences.md) — a broader claim this one bears on
+- [Average differences in teacher effectiveness for high- and low-income students are small in the average study district](small-average-effectiveness-differences.md) — a broader claim this one bears on
 - [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related
 - [A small subset of study districts shows meaningful inequity in low-income students' access to effective math teachers](math-inequity-subset-districts.md) — related
-- [High- and low-income students have similar chances of being taught by the most and least effective teachers](similar-access-most-least-effective-teachers-income.md) — related
+- [High- and low-income students have similar chances of being taught by the most and least effective teachers](similar-access-most-least-effective-teachers.md) — related
 - [Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students](three-processes-contribute-teacher-quality-gaps.md) — related

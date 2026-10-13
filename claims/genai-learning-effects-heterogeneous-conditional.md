@@ -64,7 +64,7 @@ The review attributes to Kumar et al.'s systematic review of 72 primary studies 
 ## Related Claims
 - [GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity](genai-writing-instruction-pooled-effect-g-080.md) — related
 - [Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling](genai-effect-heterogeneity-random-effects.md) — related
-- [GenAI-supported learning is associated with higher learning motivation on average (g = 0.764), but with very high between-study heterogeneity (I2 = 93.7%)](genai-positive-average-effect-learning-motivation-g-0764.md) — related
+- [GenAI-supported learning is associated with higher learning motivation on average (g = 0.764), but with very high between-study heterogeneity (I2 = 93.7%)](genai-learning-motivation-g081.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [SRL skills and prior knowledge predict revision performance, while SRL predicts higher and prior knowledge lower cognitive load](learner-characteristics-predict-ai-collaboration-outcomes.md) — related
 - [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](boundary-conditions-verification-reliance-genai.md) — related

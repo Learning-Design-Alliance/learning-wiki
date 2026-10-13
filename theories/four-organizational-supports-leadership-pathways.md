@@ -16,7 +16,7 @@ sources:
 # Four organizational supports mediating leadership effects on instruction and learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 5 studies (2 associational, 1 causal, 1 review, 1 design), `q2` · 0 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 6 studies (3 associational, 1 causal, 1 review, 1 design), `q2` · 0 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 The article organizes school leadership effects through the Bryk et al. (2010) conceptual model, in which leadership works primarily to develop four organizational supports that mediate effects on classroom instruction and student outcomes. As the article states, school processes were "classified school processes into four broad areas—instructional guidance, the professional capacity of staff members, family and community involvement, and the learning climate of the school." Principal leadership operates by focusing mission and goals, actively supporting instruction, and supporting trust and collaboration; teacher leadership contributes influence in decision-making. The model also includes school context as an input.

@@ -12,7 +12,7 @@ generated:
 # Relevant Vocabulary Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 6 studies (4 causal, 2 quant-synthesis), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies (4 causal, 3 quant-synthesis), `q2`–`q4` · 3 of 7 report an effect size
 
 ## Description
 Instructors select and teach vocabulary that is directly useful or necessary for learners' goals, rather than working through arbitrary word lists. Selection can be learner-driven (polling learners on topics they want to discuss and compiling the most common suggestions) or goal-driven (targeting high-frequency or discipline-critical terms). After a new word is introduced, learners must use it productively — in conversation, role play, or original sentences — because relevance plus active use drives retention.
@@ -30,7 +30,7 @@ Vocabulary instruction works best when the words taught are ones learners will a
 
 #### Constraints
 - Tailoring to diverse needs within one class is time-consuming and can dilute whole-class instruction [-W]
-- Relevance alone is insufficient: words taught once and never revisited show poor retention; spaced re-encounters are required [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+- Relevance alone is insufficient: words taught once and never revisited show poor retention; spaced re-encounters are required [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 - Learner-selected topics may omit words that are actually critical for upcoming texts or assessments [~W]
 - Overloading a lesson with too many new words exceeds working memory capacity and degrades learning of all of them [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]
 
@@ -54,7 +54,7 @@ Vocabulary instruction works best when the words taught are ones learners will a
 1. Survey learners or analyze upcoming materials to identify the highest-utility words for the group's goals.
 2. Select a small set per lesson (research suggests roughly 5–10 new items for deep treatment) and present each with definition, example contexts, and connections to known words.
 3. Have learners use each word productively — original sentences, conversation, or [Act It Out](../elements/act-it-out.md) role play.
-4. Schedule spaced re-encounters through review activities and deliberate reuse in later lessons [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+4. Schedule spaced re-encounters through review activities and deliberate reuse in later lessons [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 5. For learners with needs outside the group consensus, assign individualized word sets with tailored resources and check progress at [Check-Ins](../elements/check-in.md).
 
 ## Related Strategies

@@ -6,6 +6,7 @@ generated:
   by: "claude/unspecified"
   at: 2026-08-30
 id: coherence-principle-irrelevant-material-hurts-learning
+aliases: [coherence-principle-mayer-2008]
 evidence_strength: moderate
 sources:
   - id: harp-mayer-1998
@@ -32,6 +33,14 @@ sources:
     i: "?"
     kind: quant-synthesis
     rigour: "?"
+  - id: richard-e-mayer-2008
+    resource: "https://doi.org/10.1037/0003-066x.63.8.760"
+    title: "Richard E. Mayer. (2008). Applying the Science of Learning: Evidence-Based Principles for the Design of Multimedia Instruction. American Psychologist. https://doi.org/10.1037/0003-066x.63.8.760"
+    author: Richard E. Mayer
+    q: 3
+    i: 3
+    kind: theoretical
+    rigour: 3
 ---
 
 # Coherence Principle Irrelevant Material Hurts Learning
@@ -48,6 +57,8 @@ Adding interesting-but-irrelevant text, images, sounds, or music to instructiona
 `q3 i?` Adding extraneous material to a multimedia explanation reduced understanding across three experiments — presenting more produced less. [→ Mayer et al. 2001](#mayer-et-al-2001)
 
 `q4 i?` Meta-analysis of the seductive-detail effect confirmed a reliable negative effect on retention and transfer, with an average magnitude in the small range rather than the large one the original experiments suggested. [→ Rey 2012](#rey-2012)
+
+`q3 i3` Across 13 of 14 experiments, students performed better on problem-solving transfer tests after a concise lesson than an expanded lesson with extraneous material, median d = 0.97. [→ Richard E. Mayer 2008](#richard-e-mayer-2008)
 
 ## Evidence
 
@@ -75,6 +86,16 @@ Rey, G. D. (2012). A review of research and a meta-analysis of the seductive det
 
 A review and meta-analysis of the seductive-detail literature. The effect held on retention and transfer measures, and the pooled magnitude was smaller than the headline experiments implied. Recorded here at `i1` for that reason: the direction is well supported, and a designer should not expect a large effect from removing one embellishment.
 
+### Richard E. Mayer 2008
+
+Richard E. Mayer. (2008). Applying the Science of Learning: Evidence-Based Principles for the Design of Multimedia Instruction. American Psychologist. https://doi.org/10.1037/0003-066x.63.8.760
+
+`q3 · i3` · `theoretical · r3`
+
+Program of controlled experiments in the author's lab comparing concise versus expanded lessons (adding interesting facts, video clips, or music) on lightning, ocean waves, and brakes; the article reports "students performed better on a problem-solving transfer test after receiving a concise lesson rather than an expanded lesson" in 13 of 14 experiments, with median d = 0.97.
+
+> "The median effect size ( d) was 0.97, which is considered a large effect."
+
 ## Discussion
 
 **Mechanism.** The coherence principle follows from [cognitive load theory](../theories/cognitive-load-theory.md): working memory has severely limited capacity, and seductive details — emotionally interesting but tangential material — compete for those resources, diverting attention away from essential content and disrupting the construction of a coherent mental model. This connects directly to [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) and [Chunking reduces working-memory load](chunking-reduces-working-memory-load.md).
@@ -95,4 +116,3 @@ A review and meta-analysis of the seductive-detail literature. The effect held o
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — a broader claim this one bears on
 - [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — related
 - [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](personalized-problem-contexts-boost-engagement-grades-4-8.md) — reports the opposite
-- [Coherence principle: students transfer better from concise multimedia lessons than lessons expanded with extraneous material](coherence-principle-mayer-2008.md) — possibly the same claim (merge candidate)

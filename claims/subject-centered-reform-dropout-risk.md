@@ -43,6 +43,6 @@ This is the author's interpretive argument about state responses to A Nation at 
 
 
 ## Related Claims
-- [Requiring all students to take college-prep courses did not increase dropout; graduation rates did not decline even for low-ability students](college-prep-mandate-no-dropout-increase.md) — related
+- [Requiring all students to take college-prep courses did not increase dropout; graduation rates did not decline even for low-ability students](college-prep-all-no-dropout-increase.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance](cps-graduation-rates-improved-without-performance-decline.md) — related

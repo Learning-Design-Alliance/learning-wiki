@@ -43,6 +43,5 @@ Authors' interpretive conclusion drawn from usage data across the three pilots; 
 
 
 ## Related Claims
-- [U.S. technology spending per learner is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant ed-tech innovation in adult learning](tech-spending-145-k12-versus-50-adult-learner.md) — related
-- [Per-learner technology spending is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant innovation in the adult market](adult-ed-tech-spending-50-versus-145-k12.md) — related
+- [U.S. technology spending per learner is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant ed-tech innovation in adult learning](adult-ed-tech-spending-50-versus-145-k12.md) — related
 - [US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs](adult-ed-delivery-structures-fractured.md) — related

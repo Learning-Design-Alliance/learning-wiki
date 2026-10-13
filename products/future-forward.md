@@ -26,7 +26,7 @@ sources:
 # Future Forward
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 15 claims (11 for, 3 mixed, 1 against) · 2 studies (2 causal), `q2`–`q3` · 2 of 2 report an effect size · 15 claims rest on one study
+> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 2 studies (2 causal), `q2`–`q3` · 2 of 2 report an effect size · 12 claims rest on one study
 
 ## Description
 Future Forward is a branded early-literacy tutoring and family-engagement programme implemented by participating schools and sites for struggling students in kindergarten through grade 3.
@@ -45,9 +45,9 @@ Future Forward is a branded early-literacy tutoring and family-engagement progra
 - [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [-W]
 - [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](../claims/future-forward-prior-rct-evidence.md) [+W]
-- [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](../claims/ff-prior-rct-literacy-attendance-impacts.md) [+W]
-- [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](../claims/ff-rct-significant-attendance-impact.md) [+W]
-- [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](../claims/ff-tutoring-scale-up-success.md) [+W]
+- [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](../claims/future-forward-prior-rct-evidence.md) [+W]
+- [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
+- [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](../claims/future-forward-tutoring-scaled-up.md) [+W]
 - [The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold](../claims/ff-family-engagement-under-implementation.md) [~W]
 - [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [~W]
 - [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](../claims/future-forward-differential-impact-subgroups.md) [~W]
@@ -149,9 +149,9 @@ Future Forward is an early elementary literacy program administered by Education
 
 ## Claims
 
-- [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](../claims/ff-prior-rct-literacy-attendance-impacts.md) [+W]
-- [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](../claims/ff-rct-significant-attendance-impact.md) [+W]
-- [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](../claims/ff-tutoring-scale-up-success.md) [+W]
+- [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](../claims/future-forward-prior-rct-evidence.md) [+W]
+- [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
+- [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](../claims/future-forward-tutoring-scaled-up.md) [+W]
 - [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](../claims/future-forward-tutoring-scaled-up.md) [+W]
 - [The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold](../claims/ff-family-engagement-under-implementation.md) [~W]
 - [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [~W]

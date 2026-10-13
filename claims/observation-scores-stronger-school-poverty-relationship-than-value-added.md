@@ -3,6 +3,7 @@ type: claim
 title: Observation scores have a stronger relationship with school poverty than value-added scores
 description: Observation scores have a stronger relationship with school poverty than value-added scores
 id: observation-scores-stronger-school-poverty-relationship-than-value-added
+aliases: [observation-scores-stronger-poverty-concentration]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: associational
     rigour: 2
+  - id: jennie-y-jiang-2016
+    resource: "http://consortium.uchicago.edu/page/teacher-evaluation"
+    title: "Jennie Y. Jiang, Susan E. Sporte. (2016). Teachers with lowest evaluation scores are overrepresented in high-poverty schools. University of Chicago Consortium on School Research. http://consortium.uchicago.edu/page/teacher-evaluation"
+    author: Jennie Y. Jiang, Susan E. Sporte
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Observation scores have a stronger relationship with school poverty than value-added scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q3`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`–`q3`
 
 ## Subclaims
+
 `q3 i?` Differences in observation scores by school poverty level are more pronounced than differences in value-added scores, with a moderate negative correlation between observation scores and school economic disadvantage. [→ Jiang 2016](#jiang-2016)
+
+`q2 i?` 30 percent of the lowest-scoring teachers on observations are in the highest-poverty schools, while only 9 percent are in the lowest-poverty schools, a more pronounced imbalance than for value-added scores. [→ Jennie Y. Jiang 2016](#jennie-y-jiang-2016)
 
 ## Evidence
 
@@ -39,12 +51,23 @@ Descriptive correlational analysis of 2013-14 CPS observation scores aggregated 
 
 > "There is a moderate negative correlation (-0.33) between observation scores and the concentration of economically disadvantaged students in schools."
 
+### Jennie Y. Jiang 2016
+
+Jennie Y. Jiang, Susan E. Sporte. (2016). Teachers with lowest evaluation scores are overrepresented in high-poverty schools. University of Chicago Consortium on School Research. http://consortium.uchicago.edu/page/teacher-evaluation
+
+`q2 · i?` · `associational · r2`
+
+Same observational analysis of REACH Students data. Observation-score concentration across poverty levels is steeper than for value-added: "30 percent of the lowest-scoring teachers are found in the highest-poverty schools, while only 9 percent are in schools with the lowest poverty."
+
+> "The differences in observation scores are more pronounced: 30 percent of the lowest-scoring teachers are found in the highest-poverty schools, while only 9 percent are in schools with the lowest poverty."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Minority teachers have lower observation scores than white teachers but no significant differences on value added](minority-teachers-lower-observation-no-value-added-difference.md) — related
-- [Low observation scores are even more concentrated in high-poverty schools than low value-added scores](observation-scores-stronger-poverty-concentration.md) — possibly the same claim (merge candidate)
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — possibly the same claim (merge candidate)
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — related

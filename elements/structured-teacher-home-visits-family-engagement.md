@@ -17,7 +17,7 @@ sources:
 # Structured relationship-building teacher home visits as a family engagement program component
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The evaluated element is a family engagement program in which teachers conduct "structured relationship-building teacher home visits" with students in grades 1-5, delivered "before the start of the school year" in District of Columbia Public Schools. The program was evaluated against a matched comparison group of nonvisited students on disciplinary incidents and attendance. Its mechanism, as framed by the study, is building relationships between teachers and families rather than delivering academic instruction.
@@ -38,7 +38,7 @@ The evaluated element is a family engagement program in which teachers conduct "
 
 ## Claims
 
-- [A pre-school-year teacher home visit reduces the likelihood of a student having a disciplinary incident in grades 1-5](../claims/home-visit-reduces-disciplinary-incidents-dcps.md) [+W]
+- [A pre-school-year teacher home visit reduces the likelihood of a student having a disciplinary incident in grades 1-5](../claims/pthv-home-visit-reduces-disciplinary-incidents.md) [+W]
 - [A teacher home visit slightly improves student attendance on average in grades 1-5](../claims/home-visit-slightly-improves-attendance-dcps.md) [+W]
 
 ## Related Elements

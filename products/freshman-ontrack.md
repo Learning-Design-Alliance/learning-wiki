@@ -45,7 +45,7 @@ sources:
 # Freshman OnTrack
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 25 claims (23 for, 2 mixed) · 11 studies (5 associational, 2 causal, 2 design, 1 qualitative, 1 theoretical), `q2`–`q3` · 0 of 11 report an effect size · 24 claims rest on one study
+> **Evidence** · 24 claims (22 for, 2 mixed) · 12 studies (5 associational, 3 design, 2 causal, 1 qualitative, 1 theoretical), `q2`–`q3` · 0 of 12 report an effect size · 22 claims rest on one study
 
 ## Description
 A school early-warning indicator and dashboard system that combines student attendance, grades, discipline, and momentum data to monitor freshman on-track status and guide support.
@@ -63,7 +63,7 @@ A school early-warning indicator and dashboard system that combines student atte
 ### Claims
 
 - [Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan](../claims/fragmented-data-systems-slow-intervention-planning.md) [+W]
-- [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impacts on Black and Latino students](../claims/off-track-ninth-grade-half-graduation-likelihood.md) [+M]
+- [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impacts on Black and Latino students](../claims/ninth-grade-off-track-graduation-risk-disparities.md) [+M]
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](../claims/freshman-attendance-predicts-graduation-independent-of-gpa.md) [+W]
 - [On-track status predicts graduation better than eighth-grade test scores](../claims/on-track-better-predictor-than-eighth-grade-tests.md) [+W]
 - [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](../claims/on-track-freshmen-graduate-at-higher-rates.md) [+W]
@@ -77,7 +77,7 @@ A school early-warning indicator and dashboard system that combines student atte
 - [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](../claims/cps-ontrack-rose-58-to-89-graduation-up-19-points.md) [+M]
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](../claims/freshman-ontrack-predictiveness-held-over-time.md) [+M]
 - [Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups](../claims/cps-on-track-rate-rose-25-points-districtwide.md) [+M]
-- [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](../claims/on-track-ninth-graders-3-5-times-more-likely-to-graduate.md) [+W]
+- [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](../claims/on-track-freshmen-graduate-at-higher-rates.md) [+W]
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](../claims/freshman-ontrack-predictiveness-held-over-time.md) [+W]
 - [Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts](../claims/cps-systemwide-first-year-on-track-percentages.md) [+W]
 - [The on-track indicator is strongly related to students' likelihood of graduating](../claims/on-track-indicator-related-to-graduation-likelihood.md) [+W]
@@ -139,7 +139,7 @@ The Freshman On-Track dashboard is a co-designed configuration solution that "ag
 ## Claims
 
 - [Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan](../claims/fragmented-data-systems-slow-intervention-planning.md) [+W]
-- [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impacts on Black and Latino students](../claims/off-track-ninth-grade-half-graduation-likelihood.md) [+M]
+- [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impacts on Black and Latino students](../claims/ninth-grade-off-track-graduation-risk-disparities.md) [+M]
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](../claims/freshman-attendance-predicts-graduation-independent-of-gpa.md) [+W]
 
 ## Related Elements
@@ -321,7 +321,7 @@ The Office of Graduation Pathways, working with Consortium researchers, develope
 
 ## Claims
 
-- [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](../claims/on-track-ninth-graders-3-5-times-more-likely-to-graduate.md) [+W]
+- [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](../claims/on-track-freshmen-graduate-at-higher-rates.md) [+W]
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](../claims/ontrack-predicts-graduation-beyond-prior-achievement.md) [+W]
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](../claims/freshman-warning-indicators-identify-70-percent-nongraduates.md) [+W]
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](../claims/freshman-ontrack-predictiveness-held-over-time.md) [+W]
@@ -408,7 +408,7 @@ The on-track indicator is a binary first-year achievement measure used by the Co
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 1997 cohort](../claims/vivaldi-1997-on-track-varies-by-high-school.md) [+W]
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 2001 cohort](../claims/vivaldi-2001-on-track-varies-by-high-school.md) [+W]
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](../claims/ontrack-predicts-graduation-beyond-prior-achievement.md) [+W]
-- [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](../claims/on-track-ninth-graders-3-5-times-more-likely-to-graduate.md) [+W]
+- [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](../claims/on-track-freshmen-graduate-at-higher-rates.md) [+W]
 - [Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students](../claims/ell-ontrack-35-times-more-likely-graduate.md) [+W]
 
 ## Related Elements

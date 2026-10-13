@@ -44,7 +44,6 @@ The article poses this as a key research question about whether "models that use
 
 ## Related Claims
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](act-adds-little-beyond-hsgpa.md) — reports the opposite
-- [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce high-school variance](act-adds-little-beyond-hsgpa-graduation.md) — reports the opposite
 - [Both HSGPA and ACT scores leave large high school effects on college graduation unexplained, which the study recommends measuring and publishing directly](high-school-effects-beyond-gpa-and-act.md) — related
 - [ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA](act-subgroup-misprediction-and-school-variance.md) — related
 - [Students with the same HSGPA or the same ACT score graduate from college at different rates depending on which high school they attended](high-school-effects-same-gpa-act-graduation-rates.md) — related

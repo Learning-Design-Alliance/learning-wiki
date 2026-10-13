@@ -45,8 +45,7 @@ Randomized controlled design for Cohort 3 NSI comparing schools randomly assigne
 ## Related Claims
 - [After schools' second year of participation, the 8th-grade on-track NSI did not impact the targeted student outcomes](8th-grade-on-track-nsi-no-impacts-year-two.md) — related
 - [The impact of the 9th-grade on-track NSI appeared to increase over time](9th-grade-on-track-nsi-impact-increased-over-time.md) — related
-- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](9th-grade-on-track-nsi-positive-impacts-year-two.md) — related
-- [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
+- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
 - [Network cohesion in NSI increased over time but remained low, with about 16 percent of possible school-to-school connections realized](nsi-network-cohesion-low-but-improving.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related

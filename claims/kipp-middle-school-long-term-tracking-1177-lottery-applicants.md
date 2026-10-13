@@ -50,6 +50,5 @@ Report abstract describing the study scope: a long-term tracking study of 1,177 
 - [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](kipp-lottery-offer-rct-group-balance.md) — related
 - [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related
 - [Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school](kipp-offer-high-compliance-middle-and-high-attendance.md) — related
-- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](kipp-lottery-rct-balances-treatment-and-control.md) — related
 - [KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges](kipp-middle-schools-positive-impact-four-year-college-enrollment.md) — related
 - [Receiving an offer of admission to a KIPP middle school increases enrollment in 4-year college programs by 6.9 percentage points](kipp-middle-offer-increases-four-year-college-enrollment.md) — related

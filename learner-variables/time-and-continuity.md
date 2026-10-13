@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (71 for, 20 mixed, 12 against) · 91 studies (34 causal, 19 associational, 17 review, 8 quant-synthesis, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 20 of 91 report an effect size · 99 claims rest on one study
+> **Evidence** · 102 claims (70 for, 20 mixed, 12 against) · 91 studies (34 causal, 19 associational, 17 review, 8 quant-synthesis, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 20 of 91 report an effect size · 98 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -34,7 +34,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 
 ## Claims
 
-- [Distributed practice improves retention](../claims/distributed-practice-improves-retention.md) [+S] — the core finding
+- [Distributed practice improves retention](../claims/spaced-repetition-improves-retention.md) [+S] — the core finding
 - [Spacing improves long term retention](../claims/spaced-practice-improves-retention.md) [+S] — the same effect stated over the interval that matters
 - [Interleaving improves learning](../claims/interleaving-improves-inductive-learning.md) [+M] — mixing problem types builds the discrimination that blocking hides
 - [Desirable difficulties improve retention](../claims/desirable-difficulties-enhance-learning.md) [~M] — the frame that explains why the better schedule feels worse
@@ -54,7 +54,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](../claims/ece-higher-completion-college-employment.md) [+M] — learners who differ on it differ in outcomes
 - [Evidence on remedial time across instructional units supports Bloom's claim that differences between fast and slow learners diminish under mastery learning](../claims/remedial-time-decreases-over-units.md) [~M] — an instructional effect differs with it
 - [FF's attendance impact was greatest for Black male students, and especially Black male students with low baseline attendance](../claims/ff-intersectional-impact-black-male-low-attendance.md) [+M] — an instructional effect differs with it
-- [FF's attendance impact was larger for Black students, male students, and students with low baseline attendance than for their comparison subgroups](../claims/ff-differential-attendance-subgroups.md) [+M] — an instructional effect differs with it
+- [FF's attendance impact was larger for Black students, male students, and students with low baseline attendance than for their comparison subgroups](../claims/future-forward-differential-impact-subgroups.md) [+M] — an instructional effect differs with it
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](../claims/full-day-prek-associated-el-kindergarten-readiness.md) [+W] — learners who differ on it differ in outcomes
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](../claims/high-dosage-tutoring-accelerated-growth-at-risk.md) [+W] — an instructional effect differs with it
 - [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](../claims/high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) [+W] — an instructional effect differs with it
@@ -76,7 +76,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Persistently high chronic absenteeism rates are associated with slower academic recovery in math and reading after COVID-era disruptions](../claims/chronic-absenteeism-associated-slower-covid-recovery.md) [+W] — learners who differ on it differ in outcomes
 - [Positive Action reduces school absenteeism, with a weighted average effect size of +0.20 across two randomized studies](../claims/positive-action-reduces-absenteeism.md) [+M] — instruction changes it
 - [PowerSchool Attendance Intervention did not significantly increase in-seat attendance in the randomized trial](../claims/powerschool-in-seat-attendance-null-dc-rct.md) [-M] — instruction changes it
-- [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](../claims/powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) [+M] — instruction changes it
+- [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](../claims/powerschool-attendance-intervention-reduces-chronic-absenteeism.md) [+M] — instruction changes it
 - [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](../claims/powerschool-attendance-intervention-reduces-chronic-absenteeism.md) [+M] — instruction changes it
 - [Quizzes are the only LMS activity type negatively correlated with reported time-on-task and perceived difficulty](../claims/quizzes-negatively-correlated-workload-difficulty.md) [+M] — instruction changes it
 - [Risk thresholds on GPA and attendance differ for active English Learners: above 95% attendance or above 2.0 GPA predicted ~90% graduation for active ELs, while former and never ELs reached similar likelihood at 90% attendance](../claims/el-risk-thresholds-gpa-attendance-graduation.md) [+M] — learners who differ on it differ in outcomes

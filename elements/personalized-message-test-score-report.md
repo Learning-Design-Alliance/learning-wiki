@@ -17,7 +17,7 @@ sources:
 # Personalized message added to a test score report
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q1`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A behavioral-science-informed intervention in which a personalized message about a student's potential to succeed in Advanced Placement coursework is added to a test score report. The brief describes it as "a personalized message added to a test score report" that increased student participation in AP, with recipients 49 percentage points more likely to participate among surveyed students.
@@ -40,7 +40,7 @@ A behavioral-science-informed intervention in which a personalized message about
 ## Claims
 
 - [Students who received the personalized AP message were more likely to take an AP exam and passed a higher number of exams, making them eligible for college credit](../claims/personalized-ap-message-increases-exam-taking-and-passing.md) [+W]
-- [Students who received a personalized message about their potential to succeed in AP coursework were 49 percentage points more likely to participate in AP classes than peers who did not receive the message](../claims/personalized-ap-message-increases-participation-49-points.md) [+W]
+- [Students who received a personalized message about their potential to succeed in AP coursework were 49 percentage points more likely to participate in AP classes than peers who did not receive the message](../claims/ability-signal-increases-ap-participation-49-points.md) [+W]
 - [Small changes in the way information is presented can have a large impact on a person's decision to participate in a program](../claims/small-presentation-changes-large-participation-impact.md) [+W]
 
 ## Related Elements

@@ -46,9 +46,7 @@ Key findings section of a Mathematica policy brief reporting a comparative study
 - [PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students](parcc-mcas-similar-validity-college-grades.md) — possibly the same claim (merge candidate)
 - [PARCC and MCAS scores show similar validity for predicting college grades](parcc-mcas-similar-college-grade-validity.md) — possibly the same claim (merge candidate)
 - [In math, the PARCC college-ready standard predicts higher college performance than the MCAS proficient standard, while in ELA the standards are similar](parcc-college-ready-standard-higher-math-college-performance.md) — related
-- [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](mcas-and-parcc-similar-remediation-predictions.md) — related
-- [In mathematics, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard, while in English language arts the two standards are similar](parcc-math-standard-higher-college-performance-than-mcas.md) — related
+- [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
 - [In math, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard](parcc-math-standard-higher-college-performance.md) — related
-- [MCAS and PARCC scores similarly predict which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
 - [PARCC sets a higher performance standard in mathematics than MCAS, while both exams predict college performance comparably](parcc-higher-math-standard-mcas-comparable-prediction.md) — related

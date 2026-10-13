@@ -3,6 +3,7 @@ type: claim
 title: Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data
 description: Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data
 id: response-styles-construct-irrelevant-bias
+aliases: [response-styles-construct-irrelevant-bias-survey]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q1`
 
 ## Subclaims
+
 `q1 i?` Differing response styles can create a construct-irrelevant source of bias that distorts fundamental inferences made based on survey data. [→ James Soland 2020](#james-soland-2020)
+
+`q1 i?` Differing response styles can create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data. [→ James Soland 2020](#james-soland-2020)
 
 ## Evidence
 
@@ -39,11 +43,23 @@ The article states, citing prior research without detail on this page, that "dif
 
 > "Research already shows that differing response styles can create a construct-irrelevant source of bias that distorts fundamental inferences made based on survey data."
 
+<!-- merged 2026-10-13 from response-styles-construct-irrelevant-bias-survey: that page's entry for this study, which differed from the one above, kept verbatim.
+### James Soland 2020
+
+James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. Multivariate Behavioral Research. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores-journal/
+
+`q1 · i?` · `associational · r?`
+
+Background assertion stated in the abstract, attributed to prior research rather than tested in this study. The article states that "differing response styles can create a construct-irrelevant source of bias" distorting survey-based inferences.
+
+> "Research already shows that differing response styles can create a construct-irrelevant source of bias that distorts fundamental inferences made based on survey data."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
-- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs, with effects varying by psychological construct, response style, and model used](response-styles-affect-growth-estimates-sel.md) — related
-- [Differing response styles create a construct-irrelevant source of bias that distorts inferences from survey data](response-styles-construct-irrelevant-bias-survey.md) — possibly the same claim (merge candidate)
+
+- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs, with effects varying by psychological construct, response style, and model used](response-style-growth-effects-vary-by-construct-and-model.md) — related
 - [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](response-styles-affect-growth-parameter-estimates.md) — related
-- [The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used](response-style-growth-effects-vary-by-construct-and-model.md) — related

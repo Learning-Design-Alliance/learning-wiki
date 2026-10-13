@@ -3,6 +3,7 @@ type: claim
 title: "Attendance in preschool and kindergarten is framed as important to young learners' school success"
 description: "Attendance in preschool and kindergarten is framed as important to young learners' school success"
 id: prek-kindergarten-attendance-spells-success
+aliases: [early-attendance-preschool-kindergarten-future-success]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · theoretical `r?` · `q1`
 
 ## Subclaims
+
 `q1 i?` The publication asserts that attending pre-kindergarten and kindergarten contributes to young learners' later success in school. [→ Various Authors 2019](#various-authors-2019)
+
+`q1 i?` Attendance in pre-kindergarten and kindergarten is portrayed as contributing to future success in school. [→ Various Authors 2019](#various-authors-2019)
 
 ## Evidence
 
@@ -39,12 +43,25 @@ The publication's own title and framing state that preschool and kindergarten at
 
 > "Improving the School Attendance of New Jersey's Youngest Learners: Preschool and Kindergarten Attendance Can Spell Success!"
 
+<!-- merged 2026-10-13 from early-attendance-preschool-kindergarten-future-success: that page's entry for this study, which differed from the one above, kept verbatim.
+### Various Authors 2019
+
+Various Authors. (2019). Improving the School Attendance of New Jersey's Youngest Learners: Attendance in Preschool and Kindergarten Spells Future Success! Regional Educational Laboratory Mid-Atlantic. https://ies.ed.gov/ncee/edlabs/regions/midatlantic/
+
+`q1 · i?` · `theoretical · r1`
+
+The source is a poster/infographic product page stating the importance of "attendance in pre-kindergarten and kindergarten"; no data, study design, or effect size is printed on the page, so the assertion is recorded as stated without empirical support.
+
+> "Poster/infographic on the importance of attendance in pre-kindergarten and kindergarten."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address](chronic-absenteeism-early-grades-importance-asserted.md) — related
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](early-attendance-preschool-kindergarten-future-success.md) — possibly the same claim (merge candidate)
 - [Early math exposure in young children is linked to development, math confidence, and later math use (authors' assertion)](early-math-exposure-supports-development-confidence-later-use.md) — related
 - [The article asserts that the Go-Learn-Grow materials can help districts, schools, and early childhood providers improve pre-K and kindergarten attendance](go-learn-grow-materials-support-attendance-improvement.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](prek-kindergarten-attendance-importance.md) — possibly the same claim (merge candidate)
@@ -53,3 +70,4 @@ The publication's own title and framing state that preschool and kindergarten at
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — a narrower finding that bears on this claim
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related
+- [Schools widely employ incentives to improve attendance across all grade levels](incentives-pervasive-prek-to-grade-12.md) — related

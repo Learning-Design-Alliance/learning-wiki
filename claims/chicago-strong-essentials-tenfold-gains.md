@@ -44,7 +44,6 @@ The original Chicago longitudinal study compared schools classified as strong or
 
 ## Related Claims
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — possibly the same claim (merge candidate)
-- [Schools strong on clusters of the five essential supports were 10 times more likely to improve learning of reading and mathematics](strong-supports-cluster-ten-times-more-likely-to-improve.md) — possibly the same claim (merge candidate)
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](sustained-weakness-one-support-few-improve.md) — related
 - [Larger elementary and middle schools (600+ students) are more likely to be weak in three or more essentials](school-size-elementary-essentials-weakness.md) — related
 - [Ninety-five Chicago elementary schools showed substantial improvement in academic productivity, accumulating an extra half year of learning in reading and over 1.25 years in mathematics over eight grades](95-improving-schools-extra-half-year-reading-1-25-math.md) — related

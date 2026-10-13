@@ -17,7 +17,7 @@ sources:
 # Double-dose algebra policy in the Chicago Public Schools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 A district policy initiated in the Chicago Public Schools in 2003 requiring that all students with 8th-grade test scores below the national median enroll in a support algebra course in addition to regular algebra in the 9th grade. The policy is described as an instance of expanded instructional time aimed at low-skilled 9th graders. The article evaluates it with regression discontinuity combined with interrupted time series designs, and instrumental variable models, measuring grades, failure rates and test scores in 9th-grade algebra and 10th-grade geometry.

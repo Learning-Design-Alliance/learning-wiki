@@ -3,6 +3,7 @@ type: claim
 title: Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)
 description: Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)
 id: literacy-packs-dibels-es-039-quasi-experiment
+aliases: [literacy-packs-dibels-es-039]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: 1
     kind: causal
     rigour: 1
+  - id: just-right-reader-take-everywhere-literacy-packs-2025
+    resource: "https://www.justrightreader.com"
+    title: "Just Right Reader Take-Everywhere Literacy Packs™. (2025). Evidence review summary. https://www.justrightreader.com"
+    author: Just Right Reader Take-Everywhere Literacy Packs™
+    q: 2
+    i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2` · `i1` small
 
 ## Subclaims
+
 `q2 i1` In a quasi-experimental study with 399 kindergarten students across six schools, Literacy Packs users scored significantly higher than matched comparison students on end-of-year DIBELS composite scores, with an effect size of +0.39. [→ Just Right Reader Take-Everywhere Literacy Packs™: Evidence Rating 2025](#just-right-reader-take-everywhere-literacy-packstm-evidence-rating-2025)
+
+`q2 i1` In a quasi-experimental study of 399 kindergarten students across six schools, Literacy Pack users scored significantly higher than comparison students on end-of-year DIBELS composite scores, with an effect size of +0.39. [→ Just Right Reader Take-Everywhere Literacy Packs™ 2025](#just-right-reader-take-everywhere-literacy-packstm-2025)
 
 ## Evidence
 
@@ -39,10 +51,22 @@ Quasi-experimental study in the 2024–2025 school year with 399 kindergarten st
 
 > "Students who used the Literacy Packs scored significantly higher than comparison students on end-of-year DIBELS composite scores (effect size = +0.39)."
 
+### Just Right Reader Take-Everywhere Literacy Packs™ 2025
+
+Just Right Reader Take-Everywhere Literacy Packs™. (2025). Evidence review summary. https://www.justrightreader.com
+
+`q2 · i1` · `causal · r2`
+
+Quasi-experimental study in the 2024–2025 school year with 399 kindergarten students across six schools in a diverse Texas district; three schools implemented the Literacy Packs and three served as matched comparisons using other decodable texts. The study found students "scored significantly higher than comparison students on end-of-year DIBELS composite scores (effect size = +0.39)."
+
+> "Students who used the Literacy Packs scored significantly higher than comparison students on end-of-year DIBELS composite scores (effect size = +0.39)."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](once-program-improves-fastbridge-kindergarten-reading.md) — related
 - [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related
 - [Reading Horizons Discovery produced a small statistically significant positive effect on DIBELS 8 composite scores in K-3 students compared to matched comparison students](reading-horizons-discovery-dibels-positive-effect.md) — related
@@ -52,6 +76,5 @@ Quasi-experimental study in the 2024–2025 school year with 399 kindergarten st
 - [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related
 - [Daily 15-minute one-to-one virtual tutoring improves first-grade foundational reading outcomes more than standard classroom instruction (ES = +0.21)](ignite-reading-dibels-gain-first-grade.md) — related
 - [Kindergarten students using My Reading Academy outperformed comparison students on end-of-year state literacy assessments (ES +0.17)](mra-kindergarten-literacy-es-017.md) — related
-- [Kindergarten students using Take-Everywhere Literacy Packs scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES +0.39)](literacy-packs-dibels-es-039.md) — possibly the same claim (merge candidate)
 - [In a matched comparison study, Amira students outperformed matched controls on end-of-year DIBELS by +0.26 in kindergarten and +0.06 in first grade](amira-matched-dibels-kindergarten-first-grade.md) — related
 - [In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls](amira-rct-woodcock-effect-064.md) — related

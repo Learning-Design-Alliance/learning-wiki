@@ -3,6 +3,7 @@ type: claim
 title: KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies
 description: KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies
 id: kipp-middle-schools-positive-significant-achievement-effects
+aliases: [kipp-middle-schools-significant-achievement-gains]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: causal
     rigour: "?"
+  - id: various-authors-2013
+    resource: "https://www.mathematica.org/publications/kipp-middle-schools-produce-significant-achievement-gains-in-reading-math-science-and-social-studies"
+    title: "Various authors. (2013). KIPP Middle Schools Produce Significant Achievement Gains in Reading, Math, Science, and Social Studies (In Focus Brief). Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/kipp-middle-schools-produce-significant-achievement-gains-in-reading-math-science-and-social-studies"
+    author: Various authors
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
+> **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
 
 ## Subclaims
+
 `q3 i?` Attending a KIPP charter middle school raises student test scores in reading, math, science, and social studies, with effects that are consistently positive and statistically significant. [→ Philip M. Gleason 2014](#philip-m-gleason-2014)
+
+`q2 i?` KIPP middle schools produce significant achievement gains across four subject areas: reading, math, science, and social studies. [→ Various authors 2013](#various-authors-2013)
 
 ## Evidence
 
@@ -39,10 +51,22 @@ The publication's own summary of the evaluation states that the study measured a
 
 > "This article measures the achievement impacts of 41 Knowledge Is Power Program (KIPP) charter middle schools nationwide and found consistently positive and statistically significant test-score effects in reading, math, science, and social studies."
 
+### Various authors 2013
+
+Various authors. (2013). KIPP Middle Schools Produce Significant Achievement Gains in Reading, Math, Science, and Social Studies (In Focus Brief). Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/kipp-middle-schools-produce-significant-achievement-gains-in-reading-math-science-and-social-studies
+
+`q2 · i?` · `causal · r?`
+
+The brief's title states that KIPP middle schools produce significant achievement gains in reading, math, science, and social studies; the landing page provides no effect sizes, sample details, or test statistics, so the magnitude of the gains is not reported here.
+
+> "KIPP Middle Schools Produce Significant Achievement Gains in Reading, Math, Science, and Social Studies"
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — a narrower finding that bears on this claim
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — a narrower finding that bears on this claim
@@ -51,8 +75,6 @@ The publication's own summary of the evaluation states that the study measured a
 - [KIPP charter schools have potentially positive effects on science achievement for middle and high school students](kipp-potentially-positive-science.md) — a narrower finding that bears on this claim
 - [KIPP charter schools have potentially positive effects on social studies achievement, with mixed study findings](kipp-mixed-social-studies.md) — related
 - [KIPP middle schools have positive, statistically significant, and educationally meaningful impacts on student achievement in math, reading, science, and social studies](kipp-middle-school-achievement-impacts-four-subjects.md) — possibly the same claim (merge candidate)
-- [KIPP middle schools show significant and substantial positive impacts on achievement in reading, math, science, and social studies](kipp-middle-schools-positive-impacts-four-subjects.md) — possibly the same claim (merge candidate)
-- [KIPP middle schools produce significant achievement gains in reading, math, science, and social studies](kipp-middle-schools-significant-achievement-gains.md) — possibly the same claim (merge candidate)
 - [KIPP outcomes were measured with state tests, a nationally normed assessment including higher-order thinking measures, and student- and parent-reported behaviors](kipp-outcome-measures-normed-assessment-behaviors.md) — related
 - [Urban charter schools have more positive impacts on student achievement than other charter schools](urban-charter-schools-more-positive-achievement-impacts.md) — related
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related

@@ -17,7 +17,7 @@ sources:
 # Provide scholarships to talented disadvantaged undergraduates to encourage biomedical research careers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size
 
 ## Description
 The strategy is to award competitive scholarships to highly talented undergraduate science students from disadvantaged backgrounds in order to encourage them to pursue biomedical research careers. The NIH uses this approach, spending millions of dollars each year on such scholarships, and an evaluation found scholars progressing toward research careers at higher rates than comparable non-awarded applicants.

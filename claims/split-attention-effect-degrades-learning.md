@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: split-attention-effect-degrades-learning
-aliases: [contiguity-principle-improves-learning, spatial-contiguity-improves-learning, split-attention-effect-impairs-learning, split-attention-effect-integration-improves-learning]
+aliases: [contiguity-principle-improves-learning, spatial-contiguity-improves-learning, split-attention-effect-impairs-learning, split-attention-effect-integration-improves-learning, spatial-contiguity-meta-analysis-36-studies]
 evidence_strength: none
 sources:
   - id: schroeder-cenkci-2018
@@ -18,18 +18,28 @@ sources:
     n: 2426 (58 independent comparisons)
     kind: quant-synthesis
     rigour: "?"
+  - id: ceballos-nutta-2022
+    resource: "https://eric.ed.gov/?id=EJ1380081"
+    title: "Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instructional design: Applying the science of learning principles to dual language instruction. *Education Leadership Review, 23*(1). [ERIC EJ1380081](https://eric.ed.gov/?id=EJ1380081)"
+    author: "Ceballos, M., & Nutta, J. W."
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Split Attention Effect Degrades Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=2426 (58 independent comparisons)
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 theoretical `r2` · `q2`–`q4` · `i2` medium · n=2426 (58 independent comparisons)
 
 When learners must mentally integrate information that is physically or temporally separated — such as a diagram and its explanatory text presented apart — working memory resources are consumed by search-and-match processes, degrading learning relative to integrated presentations.
 
 ## Subclaims
 
 `q4 i2` A meta-analysis of 58 independent comparisons (n=2426) found that spatially integrating mutually referring text and diagrams produced a medium-to-large learning benefit over spatially separated presentation, g=0.63. [→ Schroeder Cenkci 2018](#schroeder-cenkci-2018)
+
+`q2 i?` Schroeder and Cenkci's meta-analysis of 36 studies, as reported by the article, found that spatial contiguity (placing printed words next to pictures or graphics) increased learning outcomes. [→ Marjorie Ceballos 2022](#ceballos-nutta-2022)
 
 ## Evidence
 
@@ -40,6 +50,16 @@ Schroeder, N. L., & Cenkci, A. T. (2018). Spatial contiguity and spatial split-a
 `q4 · random-effects meta-analysis` · `i2 · medium-to-large effect, g=0.63` · `n=2426 (58 independent comparisons)` · `quant-synthesis · r?`
 
 A random-effects meta-analysis pooled 58 independent comparisons (total n=2426) drawn from the multimedia-learning literature contrasting spatially integrated designs (text and diagrams placed together) against spatially separated designs requiring learners to search back and forth between sources. Integrated designs produced an overall effect size of g=0.63 (p<0.001), a medium-to-large advantage consistent with the split-attention/spatial-contiguity account: physically co-locating mutually referring information removes the search-and-match burden that separated presentation imposes on working memory. The authors also examined numerous intervention- and context-related moderators and found the benefit held broadly across them, though (per the abstract) more remained to be understood about exactly which conditions maximize the effect.
+
+### Ceballos & Nutta 2022
+
+Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instructional design: Applying the science of learning principles to dual language instruction. *Education Leadership Review, 23*(1). [ERIC EJ1380081](https://eric.ed.gov/?id=EJ1380081)
+
+`q2 · i?` · `theoretical · r2`
+
+The article reports, citing Schroeder and Cenkci (2018), a meta-analysis of 36 studies finding spatial contiguity increased learning outcomes; it also cites individual mathematics and science lesson studies and a Japanese-language perception study. No pooled effect size is printed.
+
+> "Schroeder and Cenkci’s (2018) meta- analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes."
 
 ## Discussion
 
@@ -99,6 +119,7 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 **Design implications.** For novice audiences, designers should place explanatory text directly at the point of reference on a graphic, embed labels within diagrams rather than in legends, and temporally synchronize narration with the animation segment it describes. Before integrating, check whether each source is indispensable; if not, cut the redundant one rather than merging it. These recommendations pair naturally with [Cognitive Load Management](../principles/cognitive-load-management.md) and [Chunking](../principles/chunking.md) when structuring complex multimedia materials.
 
 ## Learner Variables
+
 - [Attention](../learner-variables/attention.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
@@ -115,7 +136,6 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-effect.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
 - [A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect](teachers-report-simultaneous-words-graphics-presentation.md) — related
-- [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](spatial-contiguity-meta-analysis-36-studies.md) — possibly the same claim (merge candidate)
 - [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
 - [The benefit of spatially co-located AI guidance varies by task: it matters most when instructions and task share a unified spatial frame](spatial-colocation-benefit-task-dependent.md) — a narrower finding that bears on this claim
 - [Step-linked visual grounding externalizes spatial reasoning: synchronized diagrams that reveal auxiliary lines step by step reduce split-attention effort](step-linked-visualization-externalizes-reasoning.md) — a narrower finding that bears on this claim

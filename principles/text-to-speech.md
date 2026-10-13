@@ -30,7 +30,7 @@ sources:
 # Text-to-Speech
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (2 for, 10 mixed) · 18 studies (7 review, 4 causal, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (2 for, 10 mixed) · 19 studies (7 review, 5 quant-synthesis, 4 causal, 3 theoretical), `q1`–`q4` · 5 of 19 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 

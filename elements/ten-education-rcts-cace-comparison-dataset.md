@@ -17,7 +17,7 @@ sources:
 # Set of 10 large-scale education RCTs used to compare CACE variance formula significance findings
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 causal, 1 theoretical), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's empirical base is a set of "10 large-scale RCTs" in the education field, used to compare significance findings for the CACE estimator under correct variance formulas versus commonly used formulas that ignore certain sources of error. The comparison across these trials constitutes the article's empirical evidence about whether simplified variance formulas distort significance conclusions.

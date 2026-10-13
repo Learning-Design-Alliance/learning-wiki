@@ -15,7 +15,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (17 for, 9 mixed) · 36 studies (12 causal, 11 quant-synthesis, 9 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 36 report an effect size · 16 claims rest on one study
+> **Evidence** · 25 claims (16 for, 9 mixed) · 36 studies (12 causal, 11 quant-synthesis, 9 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 36 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -127,7 +127,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 
 ## Claims
 
-- [SEL program effects are sustained over long-term follow-up periods](../claims/sel-long-term-sustained-effects.md) [+W]
+- [SEL program effects are sustained over long-term follow-up periods](../claims/sel-benefits-persist-follow-up.md) [+W]
 - [Utah Schools for the Deaf and Blind adapted the Resilience, Rights & Respectful Relationships curriculum for intentional, direct SEL instruction with deaf students](../claims/intentional-sel-instruction-deaf-students.md) [~W]
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](../claims/integrated-skills-habits-mindsets-instruction.md) [+W]
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](../claims/schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) [+W]

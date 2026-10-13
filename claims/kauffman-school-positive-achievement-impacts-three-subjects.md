@@ -3,6 +3,7 @@ type: claim
 title: The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014
 description: The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014
 id: kauffman-school-positive-achievement-impacts-three-subjects
+aliases: [kauffman-school-significant-achievement-impacts-first-three-years, kauffman-school-positive-achievement-impacts-math-reading-science]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,28 @@ sources:
     i: "?"
     kind: causal
     rigour: "?"
+  - id: matthew-johnson-2017
+    resource: "https://www.mathematica.org/publications/ja-the-educational-and-behavioral-impacts-of-the-ewing-marion-kauffman-charter-school"
+    title: "Matthew Johnson, Cleo Jacobs Johnson, Scott B. Richman, Alicia Demers, Claudia Gentile, Eric Lundquist. (2017). The Educational and Behavioral Impacts of the Ewing Marion Kauffman Charter School. Journal of School Choice, vol. 11, issue 3. https://www.mathematica.org/publications/ja-the-educational-and-behavioral-impacts-of-the-ewing-marion-kauffman-charter-school"
+    author: Matthew Johnson, Cleo Jacobs Johnson, Scott B. Richman, Alicia Demers, Claudia Gentile, Eric Lundquist
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
+> **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
 
 ## Subclaims
+
 `q3 i?` During its first three years of operation, the Kauffman School had positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, reading, and science. [→ Matthew Johnson 2016](#matthew-johnson-2016)
+
+`q3 i?` In the 2011-2012 through 2013-2014 school years, the Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science. [→ Matthew Johnson 2016](#matthew-johnson-2016)
+
+`q2 i?` The Kauffman School had large positive impacts on student achievement in mathematics, reading, and science during its first three years of operation. [→ Matthew Johnson 2017](#matthew-johnson-2017)
 
 ## Evidence
 
@@ -39,12 +53,34 @@ Quasi-experimental matched comparison group evaluation of the Kauffman School's 
 
 > "during its first three years of operation, the Kauffman School had positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, reading, and science"
 
+<!-- merged 2026-10-13 from kauffman-school-positive-achievement-impacts-math-reading-science: that page's entry for this study, which differed from the one above, kept verbatim.
+### Matthew Johnson 2016
+
+Matthew Johnson, Cleo Jacobs Johnson, Scott Richman, Alicia Demers, Claudia Gentile, Eric Lindquist. (2016). The Educational and Behavioral Impacts of the Ewing Marion Kauffman Charter School. Mathematica Policy Research, Working Paper 43. https://www.mathematica.org/publications/the-educational-and-behavioral-impacts-of-the-ewing-marion-kauffman-charter-school
+
+`q3 · i?` · `causal · r?`
+
+A matched comparison group design was used to estimate the Kauffman School's impacts on student achievement, attendance, and suspensions. The paper reports "positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science"; no effect sizes are printed in the available text.
+
+> "In the 2011-2012 through 2013-2014 school years, the Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science"
+-->
+
+### Matthew Johnson 2017
+
+Matthew Johnson, Cleo Jacobs Johnson, Scott B. Richman, Alicia Demers, Claudia Gentile, Eric Lundquist. (2017). The Educational and Behavioral Impacts of the Ewing Marion Kauffman Charter School. Journal of School Choice, vol. 11, issue 3. https://www.mathematica.org/publications/ja-the-educational-and-behavioral-impacts-of-the-ewing-marion-kauffman-charter-school
+
+`q2 · i?` · `causal · r?`
+
+The evaluation's key findings state that "the Kauffman School had substantial positive and statistically significant impacts on student achievement in mathematics, reading, and science" in its first three years. No effect sizes are printed in the available text.
+
+> "During its first three years of operation, the Kauffman School had substantial positive and statistically significant impacts on student achievement in mathematics, reading, and science."
+
 ## Discussion
 
 
+
 ## Related Claims
-- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-math-reading-science.md) — possibly the same claim (merge candidate)
-- [During its first three years of operation, the Kauffman School had substantial positive and statistically significant impacts on student achievement in mathematics, reading, and science](kauffman-school-significant-achievement-impacts-first-three-years.md) — possibly the same claim (merge candidate)
+
 - [The Kauffman School had positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, reading, and science during its first four years](kauffman-school-positive-significant-achievement-growth-impacts.md) — related
 - [The Kauffman School produced positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, English language arts, and science in each of its first five years, beyond the growth of students in other Kansas City public schools](kauffman-school-positive-achievement-growth-impacts-five-years.md) — related
 - [During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools](kauffman-school-seven-year-achievement-impacts.md) — related
@@ -59,3 +95,6 @@ Quasi-experimental matched comparison group evaluation of the Kauffman School's 
 - [The Kauffman School produced substantial positive impacts on achievement growth in mathematics, English language arts, and science each year through 2021-22, except during the 2020-21 pandemic year](kauffman-school-achievement-growth-impacts-math-ela-science.md) — related
 - [Attendance at Gehring STEM Academy had statistically significant positive impacts on mathematics and reading achievement in grades 1-5 after up to 1.5 years, with no significant science impacts](gehring-magnet-qed-math-reading-impacts.md) — related
 - Horace Mann Elementary showed steady growth in English language arts MAP scores from 2009 to 2014 and reached provisional accreditation in 2013 — related
+- [The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions](kauffman-school-matched-comparison-group-design.md) — related
+- [TEP's achievement impacts were consistently positive across subjects and cohorts through 2012-2013, with especially large effects in math](tep-impacts-consistently-positive-math-largest.md) — related
+- [The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary](aps-turnaround-first-year-report-scope.md) — related

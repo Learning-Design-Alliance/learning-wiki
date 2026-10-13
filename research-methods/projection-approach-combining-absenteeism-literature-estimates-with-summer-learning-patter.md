@@ -17,7 +17,7 @@ sources:
 # Projection approach combining absenteeism-literature estimates with summer learning pattern analyses
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's method is a projection framework rather than a direct measurement of pandemic learning loss. As the abstract states, the authors "produced a series of projections of COVID-19-related learning loss based on (a) estimates from absenteeism literature and (b) analyses of summer learning patterns of 5 million students." It treats closure-period learning as analogous to documented absenteeism and summer-loss patterns, yielding ranges of expected fall 2020 achievement rather than point estimates.
@@ -30,7 +30,7 @@ The study's method is a projection framework rather than a direct measurement of
 - [Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains](../claims/covid-closures-projected-reading-gains-63-68-percent.md) [+M]
 - [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](../claims/covid-closures-projected-math-gains-37-50-percent.md) [+M]
 - [Projected COVID-19 learning loss was not universal, with the top third of students potentially making gains in reading](../claims/covid-learning-loss-not-universal-top-third-reading-gains.md) [+M]
-- [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](../claims/covid-projections-reading-63-68-percent-gains.md) [+W]
+- [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](../claims/covid-closures-projected-reading-gains-63-68-percent.md) [+W]
 
 ## Related Research Methods
 -
@@ -68,7 +68,7 @@ The study's method is a projection framework rather than a direct measurement of
 - [Covid Closures Projected Reading Gains 63 68 Percent](../claims/covid-closures-projected-reading-gains-63-68-percent.md) [+M]
 - [Covid Closures Projected Math Gains 37 50 Percent](../claims/covid-closures-projected-math-gains-37-50-percent.md) [+M]
 - [Covid Learning Loss Not Universal Top Third Reading Gains](../claims/covid-learning-loss-not-universal-top-third-reading-gains.md) [+M]
-- [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](../claims/covid-projections-reading-63-68-percent-gains.md) [+W]
+- [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](../claims/covid-closures-projected-reading-gains-63-68-percent.md) [+W]
 
 ## Related Theories
 - 

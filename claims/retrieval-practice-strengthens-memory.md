@@ -45,7 +45,7 @@ The synthesis reports that retrieval activities including "self-testing and low-
 ## Related Claims
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a narrower finding that bears on this claim
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a narrower finding that bears on this claim
-- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
+- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related

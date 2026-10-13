@@ -17,7 +17,7 @@ sources:
 # Analysis of typical summer learning patterns of five million students as a basis for COVID-19 loss projections
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q1`–`q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper bases its COVID-19 learning-loss projections partly on "analyses of typical summer learning patterns of five million students," combining this empirical basis with "estimates from prior literature" on the impacts of missing school. The summer-pattern analysis supplies typical seasonal learning trajectories against which closure-period learning is projected. The page describes this as one of the two inputs, alongside prior-literature estimates, used to produce "a series of projections of COVID-19-related learning loss."

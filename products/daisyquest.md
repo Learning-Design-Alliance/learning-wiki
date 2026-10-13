@@ -22,7 +22,7 @@ sources:
 # DaisyQuest
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 10 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 DaisyQuest is a computer-assisted early-literacy software package developed to provide phonological-awareness instruction to young children through story-based activities, feedback, speech, and progress reports.
@@ -42,7 +42,7 @@ DaisyQuest is a computer-assisted early-literacy software package developed to p
 - [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](../claims/lonigan-2003-significant-four-of-eight-outcomes.md) [~M]
 - [The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating](../claims/wwc-positive-effects-rating-daisyquest.md) [+W]
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](../claims/daisyquest-positive-effects-phonological-processing.md) [+M]
-- [In Foster et al. (1994), DaisyQuest produced statistically significant positive effects on both phonological processing measures in 4- to 6-year-olds](../claims/foster-1994-daisyquest-significant-both-measures.md) [+M]
+- [In Foster et al. (1994), DaisyQuest produced statistically significant positive effects on both phonological processing measures in 4- to 6-year-olds](../claims/daisyquest-child-care-significant-gains.md) [+M]
 - [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](../claims/lonigan-2003-significant-four-of-eight-outcomes.md) [+M]
 - [DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures](../claims/daisyquest-kindergarten-significant-gains.md) [+W]
 - [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](../claims/daisyquest-beats-math-software-alphabetics.md) [+W]
@@ -133,7 +133,7 @@ Undersea Challenge is an adaptive assessment included with the DaisyQuest bundle
 ## Claims
 
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](../claims/daisyquest-positive-effects-phonological-processing.md) [+M]
-- [In Foster et al. (1994), DaisyQuest produced statistically significant positive effects on both phonological processing measures in 4- to 6-year-olds](../claims/foster-1994-daisyquest-significant-both-measures.md) [+M]
+- [In Foster et al. (1994), DaisyQuest produced statistically significant positive effects on both phonological processing measures in 4- to 6-year-olds](../claims/daisyquest-child-care-significant-gains.md) [+M]
 - [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](../claims/lonigan-2003-significant-four-of-eight-outcomes.md) [+M]
 - [DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures](../claims/daisyquest-kindergarten-significant-gains.md) [+W]
 - [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](../claims/daisyquest-beats-math-software-alphabetics.md) [+W]

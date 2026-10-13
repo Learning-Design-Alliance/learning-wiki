@@ -17,7 +17,7 @@ sources:
 # Attendance poster/infographic for pre-kindergarten and kindergarten audiences
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article is a poster/infographic released by Regional Educational Laboratory Mid-Atlantic in November 2019, described as a "Poster/infographic on the importance of attendance in pre-kindergarten and kindergarten." A Spanish version is noted, indicating it is intended for communication to families and early childhood audiences. The page provides no further detail on the poster's content or design.
@@ -38,7 +38,7 @@ The article is a poster/infographic released by Regional Educational Laboratory 
 
 ## Claims
 
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/early-attendance-preschool-kindergarten-future-success.md) [+W]
+- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](../claims/early-grades-chronic-absenteeism-risk-factors.md) [+W]
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 

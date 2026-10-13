@@ -17,7 +17,7 @@ sources:
 # Assignment-scoring standards and rubrics for authentic intellectual work in writing and mathematics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 associational, 1 theoretical), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A set of six standards (three for writing, three for mathematics) translating the authentic intellectual work criteria into assessable assignment characteristics, each translated into scoring rubrics (Figure 1 and Figure 2). For example, the writing Standard 1 asks that "the assignment asks students to interpret, analyze, synthesize, or evaluate information in writing about a topic, rather than merely to reproduce information." Trained Chicago Public Schools teachers applied the rubrics, with random assignment of tasks to raters, double scoring of a random subsample, and Many-Facet Rasch Analysis to adjust for rater severity and standard difficulty.

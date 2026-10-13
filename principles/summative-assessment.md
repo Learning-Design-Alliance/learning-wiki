@@ -18,7 +18,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (13 for, 14 mixed, 7 against) · 26 studies (9 theoretical, 5 associational, 4 design, 3 causal, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 5 of 26 report an effect size · 33 claims rest on one study
+> **Evidence** · 33 claims (13 for, 13 mixed, 7 against) · 26 studies (9 theoretical, 5 associational, 4 design, 3 causal, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 5 of 26 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,7 +147,7 @@ A summative score at the end of a course, retention months later, transfer to a 
 ## Claims
 
 - [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [+W]
-- [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](../claims/disengagement-material-individual-scores-minor-aggregations.md) [~W]
+- [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](../claims/disengagement-material-individual-summative-scores-minor-aggregations.md) [~W]
 - [Nearly 60% of surveyed college students said their summative assessment results matched other college-readiness information not very well or very little](../claims/students-report-misalignment-assessment-other-indicators.md) [-W]
 - [Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data](../claims/reach-performance-tasks-little-differentiation.md) [-W]
 - [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](../claims/nclb-tests-low-higher-order-content.md) [-W]

@@ -47,6 +47,6 @@ The study's reported result on the sample-removal technique: the authors state t
 - [Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss](disengagement-corrections-minimal-impact-effectiveness-estimates.md) — related
 - [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](rapid-guessing-summer-learning-loss-estimates.md) — related
 - [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
-- [Student test disengagement may bias estimates of educational effectiveness based on observed test results](test-disengagement-may-bias-effectiveness-estimates.md) — related
+- [Student test disengagement may bias estimates of educational effectiveness based on observed test results](disengagement-undermines-score-inferences.md) — related
 - [Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects](overcontrol-bias-blocking-mediator.md) — a narrower finding that bears on this claim
 - [After accounting for publication bias, the estimated true effect favoring PS-I is strong (Hedge's g = 0.87)](publication-bias-corrected-psi-effect-strong.md) — related

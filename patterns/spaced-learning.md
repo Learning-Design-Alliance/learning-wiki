@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (13 for, 5 mixed, 1 unmarked) · 14 studies (6 causal, 5 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size · 15 claims rest on one study
+> **Evidence** · 16 claims (10 for, 5 mixed, 1 unmarked) · 14 studies (6 causal, 5 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size · 13 claims rest on one study
 
 ## Description
 
@@ -60,12 +60,12 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M] — not yet checked against its sources
 - [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+M] — checked by the judge: all 2 entries pass (abstract)
 - [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S] — partly checked: 2 of 5 entries pass; the rest could not be settled from the text available
-- [Distributed Practice Improves Retention](../claims/distributed-practice-improves-retention.md) [+M] — partly checked: 1 of 2 entries pass; the rest could not be settled from the text available
+- [Distributed Practice Improves Retention](../claims/spaced-repetition-improves-retention.md) [+M] — partly checked: 1 of 2 entries pass; the rest could not be settled from the text available
 - [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+M] — not yet checked against its sources
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+W] — checked by the judge: all 3 entries pass (full text)
 - [Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.](../claims/leitner-queue-network-phase-transition-in-learning-rate.md) [+W] — attached 2026-10-07 from Reddy et al. (2016), which proposed "Maximize Learning Rate When Calibrating Leitner Review Schedules"; tests this page's relationship.
 - [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W] — attached 2026-10-07 from Reddy et al. (2016), which proposed "Maximize Learning Rate When Calibrating Leitner Review Schedules".
-- [Spaced retrieval practice produces better final retention than massed retrieval practice (g = 0.74)](../claims/spaced-retrieval-beats-massed-g-0-74.md) [+M] — attached 2026-10-13 from Latimier et al. (2021), which proposed "Space out retrieval practice episodes on the same content, but do not assume intervals must progressively expand"; tests this page's relationship.
+- [Spaced retrieval practice produces better final retention than massed retrieval practice (g = 0.74)](../claims/spaced-retrieval-improves-retention.md) [+M] — attached 2026-10-13 from Latimier et al. (2021), which proposed "Space out retrieval practice episodes on the same content, but do not assume intervals must progressively expand"; tests this page's relationship.
 - [Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)](../claims/expanding-versus-uniform-retrieval-no-difference.md) [~M] — attached 2026-10-13 from Latimier et al. (2021), which proposed "Space out retrieval practice episodes on the same content, but do not assume intervals must progressively expand".
 - [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](../claims/exposures-moderate-expanding-schedule-benefit.md) [~M] — attached 2026-10-13 from Latimier et al. (2021), which proposed "Space out retrieval practice episodes on the same content, but do not assume intervals must progressively expand".
 
@@ -83,7 +83,7 @@ The examples are local design instances, not additional observations from those 
 ## Claims
 
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](../claims/expanding-isis-better-than-fixed-tentative.md) [~W]
-- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spacing-effect-robust-verbal-recall.md) [+W]
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spaced-repetition-improves-retention.md) [+W]
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](../claims/relearning-confound-distributed-practice-designs.md) [~W]
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](../claims/retention-interval-by-levels-of-thinking-interaction-not-significant.md) [~W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]

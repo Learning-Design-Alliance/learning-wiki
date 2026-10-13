@@ -41,7 +41,7 @@ The evaluation compares four distinct elementary school math curricula named by 
 - [Four elementary math curricula were evaluated using an experimental design](../claims/experimental-evaluation-four-elementary-math-curricula.md) [+M]
 - [Math Expressions and Saxon Math raise first-grade math percentile rank 9 to 12 points more than Investigations and SFAW](../claims/math-expressions-saxon-percentile-advantage-first-grade.md) [+M]
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+M]
-- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-elementary-math-curricula-outperform-fourth-two-years.md) [+W]
+- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+W]
 - [A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade](../claims/four-curricula-two-year-elementary-math-study-design.md) [+W]
 
 ## Related Elements

@@ -12,7 +12,7 @@ generated:
 # Greek And Latin Number Prefixes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies (5 causal, 5 quant-synthesis, 3 review), `q2`–`q4` · 3 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 14 studies (6 quant-synthesis, 5 causal, 3 review), `q2`–`q4` · 4 of 14 report an effect size
 
 ## Description
 Greek and Latin number prefixes are a closed, finite set of morphemes — *uni-* (one), *bi-/di-* (two), *tri-* (three), *quad-* (four), *cent-* (hundred), *mono-* (one), *poly-* (many), *kilo-* (thousand) — that recur across academic disciplines. The strategy teaches these prefixes explicitly as a system: learners learn the prefix meanings, then apply them to analyze unfamiliar words (triangle, bicameral, monorail, centimeter, polygon) rather than memorizing each word as a whole.
@@ -26,7 +26,7 @@ Number prefixes are among the highest-frequency, most transportable morphemes in
 - A curated prefix set (typically 8–15 number prefixes) matched to the discipline's actual vocabulary
 - Word examples drawn from content the learners are currently studying, not decontextualized lists
 - Repeated opportunities to analyze and generate words, not just define prefixes ([Annotating](../principles/annotating.md) word structure, word-part sorts)
-- Distributed review across weeks so the prefix schema consolidates [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+- Distributed review across weeks so the prefix schema consolidates [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 
 #### Constraints
 - Prefix meanings are not always transparent in modern words (*bicycle* vs. *bilingual* vs. *bisect*), so instruction must address polysemy or learners overgeneralize [~M]
@@ -56,7 +56,7 @@ Number prefixes are among the highest-frequency, most transportable morphemes in
 2. [Activate prior knowledge](../principles/activation.md) by eliciting words students already know (*unicycle*, *tricycle*) and surfacing the shared part [Activation improves learning.](../claims/activation-improves-learning.md) [+M].
 3. Model word-part analysis on one disciplinary word (e.g., *quadrilateral* = four + sides) using an [Advance Organizer](../elements/advance-organizers.md) showing the segmentation.
 4. Have students analyze and generate words in pairs, then verify meanings in context — analysis must end in connected reading, not the chart alone.
-5. Revisit the prefix set briefly across subsequent lessons (2–5 minute reviews) rather than one massed lesson [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+5. Revisit the prefix set briefly across subsequent lessons (2–5 minute reviews) rather than one massed lesson [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ## Related Strategies
 

@@ -46,7 +46,7 @@ Review synthesis of Ford et al.'s (2023) UK mixed-methods realist evaluation (n 
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](technology-access-problems-impede-participation.md) — related
+- [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](remote-covid-technology-access-problems-widespread.md) — related
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related
 - [Remote proctoring is perceived as an effective deterrent against cheating in nursing assessments, with 98–100% of graduate NP students agreeing webcam proctoring and lockdown browsers deterred cheating](remote-proctoring-perceived-deterrent-nursing.md) — related
 - [Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures](remote-proctoring-supported-continuity-closures.md) — related

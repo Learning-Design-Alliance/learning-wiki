@@ -17,7 +17,7 @@ sources:
 # Massachusetts PARCC versus MCAS predictive-validity study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (10 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 10 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 8 claims rest on one study
 
 ## Description
 A study commissioned by the state of Massachusetts and conducted by Mathematica Policy Research comparing how high school PARCC exams and the existing MCAS predict college grades and placement in remedial courses. According to the brief, it is "the first to examine the extent to which PARCC assessments succeed in one of their major goals: identifying students who are ready for college." It informed the state's decision about whether to continue using MCAS or switch to PARCC.
@@ -47,7 +47,7 @@ A study commissioned by the state of Massachusetts and conducted by Mathematica 
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC](../claims/first-study-parcc-college-readiness-massachusetts-decision.md) [+W]
 - [PARCC and MCAS scores show similar validity for predicting college grades](../claims/parcc-mcas-similar-college-grade-validity.md) [+W]
 - [Both MCAS and PARCC assessment scores predict college readiness, with similar validity in predicting college grades](../claims/mcas-and-parcc-both-predict-college-grades-similar-validity.md) [+W]
-- [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](../claims/mcas-and-parcc-similar-remediation-predictions.md) [+W]
+- [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](../claims/parcc-mcas-similar-remediation-prediction.md) [+W]
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](../claims/first-study-parcc-college-readiness-goal.md) [+W]
 
 ## Related Elements

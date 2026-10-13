@@ -43,9 +43,8 @@ Key finding from the report's simulation of predictive accuracy using Pennsylvan
 
 
 ## Related Claims
-- [Average achievement and adjusted average achievement measures provide no information for predicting principals' contributions to student achievement in the following year](average-achievement-measures-no-predictive-information-principals.md) — related
+- [Average achievement and adjusted average achievement measures provide no information for predicting principals' contributions to student achievement in the following year](average-achievement-measures-no-predictive-info-principal-impacts.md) — related
 - [School value-added and adjusted school value-added provide, at most, a small amount of information for predicting principals' contributions in the following year](value-added-measures-small-predictive-info-principal-impacts.md) — possibly the same claim (merge candidate)
-- [Average achievement and adjusted average achievement provide no information for predicting principals' contributions to student achievement in the following year](average-achievement-measures-no-predictive-info-principal-impacts.md) — related
 - [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — related
 - [Averaging principal performance measures across multiple recent years does not improve their accuracy for predicting principals' contributions in the following year](multiyear-averaging-no-accuracy-gain-principal-measures.md) — related
 - [School value added provides very poor information for revealing principals' persistent levels of effectiveness](school-value-added-poor-information-principal-effectiveness.md) — related

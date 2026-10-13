@@ -12,7 +12,7 @@ generated:
 # Operation Math App
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 7 studies (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Operation Math (Spinlight Studio) is a game-based app in which learners play a secret agent who defeats villains by completing 105 timed math missions covering addition, subtraction, multiplication, and division. Each mission presents a short sequence of computation problems under a countdown timer, with immediate right/wrong feedback and unlockable gear as rewards. The app is aimed primarily at ages 9–11 and is designed to build [automaticity](../elements/automaticity.md) with basic facts and multi-digit computation through repeated, game-framed [practice](../elements/practice.md).
@@ -31,7 +31,7 @@ Operation Math exemplifies [game-based learning](../principles/game-based-learni
 - Timed missions can induce anxiety and degrade performance for students with math anxiety or slow processing speed [Math anxiety consumes working memory resources and impairs performance, particularly under time pressure.](https://doi.org/10.1016/j.cedpsych.2008.10.004) [-M] — the timer should be disabled or reframed for these learners
 - Drill-based practice does not build conceptual understanding of operations; used alone it produces procedural fluency without meaning [Rittle-Johnson et al. (2001) show procedural and conceptual knowledge develop iteratively in math.](https://doi.org/10.1037/0022-0663.93.2.346) [~M]
 - Game rewards can become the goal, with learners optimizing for mission completion rather than accuracy [-W]
-- Effectiveness depends on practice being distributed over time; massed app sessions produce weaker retention [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [-S] — schedule short, spaced sessions rather than long blocks
+- Effectiveness depends on practice being distributed over time; massed app sessions produce weaker retention [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [-S] — schedule short, spaced sessions rather than long blocks
 
 #### Implementation Variability
 - Use as a station in a rotating math block (10–15 min sessions), with the teacher pulling small groups for conceptual instruction
@@ -51,7 +51,7 @@ Operation Math exemplifies [game-based learning](../principles/game-based-learni
 
 ### Instructions
 1. Diagnose which facts or operations each learner has not yet automatized, using a short [Assessment](../elements/assessment.md) or the app's own mission performance.
-2. Assign 10–15 minute app sessions on a spaced schedule (e.g., 3–4 times per week), targeting the diagnosed operation [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+2. Assign 10–15 minute app sessions on a spaced schedule (e.g., 3–4 times per week), targeting the diagnosed operation [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 3. Have learners complete timed missions, with the app providing immediate [Provide Feedback](../elements/provide-feedback.md) on each problem.
 4. Review mission results with the learner; for missed problems, have them explain their strategy aloud ([Self-Explanation](../elements/self-explanation.md)) or work the problem on paper to surface errors.
 5. Adjust difficulty and operation type as fluency grows, using [Adaptive Difficulty](../elements/adaptive-difficulty.md) reasoning — keep success rates high enough to sustain motivation.

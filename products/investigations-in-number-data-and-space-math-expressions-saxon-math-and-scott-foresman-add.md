@@ -18,7 +18,7 @@ sources:
 # Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Four published elementary mathematics curricula evaluated comparatively by Agodini et al. (2013) for their effects on achievement in grades 1–2.
@@ -29,7 +29,7 @@ Four published elementary mathematics curricula evaluated comparatively by Agodi
 
 ### Claims
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+W]
-- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-elementary-math-curricula-outperform-fourth-two-years.md) [+W]
+- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+W]
 - [After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+W]
 
 ## Related Products and Programmes
@@ -65,7 +65,7 @@ This element identifies the four elementary mathematics curricula compared in th
 ## Claims
 
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+W]
-- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-elementary-math-curricula-outperform-fourth-two-years.md) [+W]
+- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+W]
 - [After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+W]
 
 ## Related Elements

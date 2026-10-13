@@ -45,8 +45,7 @@ The author's summary of the state of the field, stating there have been "notable
 ## Related Claims
 - [Disengaged test-taking responses can distort the content representation of test items](disengaged-responses-distort-item-content-representation.md) — related
 - [Test-taking disengagement distorts both individual and aggregated test scores](disengagement-distorts-individual-and-aggregated-scores.md) — possibly the same claim (merge candidate)
-- [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](disengagement-material-individual-scores-minor-aggregations.md) — related
-- [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — a narrower finding that bears on this claim
+- [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Disengagement had only minimal impact on school mean performance, proficiency rates, and relative ranking on the state accountability test](disengagement-minimal-impact-school-aggregations.md) — related
 - [Twenty years of research on disengaged test taking in international assessment programs yields six insights with implications for assessment programs](six-insights-test-taking-disengagement-international-programs.md) — possibly the same claim (merge candidate)

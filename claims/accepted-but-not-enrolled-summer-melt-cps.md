@@ -46,4 +46,4 @@ Descriptive analysis of the sequential enrollment steps among 2005 CPS graduates
 - Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation — related
 - [Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges](application-not-acceptance-primary-barrier-cps-college-enrollment.md) — related
 - [The proportion of CPS graduates enrolling immediately in college rose gradually to 63 percent by 2018, with persistent disparities by race/ethnicity and gender](cps-immediate-college-enrollment-rose-to-63-percent-2018.md) — related
-- [Chicago students accepted to a four-year college who completed a FAFSA were far more likely to enroll than accepted students who did not file](fafsa-completion-associated-with-enrollment-chicago.md) — related
+- [Chicago students accepted to a four-year college who completed a FAFSA were far more likely to enroll than accepted students who did not file](fafsa-completion-predicts-four-year-enrollment.md) — related

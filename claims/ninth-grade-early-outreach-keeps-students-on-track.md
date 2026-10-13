@@ -49,10 +49,10 @@ The chapter's overview asserts, citing prior research, that dropout risk signs a
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related
 - [ALAS increases the likelihood that high-risk students stay on track to graduate on time at the end of the intervention](alas-progressing-in-school-positive-end-of-intervention.md) — related
-- [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](on-track-ninth-graders-3-5-times-more-likely-to-graduate.md) — related
+- [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](on-track-freshmen-graduate-at-higher-rates.md) — related
 - [ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention](alas-staying-in-school-positive-end-of-intervention.md) — related
 - [The on-track indicator is strongly related to students' likelihood of graduating](on-track-indicator-related-to-graduation-likelihood.md) — related
-- [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](freshman-on-track-early-indicator-kenwood.md) — related
+- [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](on-track-early-indicator-graduation.md) — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related
 - [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related

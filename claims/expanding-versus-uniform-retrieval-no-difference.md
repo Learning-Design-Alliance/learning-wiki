@@ -46,4 +46,3 @@ Meta-analysis (subset 2) aggregating 54 effect sizes from studies comparing expa
 - [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](exposures-moderate-expanding-schedule-benefit.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) — related
-- [Spaced retrieval practice produces better final retention than massed retrieval practice (g = 0.74)](spaced-retrieval-beats-massed-g-0-74.md) — related

@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: incidental-vocabulary-exposure-limited
-aliases: [incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure]
+aliases: [incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure, incidental-word-learning-while-reading-about-15-percent]
 evidence_strength: moderate
 sources:
   - id: swanborn-de-glopper-1999
@@ -36,12 +36,20 @@ sources:
     n: 24 studies (29 effect sizes, N=2,771)
     kind: quant-synthesis
     rigour: 2
+  - id: kamil-2008
+    resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/8"
+    title: "Kamil, M. L., Borman, G. D., Dole, J., Kral, C. C., Salinger, T., and Torgesen, J. (2008). Improving adolescent literacy: Effective classroom and intervention practices: A Practice Guide (NCEE #2008-4027). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/8"
+    author: Kamil, M. L., Borman, G. D., Dole, J., Kral, C. C., Salinger, T., and Torgesen, J.
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Incidental Vocabulary Exposure Limited
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 3 quant-synthesis `r2` · `q3` · `i2`–`i3`
+> **Evidence** · 4 studies · 3 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3` · `i2`–`i3`
 
 Learners acquire very few word meanings from a single incidental exposure during reading or listening; substantial word learning from context requires multiple encounters over time.
 
@@ -52,6 +60,8 @@ Learners acquire very few word meanings from a single incidental exposure during
 `q3 i2` In second-language incidental vocabulary learning, the number of encounters with a word correlates moderately with learning it (r = .34 over 26 studies), and learner, treatment and method variables moderate the size of that relationship. [→ Uchihara et al. 2019](#uchihara-et-al-2019)
 
 `q3 i3` Across 24 controlled second-language studies, incidental learning from meaning-focused input had a large effect against controls (g = 1.14), yet learners picked up only 9–18% of target words on immediate posttests and 6–17% on delayed ones. [→ Webb et al. 2023](#webb-et-al-2023)
+
+`q2 i?` A meta-analysis cited by the panel estimates the probability of learning a new word while reading at about 15 percent, so incidental learning alone is insufficient for academic vocabulary. [→ Kamil 2008](#kamil-2008)
 
 ## Evidence
 
@@ -80,6 +90,16 @@ Webb, S., Uchihara, T., & Yanagisawa, A. (2023). How effective is second languag
 This meta-analysis (open-access full text read) pooled 24 studies of second-language vocabulary learned incidentally from meaning-focused input, 29 effect sizes and 2,771 participants (1,517 in experimental and 1,254 in control groups); studies without a control group were excluded. Against controls, the mean effect was large on first posttests (g = 1.14, 95% CI [0.86, 1.41], k = 28) and on follow-up posttests (g = 0.93, 95% CI [0.44, 1.42], k = 9), and fail-safe N and trim-and-fill showed little concern about publication bias. The proportion of target words learned was small: about 18% for form recognition, 15% for meaning recognition and 9% for meaning recall on first posttests. Both halves bear on this claim: incidental exposure reliably produces some learning compared with none, but the share of words learned is low. Spaced encounters produced larger effects than massed ones (g = 1.51 against 0.97 on first posttests, p = .080; g = 1.71 against 0.58 on follow-up posttests, p = .013).
 
 > "Mean proportions of target words learned ranged from 9–18% on immediate posttests, and 6–17% on delayed posttests."
+
+### Kamil 2008
+
+Kamil, M. L., Borman, G. D., Dole, J., Kral, C. C., Salinger, T., and Torgesen, J. (2008). Improving adolescent literacy: Effective classroom and intervention practices: A Practice Guide (NCEE #2008-4027). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/8
+
+`q2 · i?` · `review · r2`
+
+The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the probability that they will learn new words while reading is relatively low—about 15 percent." The review narrates this second-hand finding; no effect size is printed.
+
+> "However, according to a meta-analysis of the literature, the probability that they will learn new words while reading is relatively low—about 15 percent."
 
 ## Discussion
 
@@ -134,4 +154,3 @@ This meta-analysis (open-access full text read) pooled 24 studies of second-lang
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — a narrower finding that bears on this claim
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — a narrower finding that bears on this claim
 - [Engaging students in defining new words during or after reading a text is among the practices most consistently related to student growth in language and comprehension](word-defining-during-after-reading-related-to-growth.md) — related
-- [The probability that students learn new words incidentally while reading is low—about 15 percent—motivating explicit vocabulary instruction](incidental-word-learning-while-reading-about-15-percent.md) — possibly the same claim (merge candidate)

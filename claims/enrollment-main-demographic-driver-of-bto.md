@@ -45,4 +45,3 @@ Secondary analysis within the same predictive model of the 1,715-school sample, 
 ## Related Claims
 - [School climate differences between BTO and other schools remain large and significant after adjusting for student demographics and personnel resources](climate-advantage-robust-to-controls.md) — related
 - [School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources](climate-stronger-association-than-resources.md) — reports the opposite
-- [The climate advantage of beating-the-odds schools persists after controlling for student demographics, school size, and personnel resources](climate-gap-persists-with-controls.md) — related

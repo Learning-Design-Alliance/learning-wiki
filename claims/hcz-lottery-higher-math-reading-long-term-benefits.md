@@ -44,7 +44,7 @@ A study of Harlem Children's Zone charter schools, which provide expanded learni
 
 ## Related Claims
 - Comparing lottery winners and lottery losers offers a rigorous way to assess charter middle schools' effects on long-term college outcomes — a broader claim this one bears on
-- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](kipp-lottery-rct-balances-treatment-and-control.md) — a broader claim this one bears on
+- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](kipp-lottery-offer-rct-group-balance.md) — a broader claim this one bears on
 - [Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence](kipp-middle-plus-high-large-enrollment-persistence-impacts.md) — related
 - [Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school](kipp-offer-high-compliance-middle-and-high-attendance.md) — related
 - [Fully implemented community schools (TACSI) produced significantly higher math and reading scores than comparison schools](tacsi-fully-implemented-higher-math-reading.md) — related

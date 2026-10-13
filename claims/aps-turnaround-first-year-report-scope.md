@@ -49,7 +49,7 @@ Descriptive statement from the report's own abstract page identifying the scope 
 - [The PROMISE interim evaluation measured impacts on primary outcomes at 18 months after enrollment](promise-impacts-measured-18-months.md) — related
 - [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — related
 - Primary-outcome impacts in the PROMISE evaluation were measured at an 18-month follow-up point — related
-- [During its first three years of operation, the Kauffman School had substantial positive and statistically significant impacts on student achievement in mathematics, reading, and science](kauffman-school-significant-achievement-impacts-first-three-years.md) — related
+- [During its first three years of operation, the Kauffman School had substantial positive and statistically significant impacts on student achievement in mathematics, reading, and science](kauffman-school-positive-achievement-impacts-three-subjects.md) — related
 - [The PROMISE evaluation estimated program impacts on service receipt, education, employment, and related outcomes at 18 months after enrollment](promise-impact-estimates-18-months.md) — related
 - [Turnaround partnership schools are producing math improvements, but other effects were mixed, varying by outcome and by partner organization (Kindezi and PBS)](aps-partnership-schools-mixed-effects.md) — related
 - [After two years, the Turnaround Strategy is producing improvements in math performance in targeted schools, with no evidence of positive impacts on other student outcomes](aps-turnaround-math-gains-targeted-schools.md) — related

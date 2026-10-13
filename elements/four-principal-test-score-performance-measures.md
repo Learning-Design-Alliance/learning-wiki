@@ -17,7 +17,7 @@ sources:
 # Four principal performance measures based on student test scores evaluated in Pennsylvania
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The report evaluates four principal performance measures based on student test scores: average achievement, adjusted average achievement, school value-added, and adjusted school value-added. The first two "do not account for students’ past achievement" while the latter two do. Each measure's rating stability and predictive accuracy for principals' future contributions to student achievement were assessed and simulated.
@@ -42,7 +42,7 @@ The report evaluates four principal performance measures based on student test s
 - [School value-added and adjusted school value-added provide at most a small amount of information for predicting principals' future contributions to student achievement](../claims/school-value-added-small-predictive-information-principals.md) [+W]
 - [School value-added and adjusted school value-added provide, at most, a small amount of information for predicting principals' contributions in the following year](../claims/value-added-measures-small-predictive-info-principal-impacts.md) [+W]
 - [Average achievement and adjusted average achievement provide no information for predicting principals' contributions to student achievement in the following year](../claims/average-achievement-measures-no-predictive-info-principal-impacts.md) [+W]
-- [Average achievement and adjusted average achievement measures provide no information for predicting principals' contributions to student achievement in the following year](../claims/average-achievement-measures-no-predictive-information-principals.md) [+W]
+- [Average achievement and adjusted average achievement measures provide no information for predicting principals' contributions to student achievement in the following year](../claims/average-achievement-measures-no-predictive-info-principal-impacts.md) [+W]
 
 ## Related Elements
 

@@ -38,7 +38,7 @@ Response styles are patterns in how survey respondents use Likert scale categori
 
 ### Claims
 
-- [Response Styles Affect Growth Estimates Sel](../claims/response-styles-affect-growth-estimates-sel.md) [+M]
+- [Response Styles Affect Growth Estimates Sel](../claims/response-style-growth-effects-vary-by-construct-and-model.md) [+M]
 - [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](../claims/response-styles-construct-irrelevant-bias.md) [+W]
 
 ## Related Theories

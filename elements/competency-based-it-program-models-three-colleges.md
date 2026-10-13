@@ -17,7 +17,7 @@ sources:
 # Competency-based information technology program models in three community colleges
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 5 studies (2 associational, 2 design, 1 qualitative), `q1`–`q2` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 6 studies (3 associational, 2 design, 1 qualitative), `q1`–`q2` · 0 of 6 report an effect size · 5 claims rest on one study
 
 ## Description
 The element is the set of competency-based information technology program models implemented by three community colleges under a consortium led by Sinclair Community College. The report "documents at or near baseline, the program model that each of the participating colleges is implementing", showing how such models were designed and launched in different institutional contexts. It is part of a Labor Department effort to improve outcomes for economically dislocated and low-skilled adult workers.

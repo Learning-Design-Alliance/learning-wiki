@@ -17,7 +17,7 @@ sources:
 # Pennsylvania Teacher and Principal Evaluation Pilot (2010-2015), Phase 2 classroom-observation study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 A three-year pilot conducted by the Pennsylvania Department of Education, running from 2010 to 2015, in which principals evaluated teachers' classroom practice using The Framework for Teaching. Phase 2 of the pilot is the subject of this report, which assessed the internal consistency of observation scores, score variation, and relationships with value added. It was prepared for Team Pennsylvania Foundation and the Gates Foundation.

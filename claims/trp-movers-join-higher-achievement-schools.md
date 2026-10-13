@@ -44,7 +44,7 @@ Descriptive analysis of TRP teachers who changed schools within the same distric
 
 ## Related Claims
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
-- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
+- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](residency-graduates-higher-retention.md) — related
 - [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — related
 - [The 2010-2015 study examined characteristics of 30 TRPs, including required coursework, teacher backgrounds and experiences, and teacher retention](trp-multisite-study-30-programs.md) — related
 - [Access to restorative practices is inequitable: schools with more Black and economically disadvantaged students show lower restorative practice utilization](inequitable-access-restorative-practices.md) — related

@@ -17,7 +17,7 @@ sources:
 # Comprehensive teacher induction programs
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (1 mixed, 8 against) · 4 studies (3 causal, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 9 claims rest on one study
+> **Evidence** · 8 claims (1 mixed, 7 against) · 5 studies (4 causal, 1 theoretical), `q1`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Comprehensive teacher induction is a support model for new teachers that "goes beyond traditional induction by relying on carefully selected and trained full-time mentors". It also "includes an intensive curriculum involving instructional support and professional development, opportunities to observe experienced teachers, and assessment tools for teachers that permit ongoing evaluation of practice and constructive feedback". It was evaluated against business-as-usual induction in a national randomized controlled study.
@@ -49,7 +49,7 @@ Comprehensive teacher induction is a support model for new teachers that "goes b
 - [The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program](../claims/induction-null-impacts-one-and-two-year-programs.md) [-M]
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](../claims/working-conditions-shape-retention-and-recruitment.md) [~W]
 - [Comprehensive teacher induction generated no significant improvements in student achievement in the first year](../claims/comprehensive-induction-no-student-achievement-gains-first-year.md) [-M]
-- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](../claims/teacher-induction-no-retention-gain-year-1.md) [-M]
+- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](../claims/comprehensive-induction-no-retention-gain-first-year.md) [-M]
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](../claims/comprehensive-induction-no-retention-gain-first-year.md) [-M]
 - [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](../claims/comprehensive-induction-no-classroom-practice-gains-first-year.md) [-M]
 

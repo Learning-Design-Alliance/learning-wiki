@@ -47,4 +47,4 @@ Postsecondary outcomes analysis of KIPP alumni; the report states "no detectable
 - [KIPP Atlanta Collegiate High School is associated with higher rates of initial college enrollment](kipp-atlanta-collegiate-higher-college-enrollment.md) — related
 - [KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments](kipp-atlanta-middle-schools-improve-proficiency.md) — related
 - [KIPP Atlanta middle school impacts on proficiency generally increase across grade levels](kipp-atlanta-impacts-increase-across-grades.md) — related
-- [Average KIPP middle school impacts were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-higher-earlier-years.md) — related
+- [Average KIPP middle school impacts were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related

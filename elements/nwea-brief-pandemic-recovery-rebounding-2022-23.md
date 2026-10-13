@@ -17,7 +17,7 @@ sources:
 # Research brief on progress towards pandemic recovery at the start of the 2022-23 school year
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A research brief by Megan Kuhfeld and Karyn Lewis examining achievement trends as students returned for the 2022-23 school year after COVID-19 disruptions. The page lists it as associated research under the topics COVID-19 & schools and Equity, and the appendix was written to document the methods behind it. Its two stated research questions are "How do summer learning patterns in summer 2022 compare to a pre-pandemic summer?" and "Do we continue to see signs of test scores rebounding at the start of the 2022-23 school year?"
@@ -40,7 +40,7 @@ A research brief by Megan Kuhfeld and Karyn Lewis examining achievement trends a
 ## Claims
 
 - [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](../claims/2022-23-achievement-stalled-pandemic-recovery.md) [+M]
-- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](../claims/pandemic-recovery-stalled-2022-23.md) [+M]
+- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](../claims/2022-23-achievement-stalled-pandemic-recovery.md) [+M]
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](../claims/persistent-achievement-gaps-2022-23.md) [+M]
 - [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](../claims/covid-cohort-achievement-gap-tracked.md) [+M]
 

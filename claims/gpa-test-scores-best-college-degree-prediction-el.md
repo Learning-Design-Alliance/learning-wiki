@@ -64,7 +64,6 @@ A footnote to the degree-prediction finding cautions that the test-score relatio
 ## Related Claims
 - [Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment](indicator-combinations-best-prediction-el.md) — a broader claim this one bears on
 - [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](gpa-most-predictive-attainment-english-learners.md) — related
-- [GPAs are the most predictive single indicator of high school graduation, college enrollment, and degree completion for all English Learner groups, followed by attendance and course failure rates](gpa-most-predictive-indicator-el-groups.md) — related
 - [Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs](gpa-attendance-combination-best-graduation-prediction-el.md) — related
 - [Contextualized high school GPA had a stronger relationship with college success than contextualized standardized test scores (Bastedo et al., attributed)](contextualized-gpa-stronger-than-contextualized-test-scores.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related

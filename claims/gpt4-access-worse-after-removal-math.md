@@ -62,13 +62,11 @@ The review attributes to Liu et al. (2026) randomised controlled trials with N=1
 
 
 ## Related Claims
-- [Heavy reliance on generative AI can undermine learning: students with GPT-4 access performed better on practice problems but worse on exams once the tool was removed](gpt4-practice-gains-exam-loss-cognitive-debt.md) — possibly the same claim (merge candidate)
+- [Heavy reliance on generative AI can undermine learning: students with GPT-4 access performed better on practice problems but worse on exams once the tool was removed](gpt4-access-harms-learning-after-withdrawal.md) — possibly the same claim (merge candidate)
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — a broader claim this one bears on
 - [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt-access-supported-practice-poorer-unaided-test.md) — possibly the same claim (merge candidate)
-- [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — possibly the same claim (merge candidate)
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — a narrower finding that bears on this claim
 - [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — reports the opposite
 - [Performance improvements from generative AI assistance diminished once the assistance was removed](genai-performance-gains-diminish-without-assistance.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
-- [AI assistants can improve short-term task performance while harming durable, independent learning once the AI is removed](ai-assistant-short-term-gains-harm-durable-learning.md) — possibly the same claim (merge candidate)
 - [The review reports that generative AI can raise immediate performance while impairing delayed exam performance once AI access is removed](ai-performance-mastery-decoupling-review-report.md) — possibly the same claim (merge candidate)

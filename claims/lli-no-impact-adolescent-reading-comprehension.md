@@ -3,6 +3,7 @@ type: claim
 title: "LLI had no impact on secondary students' reading comprehension in the Oakland RCT"
 description: "LLI had no impact on secondary students' reading comprehension in the Oakland RCT"
 id: lli-no-impact-adolescent-reading-comprehension
+aliases: [lli-secondary-no-impact-reading-comprehension]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
+
 `q3 i?` In a randomized controlled trial of LLI in secondary grades, the intervention had no impact on students' reading comprehension. [→ Naihobe Gonzalez 2018](#naihobe-gonzalez-2018)
+
+`q3 i?` LLI had no impact on students' reading comprehension in the Oakland secondary-school RCT. [→ Naihobe Gonzalez 2018](#naihobe-gonzalez-2018)
 
 ## Evidence
 
@@ -39,12 +43,25 @@ Findings from the randomized controlled trial of LLI in Oakland secondary school
 
 > "LLI had no impact on students’ reading comprehension and a negative impact on their mastery of English language arts/literacy standards."
 
+<!-- merged 2026-10-13 from lli-secondary-no-impact-reading-comprehension: that page's entry for this study, which differed from the one above, kept verbatim.
+### Naihobe Gonzalez 2018
+
+Naihobe Gonzalez, Sophie MacIntyre, Pilar Beccar-Varela. (2018). Leveled Literacy Intervention for Secondary Students: Results from a Randomized Controlled Trial in Oakland Schools. Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/leveled-literacy-intervention-for-secondary-students-results-from-a-randomized-controlled-trial
+
+`q3 · i?` · `causal · r?`
+
+The brief reports impacts from the district's randomized controlled trial of LLI in Oakland secondary schools, the nation's first RCT of LLI in secondary grades. It states "LLI had no impact on students’ reading comprehension"; no effect size is printed.
+
+> "LLI had no impact on students’ reading comprehension and a negative impact on mastery of English language arts/literacy standards."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [LLI had a negative impact on secondary students' mastery of English language arts/literacy standards](lli-negative-impact-ela-standards-mastery.md) — related
-- [In an RCT in Oakland secondary schools, LLI had no impact on students' reading comprehension](lli-secondary-no-impact-reading-comprehension.md) — possibly the same claim (merge candidate)
 - [Secondary students who received more LLI or were pulled out of other classes were particularly negatively affected, possibly from missing grade-level content](lli-more-dosage-pullout-negatively-affected.md) — related
 - [Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity](lli-secondary-implementation-challenges-variation.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related

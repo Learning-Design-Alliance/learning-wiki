@@ -39,7 +39,7 @@ The study compared four published elementary mathematics curricula, enumerated b
 ## Claims
 
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+M]
-- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-elementary-math-curricula-outperform-fourth-two-years.md) [+M]
+- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+M]
 - [The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools](../claims/math-curricula-benefits-extend-to-low-performing-high-poverty-schools.md) [+M]
 - [The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools](../claims/largest-experimental-study-of-math-curricula-110-schools.md) [+M]
 

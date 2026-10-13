@@ -45,7 +45,6 @@ The report's summary of its evidence on the Missouri Career Ladder Program state
 
 ## Related Claims
 - [Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores](career-ladder-missouri-small-or-no-achievement-effect.md) — related
-- [The Missouri Teacher Career Ladder Program shows estimated effects on student math and reading achievement ranging from small positive effects to no effect](missouri-career-ladder-small-positive-to-no-effect.md) — related
 - [The program's achievement effects were estimated statewide using nine years of longitudinal math and reading scores from 524 Missouri school districts](missouri-career-ladder-statewide-longitudinal-design.md) — related
 - [Small career-ladder bonuses can affect teacher behavior without necessarily producing large effects](small-bonuses-affect-behavior-not-large-effects.md) — related
 - [The report's evidence base comprises program documentation, teacher focus groups, and telephone interviews with school officials](career-ladder-profile-mixed-qualitative-sources.md) — related

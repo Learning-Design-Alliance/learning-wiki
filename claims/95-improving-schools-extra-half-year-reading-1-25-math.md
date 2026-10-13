@@ -48,5 +48,5 @@ Citywide analysis of Chicago elementary schools' ITBS-based academic productivit
 - [Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics](strong-essential-supports-ten-times-more-likely-substantial-gains.md) — related
 - [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](chicago-strong-essentials-tenfold-gains.md) — related
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
-- [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-pedagogy-assignments-predict-achievement-gains.md) — related
+- [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-assignments-greater-itbs-gains.md) — related
 - [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related

@@ -13,14 +13,14 @@ generated:
 # Explicit Vocabulary Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 2 against) · 16 studies (6 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size
+> **Evidence** · 7 claims (5 for, 2 against) · 17 studies (6 causal, 6 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 17 report an effect size
 
 ## Description
 Explicit vocabulary instruction directly teaches carefully selected target words through student-friendly definitions, examples and non-examples, contextual use, and structured practice, rather than relying on incidental exposure from reading or discussion. It typically follows a routine: pronounce the word, provide a friendly definition, illustrate with examples across contexts, and engage learners in active processing and repeated encounters over time.
 
 ## Design Implications
 
-Explicit instruction outperforms incidental exposure for teaching specific word meanings, with effects strongest when instruction includes both definitional and contextual information [Marulis & Neuman, 2010](https://doi.org/10.3102/0034654310370887) [+S]. Word knowledge is incremental — a single encounter rarely produces durable learning — so effective programs distribute multiple varied encounters with each word across days and weeks [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]. Rich, elaborative processing (generating examples, connecting to known concepts, judging applicability) produces deeper word knowledge than rote definition memorization [Elaborative interrogation improves learning.](../claims/elaborative-interrogation-improves-learning.md) [+M].
+Explicit instruction outperforms incidental exposure for teaching specific word meanings, with effects strongest when instruction includes both definitional and contextual information [Marulis & Neuman, 2010](https://doi.org/10.3102/0034654310370887) [+S]. Word knowledge is incremental — a single encounter rarely produces durable learning — so effective programs distribute multiple varied encounters with each word across days and weeks [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Rich, elaborative processing (generating examples, connecting to known concepts, judging applicability) produces deeper word knowledge than rote definition memorization [Elaborative interrogation improves learning.](../claims/elaborative-interrogation-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -95,7 +95,7 @@ Explicit instruction outperforms incidental exposure for teaching specific word 
 2. **Define** each word in student-friendly language, using [Analogies](../elements/analogies.md) and familiar concepts ([Activation](../principles/activation.md))
 3. **Illustrate** with multiple examples across varied contexts plus non-examples showing what the word does *not* mean
 4. **Engage** learners in active processing: generate their own examples, judge whether the word applies in novel scenarios, [Act It Out](../elements/act-it-out.md), or discuss with peers ([Active Learning](../principles/active-learning.md))
-5. **Distribute** review encounters across subsequent days and weeks through [Practice](../elements/practice.md), [Annotating](../principles/annotating.md) texts, and spaced retrieval [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+5. **Distribute** review encounters across subsequent days and weeks through [Practice](../elements/practice.md), [Annotating](../principles/annotating.md) texts, and spaced retrieval [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 6. **Assess** word knowledge formatively and reteach fragile words ([Assessment for Learning](../principles/assessment-for-learning.md))
 
 ## Related Strategies

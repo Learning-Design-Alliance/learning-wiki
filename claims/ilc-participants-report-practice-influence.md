@@ -3,6 +3,7 @@ type: claim
 title: Most ILC workshop participants report that the experience influenced their curriculum, instruction, assessments, engagement, and student learning to a great extent
 description: Most ILC workshop participants report that the experience influenced their curriculum, instruction, assessments, engagement, and student learning to a great extent
 id: ilc-participants-report-practice-influence
+aliases: [ilc-participants-report-great-extent-influence]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
+
 `q2 i?` Large majorities of educators consistently report that ILC experiences influenced their curriculum, instructional strategies, assessments, student engagement, and student learning to a great extent (well above 4 on a 5-point scale). [→ Lotan 2019](#lotan-2019)
+
+`q2 i?` In post-workshop surveys of thousands of participants, large majorities consistently report that ILC experiences influenced their curriculum, instructional strategies, assessments, student engagement, and student learning to a great extent. [→ Lotan 2019](#lotan-2019)
 
 ## Evidence
 
@@ -39,13 +43,27 @@ Post-workshop survey evidence from thousands of participants across the ILC proj
 
 > "Post-workshop surveys of thousands of participants show that large majorities of educators consistently report that their ILC experiences have influenced their curriculum, instructional strategies, assessments, student engagement, and student learning to a “great extent”"
 
+<!-- merged 2026-10-13 from ilc-participants-report-great-extent-influence: that page's entry for this study, which differed from the one above, kept verbatim.
+### Lotan 2019
+
+Lotan, R. A., Burns, D., & Darling-Hammond, L. (2019). The Instructional Leadership Corps: Entrusting professional learning in the hands of the profession. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/instructional-leadership-corps-professional-learning
+
+`q2 · i?` · `qualitative · r2`
+
+Post-workshop survey data collected by SCOPE across ILC activities; ratings of influence were "well above 4 on a 5-point scale." Participants also consistently replied that sessions were "very" or "extremely" helpful.
+
+> "In post-workshop surveys of thousands of participants, large majorities of educators consistently report that their ILC experiences have influenced their curriculum, instructional strategies, assessments, student engagement, and student learning to a “great extent” (well above 4 on a 5-point scale)."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Teachers commonly attribute increased student engagement to ILC-influenced instruction](ilc-attributed-student-engagement-gains.md) — related
-- [Large majorities of ILC workshop participants report their ILC experiences influenced curriculum, instruction, assessment, engagement, and learning to a great extent](ilc-participants-report-great-extent-influence.md) — possibly the same claim (merge candidate)
 - [Teachers commonly attribute increased student engagement—active involvement, multiple solution approaches, perseverance, and confidence—to ILC-influenced instruction](ilc-attributed-increases-student-engagement.md) — related
 - [Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices](ccss-pd-impact-on-teaching-practices-elementary-more.md) — related
 - [Over four years, more than 250 ILC leaders provided multi-session professional learning to more than 32,000 California educators across more than 2,000 schools and at least 495 districts](ilc-reach-32000-educators-495-districts.md) — related
 - [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — related
+- [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](teacher-reported-engagement-opportunities-increased.md) — related

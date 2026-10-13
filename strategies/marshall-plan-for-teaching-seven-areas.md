@@ -17,7 +17,7 @@ sources:
 # A federal Marshall Plan for Teaching focused on seven areas: compensation, debt-free preparation, high-retention pathways, mentoring, expertise-sharing, school redesign, and accountability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 6 studies (4 associational, 1 review, 1 qualitative), `q1`–`q2` · 0 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 7 studies (3 review, 3 associational, 1 qualitative), `q1`–`q2` · 0 of 7 report an effect size · 4 claims rest on one study
 
 ## Description
 The report's central recommendation is 'a nationwide Marshall Plan for teaching, similar to that enacted after World War II to rebuild Europe, but for rebuilding the teaching profession.' It would 'focus the powers of the federal government on supporting recruitment, preparation, support, and retention in teaching in seven key areas': raising net compensation through tax credits, housing subsidies, and salary incentives; making teacher preparation debt-free via service scholarships and loan forgiveness; expanding high-retention pathways such as residencies and Grow Your Own programs; providing high-quality mentoring for all beginning teachers; funding professional learning and collaboration; incentivizing school redesign away from the factory model; and rethinking school accountability around authentic measures of school quality and equity.
@@ -41,10 +41,10 @@ The report's central recommendation is 'a nationwide Marshall Plan for teaching,
 ## Claims
 
 - [Teacher salaries influence entry, supply, and retention in teaching](../claims/salary-increases-influence-teacher-supply-and-retention.md) [+W]
-- [Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers](../claims/underprepared-teachers-attrition-two-to-three-times.md) [+W]
+- [Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers](../claims/underprepared-teachers-leave-at-2-3-times-rate.md) [+W]
 - [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](../claims/teacher-turnover-16-percent-annual.md) [+W]
 - [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](../claims/us-teacher-turnover-15-percent-2021-22.md) [+W]
-- [Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave the profession than those with the most comprehensive preparation](../claims/weak-preparation-predicts-teacher-attrition.md) [+W]
+- [Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave the profession than those with the most comprehensive preparation](../claims/underprepared-teachers-leave-at-2-3-times-rate.md) [+W]
 - [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](../claims/louisiana-teachers-of-color-working-conditions-turnover.md) [+W]
 
 ## Related Strategies

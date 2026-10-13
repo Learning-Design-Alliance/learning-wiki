@@ -49,7 +49,7 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 
 ## Related Claims
 
-- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
+- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — related
 - [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) — the same synthesis
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the same synthesis
 - [Learning-technique effects do not shrink across test delays from the same day to six months](learning-technique-effects-stable-over-test-delays-up-to-six-months.md) — the same synthesis

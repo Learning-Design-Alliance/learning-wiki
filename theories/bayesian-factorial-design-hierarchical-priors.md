@@ -20,7 +20,7 @@ sources:
 # Bayesian approach to factorial design using hierarchical priors and partial pooling
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (3 theoretical), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 4 studies (3 theoretical, 1 design), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper introduces a Bayesian framework for factorial experiments in education research. Rather than relying only on basic treatment-control comparisons, the approach uses "hierarchical priors and partial pooling" to share information across factor levels, which the authors show increases the precision of estimates in complex experiments with many factors and factor levels. It is offered as a methodological alternative to traditional statistical inference for studying multiple related interventions.
@@ -45,7 +45,7 @@ The paper introduces a Bayesian framework for factorial experiments in education
 
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde.md) [+W]
 - [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](../claims/bayesian-partial-pooling-precision-false-positive-control.md) [+W]
-- [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/seventy-two-arms-classical-double-sample-size.md) [+W]
+- [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/bayesian-72-arm-half-sample-size-classical.md) [+W]
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde.md) [+W]
 - [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](../claims/classical-inference-prohibitive-sample-sizes-factorial.md) [+W]
 - [For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/bayesian-72-arm-half-sample-size-classical.md) [+W]

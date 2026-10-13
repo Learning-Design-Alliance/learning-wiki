@@ -16,7 +16,7 @@ sources:
 # Tecnologías de Expedientes de Aprendizaje y Empleo (LER)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (3 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (4 qualitative), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Un LER es "un registro de datos digital de las destrezas, experiencias y credenciales de un individuo que puede combinarse con otros LER y credenciales digitales" para hacerlos visibles en la búsqueda de oportunidades educativas, profesionales y vitales. Las tecnologías LER son las herramientas para acceder, almacenar, editar y compartir el historial de aprendizaje y empleo. El estudio presentó a los participantes cuatro tecnologías mediante vídeos de cinco minutos: Teacher Wallet (RANDA Solutions), MilGears (SOLID Inc), LearnCard (LEF) y Career Wallet (Velocity Network).

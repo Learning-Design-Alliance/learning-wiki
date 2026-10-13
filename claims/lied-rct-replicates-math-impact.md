@@ -43,9 +43,8 @@ Randomized controlled trial exploiting Lied's oversubscription lottery: 1,023 fi
 
 
 ## Related Claims
-- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](kipp-lottery-rct-balances-treatment-and-control.md) — related
+- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](kipp-lottery-offer-rct-group-balance.md) — related
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — a broader claim this one bears on
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — related
 - [Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students](lied-magnet-stem-credit-impacts.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
-- [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](kipp-lottery-offer-rct-group-balance.md) — related

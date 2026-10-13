@@ -46,9 +46,8 @@ The study design states that both college enrollment and persistence in college 
 - [KIPP middle schools' positive effects extend to enrollment in 4-year college programs, not only middle school achievement](kipp-middle-schools-extend-effects-to-four-year-enrollment.md) — related
 - [The postsecondary enrollment NSI's first-year impact on college enrollment did not persist into schools' second year](postsecondary-nsi-college-impact-not-persistent.md) — related
 - [Well-matched postsecondary enrollment NSI raised FAFSA completion but did not significantly affect postsecondary enrollment after year two](postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) — related
-- [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](postsecondary-enrollment-nsi-fafsa-not-college-year-two.md) — related
 - [The impact of the 9th-grade on-track NSI appeared to increase over time](9th-grade-on-track-nsi-impact-increased-over-time.md) — related
-- [Charter middle schools' success in raising middle school achievement was not related to their success in improving students' college enrollment and completion](charter-achievement-gains-unrelated-to-college-outcomes.md) — related
+- [Charter middle schools' success in raising middle school achievement was not related to their success in improving students' college enrollment and completion](charter-college-outcomes-unrelated-to-middle-school-achievement-gains.md) — related
 - [Predictive accuracy of middle and high school indicators did not vary substantially between student groups](predictive-accuracy-similar-across-groups.md) — related
 - [This report provides the first estimates of Upward Bound's effects on postsecondary completion and updates earlier estimates for enrollment and financial aid](upward-bound-first-postsecondary-completion-estimates.md) — related
 - [An estimated 31 million or more US students over the last 20 years enrolled in but did not complete post-secondary education](31-million-enrolled-not-completed.md) — related

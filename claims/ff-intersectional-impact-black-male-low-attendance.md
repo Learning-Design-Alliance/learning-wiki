@@ -65,12 +65,9 @@ In the same RCT, Black male students with low baseline attendance in FF had a mo
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [FF's attendance impact was larger for Black students, male students, and students with low baseline attendance than for their comparison subgroups](ff-differential-attendance-subgroups.md) — a broader claim this one bears on
-- [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](future-forward-differential-impact-subgroups.md) — a broader claim this one bears on
+- [FF's attendance impact was larger for Black students, male students, and students with low baseline attendance than for their comparison subgroups](future-forward-differential-impact-subgroups.md) — a broader claim this one bears on
 - [Black male students with low baseline attendance show the largest Future Forward attendance gains, though not statistically significant](future-forward-black-male-low-attendance-gains.md) — a narrower finding that bears on this claim
 - [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](future-forward-improves-school-attendance.md) — a broader claim this one bears on
-- [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](ff-rct-significant-attendance-impact.md) — a broader claim this one bears on
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
 - [Future Forward holds 'Strong' evidence ratings for Family Engagement and Attendance in addition to literacy](future-forward-strong-ratings-family-engagement-attendance.md) — related
-- [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](ff-prior-rct-literacy-attendance-impacts.md) — related
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related

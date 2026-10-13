@@ -82,7 +82,7 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 
 ## Related Claims
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md)
-- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
+- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) — related
@@ -93,6 +93,4 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 - [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — a narrower finding that bears on this claim
 - [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — related
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](retrieval-practice-enhances-learning-applied-settings.md) — a broader claim this one bears on
-- [Spaced retrieval practice produces better final retention than massed retrieval practice (g = 0.74)](spaced-retrieval-beats-massed-g-0-74.md) — related
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related
-- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spacing-effect-robust-verbal-recall.md) — related

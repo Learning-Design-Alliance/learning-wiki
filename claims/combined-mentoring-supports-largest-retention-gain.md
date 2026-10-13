@@ -45,6 +45,5 @@ Survey analysis of novice CPS teachers comparing intensive combined mentoring-pl
 ## Related Claims
 - [Strong mentoring is linked to novice elementary teachers being 25 percentage points more likely to plan to remain in the same school, with a similar but non-significant pattern for high school teachers](strong-mentoring-25-point-retention-plan-elementary.md) — related
 - [High school novices receiving strong levels of broader induction supports were 50 percentage points more likely to plan to remain in their school than those with weak support](strong-supports-50-point-retention-plan-high-school.md) — related
-- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](teacher-induction-no-retention-gain-year-1.md) — related
-- [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
+- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](comprehensive-induction-no-retention-gain-first-year.md) — related
 - [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related

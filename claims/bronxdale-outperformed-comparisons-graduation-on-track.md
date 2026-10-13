@@ -49,5 +49,4 @@ NYC DOE 2017–18 indicator data show Bronxdale 9th- and 10th-graders "earned su
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related
 - [Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-graduate status in 10th and 11th grades](el-reclassification-on-track-positive-imprecise.md) — related
-- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](9th-grade-on-track-nsi-positive-impacts-year-two.md) — related
 - [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related

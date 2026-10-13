@@ -46,7 +46,6 @@ Randomized trial of 69 kindergarteners assigned to DaisyQuest or regular kinderg
 - [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](daisyquest-beats-math-software-alphabetics.md) — related
 - [DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders](daisyquest-beats-reading-software-phonological-awareness.md) — related
 - [DaisyQuest improved phonological awareness over regular schooling in a child-care facility randomized trial](daisyquest-child-care-significant-gains.md) — related
-- [In Foster et al. (1994), DaisyQuest produced statistically significant positive effects on both phonological processing measures in 4- to 6-year-olds](foster-1994-daisyquest-significant-both-measures.md) — related
 - [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](lonigan-2003-significant-four-of-eight-outcomes.md) — related
 - [DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers](daisyquest-versus-teacher-instruction-mixed.md) — related
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](daisyquest-positive-effects-phonological-processing.md) — a broader claim this one bears on

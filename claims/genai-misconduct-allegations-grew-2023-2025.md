@@ -45,6 +45,6 @@ Analysis of institutional case records at one regional Australian university fou
 ## Related Claims
 - Assertion-only allegations declined from 7.6% of evidence items in 2023 to approximately 2.5% by 2025 — related
 - [Co-occurrence of fabricated references with interview admissions grew from 3.1% to 15% of cases, reaching about 1 in 7 cases by 2025](fabricated-references-co-occur-with-admissions-growth.md) — related
-- [GenAI-supported learning is associated with higher learning motivation on average (g = 0.764), but with very high between-study heterogeneity (I2 = 93.7%)](genai-positive-average-effect-learning-motivation-g-0764.md) — related
+- [GenAI-supported learning is associated with higher learning motivation on average (g = 0.764), but with very high between-study heterogeneity (I2 = 93.7%)](genai-learning-motivation-g081.md) — related
 - [AI-detection tool outputs as submitted evidence collapsed to 0.5% of items in 2025 after peaking at 8.8% in 2024](ai-detection-evidence-near-disappeared-2025.md) — related
 - [Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles](evidence-types-differ-in-probative-value.md) — related

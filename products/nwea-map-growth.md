@@ -54,7 +54,7 @@ sources:
 # NWEA MAP Growth
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 33 claims (31 for, 2 mixed) · 19 studies (13 associational, 5 design, 1 causal), `q1`–`q2` · 0 of 19 report an effect size · 33 claims rest on one study
+> **Evidence** · 27 claims (25 for, 2 mixed) · 17 studies (12 associational, 5 design), `q1`–`q2` · 0 of 17 report an effect size · 26 claims rest on one study
 
 ## Description
 NWEA MAP Growth is a computer-adaptive achievement assessment and associated longitudinal achievement database developed and administered by NWEA.
@@ -79,15 +79,15 @@ NWEA MAP Growth is a computer-adaptive achievement assessment and associated lon
 - [Students with visual impairments show lower initial reading achievement in third grade than the national norm](../claims/vi-students-lower-third-grade-reading-initial-status.md) [+W]
 - [Reading growth trajectories of students with visual impairments trend upward at a steady pace while the gap with the national norm remains wide](../claims/vi-students-steady-upward-reading-growth-wide-gap.md) [+W]
 - [The study compared reading growth for students with visual impairments with a nationally normed group of students from the general population](../claims/vi-reading-growth-compared-national-norm-group.md) [+W]
-- [The brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/algebra-8th-versus-9th-grade-placement-outcomes-examined.md) [+M]
+- [The brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+M]
 - [The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra](../claims/algebra-outcomes-ready-versus-not-ready-students.md) [+M]
 - [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](../claims/algebra-ready-students-enrollment-examined-map-growth.md) [+M]
-- [An NWEA study using nationwide MAP Growth scores examines how many students ready for Algebra enrolled in 8th grade and how outcomes differed for students who were or were not ready](../claims/algebra-8th-grade-placement-readiness-enrollment-outcomes.md) [+M]
-- [Taking Algebra in 8th grade instead of 9th grade raises questions of readiness and enrollment that NWEA examined with nationwide MAP Growth data](../claims/algebra-placement-8th-versus-9th-grade-outcomes.md) [+M]
-- [A nationwide MAP Growth study examines whether taking Algebra in 8th rather than 9th grade improves outcomes, and how many ready students actually enroll](../claims/algebra-8th-grade-placement-outcomes-study.md) [+M]
+- [An NWEA study using nationwide MAP Growth scores examines how many students ready for Algebra enrolled in 8th grade and how outcomes differed for students who were or were not ready](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+M]
+- [Taking Algebra in 8th grade instead of 9th grade raises questions of readiness and enrollment that NWEA examined with nationwide MAP Growth data](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+M]
+- [A nationwide MAP Growth study examines whether taking Algebra in 8th rather than 9th grade improves outcomes, and how many ready students actually enroll](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+M]
 - [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+W]
-- [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes, including enrollment among students ready for Algebra](../claims/algebra-8th-grade-placement-outcomes-brief.md) [+W]
-- [A 2026 research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/algebra-placement-8th-versus-9th-grade-brief.md) [+W]
+- [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes, including enrollment among students ready for Algebra](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+W]
+- [A 2026 research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+W]
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](../claims/8th-grade-algebra-access-inequitable-nationwide.md) [+M]
 - [High-achieving students who fell below the 90th percentile typically stayed at the 70th percentile or higher](../claims/fallen-high-flyers-stay-70th-percentile-or-higher.md) [+W]
 - [The study operationalized high achievement as scoring at or above the 90th percentile on the NWEA assessment](../claims/high-achievement-defined-as-90th-percentile-or-above.md) [+W]
@@ -243,15 +243,15 @@ The data source for this brief is a nationwide sample of MAP Growth scores for m
 
 ## Claims
 
-- [The brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/algebra-8th-versus-9th-grade-placement-outcomes-examined.md) [+M]
+- [The brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+M]
 - [The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra](../claims/algebra-outcomes-ready-versus-not-ready-students.md) [+M]
 - [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](../claims/algebra-ready-students-enrollment-examined-map-growth.md) [+M]
-- [An NWEA study using nationwide MAP Growth scores examines how many students ready for Algebra enrolled in 8th grade and how outcomes differed for students who were or were not ready](../claims/algebra-8th-grade-placement-readiness-enrollment-outcomes.md) [+M]
-- [Taking Algebra in 8th grade instead of 9th grade raises questions of readiness and enrollment that NWEA examined with nationwide MAP Growth data](../claims/algebra-placement-8th-versus-9th-grade-outcomes.md) [+M]
-- [A nationwide MAP Growth study examines whether taking Algebra in 8th rather than 9th grade improves outcomes, and how many ready students actually enroll](../claims/algebra-8th-grade-placement-outcomes-study.md) [+M]
+- [An NWEA study using nationwide MAP Growth scores examines how many students ready for Algebra enrolled in 8th grade and how outcomes differed for students who were or were not ready](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+M]
+- [Taking Algebra in 8th grade instead of 9th grade raises questions of readiness and enrollment that NWEA examined with nationwide MAP Growth data](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+M]
+- [A nationwide MAP Growth study examines whether taking Algebra in 8th rather than 9th grade improves outcomes, and how many ready students actually enroll](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+M]
 - [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+W]
-- [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes, including enrollment among students ready for Algebra](../claims/algebra-8th-grade-placement-outcomes-brief.md) [+W]
-- [A 2026 research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/algebra-placement-8th-versus-9th-grade-brief.md) [+W]
+- [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes, including enrollment among students ready for Algebra](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+W]
+- [A 2026 research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) [+W]
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](../claims/8th-grade-algebra-access-inequitable-nationwide.md) [+M]
 
 ## Related Elements

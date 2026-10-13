@@ -22,7 +22,7 @@ sources:
 # Talent Transfer Initiative
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (9 for) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 9 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 A U.S. Department of Education–supported programme that offered high-performing teachers financial incentives to transfer into hard-to-staff schools within participating districts.
@@ -35,7 +35,7 @@ A U.S. Department of Education–supported programme that offered high-performin
 - [The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts](../claims/selective-transfer-targets-hardest-to-staff-schools.md) [+W]
 - [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](../claims/tti-20000-incentive-filled-90-percent-vacancies.md) [+M]
-- [TTI increased elementary school test scores but not middle school test scores](../claims/tti-increased-elementary-not-middle-school-test-scores.md) [+M]
+- [TTI increased elementary school test scores but not middle school test scores](../claims/tti-no-middle-school-effects.md) [+M]
 - [Most TTI teachers stayed on the job even after transfer payments ended](../claims/tti-teachers-stayed-after-payments-ended.md) [+M]
 - [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](../claims/selective-transfer-incentive-20000-hard-to-staff-schools.md) [+W]
 - [TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points](../claims/tti-increased-elementary-test-scores.md) [+M]
@@ -120,7 +120,7 @@ The Talent Transfer Initiative is a transfer-incentive strategy piloted in seven
 ## Claims
 
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](../claims/tti-20000-incentive-filled-90-percent-vacancies.md) [+M]
-- [TTI increased elementary school test scores but not middle school test scores](../claims/tti-increased-elementary-not-middle-school-test-scores.md) [+M]
+- [TTI increased elementary school test scores but not middle school test scores](../claims/tti-no-middle-school-effects.md) [+M]
 - [Most TTI teachers stayed on the job even after transfer payments ended](../claims/tti-teachers-stayed-after-payments-ended.md) [+M]
 - [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](../claims/selective-transfer-incentive-20000-hard-to-staff-schools.md) [+W]
 - [TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points](../claims/tti-increased-elementary-test-scores.md) [+M]

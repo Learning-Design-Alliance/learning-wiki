@@ -45,7 +45,6 @@ The brief's own description states its focus: "How does rapid-guessing differ fr
 ## Related Claims
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — a narrower finding that bears on this claim
-- [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](rapid-guesses-in-scoring-distort-scores.md) — a narrower finding that bears on this claim
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with an absorbing state model of unmotivated test taking](rapid-guessing-inconsistent-absorbing-state-model.md) — related

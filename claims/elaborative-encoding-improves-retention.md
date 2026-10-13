@@ -63,5 +63,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related
 - [Immediate Elaborated Feedback in a formative assessment game significantly improved students' programming knowledge, interest, and problem-solving versus systems without immediate feedback](immediate-elaborated-feedback-improves-programming-learning.md) — related
 - [Self-explanation prompting is potentially effective across a range of instructional conditions](self-explanation-effective-across-instructional-conditions.md) — possibly the same claim (merge candidate)
-- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](self-explanation-prompts-meta-analysis-g-055.md) — possibly the same claim (merge candidate)
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — a narrower finding that bears on this claim

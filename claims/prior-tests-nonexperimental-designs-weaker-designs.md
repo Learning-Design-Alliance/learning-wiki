@@ -43,6 +43,5 @@ The paper's characterization of the prior literature, as stated in its abstract:
 
 
 ## Related Claims
-- [Using baseline data strongly predictive of key outcome measures considerably reduces bias in nonexperimental estimators, but might not completely eliminate it](predictive-baseline-data-reduces-nonexperimental-bias.md) — related
+- [Using baseline data strongly predictive of key outcome measures considerably reduces bias in nonexperimental estimators, but might not completely eliminate it](residual-bias-nonexperimental-estimators.md) — related
 - [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](prior-bias-studies-used-weaker-designs.md) — possibly the same claim (merge candidate)
-- [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](residual-bias-nonexperimental-estimators.md) — related

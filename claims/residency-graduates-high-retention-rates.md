@@ -48,8 +48,6 @@ The report's synthesis of retention studies, summarized in Table 1, compiles des
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
 - [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — related
 - [Alder residency graduates show higher 3-year same-LEA retention than teachers prepared through other pathways in the same LEAs](alder-graduates-higher-retention-other-pathways.md) — related
-- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
-- [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — related
 - [University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)](uh-residency-completers-retention-above-state-average.md) — related
 - [Grow Your Own program graduates remain in teaching longer than typical beginning teachers and teach in high-need schools at high rates](grow-your-own-graduates-retain-in-high-need-schools.md) — related
 - [Kern Urban Teacher Residency graduates are retained at high rates in the partner district, with 92% of its 114 graduates continuing to work in BCSD](kern-urban-92-percent-retention-bcsd.md) — a narrower finding that bears on this claim

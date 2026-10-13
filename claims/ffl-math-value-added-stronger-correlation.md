@@ -43,8 +43,7 @@ Subject-specific concurrent validity analysis comparing FFL correlations with ma
 
 
 ## Related Claims
-- [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-concurrent-validity-value-added.md) — related
-- [FFL evaluation scores are significantly and positively correlated with principals' contributions to student achievement (value-added)](ffl-scores-correlated-principal-value-added.md) — a broader claim this one bears on
+- [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-scores-correlated-principal-value-added.md) — related
 - [The strongest FFL validity relationships are in the systems leadership and professional and community leadership domains](ffl-systems-and-community-leadership-domains-strongest.md) — related
 - [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — related
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — related

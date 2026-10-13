@@ -12,7 +12,7 @@ generated:
 # Language Acquisition Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 review), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 review, 2 associational), `q1`–`q2` · 0 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 How children acquire language so quickly and reliably, without formal instruction, is a long-running theoretical debate with three main competing accounts.
@@ -41,7 +41,7 @@ The current consensus among researchers is that no single account is sufficient 
 ## Claims
 
 - [Behaviorism holds that the mind does not help a person acquire knowledge; learning is driven by the external environment](../claims/behaviorism-mind-not-source-of-knowledge.md) [~W]
-- [Back-and-forth conversational turns with adults are more critical to children's language development and brain physiology than sheer quantity of words heard](../claims/conversational-turns-drive-language-development.md) [+W]
+- [Back-and-forth conversational turns with adults are more critical to children's language development and brain physiology than sheer quantity of words heard](../claims/conversational-turns-predict-language-development.md) [+W]
 
 ## Related Theories
 

@@ -89,5 +89,5 @@ The report's context section, referencing Figure 2 (annual income by gender and 
 - [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](talladega-disparities-persisted-despite-pathway.md) — a narrower finding that bears on this claim
 - [Participating districts report large enrollment gaps in CS courses by income and gender](cs-enrollment-gaps-income-gender.md) — a narrower finding that bears on this claim
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — a narrower finding that bears on this claim
-- [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](remote-covid-tech-access-inequitable-by-race-income.md) — related
+- [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](covid-stem-tech-access-inequity.md) — related
 - [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related

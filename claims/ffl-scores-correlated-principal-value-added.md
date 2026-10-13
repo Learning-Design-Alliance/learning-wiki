@@ -3,6 +3,7 @@ type: claim
 title: "FFL evaluation scores are significantly and positively correlated with principals' contributions to student achievement (value-added)"
 description: "FFL evaluation scores are significantly and positively correlated with principals' contributions to student achievement (value-added)"
 id: ffl-scores-correlated-principal-value-added
+aliases: [ffl-concurrent-validity-value-added]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,36 @@ sources:
     i: "?"
     kind: associational
     rigour: 2
+  - id: mccullough-2016
+    resource: "https://ies.ed.gov/ncee/edlabs"
+    title: "McCullough, M., Lipscomb, S., Chiang, H., Gill, B., & Cheban, I. (2016). Measuring School Leaders' Effectiveness: Final Report from a Multiyear Pilot of Pennsylvania's Framework for Leadership. REL Mid-Atlantic, IES. https://ies.ed.gov/ncee/edlabs"
+    author: "McCullough, M., Lipscomb, S., Chiang, H., Gill, B., & Cheban, I."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+  - id: mccullough-2016-2
+    resource: "https://ies.ed.gov/ncee/edlabs"
+    title: "McCullough, M., Lipscomb, S., Chiang, H., Gill, B., & Cheban, I. (2016). Measuring School Leaders' Effectiveness: Final Report from a Multiyear Pilot of Pennsylvania's Framework for Leadership. REL Mid-Atlantic, IES. https://ies.ed.gov/ncee/edlabs"
+    author: "McCullough, M., Lipscomb, S., Chiang, H., Gill, B., & Cheban, I."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # FFL evaluation scores are significantly and positively correlated with principals' contributions to student achievement (value-added)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q3`
+> **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2`–`q3`
 
 ## Subclaims
+
 `q3 i?` FFL evaluation scores are significantly and positively correlated with estimates of principals' contributions to student achievement among more than 300 Pennsylvania principals. [→ Moira McCullough 2016](#moira-mccullough-2016)
+
+`q2 i?` Principals with larger estimated contributions to student achievement growth (value-added) scored higher overall and on multiple components and domains of the FFL. [→ McCullough 2016](#mccullough-2016)
+
+`q2 i?` Higher total FFL scores and scores in two of the four FFL domains are significantly or marginally significantly associated with value-added in all subjects combined and in math specifically. [→ McCullough 2016 (2)](#mccullough-2016-2)
 
 ## Evidence
 
@@ -39,11 +61,32 @@ Correlational validity study of Pennsylvania's Framework for Leadership using da
 
 > "Using data on more than 300 principals, we find that FFL evaluation scores are significantly and positively correlated with estimates of principals' contributions to student achievement."
 
+### McCullough 2016
+
+McCullough, M., Lipscomb, S., Chiang, H., Gill, B., & Cheban, I. (2016). Measuring School Leaders' Effectiveness: Final Report from a Multiyear Pilot of Pennsylvania's Framework for Leadership. REL Mid-Atlantic, IES. https://ies.ed.gov/ncee/edlabs
+
+`q2 · i?` · `associational · r2`
+
+Concurrent validity was assessed through a regression model relating school leaders' estimated contributions to student achievement growth to their FFL scores; higher-FFL principals showed larger value-added.
+
+> "Principals with larger estimated contributions to student achievement growth (value-added) scored higher overall and on multiple components and domains than principals with lower estimated contributions."
+
+### McCullough 2016 (2)
+
+McCullough, M., Lipscomb, S., Chiang, H., Gill, B., & Cheban, I. (2016). Measuring School Leaders' Effectiveness: Final Report from a Multiyear Pilot of Pennsylvania's Framework for Leadership. REL Mid-Atlantic, IES. https://ies.ed.gov/ncee/edlabs
+
+`q2 · i?` · `associational · r2`
+
+The regression analyses found "significantly or marginally significantly" higher total FFL scores and two of four domains associated with combined-subject and math value-added.
+
+> "Higher total FFL scores and scores in two of the four FFL domains are significantly or marginally significantly associated with both value-added in all subjects combined and value-added in math specifically."
+
 ## Discussion
 
 
+
 ## Related Claims
-- [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-concurrent-validity-value-added.md) — possibly the same claim (merge candidate)
+
 - [FFL scores correlate more strongly with contributions to math achievement than to achievement in other subjects](ffl-math-value-added-stronger-correlation.md) — a narrower finding that bears on this claim
 - [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — a narrower finding that bears on this claim
 - [FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader](ffl-validity-moderate-tenure-principals.md) — a narrower finding that bears on this claim
@@ -53,3 +96,6 @@ Correlational validity study of Pennsylvania's Framework for Leadership using da
 - [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](first-study-principal-practice-ratings-value-added-validity.md) — related
 - [School value added can reflect school-specific influences on student achievement growth that are outside principals' control](value-added-reflects-influences-outside-principal-control.md) — related
 - [Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP](federal-policy-growth-modeling-requirements-nclb-rttp.md) — related
+- [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — related
+- [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — reports the opposite
+- [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](supports-matter-in-combined-clusters.md) — related

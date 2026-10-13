@@ -51,10 +51,9 @@ Analysis of MAP Growth reading and mathematics assessment data from 7 million st
 - [By spring 2022, Pennsylvania grades 5–8 math proficiency had regained nearly 5 points of a 13-point drop relative to rates predicted for 2021](pennsylvania-2022-math-proficiency-regained-nearly-five-of-thirteen-points.md) — related
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
 - [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related
-- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](pandemic-recovery-stalled-2022-23.md) — related
+- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](2022-23-achievement-stalled-pandemic-recovery.md) — related
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — reports the opposite
 - [Academic rebounding in reading and math was uneven across school years and summers, especially in reading](rebounding-uneven-across-school-years-summers-reading.md) — related
 - [Current third-graders showed the largest reading achievement gap and the least rebounding](third-graders-largest-reading-gap-least-rebounding.md) — related
 - [The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.](2021-22-gains-compared-to-pre-pandemic-trends-rebound-signs.md) — related
-- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — reports the opposite
 - [Statewide assessment participation was uneven after pandemic pauses, ranging from 97% to 30% in 2021 with five states below 90% in 2022](uneven-assessment-participation-post-pandemic.md) — related

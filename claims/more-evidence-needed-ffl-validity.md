@@ -45,5 +45,5 @@ The authors' interpretive conclusion drawn from the pilot's findings on internal
 ## Related Claims
 - [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — related
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — reports the opposite
-- [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-concurrent-validity-value-added.md) — reports the opposite
+- [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-scores-correlated-principal-value-added.md) — reports the opposite
 - [FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader](ffl-validity-moderate-tenure-principals.md) — related

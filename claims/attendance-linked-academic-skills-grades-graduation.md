@@ -51,4 +51,3 @@ The playbook summarizes prior research (citing Attendance Works' compilation of 
 - Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Risk thresholds on GPA and attendance differ for active English Learners: above 95% attendance or above 2.0 GPA predicted ~90% graduation for active ELs, while former and never ELs reached similar likelihood at 90% attendance](el-risk-thresholds-gpa-attendance-graduation.md) — related
-- [Attainment likelihood thresholds differ: ELs with GPA above 2.0 had ~90% graduation rates except students with IEPs, and only active ELs needed attendance above 95% to be very likely to graduate](el-attainment-risk-thresholds.md) — related

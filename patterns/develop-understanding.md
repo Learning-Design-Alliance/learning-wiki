@@ -126,7 +126,7 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 
 ## Claims
 
-- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/self-explanation-prompts-meta-analysis-g-055.md) [+W]
+- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/generative-processing-improves-learning.md) [+W]
 - [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [~W]
 
 ## Related Patterns

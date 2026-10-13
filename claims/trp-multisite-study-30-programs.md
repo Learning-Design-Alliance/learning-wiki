@@ -48,7 +48,7 @@ Descriptive statement of the study's scope: IES selected Mathematica Policy Rese
 - [The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample](trp-retention-study-scope-six-districts-12-trps.md) — related
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - [TRP teachers who changed schools within their district tended to move to schools with similar low-income shares, a lower percentage of black students, and higher achievement](trp-movers-join-higher-achievement-schools.md) — related
-- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
+- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](residency-graduates-higher-retention.md) — related
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](trp-stipend-three-year-commitment.md) — related
 - [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related
 - [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — related

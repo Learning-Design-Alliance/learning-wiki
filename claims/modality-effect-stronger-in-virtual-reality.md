@@ -43,5 +43,4 @@ Pairwise moderator comparisons of presentation modality (audio-tape, computer sc
 
 
 ## Related Claims
-- [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](modality-effect-audio-with-visuals-improves-learning.md) — a broader claim this one bears on
-- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on
+- [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](modality-effect-narration-over-text.md) — a broader claim this one bears on

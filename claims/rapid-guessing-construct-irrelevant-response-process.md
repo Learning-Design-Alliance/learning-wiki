@@ -48,8 +48,7 @@ The authors summarize evidence from their data analyses and previous research fi
 - [Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity](cbt-unique-advantages-control-construct-irrelevant-factors.md) — related
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
 - [Rapid guessing differs from solution behavior as a form of test-taker disengagement](rapid-guessing-differs-from-solution-behavior.md) — related
-- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-negatively-distorts-scores.md) — related
-- [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](rapid-guesses-in-scoring-distort-scores.md) — related
+- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Test takers generally disengage during only a portion of their items, and these disengaged responses reflect a momentary cessation of measurement](disengagement-portion-of-items-momentary-cessation.md) — related
 - [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](rapid-guessing-identification-and-context.md) — related
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related

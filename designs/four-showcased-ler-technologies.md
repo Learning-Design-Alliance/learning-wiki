@@ -16,7 +16,7 @@ sources:
 # Four showcased LER technologies introduced via onboarding videos
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (3 qualitative), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The study introduced participant-advisors to four LER technologies: "Teacher Wallet (RANDA Solutions), MilGears (SOLID Inc), LearnCard (LEF), and Career Wallet (Velocity Network)." Each technology partner delivered a 30-45-minute product walk-through to the research team and created a five-minute introductory onboarding video shown during the first co-design workshop, so learners and workers unfamiliar with digital and verifiable credentials could react to the designs and practical functionality for people experiencing transitions. These reflections fed the perceived challenges, opportunities, and wishlist findings.
@@ -36,7 +36,7 @@ The study introduced participant-advisors to four LER technologies: "Teacher Wal
 - understanding and evaluating LER technologies for transition support
 
 ### Claims
-- [Top Perceived Ler Challenges](../claims/top-perceived-ler-challenges.md) [+M]
+- [Top Perceived Ler Challenges](../claims/retos-percibidos-lers-exactitud-seguridad-acceso.md) [+M]
 - [Top Perceived Ler Opportunities](../claims/top-perceived-ler-opportunities.md) [+M]
 
 ## Related Designs

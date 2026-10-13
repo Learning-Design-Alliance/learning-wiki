@@ -16,7 +16,7 @@ sources:
 # Competency-based education measures learning rather than class time, letting students progress at a flexible pace upon demonstrating mastery
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 CBE is an educational model in which, as the brief states, "it measures learning rather than class time." Students move through material independently, usually in preparation for specific jobs, progressing when they demonstrate mastery of required knowledge and skills called competencies. Students set their own schedule rather than being tied to defined semester or term start dates or class meeting times, and can move quickly through material they already know, potentially accelerating completion. The brief presents this as the defining feature behind CBE's public appeal and its promise for filling workforce skills gaps.
@@ -38,7 +38,7 @@ CBE is an educational model in which, as the brief states, "it measures learning
 
 ### Claims
 
-- [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](../claims/cbe-consortium-35-percent-completion-high-employment-wage-growth.md) [+W]
+- [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](../claims/cbe-participants-completion-employment-wages.md) [+W]
 - [Differences in credential completion rates between CBE participants and nonparticipants varied by college, possibly reflecting unobservable group differences](../claims/cbe-credential-completion-varied-by-college-unobservable-differences.md) [~W]
 - [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](../claims/cbe-fast-completion-two-terms-certification-four-terms-credentials.md) [+W]
 

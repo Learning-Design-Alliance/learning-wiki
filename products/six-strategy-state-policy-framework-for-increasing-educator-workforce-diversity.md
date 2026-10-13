@@ -13,7 +13,7 @@ generated:
 # Six-strategy state policy framework for increasing educator workforce diversity
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (4 associational), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 5 studies (5 associational), `q1`–`q2` · 0 of 5 report an effect size · 4 claims rest on one study
 
 ## Description
 An EdTrust policy framework that organizes state and district actions to increase the racial and cultural diversity of the educator workforce and improve students' access to diverse educators.

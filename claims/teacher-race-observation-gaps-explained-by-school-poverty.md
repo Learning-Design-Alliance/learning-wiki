@@ -63,7 +63,7 @@ Value-added scores showed no significant differences by teacher race/ethnicity o
 ## Related Claims
 - [Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations](experience-credentials-teacher-evaluation-scores.md) — related
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related
-- [Male teachers score lower than female teachers on both observation and value-added measures](male-teachers-lower-evaluation-scores.md) — related
+- [Male teachers score lower than female teachers on both observation and value-added measures](male-teachers-lower-observation-and-value-added-scores.md) — related
 - [Minority teachers have lower observation scores than white teachers but no significant differences on value added](minority-teachers-lower-observation-no-value-added-difference.md) — possibly the same claim (merge candidate)
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — related
 - [Observation scores have a stronger relationship with school poverty than value-added scores](observation-scores-stronger-school-poverty-relationship-than-value-added.md) — related

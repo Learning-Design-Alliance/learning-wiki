@@ -44,8 +44,7 @@ The publisher's abstract describes the study's scope: it states that "Mathematic
 
 ## Related Claims
 - [The study documents the prevalence and size of IT skill certification programs in 2002](it-certification-prevalence-size-2002.md) — related
-- [Participants completed programs quickly, averaging less than two terms to a first certification course and about four terms to certificates and degrees](taaccct-cbe-fast-time-to-completion.md) — related
+- [Participants completed programs quickly, averaging less than two terms to a first certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](sinclair-consortium-competency-based-it-programs-baseline.md) — related
 - [More than four-fifths of 2015 LINCS certification track course completers in five consortium colleges were employed within three quarters after the course, with average quarterly earnings of nearly $7,400](lincs-completers-employment-earnings-2015.md) — related
-- [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related
 - [The study examines student participation mix, program issues, and certification and other outcomes](it-certification-participants-issues-outcomes.md) — related

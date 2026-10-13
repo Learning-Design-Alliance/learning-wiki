@@ -18,7 +18,7 @@ sources:
 # Pennsylvania teacher evaluation pilot dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 4 studies (3 associational, 1 design), `q1`–`q2` · 1 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 5 studies (4 associational, 1 design), `q1`–`q3` · 1 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 A dataset covering teacher-observation and value-added evaluation measures for 6,676 teachers across 269 Pennsylvania districts during the 2012–2013 pilot and comparison period, assembled for the Pennsylvania teacher-evaluation pilot.
@@ -34,7 +34,7 @@ A dataset covering teacher-observation and value-added evaluation measures for 6
 - [FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing](../claims/fft-pilot-ratings-concentrated-top-two-categories.md) [+W]
 - [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](../claims/fft-vam-correlations-positive-019-022.md) [+W]
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](../claims/mathematica-vam-technical-assistance-phase1.md) [+W]
-- [Low observation scores are even more concentrated in high-poverty schools than low value-added scores](../claims/observation-scores-stronger-poverty-concentration.md) [~W]
+- [Low observation scores are even more concentrated in high-poverty schools than low value-added scores](../claims/observation-scores-stronger-school-poverty-relationship-than-value-added.md) [~W]
 - [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](../claims/reach-observation-value-added-correlation-0349.md) [~W]
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](../claims/observation-scores-stronger-school-characteristic-relationship.md) [~W]
 

@@ -12,14 +12,14 @@ generated:
 # Distributed Practice (Spacing Effect)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 causal), `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Distributed practice (spacing) schedules encounters with the same material or skill across multiple sessions separated by time, rather than massing them into one block. Each spaced encounter requires the learner to reconstruct a partially forgotten memory trace, and this effortful retrieval strengthens the trace more than an immediate repetition would. It contrasts with massed practice (cramming), which produces strong short-term performance but rapid forgetting.
 
 ## Design Implications
 
-Spacing is one of the most robust findings in learning science: distributed practice reliably outperforms massed practice on delayed tests across ages, materials, and tasks [Distributed practice produces superior long-term retention compared to massed practice.](../claims/distributed-practice-improves-retention.md) [+S]. Its benefit comes partly from the retrieval effort each spaced session demands — which is why spacing pairs naturally with [retrieval practice](../elements/practice.md) rather than rereading [~S]. Optimal gaps scale with retention interval: longer delays to the final test call for longer spacing gaps between sessions [+S].
+Spacing is one of the most robust findings in learning science: distributed practice reliably outperforms massed practice on delayed tests across ages, materials, and tasks [Distributed practice produces superior long-term retention compared to massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]. Its benefit comes partly from the retrieval effort each spaced session demands — which is why spacing pairs naturally with [retrieval practice](../elements/practice.md) rather than rereading [~S]. Optimal gaps scale with retention interval: longer delays to the final test call for longer spacing gaps between sessions [+S].
 
 ### Context
 #### Requirements

@@ -18,7 +18,7 @@ sources:
 # LINCS certification track program in supply chain management
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies (2 associational, 1 causal), `q2` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (3 associational, 1 causal), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 A TAACCCT-funded supply-chain management certification initiative developed by a Broward College-led nine-college consortium with industry and university partners for early-career professionals.

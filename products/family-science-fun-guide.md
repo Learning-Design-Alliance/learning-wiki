@@ -18,7 +18,7 @@ sources:
 # Family Science Fun Guide
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A digital family science curriculum guide developed for the Early Science with Nico and Nor program, offering playful home and outdoor activities and conversation support for caregivers.

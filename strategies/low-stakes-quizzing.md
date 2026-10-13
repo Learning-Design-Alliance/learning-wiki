@@ -13,14 +13,14 @@ generated:
 # Low Stakes Quizzing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 10 studies (6 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 5 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 5 of 10 report an effect size
 
 ## Description
 Low stakes quizzing embeds frequent, brief tests into instruction with minimal or no consequences for grades. Learners actively retrieve information — via multiple choice, short answer, or free recall — rather than rereading it. The act of retrieval itself strengthens memory, and quiz results give both learner and instructor diagnostic information while the material can still be corrected.
 
 ## Design Implications
 
-Retrieval practice produces substantially larger and more durable learning gains than restudying, with effects that persist over delays of days to months [Rowland, 2014 meta-analysis] [+S]. The benefit holds across formats, ages, and subject areas, though free-recall and short-answer formats tend to outperform simple recognition [Adesope et al., 2017] [+S]. Because stakes are low, quizzes function as learning events rather than assessments of record — the goal is error correction, not sorting. Feedback after each quiz is essential: retrieval without corrective feedback can entrench errors [~M]. Quizzing also pairs naturally with spacing; distributing quizzes across weeks compounds the retention benefit [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+Retrieval practice produces substantially larger and more durable learning gains than restudying, with effects that persist over delays of days to months [Rowland, 2014 meta-analysis] [+S]. The benefit holds across formats, ages, and subject areas, though free-recall and short-answer formats tend to outperform simple recognition [Adesope et al., 2017] [+S]. Because stakes are low, quizzes function as learning events rather than assessments of record — the goal is error correction, not sorting. Feedback after each quiz is essential: retrieval without corrective feedback can entrench errors [~M]. Quizzing also pairs naturally with spacing; distributing quizzes across weeks compounds the retention benefit [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

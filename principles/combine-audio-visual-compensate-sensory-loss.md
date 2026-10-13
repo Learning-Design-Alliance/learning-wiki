@@ -18,7 +18,7 @@ sources:
 # Compensate for age-related sensory impairments by combining audio input with visual presentation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q2`–`q4` · 1 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q2`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 The digest notes that hearing loss and declining visual acuity affect many people as they age and can interfere with learning, particularly understanding speech in the presence of background noise. It recommends that the classroom environment compensate for visual or auditory impairments "by combining audio input with visual presentation of new material, good lighting, and elimination of outside noise". Hearing and vision problems are not restricted exclusively to the older learner.
@@ -40,7 +40,7 @@ The digest notes that hearing loss and declining visual acuity affect many peopl
 ### Claims
 
 - [Rote Drills Disadvantage Older Learners](../claims/rote-drills-disadvantage-older-learners.md) [~M]
-- [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](../claims/modality-effect-audio-with-visuals-improves-learning.md) [+M]
+- [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](../claims/modality-effect-narration-over-text.md) [+M]
 - [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](../claims/modality-effect-spoken-text-visual-information.md) [+W]
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
 

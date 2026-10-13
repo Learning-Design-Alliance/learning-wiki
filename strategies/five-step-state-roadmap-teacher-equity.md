@@ -48,7 +48,7 @@ The report's roadmap directs state and district leaders to move "beyond highligh
 - [Whether disparities in access to novice teachers occur between districts or within districts varies widely by state](../claims/novice-teacher-disparities-between-within-districts-vary.md) [+W]
 - [Latino students have more novice teachers than their peers in more than half of U.S. states](../claims/latino-students-more-novice-teachers-majority-of-states.md) [+W]
 - [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](../claims/state-variation-teacher-access-inequity.md) [+W]
-- [A small subset of study districts shows meaningful inequity in access to effective teachers in math](../claims/meaningful-math-inequity-subset-districts.md) [+W]
+- [A small subset of study districts shows meaningful inequity in access to effective teachers in math](../claims/math-inequity-subset-districts.md) [+W]
 
 ## Related Strategies
 

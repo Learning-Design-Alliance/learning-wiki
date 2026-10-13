@@ -45,4 +45,4 @@ Difference-in-differences analysis of the Chicago principal merit award program 
 ## Related Claims
 - [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](merit-award-modest-gains-near-threshold.md) — related
 - [Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general](epic-principals-positive-attitudes-merit-pay.md) — related
-- [Principals who just exceeded a merit award threshold are over twice as likely to exit their school the next year than principals who fell just short](merit-award-winners-twice-likely-to-exit-school.md) — related
+- [Principals who just exceeded a merit award threshold are over twice as likely to exit their school the next year than principals who fell just short](merit-award-winners-increased-principal-exit.md) — related

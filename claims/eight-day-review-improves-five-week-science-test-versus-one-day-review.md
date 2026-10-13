@@ -49,5 +49,5 @@ This evidence supports considering a longer gap when planning delayed recall and
 
 ## Related Claims
 
-- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md)
+- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md)
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md)

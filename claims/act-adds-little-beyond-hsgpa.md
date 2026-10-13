@@ -3,6 +3,7 @@ type: claim
 title: Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability
 description: Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability
 id: act-adds-little-beyond-hsgpa
+aliases: [act-adds-little-beyond-hsgpa-graduation]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -33,8 +34,11 @@ sources:
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
 
 ## Subclaims
+
 `q2 i?` When HSGPA and ACT are entered together, the ACT coefficient shrinks from 0.129 to a nonsignificant -0.016 while the HSGPA coefficient is essentially unchanged (0.708 vs 0.703). [→ Allensworth 2019](#allensworth-2019)
 `q2 i?` School-level variance in the combined model (0.622) is similar to the HSGPA-only model (0.603), so individual ACT scores do not reduce high school variability in predicting graduation. [→ Allensworth 2019 (2)](#allensworth-2019-2)
+
+`q3 i?` In combined models the ACT coefficient shrinks to a nonsignificant -0.016 while the HSGPA coefficient is essentially unchanged, and school-level variance is similar (0.622 vs 0.603). [→ Allensworth 2019](#allensworth-2019)
 
 ## Evidence
 
@@ -47,6 +51,18 @@ Allensworth, Elaine M., & Clark, Kallie. (2019). Are GPAs an Inconsistent Measur
 Joint hierarchical model entering standardized HSGPA and ACT with quadratic terms (n=17,753). The ACT slope still varies significantly by high school (0.213), ranging from negative to positive across schools.
 
 > "The main HSGPA coefficient does not change substantially relative to the model without ACT scores in Table 2 (0.708 vs 0.703), but the main ACT coefficient shrinks considerably from the model without HSGPA (from 0.129 to a nonsignificant -0.016)."
+
+<!-- merged 2026-10-13 from act-adds-little-beyond-hsgpa-graduation: that page's entry for this study, which differed from the one above, kept verbatim.
+### Allensworth 2019
+
+Allensworth, E. M., & Clark, K. (2019). High School GPAs and ACT Scores as Predictors of College Completion: Examining Assumptions about Consistency across High Schools. University of Chicago. https://consortium.uchicago.edu/publications/high-school-gpas-and-act-scores-as-predictors-of-college-completion
+
+`q3 · i?` · `associational · r3`
+
+Models entering HSGPA and ACT together (Table 5) for the CPS sample. The article concludes that "ACT scores used at the individual student level do not reduce the variability by high school in predicting who will graduate college," and the ACT slope still varies significantly by high school (0.213).
+
+> "the main ACT coefficient shrinks considerably from the model without HSGPA (from 0.129 to a nonsignificant -0.016). Because the ACT score contributes little to the prediction, there is a similar amount of school-level variance in the combined model (0.622) as the model that includes HSGPA alone (0.603, from Table 3)."
+-->
 
 ### Allensworth 2019 (2)
 
@@ -61,8 +77,9 @@ Variance-component comparison between the combined HSGPA-plus-ACT model and the 
 ## Discussion
 
 
+
 ## Related Claims
-- [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce high-school variance](act-adds-little-beyond-hsgpa-graduation.md) — possibly the same claim (merge candidate)
+
 - [ACT scores weakly predict college graduation, and the school-level variance in the ACT slope (0.192) exceeds the average slope (0.129), so school effects introduce more noise than the ACT signal](act-weak-predictor-noise-exceeds-signal.md) — related
 - [ACT scores show a weak relationship with college graduation, with slope variation across high schools larger than the average signal](act-weak-inconsistent-predictor-college-graduation.md) — related
 - [School average ACT scores predict college graduation for students with the same individual HSGPA and ACT score, reducing between-school variance by 42 percent, while school poverty is not significant once average ACT is included](school-average-act-explains-school-variance.md) — related
@@ -75,3 +92,4 @@ Variance-component comparison between the combined HSGPA-plus-ACT model and the 
 - [Both HSGPA and ACT scores leave large high school effects on college graduation unexplained, which the study recommends measuring and publishing directly](high-school-effects-beyond-gpa-and-act.md) — related
 - [Students with the same HSGPA or the same ACT score graduate from college at different rates depending on which high school they attended](high-school-effects-same-gpa-act-graduation-rates.md) — related
 - [HSGPAs have a strong, consistent relationship with college graduation that is larger than school effects, while ACT scores have a weak relationship smaller than high school effects with slopes varying by school](hsgpa-strong-act-weak-college-graduation-predictors.md) — related
+- [Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years](gpa-strongest-predictor-chicago-four-year-graduation.md) — related

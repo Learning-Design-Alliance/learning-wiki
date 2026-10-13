@@ -43,10 +43,9 @@ Summative evaluation of a TAACCCT grant consortium of three community colleges o
 
 
 ## Related Claims
-- [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](cbe-consortium-35-percent-completion-high-employment-wage-growth.md) — possibly the same claim (merge candidate)
+- [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](cbe-participants-completion-employment-wages.md) — possibly the same claim (merge candidate)
 - [A three-college consortium successfully implemented online competency-based programs as planned, meeting most implementation milestones and outcome targets](cbe-consortium-implemented-programs-as-planned.md) — a broader claim this one bears on
 - [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related
 - [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](cbe-gatekeeper-completion-lower-than-comparison.md) — related
-- [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](cbe-participants-completion-employment-wages.md) — possibly the same claim (merge candidate)
 - [The study examines student participation mix, program issues, and certification and other outcomes](it-certification-participants-issues-outcomes.md) — a broader claim this one bears on
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](sinclair-consortium-competency-based-it-programs-baseline.md) — related

@@ -43,6 +43,5 @@ The brief states directly that "data limitations precluded a credible impact ana
 
 
 ## Related Claims
-- [Including late pretest data in RCT analysis could bias post-test impact estimates when pretests are collected after random assignment](late-pretest-inclusion-can-bias-impact-estimates.md) — related
-- [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
+- [Including late pretest data in RCT analysis could bias post-test impact estimates when pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](large-school-samples-required-precision-standards.md) — related

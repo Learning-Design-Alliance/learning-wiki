@@ -17,7 +17,7 @@ sources:
 # Rapid-guessing behavior as a validated indicator of test-taking disengagement on state summative assessments
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size
 
 ## Description
 The study identifies disengaged test taking through rapid-guessing behavior, which the article describes as "a validated indicator of disengagement". This behavioral indicator was applied to Grade 8 test events on the Spring 2019 state summative assessment to quantify the percentage of test events with meaningful amounts of rapid guessing in mathematics, ELA, and science, and to compare disengagement rates across student subgroups.

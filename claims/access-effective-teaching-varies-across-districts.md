@@ -3,6 +3,7 @@ type: claim
 title: Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied
 description: Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied
 id: access-effective-teaching-varies-across-districts
+aliases: [district-variation-teaching-disparity]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
+
 `q3 i?` The size of the differences in effective teaching between disadvantaged and non-disadvantaged students varied across the 29 districts, ranging from no statistically significant difference to a difference equivalent to 13 weeks of learning in reading and math in grades 4 through 8. [→ Jeffrey Max 2014](#jeffrey-max-2014)
+
+`q2 i?` The size of the disparity in effective teaching between disadvantaged and non-disadvantaged students varied across the 29 districts, ranging from no statistically significant difference to a difference equivalent to 13 weeks of learning in reading and math. [→ Jeffrey Max 2014](#jeffrey-max-2014)
 
 ## Evidence
 
@@ -39,11 +43,24 @@ Cross-district comparison reported in the brief's key findings: district-level d
 
 > "The disparities for each district ranged from no statistically significant difference to a difference equivalent to 13 weeks of learning in reading and math in grades 4 through 8."
 
+<!-- merged 2026-10-13 from district-variation-teaching-disparity: that page's entry for this study, which differed from the one above, kept verbatim.
+### Jeffrey Max 2014
+
+Jeffrey Max, Steven Glazerman. (2014). Do Disadvantaged Students Get Less Effective Teaching? Key Findings from Recent Institute of Education Sciences Studies (Evaluation Brief). Washington, DC: Institute of Education Sciences. https://ies.ed.gov/ncee/
+
+`q2 · i?` · `review · r?`
+
+The brief reports district-level variation in the teaching-effectiveness disparity among the 29 districts studied, with disparities that "ranged from no statistically significant difference to a difference equivalent to 13 weeks of learning." No per-district effect sizes are printed.
+
+> "The disparities for each district ranged from no statistically significant difference to a difference equivalent to 13 weeks of learning in reading and math in grades 4 through 8."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
-- [Access to effective teaching for disadvantaged students varied across districts, from no statistically significant difference to a disparity equivalent to 13 weeks of learning](district-variation-teaching-disparity.md) — possibly the same claim (merge candidate)
+
 - [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](teaching-disparity-weeks-of-learning.md) — related
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](disadvantaged-students-poorer-access-effective-teachers.md) — a broader claim this one bears on
 - [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — a broader claim this one bears on

@@ -17,7 +17,7 @@ sources:
 # Strategic Data Project and Education Pioneers programs supporting data capacity in education agencies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (2 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The Strategic Data Project (SDP) and Education Pioneers (EP) programs are initiatives studied in this implementation study. The article states they "aim to enhance the capacity of school districts and other education agencies to collect, manage, analyze, and use data through the support, training, and placement of additional staff." The study was contracted by the Bill & Melinda Gates Foundation and covers a 2011-2015 time frame.
@@ -39,7 +39,7 @@ The Strategic Data Project (SDP) and Education Pioneers (EP) programs are initia
 ## Claims
 
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
-- [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](../claims/sdp-ep-staff-placement-capacity-theory-of-action.md) [+W]
+- [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](../claims/sdp-ep-year1-agencies-began-partnership.md) [+W]
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](../claims/sdp-ep-partnerships-enabled-new-data-use-practices.md) [+W]
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](../claims/similar-data-capacity-sdp-ep-agencies.md) [+W]

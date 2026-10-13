@@ -66,8 +66,7 @@ Year 3 MVMS teacher survey and Consortium Administrator Survey items on expected
 - [Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair](reach-teachers-fair-observations-unfair-student-growth.md) — related
 - [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](reach-teachers-question-student-growth-weight-fairness.md) — related
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — related
-- [Teachers and principals report increased teacher stress and anxiety under REACH](reach-increased-teacher-stress-anxiety.md) — related
-- [Both teachers and administrators report REACH increased their levels of stress and anxiety](reach-increased-teacher-and-administrator-stress.md) — related
+- [Teachers and principals report increased teacher stress and anxiety under REACH](reach-increased-teacher-and-administrator-stress.md) — related
 - [Beginning teachers are more positive about REACH than teachers with more years of experience](reach-beginning-teachers-more-positive-than-veterans.md) — related
 - [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](reach-observation-process-reflection-and-feedback-use.md) — related
 - [Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one](reach-year-two-optimism-declining-satisfaction.md) — related

@@ -17,7 +17,7 @@ sources:
 # The Equity Project (TEP) charter school teacher compensation and responsibility model
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 TEP is a New York City charter school with what the report calls "a unique approach to rewarding and developing high quality teachers—including salaries of $125,000 and substantial professional responsibility." The model operates "while receiving only the standard public funds available to any New York City charter school," making the teacher-pay strategy the school's distinctive design feature. The evaluation links this personnel model to the school's measured achievement impacts.
@@ -39,7 +39,7 @@ TEP is a New York City charter school with what the report calls "a unique appro
 ## Claims
 
 - [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](../claims/tep-four-year-math-gain-1-6-years.md) [+W]
-- [TEP's achievement impacts were consistently positive across subjects and cohorts, with especially large effects in math, by the end of the 2012-2013 school year](../claims/tep-impacts-positive-across-subjects-cohorts.md) [+W]
+- [TEP's achievement impacts were consistently positive across subjects and cohorts, with especially large effects in math, by the end of the 2012-2013 school year](../claims/tep-impacts-consistently-positive-math-largest.md) [+W]
 - [TEP's student population was similar to other neighborhood schools: high poverty, mostly Hispanic, with similar rates of special education services](../claims/tep-student-population-comparable-to-neighborhood-schools.md) [+W]
 - [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](../claims/tep-four-year-math-gain-1-6-years.md) [+W]
 - [Four years of TEP attendance produced science gains equal to an additional 0.6 years of school relative to comparable NYC public school students](../claims/tep-four-years-science-gain-0-6-years.md) [+W]

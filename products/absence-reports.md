@@ -18,7 +18,7 @@ sources:
 # Absence Reports
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 2 of 2 report an effect size
 
 ## Description
 Absence Reports is an attendance-focused intervention delivered by school districts to provide absence information and support improved student attendance.

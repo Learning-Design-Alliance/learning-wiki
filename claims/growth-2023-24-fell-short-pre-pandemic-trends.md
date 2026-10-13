@@ -62,10 +62,9 @@ NWEA's analysis of 2023-24 assessment data compares growth against pre-pandemic 
 ## Related Claims
 
 - [Growth for all race/ethnicity groups lagged pre-pandemic trends in 2023-24, with marginalized students furthest from recovery](marginalized-students-furthest-from-recovery-2023-24.md) — a narrower finding that bears on this claim
-- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](pandemic-recovery-stalled-2022-23.md) — related
+- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](2022-23-achievement-stalled-pandemic-recovery.md) — related
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — related
 - [Reading achievement remained stalled as of Spring 2025 according to MAP Growth national data](spring-2025-map-growth-reading-stalled.md) — related
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related
 - [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](pre-covid-covid-gap-widened-2023-24.md) — related
-- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — related
 - [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related

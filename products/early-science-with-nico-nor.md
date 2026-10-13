@@ -21,7 +21,7 @@ sources:
 # Early Science with Nico & Nor
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 11 claims (10 for, 1 mixed) · 9 studies (5 design, 4 causal), `q1`–`q2` · 0 of 9 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 mixed) · 9 studies (5 design, 4 causal), `q1`–`q2` · 0 of 9 report an effect size · 6 claims rest on one study
 
 ## Description
 A co-designed preschool science curriculum developed by teachers, families, curriculum and media developers, and researchers that uses playful, interest-based home and school experiences, digital supports, and family and teacher guides to connect science with engineering and mathematics.
@@ -44,7 +44,7 @@ A co-designed preschool science curriculum developed by teachers, families, curr
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](../claims/nico-nor-digital-tools-complement-hands-on.md) [+W]
 - [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+W]
 - [Observed classroom implementation promoted science practices and core ideas, with Observing and Describing most frequent and coverage varying by unit](../claims/nico-nor-classroom-science-practices-coverage.md) [+M]
-- [Children who received both the classroom and home components made significantly more improvement in science learning than children who received the classroom component only](../claims/nico-nor-home-component-adds-science-gains.md) [+W]
+- [Children who received both the classroom and home components made significantly more improvement in science learning than children who received the classroom component only](../claims/home-and-school-engagement-greater-science-improvement.md) [+W]
 - [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](../claims/nico-nor-math-null-with-item-gains.md) [~M]
 - [Children in intervention classrooms made significantly more improvement in science learning than children in comparison (business as usual) classrooms](../claims/nico-nor-science-gains-over-comparison.md) [+W]
 - [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](../claims/nico-nor-teacher-implementation-experience.md) [+M]
@@ -235,7 +235,7 @@ Early Science with Nico & Nor is a preschool science program spanning three curr
 ## Claims
 
 - [Observed classroom implementation promoted science practices and core ideas, with Observing and Describing most frequent and coverage varying by unit](../claims/nico-nor-classroom-science-practices-coverage.md) [+M]
-- [Children who received both the classroom and home components made significantly more improvement in science learning than children who received the classroom component only](../claims/nico-nor-home-component-adds-science-gains.md) [+W]
+- [Children who received both the classroom and home components made significantly more improvement in science learning than children who received the classroom component only](../claims/home-and-school-engagement-greater-science-improvement.md) [+W]
 - [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](../claims/nico-nor-math-null-with-item-gains.md) [~M]
 - [Children in intervention classrooms made significantly more improvement in science learning than children in comparison (business as usual) classrooms](../claims/nico-nor-science-gains-over-comparison.md) [+W]
 - [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](../claims/nico-nor-teacher-implementation-experience.md) [+M]

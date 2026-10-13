@@ -22,7 +22,7 @@ sources:
 # MAP Growth Course-Specific assessments
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (12 for) · 4 studies (2 associational, 1 design, 1 theoretical), `q1`–`q2` · 1 of 4 report an effect size · 11 claims rest on one study
+> **Evidence** · 11 claims (11 for) · 4 studies (2 associational, 1 design, 1 theoretical), `q1`–`q2` · 1 of 4 report an effect size · 9 claims rest on one study
 
 ## Description
 MAP Growth course-specific tests are NWEA's variable-length computerized adaptive mathematics and science assessments for Algebra, Geometry, Integrated Math, and Biology/Life Science, administered during the school year to measure course-specific achievement and growth.
@@ -40,7 +40,7 @@ MAP Growth course-specific tests are NWEA's variable-length computerized adaptiv
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](../claims/true-score-correlations-above-090.md) [+W]
 - [The course-specific MAP Growth norms were built from 747,936 test events administered to 342,821 students in Grades 6–12 across 50 states between Fall 2017 and Spring 2019.](../claims/map-course-specific-norms-sample-747936-events.md) [+W]
 - [The published norms allow normative interpretation of both status and fall-to-spring growth, e.g., an Algebra 1 student at the 55th fall percentile has an expected gain of 8 RIT with growth SD of 9, and an 11-RIT gain places the student at the 62nd growth percentile.](../claims/algebra1-status-growth-norms-example-interpretation.md) [+W]
-- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](../claims/course-specific-term-score-correlations-above-090.md) [+W]
+- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](../claims/true-score-correlations-above-090.md) [+W]
 - [Q-Q plots, CDF curves, and residual checks support the joint normality assumption underlying the multivariate true score model for the course-specific tests.](../claims/course-specific-norms-normality-supported.md) [+W]
 - [Cross-grade score patterns show self-selection: lower-grade students taking a course-specific test tend to outperform students at the grade the course targets, and upper-grade students tend to underperform them.](../claims/course-specific-norms-cross-grade-self-selection.md) [+W]
 - [Adaptive testing yields better measurement precision than a fixed-form test of the same length](../claims/adaptive-testing-beats-fixed-form-precision-same-length.md) [+W]
@@ -87,7 +87,7 @@ A series of course-specific MAP Growth Mathematics and Science subject tests rel
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](../claims/true-score-correlations-above-090.md) [+W]
 - [The course-specific MAP Growth norms were built from 747,936 test events administered to 342,821 students in Grades 6–12 across 50 states between Fall 2017 and Spring 2019.](../claims/map-course-specific-norms-sample-747936-events.md) [+W]
 - [The published norms allow normative interpretation of both status and fall-to-spring growth, e.g., an Algebra 1 student at the 55th fall percentile has an expected gain of 8 RIT with growth SD of 9, and an 11-RIT gain places the student at the 62nd growth percentile.](../claims/algebra1-status-growth-norms-example-interpretation.md) [+W]
-- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](../claims/course-specific-term-score-correlations-above-090.md) [+W]
+- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](../claims/true-score-correlations-above-090.md) [+W]
 - [Q-Q plots, CDF curves, and residual checks support the joint normality assumption underlying the multivariate true score model for the course-specific tests.](../claims/course-specific-norms-normality-supported.md) [+W]
 - [Cross-grade score patterns show self-selection: lower-grade students taking a course-specific test tend to outperform students at the grade the course targets, and upper-grade students tend to underperform them.](../claims/course-specific-norms-cross-grade-self-selection.md) [+W]
 

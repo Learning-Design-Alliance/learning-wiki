@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: sel-benefits-persist-follow-up
+aliases: [sel-long-term-sustained-effects]
 evidence_strength:
 sources:
   - id: taylor-et-al-2017
@@ -26,12 +27,20 @@ sources:
     n: "356 randomized; 263 (74%) retained at follow-up"
     kind: causal
     rigour: 2
+  - id: greenberg-2023
+    resource: "https://doi.org/10.54300/928.269"
+    title: "Greenberg, M. T. (2023). Evidence for social and emotional learning in schools. Learning Policy Institute. https://doi.org/10.54300/928.269"
+    author: Greenberg, M. T.
+    q: 3
+    i: 1
+    kind: review
+    rigour: 2
 ---
 
 # Social-emotional learning benefits persist at follow-up
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3`–`q4` · `i1` small
+> **Evidence** · 3 studies · 1 causal `r2`, 1 quant-synthesis `r?`, 1 review `r2` · `q3`–`q4` · `i1` small
 
 Students who participate in social-emotional learning (SEL) programs retain gains in skills, attitudes, and behavior after the program ends, rather than showing only immediate post-intervention effects.
 
@@ -40,6 +49,8 @@ Students who participate in social-emotional learning (SEL) programs retain gain
 `q4 i?` A large meta-analysis of 82 school-based universal SEL interventions (N=97,406 students) found participants significantly outperformed controls on social-emotional skills, attitudes, and well-being at follow-up assessments ranging from 6 months to 18 years post-intervention, with benefits similar across race, socioeconomic status, and school location. [→ Taylor et al. 2017](#taylor-et-al-2017)
 
 `q3 i1` A randomized-controlled trial of an enriched Head Start preschool SEL/language curriculum found significant intervention-group advantages on 7 of 11 measures of well-being (small-to-moderate effects, d=.21 to .33) when participants were followed up as young adults, 17 years after the preschool intervention ended. [→ Bierman et al. 2026](#bierman-et-al-2026)
+
+`q3 i1` Two meta-analyses examining longer-term effects found sustained positive impacts, with effect sizes ranging from 0.13 to 0.33 at follow-up on behavioral, academic, mental health, and life outcomes. [→ Greenberg 2023](#greenberg-2023)
 
 ## Evidence
 
@@ -58,6 +69,16 @@ Bierman, K. L., Heinrichs, B. S., Welsh, J. A., Jones, D. E., & Crowley, D. M. (
 `q3 · randomized controlled trial, not stated as pre-registered` · `i1 · small-to-moderate effect, d=.21 to .33` · `n=356 randomized; 263 (74%) retained at follow-up` · `causal · r2`
 
 This RCT randomly assigned Head Start classrooms to receive an SEL- and language-enriched curriculum (Head Start REDI) or usual practice, enrolling 356 low-income preschoolers (mean age 4.49 years at entry). Outcomes were reassessed when participants were young adults, age 21–22 — roughly 17 years after the preschool intervention ended — with 74% of the original sample retained. The intervention group showed statistically significant advantages on 7 of 11 measures of young adult well-being (including conduct problems, depressive symptoms, loneliness, empathy, emotional support, and life satisfaction), with effect sizes in the small-to-moderate range, and the preschool intervention also buffered the negative impact of adverse childhood experiences on adult social adjustment.
+
+### Greenberg 2023
+
+Greenberg, M. T. (2023). Evidence for social and emotional learning in schools. Learning Policy Institute. https://doi.org/10.54300/928.269
+
+`q3 · i1` · `review · r2`
+
+The report's section on longer-term effects describes the Taylor et al. extension of the Durlak meta-analysis, covering follow-up periods from 6 months to 18 years for 82 programs (38% elementary); it "found sustained positive impacts".
+
+> "The analysis by Taylor and colleagues found sustained positive impacts (effect sizes ranging from 0.13 to 0.33 at follow-up) on a number of behavioral, academic, and mental health and life outcomes."
 
 ## Discussion
 
@@ -96,7 +117,6 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress](schoolwide-sel-prosocial-distress-24-percent.md) — related
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
-- [SEL program effects are sustained over long-term follow-up periods](sel-long-term-sustained-effects.md) — possibly the same claim (merge candidate)
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related

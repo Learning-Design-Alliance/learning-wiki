@@ -45,6 +45,6 @@ HLM analysis linking teacher survey reports of interactive instruction to ITBS a
 ## Related Claims
 - [Didactic instruction is negatively associated with one-year achievement gains in reading and mathematics](didactic-instruction-negative-achievement-gains.md) — related
 - [Frequent instructional review is negatively associated with one-year achievement gains](instructional-review-negative-achievement-gains.md) — related
-- [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-pedagogy-assignments-predict-achievement-gains.md) — related
+- [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-assignments-greater-itbs-gains.md) — related
 - [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](chicago-strong-essentials-tenfold-gains.md) — related
 - [Frequency, content, and quality of professional development are each positively related to elementary teachers' use of interactive instruction](pd-elements-related-interactive-instruction.md) — related

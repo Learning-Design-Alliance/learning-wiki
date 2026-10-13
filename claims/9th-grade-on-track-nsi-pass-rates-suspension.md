@@ -63,6 +63,5 @@ Quasi-experimental comparison of 9th-grade on-track NSI students to comparable n
 
 ## Related Claims
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
-- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](9th-grade-on-track-nsi-positive-impacts-year-two.md) — related
 - [9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale](9th-grade-on-track-nsi-gpa-improvement.md) — related
 - [College-ready on-track NSI did not impact GPA, advanced course taking, math and ELA test scores, graduation, or college enrollment](college-ready-on-track-nsi-null-outcomes.md) — related

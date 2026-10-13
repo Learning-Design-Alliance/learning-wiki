@@ -33,7 +33,7 @@ sources:
 # Longitudinal achievement growth analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 23 claims (20 for, 3 mixed) · 11 studies (10 associational, 1 theoretical), `q1`–`q3` · 0 of 11 report an effect size · 23 claims rest on one study
+> **Evidence** · 23 claims (20 for, 3 mixed) · 12 studies (11 associational, 1 theoretical), `q1`–`q3` · 0 of 12 report an effect size · 22 claims rest on one study
 
 ## Description
 This principle holds that educators and researchers should use longitudinal data analysis to track how academic achievement for DHH students progresses over time. The article argues that "Longitudinal data analysis is critical to understanding how academic achievement for DHH students progresses over time and where they may need additional support on their academic journey to achieve at the level of their hearing peers." It grounds support decisions in multi-year growth evidence rather than single snapshots.
@@ -72,7 +72,7 @@ This principle holds that educators and researchers should use longitudinal data
 - [All six CPS age cohorts saw a slight 2001 decline in math scores of less than one month, which a Rasch-score re-analysis suggests reflects an actual drop in learning rather than test-form effects](../claims/2001-math-decline-confirmed-by-rasch-analysis.md) [~W]
 - [K-cohort English learners' 3rd-grade achievement improved in both ELA and math across successive kindergarten cohorts, shrinking gaps with never-ELs](../claims/k-cohort-el-3rd-grade-achievement-improved-shrinking-gaps.md) [+M]
 - [Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification](../claims/proficiency-reclassification-gap-ltels.md) [+M]
-- [Within-school-year achievement growth is often not linear, particularly in reading](../claims/within-year-growth-often-nonlinear-reading.md) [+M]
+- [Within-school-year achievement growth is often not linear, particularly in reading](../claims/linear-within-year-growth-assumption-unjustified-reading.md) [+M]
 
 ## Related Research Methods
 -

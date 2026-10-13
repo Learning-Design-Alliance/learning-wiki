@@ -19,7 +19,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (6 for, 34 mixed, 2 against) · 25 studies (9 associational, 6 causal, 6 review, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 25 report an effect size · 41 claims rest on one study
+> **Evidence** · 42 claims (6 for, 34 mixed, 2 against) · 26 studies (10 associational, 6 causal, 6 review, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 26 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 

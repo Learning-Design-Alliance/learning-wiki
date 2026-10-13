@@ -17,7 +17,7 @@ sources:
 # Use economic indicators plus household size to prioritize families, and target outreach through schools with low family engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report distills its participation findings into recommendations for internet-access programs. It concludes "Using economic indicators to prioritize students worked for Chicago Connected; students with lower economic means were more likely to participate in the program," and adds that "Programs could use the information on household size and prioritize households with more family members in addition to economic indicators." It also recommends targeting dissemination to schools with low family engagement, since students there were less likely to participate.

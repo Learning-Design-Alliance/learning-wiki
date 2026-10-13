@@ -45,8 +45,6 @@ The report's key findings state that "Compared with similar interventions, TTI w
 ## Related Claims
 - [TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points](tti-increased-elementary-test-scores.md) — related
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
-- [TTI transfer incentives did not increase middle school test scores](tti-no-middle-school-effect.md) — related
+- [TTI transfer incentives did not increase middle school test scores](tti-no-middle-school-effects.md) — related
 - [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related
-- [TTI increased elementary school test scores but not middle school test scores](tti-increased-elementary-not-middle-school-test-scores.md) — related
 - [Most TTI teachers stayed on the job even after transfer payments ended](tti-teachers-stayed-after-payments-ended.md) — related
-- [TTI did not increase test scores in middle schools](tti-no-middle-school-effects.md) — related

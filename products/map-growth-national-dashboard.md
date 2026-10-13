@@ -34,7 +34,7 @@ sources:
 # MAP Growth National Dashboard
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 13 claims (10 for, 3 mixed) · 8 studies (7 associational, 1 design), `q1`–`q2` · 0 of 8 report an effect size · 13 claims rest on one study
+> **Evidence** · 11 claims (8 for, 3 mixed) · 12 studies (11 associational, 1 design), `q1`–`q2` · 0 of 12 report an effect size · 10 claims rest on one study
 
 ## Description
 NWEA's dashboard software product that presents national student achievement and growth trend data from MAP Growth assessments.
@@ -48,9 +48,9 @@ NWEA's dashboard software product that presents national student achievement and
 - **Dashboard metric framework distinguishing single-point achievement metrics from between-test-event growth metrics**: The guide organizes the dashboard's measures into two families: "Achievement metrics capture students' performance at a single point in time, while growth metrics track their progress between two test events." Achievement metrics include RIT scores (100–350 scale) and achievement percentiles relative to the 2025 norms sample; growth metrics center on the conditional growth percentile, which compares growth to same-grade peers with the same starting fall achievement level. Supporting terms include on-track-for-proficiency projections and effect sizes on the Trends Over Time tab that show how far RIT scores have shifted from 2019 in a metric comparable across grades. (MAP Growth National Dashboard user guide et al. (2026))
 
 ### Claims
-- [MAP Growth data show U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/map-growth-reading-improvement-post-covid-trends-2025-2026.md) [+W]
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](../claims/map-growth-reading-improvements-after-stagnation.md) [+W]
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with the largest 2025–2026 gains among historically underserved groups](../claims/map-growth-reading-turnaround-2025-2026-underserved-gains.md) [+W]
+- [MAP Growth data show U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
+- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
+- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with the largest 2025–2026 gains among historically underserved groups](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
 - [The 2025 MAP Growth Norms are based on national test samples from 2022–23 and 2023–24, and dashboard results are not comparable to reports using 2020 norms](../claims/2025-norms-based-on-2022-23-and-2023-24-samples.md) [~W]
 - [The MAP Growth National Dashboard draws on a sample of over seven million students in 20,000 schools, about one in four US public schools](../claims/dashboard-sample-seven-million-students-20000-schools.md) [+W]
 - [State-level dashboard results are reported only when at least 20% of students were tested across most grades and the sample contains at least 10 students](../claims/dashboard-state-inclusion-thresholds-20-percent-10-students.md) [~W]
@@ -142,9 +142,9 @@ The MAP® Growth™ National Dashboard is an NWEA data tool accompanied by a use
 
 ## Claims
 
-- [MAP Growth data show U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/map-growth-reading-improvement-post-covid-trends-2025-2026.md) [+W]
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](../claims/map-growth-reading-improvements-after-stagnation.md) [+W]
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with the largest 2025–2026 gains among historically underserved groups](../claims/map-growth-reading-turnaround-2025-2026-underserved-gains.md) [+W]
+- [MAP Growth data show U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
+- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
+- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with the largest 2025–2026 gains among historically underserved groups](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
 
 ## Related Elements
 
@@ -316,8 +316,8 @@ The MAP Growth National Dashboard is a NWEA data product that releases national 
 - [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](../claims/k2-academic-recovery-positive-trends-post-covid.md) [+W]
 - [In spring 2025, math recovery continued while reading remained stalled](../claims/math-recovery-continues-reading-stalled-spring-2025.md) [+W]
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](../claims/middle-school-reading-stagnant-lowest-performers-behind.md) [+W]
-- [MAP Growth data show U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/map-growth-reading-improvement-post-covid-trends-2025-2026.md) [+W]
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](../claims/map-growth-reading-improvements-after-stagnation.md) [+W]
+- [MAP Growth data show U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
+- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
 
 ## Related Elements
 

@@ -17,7 +17,7 @@ sources:
 # Five essentials framework of organizational supports for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 9 studies (5 associational, 3 review, 1 design), `q1`–`q3` · 0 of 9 report an effect size · 10 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 10 studies (6 associational, 3 review, 1 design), `q1`–`q3` · 0 of 10 report an effect size · 9 claims rest on one study
 
 ## Description
 The report builds its measurement system on the five essentials framework developed by Tony Bryk and colleagues, which the report describes as identifying "five organizational features of schools that interact with life inside classrooms and are essential to growth in student achievement." The five supports are Effective Leadership, Collaborative Teachers, Involved Families, Supportive Environment, and Ambitious Instruction. The Early Ed Essentials surveys adapt this K-12 framework for early childhood education settings, adding a new parent survey alongside the adapted teacher survey.

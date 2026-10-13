@@ -50,7 +50,6 @@ Descriptive analysis of national teacher survey data on student loan borrowing, 
 - [The 2024 reduction of the maximum GSTG award from $20,000 to $10,000 left recipients with more unmet need, greater loan reliance, and more work during preparation](gstg-reduced-award-lessens-impact.md) — related
 - [The larger enrollment decline at HBCUs corresponded to the larger decline in PLUS recipients at those institutions](enrollment-decline-corresponds-to-plus-recipient-decline.md) — related
 - [HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans](hbcu-enrollment-continued-declining-2013-14.md) — related
-- [Declines in PLUS loans at HBCUs in 2012-13 were not fully replaced by other types of federal financial aid](plus-declines-not-fully-replaced-other-aid.md) — related
 - [Low-income students and students of color disproportionately rely on Grad PLUS loans](grad-plus-reliance-disproportionate-low-income-students-color.md) — related
 - [Black teachers have the highest borrowing and repayment rates of all subgroups studied, with 31.4% still owing their entire balance — nearly 3 times the share of all teachers](black-teachers-disproportionate-loan-debt.md) — possibly the same claim (merge candidate)
 - [Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt](black-women-owe-more-twelve-years-after-college.md) — related

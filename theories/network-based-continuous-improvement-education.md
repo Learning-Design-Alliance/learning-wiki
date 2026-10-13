@@ -16,7 +16,7 @@ sources:
 # Network-based continuous improvement in education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 Network-based continuous improvement (CI) is an approach in which "a network of schools using CI to iteratively test and refine strategies that address a common challenge while learning from one another." Schools within a network collectively identify a shared problem, test improvement strategies iteratively, and exchange findings with peer institutions. The Gates Foundation applied this model at scale through the NSI initiative, funding intermediary organizations to lead 34 networks across the country from 2018 to 2025.
@@ -46,7 +46,7 @@ Network-based continuous improvement (CI) is an approach in which "a network of 
 - [8Th Grade On Track Nsi Math Percentile Gain](../claims/8th-grade-on-track-nsi-math-percentile-gain.md) [+M]
 - [9Th Grade On Track Nsi Gpa Improvement](../claims/9th-grade-on-track-nsi-gpa-improvement.md) [+M]
 - [College Ready On Track Nsi Null Outcomes](../claims/college-ready-on-track-nsi-null-outcomes.md) [~M]
-- [Postsecondary Enrollment Nsi Fafsa Gains No Enrollment Change](../claims/postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change.md) [+W]
+- [Postsecondary Enrollment Nsi Fafsa Gains No Enrollment Change](../claims/postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) [+W]
 - [8th-grade on-track NSI did not improve ELA test scores, attendance, or suspension rates](../claims/8th-grade-on-track-nsi-null-ela-attendance-suspension.md) [-W]
 - [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](../claims/9th-grade-on-track-nsi-pass-rates-suspension.md) [+W]
 - [Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, identity, or agency](../claims/ci-groundwork-strong-theory-link-and-equity-depth-limited.md) [~W]

@@ -3,6 +3,7 @@ type: claim
 title: A personalized ability signal increased the probability of participating in AP classes by 49 percentage points among surveyed students
 description: A personalized ability signal increased the probability of participating in AP classes by 49 percentage points among surveyed students
 id: ability-signal-increases-ap-participation-49-points
+aliases: [personalized-ap-message-increases-participation-49-points]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
+
 `q3 i?` Among surveyed students, receiving a personalized message signaling potential to succeed in AP coursework increased the probability of participating in AP classes by 49 percentage points relative to students who did not receive the signal. [→ Naihobe Gonzalez 2017](#naihobe-gonzalez-2017)
+
+`q2 i?` Students who received a personalized message about their potential to succeed in AP coursework—and who were surveyed for this study—were 49 percentage points more likely to participate in AP classes than peers who did not receive the message. [→ Naihobe Gonzalez 2017](#naihobe-gonzalez-2017)
 
 ## Evidence
 
@@ -39,13 +43,25 @@ Regression discontinuity analysis of the 2013 PSAT ability-signal intervention i
 
 > "Using a regression discontinuity design, I found that the signal increased the probability of participating in AP classes by 49 percentage points among surveyed students, leading them to enroll in and pass about one more AP course the following year compared to students who did not receive the signal."
 
+<!-- merged 2026-10-13 from personalized-ap-message-increases-participation-49-points: that page's entry for this study, which differed from the one above, kept verbatim.
+### Naihobe Gonzalez 2017
+
+Naihobe Gonzalez. (2017). Small Changes Make a Big Difference: How Behavioral Science Improved Participation in Advanced Placement (Issue Brief). Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/small-changes-make-a-big-difference-how-behavioral-science-improved-participation-in-advanced
+
+`q2 · i?` · `causal · r?`
+
+The issue brief's key findings report that surveyed students receiving the personalized message were "49 percentage points more likely to participate in AP classes than peers who did not receive the message." No effect size or test statistic is printed, so no magnitude beyond the percentage-point difference is reported.
+
+> "Students who received a personalized message about their potential to succeed in AP coursework—and who were surveyed for this study—were 49 percentage points more likely to participate in AP classes than peers who did not receive the message."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
-- [The ability signal made students substantially more likely to take an AP exam and to pass more exams by year's end](ability-signal-increases-ap-exam-taking.md) — related
-- [Students who received a personalized message about their potential to succeed in AP coursework were 49 percentage points more likely to participate in AP classes than peers who did not receive the message](personalized-ap-message-increases-participation-49-points.md) — possibly the same claim (merge candidate)
-- [Students who received the personalized AP message were more likely to take an AP exam and passed a higher number of exams, making them eligible for college credit](personalized-ap-message-increases-exam-taking-and-passing.md) — related
+
+- [The ability signal made students substantially more likely to take an AP exam and to pass more exams by year's end](personalized-ap-message-increases-exam-taking-and-passing.md) — related
 - [Small changes in the way information is presented can have a large impact on a person's decision to participate in a program](small-presentation-changes-large-participation-impact.md) — a broader claim this one bears on
 - [Students who received the ability signal enrolled in and passed about one more AP course the following year](ability-signal-one-more-ap-course.md) — related
 - [Survey data indicate the ability signal had informational value, leading students to revise self-assessed ability and AP plans consistent with Bayesian learning](ability-signal-informational-value-bayesian-updating.md) — related

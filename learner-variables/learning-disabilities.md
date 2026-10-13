@@ -12,7 +12,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 60 claims (44 for, 12 mixed, 4 against) · 40 studies (21 associational, 7 review, 6 causal, 3 theoretical, 2 quant-synthesis, 1 qualitative), `q1`–`q3` · 3 of 40 report an effect size · 59 claims rest on one study
+> **Evidence** · 59 claims (44 for, 11 mixed, 4 against) · 40 studies (21 associational, 7 review, 6 causal, 3 theoretical, 2 quant-synthesis, 1 qualitative), `q1`–`q3` · 3 of 40 report an effect size · 57 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -84,7 +84,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [The initiative was associated with an overall increase in promotions to the next grade, concentrated among special education students](../claims/focus-high-schools-promotion-increase-special-education.md) [+M] — an instructional effect differs with it
 - [Youth with a 504 plan face fewer functional, social, and educational challenges than youth with an IEP, but more than other youth without an IEP](../claims/504-plan-youth-intermediate-challenge-level.md) [+W] — learners who differ on it differ in outcomes
 - [Youth with an IEP are more likely than a decade ago to live in households facing economic challenges](../claims/iep-youth-household-economic-challenges-increased.md) [+W] — learners who differ on it differ in outcomes
-- [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](../claims/iep-youth-supports-up-school-down-home.md) [~W] — learners who differ on it differ in outcomes
+- [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](../claims/iep-youth-school-supports-up-home-supports-down.md) [~W] — learners who differ on it differ in outcomes
 - [Youth with an IEP are more likely than in the past to receive supports at school but less likely to receive them at home](../claims/iep-youth-school-supports-up-home-supports-down.md) [~W] — learners who differ on it differ in outcomes
 - [Youth with an IEP are more likely than their peers to be socioeconomically disadvantaged and to face problems with health, communication, and completing typical tasks independently](../claims/iep-youth-socioeconomic-and-functional-challenges.md) [+W] — learners who differ on it differ in outcomes
 - [Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support](../claims/iep-youth-academic-struggle-less-support.md) [~W] — learners who differ on it differ in outcomes

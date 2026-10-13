@@ -47,7 +47,6 @@ WWC research review of the Cal-Learn randomized controlled trial (Mauldon et al.
 - [The completion impact of financial incentives for teen parents comes almost entirely from GED receipt rather than high school diploma receipt, and the GED effect was statistically significant only for Cal-Learn](financial-incentives-ged-receipt-significant.md) — related
 - [Financial incentives for teen parents show no discernible effects on progressing in school](financial-incentives-teen-parents-progressing-in-school.md) — related
 - [Financial incentives for teen parents show no discernible effects on completing school](financial-incentives-teen-parents-completing-school.md) — related
-- [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](wwc-potentially-positive-rating-staying-in-school.md) — related
 - Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews — related
 - Federally funded evidence reviews have historically reserved their highest quality ratings for randomized control trials — related
 - [WWC design standards may have contributed to observed improvement in education research quality over the past 15 years](wwc-standards-may-have-improved-research-quality.md) — related

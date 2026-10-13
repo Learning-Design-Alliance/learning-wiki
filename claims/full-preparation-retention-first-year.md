@@ -44,6 +44,6 @@ Research synthesis quoted in the executive summary's second recommendation area 
 
 ## Related Claims
 - [Comprehensive preparation and quality mentoring reduce early-career teacher attrition](preparation-mentoring-reduce-attrition.md) — possibly the same claim (merge candidate)
-- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
+- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](residency-graduates-higher-retention.md) — related
 - [The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample](trp-retention-study-scope-six-districts-12-trps.md) — related
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related

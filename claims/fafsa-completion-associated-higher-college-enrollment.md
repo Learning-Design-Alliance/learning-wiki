@@ -43,6 +43,5 @@ The report cites prior survey-based research (attributed to NCAN via endnote) re
 
 
 ## Related Claims
-- [Chicago students accepted to a four-year college who completed a FAFSA were far more likely to enroll than accepted students who did not file](fafsa-completion-associated-with-enrollment-chicago.md) — related
+- [Chicago students accepted to a four-year college who completed a FAFSA were far more likely to enroll than accepted students who did not file](fafsa-completion-predicts-four-year-enrollment.md) — related
 - [Michigan's average student-to-counselor ratio was 565:1 in 2024-25, far above the recommended 250:1, and FAFSA completion is linked to higher immediate college enrollment](michigan-counselor-ratio-and-fafsa-completion-benefits.md) — related
-- [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related

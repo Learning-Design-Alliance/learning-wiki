@@ -45,10 +45,8 @@ The page describes a technical appendix documenting the "methodology behind the 
 ## Related Claims
 - [Projected COVID-19 learning loss was not universal, with the top third of students potentially making gains in reading](covid-learning-loss-not-universal-top-third-reading-gains.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — a broader claim this one bears on
-- [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](covid-projections-reading-63-68-percent-gains.md) — a narrower finding that bears on this claim
-- [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](covid-projections-math-37-50-percent-gains.md) — a narrower finding that bears on this claim
-- [Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains](covid-closures-projected-reading-gains-63-68-percent.md) — a narrower finding that bears on this claim
-- [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](covid-closures-projected-math-gains-37-50-percent.md) — a narrower finding that bears on this claim
+- [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](covid-closures-projected-reading-gains-63-68-percent.md) — a narrower finding that bears on this claim
+- [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](covid-closures-projected-math-gains-37-50-percent.md) — a narrower finding that bears on this claim
 - [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related
 - [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — possibly the same claim (merge candidate)
 - [Thirty-seven percent of the Elevate Math program effect is attributable to avoidance of summer learning loss through the first half of the summer](elevate-math-effect-third-summer-learning-loss-avoidance.md) — related

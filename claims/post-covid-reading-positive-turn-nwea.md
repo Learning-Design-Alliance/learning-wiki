@@ -43,11 +43,4 @@ The page's description of a NWEA Trends Snapshot states that analysis of MAP Gro
 
 
 ## Related Claims
-- [US reading achievement showed a positive turn after years of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](post-covid-reading-positive-turn-2026.md) — possibly the same claim (merge candidate)
-- [MAP Growth data show U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](map-growth-reading-improvement-post-covid-trends-2025-2026.md) — possibly the same claim (merge candidate)
-- [MAP Growth data show reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](map-growth-reading-improvements-post-covid.md) — possibly the same claim (merge candidate)
-- [MAP Growth data shows U.S. reading improving after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](map-growth-reading-turnaround-2025-2026.md) — possibly the same claim (merge candidate)
-- [MAP Growth data show reading improvements after a period of post-COVID stagnation, with the largest 2025-2026 gains among historically underserved groups](reading-improvements-after-post-covid-stagnation.md) — possibly the same claim (merge candidate)
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](map-growth-reading-improvements-after-stagnation.md) — possibly the same claim (merge candidate)
-- [U.S. reading achievement shows a positive turn after years of post-COVID stagnation, with the largest 2025-to-2026 reading gains among historically underserved groups](map-growth-reading-improvement-post-covid.md) — possibly the same claim (merge candidate)
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with the largest 2025–2026 gains among historically underserved groups](map-growth-reading-turnaround-2025-2026-underserved-gains.md) — possibly the same claim (merge candidate)
+- [US reading achievement showed a positive turn after years of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](map-growth-reading-turnaround-2025-2026.md) — possibly the same claim (merge candidate)

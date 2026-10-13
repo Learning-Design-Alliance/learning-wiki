@@ -3,6 +3,7 @@ type: claim
 title: CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees
 description: CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees
 id: cbe-fast-completion-two-terms-certification-four-terms-credentials
+aliases: [taaccct-cbe-fast-time-to-completion]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: associational
     rigour: "?"
+  - id: person-2016
+    resource: "https://www.mathematica.org/publications/outcomes-of-competencybased-education-in-community-colleges-summative-findings-from-the-evaluation"
+    title: "Person, A. E., Thomas, J., Bruch, J., Johann, A., & Maestas, N. (2016). Outcomes of Competency-Based Education in Community Colleges: Summative Findings from the Evaluation of a TAACCCT Grant. Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/outcomes-of-competencybased-education-in-community-colleges-summative-findings-from-the-evaluation"
+    author: "Person, A. E., Thomas, J., Bruch, J., Johann, A., & Maestas, N."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence** · 2 studies · 2 associational `r?` · `q2`
 
 ## Subclaims
+
 `q2 i?` Participants took, on average, less than two terms to complete their first industry certification preparatory course and approximately four terms to complete certificates and degrees. [→ Ann Person 2016](#ann-person-2016)
+
+`q2 i?` Participants took, on average, less than two terms to complete their first industry certification preparatory course and approximately four terms to complete certificates and degrees. [→ Person 2016](#person-2016)
 
 ## Evidence
 
@@ -39,11 +51,22 @@ Key findings from the same consortium evaluation, reporting average time to comp
 
 > "Participants completed programs quickly, taking, on average, less than two terms to complete their first industry certification preparatory course and approximately four terms to complete certificates and degrees."
 
+### Person 2016
+
+Person, A. E., Thomas, J., Bruch, J., Johann, A., & Maestas, N. (2016). Outcomes of Competency-Based Education in Community Colleges: Summative Findings from the Evaluation of a TAACCCT Grant. Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/outcomes-of-competencybased-education-in-community-colleges-summative-findings-from-the-evaluation
+
+`q2 · i?` · `associational · r?`
+
+Descriptive outcome analysis of program participants in the evaluation's key findings. The report states participants took "on average, less than two terms" for a first certification preparatory course and "approximately four terms" for certificates and degrees. No effect size is printed.
+
+> "Participants completed programs quickly, taking, on average, less than two terms to complete their first industry certification preparatory course and approximately four terms to complete certificates and degrees."
+
 ## Discussion
 
 
+
 ## Related Claims
-- [Participants completed programs quickly, averaging less than two terms to a first certification course and about four terms to certificates and degrees](taaccct-cbe-fast-time-to-completion.md) — possibly the same claim (merge candidate)
+
 - [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](taaccct-cbe-35-percent-program-completion.md) — related
 - [More than four-fifths of 2015 LINCS certification track course completers in five consortium colleges were employed within three quarters after the course, with average quarterly earnings of nearly $7,400](lincs-completers-employment-earnings-2015.md) — related
 - [The outcomes study used a comparative design contrasting 2015 Broward LINCS completers with 2014 SCM students who did not participate in LINCS, and could not assess longer-term outcomes because of time limitations](lincs-outcomes-study-design-limits.md) — related

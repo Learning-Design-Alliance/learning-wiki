@@ -18,7 +18,7 @@ sources:
 # Strategic Data Project (SDP) Fellowship
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 Fellowship programmes run by the Strategic Data Project and Education Pioneers that place and support fellows in education agencies to strengthen data-use capacity and practices.

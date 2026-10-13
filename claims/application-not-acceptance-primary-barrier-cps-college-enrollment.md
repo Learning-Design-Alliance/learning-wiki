@@ -46,7 +46,6 @@ Descriptive tracking of the sequential college application process for 2005 CPS 
 - [Approximately 10 percent of CPS graduates accepted into a four-year college do not enroll the following fall](accepted-but-not-enrolled-summer-melt-cps.md) — related
 - Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation — related
 - [Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations](urban-suburban-college-application-steps-gap.md) — a broader claim this one bears on
-- [Chicago students accepted to a four-year college who completed a FAFSA were far more likely to enroll than accepted students who did not file](fafsa-completion-associated-with-enrollment-chicago.md) — related
-- [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related
+- [Chicago students accepted to a four-year college who completed a FAFSA were far more likely to enroll than accepted students who did not file](fafsa-completion-predicts-four-year-enrollment.md) — related
 - College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling — related
 - [One-fifth of students in academically advanced programs do not apply to any four-year college](cps-advanced-programs-one-fifth-no-four-year-application.md) — related

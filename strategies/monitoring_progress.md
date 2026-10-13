@@ -12,7 +12,7 @@ generated:
 # Monitoring Progress
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Monitoring progress is the ongoing process of assessing advancement towards a learning or performance goal — checking whether one is on schedule, detecting deviations from the action plan, and making timely adjustments. It is the self-observation phase of [Self-Regulated Learning](../theories/self-regulated-learning.md): learners compare current performance against a standard, and the resulting discrepancy information drives strategy revision and renewed effort.
@@ -62,7 +62,7 @@ Monitoring works because it converts vague intentions into concrete feedback loo
 
 - [Goal Setting](../elements/goal-setting.md) — monitoring is meaningless without a standard to monitor against
 - [Reflective Practice](reflective-practice.md) — the interpretive layer that turns monitoring data into learning
-- [Spaced Scheduling](spaced-scheduling.md) — distributed review points create natural monitoring intervals [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+- [Spaced Scheduling](spaced-scheduling.md) — distributed review points create natural monitoring intervals [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 - [Use program-generated intervention reports to inform small-group instruction and one-on-one planning](pathblazer-reports-inform-small-group-instruction.md)
 - [Use data dashboards and alerts so teachers monitor progress and intervene when students struggle](dashboard-monitoring-teacher-intervention.md)
 - [Iteratively update a design research plan with findings and resulting design adjustments](update-design-research-plan-with-findings-and-adjustments.md)

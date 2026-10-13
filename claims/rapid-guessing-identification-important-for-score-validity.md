@@ -45,9 +45,8 @@ The article's opening motivational statement, offered without supporting data in
 ## Related Claims
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
 - [A meaningful percentage of Grade 8 state summative test events showed rapid guessing, varying by subject: 5.5% in mathematics, 6.7% in ELA, and 3.5% in science](rapid-guessing-state-summative-grade8-subject-rates.md) — related
-- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-negatively-distorts-scores.md) — possibly the same claim (merge candidate)
+- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-distorts-test-scores-and-measurement.md) — possibly the same claim (merge candidate)
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related
 - [Rapid guessing on achievement tests varies across grades, subjects, and teachers](rapid-guessing-varies-grade-subject-teacher.md) — related
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — possibly the same claim (merge candidate)
-- [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — possibly the same claim (merge candidate)

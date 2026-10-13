@@ -176,7 +176,6 @@ Open questions include the durability of achievement effects after programs end,
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
-- [SEL program effects are sustained over long-term follow-up periods](sel-long-term-sustained-effects.md) — related
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
 - [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-11-percentile-academic-gain.md) — reports the opposite
 - [SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — reports the opposite

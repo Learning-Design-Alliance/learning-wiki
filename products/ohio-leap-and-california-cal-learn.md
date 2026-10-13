@@ -18,7 +18,7 @@ sources:
 # Ohio LEAP and California Cal-Learn
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (3 for, 1 mixed, 2 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (2 for, 1 mixed, 2 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 LEAP, run by Ohio, and Cal-Learn, run by California, are state welfare programs that use attendance, academic-performance, and completion bonuses or sanctions to support teen parents' school participation.
@@ -33,7 +33,7 @@ LEAP, run by Ohio, and Cal-Learn, run by California, are state welfare programs 
 - [Financial incentives for teen parents show no discernible effects on completing school](../claims/financial-incentives-teen-parents-completing-school.md) [-W]
 - [Financial incentives for teen parents show no discernible effects on progressing in school](../claims/financial-incentives-teen-parents-progressing-in-school.md) [-W]
 - [Financial incentives for teen parents have potentially positive effects on staying in school, with a statistically significant dropout reduction in Cal-Learn but not in LEAP](../claims/financial-incentives-teen-parents-staying-in-school.md) [+W]
-- [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](../claims/wwc-potentially-positive-rating-staying-in-school.md) [+W]
+- [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](../claims/financial-incentives-teen-parents-staying-in-school.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -74,7 +74,7 @@ Financial incentives for teen parents are components of state welfare programs i
 - [Financial incentives for teen parents show no discernible effects on completing school](../claims/financial-incentives-teen-parents-completing-school.md) [-W]
 - [Financial incentives for teen parents show no discernible effects on progressing in school](../claims/financial-incentives-teen-parents-progressing-in-school.md) [-W]
 - [Financial incentives for teen parents have potentially positive effects on staying in school, with a statistically significant dropout reduction in Cal-Learn but not in LEAP](../claims/financial-incentives-teen-parents-staying-in-school.md) [+W]
-- [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](../claims/wwc-potentially-positive-rating-staying-in-school.md) [+W]
+- [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](../claims/financial-incentives-teen-parents-staying-in-school.md) [+W]
 
 ## Related Elements
 

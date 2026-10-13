@@ -45,4 +45,3 @@ The brief reports the new Parent PLUS caps and attributes to PEER the estimate t
 ## Related Claims
 - [Black parents take out Parent PLUS loans at a higher rate than any other racial or ethnic group, and low-income Black PLUS borrowing is growing](black-parents-highest-parent-plus-take-up-rate.md) — related
 - [Over one-fourth of graduate borrowers borrowed more in 2020 than the new limits allow](quarter-graduate-borrowers-exceed-new-caps.md) — related
-- [About one-third of graduate borrowers borrowed more than OBBBA's new loan limits allow, exceeding the limits by roughly $8 billion in volume](graduate-borrowers-exceed-new-loan-limits.md) — related

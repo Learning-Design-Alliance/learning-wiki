@@ -17,7 +17,7 @@ sources:
 # Multivariate true score model for achievement and growth norming
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 4 studies (4 associational), `q2` · 1 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 4 studies (4 associational), `q2` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The report uses a model-based approach in which observed scores are decomposed into true scores and error scores, with the standard error of measurement introduced so that imprecision of observed scores is accounted for. The article states it uses "a multivariate true score model that accounts for the known imprecision of scores" to generate both achievement norms per term and between-term growth norms. True scores are assumed to have a multivariate normal sampling distribution, and the joint distribution of predicted fall, winter, and spring scores provides the basis for the norms.
@@ -33,7 +33,7 @@ The report uses a model-based approach in which observed scores are decomposed i
 - [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](../claims/spanish-foundational-skills-normality-assumption-met.md) [+W]
 - [The multivariate normality assumption of the norming model was judged met for all domains and grades, despite some tail deviations in Q-Q plots](../claims/normality-assumption-met-foundational-skills-norming.md) [+W]
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](../claims/true-score-correlations-above-090.md) [+W]
-- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](../claims/course-specific-term-score-correlations-above-090.md) [+W]
+- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](../claims/true-score-correlations-above-090.md) [+W]
 
 ## Related Research Methods
 -
@@ -121,7 +121,7 @@ The norming procedure is a model-based approach from the course-specific MAP Gro
 - [Q-Q plots, CDF curves, and residual checks support the joint normality assumption underlying the multivariate true score model for the course-specific tests.](../claims/course-specific-norms-normality-supported.md) [+W]
 - [Normality assumptions of the true score model appeared reasonable for the course-specific tests](../claims/normality-assumption-reasonable-course-specific.md) [+W]
 - [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](../claims/spanish-foundational-skills-normality-assumption-met.md) [+W]
-- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](../claims/course-specific-term-score-correlations-above-090.md) [+W]
+- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](../claims/true-score-correlations-above-090.md) [+W]
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](../claims/true-score-correlations-above-090.md) [+W]
 
 ## Related Theories

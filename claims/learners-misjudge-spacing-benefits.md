@@ -96,7 +96,7 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
-- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
+- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — related
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related

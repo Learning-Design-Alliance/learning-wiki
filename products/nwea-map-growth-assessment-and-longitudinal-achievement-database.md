@@ -38,7 +38,7 @@ sources:
 # NWEA MAP Growth assessment and longitudinal achievement database
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 14 claims (14 for) · 5 studies (5 associational), `q2`–`q3` · 0 of 5 report an effect size · 14 claims rest on one study
+> **Evidence** · 12 claims (12 for) · 5 studies (5 associational), `q2`–`q3` · 0 of 5 report an effect size · 10 claims rest on one study
 
 ## Description
 A longitudinal database of student achievement and growth scores collected through NWEA's MAP Growth assessments and used for large-scale educational analysis.
@@ -61,9 +61,9 @@ A longitudinal database of student achievement and growth scores collected throu
 - [Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity](../claims/algebra-access-gaps-poverty-geography-race.md) [+W]
 - [The study examined both school Algebra offerings and student placement practices](../claims/algebra-access-two-mechanisms-offerings-and-placement.md) [+W]
 - [Seasonal growth patterns were examined with math and reading scores for over seven million K-8 students across three within-year test occasions](../claims/seven-million-students-three-seasonal-occasions.md) [+M]
-- [A seven-million-student K-8 dataset spanning fall, winter, and spring of 2016-17 was used to test within-year growth linearity](../claims/seven-million-student-three-season-dataset-growth-linearity.md) [+M]
+- [A seven-million-student K-8 dataset spanning fall, winter, and spring of 2016-17 was used to test within-year growth linearity](../claims/seven-million-students-three-seasonal-occasions.md) [+M]
 - [Assuming linear within-year achievement growth is often not justified, particularly in reading](../claims/linear-within-year-growth-assumption-unjustified-reading.md) [+M]
-- [Within-school-year achievement growth is often not linear, particularly in reading](../claims/within-year-growth-often-nonlinear-reading.md) [+M]
+- [Within-school-year achievement growth is often not linear, particularly in reading](../claims/linear-within-year-growth-assumption-unjustified-reading.md) [+M]
 - [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](../claims/asian-white-summer-growth-advantage.md) [+W]
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](../claims/black-white-gaps-widen-school-shrink-summer.md) [+W]
 - [Racial/ethnic disparities observed among older students are largely already in place among kindergartners](../claims/older-student-disparities-present-at-kindergarten.md) [+W]
@@ -277,9 +277,9 @@ The study's evidence base is a dataset of "math and reading test scores for over
 ## Claims
 
 - [Seasonal growth patterns were examined with math and reading scores for over seven million K-8 students across three within-year test occasions](../claims/seven-million-students-three-seasonal-occasions.md) [+M]
-- [A seven-million-student K-8 dataset spanning fall, winter, and spring of 2016-17 was used to test within-year growth linearity](../claims/seven-million-student-three-season-dataset-growth-linearity.md) [+M]
+- [A seven-million-student K-8 dataset spanning fall, winter, and spring of 2016-17 was used to test within-year growth linearity](../claims/seven-million-students-three-seasonal-occasions.md) [+M]
 - [Assuming linear within-year achievement growth is often not justified, particularly in reading](../claims/linear-within-year-growth-assumption-unjustified-reading.md) [+M]
-- [Within-school-year achievement growth is often not linear, particularly in reading](../claims/within-year-growth-often-nonlinear-reading.md) [+M]
+- [Within-school-year achievement growth is often not linear, particularly in reading](../claims/linear-within-year-growth-assumption-unjustified-reading.md) [+M]
 
 ## Related Elements
 

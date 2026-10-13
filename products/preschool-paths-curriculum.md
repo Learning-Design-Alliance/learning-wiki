@@ -18,7 +18,7 @@ sources:
 # Preschool PATHS® Curriculum
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q3`–`q4` · 2 of 3 report an effect size
 
 ## Description
 A social-emotional learning curriculum used within the REDI programme to develop preschoolers’ self-regulation, self-awareness, social problem-solving, and emotional control.

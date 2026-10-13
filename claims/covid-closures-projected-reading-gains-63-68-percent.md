@@ -3,6 +3,7 @@ type: claim
 title: "Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains"
 description: "Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains"
 id: covid-closures-projected-reading-gains-63-68-percent
+aliases: [covid-projections-reading-63-68-percent-gains]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: associational
     rigour: "?"
+  - id: kuhfeld-2020
+    resource: "https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/"
+    title: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impacts of COVID-19 school closures on academic achievement. NWEA Research working paper. https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/"
+    author: "Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
+
 `q2 i?` Under the study's projections, returning students are expected to start fall 2020 with approximately 63 to 68% of the learning gains in reading relative to a typical school year. [→ Megan Kuhfeld 2020](#megan-kuhfeld-2020)
+
+`q2 i?` Under the study's projections, students are likely to return in fall 2020 with approximately 63-68% of the learning gains in reading relative to a typical school year. [→ Kuhfeld 2020](#kuhfeld-2020)
 
 ## Evidence
 
@@ -39,13 +51,23 @@ Projection study based on absenteeism-literature estimates and summer learning p
 
 > "returning students are expected to start fall 2020 with approximately 63 to 68% of the learning gains in reading and 37 to 50% of the learning gains in mathematics relative to a typical school year"
 
+### Kuhfeld 2020
+
+Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020). Projecting the potential impacts of COVID-19 school closures on academic achievement. NWEA Research working paper. https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/
+
+`q2 · i?` · `associational · r2`
+
+The working paper's projection analysis, based on estimates from prior literature on missing school and analyses of typical summer learning patterns, projects students return with "approximately 63-68% of the learning gains in reading relative to a typical school year." No effect size is printed.
+
+> "Under these projections, students are likely to return in fall 2020 with approximately 63-68% of the learning gains in reading relative to a typical school year"
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](covid-closures-projected-math-gains-37-50-percent.md) — related
-- [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](covid-projections-reading-63-68-percent-gains.md) — possibly the same claim (merge candidate)
-- [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](covid-projections-math-37-50-percent-gains.md) — related
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
 - [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related

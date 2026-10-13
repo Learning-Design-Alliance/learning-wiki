@@ -43,13 +43,11 @@ The study's remediation analysis found that in math, students achieving the PARC
 
 
 ## Related Claims
-- [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](mcas-and-parcc-similar-remediation-predictions.md) — related
+- [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
 - [In math, the PARCC college-ready standard predicts higher college performance than the MCAS proficient standard, while in ELA the standards are similar](parcc-college-ready-standard-higher-math-college-performance.md) — related
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable](parcc-college-ready-standard-lower-math-remediation.md) — possibly the same claim (merge candidate)
 - [PARCC sets a higher performance standard in mathematics than MCAS, while both exams predict college performance comparably](parcc-higher-math-standard-mcas-comparable-prediction.md) — related
 - [In math, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard](parcc-math-standard-higher-college-performance.md) — related
-- [In mathematics, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard, while in English language arts the two standards are similar](parcc-math-standard-higher-college-performance-than-mcas.md) — related
 - [In mathematics, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in English language arts the standards are not statistically distinguishable](parcc-math-standard-less-remediation-than-mcas-proficient.md) — possibly the same claim (merge candidate)
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
-- [MCAS and PARCC scores similarly predict which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — a broader claim this one bears on

@@ -45,7 +45,7 @@ Personnel-data analysis of employment trajectories found "similar rates of trans
 ## Related Claims
 - [Merit award winners were nearly three times as likely to leave their school the following year (16.9% vs 5.9%), mostly leaving the district](merit-award-winners-increased-principal-exit.md) — related
 - [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](residency-leaky-pipeline-limited-roi.md) — related
-- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
+- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](residency-graduates-higher-retention.md) — related
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - Fund-supported principals are younger and have shorter tenure than other CPS principals — related

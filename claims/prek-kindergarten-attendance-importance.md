@@ -44,10 +44,9 @@ The publication's own abstract describes it as a fact sheet for districts and sc
 
 ## Related Claims
 - [The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address](chronic-absenteeism-early-grades-importance-asserted.md) — related
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](early-attendance-preschool-kindergarten-future-success.md) — possibly the same claim (merge candidate)
+- [Regular attendance in preschool and kindergarten is presented as important for future school success](prek-kindergarten-attendance-spells-success.md) — possibly the same claim (merge candidate)
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — a broader claim this one bears on
 - [The article asserts that the Go-Learn-Grow materials can help districts, schools, and early childhood providers improve pre-K and kindergarten attendance](go-learn-grow-materials-support-attendance-improvement.md) — related
-- [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — possibly the same claim (merge candidate)
 - [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](kindergarten-transition-difficulty-academic-risk.md) — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
 - [Chronically absent pre-kindergarten students are more likely to be chronically absent in subsequent grades](prek-chronic-absence-predicts-later-chronic-absence.md) — related

@@ -13,7 +13,7 @@ generated:
 # Frequent, Low-Stakes Quizzes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Frequent, low-stakes quizzes are short assessments administered regularly throughout a course, contributing little or nothing to the final grade. Their primary function is not measurement but learning: each quiz is a [retrieval practice](../principles/active-learning.md) event that strengthens memory and reveals gaps while consequences remain minimal. Quizzes should be short, focused on key concepts, and followed promptly by feedback.
@@ -29,7 +29,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - A bank of short quizzes aligned to key concepts, not trivia or surface details
 - A fast feedback loop: automated grading, answer keys, or peer review ([Assess Performance](../elements/assess-performance.md))
 - Low grade weight (typically ≤5–10% total) so the stakes stay genuinely low
-- Cumulative design — later quizzes should revisit earlier material, converting quizzing into [spaced retrieval](../claims/distributed-practice-improves-retention.md) [+S]
+- Cumulative design — later quizzes should revisit earlier material, converting quizzing into [spaced retrieval](../claims/spaced-repetition-improves-retention.md) [+S]
 - Questions that require actual retrieval (short answer, application), not recognition of just-seen material
 - Immediate or rapid feedback so errors are corrected before they consolidate
 - Low or zero grade weight, so the cost of being wrong is small
@@ -148,14 +148,14 @@ Frequent low stakes testing embeds short, frequent quizzes or retrieval prompts 
 
 ## Design Implications
 
-Retrieval practice produces durable retention gains substantially larger than restudying the same material, an effect replicated across lab and classroom settings [Retrieval practice improves long-term retention more than restudying.](../claims/distributed-practice-improves-retention.md) [+S]. The "low stakes" condition matters: when tests carry heavy consequences, anxiety and surface strategies can displace the learning benefit [~M], and frequent high-stakes grading shifts attention from learning to performance. Feedback after retrieval is what converts errors into corrections; a quiz without feedback risks reinforcing misconceptions [~S]. Frequent quizzing also functions as formative assessment, letting instructors adjust instruction based on what the data show [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
+Retrieval practice produces durable retention gains substantially larger than restudying the same material, an effect replicated across lab and classroom settings [Retrieval practice improves long-term retention more than restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. The "low stakes" condition matters: when tests carry heavy consequences, anxiety and surface strategies can displace the learning benefit [~M], and frequent high-stakes grading shifts attention from learning to performance. Feedback after retrieval is what converts errors into corrections; a quiz without feedback risks reinforcing misconceptions [~S]. Frequent quizzing also functions as formative assessment, letting instructors adjust instruction based on what the data show [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 
 ### Context
 #### Requirements
 - Questions that require actual retrieval (short answer, application), not recognition of just-seen material
 - Immediate or rapid feedback so errors are corrected before they consolidate
 - Low or zero grade weight, so the cost of being wrong is small
-- Spacing: quizzes should revisit material across sessions, not test it once [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+- Spacing: quizzes should revisit material across sessions, not test it once [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 - Questions that require genuine retrieval (short answer, free recall) rather than recognition or rereading
 - Low or zero grade consequences, clearly communicated to learners
 - Feedback delivered promptly after the attempt, so errors are corrected before they consolidate
@@ -182,7 +182,7 @@ Retrieval practice produces durable retention gains substantially larger than re
 - **Cumulative quizzing:** each quiz includes items from earlier units, converting quizzing into spaced review
 
 ### Target Learners
-- All learners benefit, but gains are largest for learners who would otherwise reread or cram [Retrieval practice improves long-term retention more than restudying.](../claims/distributed-practice-improves-retention.md) [+S]
+- All learners benefit, but gains are largest for learners who would otherwise reread or cram [Retrieval practice improves long-term retention more than restudying.](../claims/spaced-repetition-improves-retention.md) [+S]
 - Anxious learners benefit disproportionately from the low-stakes framing, which normalizes error as part of learning [~M]
 - Learners with weak metacognitive skills gain from the diagnostic signal — quizzes expose illusions of knowing that fluent rereading creates [+M]
 - Learners prone to illusions of knowing — fluency from rereading is mistaken for mastery; quizzing calibrates their self-assessment
@@ -198,7 +198,7 @@ Retrieval practice produces durable retention gains substantially larger than re
 
 ### Instructions
 1. Identify the core knowledge learners must retain, and write short retrieval questions for it — application or short-answer formats over multiple choice where feasible
-2. Schedule quizzes frequently (every class or week) and space coverage of each topic across multiple quizzes [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+2. Schedule quizzes frequently (every class or week) and space coverage of each topic across multiple quizzes [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 3. Keep stakes minimal — completion credit, dropped lowest scores, or no grade at all
 4. Follow every quiz with immediate feedback and brief re-teaching of missed items, treating the quiz as [Assessment](../elements/assessment.md) for learning
 5. Use results to adjust instruction, and periodically return to material learners got right to maintain retention

@@ -45,8 +45,7 @@ Correlations (rho) of conditional Z-scores of school-level gains, produced via c
 ## Related Claims
 - [Ignoring summer loss can impact which schools are identified as low performers under federal accountability](ignoring-summer-loss-impacts-low-performer-identification.md) — a broader claim this one bears on
 - [Achievement of the lowest-growth schools varies dramatically, and fall achievement accounts for about 80% of spring achievement versus 14% for growth](low-growth-schools-achievement-varies-growth-achievement-correlation.md) — related
-- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](course-specific-term-score-correlations-above-090.md) — related
-- [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](true-score-correlations-above-090.md) — related
+- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](true-score-correlations-above-090.md) — related
 - [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related
 - [Cross-term Foundational Skills scores were moderately correlated, with correlations ranging from 0.48 to 0.82 depending on domain and grade](foundational-skills-cross-term-moderate-correlations.md) — related
 - [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related

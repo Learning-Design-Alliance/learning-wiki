@@ -13,7 +13,7 @@ generated:
 # Support Early Language Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size
 
 ## Description
 Language develops fastest where children have real reason to communicate, hear varied language, and receive immediate, responsive feedback from a communication partner. A widely cited early study (Hart & Risley, 1995) framed this in terms of a large raw "word gap" between children from different socioeconomic backgrounds; more recent work qualifies that finding substantially — later replications suggest the gap in total words heard is considerably smaller than originally reported, and part of the original gap likely reflected a mismatch between the researchers' expectations and the actual (but different) linguistic practices of the homes studied, rather than a simple deficit. More recent research (MIT McGovern Institute) finds that **conversational turns** — the back-and-forth of a real exchange — predict language-relevant brain development (specifically in Broca's area) better than raw word count or socioeconomic status alone. The practical implication is the same either way: responsive, reciprocal interaction, not sheer quantity of words a child overhears, is what drives development.
@@ -50,7 +50,7 @@ Language develops fastest where children have real reason to communicate, hear v
 ## Claims
 
 - [Conversational turns predict language development better than word count alone](../claims/conversational-turns-predict-language-development.md) [+M]
-- [Back-and-forth conversational turns with adults are more critical to children's language development and brain physiology than sheer quantity of words heard](../claims/conversational-turns-drive-language-development.md) [+W]
+- [Back-and-forth conversational turns with adults are more critical to children's language development and brain physiology than sheer quantity of words heard](../claims/conversational-turns-predict-language-development.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — recasting and expansion are a form of scaffolding applied specifically to grammar

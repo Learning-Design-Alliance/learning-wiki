@@ -42,4 +42,4 @@ The report's narrative synthesis, citing Goupil & Proust and Csikszentmihalyi, s
 
 ## Related Claims
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
-- [Data in education often fails to move educators and policymakers or overwhelms them with extraneous information](data-often-leaves-educators-unmoved.md) — related
+- [Data in education often fails to move educators and policymakers or overwhelms them with extraneous information](data-often-fails-to-drive-education-decisions.md) — related

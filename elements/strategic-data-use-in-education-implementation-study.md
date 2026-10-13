@@ -17,7 +17,7 @@ sources:
 # Mathematica implementation study of Strategic Data Use in Education (2011–2015), prepared for the Gates Foundation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 design), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q1` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 An implementation study, titled on the page under the associated project "Strategic Data Use in Education," with a stated time frame of 2011–2015 and prepared for the Bill & Melinda Gates Foundation. The article states "The Bill & Melinda Gates Foundation contracted with Mathematica to conduct an implementation study of the Strategic Data Project (SDP) and Education Pioneers (EP) programs." The Year 1 report is one output of this multi-year study, covering the 2012–2013 period when partner agencies began working with the programs.
@@ -38,7 +38,7 @@ An implementation study, titled on the page under the associated project "Strate
 
 ## Claims
 
-- [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](../claims/sdp-ep-staff-placement-capacity-theory-of-action.md) [+W]
+- [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](../claims/sdp-ep-year1-agencies-began-partnership.md) [+W]
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
 

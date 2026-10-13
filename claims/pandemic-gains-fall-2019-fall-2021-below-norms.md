@@ -55,7 +55,7 @@ The brief's stated analysis compares gains across fall 2019 to fall 2021 with pr
 - [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
 - [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — related
 - [Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains](covid-closures-projected-reading-gains-63-68-percent.md) — related
-- [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](covid-projections-math-37-50-percent-gains.md) — a narrower finding that bears on this claim
+- [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](covid-closures-projected-math-gains-37-50-percent.md) — a narrower finding that bears on this claim
 - [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
 - [The 2021-22 COVID learning study investigated fall 2021 achievement versus pre-pandemic fall 2019 levels and fall 2019 to fall 2021 gains versus normative growth expectations](fall-2021-achievement-compared-to-fall-2019-pre-pandemic.md) — possibly the same claim (merge candidate)
 - [The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery](nwea-visualization-state-level-covid-insights.md) — related

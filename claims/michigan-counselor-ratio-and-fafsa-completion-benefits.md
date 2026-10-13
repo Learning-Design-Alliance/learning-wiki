@@ -47,5 +47,4 @@ The report cites research that lower student-to-counselor ratios are associated 
 - [FAFSA completion is associated with higher college enrollment, with the strongest association for students in the lowest socioeconomic quintile](fafsa-completion-associated-higher-college-enrollment.md) — related
 - [School staff experienced universal FAFSA policies as unfunded mandates that increased counselor workload without added staffing or training](fafsa-mandates-experienced-as-unfunded.md) — related
 - [National average school support-staff ratios fall far below recommended levels for psychologists, counselors, and social workers](support-staff-ratios-below-recommended.md) — a broader claim this one bears on
-- [Chicago students accepted to a four-year college who completed a FAFSA were far more likely to enroll than accepted students who did not file](fafsa-completion-associated-with-enrollment-chicago.md) — related
-- [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related
+- [Chicago students accepted to a four-year college who completed a FAFSA were far more likely to enroll than accepted students who did not file](fafsa-completion-predicts-four-year-enrollment.md) — related

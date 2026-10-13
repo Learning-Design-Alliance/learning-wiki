@@ -18,7 +18,7 @@ sources:
 # Just Right Reader Take-Everywhere Literacy Packs
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size
 
 ## Description
 A Just Right Reader take-home literacy package that provides skill-leveled decodable books, lesson plans, multilingual instructional videos, and writing activities for students to practice foundational reading skills.

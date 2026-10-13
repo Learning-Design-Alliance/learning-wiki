@@ -63,4 +63,3 @@ Average absolute SHAP values from the proxy XGBoost models for GPT models on ASA
 
 ## Related Claims
 - [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](llm-feedback-sentiment-tracks-scores.md) — related
-- [SHAP analysis shows praise mentions raise LLM-assigned scores while criticism mentions lower them](shap-praise-raises-criticism-lowers-llm-scores.md) — related

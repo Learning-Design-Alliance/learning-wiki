@@ -3,6 +3,7 @@ type: claim
 title: Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations
 description: Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations
 id: disengagement-material-individual-summative-scores-minor-aggregations
+aliases: [disengagement-material-individual-scores-minor-aggregations]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: associational
     rigour: "?"
+  - id: steven-wise-2021
+    resource: "https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/"
+    title: "Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im. (2021). The impact of disengaged test taking on a state's accountability test results. Educational Assessment, 26(3), 163-174. https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/"
+    author: Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
+
 `q2 i?` On a large-scale state summative assessment, disengagement has a material impact on individual test scores, while its impact on score aggregations may be relatively minor. [→ Wise 2020](#wise-2020)
+
+`q2 i?` Disengagement materially affects individual state summative test scores while its impact on score aggregations may be relatively minor. [→ Steven Wise 2021](#steven-wise-2021)
 
 ## Evidence
 
@@ -39,13 +51,24 @@ The page's abstract reports a study of test-taking engagement on a large-scale s
 
 > "Overall, results of this study indicate that disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor."
 
+### Steven Wise 2021
+
+Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im. (2021). The impact of disengaged test taking on a state's accountability test results. Educational Assessment, 26(3), 163-174. https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/
+
+`q2 · i?` · `associational · r2`
+
+Overall conclusion of the study of the Spring 2019 state summative assessment: disengagement has "a material impact on individual state summative test scores" while aggregation-level impact "may be relatively minor". No effect sizes are printed in the abstract.
+
+> "Overall, results of this study indicate that disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Disengaged test taking in international assessment programs threatens the validity of inferences about a country's educational attainment](disengaged-test-taking-invalidates-country-level-attainment-inferences.md) — related
 - [Test-taking disengagement distorts both individual and aggregated test scores](disengagement-distorts-individual-and-aggregated-scores.md) — reports the opposite
-- [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](disengagement-material-individual-scores-minor-aggregations.md) — possibly the same claim (merge candidate)
 - [Disengagement had only minimal impact on school mean performance, proficiency rates, and relative ranking on the state accountability test](disengagement-minimal-impact-school-aggregations.md) — a narrower finding that bears on this claim
 - [Two decades of research have produced advances in both the measurement of test-taking disengagement and understanding of its distortive impact on individual and aggregated scores](disengagement-research-advances-measurement-and-impact.md) — a broader claim this one bears on
 - [Disengagement rates on the state summative test varied materially across gender, ethnicity, IEP status, LEP status, FRL status, and disability status](disengagement-varies-student-subgroups-state-test.md) — related
@@ -56,7 +79,7 @@ The page's abstract reports a study of test-taking engagement on a large-scale s
 - [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — related
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
 - [Rapid-guessing behavior varies by item and is significantly related to item length, item position, and presence of ancillary reading material](rapid-guessing-item-length-position-ancillary-material.md) — related
-- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-negatively-distorts-scores.md) — related
+- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related

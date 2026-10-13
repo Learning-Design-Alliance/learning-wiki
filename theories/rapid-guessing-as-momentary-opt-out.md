@@ -16,7 +16,7 @@ sources:
 # Rapid guessing as a momentary decision by the test taker to opt out of being measured
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies (2 theoretical, 1 review), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Wise conceptualizes a rapid guess not as a low-quality attempt at the item but as a behavioral choice: "a rapid guess to an item represents a choice by the test taker to momentarily opt out of being measured." On this account, the behavior does not reflect the test taker's knowledge or skill, so responses produced under rapid guessing carry no measurement information about achievement. The framework underpins the article's arguments about identification methods, interpretation, and scoring.
@@ -38,7 +38,7 @@ Wise conceptualizes a rapid guess not as a low-quality attempt at the item but a
 ### Claims
 
 - [Rapid Guessing Indicates Disengaged Test Taking](../claims/rapid-guessing-indicates-disengaged-test-taking.md) [+M]
-- [Rapid Guessing Negatively Distorts Scores](../claims/rapid-guessing-negatively-distorts-scores.md) [+M]
+- [Rapid Guessing Negatively Distorts Scores](../claims/rapid-guessing-distorts-test-scores-and-measurement.md) [+M]
 - [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](../claims/rapid-guessing-identification-and-context.md) [~W]
 - [Test takers generally disengage during only a portion of their items, and these disengaged responses reflect a momentary cessation of measurement](../claims/disengagement-portion-of-items-momentary-cessation.md) [+W]
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](../claims/rapid-guessing-construct-irrelevant-response-process.md) [+W]

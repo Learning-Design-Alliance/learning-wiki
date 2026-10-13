@@ -17,7 +17,7 @@ sources:
 # NWEA research brief on rapid guessing and test disengagement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (1 causal, 1 associational, 1 design, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 6 studies (3 theoretical, 1 causal, 1 associational, 1 design), `q1`–`q2` · 0 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 A 2019 NWEA Research brief by Steven Wise and Megan Kuhfeld titled "What happens when test takers disengage? Understanding and addressing rapid guessing." Its stated purpose is that "Research provides insight into test disengagement and how disengagement should be managed in scoring." It is tagged under the topics Measurement & scaling and School & test engagement, and is associated with the cessation-of-measurement research outputs.
@@ -44,7 +44,7 @@ A 2019 NWEA Research brief by Steven Wise and Megan Kuhfeld titled "What happens
 - [Rapid guessing differs from solution behavior as a form of test-taker disengagement](../claims/rapid-guessing-differs-from-solution-behavior.md) [+W]
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](../claims/rapid-guessing-construct-irrelevant-response-process.md) [+W]
 - [Proctor notification when students disengage makes a significant impact on student test engagement](../claims/proctor-notification-improves-test-engagement.md) [+W]
-- [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](../claims/rapid-guesses-in-scoring-distort-scores.md) [+W]
+- [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](../claims/rapid-guessing-distorts-test-scores-and-measurement.md) [+W]
 - [Effort-moderated scoring estimates disengaged test takers' performance by excluding disengaged responses and scoring the remaining responses](../claims/em-scoring-excludes-disengaged-responses.md) [+W]
 
 ## Related Elements

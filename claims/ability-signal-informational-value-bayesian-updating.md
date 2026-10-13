@@ -45,9 +45,7 @@ Survey-based analysis of students in the Oakland Unified School District. The da
 ## Related Claims
 - [A personalized ability signal increased the probability of participating in AP classes by 49 percentage points among surveyed students](ability-signal-increases-ap-participation-49-points.md) — related
 - [Students who received the ability signal enrolled in and passed about one more AP course the following year](ability-signal-one-more-ap-course.md) — related
-- [The ability signal made students substantially more likely to take an AP exam and to pass more exams by year's end](ability-signal-increases-ap-exam-taking.md) — related
-- [Students who received a personalized message about their potential to succeed in AP coursework were 49 percentage points more likely to participate in AP classes than peers who did not receive the message](personalized-ap-message-increases-participation-49-points.md) — related
-- [Students who received the personalized AP message were more likely to take an AP exam and passed a higher number of exams, making them eligible for college credit](personalized-ap-message-increases-exam-taking-and-passing.md) — related
+- [The ability signal made students substantially more likely to take an AP exam and to pass more exams by year's end](personalized-ap-message-increases-exam-taking-and-passing.md) — related
 - [Small changes in the way information is presented can have a large impact on a person's decision to participate in a program](small-presentation-changes-large-participation-impact.md) — a broader claim this one bears on
 - [Students who were not surveyed for the study did not respond to the ability signal](non-surveyed-students-did-not-respond-to-signal.md) — related
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related

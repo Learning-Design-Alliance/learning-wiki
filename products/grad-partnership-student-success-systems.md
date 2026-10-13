@@ -18,7 +18,7 @@ sources:
 # GRAD Partnership Student Success Systems
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A framework developed by the GRAD Partnership for organizing secondary-school supports around relationships, holistic data, strategic improvement actions, and student-centered mindsets.
