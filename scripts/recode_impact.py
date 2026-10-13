@@ -28,6 +28,19 @@ The subclaims that point at a recoded entry take the same `i`, since an entry's
 codes and its subclaims' must agree. Decisions go to `--out` before anything is
 written, and `--from` re-applies a run without paying for it again.
 
+`--fill` runs the other direction (2026-10-13): entries coded `i?` whose study's full text is
+cached, where the paper may print an effect size the extraction missed (14,843 of them). The same
+verbatim and bin rules apply, and a second model (`--confirm-model`) must return the same kind and
+value on its own, because a quote can be genuine and belong to another finding. An entry is
+changed only when both agree on a printed statistic; every other answer leaves it as it was.
+Measured before a full run (2026-10-13): 3 of 150 random entries and 2 of 150 causal,
+quant-synthesis or associational ones gained a confirmed statistic ($0.40 a sample). In 133 of the
+first 150 the paper prints no effect size for that finding (means, F tests, p values), so the gap
+is mostly the literature's, and a full run (~7,900 entries, ~$21) was judged not worth it. The
+second model rejected real mistakes in those samples: a baseline-equivalence g taken for the
+outcome, and one end of a printed range taken as the value.
+
+    python3 scripts/recode_impact.py --fill --limit 200 --check   # a sample, read before applying
     python3 scripts/recode_impact.py --check                 # what would change, and the cost so far
     python3 scripts/recode_impact.py --apply
     python3 scripts/recode_impact.py --apply --from eval/runs/impact-recode/run.ndjson
@@ -139,13 +152,50 @@ def targets() -> list:
     return out
 
 
-def ask(t: dict, model: str, key: str) -> dict:
+FILL_SYSTEM = SYSTEM.replace(
+    "The entry codes an effect size (i1 small, i2 medium, i3 large) but prints no statistic.",
+    "The entry records no effect size (i?). The study may print one the entry missed.")
+
+
+def fill_targets() -> list:
+    """(claim, anchor) for each entry coded i? whose study's full text is cached."""
+    pages = clb.claim_pages()
+    src, al = clb.sources_of(), clb.aliases(pages)
+    out = []
+    for slug, path in pages.items():
+        arts = list(src.get(slug, []))
+        for a in al.get(slug, []):
+            arts += [x for x in src.get(a, []) if x not in arts]
+        if not arts:
+            continue
+        title, units = clb.units(path)
+        raw = path.read_text(encoding="utf-8")
+        for anchor, block, subs in units:
+            m = CODES_LINE.search(block)
+            if not m or not re.search(r"\bi\?", m.group(0)):
+                continue
+            # Only kinds that report effect sizes: in a 150-entry sample 133 printed none, most of them
+            # qualitative, descriptive or design entries. units() leaves the kind span out of the block,
+            # so it is read from the page's own codes line.
+            head = block.split("\n", 1)[0]
+            at = raw.find(head + "\n")
+            line = re.search(r"^`q[^\n]*$", raw[at:at + 3000], re.M) if at >= 0 else None
+            if not line or not re.search(r"`(?:causal|quant-synthesis|associational) · r", line.group(0)):
+                continue
+            hit = clb.cached_article(block, arts)
+            if hit:
+                out.append({"claim": slug, "entry": anchor, "title": title, "block": block, "subs": subs,
+                            "basis": "full text", "source": hit[0], "text": hit[1]})
+    return out
+
+
+def ask(t: dict, model: str, key: str, system: str = None) -> dict:
     from scripts.eval import openrouter_client as oc
     from scripts.eval.jsonutil import extract_json
     text = t["text"] if len(t["text"]) <= MAX_TEXT else t["text"][:MAX_TEXT] + "\n[TRUNCATED]"
     prompt = (f"## The study ({t['basis']})\n{text}\n\n## The wiki claim\n{t['title']}\n\n"
               f"## The evidence entry\n{t['block']}\n\nSubclaims resting on it:\n" + "\n".join(t["subs"]))
-    gen = oc.generate(model, SYSTEM, prompt, key, max_tokens=3000)
+    gen = oc.generate(model, system or SYSTEM, prompt, key, max_tokens=3000)
     data = extract_json(gen.raw_text)
     return {"answer": data if isinstance(data, dict) else None, "cost_usd": gen.cost_usd}
 
@@ -239,7 +289,13 @@ def main() -> None:
     ap.add_argument("--redecide", action="store_true", help="with --from, re-apply the rules to the stored answers")
     ap.add_argument("--limit", type=int, help="only the first N entries (a sample to read first)")
     ap.add_argument("--seed", type=int, default=0, help="with --limit, which sample")
+    ap.add_argument("--fill", action="store_true",
+                    help="i? entries with cached full text: fill an effect size both models confirm")
+    ap.add_argument("--confirm-model", default="z-ai/glm-5.3-flash",
+                    help="with --fill, the second model that must return the same statistic")
     args = ap.parse_args()
+    if args.fill:
+        return fill(args)
 
     if args.from_file:
         decisions = [json.loads(l) for l in Path(args.from_file).read_text(encoding="utf-8").splitlines() if l.strip()]
@@ -295,6 +351,60 @@ def main() -> None:
     if args.apply:
         written = sum(apply_one(d["claim"], d["entry"], d) for d in ok)
         print(f"wrote {written} of {len(ok)}")
+
+
+def fill(args) -> None:
+    """The --fill direction: never writes an i?, only a statistic two models agree on."""
+    out = args.out if args.out != OUT else OUT.with_name("fill.ndjson")
+    decisions = [json.loads(l) for l in out.read_text(encoding="utf-8").splitlines() if l.strip()] \
+        if out.exists() else []
+    if not args.from_file:
+        key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
+        done = {(d["claim"], d["entry"]) for d in decisions}
+        ts = [t for t in fill_targets() if (t["claim"], t["entry"]) not in done]
+        if args.limit:
+            import random
+            random.Random(args.seed).shuffle(ts)
+            ts = ts[:args.limit]
+        print(f"{len(ts)} i? entries with full text to check ({len(done)} already decided)", flush=True)
+
+        def work(t):
+            try:
+                first = ask(t, args.model, key, FILL_SYSTEM)
+                dec = decide(t, first["answer"])
+                cost = first["cost_usd"] or 0
+                if dec["i"] is not None:
+                    second = ask(t, args.confirm_model, key, FILL_SYSTEM)
+                    cost += second["cost_usd"] or 0
+                    other = decide(t, second["answer"])
+                    same = (other["i"] is not None and other.get("kind") == dec["kind"]
+                            and abs(float(other["value"]) - float(dec["value"])) < 1e-9)
+                    if not same:
+                        dec = {"i": None, "why": "the second model did not return the same statistic",
+                               "rejected": first["answer"], "second": second["answer"]}
+                return {"claim": t["claim"], "entry": t["entry"], "source": t["source"],
+                        "answer": first["answer"], "cost_usd": cost, **dec}
+            except Exception as e:  # noqa: BLE001 - a failed call decides nothing
+                return {"claim": t["claim"], "entry": t["entry"], "error": f"{type(e).__name__}: {e}"[:200]}
+
+        out.parent.mkdir(parents=True, exist_ok=True)
+        with out.open("a", encoding="utf-8") as fh, concurrent.futures.ThreadPoolExecutor(args.concurrency) as ex:
+            futs = [ex.submit(work, t) for t in ts]
+            for n, fut in enumerate(concurrent.futures.as_completed(futs), 1):
+                dec = fut.result()
+                fh.write(json.dumps(dec, ensure_ascii=False) + "\n")
+                fh.flush()
+                decisions.append(dec)
+                if n % 500 == 0:
+                    print(n, flush=True)
+    found = [d for d in decisions if "error" not in d and d.get("i") is not None]
+    print(f"{len(decisions)} decided; {len(found)} with a printed effect size both models confirmed; "
+          f"{sum(1 for d in decisions if 'error' in d)} errors; cost ${sum(d.get('cost_usd') or 0 for d in decisions):.2f}")
+    for k in (3, 2, 1, 0):
+        print(f"  i{k}: {sum(1 for d in found if d['i'] == k)}")
+    if args.apply:
+        written = sum(apply_one(d["claim"], d["entry"], d) for d in found)
+        print(f"wrote {written} of {len(found)}")
 
 
 if __name__ == "__main__":
