@@ -65,10 +65,10 @@ Comparison of publicly reported proficiency trends with the report's own student
 - [Elementary/middle-grade math scores improved incrementally across all three eras while reading scores remained fairly flat for two decades](cps-math-incremental-reading-flat.md) — related
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related
 - [Percent meeting standards is an imprecise metric whose cut-score concentration produced the Era 2 misconception that Chicago taught basic skills better than high-level skills](percent-meeting-standards-imprecise-metric.md) — a narrower finding that bears on this claim
-- Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014 — reports the opposite
-- Changes in student backgrounds and incoming achievement explain graduation improvements before 2006 but not after, because entering test scores stopped improving and declined — related
-- CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014 — related
-- Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior — reports the opposite
+- [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — reports the opposite
+- [Changes in student backgrounds and incoming achievement explain graduation improvements before 2006 but not after, because entering test scores stopped improving and declined](incoming-achievement-explains-gains-only-before-2006.md) — related
+- [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
+- [Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior](ninth-grade-gpa-increase-with-achievement-trends.md) — reports the opposite
 - [Profile trends labeled up or down are determined by statistical criteria, so those labels denote statistically significant trends](trend-labels-statistically-significant-criteria.md) — related
-- Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution — related
-- Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains — related
+- [Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution](variability-driven-by-bottom-of-distribution.md) — related
+- [Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains](cps-graduation-gains-with-achievement-gains.md) — related

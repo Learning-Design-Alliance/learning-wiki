@@ -45,4 +45,4 @@ Linking the 2014-15 cohort's placement data to first-year REACH evaluation ratin
 ## Related Claims
 - [Student teachers' self-assessed preparedness did not predict first-year effectiveness (r = 0.03), while mentor teachers' ratings of student teachers did (r = 0.24)](cps-early-indicators-mentor-ratings-predict-first-year-effectiveness.md) — related
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
-- Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS — related
+- [Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS](cps-student-teachers-hired-in-placement-school-higher-first-year-ratings.md) — related

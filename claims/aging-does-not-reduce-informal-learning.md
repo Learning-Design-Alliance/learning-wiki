@@ -44,9 +44,9 @@ NALL 1998 survey data by age group show course participation falling from 67% (a
 
 ## Related Claims
 - [Recognition of prior informal learning (PLAR) would substantially narrow the course-participation gap between occupational classes](plar-narrow-participation-gap.md) — related
-- Employed Canadian adults report about 6 hours per week of employment-related informal learning — related
+- [Employed Canadian adults report about 6 hours per week of employment-related informal learning](employment-related-informal-learning-hours.md) — related
 - [Over 95% of Canadian adults are involved in some form of informal learning activities they identify as significant](over-95-percent-canadian-adults-informal-learning.md) — related
 - [Informal learning participation is unrelated to formal schooling level, unlike course participation](schooling-unrelated-to-informal-learning.md) — related
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — related
 - [No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children](no-evidence-older-adults-cannot-learn-language.md) — related
-- California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older — related
+- [California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older](aging-teacher-workforce-retirement-wave.md) — related

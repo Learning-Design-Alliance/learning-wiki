@@ -45,5 +45,6 @@ Fisher-Freeman-Halton exact test (Monte Carlo, B = 20,000) across the review's c
 ## Related Claims
 
 - [Educational level is significantly associated with the presence of policy implications](educational-level-associated-policy-implications.md) — related
+- [Existing AI × SEL policy claims concentrate at macro and meso levels, with almost none at the classroom level](policy-claims-macro-meso-dominance.md)
 - [Nearly three-quarters of AI × SEL studies articulate no substantive policy implications](policy-deficit-ai-sel-studies-no-implications.md)
 - [Sample size is not associated with the presence of explicit policy implications](sample-size-not-associated-policy-implications.md)

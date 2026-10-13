@@ -43,4 +43,4 @@ Qualitative case study based on semistructured interviews and document review in
 
 
 ## Related Claims
-- One Ohio district reported a large jump in early literacy proficiency from 76.6 percent in 2021/22 to 93.2 percent in 2023/24 — related
+- [One Ohio district reported a large jump in early literacy proficiency from 76.6 percent in 2021/22 to 93.2 percent in 2023/24](ohio-district-early-literacy-proficiency-jump.md) — related

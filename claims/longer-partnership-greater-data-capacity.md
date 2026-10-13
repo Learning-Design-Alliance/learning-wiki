@@ -43,7 +43,7 @@ Descriptive case-study finding comparing longer-tenured partner agencies with ne
 
 
 ## Related Claims
-- Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training — related
+- [Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training](agencies-built-linked-data-systems-and-analytic-capacity.md) — related
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](sdp-ep-year1-agencies-began-partnership.md) — related
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related

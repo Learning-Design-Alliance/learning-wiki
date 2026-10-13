@@ -48,7 +48,7 @@ Descriptive before-and-after evidence from the case study's culture section: pre
 - [Schurz High School's Cultivate-driven feedback-for-growth improvement work coincided with improved student experiences and out-of-school suspensions dropping to one-half of the prior year's number](schurz-cultivate-improvement-outcomes.md) — related
 - [A Philadelphia reform prohibiting out-of-school suspension for classroom disorder decreased classroom disorder suspensions among students suspended before the reform](philadelphia-classroom-disorder-oss-ban-reduced-suspensions.md) — related
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related
-- Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers — related
+- [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](perry-street-teacher-retention-talent-reforms.md) — related
 - [Perry Street moved from Tier III (lowest performing) to Tier I (highest performing) on DC's Performance Management Framework over five years of turnaround](perry-street-tier-iii-to-tier-i-turnaround.md) — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — a broader claim this one bears on
 - [An empathy-enhancing intervention for teachers reduced suspension rates, especially for students of color](empathic-mindset-teacher-intervention-lowers-suspensions.md) — related

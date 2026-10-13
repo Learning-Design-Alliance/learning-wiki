@@ -43,4 +43,4 @@ The guidance asserts, without presenting underlying data, that recruiting and hi
 
 
 ## Related Claims
-- Boston Public Schools' district-wide full open hiring policy was followed by more than 100 additional Black and Hispanic teachers hired over four years, per an Annenberg Institute analysis — related
+- [Boston Public Schools' district-wide full open hiring policy was followed by more than 100 additional Black and Hispanic teachers hired over four years, per an Annenberg Institute analysis](open-hiring-policy-increased-black-hispanic-hires-boston.md) — related

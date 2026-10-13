@@ -59,4 +59,4 @@ Mathematica's random assignment study of alternative routes to teacher certifica
 - [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on
 - [Students of ABCTE teachers scored lower than students of non-ABCTE teachers on the Florida state math test](abcte-florida-lower-math-scores.md) — related
 - [Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida](abcte-florida-no-reading-gain-difference.md) — a narrower finding that bears on this claim
-- Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States — related
+- [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related

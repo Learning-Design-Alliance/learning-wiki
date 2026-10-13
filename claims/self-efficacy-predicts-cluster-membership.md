@@ -46,7 +46,7 @@ Binary logistic regression on the survey of 236 participants with GSE score pred
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly — related
+- [Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly](computing-students-high-objective-cybersecurity-knowledge.md) — related
 - [Security intentions and objective knowledge correlate with preparedness, and self-efficacy correlates with confidence](scales-correlate-with-attitude-factors.md) — related
 - [Two attitude clusters differ significantly on preparedness, confidence, and interest (p<.0001), with Cluster 1 lower on Pew and GSE but not SeBIS, and reporting more word-of-mouth learning](two-attitude-clusters-differ-preparedness-confidence.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related

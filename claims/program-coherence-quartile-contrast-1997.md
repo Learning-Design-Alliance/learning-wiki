@@ -43,6 +43,6 @@ Descriptive quartile comparison from the Program Coherence scale summary, which 
 
 
 ## Related Claims
-- In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed — related
+- [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related
 - [Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)](joint-problem-solving-quartile-contrast-1997.md) — related
 - [More than half of teachers in bottom-quartile schools describe little or no program coherence](program-coherence-bottom-quartile-little-or-none.md) — possibly the same claim (merge candidate)

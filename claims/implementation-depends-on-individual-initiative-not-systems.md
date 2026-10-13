@@ -43,11 +43,11 @@ Survey of 120 complete responses distributed via AAC&U's member directory to fac
 
 
 ## Related Claims
-- Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
 - [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md) — related
-- Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it — related
+- [Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it](professional-development-individual-initiative-pattern.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
-- Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines — related
-- Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use — related
+- [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — related
+- [Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use](descriptive-ai-use-patterns-cottrell-faculty.md) — related
 - [Successful AI integration in Arab EL2 classrooms consistently depends on teacher mediation, institutional support, and responsible-use practices](teacher-mediation-institutional-support-ai-integration.md) — related

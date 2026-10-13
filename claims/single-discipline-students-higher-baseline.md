@@ -50,3 +50,4 @@ Descriptive comparison of fall 2023 RIT scores by course type, shown in Figure 4
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
+- [Access to a complete single-discipline course sequence is rare in NWEA partner middle schools](complete-discipline-specific-sequence-anomaly.md)

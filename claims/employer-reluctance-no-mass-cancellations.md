@@ -44,4 +44,4 @@ Finding from interviews with state administrators in the eight-state study. Some
 
 ## Related Claims
 - [Apprenticeship expansion into nontraditional industries such as healthcare and education accelerated during the pandemic](nontraditional-industry-expansion-accelerated.md) — related
-- State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic — related
+- [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related

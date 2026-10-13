@@ -46,6 +46,6 @@ Findings from the educator interviews on workload. A district staff member said 
 - [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](ai-prototyping-accelerates-development-with-feedback-loops.md) — related
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — a narrower finding that bears on this claim
 - [Teachers reported that rubric-aligned AI feedback saved time on repetitive comments, enabling focus on higher-order instruction](teachers-report-time-savings-higher-order-instruction.md) — a narrower finding that bears on this claim
-- Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification — related
+- [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use](teacher-student-relationships-shape-ai-views.md) — related
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — a narrower finding that bears on this claim

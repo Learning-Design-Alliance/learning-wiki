@@ -62,5 +62,5 @@ Same grant-record analysis of the 1995 cycle. The authors report business, labor
 
 
 ## Related Claims
-- Chicago Annenberg Challenge schools enrolled about 220 schools and 42 percent of CPS students, with demographics largely representative of the system — related
-- The Chicago Annenberg Challenge underwent rapid organizational learning, reshaping from a community-organizing collaborative into a formal activist foundation — related
+- [Chicago Annenberg Challenge schools enrolled about 220 schools and 42 percent of CPS students, with demographics largely representative of the system](annenberg-schools-representative-of-cps.md) — related
+- [The Chicago Annenberg Challenge underwent rapid organizational learning, reshaping from a community-organizing collaborative into a formal activist foundation](annenberg-challenge-organizational-learning-foundation-identity.md) — related

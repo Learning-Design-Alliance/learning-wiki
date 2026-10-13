@@ -45,4 +45,4 @@ Regression analysis of staff quality ratings (Table 2) adjusting for machine-gen
 ## Related Claims
 - [Admissions officers can often discriminate AI-written from human-written essays, achieving an AUC of 0.70, well above chance but below commercial detectors](admissions-officers-detect-ai-essays-auc-070.md) — related
 - [Applicants who submitted AI-written essays were admitted at lower rates than comparable non-users, with an estimated penalty of about 1.5 percentage points per AI-written essay](ai-essay-use-penalized-in-admissions.md) — related
-- By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition — related
+- [By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition](majority-applicants-submitted-ai-generated-essays-2025.md) — related

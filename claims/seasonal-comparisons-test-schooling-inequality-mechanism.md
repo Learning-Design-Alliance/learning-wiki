@@ -44,8 +44,8 @@ The abstract describes the study's design: seasonal comparisons on "recent natio
 
 ## Related Claims
 - [Seasonal patterns are discrepant across national data sets](discrepant-seasonal-patterns-national-data-sets.md) — related
-- Schooling does not show a compensatory effect on math skill inequality — a narrower finding that bears on this claim
-- Schooling has a compensatory effect on inequality in reading, language, and science skills — a narrower finding that bears on this claim
+- [Schooling does not show a compensatory effect on math skill inequality](no-compensatory-effect-math-inequality.md) — a narrower finding that bears on this claim
+- [Schooling has a compensatory effect on inequality in reading, language, and science skills](schooling-compensatory-reading-language-science-inequality.md) — a narrower finding that bears on this claim
 - [Prior seasonal studies were limited to social-category skill gaps and early grades](seasonal-studies-limited-categories-early-grades.md) — related
 - [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](remediation-alone-insufficient-summer-learning.md) — related
 - [Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals](educational-innovations-exacerbate-learning-gaps-without-attention.md) — related

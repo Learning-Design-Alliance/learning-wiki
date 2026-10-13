@@ -46,5 +46,5 @@ Mixed-methods synthesis combining longitudinal case studies of 22 schools, surve
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
 - [Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community](instruction-delivery-depends-on-school-context.md) — related
 - [An innovation and improvement space in local school communities brought forward new leaders](local-innovation-space-new-leaders.md) — related
-- High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership — related
+- [High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership](high-school-teachers-less-positive-than-elementary.md) — related
 - [The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis](politics-of-local-control-joined-to-school-change.md) — a broader claim this one bears on

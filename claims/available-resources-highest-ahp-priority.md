@@ -43,7 +43,7 @@ AHP pairwise comparisons by 12 experts (geometric-mean aggregation, group CR 0.0
 
 
 ## Related Claims
-- Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers — related
-- Institutional strategic orientation most strongly influences the other enablers (PageRank 0.2430) — related
+- [Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers](institutional-strategic-orientation-highest-snap-priority.md) — related
+- [Institutional strategic orientation most strongly influences the other enablers (PageRank 0.2430)](institutional-strategic-orientation-pagerank-most-influential.md) — related
 - [Experts' AHP priorities cluster into three groups differing by seniority and LA expertise](expert-priority-clusters-seniority-la-expertise.md) — related
 - [Expert rating consistency passed all AHP thresholds, with the main dimension matrix CR = 0.0307](ahp-consistency-testing-pass-all-matrices.md) — related

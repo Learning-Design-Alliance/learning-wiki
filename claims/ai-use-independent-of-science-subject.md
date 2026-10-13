@@ -43,5 +43,5 @@ Chi-square/Fisher analysis at subject level found one significant association (C
 
 
 ## Related Claims
-- Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted — related
-- In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas — related
+- [Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted](dual-speed-homework-ai-adoption-subjects.md) — related
+- [In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas](ai-use-skews-to-general-dikolan-areas.md) — related

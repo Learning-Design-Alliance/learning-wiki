@@ -43,7 +43,7 @@ Theme 2 of the article's thematic analysis, covering the evolution from single-a
 
 
 ## Related Claims
-- Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI — related
+- [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — a broader claim this one bears on
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related
 - [Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact](structural-mismatch-innovation-evaluation-pace.md) — a broader claim this one bears on

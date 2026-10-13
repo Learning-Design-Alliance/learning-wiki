@@ -54,10 +54,10 @@ Findings from the lottery-based study of 33 charter middle schools across 13 sta
 - [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](kipp-middle-schools-positive-significant-achievement-effects.md) — related
 - [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related
 - [Lottery-based research on schools of choice faces identifiable challenges](lottery-based-research-challenges-schools-of-choice.md) — related
-- Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation — related
-- Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed — related
+- [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related
+- [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
 - [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — related
 - [Lottery-based charter middle schools show no average difference from traditional public schools in student behavior and school progress](charter-middle-schools-no-average-behavior-progress-difference.md) — related
 - [Impacts of charter middle schools on student outcomes varied widely across schools](charter-school-impacts-varied-widely-across-schools.md) — possibly the same claim (merge candidate)
-- More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages — reports the opposite
+- [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — reports the opposite
 - [In the earlier National Evaluation of Charter Middle Schools, admission to about 30 charter middle schools produced no significant average effects on achievement, though some schools improved achievement](charter-middle-schools-no-average-achievement-effect.md) — related

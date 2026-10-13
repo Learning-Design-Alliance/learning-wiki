@@ -43,5 +43,5 @@ Case study interviews at nine institutions using adaptive courseware (e.g., ALEK
 
 
 ## Related Claims
-- Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly — related
+- [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related

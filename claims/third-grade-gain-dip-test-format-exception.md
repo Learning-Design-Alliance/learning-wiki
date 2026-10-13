@@ -45,4 +45,4 @@ Authors' interpretation of the third-grade dip in gains in the Chicago gain comp
 ## Related Claims
 - [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](retention-associated-smaller-gains-than-promotion-chicago.md) — a broader claim this one bears on
 - [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](retained-students-smaller-gains-than-social-promotes.md) — related
-- CPS learning gains were consistently higher in all grades in 1996 than in 1994, but 1999 gains declined slightly relative to 1997 in all grades except third, suggesting productivity gains may have peaked — related
+- [CPS learning gains were consistently higher in all grades in 1996 than in 1994, but 1999 gains declined slightly relative to 1997 in all grades except third, suggesting productivity gains may have peaked](cps-learning-gains-rose-through-1996-may-have-peaked-by-1999.md) — related

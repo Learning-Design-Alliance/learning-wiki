@@ -63,10 +63,10 @@ Value-added scores showed no significant differences by teacher race/ethnicity o
 ## Related Claims
 - [Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations](experience-credentials-teacher-evaluation-scores.md) — related
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related
-- Male teachers score lower than female teachers on both observation and value-added measures — related
+- [Male teachers score lower than female teachers on both observation and value-added measures](male-teachers-lower-evaluation-scores.md) — related
 - [Minority teachers have lower observation scores than white teachers but no significant differences on value added](minority-teachers-lower-observation-no-value-added-difference.md) — possibly the same claim (merge candidate)
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — related
 - [Observation scores have a stronger relationship with school poverty than value-added scores](observation-scores-stronger-school-poverty-relationship-than-value-added.md) — related
-- Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials — related
+- [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
 - [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](ct-pck-group-score-differences.md) — related
 - [Racial disparities in TPA pass rates appear in low-performing programs but not in programs with passing rates above 90%](racial-disparities-vary-with-program-performance.md) — related

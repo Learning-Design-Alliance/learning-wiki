@@ -45,4 +45,4 @@ The Market Overview section reports spending figures: "$145 per K-12 student ver
 ## Related Claims
 - [The report attributes stagnant learning results to program implementation rather than to the ed-tech tools themselves](implementation-not-tools-stagnant-results.md) — related
 - [Per-learner technology spending is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant innovation in the adult market](adult-ed-tech-spending-50-versus-145-k12.md) — possibly the same claim (merge candidate)
-- US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget — related
+- [US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget](adult-ed-market-underserved-and-underdigitized.md) — related

@@ -44,7 +44,7 @@ Authors' interpretive summary of the cross-national comparison between Valparaí
 
 ## Related Claims
 - [Relational trust correlates with school leadership and with collaboration among teachers in both contexts](relational-trust-correlates-leadership-collaboration.md) — a narrower finding that bears on this claim
-- Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis — related
+- [Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis](cps-charter-organizational-capacity-differences.md) — related
 - [School size and student socioeconomic status conditioned trust levels differently in the two contexts](school-size-ses-condition-trust-differently.md) — related
 - [Teacher-parent trust was much lower in Valparaíso than in Illinois](teacher-parent-trust-lower-valparaiso.md) — a narrower finding that bears on this claim
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related

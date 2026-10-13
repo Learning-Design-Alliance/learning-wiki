@@ -43,7 +43,7 @@ Thematic cross-case synthesis of 17 peer-reviewed studies (2022–2025) on teach
 
 
 ## Related Claims
-- Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities — reports the opposite
+- [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — reports the opposite
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
 - [Reviewed studies identify data privacy, algorithmic bias, unequal access, and epistemic trust as central ethical concerns in educational AI](ai-education-ethical-governance-concerns.md) — a broader claim this one bears on
 - [AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps](ai-online-learning-challenges-integrity-equity-privacy-policy.md) — related

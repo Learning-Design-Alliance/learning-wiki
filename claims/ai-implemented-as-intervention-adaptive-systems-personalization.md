@@ -46,7 +46,7 @@ Classification of the 84 studies using the Bond et al. (2024) typology found "AI
 - [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](ai-srl-end-outcomes-academic-performance-most-frequent.md) — related
 - [Over one-third of AI-SRL studies specify no SRL theory; Zimmerman's model is the most frequently applied](ai-srl-studies-lack-srl-theory-zimmerman-most-used.md) — related
 - [Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment](lad-dominant-system-type-lecturer-decision-support.md) — related
-- AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators — related
+- [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
 - [Terminology for personalized learning is used unevenly, with personalized learning, adaptive learning, and intelligent tutoring dominating the 2019–2025 corpus](pl-terminology-unevenly-distributed-review.md) — related

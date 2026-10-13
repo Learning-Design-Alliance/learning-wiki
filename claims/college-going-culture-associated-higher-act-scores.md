@@ -43,6 +43,6 @@ Observational analysis across CPS high schools relating survey-based measures of
 
 
 ## Related Claims
-- Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis — related
+- [Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis](cps-charter-organizational-capacity-differences.md) — related
 - [Test strategies and item practice are not effective mechanisms for raising ACT scores; improvements are smaller the more class time goes to test preparation](test-prep-practice-ineffective-for-act-gains.md) — related
 - [For continuing KIPP students, KIPP high schools have positive impacts on college preparation activities and the likelihood of applying to college](kipp-high-school-continuing-students-college-preparation.md) — related

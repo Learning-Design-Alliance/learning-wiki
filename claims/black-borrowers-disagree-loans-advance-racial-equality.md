@@ -46,4 +46,4 @@ Survey findings reported in Finding 1 and Figure 1 of the study of 1,272 Black b
 - [Most surveyed Black borrowers report labor-market discrimination and believe their credentials must exceed those of non-Black peers](black-borrowers-credential-discrimination-labor-market.md) — related
 - [Most Black borrowers in the study report no positive returns on their student loans and regret taking them out](black-borrowers-regret-loans-no-positive-returns.md) — related
 - [80% of surveyed Black borrowers support government forgiveness of all student debt, more than any other proposed solution](black-borrowers-support-full-debt-cancellation.md) — related
-- Black borrowers, and Black women in particular, are less likely to receive family or financial help with college costs or loan payments — related
+- [Black borrowers, and Black women in particular, are less likely to receive family or financial help with college costs or loan payments](black-women-least-family-help-repaying-loans.md) — related

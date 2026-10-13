@@ -64,8 +64,8 @@ Figure 2 reports the proportion of kindergarten students improving or maintainin
 ## Related Claims
 - [District pre-pandemic performance and pandemic recovery predict kindergarten math more strongly than state-funded PreK4 enrollment, which loses significance once both are controlled](district-performance-stronger-predictor-than-prek4-enrollment.md) — related
 - [Districts in the sample increased PreK4 participation across all three state categories, with substantial within-category variation in enrollment trends](district-prek4-participation-increased-all-categories.md) — related
-- Kindergarten math performance is lower in districts with more schools — related
+- [Kindergarten math performance is lower in districts with more schools](district-size-negative-math-association.md) — related
 - [Low and Growing states have nearly identical average math scale scores, but students in Low states are more likely to improve or maintain grade level (64% vs. 60%)](low-vs-growing-states-grade-level-likelihood.md) — related
 - [No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth](no-significant-district-offerings-math-links.md) — related
-- District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time — related
-- Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life — related
+- [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related
+- [Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life](early-education-investment-returns-two-to-seventeen-dollars.md) — related

@@ -45,5 +45,5 @@ The brief reports this as a suggestion of the AIR/Brookings study, conditioned o
 ## Related Claims
 - [The AIR/Brookings study covered 15,000 students and 300 teachers in three districts over two to three years, with 74 percent Title I schools](air-brookings-study-scope-15000-students.md) — related
 - [Teachers on Multi-Classroom Leader teams produced learning gains equal to top-quartile teachers in math and nearly that in reading](mcl-team-teachers-gains-top-quartile.md) — related
-- By 2017–18, more than 150 schools in nine states implemented Opportunity Culture, reaching over 41,000 students, with over $3 million in additional pay and 97 percent MCL retention support — related
+- [By 2017–18, more than 150 schools in nine states implemented Opportunity Culture, reaching over 41,000 students, with over $3 million in additional pay and 97 percent MCL retention support](oc-scale-2017-18-150-schools.md) — related
 - [In 2015–16, North Carolina Opportunity Culture schools outperformed other North Carolina schools on state accountability growth measures](nc-oc-schools-outperformed-2015-16.md) — related

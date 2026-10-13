@@ -51,7 +51,7 @@ Perception finding from interviews with central office administrators and school
 - [An innovation and improvement space in local school communities brought forward new leaders](local-innovation-space-new-leaders.md) — related
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
-- City leaders showed substantial lack of knowledge of the Chicago Annenberg Challenge, with about half of business and government leaders unable to describe its goals — related
+- [City leaders showed substantial lack of knowledge of the Chicago Annenberg Challenge, with about half of business and government leaders unable to describe its goals](city-leaders-lack-knowledge-annenberg-challenge.md) — related
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
 - [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related

@@ -43,8 +43,8 @@ The report cites a recent external report estimating the graduation rate; it not
 
 
 ## Related Claims
-- Most students experiencing homelessness (78%) live doubled up with other families, a form of homelessness excluded from HUD housing assistance definitions — related
+- [Most students experiencing homelessness (78%) live doubled up with other families, a form of homelessness excluded from HUD housing assistance definitions](doubled-up-majority-homelessness.md) — related
 - [Students experiencing homelessness show substantially lower achievement and graduation than housed peers (reported from a New York City study)](homeless-students-lower-achievement-graduation-nyc.md) — related
 - [Students experiencing homelessness show lower academic proficiency than economically disadvantaged but stably housed peers in reading, mathematics, and science](homelessness-lower-academic-proficiency.md) — related
-- Students in foster care graduate from high school and enroll in college at substantially lower rates than their peers — related
-- California students experiencing homelessness graduate at lower rates (69% vs. 83%) and enroll in college at lower rates (50% vs. 64%) than peers statewide — related
+- [Students in foster care graduate from high school and enroll in college at substantially lower rates than their peers](foster-care-graduation-college-gaps.md) — related
+- [California students experiencing homelessness graduate at lower rates (69% vs. 83%) and enroll in college at lower rates (50% vs. 64%) than peers statewide](homeless-students-lower-graduation-college-going.md) — related

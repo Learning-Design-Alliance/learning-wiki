@@ -49,19 +49,19 @@ Multisite study of 30 TRPs and their current and former participants reports ret
 - [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — reports the opposite
 - [The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample](trp-retention-study-scope-six-districts-12-trps.md) — related
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
-- Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer — related
+- [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
 - [A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching](teacher-residency-study-gains.md) — reports the opposite
 - [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — reports the opposite
 - [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — reports the opposite
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
-- Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers — related
-- Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers — reports the opposite
+- [Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers](underprepared-teachers-attrition-two-to-three-times.md) — related
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — reports the opposite
 - [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — reports the opposite
-- Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools — related
+- [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — related
 - [Grow Your Own program graduates remain in teaching longer than typical beginning teachers and teach in high-need schools at high rates](grow-your-own-graduates-retain-in-high-need-schools.md) — related
 - [Kern Urban Teacher Residency graduates are retained at high rates in the partner district, with 92% of its 114 graduates continuing to work in BCSD](kern-urban-92-percent-retention-bcsd.md) — related
 - [Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation](residency-completers-more-effective-and-retained.md) — reports the opposite
 - [Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts](teacher-residencies-retain-diverse-candidates.md) — reports the opposite
-- Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave teaching than comprehensively prepared teachers — related
+- [Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave teaching than comprehensively prepared teachers](underprepared-teachers-leave-at-2-3-times-rate.md) — related

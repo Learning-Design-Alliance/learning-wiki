@@ -47,7 +47,7 @@ The review's C1 'Social and emotional implications' sub-theme, attributing the p
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related
 - [Reviewed studies identify data privacy, algorithmic bias, unequal access, and epistemic trust as central ethical concerns in educational AI](ai-education-ethical-governance-concerns.md) — possibly the same claim (merge candidate)
-- Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities — related
+- [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related

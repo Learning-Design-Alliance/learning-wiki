@@ -43,14 +43,14 @@ First-time 2016 survey questions asked the extent to which standards-related PD 
 
 
 ## Related Claims
-- Despite very different district implementation strategies for ELA and math, 2016 survey responses showed few differences between teachers responsible for each set of standards — related
-- Elementary teachers were much more likely than high school teachers to report the CCSS would have a great deal of impact on teaching and learning in 2016 — related
-- Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers — related
+- [Despite very different district implementation strategies for ELA and math, 2016 survey responses showed few differences between teachers responsible for each set of standards](ccss-few-ela-math-response-group-differences.md) — related
+- [Elementary teachers were much more likely than high school teachers to report the CCSS would have a great deal of impact on teaching and learning in 2016](ccss-elementary-teachers-greater-impact-beliefs.md) — related
+- [Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers](ccss-preparedness-increased-2016.md) — related
 - [In elementary grades, students in schools with extensive standards-related professional development reported significantly larger improvements in academic demand, rigor, instructional clarity, and teacher support than students in schools with limited professional development](extensive-pd-larger-instructional-improvements-elementary.md) — related
-- Teachers in 2016 were far less likely than administrators in 2015 to report that unaligned assessments, insufficient collaboration time, or inadequate PD were major barriers to CCSS implementation — related
+- [Teachers in 2016 were far less likely than administrators in 2015 to report that unaligned assessments, insufficient collaboration time, or inadequate PD were major barriers to CCSS implementation](ccss-teachers-report-fewer-barriers-than-administrators.md) — related
 - [Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school](pd-coherence-benefit-individual-teachers.md) — related
 - [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — a broader claim this one bears on
-- Teachers who need the strongest support receive less high-quality professional development: high school, beginning elementary, and large-school teachers — related
+- [Teachers who need the strongest support receive less high-quality professional development: high school, beginning elementary, and large-school teachers](underserved-teachers-less-quality-pd.md) — related
 - [Most field-test teachers report curriculum-based professional learning prepared them for distinctive OpenSciEd pedagogy, with mixed results on standards beliefs](pd-prepares-storyline-pedagogy-implementation.md) — related
 - [Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year](coach-professional-development-perceived-effective.md) — related
 - [Selecting a few focal Standards for Mathematical Practice at a time was more productive for teacher PD than studying all SMPs simultaneously](focal-smps-deep-study-more-productive.md) — related

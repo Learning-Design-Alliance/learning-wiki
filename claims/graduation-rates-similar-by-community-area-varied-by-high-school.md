@@ -44,5 +44,5 @@ Descriptive analysis of 2019 CPS graduation rates organized by the 77 community 
 
 ## Related Claims
 - [College completion rates among immediate enrollees varied widely by community area, ranging from 24 to 74 percent for the class of 2013](college-completion-varied-widely-by-community-area.md) — related
-- African-American students and mostly African-American South Side communities showed less improvement in graduation and dropout rates than other students and North Side communities — related
-- Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined — related
+- [African-American students and mostly African-American South Side communities showed less improvement in graduation and dropout rates than other students and North Side communities](cps-graduation-improvement-racial-geographic-inequity.md) — related
+- [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related

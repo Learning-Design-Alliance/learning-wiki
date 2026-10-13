@@ -44,11 +44,11 @@ The review's methodological appraisal of the 75 included papers reports "substan
 
 ## Related Claims
 - [Equity considerations have received the least research attention among GenAI perception areas despite their critical importance](genai-equity-least-researched-global-south.md) — related
-- GenAI tools are largely Global North products that have spread rapidly worldwide, including into Global South higher education — related
+- [GenAI tools are largely Global North products that have spread rapidly worldwide, including into Global South higher education](genai-global-north-origin-rapid-spread.md) — related
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — a broader claim this one bears on
-- GAI research in education is geographically concentrated in Europe, the United States, and Asia — a broader claim this one bears on
-- GenAI implementation in Global South higher education faces significant barriers including infrastructure, human capital, ethical, policy and contextual challenges — related
-- STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — a broader claim this one bears on
+- [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — a broader claim this one bears on
+- [GenAI implementation in Global South higher education faces significant barriers including infrastructure, human capital, ethical, policy and contextual challenges](genai-global-south-implementation-barriers.md) — related
+- [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — a broader claim this one bears on
 - [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — a broader claim this one bears on
 - [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related
 - [Reviewed GenAI literacy literature concentrates on knowledge and skills while equity and agency receive thin treatment](genai-literature-equity-agency-thin.md) — related

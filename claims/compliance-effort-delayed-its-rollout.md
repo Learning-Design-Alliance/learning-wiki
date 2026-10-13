@@ -43,4 +43,4 @@ Authors' retrospective account (type e) of their implementation experience: the 
 
 
 ## Related Claims
-- AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent — a broader claim this one bears on
+- [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on

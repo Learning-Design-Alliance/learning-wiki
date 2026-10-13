@@ -45,7 +45,7 @@ Case-study interview finding about an emerging vendor partnership under the cons
 ## Related Claims
 - [Cohort purchasing through consolidated edtech procurement produced savings of nearly $200,000 and roughly 50 percent per-license discounts in Denver Public Schools](dps-cohort-purchasing-savings-200000.md) — related
 - [Developing outcomes-based contracts enabled districts to engage in collaborative, data-driven decision-making processes to select populations, outcomes, and pricing.](obc-contract-development-collaborative-data-driven-decisions.md) — related
-- Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training — related
+- [Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training](agencies-built-linked-data-systems-and-analytic-capacity.md) — related
 - [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — related
 - [DPS's evaluation process led schools to use safer edtech products by prioritizing student data privacy and accessibility review](dps-evaluation-safer-edtech-products.md) — related
 - [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — related

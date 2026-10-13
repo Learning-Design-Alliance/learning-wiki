@@ -46,7 +46,7 @@ Comparison of CPS Masterfile enrollment data from fall 2017 and fall 2018. The r
 - [Almost all CPS eighth-graders (92 percent) used the GoCPS platform to apply to high school in its first year](gocps-high-application-engagement-first-year.md) — related
 - [Black students and students from the lowest-SES neighborhoods ranked more programs but were less likely to rank a high-accountability school first](gocps-subgroup-ranking-and-accountability-differences.md) — related
 - [Program demand varied widely: 21 percent of programs had more than ten times as many applications as seats, led by arts, CTE, and SEHS programs](gocps-program-demand-variation-arts-cte-sehs.md) — related
-- CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017 — related
+- [CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017](cps-freshman-ontrack-rose-25-points.md) — related
 - [Many applicants failed to complete post-application admission requirements, with Black and Latino students least likely to complete them](gocps-post-application-requirement-noncompletion-gaps.md) — related
 - [Most GoCPS applicants received an offer from a preferred program: 51 percent from their top-ranked and 81 percent from a top-three ranked choice program](gocps-most-applicants-top-three-offers.md) — related
 - [Choice program demand varied widely: 19 percent of programs received more than 10 applications per seat while 8 percent received fewer applications than seats, with demand higher for Arts, CTE, points-based, and highly rated programs](gocps-program-demand-variation.md) — related

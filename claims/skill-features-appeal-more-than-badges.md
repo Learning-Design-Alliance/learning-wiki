@@ -44,7 +44,7 @@ Feature-appeal ratings from the survey across 19 micro-credential aspects. The r
 
 ## Related Claims
 - [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
-- Once the concept is explained, more than 70 percent of teachers are at least somewhat interested in micro-credentials, segmenting into roughly 31 percent early, 34 percent mainstream, and 35 percent late adopters — related
-- Few teachers know about micro-credentials: only 15 percent are even somewhat familiar and 4 percent feel very knowledgeable, with no important differences across teacher subgroups — related
+- [Once the concept is explained, more than 70 percent of teachers are at least somewhat interested in micro-credentials, segmenting into roughly 31 percent early, 34 percent mainstream, and 35 percent late adopters](micro-credential-interest-adoption-segments.md) — related
+- [Few teachers know about micro-credentials: only 15 percent are even somewhat familiar and 4 percent feel very knowledgeable, with no important differences across teacher subgroups](low-teacher-awareness-of-micro-credentials.md) — related
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — related
 - [Teachers rated Session 1 DVD episodes and Prankster Planet as the most appealing TEC elements and worksheets as least appealing](tec-element-appeal-rankings.md) — related

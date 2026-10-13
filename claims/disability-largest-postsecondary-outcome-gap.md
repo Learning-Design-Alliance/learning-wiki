@@ -47,6 +47,6 @@ Descriptive analysis of postsecondary outcomes by disability status across the s
 
 ## Related Claims
 - [The BPSS logic model targets increased college readiness among Arkansas student populations with persistent outcome disparities](bpss-goal-college-readiness-disparity-populations.md) — related
-- Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, and students entering grade 6 after age 13 — related
+- [Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, and students entering grade 6 after age 13](academic-indicator-attainment-varies-by-student-group.md) — related
 - [Predictive accuracy of middle and high school indicators did not vary substantially between student groups](predictive-accuracy-similar-across-groups.md) — related
 - [Predictive specificity was substantially higher for NSLP-eligible, English learner, disabled, and older-entry students, with the largest difference for middle school students with disabilities predicting college enrollment](predictive-specificity-higher-marginalized-groups.md) — related

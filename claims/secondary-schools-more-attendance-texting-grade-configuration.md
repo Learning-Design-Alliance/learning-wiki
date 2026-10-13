@@ -81,7 +81,7 @@ Descriptive analysis of attendance-related messages per month per student by gra
 
 
 ## Related Claims
-- Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19 — related
+- [Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19](elementary-schools-larger-absenteeism-increases.md) — related
 - [PPSD schools most frequently implemented nudge letters, phone calls, and attendance teams with moderate or high fidelity in 2018/19](nudge-letters-phone-calls-attendance-teams-highest-fidelity.md) — related
 - [During 2018/19, attendance-related text messaging increased more quickly in schools where chronic absenteeism decreased than in schools where it increased, where use remained flat](texting-increased-faster-in-decreased-absenteeism-schools.md) — related
 - [Schools in which chronic absenteeism decreased implemented phone calls, mentorship programs, and text messaging with moderate or high fidelity more frequently than schools in which it increased](decreased-absenteeism-schools-fidelity-phone-mentorship-texting.md) — related

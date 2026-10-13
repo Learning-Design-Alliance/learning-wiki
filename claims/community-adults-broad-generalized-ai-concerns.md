@@ -47,7 +47,7 @@ Descriptive analysis of the pre-session survey completed by 37 of 54 attendees a
 - [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](ai-feedback-trustworthiness-goodwill-concerns.md) — related
 - [The AI education session was associated with a drop in attendees reporting they did not know enough to say about AI, from 23% to 0%](dont-know-responses-dropped-to-zero.md) — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
-- Surveys show young adults are the heaviest educational ChatGPT users and most worry about data privacy — related
+- [Surveys show young adults are the heaviest educational ChatGPT users and most worry about data privacy](student-ai-adoption-and-concerns-surveys.md) — related
 - [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
 - [Adult learners raised data-practice concerns that did not map onto the Community of Inquiry framework, including not knowing what data is collected and where it goes](adult-learners-data-practice-concerns-g1.md) — related

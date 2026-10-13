@@ -43,4 +43,4 @@ Quantitative analysis of CPS transcript grades and EPAS scores finds students wh
 
 
 ## Related Claims
-- CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores — related
+- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related

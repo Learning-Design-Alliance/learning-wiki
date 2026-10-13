@@ -44,11 +44,11 @@ Descriptive comparison of accommodations, transition planning, suspension, and p
 
 ## Related Claims
 - [English learner students with disabilities are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners](elswd-more-academic-struggle-less-activity-participation.md) — related
-- English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges — related
+- [English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges](elswd-similar-backgrounds-greater-functional-challenges-than-el.md) — related
 - [English learner students with disabilities have more socioeconomic disadvantages than other students with disabilities but similar functional performance](elswd-more-socioeconomic-disadvantage-similar-functional-performance-than-swd.md) — related
 - [Most differences between English learner students with disabilities and other students with disabilities diminish when background characteristics are held constant](elswd-swd-differences-diminish-holding-background-constant.md) — related
-- Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students — related
-- For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups — related
+- [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — related
+- [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](same-infractions-black-disabilities-more-suspensions.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - [ELs with identified disabilities made slower progress toward English skills and had lower attendance, and were more likely to opt out of bilingual services](els-with-disabilities-slower-progress-lower-attendance.md) — related
 - [Assessment accommodations, once adopted, tend to feel transitional rather than fully equal parts of an assessment](accommodations-feel-transitional-not-fully-equal.md) — related

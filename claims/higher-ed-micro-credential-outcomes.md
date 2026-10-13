@@ -46,4 +46,4 @@ A second-hand assertion on a higher-education implementation slide, attributed b
 - [Workforce-context micro-credential success depends on sustained partnerships, employer recognition, higher-education credit linkage, and time-cost flexibility](workforce-micro-credential-success-practices.md) — related
 - [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
 - [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related
-- Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners — related
+- [Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners](micro-credentials-disrupt-pathways-access-excluded-learners.md) — related

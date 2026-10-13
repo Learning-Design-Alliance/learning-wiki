@@ -43,7 +43,7 @@ Race/ethnicity impact tables benchmark against control TPS students in poverty i
 
 
 ## Related Claims
-- Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers — related
+- [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related
 - [CREDO's new race/ethnicity approach estimates full annual growth per group without benchmarking against any race/ethnicity](credo-race-ethnicity-growth-without-benchmark.md) — related
 - [Black students in poverty attending charter schools gain about 35 additional days of learning in reading compared to their Black TPS peers in poverty, with no math difference](pa-charter-black-poverty-students-reading-gain.md) — reports the opposite
 - [Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS](ri-charter-gains-poverty-sped-ell.md) — related

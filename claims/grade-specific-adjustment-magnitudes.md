@@ -63,4 +63,4 @@ Interpretive statement accompanying Figures 3-4 (fourth grade/ten-year-olds). Ad
 
 ## Related Claims
 - [Removing retained students' scores raises 1998 ITBS scores in grades three, six, and eight, while adding predicted retained-student scores lowers fourth and seventh grade scores](retention-adjustment-raises-368-lowers-47.md) — a broader claim this one bears on
-- Adjusting for retained students, systemwide 1998 reading scores are essentially unchanged and math scores fall slightly, but both remain above 1997 levels; the authors judge the promotion policy did not seriously distort the results — related
+- [Adjusting for retained students, systemwide 1998 reading scores are essentially unchanged and math scores fall slightly, but both remain above 1997 levels; the authors judge the promotion policy did not seriously distort the results](systemwide-itbs-still-up-after-retention-adjustment.md) — related

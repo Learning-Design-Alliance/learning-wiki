@@ -66,8 +66,8 @@ District-level regression accounting for differences between states, using distr
 - [Kindergarten math growth from fall to spring is greater in High PreK4 investment states than in Growing or Low states](high-prek4-states-greater-kindergarten-math-growth.md) — related
 - [Two additional state characteristics are marginally associated with kindergarten math improvement: proportion of districts offering state-funded PreK and meeting all ten quality benchmarks](marginal-state-characteristics-math-improvement.md) — related
 - [Districts in the sample increased PreK4 participation across all three state categories, with substantial within-category variation in enrollment trends](district-prek4-participation-increased-all-categories.md) — related
-- In states requiring specialized prekindergarten teacher training, kindergarten students are more likely to improve in math — related
-- District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time — related
+- [In states requiring specialized prekindergarten teacher training, kindergarten students are more likely to improve in math](specialized-prek-teacher-training-math-improvement.md) — related
+- [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related
 - [Improved second-grade outcomes were related to pre-k policy changes through greater access to full-day pre-k and subsequently improved kindergarten entry skills](prek-access-kindergarten-entry-skills-pathway.md) — related
 - [Elliott Elementary, one of Nebraska's five lowest performing schools, used SIG funds to launch a pre-kindergarten program and reset its improvement course](elliott-sig-launched-pk-program-turnaround.md) — related
 - [Three SIG Cohort 1 elementary schools that integrated PK–3 early learning strategies into turnaround plans showed improved student achievement](sig-schools-integrating-pk3-strategies-improved-achievement.md) — related

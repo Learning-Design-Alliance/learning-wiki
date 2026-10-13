@@ -43,9 +43,9 @@ The study reports that "in a small subset of study districts, there is meaningfu
 
 
 ## Related Claims
-- Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income — related
-- A small subset of study districts shows meaningful inequity in access to effective teachers in math — possibly the same claim (merge candidate)
+- [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — related
+- [A small subset of study districts shows meaningful inequity in access to effective teachers in math](meaningful-math-inequity-subset-districts.md) — possibly the same claim (merge candidate)
 - [In the average study district, differences in teacher effectiveness between high- and low-income students' teachers are small](small-average-effectiveness-differences.md) — related
 - [Average differences in teacher effectiveness for high- and low-income students are small in the average study district](small-average-effectiveness-differences-by-income.md) — related
 - [High- and low-income students have similar chances of being taught by the most effective and the least effective teachers](similar-access-most-least-effective-teachers.md) — related
-- High- and low-income students have similar chances of being taught by the most and least effective teachers — related
+- [High- and low-income students have similar chances of being taught by the most and least effective teachers](similar-access-most-least-effective-teachers-income.md) — related

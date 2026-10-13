@@ -62,4 +62,4 @@ Spearman rank correlation between academic and professional staff difficulty ord
 
 
 ## Related Claims
-- Academic staff follow a traditional foundational-to-advanced GenAI skill trajectory, with creation items the least endorsed — related
+- [Academic staff follow a traditional foundational-to-advanced GenAI skill trajectory, with creation items the least endorsed](academics-linear-genai-skill-trajectory.md) — related

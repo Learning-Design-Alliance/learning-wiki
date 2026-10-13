@@ -44,9 +44,9 @@ Supplementary comparative analyses of survey data from smaller versus larger dis
 
 
 ## Related Claims
-- Company size did not relate strongly or consistently to provider perceptions of procurement — related
+- [Company size did not relate strongly or consistently to provider perceptions of procurement](company-size-not-related-provider-perceptions.md) — related
 - [Discovery of ed-tech products is a serious challenge for both districts and providers](discovery-serious-challenge-districts-providers.md) — related
 - [School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement](districts-developers-differ-pilot-perspectives.md) — related
 - [District stakeholders are mostly satisfied with procurement while providers are largely dissatisfied](districts-satisfied-providers-dissatisfied-procurement.md) — related
 - [Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders](limited-end-user-involvement-edtech-procurement.md) — related
-- Smaller districts report an easier procurement process overall, while smaller providers feel procurement inefficiencies more acutely than larger firms — related
+- [Smaller districts report an easier procurement process overall, while smaller providers feel procurement inefficiencies more acutely than larger firms](small-vs-large-districts-providers-procurement-differences.md) — related

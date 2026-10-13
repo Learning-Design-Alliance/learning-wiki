@@ -44,7 +44,7 @@ Focus group participants responded with factors related to racial, ethnic, and c
 
 ## Related Claims
 - [Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students](educator-diversity-benefits-students-of-color.md) — related
-- Most focus group participants responded with a resounding \"no\" when asked whether they trust the education system to teach social-emotional skills to students of color — related
+- [Most focus group participants responded with a resounding \"no\" when asked whether they trust the education system to teach social-emotional skills to students of color](families-distrust-schools-for-sel.md) — related
 - [BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate](students-perceive-statistics-as-neutral-subject.md) — reports the opposite
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — related
 - [Students and families of color define success as encompassing social-emotional well-being and competence, not just academic or career outcomes](sead-success-includes-sel-wellbeing.md) — a broader claim this one bears on

@@ -46,8 +46,8 @@ Thematic analysis of worker and learner interviews, surveys, and design sessions
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
 - [Many applicants failed to complete post-application admission requirements, with Black and Latino students least likely to complete them](gocps-post-application-requirement-noncompletion-gaps.md) — related
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
-- African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications. — related
+- [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
 - [AI hiring tools have demonstrated biases disproportionately affecting women, individuals with disabilities, and underrepresented ethnic and racial groups](ai-hiring-tool-biases-disproportionate-impacts.md) — a broader claim this one bears on
-- Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge — related
+- [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related
 - [When at least two women and two candidates of color are in the finalist pool, the odds of hiring a woman or a candidate of color are reported to be 79 and 194 times greater](diverse-finalist-pool-raises-diverse-hire-odds.md) — related
-- Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color — related
+- [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — related

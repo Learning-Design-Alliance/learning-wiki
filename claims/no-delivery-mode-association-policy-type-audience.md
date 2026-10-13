@@ -43,4 +43,4 @@ Quantitative analysis of 40 policy documents using Fisher's exact tests due to s
 
 
 ## Related Claims
-- Most CAHIIM-accredited HI/HIM master's programs (40 of 48, 83%) have at least one publicly available AI-related document, and most documents are guidance rather than formal policy — related
+- [Most CAHIIM-accredited HI/HIM master's programs (40 of 48, 83%) have at least one publicly available AI-related document, and most documents are guidance rather than formal policy](most-cahiim-programs-have-ai-guidance-documents.md) — related

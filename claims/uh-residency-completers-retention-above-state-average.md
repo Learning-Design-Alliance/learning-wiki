@@ -46,6 +46,6 @@ Report analysis of retention metrics for the UH residency, comparing "93% stayed
 - [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — related
 - [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — a broader claim this one bears on
-- Most residents from the first TRGP cohort were still teaching three years later — related
+- [Most residents from the first TRGP cohort were still teaching three years later](trgp-residents-retained-88-percent.md) — related
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts](teacher-residencies-retain-diverse-candidates.md) — related

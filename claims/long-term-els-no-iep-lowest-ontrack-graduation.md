@@ -49,7 +49,7 @@ Descriptive analysis of CPS cohorts. This group (4% of ninth-graders) had the lo
 - [Among four-year college enrollees, former and late-arriving English Learners persisted at or above district-average rates while long-term English Learners with IEPs persisted at substantially lower rates](el-college-persistence-varies-by-subgroup.md) — related
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related
 - [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — related
-- CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017 — related
+- [CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017](cps-freshman-ontrack-rose-25-points.md) — related
 - [Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups](cps-on-track-rate-rose-25-points-districtwide.md) — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking](on-track-rate-citywide-trends.md) — related

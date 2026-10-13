@@ -43,7 +43,7 @@ Mixed-effects multilevel regressions on 2022 survey data from 271 schools, neste
 
 
 ## Related Claims
-- Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices — related
+- [Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices](alaska-schools-mostly-emerging-trauma-engaged-implementation.md) — related
 - [A school's likelihood of high implementation of trauma-engaged practices increased with its percentage of students in foster care](foster-care-percentage-predicts-higher-implementation.md) — related
 - [Trauma-engaged practices performable by individual educators were implemented more than practices requiring school- or district-level coordination](individual-educator-practices-implemented-more-than-systems-practices.md) — related
-- Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related

@@ -44,4 +44,4 @@ Survey and interview findings from Finding 3. "95% felt that to be hired, their 
 
 ## Related Claims
 - [Most surveyed Black borrowers disagree that student loans advance racial equality or build wealth for Black borrowers](black-borrowers-disagree-loans-advance-racial-equality.md) — related
-- African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications. — related
+- [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related

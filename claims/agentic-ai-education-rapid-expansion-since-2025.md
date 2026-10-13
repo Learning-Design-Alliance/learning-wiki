@@ -45,7 +45,7 @@ Descriptive statistics across the review's 474 included studies (Fig. 3a) show t
 ## Related Claims
 - [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — related
-- Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025 — related
+- [Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025](ai-medical-education-publications-sharp-growth-after-2023.md) — related
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — related
 - [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related

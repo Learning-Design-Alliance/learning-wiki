@@ -44,6 +44,6 @@ Logistic regression predicting 2024-25 closure from enrollment drops 2019-20 to 
 
 
 ## Related Claims
-- U.S. public school closure rates dipped during the pandemic and rebounded to essentially pre-pandemic levels by 2024-25 — related
+- [U.S. public school closure rates dipped during the pandemic and rebounded to essentially pre-pandemic levels by 2024-25](closure-rate-dip-rebound-post-pandemic.md) — related
 - [High-poverty schools are overrepresented among closed schools across the study period](high-poverty-schools-overrepresented-closures.md) — related
 - [Schools serving majority-Black students are overrepresented among closed schools pre- and post-pandemic](majority-black-schools-overrepresented-closures.md) — related

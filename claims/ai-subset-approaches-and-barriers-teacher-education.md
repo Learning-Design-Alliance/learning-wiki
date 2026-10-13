@@ -64,7 +64,7 @@ Descriptive frequency analysis of primary barriers in the AI subset (N = 40). Th
 ## Related Claims
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [AI support in higher education is concentrated in instructional, assessment, and feedback decisions, with curriculum and learning-environment decisions least supported](ai-support-concentrated-instructional-assessment-feedback-decisions.md) — related
-- Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related
+- [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — related
 - [In the retrieved corpus of digitally supported teacher education research, competence and ICT-integration frameworks are the most frequent primary strategy (46.5%)](competence-frameworks-most-frequent-strategy-digitally-supported-teacher-education.md) — related
 - [Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies](digital-competence-development-most-frequent-advantage.md) — related
 - [Educator-focused digital literacy frameworks prioritize pedagogy, empowering learners, and curriculum and assessment, with more evenly distributed categories](educator-frameworks-pedagogy-and-systemic-capacities.md) — related

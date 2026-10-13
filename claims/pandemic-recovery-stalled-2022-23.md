@@ -45,9 +45,9 @@ The brief's summary of its analysis of academic gains in the 2022-23 school year
 ## Related Claims
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — related
-- Academic rebounding in reading and math was uneven across school years and summers, especially in reading — related
-- Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022 — related
-- The average student needs an estimated 4.1 additional months of schooling to catch up in reading — a narrower finding that bears on this claim
+- [Academic rebounding in reading and math was uneven across school years and summers, especially in reading](rebounding-uneven-across-school-years-summers-reading.md) — related
+- [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — related
+- [The average student needs an estimated 4.1 additional months of schooling to catch up in reading](reading-catchup-4-point-1-months.md) — a narrower finding that bears on this claim
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
 - [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — possibly the same claim (merge candidate)
-- Compensatory education services are additional services to make up for progress or skills lost due to a lapse in services, and are conceptually distinct from recovery services — related
+- [Compensatory education services are additional services to make up for progress or skills lost due to a lapse in services, and are conceptually distinct from recovery services](compensatory-education-distinct-from-recovery-services.md) — related

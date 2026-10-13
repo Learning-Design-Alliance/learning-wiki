@@ -48,5 +48,5 @@ Descriptive statistics from the 551-student cross-sectional survey show a coexis
 - [Cognitive Overload is the most frequently reported dimension of AI fatigue, driven by output volume and repeated verification](cognitive-overload-most-reported-ai-fatigue-dimension.md) — a narrower finding that bears on this claim
 - [AI usage pressure attenuates the indirect association of course development satisfaction with psychological adjustment through AI proficiency (moderated mediation index = −0.051)](ai-usage-pressure-attenuates-indirect-association.md) — related
 - [Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements](positive-assessments-coexist-with-unmet-reliability-requirements.md) — related
-- Heavy AI use coexists with low trust: two thirds of respondents in a 47-country survey use AI regularly while less than half are willing to trust it — related
+- [Heavy AI use coexists with low trust: two thirds of respondents in a 47-country survey use AI regularly while less than half are willing to trust it](ai-use-exceeds-willingness-to-trust.md) — related
 - [More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)](coding-experience-associated-with-pbl-performance.md) — related

@@ -43,8 +43,8 @@ Analysis of the 2002 CPS spring administrations linking student scores on both t
 
 
 ## Related Claims
-- In fifth-grade mathematics, ITBS scores declined while ISAT scores rose, a statistically significant difference in opposing trends — related
-- In fifth-grade reading, ITBS scores declined significantly more than ISAT scores from 1999 to 2002 — related
+- [In fifth-grade mathematics, ITBS scores declined while ISAT scores rose, a statistically significant difference in opposing trends](fifth-grade-math-opposing-trends-significant.md) — related
+- [In fifth-grade reading, ITBS scores declined significantly more than ISAT scores from 1999 to 2002](fifth-grade-reading-itbs-greater-decline-than-isat.md) — related
 - [ITBS mathematics is heavily weighted toward computation while ISAT contains up to three times as many items on algebra, geometry, measurement, and probability and statistics](itbs-computation-isat-higher-order-math-content.md) — related
 - [ISAT cut scores differ by grade and subject, with eighth-grade mathematics requiring a high score and eighth-grade reading a relatively low one to meet standards](isat-cut-scores-vary-grade-subject.md) — related
 - [One-to-one correspondence between ITBS national quartiles and ISAT performance categories breaks down at the first and fourth quartiles](quartile-category-correspondence-breaks-extremes.md) — related

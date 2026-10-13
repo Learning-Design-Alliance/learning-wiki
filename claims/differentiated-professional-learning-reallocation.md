@@ -44,4 +44,4 @@ A district example from the document's Examples of Addressing Resource Inequitie
 
 ## Related Claims
 - [Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices](leader-training-residency-facilitated-practice-sharing-but-implementation-lagged.md) — related
-- Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities — related
+- [Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities](needs-based-staffing-addresses-inequity.md) — related

@@ -43,7 +43,7 @@ A single-school promising-practice case: Jeremiah E. Burke High School, a Boston
 
 
 ## Related Claims
-- Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers — related
-- Only 78% of Kentucky AP course completers took the AP exam in 2021-22, and test-taking growth did not extend to Black or Latino students — related
-- AP scores of 3 or higher declined in Massachusetts from 2019 to 2022 for all groups, with a 39-percentage-point gap between White and Black students — related
-- AP enrollment in Washington declined slightly (1-2 percentage points) from 2018-19 to 2021-22 among all student groups, with existing racial and income gaps unchanged — related
+- [Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers](black-latino-underrepresented-ap-test-takers.md) — related
+- [Only 78% of Kentucky AP course completers took the AP exam in 2021-22, and test-taking growth did not extend to Black or Latino students](ky-ap-test-taking-gap-black-latino.md) — related
+- [AP scores of 3 or higher declined in Massachusetts from 2019 to 2022 for all groups, with a 39-percentage-point gap between White and Black students](ma-ap-proficiency-declined-racial-gap.md) — related
+- [AP enrollment in Washington declined slightly (1-2 percentage points) from 2018-19 to 2021-22 among all student groups, with existing racial and income gaps unchanged](wa-ap-enrollment-declined-gaps-unchanged.md) — related

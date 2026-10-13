@@ -189,11 +189,13 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   1,323 to products, 222 to research methods, each move confirmed by a second model. Its 390 plain
   folds into canonical pages are in `eval/candidates/sweep-kinds.ndjson` and were **not** applied
   (too many loose matches); apply them only after review, never with a bare `--from ... --apply`.
-- **Descriptive-context claims are not pages** (maintainer, 2026-10-13: "Context claims are only
-  useful as filters on evidence, not evidence by itself"). A claim that tests no design variable
-  (enrolment and graduation trends, funding gaps, survey shares) was removed when two models agreed
-  (`scripts/remove_pages.py`, list in `eval/removed/pages.ndjson`); the population and setting it
-  describes belong on design evidence as filters (the coded cells). Do not recreate them.
+- **A claim is kept when a design decision could change because of it** (maintainer, 2026-10-13).
+  That covers evidence about a design choice, the reliability of a component a design relies on
+  (knowledge-tracing accuracy for an adaptive course, essay-scoring or AI-detector accuracy), and
+  context that informs a design (needs, learner populations, baselines for reading an effect size).
+  1,959 context claims removed on a misreading of the maintainer were restored the same day; claims
+  are re-sorted on this test (`eval/claim-sort/`), and only research-practice claims and local,
+  dated context go to the maintainer as removal candidates. `scripts/remove_pages.py` does a removal.
 - **Claims about a learner characteristic link into its `learner-variables/` page and back**
   (`scripts/link_learner_variables.py`, `--new` in every batch): learning-design-spec's learner
   dimensions reach the research only through those pages. The model names the role (predictor,

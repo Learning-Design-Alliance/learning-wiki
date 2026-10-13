@@ -47,5 +47,5 @@ Cross-district comparison reported in the brief's key findings: district-level d
 - [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](teaching-disparity-weeks-of-learning.md) — related
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](disadvantaged-students-poorer-access-effective-teachers.md) — a broader claim this one bears on
 - [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — a broader claim this one bears on
-- One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap — related
+- [One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap](teaching-disparity-share-of-achievement-gap.md) — related
 - [The teaching-effectiveness disparity represents a small share of the overall achievement gap for disadvantaged students](teaching-effectiveness-disparity-small-share-of-achievement-gap.md) — related

@@ -43,4 +43,4 @@ The report's literature review attributes these documented systemic biases in on
 
 
 ## Related Claims
-- Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households — related
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related

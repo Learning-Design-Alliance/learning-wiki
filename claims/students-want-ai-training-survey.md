@@ -43,10 +43,10 @@ Survey result reported in the brief's student-gaps section: "57% of respondents 
 
 
 ## Related Claims
-- Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use — related
-- College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
+- [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level](pr-teachers-dissatisfied-pd-want-tailored-workshops.md) — related
-- Few countries have defined teacher AI competencies or national AI training programmes for teachers — related
+- [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
 - [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](genai-pd-significant-ethical-awareness-gains.md) — related
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related

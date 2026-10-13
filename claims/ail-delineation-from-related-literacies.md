@@ -43,6 +43,6 @@ Conceptual analysis within the integrative literature review (RQ1), comparing AI
 
 
 ## Related Claims
-- Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters — related
+- [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
 - [Technical AI literacy elements dominate STEAM implementations: Fundamental AI Concepts (36 studies), Data Literacy (30) and Computational Thinking (29) far exceed Managing AI (6), Designing AI (8) and Creative Imagination (9)](technical-ailes-dominate-creative-managerial-underrepresented.md) — related
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — related

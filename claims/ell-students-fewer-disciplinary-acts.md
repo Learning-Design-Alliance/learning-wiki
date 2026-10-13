@@ -43,5 +43,5 @@ Descriptive comparison of disciplinary acts by ELL program status in the distric
 
 
 ## Related Claims
-- Male students received significantly higher rates of suspensions and referrals than female students — related
+- [Male students received significantly higher rates of suspensions and referrals than female students](male-students-higher-discipline-rates-elementary.md) — related
 - [ESE program students had significantly higher rates of suspensions and referrals than non-ESE students](ese-students-higher-disciplinary-rates.md) — related

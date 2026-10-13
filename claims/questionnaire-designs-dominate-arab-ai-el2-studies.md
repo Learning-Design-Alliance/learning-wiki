@@ -45,6 +45,6 @@ The review's results section reports the distribution of research designs across
 ## Related Claims
 - [The evidence base on AI in Arab EL2 classrooms is limited by perception-based designs, varied samples, and insufficient reporting of AI versions and implementation](arab-ai-el2-evidence-limitations.md) — a broader claim this one bears on
 - [Across 11 reviewed Arab-university EL2 studies (2023–2025), learners and educators report overwhelmingly positive perceptions of AI-assisted language learning](arab-el2-positive-ai-perceptions-review.md) — related
-- ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek — related
+- [ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek](chatgpt-only-llm-in-arab-el2-studies.md) — related
 - [Experimental, quasi-experimental, machine-learning, mixed-methods and survey designs dominate research assessing AI's impact on engagement and satisfaction](dominant-methods-ai-engagement-research.md) — related
 - [Self-report questionnaires, dominated by the MSLQ, are the most common SRL/cognitive strategy measure, alongside structured interviews, think-aloud protocols, and cognitive traces](measure-type-mix-mslq-dominant.md) — related

@@ -45,7 +45,7 @@ Qualitative synthesis of 11 studies included via PRISMA-guided searches of Googl
 ## Related Claims
 - [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
 - [Questionnaire-based perception surveys were the most common research design among the 11 included studies, with sample sizes ranging from 20 to 350 participants](questionnaire-designs-dominate-arab-ai-el2-studies.md) — related
-- ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek — related
+- [ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek](chatgpt-only-llm-in-arab-el2-studies.md) — related
 - [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — related
 - [The evidence base on AI in Arab EL2 classrooms is limited by perception-based designs, varied samples, and insufficient reporting of AI versions and implementation](arab-ai-el2-evidence-limitations.md) — related
 - [Successful AI integration in Arab EL2 classrooms consistently depends on teacher mediation, institutional support, and responsible-use practices](teacher-mediation-institutional-support-ai-integration.md) — related

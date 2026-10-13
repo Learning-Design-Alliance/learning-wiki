@@ -43,5 +43,5 @@ In the prospective longitudinal study (N = 1094), the authors tested whether a m
 
 
 ## Related Claims
-- Changes in family income and household structure predict higher odds of two or more school moves in elementary school, while family factors are not linked to a recent or single move — related
+- [Changes in family income and household structure predict higher odds of two or more school moves in elementary school, while family factors are not linked to a recent or single move](family-income-household-changes-predict-cumulative-school-moves.md) — related
 - [The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning](school-mobility-timing-versus-cumulative-design.md) — related

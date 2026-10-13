@@ -43,4 +43,4 @@ Survey-indicator analysis using seven indicators of collective faculty action (t
 
 
 ## Related Claims
-- About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related
+- [About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership](teachers-rate-principals-highly.md) — related

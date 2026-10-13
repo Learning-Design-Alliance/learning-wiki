@@ -43,5 +43,5 @@ Delphi round 1 with 18 international experts rated each of seven preliminary ena
 
 
 ## Related Claims
-- Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers — related
+- [Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers](institutional-strategic-orientation-highest-snap-priority.md) — related
 - [Experts' AHP priorities cluster into three groups differing by seniority and LA expertise](expert-priority-clusters-seniority-la-expertise.md) — related

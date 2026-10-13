@@ -62,6 +62,6 @@ Interview findings on institutional outcomes; respondents anticipated shifts in 
 
 
 ## Related Claims
-- Stakeholders most frequently define College Promise by the goals of increasing college access and improving completion — related
+- [Stakeholders most frequently define College Promise by the goals of increasing college access and improving completion](stakeholder-definitions-access-completion-goals.md) — related
 - [Most stakeholders believe College Promise programs will persist in California, with sustainability contingent on political and financial support](promise-viability-sustainability-conditions.md) — related
 - [The study also examines persistence in college over the first two postsecondary years](kipp-study-examines-college-persistence-two-years.md) — related

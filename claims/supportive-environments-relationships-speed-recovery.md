@@ -43,7 +43,7 @@ The brief presents this as a key insight for pandemic recovery, stating that "Su
 
 
 ## Related Claims
-- The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools — related
+- [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — related
 - [A NWEA research brief examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions to learning](chronic-absenteeism-impediment-academic-recovery.md) — related
 - [NWEA research examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions](chronic-absenteeism-academic-recovery-relationship.md) — related
-- Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains — related
+- [Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains](post-covid-recovery-diverges-across-schools.md) — related

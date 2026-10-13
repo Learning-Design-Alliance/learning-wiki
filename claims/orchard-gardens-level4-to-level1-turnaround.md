@@ -46,4 +46,4 @@ Case study of Orchard Gardens K–8 School in Boston, a SIG Cohort 1 turnaround 
 - [Perry Street moved from Tier III (lowest performing) to Tier I (highest performing) on DC's Performance Management Framework over five years of turnaround](perry-street-tier-iii-to-tier-i-turnaround.md) — related
 - [Three SIG Cohort 1 elementary schools that integrated PK–3 early learning strategies into turnaround plans showed improved student achievement](sig-schools-integrating-pk3-strategies-improved-achievement.md) — a broader claim this one bears on
 - [Elliott Elementary, one of Nebraska's five lowest performing schools, used SIG funds to launch a pre-kindergarten program and reset its improvement course](elliott-sig-launched-pk-program-turnaround.md) — related
-- Horace Mann Elementary showed steady growth in English language arts MAP scores from 2009 to 2014 and reached provisional accreditation in 2013 — related
+- [Horace Mann Elementary showed steady growth in English language arts MAP scores from 2009 to 2014 and reached provisional accreditation in 2013](horace-mann-ela-map-growth-provisional-accreditation.md) — related

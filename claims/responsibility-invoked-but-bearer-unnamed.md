@@ -64,7 +64,7 @@ Heuristic grammar counts over the corpus flagged agentless passives, responsibil
 ## Related Claims
 - [In GenAI higher-education abstracts, AI is the most frequent named actor and dominates action predicates, while commercial providers are the least visible actor group](genai-abstracts-ai-dominant-actor-providers-invisible.md) — related
 - [Obligation expressions in GenAI higher-education abstracts fall mainly on institutions and educators, with students receiving six and a third of clauses impersonal](obligation-bearers-institutions-educators-dominant.md) — related
-- AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap — related
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
 - [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](students-urge-ai-literacy-and-clear-rules.md) — related
 - [The field's foundational literature called for curricular integration, yet its most-cited contributions concentrated on capability benchmarking such as ChatGPT's USMLE performance](divergence-governance-calls-versus-capability-benchmarking.md) — related
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — related

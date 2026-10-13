@@ -63,5 +63,5 @@ Spotlight interview finding: Birch's coaching roles existed but were limited by 
 
 ## Related Claims
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related
-- Most participating LEAs employ instructional coaches and program coordinators positioned to influence English Learner program design, but these roles are vulnerable to funding cuts — related
+- [Most participating LEAs employ instructional coaches and program coordinators positioned to influence English Learner program design, but these roles are vulnerable to funding cuts](sv-leas-employ-coaches-and-coordinators-for-el-programs.md) — related
 - [Districts use multiple forms of data—learning walks, state assessment items, dashboards, and diagnostics—to give teachers feedback and refine IM implementation over time](data-use-supports-ongoing-hqim-implementation.md) — related

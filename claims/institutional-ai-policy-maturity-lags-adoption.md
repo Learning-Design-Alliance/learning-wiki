@@ -62,8 +62,8 @@ The synthesis reports, citing the Digital Education Council Global AI Faculty Su
 
 
 ## Related Claims
-- Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use — possibly the same claim (merge candidate)
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — possibly the same claim (merge candidate)
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
-- AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent — a broader claim this one bears on
+- [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
-- Generative AI adoption among learners and workers is outpacing institutional policy readiness, creating a gap between behavior and policy — possibly the same claim (merge candidate)
+- [Generative AI adoption among learners and workers is outpacing institutional policy readiness, creating a gap between behavior and policy](ai-adoption-outpaces-institutional-policy-readiness.md) — possibly the same claim (merge candidate)

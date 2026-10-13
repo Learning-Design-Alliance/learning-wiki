@@ -43,7 +43,7 @@ Interaction-view analysis of the classroom setting, in which 32 of 81 students u
 
 
 ## Related Claims
-- Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code — related
-- Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%) — related
+- [Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code](cs2-student-llm-use-three-themes.md) — related
+- [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related

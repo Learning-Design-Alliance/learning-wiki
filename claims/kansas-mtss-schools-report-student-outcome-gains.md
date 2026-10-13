@@ -43,7 +43,7 @@ Self-report survey data from the 2014 Kansas MTSS School Survey of Effective Ins
 
 
 ## Related Claims
-- Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training — related
+- [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training](kansas-mtss-half-schools-trained.md) — related
 - [Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are inconclusive](kansas-mtss-screening-gains-small-sample-inconclusive.md) — related
 - [Kansas schools moved from exploration to initial implementation of MTSS between 2012 and 2014, while full implementation stayed near 8%](kansas-mtss-schools-advance-implementation-stages.md) — related
 - [KSDE established a statewide infrastructure — Core Team, facilitators, symposium, and website — that respondents rate as effectively supporting MTSS](kansas-mtss-state-infrastructure-support.md) — related

@@ -43,10 +43,10 @@ Section 3 summary comparing charter subgroup growth trends (Black, Hispanic, pov
 
 
 ## Related Claims
-- Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers — related
+- [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related
 - [Charter schools in many of the 10 studied cities make overall positive contributions to students' learning growth relative to state averages](credo-cohort1-charter-positive-growth-contributions.md) — a broader claim this one bears on
-- Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth — a narrower finding that bears on this claim
-- Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth — a narrower finding that bears on this claim
+- [Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth](fort-worth-poverty-students-charter-advantage-reading.md) — a narrower finding that bears on this claim
+- [Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth](fort-worth-hispanic-students-charter-advantage-reading.md) — a narrower finding that bears on this claim
 - [District schools in most studied cities show consistently weaker performance growth than state averages, with exceptions including Denver](credo-cohort1-district-weaker-growth-exceptions.md) — related
 - [Innovation school students mostly do not deviate from citywide growth trends, with Denver innovation schools an outperforming exception](credo-cohort1-innovation-schools-citywide-trends-denver-exception.md) — related
 - [South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS](sc-charter-demographic-composition-differs.md) — related

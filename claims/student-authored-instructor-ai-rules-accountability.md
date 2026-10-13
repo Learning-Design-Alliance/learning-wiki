@@ -63,8 +63,8 @@ Provenance analysis of the exercise: the Gemini-generated assignment instructed 
 
 ## Related Claims
 - [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](students-urge-ai-literacy-and-clear-rules.md) — related
-- AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap — a broader claim this one bears on
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — a broader claim this one bears on
 - [Among the 50 most innovative U.S. universities, instructor-set syllabus-level governance is the dominant GenAI convergence, with 33 of 50 providing syllabus or course-policy guidance](instructor-syllabus-level-genai-governance-dominant.md) — related
-- AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent — a broader claim this one bears on
+- [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on
 - [Under GenAI power dynamics, many instructors updated teaching practices to retain authority and promote student accountability](instructors-update-practices-to-retain-authority-accountability.md) — related
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — related

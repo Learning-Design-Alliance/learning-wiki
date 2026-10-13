@@ -63,5 +63,5 @@ Lessons from the field section reporting what leaders and educators told the ins
 
 ## Related Claims
 - [Narrow, skills-only KEAs can narrow the kindergarten curriculum and foster inappropriate teaching, while holistic observational assessment can drive developmentally appropriate practice](narrow-kea-content-narrows-curriculum-holistic-assessment-supports-dap.md) — a narrower finding that bears on this claim
-- Instructionally relevant decisions influenced by state assessments are made by many actors beyond day-to-day teacher-student interactions — related
+- [Instructionally relevant decisions influenced by state assessments are made by many actors beyond day-to-day teacher-student interactions](systemwide-actors-shape-instruction-via-assessment.md) — related
 - [School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions](reform-narrowly-focuses-on-instruction.md) — related

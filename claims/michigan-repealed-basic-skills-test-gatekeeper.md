@@ -44,5 +44,5 @@ The policy scan's licensure criterion reports that Michigan "reviewed the licens
 
 ## Related Claims
 - [Teacher licensure exams disproportionately fail teacher candidates of color without predicting teaching effectiveness](licensure-exams-disparate-fail-rates-no-effectiveness-prediction.md) — a broader claim this one bears on
-- Candidates of color complete Michigan teacher preparation programs at lower rates than they enroll: nearly 20% of enrollees but only 12% of completers in 2022-23 were people of color — related
+- [Candidates of color complete Michigan teacher preparation programs at lower rates than they enroll: nearly 20% of enrollees but only 12% of completers in 2022-23 were people of color](michigan-teacher-prep-completion-gap-candidates-of-color.md) — related
 - [Michigan's teacher workforce was far less diverse than its student population in 2018-19 (9.7% vs 34.2% people of color)](michigan-teacher-student-diversity-mismatch.md) — related

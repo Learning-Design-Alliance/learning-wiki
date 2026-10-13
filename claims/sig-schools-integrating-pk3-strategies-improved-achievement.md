@@ -44,7 +44,7 @@ Cross-case synthesis of three case studies of SIG Cohort 1 elementary schools se
 
 ## Related Claims
 - [Elliott Elementary, one of Nebraska's five lowest performing schools, used SIG funds to launch a pre-kindergarten program and reset its improvement course](elliott-sig-launched-pk-program-turnaround.md) — related
-- Horace Mann Elementary showed steady growth in English language arts MAP scores from 2009 to 2014 and reached provisional accreditation in 2013 — a narrower finding that bears on this claim
+- [Horace Mann Elementary showed steady growth in English language arts MAP scores from 2009 to 2014 and reached provisional accreditation in 2013](horace-mann-ela-map-growth-provisional-accreditation.md) — a narrower finding that bears on this claim
 - [Orchard Gardens K–8 School rose from among Massachusetts' lowest-performing schools (Level 4) to Level 1 during its SIG turnaround](orchard-gardens-level4-to-level1-turnaround.md) — a narrower finding that bears on this claim
 - [Teachers integrating a new assessment tool into early childhood practice need a range of supports to act effectively on the information it provides](teachers-need-multiple-supports-integrate-new-assessments.md) — related
 - [No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth](no-significant-district-offerings-math-links.md) — related

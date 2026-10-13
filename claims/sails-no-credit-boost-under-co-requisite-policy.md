@@ -43,7 +43,7 @@ Policy-change comparison: after the 2015 co-requisite remediation policy, which 
 
 
 ## Related Claims
-- Remediation requirements are not a primary driver of low college degree completion rates — related
+- [Remediation requirements are not a primary driver of low college degree completion rates](remediation-not-primary-driver-low-completion.md) — related
 - [Completing SAILS boosted first-year community college students' enrollment in college-level math by nearly 30 percentage points](sails-boosted-college-level-math-enrollment-30-points.md) — related
 - [SAILS completers had completed only 1.5 additional college courses after two years](sails-only-1-5-additional-courses-two-years.md) — related
 - [The high school SAILS remedial math course did not improve math achievement more than a typical senior year math course](sails-no-math-achievement-gain-rd.md) — related

@@ -62,11 +62,11 @@ Quantitative analysis of welcoming-school students' reading outcomes the year af
 
 
 ## Related Claims
-- Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year — a narrower finding that bears on this claim
-- Core GPA was not affected immediately after closures, but students from closed schools showed small negative effects in years three and four, more pronounced for students in grades 3-5 at announcement — related
-- School closings reduced displaced students' reading and math achievement during the announcement year, about six months before schools actually closed — related
-- The math test-score gap for students from closed schools persisted for four years post-closings, while reading scores rebounded to expected levels by the second year — a narrower finding that bears on this claim
-- One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects — reports the opposite
+- [Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year](closed-school-test-scores-lower-announcement-year.md) — a narrower finding that bears on this claim
+- [Core GPA was not affected immediately after closures, but students from closed schools showed small negative effects in years three and four, more pronounced for students in grades 3-5 at announcement](core-gpa-delayed-negative-effects-closed-schools.md) — related
+- [School closings reduced displaced students' reading and math achievement during the announcement year, about six months before schools actually closed](announcement-year-achievement-loss-school-closings.md) — related
+- [The math test-score gap for students from closed schools persisted for four years post-closings, while reading scores rebounded to expected levels by the second year](math-gap-persisted-four-years-post-closings.md) — a narrower finding that bears on this claim
+- [One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects](achievement-returns-to-expected-after-closing.md) — reports the opposite
 - [School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later](no-long-term-achievement-effects-school-closings.md) — reports the opposite
-- Core GPA was unaffected immediately after closures, but closed-school students who were in grades 3-5 in the announcement year showed negative GPA effects three and four years post-closure — related
-- School closures had no effect on absences or suspension rates for affected students — related
+- [Core GPA was unaffected immediately after closures, but closed-school students who were in grades 3-5 in the announcement year showed negative GPA effects three and four years post-closure](delayed-gpa-effects-grades-3-5-closed-schools.md) — related
+- [School closures had no effect on absences or suspension rates for affected students](closures-no-effect-absences-suspensions.md) — related

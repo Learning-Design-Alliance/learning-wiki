@@ -45,5 +45,5 @@ Observational analysis of units earned by race/ethnicity within QR placement (Fi
 ## Related Claims
 - [Average first-year baccalaureate units earned decreased with each lower QR placement category, from about 27 units in Category I to about 20 in Category IV](eo1110-credit-accumulation-declines-by-placement.md) — related
 - [Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts](eo1110-credit-gaps-by-ethnicity-persist.md) — possibly the same claim (merge candidate)
-- Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort — related
-- Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts — related
+- [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
+- [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related

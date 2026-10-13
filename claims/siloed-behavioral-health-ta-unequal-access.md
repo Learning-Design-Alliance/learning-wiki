@@ -62,6 +62,6 @@ A COE leader interviewed for the project stated that "There should be equitable 
 
 ## Related Claims
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — related
-- LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students — related
-- California LEAs cobble together school-based behavioral health funding from short-term funds, ongoing education funds, and Medi-Cal reimbursement, with no ongoing dedicated source — related
+- [LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students](lea-ta-needs-four-categories-school-behavioral-health.md) — related
+- [California LEAs cobble together school-based behavioral health funding from short-term funds, ongoing education funds, and Medi-Cal reimbursement, with no ongoing dedicated source](lea-braid-multiple-behavioral-health-funding-streams.md) — related
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related

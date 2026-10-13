@@ -58,8 +58,8 @@ Program description of the fast-track manufacturing pilot at Savannah Technical 
 
 
 ## Related Claims
-- The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent — related
-- Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners — a broader claim this one bears on
+- [The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent](five-themes-rural-microcredential-initiatives.md) — related
+- [Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners](micro-credentials-disrupt-pathways-access-excluded-learners.md) — a broader claim this one bears on
 - [The review reports, citing Meyer et al., that stacking micro-credentials increases employment by four percent and quarterly wages by seven percent](stacking-microcredentials-increases-employment-wages.md) — related
 - [Most rural learner participants reported micro-credentials yielded increased opportunity for skill development, job promotion, salary increase, credential attainment, and/or enrollment in additional educational programming](rural-microcredential-learners-report-skill-and-employment-gains.md) — a broader claim this one bears on
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — a broader claim this one bears on

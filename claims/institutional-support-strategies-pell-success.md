@@ -62,5 +62,5 @@ Case-study profile of Western Oregon University's Western Tuition Promise Progra
 
 
 ## Related Claims
-- Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics — a broader claim this one bears on
-- About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points — a broader claim this one bears on
+- [Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics](similar-colleges-different-pell-outcomes.md) — a broader claim this one bears on
+- [About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points](pell-gap-institution-distribution.md) — a broader claim this one bears on

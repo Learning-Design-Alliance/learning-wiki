@@ -46,4 +46,4 @@ The fact sheet lists potential advantages in sports among the benefits of redshi
 - [Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages](redshirted-cohort-third-grade-outcomes.md) — related
 - [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) — related
 - [Redshirted students' early-grade academic advantage over on-time peers fades as students move through school](redshirting-academic-advantage-short-lived.md) — related
-- Kindergarten redshirting rates have remained around 5% of kindergarteners for roughly two decades — related
+- [Kindergarten redshirting rates have remained around 5% of kindergarteners for roughly two decades](redshirting-rate-stable-about-5-percent.md) — related

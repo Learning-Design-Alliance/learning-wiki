@@ -45,6 +45,6 @@ Disaggregated credit-accumulation analysis of the 2017 and 2018 cohorts using Le
 ## Related Claims
 - [Average first-year baccalaureate units earned decreased with each lower QR placement category, from about 27 units in Category I to about 20 in Category IV](eo1110-credit-accumulation-declines-by-placement.md) — related
 - [Within QR placement categories, White and Asian students earned significantly more first-year units than Black/African American and Hispanic/Latino students, with gaps most pronounced in Category IV](eo1110-units-earned-racial-gaps-within-placement.md) — possibly the same claim (merge candidate)
-- Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort — related
+- [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
 - [Under EO 1110, students in QR placement categories III and IV attempted and earned more baccalaureate credits in their first year than comparable 'not college ready' students did in 2017](eo1110-supported-placement-more-first-year-credits.md) — related
-- Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students — related
+- [Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students](eo1110-retention-unchanged-for-support-students.md) — related

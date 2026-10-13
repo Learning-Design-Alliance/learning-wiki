@@ -43,8 +43,8 @@ The article's stated rationale: reliance on the assumption that aggregate-score 
 
 
 ## Related Claims
-- School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions — related
-- No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations — a narrower finding that bears on this claim
+- [School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions](school-officials-use-aggregate-scores-for-monitoring.md) — related
+- [No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations](cps-school-level-variation-nocredit-rates.md) — a narrower finding that bears on this claim
 - [Changes in school composition over time during the COVID-19 pandemic may contaminate school-aggregate test scores and produce faulty comparisons with historical and proximal aggregate scores](covid-school-composition-changes-contaminate-aggregate-scores.md) — a narrower finding that bears on this claim
 - [An argument-based approach to test score effectiveness can be illustrated by contrasting effectiveness arguments for interim assessments based on a conventional test blueprint versus one augmented with learning progressions](effectiveness-arguments-interim-blueprint-contrast.md) — related
 - [School-level aggregated scores on the computer-based PISA-Based Test for Schools were highly stable despite considerable differential engagement among schools](school-means-stable-despite-differential-engagement.md) — related

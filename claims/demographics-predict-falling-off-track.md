@@ -43,11 +43,11 @@ Hierarchical generalized linear models predicting status change among students o
 
 
 ## Related Claims
-- Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school — related
+- [Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school](black-hispanic-students-off-track-throughout-middle-school.md) — related
 - [Student-level and school-level demographic characteristics significantly predict middle school academic trajectories toward college readiness](demographics-predict-college-readiness-trajectories.md) — a broader claim this one bears on
 - [Among students starting 6th grade on track, being male, Black, Hispanic, or attending a higher low-income school is associated with falling off track](falling-off-track-predictors-on-track-6th-graders.md) — possibly the same claim (merge candidate)
 - [Being male, Black, or Hispanic and changing schools predict lower odds of moving on-track; the reading findings are qualitatively similar](demographics-predict-moving-on-track.md) — related
-- Always on-track and always off-track students attend schools with systematically different demographic compositions — related
+- [Always on-track and always off-track students attend schools with systematically different demographic compositions](trajectory-groups-differ-school-demographics.md) — related
 - [Background characteristics independently predict 9th-grade off-track indicators: boys are 1.7 times as likely to be suspended and 3.5 times as likely to have a GPA below a C than girls](background-covariates-predict-off-track.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Middle school on-track status for college readiness is stable for most students across grades 6 to 8](middle-school-on-track-status-stable.md) — related

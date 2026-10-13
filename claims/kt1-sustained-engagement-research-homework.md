@@ -44,4 +44,4 @@ Administrative course record analysis of the KT1 course: of 42 active coursework
 
 ## Related Claims
 - [Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago](mastery-learning-higher-earned-credit-rates.md) — related
-- Students in grades 4-8 were much more likely to receive no-credit grades during remote learning, with 41 percent receiving at least one Incomplete in spring 2020 — related
+- [Students in grades 4-8 were much more likely to receive no-credit grades during remote learning, with 41 percent receiving at least one Incomplete in spring 2020](cps-grades-4-8-no-credit-incompletes-spring-2020.md) — related

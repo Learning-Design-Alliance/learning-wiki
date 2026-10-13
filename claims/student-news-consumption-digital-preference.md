@@ -44,4 +44,4 @@ Survey of 141 university students reporting media use. The article states "socia
 - [More frequent media consumption is associated with greater perceived ability to manage and critically analyze information](consumption-frequency-confidence-association.md) — related
 - [Students hold a generally critical stance toward media influence on their opinions, with traditional formats inspiring more trust than digital platforms](media-influence-perception-trust-formats.md) — related
 - [Television news specials viewing shows no substantial age increase in frequency but systematic increases in stability and parent-child similarity](news-specials-stability-similarity-increase.md) — related
-- University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms — related
+- [University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms](students-low-familiarity-media-literacy-terms.md) — related

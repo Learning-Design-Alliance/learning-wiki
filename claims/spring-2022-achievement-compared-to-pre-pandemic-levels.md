@@ -45,4 +45,4 @@ The appendix page states the second main research question investigated in the b
 ## Related Claims
 - [The brief compared pandemic achievement gains to pre-pandemic trends for students low- or high-achieving at the pandemic's start](covid-gains-by-initial-achievement-research-question.md) — related
 - [The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.](2021-22-gains-compared-to-pre-pandemic-trends-rebound-signs.md) — related
-- End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points) — related
+- [End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)](spring-2022-achievement-below-typical-math-declines-larger.md) — related

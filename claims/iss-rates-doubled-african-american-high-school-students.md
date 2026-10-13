@@ -43,13 +43,13 @@ Trend analysis of CPS administrative data on in-school suspensions by race and g
 
 
 ## Related Claims
-- Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate — related
+- [Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate](cps-arrest-rates-declined-racial-disparities.md) — related
 - [Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14](cps-high-school-oss-rates-declined-2009-2014.md) — related
 - [A subset of about a quarter of Chicago high schools and 10 percent of middle-grades schools have very high suspension rates, almost all predominantly serving African-American students](high-suspension-schools-concentrated-disadvantage.md) — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
-- At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school — related
-- Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race — related
+- [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
+- [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
 - [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related
-- Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment — related
-- Racial differences in suspension rates reflect policies and adult biases, not differences in behavior — related
+- [Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment](disproportionate-discipline-students-of-color-disabilities.md) — related
+- [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related

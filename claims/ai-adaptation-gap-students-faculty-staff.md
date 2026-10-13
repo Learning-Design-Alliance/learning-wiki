@@ -62,9 +62,9 @@ Pairwise Welch comparisons on the academic integrity concerns index showed "g = 
 
 
 ## Related Claims
-- Weekly AI use differs sharply across groups even though nearly all groups report similar prevalence of any AI-service use, with administrative staff highest in prevalence but lowest in weekly use — a narrower finding that bears on this claim
+- [Weekly AI use differs sharply across groups even though nearly all groups report similar prevalence of any AI-service use, with administrative staff highest in prevalence but lowest in weekly use](weekly-use-prevalence-divergence.md) — a narrower finding that bears on this claim
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [In the pooled OLS model of current AI-use intensity, perceived usefulness (β = 0.322) and competence (β = 0.268) are the strongest positive associations, while institutional policy clarity shows no association after adjustment](policy-clarity-not-associated-with-use-intensity.md) — related
 - [Students and faculty use AI for different tasks: students for applied learning activities, faculty for academic and instructional tasks](role-based-ai-use-students-faculty.md) — related
 - [Faculty members reported greater ethical-boundary strictness about GenAI than students, the only group difference surviving Bonferroni adjustment](faculty-greater-ethical-boundary-strictness-than-students.md) — related
-- Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort — related
+- [Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort](professional-staff-compressed-genai-profile.md) — related

@@ -45,5 +45,5 @@ Authors' synthesis across the three case study profiles. Since 2019, "$36.9 mill
 ## Related Claims
 - [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](nm-community-schools-improved-outcomes-three-sites.md) — related
 - [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — a broader claim this one bears on
-- LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students — related
+- [LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students](lea-ta-needs-four-categories-school-behavioral-health.md) — related
 - [Provider assistance to probation schools suffered from low intensity, poor communication among providers, and weak organizational change strategies](probation-support-implementation-constraints.md) — related

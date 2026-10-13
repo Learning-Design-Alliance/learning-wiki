@@ -43,6 +43,6 @@ A qualitative multiple-case study by Gleason and Gerzon selected four exemplary 
 
 
 ## Related Claims
-- As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding — related
+- [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
 - [The Buffalo Promise Neighborhood serves a predominantly minority, high-poverty community](buffalo-promise-neighborhood-high-poverty-minority-community.md) — related
 - [About 46% of the lowest 5% achieving schools show the same growth as the highest 5% achieving schools](46-percent-low-achieving-schools-same-growth-as-top.md) — related

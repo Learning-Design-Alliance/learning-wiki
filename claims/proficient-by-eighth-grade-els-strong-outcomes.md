@@ -62,12 +62,12 @@ Descriptive multi-outcome comparison (attendance, math and reading NWEA-MAP, cou
 
 
 ## Related Claims
-- More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school — related
+- [More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school](access-proficiency-timing-fifth-grade-window.md) — related
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs](began-as-els-similar-achievement-higher-attendance.md) — related
 - [ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services](bilingual-services-higher-el-outcomes-than-refusal.md) — related
 - [GPAs were very similar for students who did and did not enter CPS as ELs, with a reading-grade gap that closed by seventh grade and similar Freshman OnTrack rates](el-gpas-reading-grades-ontrack-similar.md) — related
-- Students who began as ELs were not overidentified for special education services relative to students never classified as ELs — related
+- [Students who began as ELs were not overidentified for special education services relative to students never classified as ELs](els-not-overidentified-special-education.md) — related
 - [ELs who did not reach proficiency by eighth grade showed continued growth but started first grade with much lower ACCESS scores, and rising grade-level thresholds meant they never met the proficiency cut](non-proficient-els-low-first-grade-access-growth.md) — related
 - [Years-as-EL course-taking differences disappear once eighth-grade test scores are considered](el-course-taking-gaps-explained-by-prior-achievement.md) — related
 - [Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment](cps-english-learner-attainment-2020.md) — related

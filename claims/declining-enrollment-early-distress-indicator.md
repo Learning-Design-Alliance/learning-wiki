@@ -48,5 +48,5 @@ Authorizer interview findings on operational capacity: authorizers frequently na
 - [Culture indicators of distress included chaotic student culture, discontented staff culture, and weak family and community connection](culture-distress-indicators-charter-schools.md) — related
 - [Frequent or midyear leadership turnover is one of the earliest and most prevalent indicators of charter school distress](leadership-turnover-early-distress-indicator.md) — related
 - [Authorizers can identify distress indicators through existing formal and informal monitoring activities](existing-monitoring-yields-distress-indicators.md) — a broader claim this one bears on
-- Fragile enrollment created a downward spiral linking enrollment loss to budget cuts and steeper financial decline — related
+- [Fragile enrollment created a downward spiral linking enrollment loss to budget cuts and steeper financial decline](fragile-enrollment-downward-spiral-charter-finance.md) — related
 - [School leaders entering the 'death spiral' exhibit noticeable behavioral changes such as hostility toward data, crisis mentality, and guarded communication](death-spiral-leader-behavior-changes.md) — related

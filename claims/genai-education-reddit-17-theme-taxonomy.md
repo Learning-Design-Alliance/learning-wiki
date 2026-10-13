@@ -44,7 +44,7 @@ Topic modelling of 270,929 AI-filtered Reddit records from 26 education subreddi
 
 ## Related Claims
 - [17% of GenAI education threads are cross-role; one third of cross-role contact occurs in adversarial integrity themes](cross-role-threads-adversarial-integrity-contact.md) — related
-- Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72) — related
+- [Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72)](sentiment-engagement-negative-correlation-genai.md) — related
 - [Stakeholder communities differ sharply in GenAI discourse focus: K-12 teachers foreground cognitive dependency, academics detection, professional students career anxiety](stakeholder-communities-differential-genai-focus.md) — related
 - [LDA topic modeling of HI/HIM AI policy documents identifies four dominant themes: academic integrity, generative AI use, AI in research, and ChatGPT engagement](lda-four-themes-hi-him-ai-policies.md) — related
 - [Critical discourse analysis of 49 educator Reddit posts identifies seven forms of academic erasure in AI-supported writing](seven-forms-academic-erasure-educator-discourse.md) — related

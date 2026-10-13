@@ -64,9 +64,9 @@ Schools were classified as overperformer, average, or underperformer by non-over
 ## Related Claims
 - [Schools beating the odds — moving from underperformer to overperformer growth status between Grades 1 and 2 — are rare (about 1% of schools)](beat-the-odds-under-to-over-transition-rare.md) — related
 - [Overall mathematics growth in Grades 1 and 2 was nonlinear with slight deceleration, with larger weekly growth and deceleration rates in Grade 1 than Grade 2](grade1-2-math-growth-nonlinear-deceleration.md) — related
-- No evidence that overperforming schools enroll fewer students who start the year further behind in mathematics — related
-- About 14% of Grade 1 schools and 13% of Grade 2 schools were positive deviants whose growth exceeded the average growth confidence bounds — related
-- Substantial variation in mathematics growth was attributable to schools, with 29% and 27% of linear growth-rate variance at the school level in Grades 1 and 2 — possibly the same claim (merge candidate)
+- [No evidence that overperforming schools enroll fewer students who start the year further behind in mathematics](no-evidence-overperformers-fewer-students-behind.md) — related
+- [About 14% of Grade 1 schools and 13% of Grade 2 schools were positive deviants whose growth exceeded the average growth confidence bounds](positive-deviant-schools-math-growth.md) — related
+- [Substantial variation in mathematics growth was attributable to schools, with 29% and 27% of linear growth-rate variance at the school level in Grades 1 and 2](school-level-variation-math-growth-grade1-2.md) — possibly the same claim (merge candidate)
 - [Mathematics growth in Grades 1-3 is nonlinear with deceleration, so more growth occurs in the first half of the school year, and average growth rates decline across grade levels](early-math-growth-decelerates-first-half-year.md) — related
 - [Student-by-classroom interaction accounts for a substantial share of variation in noncognitive factors, indicating context-specific malleability](student-classroom-interaction-variance-noncognitive-factors.md) — related
 - [More of the variance in linear growth lies at the school level for fall-to-spring than for spring-to-spring estimates, in some cases twice or three times as much](more-school-level-variance-fall-to-spring-growth.md) — related

@@ -43,7 +43,7 @@ District-level descriptive analysis of CPS administrative data combining 2023 gr
 
 
 ## Related Claims
-- An estimated 31 million or more US students over the last 20 years enrolled in but did not complete post-secondary education — related
+- [An estimated 31 million or more US students over the last 20 years enrolled in but did not complete post-secondary education](31-million-enrolled-not-completed.md) — related
 - [The 2021 Post-secondary Attainment Index for CPS ninth-graders is 27.0%, essentially unchanged from 2020](cps-2021-pai-27-percent.md) — related
 - [If current rates hold, 27 percent of current CPS ninth-graders will complete any college credential within 10 years (2019 PAI)](cps-2019-pai-27-percent-any-credential.md) — related
 - [The 2020 Post-Secondary Attainment Index is 27 percent, and no race/ethnicity and gender group reaches the 75 percent aspiration benchmark](cps-pai-27-percent-2020.md) — related

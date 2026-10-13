@@ -62,7 +62,7 @@ Analysis of second-semester B4 outcomes for 28,980 QR Category II-IV non-complet
 
 
 ## Related Claims
-- First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent — related
+- [First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent](eo1110-a2-completion-unchanged.md) — related
 - [Second-semester stretch courses had higher completion rates than other course types for B4 across all placement categories and for A2 in Categories III and IV, but not Category II; corequisite and traditional course completion rates did not differ significantly](eo1110-stretch-course-completion-advantage.md) — related
 - [First-year completion of the A2 and B4 General Education requirements varied sharply by placement category, with wider gaps in QR than in WC](eo1110-ge-completion-varies-by-placement.md) — related
 - [Faculty report stretch models are widely seen as effective for developmental writing and function best when the same instructor and student cohort persist across semesters](stretch-models-same-instructor-cohort-across-semesters.md) — related

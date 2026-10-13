@@ -47,5 +47,5 @@ Results overview for the Freshman OnTrack outcome in CPS high schools, comparing
 - [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](elementary-gpa-strong-5essentials-measures.md) — related
 - [Yearly high school attendance grew up to 3.55 percentage points more in schools with strong 5Essentials Survey measures than in schools with average scores](high-school-attendance-strong-5essentials-measures.md) — related
 - [Elementary attendance improved more in schools that were strong or growing on 5Essentials Survey measures, in both pooled and within-school models](elementary-attendance-improves-strong-5essentials-measures.md) — related
-- CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017 — related
+- [CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017](cps-freshman-ontrack-rose-25-points.md) — related
 - [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](cps-ontrack-rose-58-to-89-graduation-up-19-points.md) — related

@@ -64,8 +64,8 @@ Table 1, Models 2-3: state-funded PreK4 enrollment (2022-23) predicted improveme
 ## Related Claims
 - [Kindergarten math growth from fall to spring is greater in High PreK4 investment states than in Growing or Low states](high-prek4-states-greater-kindergarten-math-growth.md) — related
 - [No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth](no-significant-district-offerings-math-links.md) — related
-- Kindergarten math performance is lower in districts with more schools — related
+- [Kindergarten math performance is lower in districts with more schools](district-size-negative-math-association.md) — related
 - [Two additional state characteristics are marginally associated with kindergarten math improvement: proportion of districts offering state-funded PreK and meeting all ten quality benchmarks](marginal-state-characteristics-math-improvement.md) — related
-- In states requiring specialized prekindergarten teacher training, kindergarten students are more likely to improve in math — related
-- District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time — related
+- [In states requiring specialized prekindergarten teacher training, kindergarten students are more likely to improve in math](specialized-prek-teacher-training-math-improvement.md) — related
+- [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related
 - [Elliott Elementary, one of Nebraska's five lowest performing schools, used SIG funds to launch a pre-kindergarten program and reset its improvement course](elliott-sig-launched-pk-program-turnaround.md) — related

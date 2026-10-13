@@ -43,8 +43,8 @@ Descriptive 2019/20 analysis comparing actual spending with projected adequate s
 
 
 ## Related Claims
-- Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student — related
+- [Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student](adequacy-gap-associated-outcomes.md) — related
 - [Cost function analysis indicates substantially higher spending is needed for equal opportunity: weights of 2.49 for first-generation and 2.63 for students older than 24](cost-function-weights-need-factors.md) — related
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — related
-- Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities — related
+- [Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities](regressive-spending-academically-disadvantaged.md) — related
 - [Smaller community colleges tended to have larger adequacy gaps, with colleges under 4,001 students spending $1,871 (17 percent) below projected adequate cost](small-colleges-larger-adequacy-gaps.md) — related

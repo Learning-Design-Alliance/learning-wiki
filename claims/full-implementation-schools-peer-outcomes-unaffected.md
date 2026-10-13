@@ -44,9 +44,9 @@ Difference-in-differences analysis of peer outcomes under the Philadelphia refor
 
 ## Related Claims
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — a broader claim this one bears on
-- In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased — reports the opposite
+- [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — reports the opposite
 - [A Philadelphia reform prohibiting out-of-school suspension for classroom disorder decreased classroom disorder suspensions among students suspended before the reform](philadelphia-classroom-disorder-oss-ban-reduced-suspensions.md) — related
 - [Attendance, but not academic achievement, improved for previously suspended students following the suspension reform](suspension-reform-improved-attendance-not-achievement.md) — related
-- Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform — related
-- District math and English language arts achievement declined in Philadelphia following the discipline policy reform — related
+- [Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform](philadelphia-reform-modest-decline-nonviolent-suspensions.md) — related
+- [District math and English language arts achievement declined in Philadelphia following the discipline policy reform](philadelphia-reform-math-ela-achievement-declined.md) — related
 - [Suspensions are more salient for students who personally experience suspension than for their peers](suspensions-more-salient-for-suspended-students-than-peers.md) — related

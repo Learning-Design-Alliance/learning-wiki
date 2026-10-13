@@ -45,6 +45,6 @@ The key-findings section reports that reading gains in second grade appeared onl
 ## Related Claims
 - [Chicago pre-k policy changes expanding full-day pre-k access were related to more favorable second-grade math test scores and academic grades for most student groups](chicago-prek-policy-favorable-second-grade-math.md) — related
 - [The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods](prek-pathway-strongest-high-priority-groups.md) — related
-- Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students — related
-- After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups — related
+- [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related
+- [After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups](full-day-access-increased-post-policy.md) — related
 - [District-wide pre-k attendance rates increased modestly (1.5 percentage points) as full-day enrollment expanded, with Black students gaining 3 percentage points](district-prek-attendance-increased-with-fullday-expansion.md) — related

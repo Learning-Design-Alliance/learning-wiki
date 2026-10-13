@@ -43,7 +43,7 @@ Cohort comparison of B4 (quantitative reasoning) GE completion in the first year
 
 
 ## Related Claims
-- Systemwide first-year B4 completion rose to approximately 73 percent in 2018/19, up from approximately 63 percent in each of the three previous years — possibly the same claim (merge candidate)
+- [Systemwide first-year B4 completion rose to approximately 73 percent in 2018/19, up from approximately 63 percent in each of the three previous years](eo1110-b4-completion-increase-first-year.md) — possibly the same claim (merge candidate)
 - [First-year completion of the A2 and B4 General Education requirements varied sharply by placement category, with wider gaps in QR than in WC](eo1110-ge-completion-varies-by-placement.md) — related
 - [Under EO 1110, students in QR placement categories III and IV attempted and earned more baccalaureate credits in their first year than comparable 'not college ready' students did in 2017](eo1110-supported-placement-more-first-year-credits.md) — related
-- Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students — related
+- [Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students](eo1110-retention-unchanged-for-support-students.md) — related

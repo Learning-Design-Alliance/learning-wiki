@@ -41,5 +41,5 @@ Hierarchical regression predicting overall baseline readiness (N = 568), with co
 
 
 ## Related Claims
-- Kazakhstani faculty reported higher baseline GenAI pedagogical readiness than Chinese faculty on all seven dimensions, with the largest differences in disciplinary transfer, prompt design, and basic understanding — related
+- [Kazakhstani faculty reported higher baseline GenAI pedagogical readiness than Chinese faculty on all seven dimensions, with the largest differences in disciplinary transfer, prompt design, and basic understanding](kazakhstani-faculty-higher-baseline-genai-readiness.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

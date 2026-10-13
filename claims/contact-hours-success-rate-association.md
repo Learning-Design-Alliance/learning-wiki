@@ -43,6 +43,6 @@ Cross-institutional comparison in the review's results section, summarized in Ta
 
 
 ## Related Claims
-- Success rates varied substantially across and within institutions, with within-institution section variability slightly less than between-institution variability — related
+- [Success rates varied substantially across and within institutions, with within-institution section variability slightly less than between-institution variability](corequisite-success-variability-across-institutions.md) — related
 - [In their first year, 65.1% of the 410 students in Quantway and Statway College with Corequisite earned a grade of C or better and college-level math credit in a single term](quantway-statway-corequisite-65-percent-success.md) — related
 - [First-year success rates differed by pathway: 79 percent overall for Quantway College with Corequisite versus 54 percent overall for Statway College with Corequisite](quantway-versus-statway-corequisite-success-rates.md) — related

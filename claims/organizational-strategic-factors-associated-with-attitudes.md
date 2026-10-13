@@ -62,6 +62,6 @@ In the climate models from the same multilevel analysis, "only stra- tegic clima
 
 
 ## Related Claims
-- Implementers within the same school share similar attitudes toward EBPs, with intra-class correlations of 0.06 to 0.13 across four attitudinal dimensions — related
+- [Implementers within the same school share similar attitudes toward EBPs, with intra-class correlations of 0.06 to 0.13 across four attitudinal dimensions](attitudes-toward-ebps-cluster-within-schools.md) — related
 - [At the organizational level, general climate negatively moderates the positive effect of strategic climate on implementers' perceptions of EBP appeal and divergence](general-climate-moderates-strategic-climate-effect.md) — related
 - [At the individual level, both general and strategic leadership and climate are associated with Requirement and Openness attitudes, but only general factors with Appeal and Divergence](individual-level-general-and-strategic-factors-attitudes.md) — related

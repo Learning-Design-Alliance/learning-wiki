@@ -43,7 +43,7 @@ Quasi-experimental propensity-score matching study of four NLCI schools versus w
 
 
 ## Related Claims
-- The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points — related
+- [The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points](black-students-largest-fullday-attendance-gap.md) — related
 - [District-wide pre-k attendance rates increased modestly (1.5 percentage points) as full-day enrollment expanded, with Black students gaining 3 percentage points](district-prek-attendance-increased-with-fullday-expansion.md) — related
 - [Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years](full-day-prek-higher-attendance-than-half-day.md) — related
 - [Elementary attendance and school climate improved over time at NLCI schools but not significantly more than at comparison schools](nlci-elementary-attendance-climate-not-significantly-different.md) — related

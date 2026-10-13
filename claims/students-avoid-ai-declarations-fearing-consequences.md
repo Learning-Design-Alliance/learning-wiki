@@ -46,4 +46,4 @@ The article reports, citing Gonsalves, a study at King's Business School where "
 - [Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground](disclosure-trap-penalty-for-transparency.md) — a broader claim this one bears on
 - [Disclosure status alone often changes little in substantive classification, and false declarations change fewer classifications than expected](disclosure-alone-often-changes-little.md) — related
 - [Generic binary GenAI declarations fail to capture the diversity of ways students use GenAI in academic work](binary-genai-declarations-fail-to-capture-use-diversity.md) — related
-- Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation — related
+- [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related

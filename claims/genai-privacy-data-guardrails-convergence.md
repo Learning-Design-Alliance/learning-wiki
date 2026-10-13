@@ -43,7 +43,7 @@ Document analysis of IT and security unit guidance across the 50-institution cor
 
 
 ## Related Claims
-- GenAI support is distributed across four interlocking units: teaching and learning centers, libraries, IT/security units, and academic integrity offices — a broader claim this one bears on
+- [GenAI support is distributed across four interlocking units: teaching and learning centers, libraries, IT/security units, and academic integrity offices](four-unit-genai-support-ecosystem.md) — a broader claim this one bears on
 - [Institutions diverge in tooling strategy between protected, institutionally hosted AI environments and consumer tools governed by risk controls](genai-tooling-strategy-divergence.md) — related
 - [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — related
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related

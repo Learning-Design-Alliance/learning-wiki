@@ -43,9 +43,9 @@ Cross-site qualitative lesson from the case studies. San Francisco developed qua
 
 
 ## Related Claims
-- The five case study states hold LEA and non-LEA providers to consistent quality standards, including class size of 20 or less and 1:10 ratios — a narrower finding that bears on this claim
-- Systemic quality differences between LEA and non-LEA providers are smallest where policies are similar across settings — a broader claim this one bears on
-- Most state-funded preschool programs use a mixed delivery system, with some states serving over half of children in non-LEA settings — related
-- Alabama and New Jersey require and fund salary parity for non-LEA preschool teachers with LEA peers; New York City teachers achieved parity through unionizing — related
+- [The five case study states hold LEA and non-LEA providers to consistent quality standards, including class size of 20 or less and 1:10 ratios](consistent-quality-standards-across-settings.md) — a narrower finding that bears on this claim
+- [Systemic quality differences between LEA and non-LEA providers are smallest where policies are similar across settings](lea-nonlea-differences-smallest-when-policies-similar.md) — a broader claim this one bears on
+- [Most state-funded preschool programs use a mixed delivery system, with some states serving over half of children in non-LEA settings](most-state-preschool-programs-mixed-delivery.md) — related
+- [Alabama and New Jersey require and fund salary parity for non-LEA preschool teachers with LEA peers; New York City teachers achieved parity through unionizing](pay-parity-policies-nonlea-teachers.md) — related
 - [Strong, consistent early childhood leadership coupled with long-term strategic planning is essential to local preschool system coherence in mixed delivery systems](ece-leadership-strategic-planning-local-coherence.md) — related
-- New Jersey's Abbott P-3 credential mandate, with scholarships, pay parity, and expanded higher education capacity, rapidly raised credentialed preschool teacher supply — related
+- [New Jersey's Abbott P-3 credential mandate, with scholarships, pay parity, and expanded higher education capacity, rapidly raised credentialed preschool teacher supply](new-jersey-abbott-p3-credential-scale-up.md) — related

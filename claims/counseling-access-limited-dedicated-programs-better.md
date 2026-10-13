@@ -62,6 +62,6 @@ In the student focus groups, "Students were most satisfied with counseling exper
 
 
 ## Related Claims
-- California community colleges' placement assessments converge on a few common instruments, with ACCUPLACER most common in mathematics and English — related
-- Large majorities of incoming California community college students place into remedial-level mathematics and English — related
+- [California community colleges' placement assessments converge on a few common instruments, with ACCUPLACER most common in mathematics and English](placement-assessment-convergence-accuplacer.md) — related
+- [Large majorities of incoming California community college students place into remedial-level mathematics and English](ca-cc-remedial-placement-rates.md) — related
 - [Students were more positive about advising when their advisor was dedicated to a specific program of study or student population](dedicated-advisors-perceived-more-accurate.md) — related

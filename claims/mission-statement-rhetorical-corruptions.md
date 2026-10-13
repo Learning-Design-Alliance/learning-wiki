@@ -44,7 +44,7 @@ Qualitative analysis of publicly available mission statements from the Canadian 
 
 
 ## Related Claims
-- All eight Ivy League institutions earned D or F grades for Black student access in both 2000 and 2020, with average scores of 45.1 in 2000 and 52 in 2020. — related
+- [All eight Ivy League institutions earned D or F grades for Black student access in both 2000 and 2020, with average scores of 45.1 in 2000 and 52 in 2020.](ivy-league-d-or-f-black-access-both-years.md) — related
 - [Educational rhetoric on the home/school relation and parent involvement spans a century](century-rhetoric-home-school-relation.md) — related
 - [Academic misconduct emerges primarily from systemic pressures rather than individual moral failure, and academic integrity is a collective epistemic practice institutions must sustain](misconduct-from-systemic-pressures-integrity-collective.md) — related
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related

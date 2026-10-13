@@ -45,5 +45,5 @@ Descriptive statement from the publication's overview of KIPP's expansion. The a
 ## Related Claims
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
 - [Coaches and principals in the DLP grew in confidence and skills over the year](dlp-coach-principal-growth.md) — related
-- Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects — related
+- [Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects](middle-grades-principals-lasting-effects-student-outcomes.md) — related
 - [KIPP identifies principal candidates primarily from a talent pool of assistant principals, similar to the approach used by school districts](kipp-principal-candidates-from-ap-talent-pool.md) — related

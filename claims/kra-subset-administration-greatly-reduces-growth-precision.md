@@ -46,4 +46,4 @@ The report contrasts subset administration of the Kindergarten Readiness Assessm
 - [Schools' K-3 growth estimates are likely less valid than grade 3-4 growth estimates but have similar precision](k3-growth-less-valid-than-grade3-4-similar-precision.md) — related
 - [Schools' K-3 growth estimates are much less precise for smaller schools than for larger schools](k3-growth-precision-lower-for-smaller-schools.md) — related
 - [A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability](k3-growth-measure-validity-precision-caution.md) — related
-- Maryland lacked a measure of schools' support of academic growth from kindergarten to grade 3, creating a critical accountability need under ESSA — related
+- [Maryland lacked a measure of schools' support of academic growth from kindergarten to grade 3, creating a critical accountability need under ESSA](maryland-lacked-k3-growth-measure-essa-need.md) — related

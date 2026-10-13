@@ -44,7 +44,7 @@ Thematic analysis of semi-structured interviews with 20 undergraduates who self-
 
 ## Related Claims
 - [Strict AI prohibitions can intensify students' moral conflict without preventing AI use](strict-ai-prohibition-intensifies-moral-conflict.md) — related
-- University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct — related
+- [University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct](institutional-contradiction-genai-integration-versus-misconduct.md) — related
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
-- Moral disengagement is the most common justification category among job-seeking CS students rationalizing ethically concerning employment choices — related
-- Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment — related
+- [Moral disengagement is the most common justification category among job-seeking CS students rationalizing ethically concerning employment choices](moral-disengagement-most-common-justification.md) — related
+- [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — related

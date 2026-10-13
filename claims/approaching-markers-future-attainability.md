@@ -43,4 +43,4 @@ Content analysis of 50 teacher essays on approaching markers. The article states
 ## Related Claims
 - [Teachers' visions most often broadened through wider action strategies, futures thinking, and methodological variety](broadening-markers-teacher-ai-visions.md) — related
 - [Structural and dynamical future-scaffolding skills appeared in teachers' visions, led by causal-relationship identification and present-future shifting](future-scaffolding-skills-teacher-essays.md) — related
-- Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors — related
+- [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related

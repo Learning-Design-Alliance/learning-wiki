@@ -47,13 +47,13 @@ Cohort comparison of fall-to-fall MAP Growth gains: the pandemic cohort (fall 20
 - [Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic](gender-and-school-poverty-moderate-pandemic-gains.md) — related
 - [American Indian and Alaska Native, Black, and Latinx students and students in high-poverty schools were disproportionately impacted by pandemic-era achievement declines, particularly in elementary grades](covid-2020-21-disproportionate-impacts-racialized-high-poverty.md) — related
 - [Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022](pandemic-declines-largest-hispanic-black-aian-students.md) — related
-- BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6 — related
+- [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
 - [NWEA's 2024 technical brief examines pandemic impacts on science achievement and gains from 2019 through 2024, continuing research on COVID-19 school-closure effects on learning](covid-science-achievement-trends-2019-2024-brief.md) — related
 - [Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students](fall-2020-math-achievement-5-10-percentile-points-lower.md) — related
-- In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started — related
-- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — a broader claim this one bears on
+- [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
+- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — a broader claim this one bears on
 - [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](pandemic-growth-varied-by-pre-pandemic-achievement-status.md) — related
 - [Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains](covid-closures-projected-reading-gains-63-68-percent.md) — related
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — related
-- Black and Latinx students generally feel less safe at school than their White peers — related
-- AP scores of 3 or higher declined in Massachusetts from 2019 to 2022 for all groups, with a 39-percentage-point gap between White and Black students — related
+- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
+- [AP scores of 3 or higher declined in Massachusetts from 2019 to 2022 for all groups, with a 39-percentage-point gap between White and Black students](ma-ap-proficiency-declined-racial-gap.md) — related

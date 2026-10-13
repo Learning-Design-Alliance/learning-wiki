@@ -46,4 +46,4 @@ Classification evaluation across the three constructivist question roles. The ar
 - [DeBERTa achieved the highest overall accuracy (86.36%) among the evaluated NLP models for classifying learner-generated questions, yet struggled with contextual nuances in complex queries](deberta-highest-accuracy-86-36-learner-question-classification.md) — related
 - [Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset](simple-classifiers-beat-tree-based-cheating-risk.md) — related
 - [Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021](nlp-la-algorithm-adoption-random-forest-to-deep-learning.md) — related
-- Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use — related
+- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related

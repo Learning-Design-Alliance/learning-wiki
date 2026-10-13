@@ -67,4 +67,4 @@ The case study reports achievement gains in the initiative’s first two cohorts
 - [LAUNCH principals report greater satisfaction and confidence in their preparation while NLNS principals report less confidence in operational management](principal-preparation-satisfaction-confidence-differences.md) — related
 - [Teachers whose leaders prioritized at least one organizational capacity lever reported greater confidence and satisfaction with Skyline materials](leader-investment-lever-teacher-confidence-satisfaction-skyline.md) — related
 - [Former KIPP school leadership program participants reported satisfaction and application of program lessons in their own settings](kipp-leadership-participants-satisfied-and-applied-lessons.md) — related
-- Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts — related
+- [Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts](strategic-staffing-insufficient-rural-districts.md) — related

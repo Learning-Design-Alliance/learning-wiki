@@ -43,5 +43,5 @@ RDD analysis of Clark County students designated At-risk, using spring 2024 grad
 
 
 ## Related Claims
-- In Clark County, One-Star designation significantly raises math and ELA scores for all students — related
+- [In Clark County, One-Star designation significantly raises math and ELA scores for all students](one-star-designation-clark-county-all-students.md) — related
 - [Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores](one-star-designation-statewide-ela-effect.md) — related

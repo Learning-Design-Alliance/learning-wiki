@@ -43,6 +43,6 @@ Descriptive analysis of 2023/24 screening assessment data for an analytic sample
 
 
 ## Related Claims
-- Schools serving students in the Spanish-dominant screening clusters appeared out of compliance with the Massachusetts requirement to screen with an approved (English-only) assessment at least twice per year — related
+- [Schools serving students in the Spanish-dominant screening clusters appeared out of compliance with the Massachusetts requirement to screen with an approved (English-only) assessment at least twice per year](dlbe-spanish-screening-out-of-compliance-requirement.md) — related
 - [English learners' progress beyond the significant risk level differed by test language: 21 percent stayed above threshold in English and 19 percent improved to it, versus 11 percent improving in Spanish](massachusetts-english-learner-spanish-english-screener-divergence.md) — related
 - [Screening language practices are related to English language education program type: SEI students were mostly screened in English while DLBE students were more often screened in Spanish or alternately](screening-language-tied-to-ele-program-type.md) — related

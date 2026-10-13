@@ -44,7 +44,7 @@ Survey and interview data from 54 districts in 31 states and 47 ed-tech provider
 
 
 ## Related Claims
-- Company size did not relate strongly or consistently to provider perceptions of procurement — related
+- [Company size did not relate strongly or consistently to provider perceptions of procurement](company-size-not-related-provider-perceptions.md) — related
 - [Discovery of ed-tech products is a serious challenge for both districts and providers](discovery-serious-challenge-districts-providers.md) — related
 - [School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement](districts-developers-differ-pilot-perspectives.md) — related
 - [Procurement perceived as smoother and more inclusive in smaller districts than larger districts](smaller-districts-smoother-procurement.md) — related

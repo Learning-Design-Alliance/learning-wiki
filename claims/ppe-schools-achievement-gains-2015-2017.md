@@ -62,6 +62,6 @@ Same aggregated 2015–2017 comparison for mathematics proficiency, reported in 
 
 
 ## Related Claims
-- Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains — related
-- MiC district achievement on the CAASPP in mathematics generally followed the same statewide pattern from 2015 to 2018, with MiC districts slightly more homogeneous than non-selected districts — related
-- Student cohorts in several MiC districts showed consistently higher mathematics achievement than the statewide average from 2015 to 2017, with wide district variability — related
+- [Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains](california-math-caaspp-stagnant-lags-ela.md) — related
+- [MiC district achievement on the CAASPP in mathematics generally followed the same statewide pattern from 2015 to 2018, with MiC districts slightly more homogeneous than non-selected districts](mic-districts-follow-statewide-pattern.md) — related
+- [Student cohorts in several MiC districts showed consistently higher mathematics achievement than the statewide average from 2015 to 2017, with wide district variability](mic-cohort-gains-above-state-variability.md) — related

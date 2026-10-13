@@ -62,8 +62,8 @@ Findings section reporting database characteristics of the 42 programs active in
 
 
 ## Related Claims
-- Nearly all California College Promise programs pair financial aid with academic counseling, career counseling, and summer bridge supports — related
-- Most California College Promise programs use a last-dollar financial aid model, with coverage varying across tuition, fees, and books — related
-- Stakeholders most frequently define College Promise by the goals of increasing college access and improving completion — related
-- California College Promise programs commonly impose full-time enrollment, GPA maintenance, and support-service participation requirements — related
+- [Nearly all California College Promise programs pair financial aid with academic counseling, career counseling, and summer bridge supports](ca-promise-academic-support-services-prevalence.md) — related
+- [Most California College Promise programs use a last-dollar financial aid model, with coverage varying across tuition, fees, and books](ca-promise-last-dollar-financial-models.md) — related
+- [Stakeholders most frequently define College Promise by the goals of increasing college access and improving completion](stakeholder-definitions-access-completion-goals.md) — related
+- [California College Promise programs commonly impose full-time enrollment, GPA maintenance, and support-service participation requirements](ca-promise-eligibility-requirements-enrollment-gpa.md) — related
 - [Most stakeholders believe College Promise programs will persist in California, with sustainability contingent on political and financial support](promise-viability-sustainability-conditions.md) — related

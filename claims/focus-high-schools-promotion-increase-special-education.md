@@ -44,6 +44,6 @@ The report's summary of outcome changes states there was "an overall increase in
 
 ## Related Claims
 - [Boston's Focus on High Schools initiative was associated with reductions in student math and English scores after implementation](focus-high-schools-math-english-score-reductions.md) — related
-- Capitation-based special education finance was associated with a rising share of local funding — related
+- [Capitation-based special education finance was associated with a rising share of local funding](capitation-rising-local-funding-share.md) — related
 - [Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch](wilson-reading-system-subgroup-effects-initial-skill-ses.md) — related
 - [Post-capitation disability-rate declines were concentrated in subjectively diagnosed categories and occurred more quickly in less severe categories](capitation-declines-subjective-mild-categories.md) — related

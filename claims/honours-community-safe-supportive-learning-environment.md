@@ -46,7 +46,7 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [A minority of honours community members feel the community is too closed, hindering knowledge growth](honours-community-closedness-hinders-knowledge-growth.md) — related
-- Honours community members report isolation and negative bias from regular students and lecturers — reports the opposite
+- [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — reports the opposite
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related
 - [Youth designers specified norm setting and flexibility as key components of the Tech Talk game instructions](youth-designed-norm-setting-and-flexibility-tech-talk.md) — related

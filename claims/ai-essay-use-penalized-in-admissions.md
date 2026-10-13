@@ -62,7 +62,7 @@ A specification additionally adjusting for the constructed essay-quality dimensi
 
 
 ## Related Claims
-- By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition — related
+- [By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition](majority-applicants-submitted-ai-generated-essays-2025.md) — related
 - [Admissions staff rate essays they perceive as AI-generated lower than essays they believe are human-written, even after adjusting for measured essay quality and actual AI authorship](perceived-ai-use-lowers-staff-quality-ratings.md) — related
 - [The availability of AI assistants improved the quality of submitted admissions essays, particularly mechanical aspects and especially for international applicants](ai-availability-improved-essay-quality.md) — related
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — related

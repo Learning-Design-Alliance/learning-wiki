@@ -43,13 +43,13 @@ From the discussion of the cohort evaluation: graduation rates did not decline w
 
 
 ## Related Claims
-- Chicago's college-prep-for-all policy nearly universalized enrollment in Algebra I and English I and narrowed course-taking gaps by race, ability, and special education status — related
+- [Chicago's college-prep-for-all policy nearly universalized enrollment in Algebra I and English I and narrowed course-taking gaps by race, ability, and special education status](chicago-college-prep-policy-universalized-ninth-grade-enrollment.md) — related
 - [Chicago's College-Prep-for-All policy nearly universalized ninth-grade Algebra I and English I enrollment and closed course-taking gaps by race, ability, and special education status](college-prep-all-increased-ninth-grade-enrollment-equity.md) — related
 - [Universal college-prep coursework did not prepare more students for college: upper-level math credits and four-year college entrance showed no overall gains](college-prep-all-no-college-gains.md) — related
 - [Mandated rigorous-curriculum policies in CPS sometimes had adverse consequences: the IDS initiative saw test scores decline and the college-prep-for-all policy increased course failure without achievement gains](mandated-rigor-policies-adverse-consequences.md) — related
 - [Overall policy effects were concentrated among the lowest-ability students: larger credit gains but more failures and lower math GPAs, with ninth-grade test scores unaffected](overall-policy-effects-lowest-ability.md) — related
 - [Long-term outcomes showed few benefits: slight increases in upper-level math credits for low-ability students but slightly lower final GPAs and reduced 4-year college enrollment for others](long-term-outcomes-few-benefits.md) — related
-- A universal college-prep mandate shifted nearly all ninth graders into Algebra I and English I and largely closed enrollment gaps by race, ability, and special education status — related
+- [A universal college-prep mandate shifted nearly all ninth graders into Algebra I and English I and largely closed enrollment gaps by race, ability, and special education status](college-prep-mandate-near-universal-enrollment-equity-gains.md) — related
 - [Requiring all students to take college-prep courses did not increase dropout; graduation rates did not decline even for low-ability students](college-prep-mandate-no-dropout-increase.md) — possibly the same claim (merge candidate)
 - [Overall policy effects: lowest-ability students earned more ninth-grade credits but also failed more, and long-term outcomes were small to non-existent, with no increase in college entrance](college-prep-policy-effects-small-long-term-no-college-gain.md) — related
 - [Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement](high-stakes-testing-narrows-curriculum.md) — related

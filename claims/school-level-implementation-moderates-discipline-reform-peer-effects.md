@@ -44,15 +44,15 @@ Difference-in-differences analysis of the Philadelphia reform finds that "Postre
 
 ## Related Claims
 - [In schools that eliminated classroom disorder out-of-school suspensions, peer math achievement and attendance were unaffected](full-implementation-schools-peer-outcomes-unaffected.md) — a narrower finding that bears on this claim
-- Many Philadelphia schools did not comply with the policy change prohibiting out-of-school suspension for low-level offenses — a narrower finding that bears on this claim
-- In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased — a narrower finding that bears on this claim
+- [Many Philadelphia schools did not comply with the policy change prohibiting out-of-school suspension for low-level offenses](many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses.md) — a narrower finding that bears on this claim
+- [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — a narrower finding that bears on this claim
 - [A Philadelphia reform prohibiting out-of-school suspension for classroom disorder decreased classroom disorder suspensions among students suspended before the reform](philadelphia-classroom-disorder-oss-ban-reduced-suspensions.md) — related
-- Philadelphia schools varied significantly in how they implemented the discipline policy change — related
-- Truancy rates increased in Philadelphia following the discipline policy reform — related
-- Total suspensions in Philadelphia remained unchanged following the discipline policy reform — related
-- Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform — related
-- Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform — related
-- District math and English language arts achievement declined in Philadelphia following the discipline policy reform — related
+- [Philadelphia schools varied significantly in how they implemented the discipline policy change](philadelphia-discipline-reform-implementation-varied-significantly.md) — related
+- [Truancy rates increased in Philadelphia following the discipline policy reform](philadelphia-reform-truancy-increased.md) — related
+- [Total suspensions in Philadelphia remained unchanged following the discipline policy reform](philadelphia-reform-total-suspensions-unchanged.md) — related
+- [Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform](philadelphia-reform-modest-decline-nonviolent-suspensions.md) — related
+- [Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform](philadelphia-reform-serious-incidents-increased.md) — related
+- [District math and English language arts achievement declined in Philadelphia following the discipline policy reform](philadelphia-reform-math-ela-achievement-declined.md) — related
 - [Attendance, but not academic achievement, improved for previously suspended students following the suspension reform](suspension-reform-improved-attendance-not-achievement.md) — related
 - [District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate](discipline-policy-changes-mixed-effects.md) — related
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — related

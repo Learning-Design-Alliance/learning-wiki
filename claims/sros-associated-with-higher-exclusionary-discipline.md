@@ -45,8 +45,8 @@ A review by Fisher and Hennessy (2016) of studies on SROs and exclusionary disci
 ## Related Claims
 - [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — related
 - [School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school](school-based-law-enforcement-no-significant-change-perceptions-of-safety.md) — related
-- High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students — related
-- Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer — related
+- [High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students](school-characteristics-associated-with-sro-retention.md) — related
+- [Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer](disproportionate-discipline-and-sro-placement.md) — related
 - [SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence](sble-increases-exclusionary-discipline.md) — possibly the same claim (merge candidate)
 - [SRO removal was not significantly related to changes in overall discipline infractions or in suspensions at either the student or school level](sro-removal-no-change-infractions-suspensions.md) — related
 - [Full removal of SROs from CPS high schools was associated with a statistically significant reduction in high-level behavioral infractions at both the student and school levels](sro-removal-reduces-high-level-discipline-infractions.md) — related
@@ -54,5 +54,5 @@ A review by Fisher and Hennessy (2016) of studies on SROs and exclusionary disci
 - [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — related
 - [School resource officers have limited effects on school safety and increase suspensions, expulsions, police referrals, and arrests, with larger negative effects for Black students and students with disabilities](sros-limited-safety-gains-negative-discipline-outcomes.md) — related
 - [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — related
-- Exclusionary discipline disproportionately removes students of color and students with disabilities from school — related
+- [Exclusionary discipline disproportionately removes students of color and students with disabilities from school](exclusionary-discipline-disproportionate-students-of-color-disabilities.md) — related
 - [SBLE presence is associated with higher levels of school crime and behavior incidents, driven by increased exclusionary discipline, in school-level analyses](sble-associated-higher-crime-behavior-school-level.md) — related

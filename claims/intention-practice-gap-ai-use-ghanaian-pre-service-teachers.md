@@ -63,7 +63,7 @@ Authors' discussion of the intention-behaviour gap in the survey findings. They 
 
 ## Related Claims
 - [Ghanaian pre-service science teachers use AI mainly for research and content delivery rather than assessment or student engagement](ai-used-for-research-not-assessment-pre-service-teachers.md) — related
-- Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI — related
+- [Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI](positive-attitudes-pbc-intentions-ai-pre-service-teachers.md) — related
 - [Ghanaian pre-service science teachers hold significantly positive performance expectancy and effort expectancy toward AI](positive-performance-effort-expectancy-ai-pre-service-teachers.md) — related
-- ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use — related
+- [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — related
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related

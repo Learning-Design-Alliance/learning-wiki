@@ -43,6 +43,6 @@ Subgroup comparison of Big Tech application rates in the same survey; the articl
 
 
 ## Related Claims
-- Moral disengagement is the most common justification category among job-seeking CS students rationalizing ethically concerning employment choices — related
+- [Moral disengagement is the most common justification category among job-seeking CS students rationalizing ethically concerning employment choices](moral-disengagement-most-common-justification.md) — related
 - [Job-seeking CS students rank ethical concerns last among job considerations, below remuneration, location, work-life balance, and workplace culture](ethical-concerns-ranked-last-job-consideration.md) — related
 - [Only 55% of concerned respondents who had applied to a company engaged in concerning activities said the knowledge made them less likely to apply](minority-act-on-ethical-concerns-job-applications.md) — related

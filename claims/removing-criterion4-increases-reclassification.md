@@ -45,7 +45,7 @@ The brief states this as an evidence-based expectation ("would likely increase")
 ## Related Claims
 - [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](criterion4-barrier-reclassification.md) — related
 - [ELPAC overall Performance Level 4 is the most robust indicator that language is no longer the primary driver of academic achievement differences among California's reclassification criteria](elpac-pl4-sweet-spot-reclassification.md) — related
-- Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet — related
+- [Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet](field-perceptions-criterion4-barrier.md) — related
 - [English Learner students at ELPAC PL 4 perform as well as, or better than, matched English-only peers on the state English language arts achievement test](pl4-el-students-comparable-to-peers.md) — a narrower finding that bears on this claim
 - [Students from socioeconomically disadvantaged backgrounds fail dual enrollment at higher rates than equally achieving peers, with the gap widening as achievement rises (the readiness illusion)](readiness-illusion-disproportionate-failure-high-achievement.md) — related
 - [English learner students with disabilities are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners](elswd-more-academic-struggle-less-activity-participation.md) — related

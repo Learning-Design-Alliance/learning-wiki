@@ -44,9 +44,9 @@ Disaggregation of pandemic learning gains by gender (Figure 4) and school povert
 
 ## Related Claims
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
-- Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools — related
-- Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2 — related
-- BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6 — related
+- [Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools](covid-achievement-impacts-disproportionate-marginalized-high-poverty.md) — related
+- [Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2](early-elementary-covid-losses-school-poverty-disparities.md) — related
+- [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — related
 - [Sixty percent of the highest-poverty schools also have above-average student growth](sixty-percent-high-poverty-schools-above-average-growth.md) — reports the opposite

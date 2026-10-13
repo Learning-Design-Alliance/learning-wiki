@@ -46,5 +46,5 @@ The book's overview states the system-level outcome as a descriptive account: "I
 - [Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students](cps-decades-improvement-equitable-gains.md) — possibly the same claim (merge candidate)
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
 - [Double-dose algebra was discontinued before its benefits were documented, though subsequent research found long-term benefits](double-dose-algebra-discontinued-prematurely.md) — related
-- Nearly half (47 percent) of CPS graduates enrolled directly in a four-year college in 2016, with total direct enrollment up by roughly 5,500 students over a decade — related
+- [Nearly half (47 percent) of CPS graduates enrolled directly in a four-year college in 2016, with total direct enrollment up by roughly 5,500 students over a decade](cps-four-year-enrollment-47-percent-2016.md) — related
 - [Chicago's Algebra Initiative raised the 8th-grade algebra pass rate from 4% in 2002 to about 20% by 2017 and closed two-thirds of the NAEP gap](cps-algebra-initiative-gains.md) — related

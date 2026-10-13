@@ -44,8 +44,8 @@ Qualitative longitudinal case study of two high-achieving CPS students (Moises a
 
 ## Related Claims
 - [Thoughtful, well-supported students distinguish college fit from college match, treating match as one but not the only component of fit](college-match-versus-fit-distinction.md) — related
-- Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation — related
-- Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly — related
-- Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel too risky — related
-- College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling — a broader claim this one bears on
+- [Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation](only-41-percent-cps-aspiring-graduates-enroll-four-year-college.md) — related
+- [Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly](early-two-year-low-risk-solution.md) — related
+- [Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel too risky](combined-barriers-summer-melt-marco.md) — related
+- [College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling](college-mismatch-common-among-chicago-graduates.md) — a broader claim this one bears on
 - [Becoming too focused on a single college option left a highly qualified student with no fallback when that option fell through, and she did not enroll in college](single-option-focus-summer-melt-risk.md) — a narrower finding that bears on this claim

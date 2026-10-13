@@ -46,4 +46,4 @@ Results on fear and apathy: the interview study reports "students frequently exp
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related
-- Engineering students come to view mastering GenAI as crucial as other engineering skills, driven by labour-market expectations, alongside widespread uncertainty about over-reliance — reports the opposite
+- [Engineering students come to view mastering GenAI as crucial as other engineering skills, driven by labour-market expectations, alongside widespread uncertainty about over-reliance](genai-mastery-new-learning-objective-engineering.md) — reports the opposite

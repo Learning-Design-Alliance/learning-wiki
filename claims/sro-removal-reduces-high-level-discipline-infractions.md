@@ -62,7 +62,7 @@ School-level Poisson count analysis of the 72 high schools with two SROs at base
 
 
 ## Related Claims
-- High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students — related
+- [High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students](school-characteristics-associated-with-sro-retention.md) — related
 - [SRO removal was not significantly related to changes in overall discipline infractions or in suspensions at either the student or school level](sro-removal-no-change-infractions-suspensions.md) — related
 - [Police notifications declined substantially in schools that fully removed SROs, but the difference-in-difference was not statistically significant](sro-removal-police-notifications-declined-not-significant.md) — related
 - [SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust](sro-removal-no-change-school-climate-perceptions.md) — related

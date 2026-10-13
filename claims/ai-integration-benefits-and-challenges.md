@@ -43,7 +43,7 @@ Narrative synthesis of outcomes reported across the 22 included studies; the rev
 
 
 ## Related Claims
-- Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education — related
+- [Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education](ethical-financial-infrastructural-barriers-constrain-ai-sustainability.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

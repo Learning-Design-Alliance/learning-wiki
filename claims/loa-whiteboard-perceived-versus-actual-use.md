@@ -46,6 +46,6 @@ Descriptive analysis of whiteboard adoption (n=15) showed reported levels in the
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
 - [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](loa-lms-adoption-growth.md) — related
 - [Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60](loa-bridging-conferencing-significant-increase.md) — related
-- Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53 — related
+- [Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53](loa-videoconferencing-significant-post-posttest-increase.md) — related
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related

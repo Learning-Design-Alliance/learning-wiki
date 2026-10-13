@@ -67,8 +67,8 @@ Descriptive attendance comparison across the same three cohorts. The report note
 - [ELs who did not reach proficiency by eighth grade showed continued growth but started first grade with much lower ACCESS scores, and rising grade-level thresholds meant they never met the proficiency cut](non-proficient-els-low-first-grade-access-growth.md) — related
 - [GPAs were very similar for students who did and did not enter CPS as ELs, with a reading-grade gap that closed by seventh grade and similar Freshman OnTrack rates](el-gpas-reading-grades-ontrack-similar.md) — related
 - [ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services](bilingual-services-higher-el-outcomes-than-refusal.md) — related
-- Students who began as ELs were not overidentified for special education services relative to students never classified as ELs — related
+- [Students who began as ELs were not overidentified for special education services relative to students never classified as ELs](els-not-overidentified-special-education.md) — related
 - [The study operationalized high achievement as scoring at or above the 90th percentile on the NWEA assessment](high-achievement-defined-as-90th-percentile-or-above.md) — related
 - [English Learner classification in kindergarten negatively impacts teachers' perceptions of students' academic abilities, with a reduced negative effect in bilingual classroom settings](el-classification-negative-teacher-perceptions.md) — related
 - [In Virginia, Hispanic/Latino children labeled English Learners with low kindergarten literacy were 20 percent less likely to achieve grade-3 reading proficiency than similar peers](el-labeling-virginia-reading-proficiency-gap.md) — related
-- AI/AN students perform lower than other student subpopulations on common academic measures, per statistics the report cites from the Education Trust — related
+- [AI/AN students perform lower than other student subpopulations on common academic measures, per statistics the report cites from the Education Trust](aian-student-achievement-gaps-reported.md) — related

@@ -44,6 +44,9 @@ Telephone survey of 75 Illinois districts (random sample of 60 plus the 20 large
 
 ## Related Claims
 
-- About 90 percent of Illinois districts administer standardized achievement tests, with aptitude/IQ tests, career planning instruments, local CRTs, and diagnostic tests less common — related
+- [About 90 percent of Illinois districts administer standardized achievement tests, with aptitude/IQ tests, career planning instruments, local CRTs, and diagnostic tests less common](districts-administer-achievement-tests-mostly.md) — related
 - [Districts most often cite quality and integrity of the testing program as its strength, followed by identifying student strengths and weaknesses](district-testing-strengths-quality-integrity.md)
+- [Districts' most frequently stated testing weaknesses are lack of alignment with standards and curriculum and time taken from instruction, each cited by 24 percent](district-testing-weaknesses-alignment-time.md)
+- [Districts report using test scores more to evaluate school improvement and district programs than to evaluate students, and rarely to evaluate principals or teachers](districts-rate-school-improvement-use-highest.md)
 - [Districts' most frequent suggestions for improving ISAT are stability and consistency and faster turnaround, each urged by about one-quarter of districts](isat-improvement-stability-turnaround.md)
+- [Districts rate ISAT alignment to state learning standards highest among five rated areas, but fewer than half use the top two categories, and month administered and speed of reporting rate lowest](isat-ratings-alignment-highest-timing-lowest.md)

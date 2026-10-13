@@ -44,9 +44,9 @@ Case study of Oakland Unified drawing on interviews, surveys, administrative dat
 
 ## Related Claims
 - [Centralized district management of partnerships enabled community schools to deliver programs and services without the burden of managing partnerships](centralized-partnership-management-frees-schools.md) — related
-- States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives — related
-- Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation — related
+- [States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives](funding-sources-statewide-leadership-initiatives.md) — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
-- Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports — related
-- State investments in community schools range from $3.4 million to $4.1 billion, mostly occurring within the past 3 years, drawing on state funds, federal ESSER funds, or both. — related
-- Ohio shows no evidence of stakeholder engagement, cultural competence training for hiring managers, or district-preparation partnerships for diverse hiring — related
+- [Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports](costs-universally-connect-students-to-supports.md) — related
+- [State investments in community schools range from $3.4 million to $4.1 billion, mostly occurring within the past 3 years, drawing on state funds, federal ESSER funds, or both.](state-community-schools-investments-range-3-4m-to-4-1b.md) — related
+- [Ohio shows no evidence of stakeholder engagement, cultural competence training for hiring managers, or district-preparation partnerships for diverse hiring](ohio-gaps-stakeholder-input-and-hiring-diversity-investments.md) — related

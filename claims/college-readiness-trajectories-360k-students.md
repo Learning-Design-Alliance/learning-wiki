@@ -45,6 +45,6 @@ Nationwide longitudinal observational study described in the abstract: math and 
 ## Related Claims
 - [Student-level and school-level demographic characteristics significantly predict middle school academic trajectories toward college readiness](demographics-predict-college-readiness-trajectories.md) — a narrower finding that bears on this claim
 - [Middle school on-track status for college readiness is stable for most students across grades 6 to 8](middle-school-on-track-status-stable.md) — a narrower finding that bears on this claim
-- Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school — a narrower finding that bears on this claim
-- Most high-achieving middle schoolers were on track for college readiness, but students in wealthy schools were more often on track than those in poor schools — a narrower finding that bears on this claim
+- [Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school](black-hispanic-students-off-track-throughout-middle-school.md) — a narrower finding that bears on this claim
+- [Most high-achieving middle schoolers were on track for college readiness, but students in wealthy schools were more often on track than those in poor schools](college-readiness-gaps-high-achievers-poverty.md) — a narrower finding that bears on this claim
 - [Being male, Black, or Hispanic and changing schools predict lower odds of moving on-track; the reading findings are qualitatively similar](demographics-predict-moving-on-track.md) — a narrower finding that bears on this claim

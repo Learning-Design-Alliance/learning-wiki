@@ -43,7 +43,7 @@ Observational analysis of pilot data on school median student growth percentiles
 
 
 ## Related Claims
-- After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools — related
+- [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](dcps-new-principals-reading-gain-4-percentile-points.md) — related
 - [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related
 - [School median student growth percentiles correlate with student disadvantage](school-mgp-correlates-student-disadvantage.md) — related
 - [Averaging principal performance measures across multiple recent years does not improve their accuracy for predicting principals' contributions in the following year](multiyear-averaging-no-accuracy-gain-principal-measures.md) — related

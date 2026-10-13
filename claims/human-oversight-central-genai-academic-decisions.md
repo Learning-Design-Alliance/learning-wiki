@@ -43,12 +43,12 @@ Grounded-coding finding from the Delphi panel: "Panelists strongly agreed that h
 
 
 ## Related Claims
-- Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences — related
+- [Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences](academic-integrity-paramount-genai-policy-concern.md) — related
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained](pgr-genai-supportive-assistant-human-oversight.md) — related
-- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — a broader claim this one bears on
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
 - [Les citations bibliographiques produites par ChatGPT sont inexistantes ou incorrectes dans 23 % des cas, compromettant le circuit de validation scientifique](chatgpt-hallucinated-citations-23-percent.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
 - [Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10](agent-laboratory-copilot-quality-gain.md) — a narrower finding that bears on this claim

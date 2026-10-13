@@ -43,7 +43,7 @@ Earlier Consortium survey research on CHSRI schools, cited in the report's intro
 
 
 ## Related Claims
-- Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis — related
+- [Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis](cps-charter-organizational-capacity-differences.md) — related
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
 - [Relational trust appears to materialize in schools regardless of vast differences in environments](relational-trust-materializes-regardless-of-environments.md) — related

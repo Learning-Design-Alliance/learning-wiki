@@ -43,7 +43,7 @@ The brief reports research indicating that "many English-only students would fai
 
 
 ## Related Claims
-- Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet — possibly the same claim (merge candidate)
+- [Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet](field-perceptions-criterion4-barrier.md) — possibly the same claim (merge candidate)
 - [Removing Criterion 4 would likely increase reclassification rates for ready students, particularly those with disabilities or from lower socioeconomic backgrounds, without harming academic performance](removing-criterion4-increases-reclassification.md) — related
 - [Students who meet Criterion 1 achieve at the same level whether they remain in EL status or exit, suggesting retention in EL status after proficiency provides no clear academic benefit](retained-versus-exited-equivalent-achievement.md) — related
 - [ELPAC overall Performance Level 4 is the most robust indicator that language is no longer the primary driver of academic achievement differences among California's reclassification criteria](elpac-pl4-sweet-spot-reclassification.md) — related

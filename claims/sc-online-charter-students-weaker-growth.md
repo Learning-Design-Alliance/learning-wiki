@@ -43,8 +43,8 @@ Delivery-system comparison across roughly 10,000 online charter students in six 
 
 
 ## Related Claims
-- Brick-and-mortar Idaho charter students show stronger growth than average TPS students in both subjects — related
+- [Brick-and-mortar Idaho charter students show stronger growth than average TPS students in both subjects](idaho-brick-and-mortar-charter-gains.md) — related
 - [Idaho online charter students show weaker math growth than TPS VCRs and lag brick-and-mortar charter students in both subjects](idaho-online-charter-learning-deficits.md) — related
 - [Online charter students in New Mexico gain significantly less than brick-and-mortar charter students, offsetting brick-and-mortar reading gains in the aggregate](nm-online-behind-brick-and-mortar.md) — related
-- Students in New Mexico online charter schools show substantially weaker growth than their TPS virtual twins in both reading and math — related
-- About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform — related
+- [Students in New Mexico online charter schools show substantially weaker growth than their TPS virtual twins in both reading and math](nm-online-charter-weaker-growth.md) — related
+- [About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform](sc-charter-school-quality-range-reading-math.md) — related

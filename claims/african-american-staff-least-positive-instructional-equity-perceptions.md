@@ -43,7 +43,7 @@ Observational analysis of California School Staff Survey data from 118,986 secon
 
 
 ## Related Claims
-- African American secondary school staff had more negative perceptions of respect for diversity in their schools than other staff — related
-- White and Asian staff report more positive school climates than African American and Hispanic staff, irrespective of their school's student racial composition — related
+- [African American secondary school staff had more negative perceptions of respect for diversity in their schools than other staff](african-american-staff-negative-respect-for-diversity-perceptions.md) — related
+- [White and Asian staff report more positive school climates than African American and Hispanic staff, irrespective of their school's student racial composition](staff-climate-perceptions-vary-by-staff-race.md) — related
 - [Staff perceptions of instructional equity varied by role: teachers, special education teachers, and administrators most positive; paraprofessionals, resource officers, and counselors least positive](staff-role-differences-instructional-equity-perceptions.md) — related
 - [Fewer than half of secondary staff strongly agreed that their schools foster instructional equity (46%) or respect for diversity (45%)](fewer-than-half-staff-strongly-agree-equity-diversity.md) — related

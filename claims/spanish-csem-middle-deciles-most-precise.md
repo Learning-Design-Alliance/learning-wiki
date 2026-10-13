@@ -46,4 +46,4 @@ CSEM analysis by subject, grade, decile score group, and term (Figure 4.3, Table
 - [MAP Growth reliability coefficients average about 0.95, with lower values in Science and early grades and stronger test-retest reliability over shorter intervals](map-growth-reliability-095-subject-and-interval-variation.md) — related
 - [Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students](conditional-reliability-low-at-score-tails.md) — a broader claim this one bears on
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related
-- Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability — related
+- [Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability](spanish-rit-scores-increase-by-grade.md) — related

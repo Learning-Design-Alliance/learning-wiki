@@ -48,4 +48,4 @@ Thematic analysis of the same cohort's policy artifacts and discussions, reporte
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [Students co-designing a GenAI course policy prioritized training for students and instructors, standardized disclosure procedures, and stronger institutional support](students-prioritize-training-disclosure-institutional-support-genai-policy.md) — a narrower finding that bears on this claim
-- Teacher autonomy for AI decision-making varies sharply across national contexts — related
+- [Teacher autonomy for AI decision-making varies sharply across national contexts](teacher-autonomy-ai-varies-nationally.md) — related

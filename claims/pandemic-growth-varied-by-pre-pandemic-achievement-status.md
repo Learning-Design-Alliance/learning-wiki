@@ -44,7 +44,7 @@ The brief reports a growth-modeling result stratifying students by pre-pandemic 
 
 ## Related Claims
 - [Low achievers experienced larger initial pandemic impacts and less improvement during 2021-22](low-achievers-larger-impacts-less-improvement.md) — possibly the same claim (merge candidate)
-- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — a broader claim this one bears on
+- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — a broader claim this one bears on
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year](covid-2020-21-average-gains-most-grades.md) — related
 - [Reading and math gains during 2020-21 were diminished compared to pre-pandemic trends, especially in the latter half of the school year](covid-2020-21-diminished-gains-latter-half-year.md) — related

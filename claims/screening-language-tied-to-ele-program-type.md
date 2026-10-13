@@ -43,6 +43,6 @@ Cluster analysis of language-of-assessment patterns for 23,955 English learners 
 
 
 ## Related Claims
-- Schools serving students in the Spanish-dominant screening clusters appeared out of compliance with the Massachusetts requirement to screen with an approved (English-only) assessment at least twice per year — related
+- [Schools serving students in the Spanish-dominant screening clusters appeared out of compliance with the Massachusetts requirement to screen with an approved (English-only) assessment at least twice per year](dlbe-spanish-screening-out-of-compliance-requirement.md) — related
 - [English-only screening is the norm for English learners in Massachusetts: 90 percent were assessed only in English across all three screening periods in 2023/24](english-only-screening-norm-massachusetts-els.md) — related
 - [English learners' progress beyond the significant risk level differed by test language: 21 percent stayed above threshold in English and 19 percent improved to it, versus 11 percent improving in Spanish](massachusetts-english-learner-spanish-english-screener-divergence.md) — related

@@ -47,11 +47,11 @@ Key findings from the NLTS 2012 comparisons report that "The vast majority of yo
 - [English learner students with disabilities are less likely than other students with disabilities to receive extra time on schoolwork but attend transition-planning meetings at a comparable rate, are suspended less, and have parents with higher expectations](elswd-accommodations-transition-planning-suspension-parental-expectations.md) — related
 - [Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support](iep-youth-academic-struggle-less-support.md) — related
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](iep-youth-increased-school-engagement-2003-2012.md) — related
-- Grade retention, suspensions, and expulsions among youth with an IEP showed little change over the past decade — related
-- Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities — related
-- Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students — related
-- School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year — related
+- [Grade retention, suspensions, and expulsions among youth with an IEP showed little change over the past decade](iep-youth-discipline-retention-little-change-decade.md) — related
+- [Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities](iep-youth-more-engaged-school-extracurricular-over-decade.md) — related
+- [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — related
+- [School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year](closures-severed-connections-grief-us-them-dynamics.md) — related
 - [In 2012, youth with disabilities were more likely than other students to struggle academically and less likely to take steps to obtain postsecondary education and jobs](youth-disabilities-academic-struggle-fewer-postsecondary-steps.md) — related
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](shooters-not-bullied-loners.md) — related
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
-- Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19% — related
+- [Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19%](disability-suspension-disparity.md) — related

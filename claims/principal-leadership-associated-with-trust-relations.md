@@ -45,5 +45,5 @@ Three-level HLM analysis with trust relations as level-1 outcomes, teacher predi
 ## Related Claims
 - [Relational trust correlates with school leadership and with collaboration among teachers in both contexts](relational-trust-correlates-leadership-collaboration.md) — a broader claim this one bears on
 - [Elementary LAUNCH principals' schools rated significantly lower on 5 of 12 measures compared to schools led by non-program principals](launch-elementary-schools-rated-lower.md) — related
-- Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders — related
+- [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](top-quartile-schools-facilitative-principal-leadership.md) — related
 - [Small elementary schools (under 350 students) report more positive trust relations among teachers and between teachers and parents](small-school-size-facilitates-trust.md) — related

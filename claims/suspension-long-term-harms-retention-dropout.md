@@ -46,6 +46,6 @@ The report's synthesis of prior research, citing a Texas study tracking middle s
 - [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — related
 - [Prepolicy retained students dropped out earlier, but postpolicy retained students showed elevated dropout risk throughout their remaining years rather than at early ages](postpolicy-retention-elevated-risk-all-ages.md) — related
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
-- In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted — related
+- [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
 - [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related

@@ -44,7 +44,7 @@ Standardized probability contrast from the primary pooled allocation model (Figu
 
 ## Related Claims
 - [Assessment/marking shows an inverse demand–AI-use association in the primary system-average analysis, with predicted use falling 3.47 percentage points across a two-point relative-demand contrast](assessment-marking-inverse-demand-ai-association.md) — related
-- Overall demand–AI-use alignment varies modestly across education systems, but task-specific association profiles show clear residual heterogeneity — related
+- [Overall demand–AI-use alignment varies modestly across education systems, but task-specific association profiles show clear residual heterogeneity](cross-system-heterogeneity-task-specific-ai-profiles.md) — related
 - [Teachers experiencing higher average demand across lesson planning, assessment/marking, and special-education adaptation report higher odds of AI adoption](focal-task-demand-associated-teacher-ai-adoption.md) — related
 - [The prespecified task–demand mapping produces the strongest within-teacher alignment of all six possible one-to-one assignments, supporting task-specific rather than arbitrary demand alignment](task-demand-mapping-specificity-ai-use.md) — related
 - [Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall](task-relative-demand-predicts-task-specific-ai-use.md) — a broader claim this one bears on

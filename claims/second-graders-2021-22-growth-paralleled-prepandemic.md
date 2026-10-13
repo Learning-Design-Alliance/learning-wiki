@@ -44,5 +44,5 @@ Table 4 reports 2021–22 to 2018–19 fall–spring gain ratios of 1.01 for gra
 
 ## Related Claims
 - [First- and second-grade spring 2022 achievement in reading and math was lower than spring 2019 prepandemic achievement](early-elementary-spring-2022-achievement-below-2019.md) — related
-- First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7% — related
-- Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students — a broader claim this one bears on
+- [First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7%](first-graders-2021-22-growth-below-typical-year.md) — related
+- [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — a broader claim this one bears on

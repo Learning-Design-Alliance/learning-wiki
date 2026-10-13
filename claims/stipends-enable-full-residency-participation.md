@@ -43,5 +43,5 @@ Qualitative interview study of residents, mentor teachers, site coordinators, an
 
 
 ## Related Claims
-- Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts — related
+- [Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts](strategic-staffing-insufficient-rural-districts.md) — related
 - [Prior residency experience of vetted EPPs and high district engagement enabled TCLAS uptake](prior-experience-and-district-engagement-uptake.md) — related

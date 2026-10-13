@@ -47,7 +47,7 @@ The brief asserts, citing prior work (endnote 2), that educator wellbeing contri
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
 - [Teachers' well-being predicted their emotion regulation skills, even accounting for school climate and NSLP percentage](wellbeing-predicts-emotion-regulation.md) — related
 - [Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals](adult-sel-measures-not-predicting-student-growth.md) — related
-- Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma — related
+- [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related
 - [Teacher mindfulness and stress-management training is linked to gains in educator well-being and self-regulation skills](mindfulness-training-teacher-wellbeing-gains.md) — related
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — related
 - [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — related

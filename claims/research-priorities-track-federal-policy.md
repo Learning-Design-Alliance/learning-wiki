@@ -63,8 +63,8 @@ Timing analysis in the discussion argues Marshall's implied causal story fails c
 
 ## Related Claims
 - [Social/identity research terms showed mixed patterns between eras: equity rose 408 percent, identity rose 26 percent, and social justice fell 23 percent](identity-terms-mixed-patterns-aera-eras.md) — a narrower finding that bears on this claim
-- Literacy and reading research declined 34 percent between eras, in a pattern the author attributes to the defunding of Reading First rather than competition from equity research — related
-- Structural/policy research terms consistently decreased between eras, with accountability down 73 percent and NCLB mentions down 97 percent following ESSA's 2015 replacement of NCLB — a narrower finding that bears on this claim
+- [Literacy and reading research declined 34 percent between eras, in a pattern the author attributes to the defunding of Reading First rather than competition from equity research](literacy-reading-aera-research-declined-34-percent.md) — related
+- [Structural/policy research terms consistently decreased between eras, with accountability down 73 percent and NCLB mentions down 97 percent following ESSA's 2015 replacement of NCLB](policy-terms-declined-after-essa.md) — a narrower finding that bears on this claim
 - [Research on five of six teacher-identified concerns increased between AERA's 2005–2014 and 2022–2025 conference eras, led by mental health (+670%) and technology/AI (+145%)](teacher-concern-research-increased-between-aera-eras.md) — related
 - [NWEA research examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions](chronic-absenteeism-academic-recovery-relationship.md) — related
 - [Persistently high chronic absenteeism rates are associated with slower academic recovery in math and reading after COVID-era disruptions](chronic-absenteeism-associated-slower-covid-recovery.md) — related

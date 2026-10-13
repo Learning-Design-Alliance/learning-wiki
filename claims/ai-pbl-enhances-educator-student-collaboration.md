@@ -49,5 +49,5 @@ Systematic review (PRISMA 2020) of 50 peer-reviewed articles published 2015–20
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
 - [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](real-time-feedback-its-solo-progression-advantage.md) — related
-- Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification — related
+- [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related

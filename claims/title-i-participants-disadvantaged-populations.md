@@ -43,7 +43,7 @@ The report's abstract reports on "the characteristics of students participating 
 
 
 ## Related Claims
-- In a subsample of large urban districts, the average achievement of schools chosen by Title I school choice users was consistently higher than the average achievement of the schools they came from — related
+- [In a subsample of large urban districts, the average achievement of schools chosen by Title I school choice users was consistently higher than the average achievement of the schools they came from](chosen-schools-higher-achievement-than-origin-schools.md) — related
 - [Participation rates in Title I school choice and supplemental educational services were low](title-i-choice-ses-low-participation-rates.md) — related
 - [In 2004-2005, only about one percent of the nearly 6.2 million students eligible for Title I school choice used the option, while about 17 percent of eligible students used supplemental educational services](title-i-choice-one-percent-ses-17-percent-participation.md) — related
 - [Low participation rates in Title I school choice and supplemental educational services may be related to problems communicating with parents](low-participation-related-to-parent-communication-problems.md) — related

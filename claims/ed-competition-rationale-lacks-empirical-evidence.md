@@ -43,7 +43,7 @@ The brief reports this concession made when ED was pressed by negotiators to sup
 
 
 ## Related Claims
-- More than 35% of accredited colleges graduate fewer than half of their students, yet fewer than 1% ultimately lose accreditation — related
-- The draft rule would let sanctioned institutions switch accreditors, increasing accreditation-shopping risk — related
-- Accreditors' structural conflict of interest — being composed of and funded by the institutions they accredit — creates incentives to preserve federal aid access rather than sanction — related
+- [More than 35% of accredited colleges graduate fewer than half of their students, yet fewer than 1% ultimately lose accreditation](accredited-colleges-poor-graduation-rates-rarely-sanctioned.md) — related
+- [The draft rule would let sanctioned institutions switch accreditors, increasing accreditation-shopping risk](draft-rule-sanctioned-institutions-accreditor-switching.md) — related
+- [Accreditors' structural conflict of interest — being composed of and funded by the institutions they accredit — creates incentives to preserve federal aid access rather than sanction](accreditor-conflict-of-interest-funding-institutions.md) — related
 - [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — related

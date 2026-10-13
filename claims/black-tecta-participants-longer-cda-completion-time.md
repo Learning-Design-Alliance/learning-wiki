@@ -44,7 +44,7 @@ Linear-model analysis of time from TECTA orientation to CDA completion found Bla
 
 ## Related Claims
 
-- Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation — related
+- [Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation](black-tecta-participants-less-likely-further-credentials.md) — related
 - [Rural and urban TECTA participants showed no statistically significant differences in credential attainment or time to completion](rural-urban-no-significant-difference-tecta-credential-outcomes.md) — related
-- TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher — related
+- [TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher](tecta-credential-attainment-concentrated-below-bachelors.md) — related
 - [White respondents were more likely than other respondents to use Glassdoor to keep track of skills and credentials](white-respondents-more-likely-glassdoor.md)

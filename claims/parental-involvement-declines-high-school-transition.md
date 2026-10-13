@@ -63,7 +63,7 @@ National Education Longitudinal Study of 1988 panel of 17,224 students in roughl
 
 ## Related Claims
 - [Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers](ninth-grade-teachers-less-parent-communication.md) — related
-- Peer support for academic work declines as Chicago students move from sixth through tenth grade — related
-- Students' reports of teacher personalism drop sharply between eighth and tenth grade in Chicago public schools — related
+- [Peer support for academic work declines as Chicago students move from sixth through tenth grade](peer-academic-support-declines-across-grades.md) — related
+- [Students' reports of teacher personalism drop sharply between eighth and tenth grade in Chicago public schools](personalism-declines-high-school-chicago.md) — related
 - [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related
-- Family engagement typically declines from elementary to middle school for several identified reasons — a broader claim this one bears on
+- [Family engagement typically declines from elementary to middle school for several identified reasons](family-engagement-declines-elementary-to-middle.md) — a broader claim this one bears on

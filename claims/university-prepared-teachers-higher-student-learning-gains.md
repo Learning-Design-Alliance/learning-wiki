@@ -44,9 +44,9 @@ The report cites a University of Texas at Austin study comparing student learnin
 
 ## Related Claims
 - [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on
-- Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers — a broader claim this one bears on
-- Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors — related
-- Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers — related
-- Five years after first licensure, 69% of traditional-preservice teachers remained in Texas classrooms versus 60% of alternatively certified teachers — related
-- Alternative certification enrollment growth in Texas did not increase teacher supply because completion rates were low — related
-- For-profit alternative certification pathways account for over 70% of Texas educator preparation enrollment while overall completion fell 14% over a decade — related
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — a broader claim this one bears on
+- [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- [Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers](traditional-pathway-higher-retention-texas.md) — related
+- [Five years after first licensure, 69% of traditional-preservice teachers remained in Texas classrooms versus 60% of alternatively certified teachers](retention-gap-traditional-versus-alternative-texas.md) — related
+- [Alternative certification enrollment growth in Texas did not increase teacher supply because completion rates were low](alternative-certification-low-completion-supply.md) — related
+- [For-profit alternative certification pathways account for over 70% of Texas educator preparation enrollment while overall completion fell 14% over a decade](texas-for-profit-alternative-enrollment-completion-divergence.md) — related

@@ -43,11 +43,11 @@ Descriptive results from a cohort comparison of all first-time ninth graders in 
 
 
 ## Related Claims
-- Chicago's college-prep-for-all policy nearly universalized enrollment in Algebra I and English I and narrowed course-taking gaps by race, ability, and special education status — possibly the same claim (merge candidate)
+- [Chicago's college-prep-for-all policy nearly universalized enrollment in Algebra I and English I and narrowed course-taking gaps by race, ability, and special education status](chicago-college-prep-policy-universalized-ninth-grade-enrollment.md) — possibly the same claim (merge candidate)
 - [Universal college-prep coursework did not prepare more students for college: upper-level math credits and four-year college entrance showed no overall gains](college-prep-all-no-college-gains.md) — related
 - [Requiring all students to take college-prep ninth-grade courses did not increase dropout or reduce graduation, including for low-ability students](college-prep-all-no-dropout-increase.md) — related
 - [Taking Algebra I instead of remedial math increased algebra credit earning but raised failure rates and lowered grades for low- and average-ability students, with no test-score benefit](algebra-enrollment-effect-increased-credit-raised-failure.md) — related
 - [Taking Algebra I instead of remedial math raised Algebra credit attainment but increased failure rates and lowered math grades, with no test-score benefit](algebra-enrollment-raises-credit-and-failure.md) — related
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — related
 - [Taking Algebra I instead of remedial math raised Algebra credit attainment but increased failure rates and lowered math grades, with no test-score benefit](algebra-enrollment-effects-failures-grades-up-tests-flat.md) — related
-- A universal college-prep mandate shifted nearly all ninth graders into Algebra I and English I and largely closed enrollment gaps by race, ability, and special education status — possibly the same claim (merge candidate)
+- [A universal college-prep mandate shifted nearly all ninth graders into Algebra I and English I and largely closed enrollment gaps by race, ability, and special education status](college-prep-mandate-near-universal-enrollment-equity-gains.md) — possibly the same claim (merge candidate)

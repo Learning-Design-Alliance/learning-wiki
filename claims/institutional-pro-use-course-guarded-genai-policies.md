@@ -49,9 +49,9 @@ Document analysis of 98 computer science syllabi from 54 R1 universities, coded 
 - [Course syllabi anthropomorphize GenAI — 39% attribute living characteristics such as a GenAI Assistant — a theme absent from institutional guidelines](course-syllabi-anthropomorphize-genai.md) — related
 - [Course syllabi name specific GenAI tools — ChatGPT in 90 of 98 — while institutional guidelines contain no code for specific tools](specific-tools-named-in-syllabi-not-institutional.md) — related
 - [Perceived institutional AI regulation differs significantly across STEM subjects, with mathematics and natural sciences perceived as prohibitive and computer science as permissive](subject-specific-ai-regulation-perceptions.md) — related
-- Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation — related
+- [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
 - [Among the 50 most innovative U.S. universities, instructor-set syllabus-level governance is the dominant GenAI convergence, with 33 of 50 providing syllabus or course-policy guidance](instructor-syllabus-level-genai-governance-dominant.md) — related
-- Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware) — related
+- [Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware)](low-student-awareness-institutional-genai-regulations.md) — related
 - [Strict AI prohibitions can intensify students' moral conflict without preventing AI use](strict-ai-prohibition-intensifies-moral-conflict.md) — related
 - [Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance](ai-stigma-to-explicit-ai-guidance-evolution.md) — related
 - [A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans](faculty-demand-assessment-transformation-permission-regimes.md) — related

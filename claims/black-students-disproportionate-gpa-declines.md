@@ -43,10 +43,10 @@ Descriptive analysis by race/ethnicity and gender (Figure 5). Black and Latina y
 
 
 ## Related Claims
-- Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition — related
+- [Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition](school-variation-gpa-declines.md) — related
 - [Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school](higher-achievers-larger-gpa-declines-transition.md) — related
-- CPS students' core GPAs continue to decline between eighth and ninth grade despite steady improvement in both eighth- and ninth-grade grades — related
+- [CPS students' core GPAs continue to decline between eighth and ninth grade despite steady improvement in both eighth- and ninth-grade grades](core-gpa-declines-eighth-to-ninth-grade-cps.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
-- Students earned higher average grades in CS courses than in core courses, with few failing CS — related
-- GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade — related
+- [Students earned higher average grades in CS courses than in core courses, with few failing CS](cs-grades-higher-than-core.md) — related
+- [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](non-core-gpa-declines-exceed-core.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related

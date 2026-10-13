@@ -44,4 +44,4 @@ The report attributes this emerging evidence to Okhremtchouk (2014) on within-di
 
 ## Related Claims
 - [Static percentile screening cut points carried across norm sets can under-identify students who remain below grade level](static-percentile-cutpoints-underidentify-post-renorming.md) — related
-- There is a conceptual disconnect between meeting the Title III English proficient standard and exiting EL status under Title I — related
+- [There is a conceptual disconnect between meeting the Title III English proficient standard and exiting EL status under Title I](title-iii-title-i-exit-disconnect.md) — related

@@ -44,4 +44,4 @@ The study's results link the two disengagement forms, "including through a commo
 
 ## Related Claims
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
-- Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties — related
+- [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — related

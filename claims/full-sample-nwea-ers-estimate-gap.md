@@ -43,6 +43,6 @@ Same-method, different-sample comparison applying the ERS recovery methodology t
 
 
 ## Related Claims
-- After excluding Illinois and Ohio, ELA scores showed essentially no recovery from 2022 to 2023 in the remaining 24 ERS states — related
-- Math achievement improved by about .045 standard deviations from 2022 to 2023 in the 28 states included in the ERS math sample — related
+- [After excluding Illinois and Ohio, ELA scores showed essentially no recovery from 2022 to 2023 in the remaining 24 ERS states](ela-no-recovery-24-states-excluding-il-oh.md) — related
+- [Math achievement improved by about .045 standard deviations from 2022 to 2023 in the 28 states included in the ERS math sample](ers-math-recovery-045-sd-28-states.md) — related
 - [The math discrepancy between NWEA and ERS recovery estimates is largely driven by differences in their samples of districts](math-discrepancy-driven-by-sample-differences.md) — related

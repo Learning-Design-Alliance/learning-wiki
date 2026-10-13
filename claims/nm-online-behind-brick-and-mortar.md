@@ -62,6 +62,6 @@ The report's own interpretation (Figures 7 and 7a discussion) of why the aggrega
 
 
 ## Related Claims
-- New Mexico charter schools' relative performance improved across CREDO's 2009, 2013, and 2019 studies, though the comparison is only suggestive — related
+- [New Mexico charter schools' relative performance improved across CREDO's 2009, 2013, and 2019 studies, though the comparison is only suggestive](nm-charter-sector-improvement-trajectory.md) — related
 - [Online charter school students show substantially weaker growth than both TPS peers and brick-and-mortar charter students in reading and math](sc-online-charter-students-weaker-growth.md) — related
-- Students in New Mexico online charter schools show substantially weaker growth than their TPS virtual twins in both reading and math — related
+- [Students in New Mexico online charter schools show substantially weaker growth than their TPS virtual twins in both reading and math](nm-online-charter-weaker-growth.md) — related

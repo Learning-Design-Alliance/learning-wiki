@@ -44,6 +44,6 @@ Survey analysis using three-level hierarchical linear models of 190 teachers in 
 
 ## Related Claims
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — possibly the same claim (merge candidate)
-- Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis — related
+- [Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis](cps-charter-organizational-capacity-differences.md) — related
 - [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — a broader claim this one bears on

@@ -44,10 +44,10 @@ Theme 5 (Ethics in Practice) of the focus-group study. Staff compared paid AI ac
 
 ## Related Claims
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
-- Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Access and resource disparities in AI usage widen divides among postsecondary students](student-ai-access-disparities.md) — a broader claim this one bears on
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
-- AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent — a broader claim this one bears on
+- [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — a broader claim this one bears on
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
@@ -56,4 +56,4 @@ Theme 5 (Ethics in Practice) of the focus-group study. Staff compared paid AI ac
 - [Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup](guest-mode-equity-metacognitive-labor.md) — related
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — a broader claim this one bears on
 - [First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions](first-generation-status-predicts-reliance-intensity.md) — related
-- Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies — related
+- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related

@@ -45,7 +45,7 @@ Final open-ended survey question asking districts how the ISAT program could be 
 
 ## Related Claims
 
-- Districts' most frequently stated testing weaknesses are lack of alignment with standards and curriculum and time taken from instruction, each cited by 24 percent — related
+- [Districts' most frequently stated testing weaknesses are lack of alignment with standards and curriculum and time taken from instruction, each cited by 24 percent](district-testing-weaknesses-alignment-time.md) — related
 - [ISAT scores are not comparable over time: students with identical earlier and later test scores earned different seventh-grade ISAT scores depending on the year tested](isat-scores-noncomparable-over-time.md) — related
-- Districts rate ISAT alignment to state learning standards highest among five rated areas, but fewer than half use the top two categories, and month administered and speed of reporting rate lowest — related
+- [Districts rate ISAT alignment to state learning standards highest among five rated areas, but fewer than half use the top two categories, and month administered and speed of reporting rate lowest](isat-ratings-alignment-highest-timing-lowest.md) — related
 - [Nearly 90 percent of Illinois districts cite student assessment purposes as major purposes of their district-wide testing programs, with measuring student performance most common](district-testing-student-assessment-dominant-purpose.md)

@@ -51,6 +51,6 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related
 - [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related
 - [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — related
-- Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes — related
-- LLM learners are younger, more likely male, and score higher on technology affinity than non-learners — related
+- [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related
+- [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

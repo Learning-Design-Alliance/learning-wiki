@@ -44,7 +44,7 @@ Thematic analysis of semi-structured teacher interviews on challenges of AI-assi
 
 ## Related Claims
 - [ChatGPT-assisted lesson plans for children's STEAM art education received higher blind expert quality ratings than traditional teacher-generated plans (average 21.0 vs 17.0)](chatgpt-assisted-plans-outscore-traditional-art-lesson-plans.md) — related
-- Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms — related
+- [Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms](art-teachers-resource-integration-challenges-prestudy.md) — related
 - [Teachers rated ChatGPT as improving lesson-planning efficiency, especially reducing planning time (average 4.2 on a 5-point scale)](chatgpt-improves-lesson-planning-efficiency-ratings.md) — reports the opposite
 - [Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content](chatgpt-inspiration-not-innovation-lesson-planning.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related

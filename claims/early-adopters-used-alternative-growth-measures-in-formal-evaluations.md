@@ -44,9 +44,9 @@ Implementation study of eight early-adopting districts incorporating perspective
 
 ## Related Claims
 - [Alternative student growth measures, especially student learning objectives, were used for many purposes beyond teacher evaluation](slos-used-for-purposes-beyond-evaluation.md) — related
-- Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers — a broader claim this one bears on
+- [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — a broader claim this one bears on
 - [Evaluation systems including alternative student growth measures showed a wider range of teacher performance than previous systems lacking growth measures](growth-measures-widen-teacher-performance-range.md) — related
 - [Alternative student growth measures brought financial costs and implementation challenges around teacher time, test administration, and rigor](implementation-costs-and-challenges-growth-measures.md) — related
 - [Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited](limited-reliability-validity-evidence-alternative-growth-measures.md) — related
-- Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems — possibly the same claim (merge candidate)
+- [Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems](eight-districts-use-alternative-teacher-effectiveness-measures.md) — possibly the same claim (merge candidate)
 - [Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts](student-growth-measures-ongoing-challenge.md) — related

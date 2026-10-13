@@ -44,7 +44,7 @@ The page states only that the guide "was informed by a recent study examining ho
 
 ## Related Claims
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a narrower finding that bears on this claim
-- Student demographics affect parents' perceptions of school quality — related
+- [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related
 - [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — related
 - [Student demographics affect parents' likelihood of selecting into a school](demographics-affect-school-selection-likelihood.md) — related
 - [Small changes in the way information is presented can have a large impact on a person's decision to participate in a program](small-presentation-changes-large-participation-impact.md) — a broader claim this one bears on

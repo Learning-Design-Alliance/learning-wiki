@@ -43,5 +43,5 @@ The paper's background section states that "no validity studies have been conduc
 
 
 ## Related Claims
-- US states use four common HLS practices, ranging from a mandated single statewide form to no HLS requirement — related
+- [US states use four common HLS practices, ranging from a mandated single statewide form to no HLS requirement](four-common-state-hls-practices.md) — related
 - [States vary substantially in home language survey practices used to identify potential English learners, raising validity concerns](hls-practice-variation-validity-concerns.md) — a broader claim this one bears on

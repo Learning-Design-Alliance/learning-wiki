@@ -44,7 +44,7 @@ Interview and think-aloud accounts in the ten-participant study. The article rep
 
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — a broader claim this one bears on
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
-- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related

@@ -63,5 +63,5 @@ The same Consortium report is described as identifying school culture measures �
 
 ## Related Claims
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
-- Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences — related
-- Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict — related
+- [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
+- [Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict](cps-school-level-graduation-differences.md) — related

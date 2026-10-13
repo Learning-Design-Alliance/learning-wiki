@@ -43,7 +43,7 @@ The brief's authors estimate one-year teaching-effectiveness differences represe
 
 
 ## Related Claims
-- One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap — possibly the same claim (merge candidate)
+- [One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap](teaching-disparity-share-of-achievement-gap.md) — possibly the same claim (merge candidate)
 - [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](teaching-disparity-weeks-of-learning.md) — related
 - [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](access-effective-teaching-varies-across-districts.md) — related
 - [Access to effective teaching for disadvantaged students varied across districts, from no statistically significant difference to a disparity equivalent to 13 weeks of learning](district-variation-teaching-disparity.md) — related

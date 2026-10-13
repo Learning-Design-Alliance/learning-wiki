@@ -42,5 +42,5 @@ Within-person mixed-effects analysis of 458 university students (3,610 person-wa
 
 ## Related Claims
 - [Dictionary-based SEANCE features yielded 21 nominally significant within-person associations with wearable outcomes, but none survived Bonferroni or FDR correction](seance-nominal-associations-no-survivors.md) — a narrower finding that bears on this claim
-- Wearable outcomes declined significantly across the academic year, including a 5.2% reduction in RMSSD and roughly 680 fewer steps per day by Week 33 — a narrower finding that bears on this claim
+- [Wearable outcomes declined significantly across the academic year, including a 5.2% reduction in RMSSD and roughly 680 fewer steps per day by Week 33](semester-decline-wearable-outcomes-academic-year.md) — a narrower finding that bears on this claim
 - [Zero-shot classification of concern topics showed no consistent evidence of association with wearable outcomes, while affective dimensions showed more associations that did not survive correction](topic-classification-null-affective-more-signal.md) — reports the opposite

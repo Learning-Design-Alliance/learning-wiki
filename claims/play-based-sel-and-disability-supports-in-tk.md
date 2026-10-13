@@ -63,6 +63,6 @@ Descriptive survey results on instructional practices for children with disabili
 
 ## Related Claims
 - [Most LEAs used multiple TK curricula and play-based, developmentally appropriate strategies, but 20% still used kindergarten curriculum in TK classrooms](tk-curriculum-and-sel-practices-2023-24.md) — related
-- A growing share of LEAs adopted social-emotional and developmentally appropriate strategies, led by play-based learning at 82% — related
+- [A growing share of LEAs adopted social-emotional and developmentally appropriate strategies, led by play-based learning at 82%](tk-sel-strategies-adoption-growth.md) — related
 - [87% of TK classrooms were reported as inclusive of students with disabilities, and use of instructional adaptations rose to 71% of LEAs](tk-inclusive-classrooms-and-disability-supports.md) — related
 - [87% of TK classrooms were inclusive of students with disabilities, and most LEAs provided adaptations and additional staff, though rising special education needs strained resources](tk-inclusion-students-with-disabilities.md) — related

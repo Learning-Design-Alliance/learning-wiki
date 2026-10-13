@@ -43,5 +43,5 @@ Survey item on planned TK language models (N = 1,108; response rate = 99.7%). "M
 
 
 ## Related Claims
-- California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments — related
-- More than a quarter of California LEAs offered no classroom language model for multilingual TK students, and 38% of those LEAs serve populations where a third or more students are English learners — possibly the same claim (merge candidate)
+- [California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments](four-largest-districts-comprehensive-upk.md) — related
+- [More than a quarter of California LEAs offered no classroom language model for multilingual TK students, and 38% of those LEAs serve populations where a third or more students are English learners](quarter-of-leas-no-tk-language-model.md) — possibly the same claim (merge candidate)

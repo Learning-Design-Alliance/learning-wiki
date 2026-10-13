@@ -43,5 +43,5 @@ Qualitative interview finding from 23 interviews (researchers, tax and education
 
 
 ## Related Claims
-- California underinvests in K–12 education, ranking 39th in cost-of-living-adjusted education spending and in the bottom 20 percent in fourth- and eighth-grade reading and math performance — related
-- Stakeholders view parcel taxes—the only local revenue option available to California school districts—as inequitable and regressive — related
+- [California underinvests in K–12 education, ranking 39th in cost-of-living-adjusted education spending and in the bottom 20 percent in fourth- and eighth-grade reading and math performance](california-underinvests-39th-spending-bottom-20-naep.md) — related
+- [Stakeholders view parcel taxes—the only local revenue option available to California school districts—as inequitable and regressive](parcel-taxes-inequitable-regressive-only-local-option.md) — related

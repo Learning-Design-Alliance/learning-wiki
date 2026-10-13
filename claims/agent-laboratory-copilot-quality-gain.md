@@ -43,7 +43,7 @@ Industry-reported evaluation of the Agent Laboratory framework (Johns Hopkins Un
 
 
 ## Related Claims
-- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — a broader claim this one bears on
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — a broader claim this one bears on
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — a broader claim this one bears on
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — a broader claim this one bears on

@@ -45,7 +45,7 @@ The article's key findings state that "Rich pre-intervention data greatly reduce
 ## Related Claims
 - [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](predictive-baseline-data-reduce-nonexperimental-bias.md) — related
 - [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](prior-bias-studies-used-weaker-designs.md) — related
-- The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
+- [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related
 - [Using baseline data strongly predictive of key outcome measures considerably reduces bias in nonexperimental estimators, but might not completely eliminate it](predictive-baseline-data-reduces-nonexperimental-bias.md) — possibly the same claim (merge candidate)
 - [Most prior studies testing nonexperimental designs find they fail to produce unbiased estimates, but those studies examined weaker evaluation designs](prior-tests-nonexperimental-designs-weaker-designs.md) — related
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — a narrower finding that bears on this claim

@@ -44,4 +44,4 @@ A correlational finding about pre-service teacher preparation reported in the Pr
 
 ## Related Claims
 - [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) — related
-- Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms — related
+- [Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms](art-teachers-resource-integration-challenges-prestudy.md) — related

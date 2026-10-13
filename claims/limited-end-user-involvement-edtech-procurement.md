@@ -45,7 +45,7 @@ Survey of district stakeholders and providers on stakeholder involvement shows a
 
 ## Related Claims
 - [Cohort purchasing through consolidated edtech procurement produced savings of nearly $200,000 and roughly 50 percent per-license discounts in Denver Public Schools](dps-cohort-purchasing-savings-200000.md) — related
-- Smaller districts report an easier procurement process overall, while smaller providers feel procurement inefficiencies more acutely than larger firms — related
+- [Smaller districts report an easier procurement process overall, while smaller providers feel procurement inefficiencies more acutely than larger firms](small-vs-large-districts-providers-procurement-differences.md) — related
 - [Technology directors are the least likely to trust evidence from providers, with only 29 percent satisfied with the credibility of provider evidence](technology-directors-distrust-provider-evidence.md) — related
 - [District stakeholders are mostly satisfied with procurement while providers are largely dissatisfied](districts-satisfied-providers-dissatisfied-procurement.md) — related
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related

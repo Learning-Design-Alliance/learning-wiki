@@ -45,7 +45,7 @@ Figure 6 disaggregation of charter impacts by NCES locale type (city, suburb, to
 ## Related Claims
 - [Rural Idaho charter students outperform their TPS VCRs while urban, suburban and town charter students perform similarly](idaho-rural-charter-advantage.md) — reports the opposite
 - [Urban brick-and-mortar charter students in New Mexico outperform their TPS virtual twins in reading, while suburban, town, and rural charter students are on par](nm-urban-charter-reading-advantage.md) — related
-- Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers — related
-- Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty — related
-- No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares — related
-- Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math — related
+- [Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers](pa-charter-overall-similar-reading-weaker-math.md) — related
+- [Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty](pa-charter-poverty-students-weaker-math.md) — related
+- [No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares](school-characteristics-benchmark-shares.md) — related
+- [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related

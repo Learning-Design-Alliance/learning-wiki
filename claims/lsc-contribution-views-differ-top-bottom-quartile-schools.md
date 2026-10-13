@@ -43,8 +43,8 @@ Descriptive survey results for the eight-item LSC Contribution scale, comparing 
 
 
 ## Related Claims
-- In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed — related
+- [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related
 - [Principals credit LSCs with helping initiate new school-community partnerships, supporting the claim that LSCs build social capital in urban neighborhoods](lsc-community-partnerships-social-capital.md) — related
-- Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior — related
+- [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
 - [An estimated 19 percent of Local School Councils are nonfunctional](lsc-nonfunctional-19-percent.md) — related
-- More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members — related
+- [More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members](lsc-principal-evaluation-process.md) — related

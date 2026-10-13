@@ -44,5 +44,5 @@ Countywide needs assessment report. The team compiled needs from two rounds of c
 
 ## Related Claims
 - [Community listening sessions identified shared themes of access and affordability, market shifts, workforce development, wages, outreach, inclusion, family supports, and facilities](listening-session-shared-findings-themes.md) — related
-- In 2022 only one in nine eligible California children—and one in seven eligible Alameda County children—received subsidized childcare — related
+- [In 2022 only one in nine eligible California children—and one in seven eligible Alameda County children—received subsidized childcare](subsidized-childcare-access-gap-2022.md) — related
 - [Yolo County children and youth need expanded learning, engagement, and leadership development opportunities, including integration of a youth development framework into all youth-serving organizations](yolo-expanded-learning-youth-development-framework-need.md) — a narrower finding that bears on this claim

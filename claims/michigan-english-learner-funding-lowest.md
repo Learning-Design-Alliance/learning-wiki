@@ -43,8 +43,8 @@ EdBuild data cited in the report show Michigan's English Learner allocations are
 
 
 ## Related Claims
-- Five school finance costing studies (2016–2023) recommended additional funding weights of 0.15–0.40 for EL students and 0.30–0.81 for low-income/at-risk students, equivalent to $1,548–$4,976 and $3,389–$8,357 in 2024 dollars — related
+- [Five school finance costing studies (2016–2023) recommended additional funding weights of 0.15–0.40 for EL students and 0.30–0.81 for low-income/at-risk students, equivalent to $1,548–$4,976 and $3,389–$8,357 in 2024 dollars](costing-studies-recommended-el-at-risk-weights.md) — related
 - [Michigan ranks 20th of 28 similar-formula states for its low-income funding weight and 26th of 31 for English Learner funding](michigan-ranks-near-bottom-low-income-and-el-funding-weights.md) — related
-- In 2023–24, 49 states provided separate additional funding for English learners, most commonly through weights in their funding formulas, with a national median EL weight of 0.25 — related
+- [In 2023–24, 49 states provided separate additional funding for English learners, most commonly through weights in their funding formulas, with a national median EL weight of 0.25](49-states-provide-separate-el-funding-2023-24.md) — related
 - [Michigan's legislated low-income funding weight of 11.5% is among the lowest in the country, and a budget loophole reduces actual spending to about 9% more](michigan-low-income-weight-11-5-percent-loophole.md) — related
 - [Michigan underfunds students from low-income backgrounds and English Learners by an estimated $5.1 billion annually relative to leading states and research](michigan-underfunds-underserved-students-5-1-billion.md) — a broader claim this one bears on

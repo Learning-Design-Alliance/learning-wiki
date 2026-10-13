@@ -43,8 +43,8 @@ Statistical models of school safety using CPS survey data, census data, and poli
 
 
 ## Related Claims
-- Charter high schools with strong academic reputations and safety records attracted students with higher eighth-grade test scores, attendance, and grades relative to their feeder pools — related
-- Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance — related
+- [Charter high schools with strong academic reputations and safety records attracted students with higher eighth-grade test scores, attendance, and grades relative to their feeder pools](charter-reputation-attracts-higher-achievers.md) — related
+- [Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance](cps-charter-incoming-skills-feeder-pool.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Neighborhood poverty concentration and parental press for academic achievement each had negative effects on students' civic commitments](poverty-concentration-and-parental-academic-press-negative-civic-effects.md) — related
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — related

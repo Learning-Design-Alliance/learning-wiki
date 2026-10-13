@@ -53,4 +53,4 @@ The page's description of the technical appendix for "Getting Algebra Placement 
 - [The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra](algebra-outcomes-ready-versus-not-ready-students.md) — a narrower finding that bears on this claim
 - [An NWEA study using nationwide MAP Growth scores examines how many students ready for Algebra enrolled in 8th grade and how outcomes differed for students who were or were not ready](algebra-8th-grade-placement-readiness-enrollment-outcomes.md) — possibly the same claim (merge candidate)
 - [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](algebra-ready-students-enrollment-examined-map-growth.md) — a narrower finding that bears on this claim
-- School offerings and placement practices limit opportunity for 8th-grade algebra access — related
+- [School offerings and placement practices limit opportunity for 8th-grade algebra access](school-offerings-and-placement-practices-limit-algebra-opportunity.md) — related

@@ -44,6 +44,6 @@ Cross-country comparison within the qualitative policy analysis of thirty univer
 
 ## Related Claims
 - [Universities' GenAI policies widely embrace core ethical and governance principles but often overlook inclusion, equity, and sustainability issues such as internet access, gender parity in AI, and environmental impact](genai-policies-overlook-inclusion-equity-sustainability.md) — related
-- Few countries have defined teacher AI competencies or national AI training programmes for teachers — related
+- [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
 - [The EU and China have adopted the most comprehensive AI regulations, each covering four of the five OECD classification dimensions](eu-china-most-comprehensive-ai-regulations-oecd.md) — related
 - [No public GenAI policies were found for German universities and Tallinn University of Technology among the sampled institutions](no-public-genai-policies-german-universities-tallinn.md) — related

@@ -43,7 +43,7 @@ Regression discontinuity analysis (RDD) of statewide spring 2024 math and ELA sc
 
 
 ## Related Claims
-- In Clark County, One-Star designation significantly raises math and ELA scores for all students — related
+- [In Clark County, One-Star designation significantly raises math and ELA scores for all students](one-star-designation-clark-county-all-students.md) — related
 - [For Clark County students designated At-risk, One-Star designation significantly raises math but not ELA scores](one-star-designation-clark-county-at-risk-students.md) — related
 - [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](future-forward-rd-nonsignificant-positive-effect.md) — related
 - [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](rd-average-bias-below-0-01-sd-high-internal-validity.md) — a broader claim this one bears on

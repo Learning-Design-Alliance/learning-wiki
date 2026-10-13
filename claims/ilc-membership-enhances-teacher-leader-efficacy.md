@@ -46,4 +46,4 @@ Interview findings from ILC teacher leaders across the four sites. The report no
 - [Creating and leading professional learning for colleagues increases teacher leaders' sense of professional efficacy](leading-colleague-learning-builds-teacher-efficacy.md) — possibly the same claim (merge candidate)
 - [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
-- Over four years, more than 250 ILC leaders provided multi-session professional learning to more than 32,000 California educators across more than 2,000 schools and at least 495 districts — related
+- [Over four years, more than 250 ILC leaders provided multi-session professional learning to more than 32,000 California educators across more than 2,000 schools and at least 495 districts](ilc-reach-32000-educators-495-districts.md) — related

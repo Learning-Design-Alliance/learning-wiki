@@ -43,6 +43,6 @@ The brief argues that statutes requiring public hearings collect feedback on pro
 
 
 ## Related Claims
-- California's AB 1505 community interest provision assesses charter applications almost exclusively in terms of district impact and does not appear to include community input on unmet needs — related
-- Three of 16 states require assessment of demographic impact on segregation or desegregation orders, six require programmatic impact assessment, and four require only a general impact assessment — related
-- Sixteen states have district impact provisions in statute or regulation, and these fall into four primary categories: fiscal, demographic, programmatic, and general — related
+- [California's AB 1505 community interest provision assesses charter applications almost exclusively in terms of district impact and does not appear to include community input on unmet needs](ab1505-community-interest-excludes-community-input.md) — related
+- [Three of 16 states require assessment of demographic impact on segregation or desegregation orders, six require programmatic impact assessment, and four require only a general impact assessment](demographic-programmatic-general-impact-provision-counts.md) — related
+- [Sixteen states have district impact provisions in statute or regulation, and these fall into four primary categories: fiscal, demographic, programmatic, and general](sixteen-states-district-impact-provisions-four-categories.md) — related

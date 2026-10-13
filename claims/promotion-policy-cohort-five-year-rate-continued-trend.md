@@ -44,6 +44,6 @@ Cohort comparison across the 1991–1995 cohorts using the age-13-defined cohort
 
 ## Related Claims
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — related
-- Graduation by age 18 was slightly higher in later cohorts despite earlier off-schedule status — related
+- [Graduation by age 18 was slightly higher in later cohorts despite earlier off-schedule status](graduation-by-18-slightly-higher-later-cohorts.md) — related
 - [Including unverified transfers as dropouts yields dropout rates about 4 percent higher at age 19 and eliminates the downward trend](unverified-transfers-raise-rates-remove-trend.md) — related
 - [Defining dropout cohorts by age 13 rather than by ninth-grade entry avoids composition bias from the CPS promotion policy's grade retentions](age-based-cohort-definition-avoids-retention-bias.md) — related

@@ -43,4 +43,4 @@ WestEd's analysis of interviews and supplemental service data from five SHCs (A�
 
 
 ## Related Claims
-- LEAs' most frequent sustainability strategy in SBHIP project plans was Medi-Cal billing, despite many LEAs lacking billing infrastructure — related
+- [LEAs' most frequent sustainability strategy in SBHIP project plans was Medi-Cal billing, despite many LEAs lacking billing infrastructure](medi-cal-billing-top-sustainability-strategy.md) — related

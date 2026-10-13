@@ -45,6 +45,6 @@ Kaplan-Meier analysis of PCC data for 109 students, disaggregated by prior colle
 ## Related Claims
 - [Estimated average graduation time differed by major, from 2 years for secondary/special education to 3.8 years for non-education majors](graduation-time-varies-by-major-pcc.md) — related
 - [Only 12.9 percent of students without prior college experience graduated within five years, putting them at risk of credit expiration](no-prior-experience-low-five-year-graduation.md) — related
-- The overall estimated average graduation time for PCC teacher education students was at least 2.6 years — related
-- Thirty percent of PCC teacher education students seeking an associate's degree graduated on time within two years — related
-- Ministry of Education-affiliated students averaged 2.3 years to graduation, faster than PCAA (Head Start) and unaffiliated students — related
+- [The overall estimated average graduation time for PCC teacher education students was at least 2.6 years](overall-average-graduation-time-2-6-years.md) — related
+- [Thirty percent of PCC teacher education students seeking an associate's degree graduated on time within two years](pcc-teacher-education-thirty-percent-ontime-graduation.md) — related
+- [Ministry of Education-affiliated students averaged 2.3 years to graduation, faster than PCAA (Head Start) and unaffiliated students](moe-affiliated-students-faster-graduation.md) — related

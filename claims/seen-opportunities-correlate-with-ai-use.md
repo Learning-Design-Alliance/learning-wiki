@@ -43,5 +43,5 @@ Row of Table 1 correlating current in-class AI usage with the average frequency 
 
 
 ## Related Claims
-- Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts — related
+- [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](weak-year-usage-frequency-association.md) — related
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related

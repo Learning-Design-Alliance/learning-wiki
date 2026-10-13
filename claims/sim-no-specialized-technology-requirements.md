@@ -44,5 +44,5 @@ Definitional statement from the Technology section of the program description: t
 
 ## Related Claims
 - [Downloading large compressed video and animation files took students one to two hours, prompting growing requests for CD and DVD copies as the course progressed](oms-download-time-barrier.md) — reports the opposite
-- Only about half of CPS students use technology at least weekly for school, and 20 to 30 percent rarely or never do — reports the opposite
+- [Only about half of CPS students use technology at least weekly for school, and 20 to 30 percent rarely or never do](half-cps-students-weekly-school-technology-use.md) — reports the opposite
 - [Twig Science implementation is feasible with existing classroom staffing and either networked devices or print materials](twig-science-low-staffing-implementation-requirements.md) — related

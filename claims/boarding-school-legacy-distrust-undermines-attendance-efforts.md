@@ -43,5 +43,5 @@ The brief argues, citing prior scholarship, that boarding schools founded to eli
 
 
 ## Related Claims
-- Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23 — related
+- [Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23](aian-chronic-absence-state-disparities.md) — related
 - [Race is more strongly associated with preschool chronic absenteeism than neighborhood poverty; African American students are about twice as likely to be chronically absent](race-stronger-than-poverty-preschool-chronic-absence.md) — related

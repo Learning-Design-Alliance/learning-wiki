@@ -43,7 +43,7 @@ Descriptive account of the brief's first analysis: five years of data from three
 
 
 ## Related Claims
-- The study explored whether 8th-grade Algebra enrollment varied by gender during and after the pandemic — related
+- [The study explored whether 8th-grade Algebra enrollment varied by gender during and after the pandemic](algebra-enrollment-gender-during-after-pandemic.md) — related
 - [Boys regain the advantage in middle school STEM skills in post-COVID gender achievement gap trends](boys-regain-advantage-middle-school-stem-post-covid.md) — related
 - [The study examines post-COVID trends in gender gaps in 8th grade STEM skills using three national assessments and Algebra enrollment data](post-covid-gender-gap-trends-8th-grade-stem-three-assessments.md) — related
 - [A two-million-student MAP Growth sample was used to test whether gender gaps widened among low- and high-achieving students](two-million-student-map-growth-gender-gaps-achievement-levels.md) — a narrower finding that bears on this claim

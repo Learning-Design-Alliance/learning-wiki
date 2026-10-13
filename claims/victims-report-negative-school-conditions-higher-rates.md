@@ -43,11 +43,11 @@ Comparison of victims and nonvictims in the 2013 School Crime Supplement on repo
 
 
 ## Related Claims
-- About 3.1 percent of students ages 12 through 18 were victims of any crime at school in school year 2012–13 — related
-- Few differences in school victimization by student demographics in 2012–13 — related
-- Victims of any crime at school reported being bullied at far higher rates than nonvictims (57 percent vs. 20.4 percent) — a narrower finding that bears on this claim
-- Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims — a narrower finding that bears on this claim
+- [About 3.1 percent of students ages 12 through 18 were victims of any crime at school in school year 2012–13](3-percent-students-victimized-any-crime-school-2012-13.md) — related
+- [Few differences in school victimization by student demographics in 2012–13](few-demographic-differences-school-victimization.md) — related
+- [Victims of any crime at school reported being bullied at far higher rates than nonvictims (57 percent vs. 20.4 percent)](victims-bullied-57-vs-nonvictims-20-4.md) — a narrower finding that bears on this claim
+- [Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims](victims-fear-attack-higher-than-nonvictims.md) — a narrower finding that bears on this claim
 - [The 2013 SCS report also covers gangs, weapons, drugs, alcohol, bullying, cyberbullying, and avoidance behaviors at school](scs-2013-report-scope-gangs-weapons-drugs-bullying-avoidance.md) — related
 - [The effects of attending a bullying-reducing school on graduation are larger for students with a history of victimization](bullying-reduction-effects-larger-for-prior-victimized-students.md) — related
 - [RJ-based responses to bullying may help, but require trained adult facilitators and may leave victims uncomfortable facing bullies](rj-bullying-response-requires-trained-facilitators.md) — related
-- Computing students report limited cybersecurity assistance and substantial personal victimization, with 61% lacking a trusted person and 21% having fallen victim — related
+- [Computing students report limited cybersecurity assistance and substantial personal victimization, with 61% lacking a trusted person and 21% having fallen victim](limited-support-and-cybercrime-victimization.md) — related

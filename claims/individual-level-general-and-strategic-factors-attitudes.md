@@ -62,6 +62,6 @@ The results section reports two exceptions to individual-level leadership associ
 
 
 ## Related Claims
-- Implementers within the same school share similar attitudes toward EBPs, with intra-class correlations of 0.06 to 0.13 across four attitudinal dimensions — related
+- [Implementers within the same school share similar attitudes toward EBPs, with intra-class correlations of 0.06 to 0.13 across four attitudinal dimensions](attitudes-toward-ebps-cluster-within-schools.md) — related
 - [At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs](organizational-strategic-factors-associated-with-attitudes.md) — related
 - [At the organizational level, general climate negatively moderates the positive effect of strategic climate on implementers' perceptions of EBP appeal and divergence](general-climate-moderates-strategic-climate-effect.md) — related

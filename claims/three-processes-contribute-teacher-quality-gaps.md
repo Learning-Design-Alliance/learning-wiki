@@ -46,6 +46,6 @@ The article's abstract describes the agent-based modeling study of the Washingto
 - [Eliminating attrition inequities alone does little to close teacher quality gaps](attrition-equity-alone-little-tqg-effect.md) — a narrower finding that bears on this claim
 - [Eliminating hiring inequities alone would close teacher quality gaps within 10 years](hiring-equity-closes-tqgs-10-years.md) — related
 - [Eliminating inequities in both teacher mobility and hiring would close teacher quality gaps within 5 years in simulations](mobility-hiring-equity-closes-tqgs-5-years.md) — a narrower finding that bears on this claim
-- Teacher attrition patterns do not contribute to inequitable access to effective teachers — reports the opposite
+- [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — reports the opposite
 - [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — related
-- Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income — related
+- [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — related

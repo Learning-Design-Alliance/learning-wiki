@@ -62,8 +62,8 @@ Qualitative theme from student interviews mirroring the faculty structure. Stude
 
 
 ## Related Claims
-- Faculty perceptions of student ethical inadequacy contradict students' own acceptance of ethical responsibility, with both groups showing pragmatic conscious acceptance of AI — related
-- Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills — related
+- [Faculty perceptions of student ethical inadequacy contradict students' own acceptance of ethical responsibility, with both groups showing pragmatic conscious acceptance of AI](faculty-student-contradiction-ethical-responsibility-ai.md) — related
+- [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Ethical risk management of AI in education proceeds bottom-up through individual faculty guidance and student self-strategies because institutional support is lacking](bottom-up-ethical-risk-management-ai-individual-effort.md) — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — a narrower finding that bears on this claim
@@ -73,11 +73,11 @@ Qualitative theme from student interviews mirroring the faculty structure. Stude
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — a narrower finding that bears on this claim
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related
 - [Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries](community-adults-broad-generalized-ai-concerns.md) — related
-- Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%) — related
-- Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities — reports the opposite
+- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
+- [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — reports the opposite
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - [Students raised ethical concerns about GenAI-assisted data comic creation, most frequently misinformation, bias, ownership, and reduced trustworthiness](student-ethical-concerns-genai-data-comics.md) — related
-- University academic staff express substantial concerns about academic integrity, ethics, and erosion of skills such as critical thinking and creativity in relation to GenAI. — a broader claim this one bears on
+- [University academic staff express substantial concerns about academic integrity, ethics, and erosion of skills such as critical thinking and creativity in relation to GenAI.](staff-concerns-genai-integrity-skill-erosion.md) — a broader claim this one bears on
 - [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](critical-ai-literacy-dimension.md) — related
 - [Students framed an effective GenAI course policy as an interconnected system in which knowledge, evaluation, collaboration, contextualization, autonomy, ethics, and institutional responsibility mutually shape one another](genai-policy-interconnected-system-seven-themes.md) — related
 - [Reviewed studies identify data privacy, algorithmic bias, unequal access, and epistemic trust as central ethical concerns in educational AI](ai-education-ethical-governance-concerns.md) — related

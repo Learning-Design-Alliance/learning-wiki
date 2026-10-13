@@ -46,6 +46,6 @@ Phenomenological coding of the same 49 students' post-training reflections on pr
 - [Positive perceptions of training and of the technique largely co-occurred across the two themes](positive-interaction-change-co-occurs-positive-technique-attitude.md) — related
 - [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](ai-feedback-trustworthiness-goodwill-concerns.md) — related
 - [A majority of physics students (76%) perceived a positive change in their Gen AI interactions after prompt-engineering training](prompt-engineering-training-improves-perceived-gen-ai-interactions.md) — related
-- Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness — related
+- [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
 - [Students hold generally positive attitudes toward educational chatbots and agree the chatbots they used improved their knowledge and understanding](positive-student-attitudes-chatbot-knowledge-gains.md) — a broader claim this one bears on
 - [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](pairr-reflections-show-critical-interrogation-of-ai-feedback.md) — related

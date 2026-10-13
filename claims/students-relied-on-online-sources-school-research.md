@@ -62,10 +62,10 @@ Same focus-group study: students wanted to hear about experiences of students at
 
 
 ## Related Claims
-- Student-school fit was an overarching theme in all focus groups across all phases of the high school choice process — related
+- [Student-school fit was an overarching theme in all focus groups across all phases of the high school choice process](fit-overarching-theme-high-school-choice.md) — related
 - [Almost all CPS eighth-graders (92 percent) used the GoCPS platform to apply to high school in its first year](gocps-high-application-engagement-first-year.md) — related
-- GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted — related
+- [GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted](gocps-no-major-enrollment-changes.md) — related
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](gocps-enrollment-stable-after-implementation.md) — related
-- Eighth-grade students navigating high school choice considered three main categories of factors—setting, school, and student factors—plus two overarching concepts of a good school and fit — related
+- [Eighth-grade students navigating high school choice considered three main categories of factors—setting, school, and student factors—plus two overarching concepts of a good school and fit](three-categories-student-choice-factors-high-school.md) — related
 - [Students are dissatisfied with college websites and want interactive, dynamic, accurate, and timely online information](students-dissatisfied-with-college-websites.md) — possibly the same claim (merge candidate)

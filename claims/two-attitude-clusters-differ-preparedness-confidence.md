@@ -81,7 +81,7 @@ Chi-square tests of knowledge sources by cluster. The article reports word-of-mo
 
 
 ## Related Claims
-- Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly — related
-- Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common — related
+- [Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly](computing-students-high-objective-cybersecurity-knowledge.md) — related
+- [Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common](cybersecurity-knowledge-informal-sources-dominate.md) — related
 - [Security intentions and objective knowledge correlate with preparedness, and self-efficacy correlates with confidence](scales-correlate-with-attitude-factors.md) — related
 - [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](self-efficacy-predicts-cluster-membership.md) — related

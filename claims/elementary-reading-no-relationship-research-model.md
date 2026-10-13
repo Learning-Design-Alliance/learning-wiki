@@ -45,6 +45,6 @@ Analysis of elementary reading achievement gains from 2002 to 2005 by model rese
 ## Related Claims
 - [Low-performing CSR elementary schools that adopted models with scientific research bases gained in mathematics achievement after three years](low-performing-elementary-csr-math-gains-research-models.md) — related
 - [Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years](middle-school-csr-limited-research-base-gains.md) — related
-- Only one-third of CSR schools adopted reform models identified as having a scientific research base — related
+- [Only one-third of CSR schools adopted reform models identified as having a scientific research base](one-third-csr-schools-research-based-models.md) — related
 - [Achievement gains in CSR schools had evaporated after five years, returning to baseline levels](csr-gains-evaporated-five-years-baseline.md) — related
 - [Five years after receiving CSR awards, schools did not demonstrate larger achievement growth than matched comparison schools](csr-award-no-larger-achievement-growth-five-years.md) — related
