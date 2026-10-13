@@ -8,18 +8,18 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 18,360 |
-| Evidence entries | 21,589 |
-| Distinct studies | 5,111 |
-| Claims resting on one study | 17,976 (98%) |
+| Claims | 18,365 |
+| Evidence entries | 21,596 |
+| Distinct studies | 5,112 |
+| Claims resting on one study | 17,981 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 995 of 5,111 (19%) |
+| Studies reporting an effect size | 996 of 5,112 (19%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 66 | 554 | 197 | 369 | 1,186 |
+| causal | 66 | 555 | 197 | 369 | 1,187 |
 | quant-synthesis | 36 | 88 | 38 | 122 | 284 |
 | review | 53 | 307 | 113 | 111 | 584 |
 | associational | 27 | 637 | 300 | 254 | 1,218 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 779 (15%) | 3,262 (64%) | 955 (19%) | 115 (2%) |
+| 779 (15%) | 3,262 (64%) | 956 (19%) | 115 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,976, 2: 320, 3: 58, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 17,981, 2: 320, 3: 58, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -136,7 +136,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 376 | 335 | 3 | 0 |
 | [elements](elements/index.md) | 1,080 | 834 | 2 | 0 |
 | [patterns](patterns/index.md) | 126 | 112 | 8 | 0 |
-| [strategies](strategies/index.md) | 5,578 | 2,028 | 7 | 0 |
+| [strategies](strategies/index.md) | 5,579 | 2,028 | 7 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,372 | 1,148 | 1 | 0 |

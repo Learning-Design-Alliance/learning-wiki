@@ -31,7 +31,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (5 for, 7 mixed) · 9 studies (4 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 9 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 10 studies (5 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -112,6 +112,8 @@ Taken together: mixing kinds in practice reliably helps learners tell confusable
 
 - [Learners prefer massed study despite its inferior outcomes](../claims/learners-misjudge-spacing-benefits.md) [~M]: the same misjudgement as Kornell & Bjork's learners, for spacing; it bears on why interleaving needs to be built into materials rather than left to learners.
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice](../claims/dtech-teachers-adopt-retrieval-interleaving.md) [+W]: adoption by teachers, not a learning outcome.
+- [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](../claims/interleaved-practice-higher-math-test-scores.md) [+M] — attached 2026-10-13 from Rohrer et al. (2015), which proposed "Rearrange mathematics practice so a portion of each assignment mixes different kinds of problems (interleaved practice)"; tests this page's relationship.
+- [The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)](../claims/interleaving-benefit-persists-thirty-days.md) [+M] — attached 2026-10-13 from Rohrer et al. (2015), which proposed "Rearrange mathematics practice so a portion of each assignment mixes different kinds of problems (interleaved practice)"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -128,7 +130,9 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [Worked Examples](worked-examples.md) — how each kind is introduced before mixing
 
 ## Examples
+
 - [Interleaving](../strategies/interleaving.md) and [Interleave practice types](../strategies/interleave_practice_types.md) are the strategies that carry this principle into an activity.
+- [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](../strategies/small-initial-block-then-interleave.md)
 
 ## Key Sources
 - Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)

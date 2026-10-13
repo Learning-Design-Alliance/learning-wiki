@@ -30750,5 +30750,17 @@
  "technology-tool\t8-bit quantised fine-tuned LLM (Q8)\t4-bit and 5-bit quantised fine-tuned LLMs (Q4/Q5)": {
   "label": "8-bit quantisation vs 4- and 5-bit quantisation",
   "treatment_is_a": true
+ },
+ "interleaving\tinterleaved graph-problem practice\tblocked graph-problem practice": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice\tblocked practice": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved slope-problem practice\tblocked slope-problem practice": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
  }
 }

@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":18360,
+"claim":18365,
 "design":714,
 "element":1080,
 "learner-variable":12,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1579,
 "research-method":421,
-"strategy":5578,
+"strategy":5579,
 "theory":1372
 },
 "kinds":[
@@ -77637,6 +77637,51 @@
 "path":"claims/interim-achievement-data-seasonal-patterns-few-models.md",
 "status":"draft",
 "title":"Interim achievement data exhibit distinctly seasonal patterns that few existing statistical models can approximate",
+"type":"claim"
+},
+{
+"description":"At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)",
+"evidence_strength":"moderate",
+"id":"interleaved-benefit-one-day-delay-d042",
+"path":"claims/interleaved-benefit-one-day-delay-d042.md",
+"status":"draft",
+"title":"At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)",
+"type":"claim"
+},
+{
+"description":"Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment",
+"evidence_strength":"strong",
+"id":"interleaved-practice-higher-math-test-scores",
+"path":"claims/interleaved-practice-higher-math-test-scores.md",
+"status":"draft",
+"title":"Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment",
+"type":"claim"
+},
+{
+"description":"Interleaved practice provided near immunity against forgetting over a 30-fold increase in test delay",
+"evidence_strength":"moderate",
+"id":"interleaved-practice-near-immunity-forgetting",
+"path":"claims/interleaved-practice-near-immunity-forgetting.md",
+"status":"draft",
+"title":"Interleaved practice provided near immunity against forgetting over a 30-fold increase in test delay",
+"type":"claim"
+},
+{
+"description":"The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant",
+"evidence_strength":"mixed",
+"id":"interleaving-benefit-by-problem-type-and-delay",
+"path":"claims/interleaving-benefit-by-problem-type-and-delay.md",
+"status":"draft",
+"title":"The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant",
+"type":"claim"
+},
+{
+"description":"The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)",
+"evidence_strength":"moderate",
+"id":"interleaving-benefit-persists-thirty-days",
+"path":"claims/interleaving-benefit-persists-thirty-days.md",
+"status":"draft",
+"title":"The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)",
 "type":"claim"
 },
 {
@@ -237581,6 +237626,14 @@
 "type":"strategy"
 },
 {
+"description":"The authors state the findings \\\"do not suggest that blocked practice be avoided entirely\\\" and that \\\"a small block of problems might be optimal, especially at the outset of an assignment given immediately after student...",
+"id":"small-initial-block-then-interleave",
+"path":"strategies/small-initial-block-then-interleave.md",
+"status":"draft",
+"title":"Include a small block of problems of a new skill at the start of an assignment, then interleave the rest",
+"type":"strategy"
+},
+{
 "description":"For CFTs, the article recommends assigning students to small groups of two or three, mixing more capable with less capable students so a more knowledgeable peer can help, negotiating group membership with students, an...",
 "id":"small-mixed-ability-groups-for-cfts",
 "path":"strategies/small-mixed-ability-groups-for-cfts.md",
@@ -265838,7 +265891,12 @@
 "intergenerational-ties-contribute-positively-student-learning":"intergenerational-ties-contribute-positively-student-learning",
 "intergenerational-ties-contribute-student-learning":"intergenerational-ties-contribute-student-learning",
 "interim-achievement-data-seasonal-patterns-few-models":"interim-achievement-data-seasonal-patterns-few-models",
+"interleaved-benefit-one-day-delay-d042":"interleaved-benefit-one-day-delay-d042",
+"interleaved-practice-higher-math-test-scores":"interleaved-practice-higher-math-test-scores",
 "interleaved-practice-improves-retention":"interleaving-improves-inductive-learning",
+"interleaved-practice-near-immunity-forgetting":"interleaved-practice-near-immunity-forgetting",
+"interleaving-benefit-by-problem-type-and-delay":"interleaving-benefit-by-problem-type-and-delay",
+"interleaving-benefit-persists-thirty-days":"interleaving-benefit-persists-thirty-days",
 "interleaving-improves-discrimination":"interleaving-improves-discrimination",
 "interleaving-improves-inductive-learning":"interleaving-improves-inductive-learning",
 "interleaving-improves-learning":"interleaving-improves-inductive-learning",
@@ -285032,6 +285090,7 @@
 "small-group-pullout-supplemental-reading-ell-extra-vocabulary-time":"small-group-pullout-supplemental-reading-ell-extra-vocabulary-time",
 "small-group-scaffolding-tool":"small-group-scaffolding-tool",
 "small-group-then-home-decodable-practice":"small-group-then-home-decodable-practice",
+"small-initial-block-then-interleave":"small-initial-block-then-interleave",
 "small-mixed-ability-groups-for-cfts":"small-mixed-ability-groups-for-cfts",
 "small-pilot-study-for-early-evidence-of-success":"small-pilot-study-for-early-evidence-of-success",
 "small-schools-for-attendance-and-graduation":"small-schools-for-attendance-and-graduation",

@@ -77,11 +77,13 @@ Cumulative review works because each retrieval strengthens memory and slows forg
 6. Track item-level performance and weight future review toward material learners are still forgetting.
 
 ## Related Strategies
+
 - [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle cumulative review operationalizes
 - [Retrieval Practice](retrieval-practice-activities.md) — the mechanism that makes review effective rather than merely familiar
 - [Interleaved Practice](interleaved-practice.md) — mixing content types so review also builds discrimination
 - Retrieval practice — review only strengthens memory when it requires reconstruction from memory
 - Interleaving — the scheduling cousin: mixing problem types within a session complements mixing topics across sessions
+- [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
 
 ## Examples
 - A middle-school mathematics teacher opens each class with two problems drawn from material taught in prior weeks, then moves to new content; unit tests include 30% cumulative items.

@@ -107,3 +107,4 @@ narrow claim may be better supported than a general "interleaving improves learn
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related
 - [The interleaving effect generalizes to visual materials, with the largest effects for paintings](interleaving-strongest-for-paintings-visual-materials.md) — a broader claim this one bears on
 - [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](moderate-overall-interleaving-effect.md) — a broader claim this one bears on
+- [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related

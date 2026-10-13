@@ -182,6 +182,11 @@ def run(args) -> None:
               f"arxiv={args.arxiv} out={args.out} ===", flush=True)
 
         existing_ids = discover_articles.load_excluded_ids()
+        if args.rereview:
+            # A settled verdict can rest on a bad fetch: Noetel et al. (2021) was rejected as out of
+            # scope on a Word file cached as zip bytes. Naming the id is the explicit choice the
+            # append-only manifest asks for; the new review is appended beside the old one.
+            existing_ids -= {i.strip().lower() for i in args.rereview}
         print(f"Excluding {len(existing_ids)} already-known article id(s) "
               f"(benchmark manifest + processed-articles registry).", flush=True)
 
@@ -522,6 +527,9 @@ def main() -> None:
                               "here instead — a validator failure gets shown back to the model for a bounded "
                               "number of fix-it attempts before the article is given up on. Pass 0 to opt "
                               "back into single-shot behavior.")
+    parser.add_argument("--rereview", nargs="+", metavar="ID", default=[],
+                         help="Let these already-settled source ids through again (a verdict resting "
+                              "on a fetch that has since been fixed).")
     parser.add_argument("--refresh-cache", action="store_true",
                          help="Ignore eval/corpus/.discovery_cache.json's cached PMC/ERIC search results "
                               "and re-query live instead — needed to actually exercise a change to "
