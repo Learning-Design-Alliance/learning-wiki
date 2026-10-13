@@ -31,7 +31,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (7 for, 7 mixed) · 10 studies (5 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (7 for, 8 mixed) · 11 studies (5 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +122,10 @@ The designer's objective is usually correct choice among kinds at a later time, 
 ## What would revise this model?
 
 The expectation should weaken if comparisons with comparable learners find no advantage for mixing on a delayed, mixed test where the kinds are confusable, or if the advantage disappears once spacing is held constant. If new syntheses find benefits for expository texts or words, the material rows above should change. If the blocked-then-mixed start loses to mixing from the first item for novices, step 2 of the default design should go.
+
+## Claims
+
+- [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](../claims/learning-techniques-benefit-low-ability-not-high-ability-students.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

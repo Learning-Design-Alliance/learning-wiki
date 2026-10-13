@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":17948,
+"claim":17957,
 "design":715,
 "element":1080,
 "learner-variable":12,
@@ -82269,6 +82269,33 @@
 "type":"claim"
 },
 {
+"description":"Effects were d = 0.58 under a day, 0.59 from a day to a week, 0.56 from a week to a month and 0.51 from one to six months, with no overall differences; 68% of effects were measured within a day.",
+"evidence_strength":"moderate",
+"id":"learning-technique-effects-stable-over-test-delays-up-to-six-months",
+"path":"claims/learning-technique-effects-stable-over-test-delays-up-to-six-months.md",
+"status":"draft",
+"title":"Learning-technique effects do not shrink across test delays from the same day to six months",
+"type":"claim"
+},
+{
+"description":"Across all techniques, the mean effect was d = 0.47 for low-ability students (58 effects, 13 studies) and d = -0.11 for high-ability students (28 effects, 6 studies); high-ability students showed negative effects for interleaved practice and summarization.",
+"evidence_strength":"moderate",
+"id":"learning-techniques-benefit-low-ability-not-high-ability-students",
+"path":"claims/learning-techniques-benefit-low-ability-not-high-ability-students.md",
+"status":"draft",
+"title":"In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students",
+"type":"claim"
+},
+{
+"description":"Effects were d = 0.60 on surface outcomes (1,473 effects) against 0.26 on deep outcomes (109 effects), and 0.61 on near transfer against 0.39 on far transfer; most studies measured surface or factual outcomes.",
+"evidence_strength":"moderate",
+"id":"learning-techniques-smaller-effects-on-deep-learning-and-far-transfer",
+"path":"claims/learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md",
+"status":"draft",
+"title":"Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer",
+"type":"claim"
+},
+{
 "description":"Collaborative learning appeared in 36 funded projects, embodied learning in 15, and identity theories in 9",
 "evidence_strength":"moderate",
 "id":"learning-theory-theme-project-counts",
@@ -90207,12 +90234,48 @@
 "type":"claim"
 },
 {
+"description":"In 13 studies reporting effects by aptitude, low-aptitude students gained 0.61 SD and high-aptitude students 0.40 SD (difference not significant); in 37 of 52 studies the spread of final scores was smaller in mastery classes, 77% of the control group's variation on average.",
+"evidence_strength":"moderate",
+"id":"mastery-learning-effects-larger-for-lower-aptitude-students",
+"path":"claims/mastery-learning-effects-larger-for-lower-aptitude-students.md",
+"status":"draft",
+"title":"Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class",
+"type":"claim"
+},
+{
+"description":"In a multiple regression over 103 studies, larger effects went with group-based rather than self-paced programs, higher unit mastery standards, locally developed rather than standardized criterion tests, and comparison groups that received less quiz feedback; social-science courses showed larger effects than mathematics and natural science.",
+"evidence_strength":"moderate",
+"id":"mastery-learning-effects-vary-with-standard-pacing-and-test-type",
+"path":"claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md",
+"status":"draft",
+"title":"Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group",
+"type":"claim"
+},
+{
+"description":"In the 11 studies with follow-up examinations, given on average about 8 weeks after instruction, the mean effect was 0.71 SD, against 0.60 at the end of instruction in the same studies; the increase is not significant.",
+"evidence_strength":"moderate",
+"id":"mastery-learning-gains-persist-at-follow-up",
+"path":"claims/mastery-learning-gains-persist-at-follow-up.md",
+"status":"draft",
+"title":"Mastery learning gains persist at follow-up examinations about eight weeks after instruction",
+"type":"claim"
+},
+{
 "description":"Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago",
 "evidence_strength":"moderate",
 "id":"mastery-learning-higher-earned-credit-rates",
 "path":"claims/mastery-learning-higher-earned-credit-rates.md",
 "status":"draft",
 "title":"Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago",
+"type":"claim"
+},
+{
+"description":"Students rated the instruction more positively in 16 of 18 studies (mean ES 0.63) and held more positive attitudes toward the subject in 12 of 14 (mean ES 0.40).",
+"evidence_strength":"moderate",
+"id":"mastery-learning-improves-attitudes-toward-instruction",
+"path":"claims/mastery-learning-improves-attitudes-toward-instruction.md",
+"status":"draft",
+"title":"Mastery learning improves students' attitudes toward the instruction and toward the subject",
 "type":"claim"
 },
 {
@@ -131129,6 +131192,15 @@
 "type":"claim"
 },
 {
+"description":"In 32 PSI studies, 23 found higher completion in the conventional class; the average effect on attrition was h = -0.14, a small effect favouring conventional instruction. Examination effects were similar whether completion was lower in the PSI class (0.46 SD, 23 studies) or the conventional one (0.55 SD, 6 studies).",
+"evidence_strength":"moderate",
+"id":"self-paced-mastery-programs-reduce-college-course-completion",
+"path":"claims/self-paced-mastery-programs-reduce-college-course-completion.md",
+"status":"draft",
+"title":"Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage",
+"type":"claim"
+},
+{
 "description":"",
 "evidence_strength":"provisional",
 "id":"self-questioning-improves-comprehension",
@@ -149298,6 +149370,15 @@
 "path":"claims/ten-elements-from-314-listening-sessions.md",
 "status":"draft",
 "title":"The 10 Elements of Black Student Excellence emerged from qualitative analysis of listening sessions with more than 314 Black students, families, teachers, and community members",
+"type":"claim"
+},
+{
+"description":"Over 242 studies (1,619 effects, 169,179 participants) the overall mean was d = 0.56: distributed practice 0.85, practice testing 0.74, elaborative interrogation 0.56, imagery 0.56, self-explanation 0.54, mnemonics 0.50, re-reading 0.47, interleaved practice 0.47, underlining 0.44, summarization 0.44.",
+"evidence_strength":"moderate",
+"id":"ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest",
+"path":"claims/ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md",
+"status":"draft",
+"title":"Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest",
 "type":"claim"
 },
 {
@@ -262721,6 +262802,9 @@
 "learning-support-preferences-differ-by-expertise":"learning-support-preferences-differ-by-expertise",
 "learning-support-raises-level1-physics-passrate":"learning-support-raises-level1-physics-passrate",
 "learning-support-versus-substitutionary-genai-judgment":"learning-support-versus-substitutionary-genai-judgment",
+"learning-technique-effects-stable-over-test-delays-up-to-six-months":"learning-technique-effects-stable-over-test-delays-up-to-six-months",
+"learning-techniques-benefit-low-ability-not-high-ability-students":"learning-techniques-benefit-low-ability-not-high-ability-students",
+"learning-techniques-smaller-effects-on-deep-learning-and-far-transfer":"learning-techniques-smaller-effects-on-deep-learning-and-far-transfer",
 "learning-theory-theme-project-counts":"learning-theory-theme-project-counts",
 "learning-time-decreases-proficiency-moderation":"learning-time-decreases-proficiency-moderation",
 "learning-time-decreases-spring-2020":"learning-time-decreases-spring-2020",
@@ -263604,7 +263688,11 @@
 "mastery-improves-retention":"mastery-improves-retention",
 "mastery-information-needed-for-adaptivity":"mastery-information-needed-for-adaptivity",
 "mastery-learning-did-not-slow-pace-or-scope":"mastery-learning-did-not-slow-pace-or-scope",
+"mastery-learning-effects-larger-for-lower-aptitude-students":"mastery-learning-effects-larger-for-lower-aptitude-students",
+"mastery-learning-effects-vary-with-standard-pacing-and-test-type":"mastery-learning-effects-vary-with-standard-pacing-and-test-type",
+"mastery-learning-gains-persist-at-follow-up":"mastery-learning-gains-persist-at-follow-up",
 "mastery-learning-higher-earned-credit-rates":"mastery-learning-higher-earned-credit-rates",
+"mastery-learning-improves-attitudes-toward-instruction":"mastery-learning-improves-attitudes-toward-instruction",
 "mastery-learning-improves-outcomes":"mastery-learning-improves-outcomes",
 "mastery-learning-meta-analysis-d-078":"mastery-learning-meta-analysis-d-078",
 "mastery-mixed-teacher-variable-effects":"mastery-mixed-teacher-variable-effects",
@@ -268196,6 +268284,7 @@
 "self-monitoring-comprehension-improves-learning":"self-monitoring-comprehension-improves-learning",
 "self-monitoring-improves-on-task-behavior":"self-monitoring-improves-on-task-behavior",
 "self-monitoring-improves-self-regulation":"self-monitoring-improves-self-regulation",
+"self-paced-mastery-programs-reduce-college-course-completion":"self-paced-mastery-programs-reduce-college-course-completion",
 "self-questioning-improves-comprehension":"self-questioning-improves-comprehension",
 "self-refinement-gains-depend-on-model-and-prediction-quality":"self-refinement-gains-depend-on-model-and-prediction-quality",
 "self-regulated-learning-improves-academic-outcomes":"self-regulated-learning-improves-achievement",
@@ -270237,6 +270326,7 @@
 "ten-common-seven-reading-four-listening-subskills":"ten-common-seven-reading-four-listening-subskills",
 "ten-developmental-experiences-build-character":"ten-developmental-experiences-build-character",
 "ten-elements-from-314-listening-sessions":"ten-elements-from-314-listening-sessions",
+"ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest":"ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest",
 "ten-motivation-subfactors-correlate-self-efficacy":"ten-motivation-subfactors-correlate-self-efficacy",
 "ten-states-explicitly-include-spanish-english-bilinguals-in-keas":"ten-states-explicitly-include-spanish-english-bilinguals-in-keas",
 "ten-year-rule-expert-performance":"ten-year-rule-expert-performance",

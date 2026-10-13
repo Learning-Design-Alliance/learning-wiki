@@ -13,7 +13,7 @@ generated:
 # Summarization and Synthesis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (3 causal, 2 quant-synthesis), `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies (3 causal, 3 quant-synthesis), `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Summarization asks learners to condense material into their own words, selecting and restating the most important ideas. Synthesis goes further: learners integrate ideas across multiple sources or experiences into a new, coherent account. Both are generative activities — the learner must construct meaning rather than recognize it.
@@ -53,7 +53,7 @@ Summarization is one of the most consistently supported study strategies, but on
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](../claims/ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) [-M]
 
 ## Related Elements
 - [Note-Taking](note-taking.md) — notes are the intermediate record; summarizing converts notes into organized knowledge

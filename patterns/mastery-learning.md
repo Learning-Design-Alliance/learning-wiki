@@ -29,7 +29,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 16 claims (8 for, 8 mixed) · 20 studies (7 quant-synthesis, 4 causal, 3 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 20 report an effect size · 12 claims rest on one study
+> **Evidence** · 21 claims (10 for, 10 mixed, 1 against) · 20 studies (7 quant-synthesis, 4 causal, 3 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 6 of 20 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -106,6 +106,11 @@ This pattern is scoped to cumulative units with a definable check. Performances 
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](../claims/lms-process-indicators-pilot.md) [+W]
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](../claims/mastery-positive-affective-effects.md) [+W]
 - [Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies](../claims/mastery-improves-retention.md) [+W]
+- [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) [~M]
+- [Mastery learning gains persist at follow-up examinations about eight weeks after instruction](../claims/mastery-learning-gains-persist-at-follow-up.md) [+M]
+- [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](../claims/mastery-learning-effects-larger-for-lower-aptitude-students.md) [~M]
+- [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M]
+- [Mastery learning improves students' attitudes toward the instruction and toward the subject](../claims/mastery-learning-improves-attitudes-toward-instruction.md) [+M]
 
 ## Related Patterns
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)

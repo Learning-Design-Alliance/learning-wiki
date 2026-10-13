@@ -22,7 +22,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 6 mixed, 3 against) · 29 studies (16 causal, 6 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 10 claims rest on one study
+> **Evidence** · 18 claims (9 for, 6 mixed, 3 against) · 30 studies (16 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 8 of 30 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](../claims/simulation-advantage-immediate-not-sustained.md) [-W]
 - [A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)](../claims/genai-learning-gain-persists-one-week.md) [+W]
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](../claims/h3-product-process-dissociation-hypothesis.md) [+W]
+- [Mastery learning gains persist at follow-up examinations about eight weeks after instruction](../claims/mastery-learning-gains-persist-at-follow-up.md) [+M]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

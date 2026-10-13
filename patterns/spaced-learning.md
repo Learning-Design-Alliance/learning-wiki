@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (12 for, 5 mixed, 1 unmarked) · 13 studies (6 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 13 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (13 for, 5 mixed, 1 unmarked) · 14 studies (6 causal, 5 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size · 15 claims rest on one study
 
 ## Description
 
@@ -87,3 +87,4 @@ The examples are local design instances, not additional observations from those 
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](../claims/relearning-confound-distributed-practice-designs.md) [~W]
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](../claims/retention-interval-by-levels-of-thinking-interaction-not-significant.md) [~W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
+- [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](../claims/ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) [+M]

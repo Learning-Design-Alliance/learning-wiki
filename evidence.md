@@ -8,19 +8,19 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 17,948 |
-| Evidence entries | 21,135 |
-| Distinct studies | 5,092 |
-| Claims resting on one study | 17,570 (98%) |
+| Claims | 17,957 |
+| Evidence entries | 21,144 |
+| Distinct studies | 5,093 |
+| Claims resting on one study | 17,579 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 996 of 5,092 (20%) |
+| Studies reporting an effect size | 998 of 5,093 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
 | causal | 65 | 552 | 197 | 369 | 1,183 |
-| quant-synthesis | 43 | 89 | 38 | 115 | 285 |
+| quant-synthesis | 43 | 89 | 38 | 116 | 286 |
 | review | 56 | 295 | 113 | 111 | 575 |
 | associational | 29 | 626 | 303 | 253 | 1,211 |
 | qualitative | 113 | 276 | 72 | 88 | 549 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 768 (15%) | 3,255 (64%) | 958 (19%) | 111 (2%) |
+| 768 (15%) | 3,255 (64%) | 959 (19%) | 111 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,570, 2: 316, 3: 56, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 17,579, 2: 316, 3: 56, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -102,7 +102,7 @@ Of the 38 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-176 claims are cited both ways.
+177 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
