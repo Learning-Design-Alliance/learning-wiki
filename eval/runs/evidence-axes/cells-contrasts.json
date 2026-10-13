@@ -31330,5 +31330,113 @@
  "test-format\tshort-answer practice test\tnontesting learning condition": {
   "label": "Short-answer practice testing vs nontesting",
   "treatment_is_a": true
+ },
+ "interleaving\tInterleaved examples\tBlocked examples": {
+  "label": "interleaved vs blocked examples",
+  "treatment_is_a": true
+ },
+ "interleaving\tInterleaved examples displayed by themselves\tBlocked examples or examples with an on-screen definition": {
+  "label": "interleaved vs blocked examples",
+  "treatment_is_a": true
+ },
+ "interleaving\talternating example-practice pairs\tblocked example-practice pairs": {
+  "label": "interleaved vs blocked example-practice pairs",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved concept examples\tblocked concept examples": {
+  "label": "interleaved vs blocked concept examples",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved examples\tblocked examples": {
+  "label": "interleaved vs blocked examples",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved examples of concepts\tblocked examples of concepts": {
+  "label": "interleaved vs blocked concept examples",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved examples with subtle between-item differences\tblocked examples": {
+  "label": "interleaved vs blocked examples",
+  "treatment_is_a": true
+ },
+ "media-design\taudio-visual worked examples\tvisual-visual worked examples": {
+  "label": "audio-visual worked examples vs visual-only worked examples",
+  "treatment_is_a": true
+ },
+ "media-design\tworked examples with verbal explanations integrated into diagrams\tconventional problem solving": {
+  "label": "integrated verbal-explanation worked examples vs conventional problem solving",
+  "treatment_is_a": true
+ },
+ "media-design\tworked examples with verbal explanations integrated into diagrams\tsplit-source worked examples": {
+  "label": "integrated verbal explanations vs split-source explanations",
+  "treatment_is_a": true
+ },
+ "prompts\telaborative-interrogation prompts\tcontrol text without prompts": {
+  "label": "elaborative-interrogation prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpractice testing\tnot stated": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "self-explanation\tconcurrent self-explanation while solving problems\tno self-explanation": {
+  "label": "self-explanation vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tretrospective self-explanation after solving problems\tno self-explanation": {
+  "label": "self-explanation vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation\tcomparison condition": {
+  "label": "self-explanation vs comparison condition",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation\tother study conditions": {
+  "label": "self-explanation vs other study conditions",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation prompts\tnonspecific think-aloud instructions": {
+  "label": "self-explanation prompts vs nonspecific think-aloud instructions",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation with time equated\tother condition with time equated": {
+  "label": "self-explanation vs other condition, with study time equated",
+  "treatment_is_a": true
+ },
+ "self-explanation\tstudents who self-explained while studying examples\tstudents who did not self-explain": {
+  "label": "self-explanation vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed practice\tnot stated": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "worked-examples\tboth simple and complex examples\tsingle example": {
+  "label": "multiple examples vs single example",
+  "treatment_is_a": true
+ },
+ "worked-examples\texamples emphasizing subgoals\ttraditionally formatted examples": {
+  "label": "subgoal-emphasizing examples vs traditionally formatted examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstructure-emphasizing example set\tno-example condition": {
+  "label": "structure-emphasizing examples vs no examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstructure-emphasizing example set\tsurface-emphasizing example set": {
+  "label": "structure-emphasizing examples vs surface-emphasizing examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tsurface-emphasizing example set\tno-example condition": {
+  "label": "surface-emphasizing examples vs no examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example condition\tconventional problem-solving condition": {
+  "label": "worked examples vs conventional problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example condition\tpractice condition": {
+  "label": "worked examples vs practice",
+  "treatment_is_a": true
  }
 }

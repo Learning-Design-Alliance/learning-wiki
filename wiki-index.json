@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":18114,
+"claim":18136,
 "design":715,
 "element":1080,
 "learner-variable":12,
@@ -9,7 +9,7 @@
 "principle":376,
 "process":18,
 "product":1579,
-"research-method":421,
+"research-method":423,
 "strategy":5581,
 "theory":1372
 },
@@ -10701,6 +10701,15 @@
 "path":"claims/alternate-portfolio-classification-varies-across-grades.md",
 "status":"draft",
 "title":"Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment",
+"type":"claim"
+},
+{
+"description":"Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice",
+"evidence_strength":"weak",
+"id":"alternating-example-problem-pairs",
+"path":"claims/alternating-example-problem-pairs.md",
+"status":"draft",
+"title":"Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice",
 "type":"claim"
 },
 {
@@ -44224,6 +44233,15 @@
 "type":"claim"
 },
 {
+"description":"Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues",
+"evidence_strength":"mixed",
+"id":"dual-mode-worked-example-presentation",
+"path":"claims/dual-mode-worked-example-presentation.md",
+"status":"draft",
+"title":"Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues",
+"type":"claim"
+},
+{
 "description":"The author argues that dual relationships with clients are unethical and impair peer counsellors' judgement, though role blending calls for vigilance rather than absolute prohibition",
 "evidence_strength":"weak",
 "id":"dual-relationships-impair-peer-counsellor-judgement",
@@ -47978,6 +47996,15 @@
 "type":"claim"
 },
 {
+"description":"Elaborative interrogation improved true/false test performance in an introductory biology course context",
+"evidence_strength":"moderate",
+"id":"elaborative-interrogation-biology-course-context",
+"path":"claims/elaborative-interrogation-biology-course-context.md",
+"status":"draft",
+"title":"Elaborative interrogation improved true/false test performance in an introductory biology course context",
+"type":"claim"
+},
+{
 "description":"",
 "id":"elaborative-interrogation-improves-learning",
 "path":"claims/elaborative-interrogation-improves-learning.md",
@@ -48019,6 +48046,15 @@
 "path":"claims/elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md",
 "status":"draft",
 "title":"Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability",
+"type":"claim"
+},
+{
+"description":"Elaborative interrogation benefits increase as learners' prior knowledge increases",
+"evidence_strength":"moderate",
+"id":"elaborative-interrogation-prior-knowledge-moderator",
+"path":"claims/elaborative-interrogation-prior-knowledge-moderator.md",
+"status":"draft",
+"title":"Elaborative interrogation benefits increase as learners' prior knowledge increases",
 "type":"claim"
 },
 {
@@ -52251,6 +52287,15 @@
 "path":"claims/example-problems-degrade-llm-teaching.md",
 "status":"draft",
 "title":"Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction",
+"type":"claim"
+},
+{
+"description":"Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction",
+"evidence_strength":"weak",
+"id":"example-variability-interaction-with-cognitive-load",
+"path":"claims/example-variability-interaction-with-cognitive-load.md",
+"status":"draft",
+"title":"Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction",
 "type":"claim"
 },
 {
@@ -57594,6 +57639,15 @@
 "path":"claims/five-sub-baccalaureate-programs-promising.md",
 "status":"draft",
 "title":"Five sub-baccalaureate programs of study met the promising-pathway threshold: construction trades (certificate) and agriculture, engineering, health, and mechanic/repair technologies (associate degrees)",
+"type":"claim"
+},
+{
+"description":"Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments",
+"evidence_strength":"weak",
+"id":"five-techniques-low-utility",
+"path":"claims/five-techniques-low-utility.md",
+"status":"draft",
+"title":"Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments",
 "type":"claim"
 },
 {
@@ -76533,6 +76587,33 @@
 "type":"claim"
 },
 {
+"description":"The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants",
+"evidence_strength":"moderate",
+"id":"interleaving-literature-lab-undergraduate-dominance",
+"path":"claims/interleaving-literature-lab-undergraduate-dominance.md",
+"status":"draft",
+"title":"The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants",
+"type":"claim"
+},
+{
+"description":"Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65",
+"evidence_strength":"moderate",
+"id":"interleaving-memory-benefit-meta-analysis",
+"path":"claims/interleaving-memory-benefit-meta-analysis.md",
+"status":"draft",
+"title":"Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65",
+"type":"claim"
+},
+{
+"description":"The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests",
+"evidence_strength":"moderate",
+"id":"interleaving-not-spacing-persists-over-delay",
+"path":"claims/interleaving-not-spacing-persists-over-delay.md",
+"status":"draft",
+"title":"The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests",
+"type":"claim"
+},
+{
 "description":"Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status",
 "evidence_strength":"moderate",
 "id":"interleaving-null-moderators-retention-test-presentation",
@@ -76542,12 +76623,39 @@
 "type":"claim"
 },
 {
+"description":"Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too",
+"evidence_strength":"weak",
+"id":"interleaving-rule-based-learning-boundary",
+"path":"claims/interleaving-rule-based-learning-boundary.md",
+"status":"draft",
+"title":"Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too",
+"type":"claim"
+},
+{
+"description":"Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse",
+"evidence_strength":"moderate",
+"id":"interleaving-similarity-boundary-condition",
+"path":"claims/interleaving-similarity-boundary-condition.md",
+"status":"draft",
+"title":"Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse",
+"type":"claim"
+},
+{
 "description":"The interleaving effect generalizes to visual materials, with the largest effects for paintings",
 "evidence_strength":"strong",
 "id":"interleaving-strongest-for-paintings-visual-materials",
 "path":"claims/interleaving-strongest-for-paintings-visual-materials.md",
 "status":"draft",
 "title":"The interleaving effect generalizes to visual materials, with the largest effects for paintings",
+"type":"claim"
+},
+{
+"description":"Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66",
+"evidence_strength":"moderate",
+"id":"interleaving-transfer-benefit-meta-analysis",
+"path":"claims/interleaving-transfer-benefit-meta-analysis.md",
+"status":"draft",
+"title":"Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66",
 "type":"claim"
 },
 {
@@ -97508,6 +97616,15 @@
 "type":"claim"
 },
 {
+"description":"Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures",
+"evidence_strength":"weak",
+"id":"multiple-examples-per-problem-type",
+"path":"claims/multiple-examples-per-problem-type.md",
+"status":"draft",
+"title":"Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures",
+"type":"claim"
+},
+{
 "description":"Generating multiple images per prompt and re-prompting with word variations did not yield accurate nuclear images for failed concepts",
 "evidence_strength":"moderate",
 "id":"multiple-images-and-reprompting-do-not-fix-accuracy",
@@ -113533,6 +113650,15 @@
 "path":"claims/practice-test-format-moderates-effect.md",
 "status":"draft",
 "title":"Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)",
+"type":"claim"
+},
+{
+"description":"Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts",
+"evidence_strength":"weak",
+"id":"practice-testing-distributed-practice-high-utility",
+"path":"claims/practice-testing-distributed-practice-high-utility.md",
+"status":"draft",
+"title":"Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts",
 "type":"claim"
 },
 {
@@ -132316,12 +132442,39 @@
 "type":"claim"
 },
 {
+"description":"Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure",
+"evidence_strength":"weak",
+"id":"self-explanation-effect-worked-examples",
+"path":"claims/self-explanation-effect-worked-examples.md",
+"status":"draft",
+"title":"Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure",
+"type":"claim"
+},
+{
 "description":"Self-explanation prompting is potentially effective across a range of instructional conditions",
 "evidence_strength":"moderate",
 "id":"self-explanation-effective-across-instructional-conditions",
 "path":"claims/self-explanation-effective-across-instructional-conditions.md",
 "status":"draft",
 "title":"Self-explanation prompting is potentially effective across a range of instructional conditions",
+"type":"claim"
+},
+{
+"description":"Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study",
+"evidence_strength":"weak",
+"id":"self-explanation-far-transfer-geometry-classroom",
+"path":"claims/self-explanation-far-transfer-geometry-classroom.md",
+"status":"draft",
+"title":"Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study",
+"type":"claim"
+},
+{
+"description":"Self-explanation improves abstract transfer of logical rules relative to no self-explanation",
+"evidence_strength":"moderate",
+"id":"self-explanation-improves-abstract-transfer",
+"path":"claims/self-explanation-improves-abstract-transfer.md",
+"status":"draft",
+"title":"Self-explanation improves abstract transfer of logical rules relative to no self-explanation",
 "type":"claim"
 },
 {
@@ -132341,6 +132494,15 @@
 "path":"claims/self-explanation-prompts-meta-analysis-g-055.md",
 "status":"draft",
 "title":"Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55",
+"type":"claim"
+},
+{
+"description":"Self-explanation substantially increases time on task, raising questions about its efficiency",
+"evidence_strength":"weak",
+"id":"self-explanation-time-on-task-cost",
+"path":"claims/self-explanation-time-on-task-cost.md",
+"status":"draft",
+"title":"Self-explanation substantially increases time on task, raising questions about its efficiency",
 "type":"claim"
 },
 {
@@ -138167,6 +138329,15 @@
 "type":"claim"
 },
 {
+"description":"Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it",
+"evidence_strength":"weak",
+"id":"split-attention-effect-in-worked-examples",
+"path":"claims/split-attention-effect-in-worked-examples.md",
+"status":"draft",
+"title":"Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it",
+"type":"claim"
+},
+{
 "description":"Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation",
 "evidence_strength":"moderate",
 "id":"spoken-versus-signaled-written-null",
@@ -141199,6 +141370,15 @@
 "type":"claim"
 },
 {
+"description":"Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features",
+"evidence_strength":"weak",
+"id":"structure-emphasizing-cover-stories-categorization",
+"path":"claims/structure-emphasizing-cover-stories-categorization.md",
+"status":"draft",
+"title":"Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features",
+"type":"claim"
+},
+{
 "description":"Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning",
 "evidence_strength":"weak",
 "id":"structure-variables-correlated-learning",
@@ -144032,6 +144212,15 @@
 "path":"claims/subdomain-specific-gender-patterns-elementary-math.md",
 "status":"draft",
 "title":"Gender differences in elementary math vary substantially across subdomains, with early female advantages in Geometry reversing by Grades 3-4",
+"type":"claim"
+},
+{
+"description":"Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems",
+"evidence_strength":"weak",
+"id":"subgoal-labels-worked-examples-transfer",
+"path":"claims/subgoal-labels-worked-examples-transfer.md",
+"status":"draft",
+"title":"Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems",
 "type":"claim"
 },
 {
@@ -161782,6 +161971,15 @@
 "path":"claims/working-conditions-shape-retention-and-recruitment.md",
 "status":"draft",
 "title":"Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction",
+"type":"claim"
+},
+{
+"description":"Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use",
+"evidence_strength":"mixed",
+"id":"working-memory-mixed-moderator-interleaving",
+"path":"claims/working-memory-mixed-moderator-interleaving.md",
+"status":"draft",
+"title":"Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use",
 "type":"claim"
 },
 {
@@ -196615,6 +196813,14 @@
 "type":"research-method"
 },
 {
+"description":"The monograph organizes each technique review around four categories of variables, inspired by Jenkins' (1979) model: \\\"materials, learning conditions, student characteristics, and criterion tasks.\\\" Materials pertain to the content to be learned; learning conditions concern how and where the techniqu",
+"id":"four-category-framework-for-evaluating-the-generalizability-of-learning-techniques",
+"path":"research-methods/four-category-framework-for-evaluating-the-generalizability-of-learning-techniques.md",
+"status":"draft",
+"title":"Four-category framework for evaluating the generalizability of learning techniques",
+"type":"research-method"
+},
+{
 "description":"A descriptive coding framework developed inductively from students' mandatory GenAI-use declarations in the physics unit, classifying the \\\"clearly stated pedagogical function of each reported GenAI use\\\" into four themes: Learning (researching, understanding, conceptualising, refining understanding),",
 "id":"four-category-functional-classification-of-student-genai-use-learning-formatting-doing-tas",
 "path":"research-methods/four-category-functional-classification-of-student-genai-use-learning-formatting-doing-tas.md",
@@ -197636,6 +197842,14 @@
 "path":"research-methods/proprl-property-aware-framework-for-prerequisite-relation-learning.md",
 "status":"draft",
 "title":"ProPRL: property-aware framework for prerequisite relation learning",
+"type":"research-method"
+},
+{
+"description":"The article recommends that evaluators apply the value-conflict taxonomy prospectively rather than only retrospectively.",
+"id":"prospective-value-conflict-analysis-for-educational-evaluation",
+"path":"research-methods/prospective-value-conflict-analysis-for-educational-evaluation.md",
+"status":"draft",
+"title":"Prospective value-conflict analysis for educational evaluation",
 "type":"research-method"
 },
 {
@@ -256179,6 +256393,7 @@
 "alt-pe-increases-across-expertise-groups":"alt-pe-increases-across-expertise-groups",
 "altair-effect-null-reading-sex-interaction":"altair-effect-null-reading-sex-interaction",
 "alternate-portfolio-classification-varies-across-grades":"alternate-portfolio-classification-varies-across-grades",
+"alternating-example-problem-pairs":"alternating-example-problem-pairs",
 "alternative-certification-25-percent-more-likely-to-leave":"alternative-certification-25-percent-more-likely-to-leave",
 "alternative-certification-low-completion-supply":"alternative-certification-low-completion-supply",
 "alternative-certification-one-third-new-teachers":"alternative-certification-one-third-new-teachers",
@@ -259916,6 +260131,7 @@
 "dual-mediation-ai-efficacy-srl-opposite-patterns":"dual-mediation-ai-efficacy-srl-opposite-patterns",
 "dual-mediation-support-to-ai-well-being":"dual-mediation-support-to-ai-well-being",
 "dual-mission-advantage-new-credentials":"dual-mission-advantage-new-credentials",
+"dual-mode-worked-example-presentation":"dual-mode-worked-example-presentation",
 "dual-relationships-impair-peer-counsellor-judgement":"dual-relationships-impair-peer-counsellor-judgement",
 "dual-researcher-positional-reflexivity-strength-theory-generation":"dual-researcher-positional-reflexivity-strength-theory-generation",
 "dual-speed-homework-ai-adoption-subjects":"dual-speed-homework-ai-adoption-subjects",
@@ -260335,11 +260551,13 @@
 "elaboration-strategy-no-attitude-effect":"elaboration-strategy-no-attitude-effect",
 "elaborative-encoding-improves-retention":"elaborative-encoding-improves-retention",
 "elaborative-interrogation-answer-quality-poor-correlates-with-posttest":"elaborative-interrogation-answer-quality-poor-correlates-with-posttest",
+"elaborative-interrogation-biology-course-context":"elaborative-interrogation-biology-course-context",
 "elaborative-interrogation-improves-learning":"elaborative-interrogation-improves-learning",
 "elaborative-interrogation-improves-misbelief-items-pretest-posttest":"elaborative-interrogation-improves-misbelief-items-pretest-posttest",
 "elaborative-interrogation-improves-science-fact-learning":"elaborative-interrogation-improves-science-fact-learning",
 "elaborative-interrogation-increases-difficulty-and-time-on-lesson":"elaborative-interrogation-increases-difficulty-and-time-on-lesson",
 "elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability":"elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability",
+"elaborative-interrogation-prior-knowledge-moderator":"elaborative-interrogation-prior-knowledge-moderator",
 "elaborative-interrogation-reduces-confidence-in-errors":"elaborative-interrogation-reduces-confidence-in-errors",
 "elaborative-processing-enhances-retrieval":"elaborative-processing-enhances-retrieval",
 "elder-coteaching-changes-teacher-pedagogy":"elder-coteaching-changes-teacher-pedagogy",
@@ -260813,6 +261031,7 @@
 "example-problem-sequences-reduce-cognitive-load":"example-problem-sequences-reduce-cognitive-load",
 "example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes":"example-problem-sequences-reduce-cognitive-load",
 "example-problems-degrade-llm-teaching":"example-problems-degrade-llm-teaching",
+"example-variability-interaction-with-cognitive-load":"example-variability-interaction-with-cognitive-load",
 "excellence-for-all-questionable":"excellence-for-all-questionable",
 "exception-type-confusion-dominant-pattern":"exception-type-confusion-dominant-pattern",
 "excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck":"excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck",
@@ -261415,6 +261634,7 @@
 "five-segment-decomposition-slightly-worse-than-three":"five-segment-decomposition-slightly-worse-than-three",
 "five-social-science-program-goals":"five-social-science-program-goals",
 "five-sub-baccalaureate-programs-promising":"five-sub-baccalaureate-programs-promising",
+"five-techniques-low-utility":"five-techniques-low-utility",
 "five-themes-rural-microcredential-initiatives":"five-themes-rural-microcredential-initiatives",
 "five-week-convergence-aie-mkc":"five-week-convergence-aie-mkc",
 "five-year-linked-data-predict-near-term-academic-risks":"five-year-linked-data-predict-near-term-academic-risks",
@@ -263536,8 +263756,14 @@
 "interleaving-improves-transfer":"interleaving-improves-inductive-learning",
 "interleaving-larger-in-university-student-samples":"interleaving-larger-in-university-student-samples",
 "interleaving-limited-for-math-texts-and-words":"interleaving-limited-for-math-texts-and-words",
+"interleaving-literature-lab-undergraduate-dominance":"interleaving-literature-lab-undergraduate-dominance",
+"interleaving-memory-benefit-meta-analysis":"interleaving-memory-benefit-meta-analysis",
+"interleaving-not-spacing-persists-over-delay":"interleaving-not-spacing-persists-over-delay",
 "interleaving-null-moderators-retention-test-presentation":"interleaving-null-moderators-retention-test-presentation",
+"interleaving-rule-based-learning-boundary":"interleaving-rule-based-learning-boundary",
+"interleaving-similarity-boundary-condition":"interleaving-similarity-boundary-condition",
 "interleaving-strongest-for-paintings-visual-materials":"interleaving-strongest-for-paintings-visual-materials",
+"interleaving-transfer-benefit-meta-analysis":"interleaving-transfer-benefit-meta-analysis",
 "intermediary-structure-supports-cross-sector-codesign":"intermediary-structure-supports-cross-sector-codesign",
 "internet-access-larger-barrier-than-devices":"internet-access-larger-barrier-than-devices",
 "internet-entrez-use-grew-cd-rom-plateaued":"internet-entrez-use-grew-cd-rom-plateaued",
@@ -265887,6 +266113,7 @@
 "multiple-contrasting-cases-support-abstraction":"comparing-contrasting-cases-improves-learning",
 "multiple-criteria-el-reclassification-variation":"multiple-criteria-el-reclassification-variation",
 "multiple-data-sources-holistic-climate-understanding":"multiple-data-sources-holistic-climate-understanding",
+"multiple-examples-per-problem-type":"multiple-examples-per-problem-type",
 "multiple-images-and-reprompting-do-not-fix-accuracy":"multiple-images-and-reprompting-do-not-fix-accuracy",
 "multiple-intellectual-lineages-shared-foundations":"multiple-intellectual-lineages-shared-foundations",
 "multiple-intelligences-weak-on-science-talent":"multiple-intelligences-weak-on-science-talent",
@@ -267678,6 +267905,7 @@
 "practice-presence-raises-cbi-posttest-achievement":"practice-presence-raises-cbi-posttest-achievement",
 "practice-supervisor-communication-about-syllabuses-needed-improvement":"practice-supervisor-communication-about-syllabuses-needed-improvement",
 "practice-test-format-moderates-effect":"practice-test-format-moderates-effect",
+"practice-testing-distributed-practice-high-utility":"practice-testing-distributed-practice-high-utility",
 "practice-testing-overall-meta-analytic-benefit":"practice-testing-overall-meta-analytic-benefit",
 "practice-tests-aid-retention-and-transfer":"practice-tests-aid-retention-and-transfer",
 "practitioner-considerations-experimental-research":"practitioner-considerations-experimental-research",
@@ -269787,12 +270015,16 @@
 "self-efficacy-with-sustained-effort-better-achievement":"self-efficacy-with-sustained-effort-better-achievement",
 "self-esteem-positively-correlated-subjective-well-being":"self-esteem-positively-correlated-subjective-well-being",
 "self-estimate-miscalibration-ai-use-simple-tasks":"self-estimate-miscalibration-ai-use-simple-tasks",
+"self-explanation-effect-worked-examples":"self-explanation-effect-worked-examples",
 "self-explanation-effective-across-instructional-conditions":"self-explanation-effective-across-instructional-conditions",
+"self-explanation-far-transfer-geometry-classroom":"self-explanation-far-transfer-geometry-classroom",
+"self-explanation-improves-abstract-transfer":"self-explanation-improves-abstract-transfer",
 "self-explanation-improves-conceptual-understanding":"self-explanation-improves-conceptual-understanding",
 "self-explanation-improves-learning":"self-explanation-improves-conceptual-understanding",
 "self-explanation-prompts-improve-learning":"self-explanation-improves-conceptual-understanding",
 "self-explanation-prompts-improve-learning-from-worked-examples":"self-explanation-improves-conceptual-understanding",
 "self-explanation-prompts-meta-analysis-g-055":"self-explanation-prompts-meta-analysis-g-055",
+"self-explanation-time-on-task-cost":"self-explanation-time-on-task-cost",
 "self-generated-elaboration-improves-intellectual-skills":"self-generated-elaboration-improves-intellectual-skills",
 "self-generated-elaboration-improves-procedural-knowledge-accounting":"self-generated-elaboration-improves-procedural-knowledge-accounting",
 "self-generated-questions-positive-change-metacognitive-training":"self-generated-questions-positive-change-metacognitive-training",
@@ -270455,6 +270687,7 @@
 "splash-bubbles-sync-feature-uptake-and-barriers":"splash-bubbles-sync-feature-uptake-and-barriers",
 "split-attention-effect-degrades-learning":"split-attention-effect-degrades-learning",
 "split-attention-effect-impairs-learning":"split-attention-effect-degrades-learning",
+"split-attention-effect-in-worked-examples":"split-attention-effect-in-worked-examples",
 "split-attention-effect-integration-improves-learning":"split-attention-effect-degrades-learning",
 "spoken-versus-signaled-written-null":"spoken-versus-signaled-written-null",
 "spoken-written-beats-spoken-only-not-written-only":"spoken-written-beats-spoken-only-not-written-only",
@@ -270793,6 +271026,7 @@
 "structural-similarity-unsupported-ai-motivation-profiles":"structural-similarity-unsupported-ai-motivation-profiles",
 "structural-zero-ai-governance-vocabulary":"structural-zero-ai-governance-vocabulary",
 "structure-and-layout-required-for-ai-grading":"structure-and-layout-required-for-ai-grading",
+"structure-emphasizing-cover-stories-categorization":"structure-emphasizing-cover-stories-categorization",
 "structure-variables-correlated-learning":"structure-variables-correlated-learning",
 "structured-ai-integration-enhances-literacy-retention-critical-thinking":"structured-ai-integration-enhances-literacy-retention-critical-thinking",
 "structured-ai-tutor-raises-post-test-scores-field-experiment":"structured-ai-tutor-raises-post-test-scores-field-experiment",
@@ -271110,6 +271344,7 @@
 "sub-baccalaureate-programs-promising-mostly-men":"sub-baccalaureate-programs-promising-mostly-men",
 "sub-bachelor-for-profit-completion-higher":"sub-bachelor-for-profit-completion-higher",
 "subdomain-specific-gender-patterns-elementary-math":"subdomain-specific-gender-patterns-elementary-math",
+"subgoal-labels-worked-examples-transfer":"subgoal-labels-worked-examples-transfer",
 "subgroup-categories-mask-within-category-variation":"subgroup-categories-mask-within-category-variation",
 "subgroup-differences-reflect-opportunities-to-learn":"subgroup-differences-reflect-opportunities-to-learn",
 "subject-area-engagement-gap-science-social-studies":"subject-area-engagement-gap-science-social-studies",
@@ -273097,6 +273332,7 @@
 "workforce-micro-credential-success-practices":"workforce-micro-credential-success-practices",
 "working-conditions-drive-teacher-exit-decisions":"working-conditions-drive-teacher-exit-decisions",
 "working-conditions-shape-retention-and-recruitment":"working-conditions-shape-retention-and-recruitment",
+"working-memory-mixed-moderator-interleaving":"working-memory-mixed-moderator-interleaving",
 "working-memory-strong-predictor-decoding":"working-memory-strong-predictor-decoding",
 "working-memory-strongest-component-association-ecls-k":"working-memory-strongest-component-association-ecls-k",
 "workload-dynamics-correlate-perceived-difficulty":"workload-dynamics-correlate-perceived-difficulty",
@@ -277494,6 +277730,7 @@
 "forcing-variable-integrity-checks-in-regression-discontinuity-designs":"forcing-variable-integrity-checks-in-regression-discontinuity-designs",
 "formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq":"formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq",
 "four-capability-taxonomy-for-organizing-educational-foundation-model-supervision":"four-capability-taxonomy-for-organizing-educational-foundation-model-supervision",
+"four-category-framework-for-evaluating-the-generalizability-of-learning-techniques":"four-category-framework-for-evaluating-the-generalizability-of-learning-techniques",
 "four-category-functional-classification-of-student-genai-use-learning-formatting-doing-tas":"four-category-functional-classification-of-student-genai-use-learning-formatting-doing-tas",
 "four-category-functional-taxonomy-of-ai-tools-shaping-collaborative-learning-in-higher-edu":"four-category-functional-taxonomy-of-ai-tools-shaping-collaborative-learning-in-higher-edu",
 "four-layer-model-of-pedagogical-safety-for-educational-rl-with-the-reward-hacking-severity":"four-layer-model-of-pedagogical-safety-for-educational-rl-with-the-reward-hacking-severity",
@@ -277622,6 +277859,7 @@
 "promotion-power-measure-of-school-effectiveness":"promotion-power-measure-of-school-effectiveness",
 "propensity-score-stratification-with-multilevel-models":"propensity-score-stratification-with-multilevel-models",
 "proprl-property-aware-framework-for-prerequisite-relation-learning":"proprl-property-aware-framework-for-prerequisite-relation-learning",
+"prospective-value-conflict-analysis-for-educational-evaluation":"prospective-value-conflict-analysis-for-educational-evaluation",
 "pseudo-temporal-ordering-inclusion-relations-among-snapshot-skill-sets-as-a-proxy-for-lear":"pseudo-temporal-ordering-inclusion-relations-among-snapshot-skill-sets-as-a-proxy-for-lear",
 "psychometric-pipeline-for-mapping-llm-performance-onto-interpretable-proficiency-levels-an":"psychometric-pipeline-for-mapping-llm-performance-onto-interpretable-proficiency-levels-an",
 "quantized-learning-gain-qlg":"quantized-learning-gain-qlg",

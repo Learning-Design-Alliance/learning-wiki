@@ -123,3 +123,4 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer](contiguity-principles-mayer-2008.md) — possibly the same claim (merge candidate)
 - [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-spoken-text-visual-information.md) — related
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on
+- [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — a narrower finding that bears on this claim

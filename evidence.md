@@ -8,20 +8,20 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 18,114 |
-| Evidence entries | 21,327 |
-| Distinct studies | 5,094 |
-| Claims resting on one study | 17,736 (98%) |
+| Claims | 18,136 |
+| Evidence entries | 21,353 |
+| Distinct studies | 5,096 |
+| Claims resting on one study | 17,758 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 994 of 5,094 (20%) |
+| Studies reporting an effect size | 995 of 5,096 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
 | causal | 66 | 552 | 197 | 369 | 1,184 |
-| quant-synthesis | 41 | 87 | 38 | 118 | 284 |
-| review | 54 | 297 | 113 | 111 | 575 |
+| quant-synthesis | 41 | 88 | 38 | 118 | 285 |
+| review | 56 | 296 | 113 | 111 | 576 |
 | associational | 27 | 632 | 301 | 255 | 1,215 |
 | qualitative | 113 | 277 | 71 | 87 | 548 |
 | design | 62 | 544 | 165 | 37 | 808 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 770 (15%) | 3,254 (64%) | 956 (19%) | 114 (2%) |
+| 770 (15%) | 3,257 (64%) | 955 (19%) | 114 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,736, 2: 316, 3: 56, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 17,758, 2: 316, 3: 56, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -56,13 +56,13 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Ehrlich, S. B., Gwynne, J. A., Pareja, A. S., & Allensworth, E. M. (2014). Preschool Attendance in Chicago …](claims/attendance-benefits-strongest-low-incoming-skills.md) | q3 | 13 | 13 |
 | [Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., Greene, J. A., Parsons, D., …](claims/academic-integrity-paramount-genai-policy-concern.md) | q2 | 13 | 13 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
+| [Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' …](claims/annotating-improves-learning.md) | q2 | 12 | 8 |
 | [Micro-credentials: Igniting Impact in the Ecosystem. (2016). Digital Promise. …](claims/bcps-stat-pilot-cpd-credit.md) | q1 | 12 | 12 |
 | [Curtis J. Jones and DongMei Li, University of Wisconsin-Milwaukee. (2021). Testing the Impact and Scalability …](claims/ff-differential-attendance-subgroups.md) | q3 | 12 | 12 |
 | [Trend Snapshots: COVID-19 recovery in K–2, positive recovery trends. (2026). NWEA. …](claims/algebra-placement-8th-versus-9th-grade-outcomes.md) | q2 | 12 | 12 |
 | [Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory …](claims/algebra-enrollment-effects-failures-grades-up-tests-flat.md) | q2 | 11 | 11 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 | [Feng, M., Li, L., Brezack, N., & Schneider, M. (2025). Scaling teachers' professional development for …](claims/assistments-classwork-shift-rural-equity.md) | q2 | 11 | 11 |
-| [Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical …](claims/agent-feedback-amount-weak-climate-strong-performance.md) | q2 | 10 | 6 |
 
 ## Citation load against evidence base
 
@@ -143,7 +143,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 60 | 0 |
 | [designs](designs/index.md) | 715 | 469 | 1 | 0 |
 | [products](products/index.md) | 1,579 | 1,259 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 421 | 363 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 423 | 365 | 1 | 0 |
 
 ## Toward pooled estimates
 

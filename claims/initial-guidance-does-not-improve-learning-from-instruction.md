@@ -62,4 +62,4 @@ An independent replication with three conditions (unguided problem solving, guid
 
 
 ## Related Claims
--
+- [Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures](multiple-examples-per-problem-type.md) — related

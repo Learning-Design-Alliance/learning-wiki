@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (48 for, 26 mixed, 9 against) · 70 studies (19 causal, 14 review, 10 associational, 9 theoretical, 7 design, 6 qualitative, 5 quant-synthesis), `q1`–`q4` · 12 of 70 report an effect size · 74 claims rest on one study
+> **Evidence** · 84 claims (49 for, 26 mixed, 9 against) · 71 studies (19 causal, 15 review, 10 associational, 9 theoretical, 7 design, 6 qualitative, 5 quant-synthesis), `q1`–`q4` · 12 of 71 report an effect size · 75 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -116,6 +116,7 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](../claims/prior-knowledge-moderates-segmenting-retention.md) [+M] — an instructional effect differs with it
 - [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](../claims/guidance-advantage-recedes-with-high-prior-knowledge.md) [+M] — an instructional effect differs with it
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](../claims/expertise-reversal-prior-knowledge-interaction.md) [+M] — an instructional effect differs with it
+- [Elaborative interrogation benefits increase as learners' prior knowledge increases](../claims/elaborative-interrogation-prior-knowledge-moderator.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

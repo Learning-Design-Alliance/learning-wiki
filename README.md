@@ -24,10 +24,10 @@ Page counts are regenerated with every index rebuild.
 | [Strategies](strategies/) | 5,581 | Concrete teaching activity recipes — specific, implementable approaches. |
 | [Design Processes](processes/) | 18 | How a course gets designed — whole-process models a designer works through, rather than anything a learner meets. |
 | [Design Methods](methods/) | 38 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
-| [Research Methods](research-methods/) | 421 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
+| [Research Methods](research-methods/) | 423 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
 | [Theories](theories/) | 1,372 | Explanatory frameworks that ground principles and claims. |
 | [Learner Variables](learner-variables/) | 12 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 18,114 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Claims](claims/) | 18,136 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 

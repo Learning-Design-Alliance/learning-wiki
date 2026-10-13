@@ -62,4 +62,4 @@ The review reports, citing Yeung, Jin, and Sweller (1998), a textual study showi
 
 
 ## Related Claims
--
+- [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — related

@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 22 claims (15 for, 6 mixed, 1 against) · 28 studies (13 causal, 8 quant-synthesis, 5 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 16 claims rest on one study
+> **Evidence** · 24 claims (17 for, 6 mixed, 1 against) · 29 studies (13 causal, 8 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 18 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -90,6 +90,8 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](../claims/modality-effect-audio-with-visuals-improves-learning.md) [+W] — attached 2026-10-13 from Noetel et al. (2022), which proposed "Cognitive Theory of Multimedia Learning: dual-channel, limited-capacity, active processing"; tests this page's relationship.
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](../claims/ada-cognitive-load-slightly-increased-non-significant.md) [~W]
 - [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](../claims/genai-training-comparable-load-marginal-intrinsic-increase.md) [~W]
+- [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](../claims/split-attention-effect-in-worked-examples.md) [+W] — attached 2026-10-13 from Atkinson et al. (2000), which proposed "A three-factor causal framework organizes the factors that influence learning from worked examples"; tests this page's relationship.
+- [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](../claims/subgoal-labels-worked-examples-transfer.md) [+W] — attached 2026-10-13 from Atkinson et al. (2000), which proposed "A three-factor causal framework organizes the factors that influence learning from worked examples".
 
 ## Related Theories
 

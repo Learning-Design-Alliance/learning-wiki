@@ -106,3 +106,4 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
 - [Students rarely open transfer-practice cards immediately after solving; they want such problems organized into delayed, spaced wrong-book review instead](transfer-practice-timing-mismatch-delayed-review.md) — related
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
+- [The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants](interleaving-literature-lab-undergraduate-dominance.md) — related

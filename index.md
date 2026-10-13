@@ -36,7 +36,7 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (38)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Research Methods](research-methods/index.md) (421)
+### [Research Methods](research-methods/index.md) (423)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
 ### [Theories](theories/index.md) (1372)
@@ -45,7 +45,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (12)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (18114)
+### [Claims](claims/index.md) (18136)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

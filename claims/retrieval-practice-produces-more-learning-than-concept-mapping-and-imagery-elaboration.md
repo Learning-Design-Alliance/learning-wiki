@@ -72,3 +72,4 @@ Both entries are one review chapter's summaries of its author's own earlier expe
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
 - [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — related
 - [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](quizzing-beats-restudying-and-elaborative-controls.md) — related
+- [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related

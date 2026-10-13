@@ -80,3 +80,5 @@ A monograph by five cognitive/educational psychologists reviewing the empirical 
 - [In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining](experimenter-underlining-effective-as-student-underlining.md) — related
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
 - [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) — related
+- [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — a broader claim this one bears on
+- [Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts](practice-testing-distributed-practice-high-utility.md) — related

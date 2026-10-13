@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (22 for, 6 mixed, 3 against) · 32 studies (12 causal, 8 review, 4 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 2 of 32 report an effect size · 28 claims rest on one study
+> **Evidence** · 32 claims (22 for, 7 mixed, 3 against) · 33 studies (12 causal, 8 review, 5 quant-synthesis, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 2 of 33 report an effect size · 29 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -64,6 +64,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](../claims/modality-effect-spoken-text-visual-information.md) [+M] — instruction changes it
 - [Segmentation reduces overall cognitive load during multimedia learning](../claims/segmenting-reduces-cognitive-load.md) [+M] — instruction changes it
 - [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](../claims/segmenting-effects-confirmed-system-paced.md) [+M] — instruction changes it
+- [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](../claims/working-memory-mixed-moderator-interleaving.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Prior knowledge — supplies the schemas that raise effective capacity; the two are inseparable in practice.

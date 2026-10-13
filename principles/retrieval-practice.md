@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (25 for, 23 mixed, 1 against, 1 unmarked) · 22 studies (8 quant-synthesis, 7 causal, 4 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 22 report an effect size · 45 claims rest on one study
+> **Evidence** · 51 claims (26 for, 23 mixed, 1 against, 1 unmarked) · 23 studies (8 quant-synthesis, 7 causal, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 23 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -77,6 +77,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Spaced Retrieval Outperforms Massed Retrieval Despite Lower Initial Recall](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+W]
 - [Effect Of More Multiple Choice Alternatives Depends On Initial Retrieval Success](../claims/effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) [~W]
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](../claims/adaptive-retrieval-posttest-retention-advantage.md) [~M] — attached 2026-10-10 from Mahir Akgun et al. (2026), which proposed "Follow GenAI-enabled adaptive pretesting with structured spaced retrieval practice rather than learner-directed AI study to preserve gains"; tests this page's relationship.
+- [Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts](../claims/practice-testing-distributed-practice-high-utility.md) [+W] — attached 2026-10-13 from Dunlosky et al. (2013), which proposed "Replace rereading and highlighting with more effective techniques such as practice testing".
 
 ## Objective and learner-valued goal
 

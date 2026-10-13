@@ -49,3 +49,5 @@ Multilevel random-effects meta-analysis of 59 studies (238 effect sizes, 158 sam
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Interleaving effects are larger in pure university student samples than in nonstudent samples](interleaving-larger-in-university-student-samples.md) — a narrower finding that bears on this claim
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — a narrower finding that bears on this claim
+- [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](interleaving-rule-based-learning-boundary.md) — a narrower finding that bears on this claim
+- [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — a narrower finding that bears on this claim

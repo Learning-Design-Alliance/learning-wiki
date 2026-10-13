@@ -99,3 +99,4 @@ Open questions include how summarization compares with other generative strategi
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [Activation improves learning](activation-improves-learning.md) — prior knowledge supports identifying main ideas in a text
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
+- [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
