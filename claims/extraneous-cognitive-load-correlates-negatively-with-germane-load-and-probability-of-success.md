@@ -69,3 +69,4 @@ Same correlational analysis, CLM extraneous subscale against QCM: "extraneous co
 - [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related
 - [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](arpg-plus-load-composition-shift-and-overload-reduction.md) — related
+- [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related

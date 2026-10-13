@@ -8,22 +8,22 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 18,193 |
-| Evidence entries | 21,401 |
-| Distinct studies | 5,093 |
-| Claims resting on one study | 17,812 (98%) |
+| Claims | 18,346 |
+| Evidence entries | 21,573 |
+| Distinct studies | 5,111 |
+| Claims resting on one study | 17,962 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 992 of 5,093 (19%) |
+| Studies reporting an effect size | 994 of 5,111 (19%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 66 | 554 | 197 | 368 | 1,185 |
-| quant-synthesis | 28 | 88 | 38 | 122 | 276 |
-| review | 52 | 303 | 113 | 110 | 578 |
-| associational | 27 | 637 | 300 | 252 | 1,216 |
-| qualitative | 113 | 278 | 72 | 86 | 549 |
+| causal | 66 | 554 | 197 | 369 | 1,186 |
+| quant-synthesis | 34 | 90 | 38 | 122 | 284 |
+| review | 53 | 307 | 113 | 111 | 584 |
+| associational | 27 | 637 | 300 | 254 | 1,218 |
+| qualitative | 113 | 278 | 72 | 87 | 550 |
 | design | 61 | 544 | 165 | 37 | 807 |
 | theoretical | 73 | 284 | 72 | 53 | 482 |
 
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 777 (15%) | 3,249 (64%) | 949 (19%) | 118 (2%) |
+| 779 (15%) | 3,262 (64%) | 954 (19%) | 116 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,812, 2: 317, 3: 58, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 17,962, 2: 320, 3: 58, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -62,7 +62,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Trend Snapshots: COVID-19 recovery in K–2, positive recovery trends. (2026). NWEA. …](claims/algebra-placement-8th-versus-9th-grade-outcomes.md) | q2 | 12 | 12 |
 | [Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory …](claims/algebra-enrollment-effects-failures-grades-up-tests-flat.md) | q2 | 11 | 11 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
-| [Hart, H. M., Sporte, S. E., Ponisciak, S. M., Stevens, W. D., & Cambronne, A. (2008). Teacher and Principal …](claims/fund-principals-future-plans.md) | q2 | 10 | 10 |
+| [Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical …](claims/agent-feedback-amount-weak-climate-strong-performance.md) | q2 | 10 | 6 |
 
 ## Citation load against evidence base
 
@@ -136,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 375 | 326 | 2 | 0 |
 | [elements](elements/index.md) | 1,080 | 801 | 2 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
-| [strategies](strategies/index.md) | 5,730 | 2,158 | 7 | 0 |
+| [strategies](strategies/index.md) | 5,734 | 2,158 | 7 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,372 | 1,121 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 12 | 12 | 58.5 | 0 |
-| [designs](designs/index.md) | 711 | 391 | 1 | 0 |
-| [products](products/index.md) | 1,578 | 1,064 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 419 | 330 | 1 | 0 |
+| [theories](theories/index.md) | 1,372 | 1,122 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 12 | 12 | 60 | 0 |
+| [designs](designs/index.md) | 713 | 392 | 1 | 0 |
+| [products](products/index.md) | 1,579 | 1,065 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 420 | 331 | 1 | 0 |
 
 ## Toward pooled estimates
 

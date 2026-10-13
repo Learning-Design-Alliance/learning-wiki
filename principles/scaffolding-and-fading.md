@@ -35,7 +35,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 18 studies (7 causal, 4 review, 2 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 18 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (10 for, 6 mixed) · 19 studies (8 causal, 4 review, 2 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 19 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -78,6 +78,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](../claims/ai-scaffolding-fading-learned-helplessness.md) [+W] — attached 2026-10-10 from Steve Woollaston et al. (2026), which proposed "Implement dynamic fading: AI scaffolding must retreat as student competence increases".
 - [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](../claims/contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) [+W] — attached 2026-10-10 from Hou et al. (2026), which proposed "Preserved metacognitive demand: hold what the learner must decide constant and let carried load vary with demonstrated need"; tests this page's relationship.
 - [Perceived task load and germane load did not differ between the contingent tutor and either baseline](../claims/perceived-load-unchanged-under-contingent-tutor.md) [~W] — attached 2026-10-10 from Hou et al. (2026), which proposed "Preserved metacognitive demand: hold what the learner must decide constant and let carried load vary with demonstrated need"; tests this page's relationship.
+- [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+W] — attached 2026-10-13 from Renkl et al. (2004), which proposed "Fade out worked solution steps successively to support the transition from example study to problem solving"; tests this page's relationship.
+- [Fading is associated with fewer unproductive learning events, which the authors link to better learning outcomes](../claims/fading-fewer-unproductive-learning-events.md) [+W] — attached 2026-10-13 from Renkl et al. (2004), which proposed "Fade out worked solution steps successively to support the transition from example study to problem solving".
 
 ## Objective and learner-valued goal
 

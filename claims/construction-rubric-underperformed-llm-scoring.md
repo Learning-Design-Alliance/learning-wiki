@@ -49,3 +49,4 @@ Result from the same 5-fold cross-validation comparison on the balanced dataset.
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](curricular-cot-improves-accuracy-larger-models.md) — related
 - [Zero-shot prompt type has minimal impact on LLM-human coding concordance](prompt-type-minimal-impact-llm-coding.md) — related
 - [LLM-based automated assessment of student code self-explanations outperforms semantic similarity methods on a balanced classification task](llm-assessment-outperforms-semantic-similarity-code-explanations.md) — related
+- [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](computer-generated-self-explanation-prompts-recommendation.md) — related

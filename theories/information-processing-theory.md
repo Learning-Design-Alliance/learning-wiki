@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies (3 causal, 2 review), `q2`–`q3` · 0 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 0 of 6 report an effect size · 3 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -62,9 +62,11 @@ Information processing models are often criticized as overly linear and serial, 
 - Supporting later retrieval and application
 
 ## Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
+- [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](../claims/similarity-and-complexity-moderate-interleaving.md) [+W] — attached 2026-10-13 from Brunmair et al. (2019), which proposed "Attentional bias framework (sequential attention theory) of interleaved learning".
 
 ## Related Theories
 

@@ -49,3 +49,4 @@ are needed to raise the p- value in order to have non-significant z-value."
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](trim-fill-no-publication-bias-innovative-learning.md) — related
 - [Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test](publication-bias-minimal-influence-meta-analysis.md) — related
+- [Meta-analysis yields a lower feedback effect (d = 0.48) than the Visible Learning meta-synthesis (d = 0.79), with three synthesized values overestimated](meta-analysis-lower-feedback-effect-than-visible-learning-synthesis.md) — related

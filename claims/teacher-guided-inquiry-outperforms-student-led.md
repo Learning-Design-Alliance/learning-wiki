@@ -91,3 +91,6 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design](ai-scaffold-fading-independent-justification.md) — related
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — a narrower finding that bears on this claim
 - [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — reports the opposite
+- [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
+- [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](guidance-advantage-recedes-with-high-prior-knowledge.md) — related
+- [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](minimally-guided-instruction-less-effective-than-strong-guidance.md) — related

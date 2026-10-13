@@ -86,3 +86,8 @@ More than 1,350 people were taught a set of facts, reviewed them after a gap of 
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — a narrower finding that bears on this claim
 - [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](deep-prompting-insufficient-long-term-retention.md) — related
 - [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — related
+- [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
+- [Spaced retrieval practice produces better final retention than massed retrieval practice (g = 0.74)](spaced-retrieval-beats-massed-g-0-74.md) — related
+- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — a narrower finding that bears on this claim
+- [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — possibly the same claim (merge candidate)
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spacing-effect-robust-verbal-recall.md) — possibly the same claim (merge candidate)

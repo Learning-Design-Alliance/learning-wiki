@@ -86,3 +86,7 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
 - [Different evidence types differ in how strongly they can support claims about effectiveness](evidence-types-differ-support-strength.md) — related
 - [AI-supported examination and construction practices (explanation, creation) qualify only as expanded or transformed epistemic practices because they can be performed without AI](ai-explanation-creation-expanded-not-novel-practices.md) — related
+- [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](faded-steps-hypothesized-trigger-self-explanations.md) — related
+- [The meta-analysis coded and analyzed 20 moderator variables of the self-explanation effect](self-explanation-20-moderator-variables.md) — related
+- [Self-explanation prompting is potentially effective across a range of instructional conditions](self-explanation-effective-across-instructional-conditions.md) — possibly the same claim (merge candidate)
+- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](self-explanation-prompts-meta-analysis-g-055.md) — possibly the same claim (merge candidate)

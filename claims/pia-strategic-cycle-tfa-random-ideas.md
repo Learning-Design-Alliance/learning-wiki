@@ -69,3 +69,4 @@ Process maps revealed TFA groups engaged in repeated metacognitive self-loops (f
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — related
 - [More group engagement in social regulation of learning is associated with higher-quality collaborative products](more-regulation-higher-product-quality.md) — related
 - [Positive classroom climate is associated with more frequent socially shared regulation of learning](positive-climate-promotes-shared-regulation.md) — related
+- [Fading is associated with fewer unproductive learning events, which the authors link to better learning outcomes](fading-fewer-unproductive-learning-events.md) — related

@@ -76,6 +76,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 **[W3C Web Accessibility Initiative — Involving Users](https://www.w3.org/WAI/test-evaluate/involving-users/)** — Guidance on evaluating web content with real users with disabilities, an audience-analysis practice applied to accessibility design.
 
 **Writing-audience analysis in composition courses** — Students analyze a real reader (e.g., a policy brief for a named decision-maker) before drafting; authentic audience specification improves the quality of student writing [Authentic audiences improve student work.](../claims/authentic-audiences-improve-student-work.md) [+M]
+- [Design learner-tailored instructional systems by applying expertise reversal findings](../strategies/apply-expertise-reversal-to-adaptive-design.md)
 
 ## Key Sources
 - Tobias, S. (1994). Interest, prior knowledge, and learning. *Review of Educational Research, 64*(1), 37. [doi:10.2307/1170745](https://doi.org/10.2307/1170745)

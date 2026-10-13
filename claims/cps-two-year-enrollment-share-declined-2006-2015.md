@@ -85,3 +85,4 @@ Headcount analysis of the same CPS administrative enrollment data. The report no
 - [CPS graduates' immediate college enrollment increased between 2006 and 2015, driven mainly by growth in four-year college enrollment](cps-college-enrollment-growth-four-year.md) — related
 - [The proportion of CPS graduates enrolling immediately in college rose gradually to 63 percent by 2018, with persistent disparities by race/ethnicity and gender](cps-immediate-college-enrollment-rose-to-63-percent-2018.md) — related
 - [Undermatch among CPS four-year college-goers rose from 42.7 percent in 2003 to 57.7 percent in 2013 before rebounding after 2013](cps-undermatch-trend-rose-then-rebounded.md) — related
+- [Distance education enrollments in U.S. higher education continue to grow even while overall higher education enrollment declines](distance-enrollments-grow-while-overall-enrollment-declines-2014.md) — related

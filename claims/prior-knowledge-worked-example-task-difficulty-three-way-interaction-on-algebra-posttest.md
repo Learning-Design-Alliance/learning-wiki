@@ -52,3 +52,4 @@ In a 2 x 2 x 2 factorial experiment with college students solving simultaneous e
 - [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
 - [Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge](extraneous-load-predicts-lower-post-test.md) — related
+- [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — a broader claim this one bears on

@@ -65,3 +65,4 @@ In the same meta-analysis reported by the chapter, the effect at "tion intervals
 - [Retrieval Practice Enhances Long Term Retention](retrieval-practice-improves-retention.md)
 - [Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis](retrieval-practice-outperforms-repeated-study-rowland-meta-analysis.md) — a broader claim this one bears on
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — related
+- [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — related

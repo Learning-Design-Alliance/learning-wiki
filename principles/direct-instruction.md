@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 19 studies (7 causal, 6 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 19 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 19 studies (7 causal, 6 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 19 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -57,6 +57,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M] — novices often learn initial routines more effectively from modeled examples followed by closely related practice; not yet checked against its sources
+- [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](../claims/minimally-guided-instruction-less-effective-than-strong-guidance.md) [+W] — attached 2026-10-13 from Kirschner et al. (2006), which proposed "Design instruction with a strong emphasis on guidance of the student learning process, especially for novices"; tests this page's relationship.
+- [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](../claims/guidance-advantage-recedes-with-high-prior-knowledge.md) [+W] — attached 2026-10-13 from Kirschner et al. (2006), which proposed "Design instruction with a strong emphasis on guidance of the student learning process, especially for novices"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -65,3 +65,4 @@ Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on per
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](adult-ed-minimal-learner-data-use.md) — related
 - [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — related
+- [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — related

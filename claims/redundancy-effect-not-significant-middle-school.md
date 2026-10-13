@@ -69,3 +69,5 @@ Independent-sample t-test comparing spoken-text-only versus written-plus-spoken 
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — a broader claim this one bears on
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related
+- [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — reports the opposite
+- [Redundancy principle: animation plus narration beats animation, narration, and on-screen text for transfer](redundancy-principle-mayer-2008.md) — reports the opposite

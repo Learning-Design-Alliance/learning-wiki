@@ -44,3 +44,5 @@ This article reports, citing McNeil and Fyfe (2012), an experiment in which unde
 
 ## Related Claims
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
+- [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
+- [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — related

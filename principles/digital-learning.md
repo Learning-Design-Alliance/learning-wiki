@@ -23,7 +23,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (15 for, 14 mixed, 1 against) · 40 studies (11 causal, 9 quant-synthesis, 6 review, 6 theoretical, 3 associational, 3 qualitative, 2 design), `q1`–`q4` · 9 of 40 report an effect size · 22 claims rest on one study
+> **Evidence** · 31 claims (16 for, 14 mixed, 1 against) · 41 studies (11 causal, 9 quant-synthesis, 7 theoretical, 6 review, 3 associational, 3 qualitative, 2 design), `q1`–`q4` · 9 of 41 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Claims the earlier page cited, and claims found while rewriting, that bear on pa
 - [Iterative Task Redesign Increased Engagement](../claims/iterative-task-redesign-increased-engagement.md) [+M]
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](../claims/guo-video-style-engagement-findings.md) [+W] — attached 2026-10-07 from Chorianopoulos (2018), which proposed "Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone"; tests this page's relationship.
 - [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](../claims/students-prefer-technology-enhanced-task-interactivity-animation.md) [+W] — attached 2026-10-09 from Meg Guerreiro (2017), which proposed "Technological affordances in assessments should be purposefully implemented; simply putting tests on computers may not be enough".
+- [Individual internet penetration in rural Bangladesh stands at 36.5% versus 71.4% in urban areas, rendering cloud-dependent AI tools functionally inaccessible to rural learners](../claims/rural-urban-connectivity-exclusion-bangladesh.md) [+W] — attached 2026-10-13 from Avijit Roy (2026), which proposed "Design offline-capable educational AI as an equity strategy for low-connectivity settings, and evaluate it under local bandwidth, device, and cost constraints".
 
 ## Objective and learner-valued goal
 

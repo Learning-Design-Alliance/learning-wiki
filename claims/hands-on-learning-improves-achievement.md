@@ -64,3 +64,5 @@ A systematic search identified 55 studies comparing mathematics instruction usin
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
+- [Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently](fading-advantages-beyond-sum.md) — related
+- [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related

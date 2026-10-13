@@ -89,6 +89,7 @@ Self-regulatory skill is learnable: strategy instruction embedded in subject-mat
 - [Self-Monitoring Checklists](self-monitoring-checklists.md) — a concrete scaffold that later becomes the learner's own tool
 - [Goal-Setting Conferences](goal-setting-conferences.md) — structures the planning phase of the self-regulation cycle
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](independent-practice-cycles-for-ai-regulation.md)
+- [Support learners in monitoring and regulating their own learning using effective strategies](support-self-regulated-use-of-effective-strategies.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development) writing instruction** — a well-validated curriculum model in which teachers model planning strategies for writing, students practice with graphic organizers and self-statements ("What do I do first?"), and supports fade as students internalize the process (see [Graham & Harris's SRSD materials](https://srsdresearch.org)).

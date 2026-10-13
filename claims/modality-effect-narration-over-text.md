@@ -109,3 +109,6 @@ Open questions include how the effect interacts with learner control over pacing
 - [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related
 - [Degree of anthropomorphism attributed to the agent was shaped by both interaction modality and, within audio conditions, voice accent](anthropomorphism-shaped-by-modality-and-accent.md) — related
 - [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](voice-doubles-turns-and-questions-equal-engaged-time.md) — related
+- [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-spoken-text-visual-information.md) — possibly the same claim (merge candidate)
+- [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — a narrower finding that bears on this claim
+- [Redundancy principle: animation plus narration beats animation, narration, and on-screen text for transfer](redundancy-principle-mayer-2008.md) — a narrower finding that bears on this claim

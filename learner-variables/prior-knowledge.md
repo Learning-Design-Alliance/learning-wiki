@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (43 for, 26 mixed, 9 against) · 67 studies (19 causal, 12 review, 10 associational, 9 theoretical, 7 design, 6 qualitative, 4 quant-synthesis), `q1`–`q4` · 12 of 67 report an effect size · 69 claims rest on one study
+> **Evidence** · 83 claims (48 for, 26 mixed, 9 against) · 70 studies (19 causal, 14 review, 10 associational, 9 theoretical, 7 design, 6 qualitative, 5 quant-synthesis), `q1`–`q4` · 12 of 70 report an effect size · 74 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -111,6 +111,11 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Premium-access GenAI users report greater perceived benefits than free-only users, largest for tasks beyond current expertise](../claims/premium-access-greater-perceived-benefits.md) [+M] — an instructional effect differs with it
 - [Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3 and 4](../claims/prior-biology-predicts-ai-lessons-one-two-not-three-four.md) [~M] — learners who differ on it differ in outcomes
 - [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](../claims/transfer-associated-with-correct-cross-domain-explanations.md) [+M] — learners who differ on it differ in outcomes
+- [Empirical patterns of the expertise reversal effect fit those found in Aptitude Treatment Interaction studies initiated in the mid-60s](../claims/expertise-reversal-fits-ati-patterns.md) [+M] — an instructional effect differs with it
+- [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](../claims/expertise-reversal-effect-compound.md) [+M] — an instructional effect differs with it
+- [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](../claims/prior-knowledge-moderates-segmenting-retention.md) [+M] — an instructional effect differs with it
+- [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](../claims/guidance-advantage-recedes-with-high-prior-knowledge.md) [+M] — an instructional effect differs with it
+- [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](../claims/expertise-reversal-prior-knowledge-interaction.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

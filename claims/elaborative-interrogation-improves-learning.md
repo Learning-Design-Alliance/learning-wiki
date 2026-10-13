@@ -106,3 +106,6 @@ Open questions for future enrichment: effect sizes relative to other learning te
 - [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](low-group-first-graders-read-few-words.md) — related
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — a narrower finding that bears on this claim
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related
+- [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](computer-generated-self-explanation-prompts-recommendation.md) — related
+- [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — related
+- [Self-explanation prompting is potentially effective across a range of instructional conditions](self-explanation-effective-across-instructional-conditions.md) — related

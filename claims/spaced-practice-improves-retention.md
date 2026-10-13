@@ -196,3 +196,7 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — possibly the same claim (merge candidate)
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — a narrower finding that bears on this claim
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — a narrower finding that bears on this claim
+- [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
+- [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
+- [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — a narrower finding that bears on this claim
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spacing-effect-robust-verbal-recall.md) — possibly the same claim (merge candidate)

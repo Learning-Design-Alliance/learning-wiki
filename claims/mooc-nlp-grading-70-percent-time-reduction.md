@@ -49,3 +49,4 @@ Case study of a MOOC platform (akin to edX) using Transformer-based NLP for auto
 - [AI-supported co-produced feedback achieved comparable quality and statistically significant learning gains with reduced production time and workload](coproduced-feedback-comparable-quality-gains.md) — related
 - [Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education](automated-ai-assessment-reduces-grading-time-bias.md) — related
 - [Trustworthiness could not be reduced to a fully automated objective; human judgment remains necessary for resolving complex or context-dependent cases](trustworthiness-not-fully-automatable-requires-human-judgment.md) — related
+- [MOOC adoption remains limited to a small segment of higher education institutions, with most institutions deciding against or remaining undecided about MOOCs](mooc-adoption-small-segment-institutions.md) — related

@@ -68,3 +68,4 @@ A meta-analysis (part of a US Department of Education-commissioned review) synth
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — related
 - [Experimental-group students accessed the online course and learning activities more frequently (6.38 and 7.92) than control-group students (2.67 and 6.05)](cft-hypertext-design-higher-access-rates.md) — related
 - [Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses](online-credit-recovery-evidence-gap.md) — related
+- [Academic leaders rate blended learning outcomes more favorably than fully online outcomes, with more rating blended as superior than inferior to face-to-face](blended-outcomes-rated-superior-to-online.md) — related

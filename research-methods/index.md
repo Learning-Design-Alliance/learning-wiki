@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**419 entries** · 0 stable · 0 in review · 419 drafts
+**420 entries** · 0 stable · 0 in review · 420 drafts
 
 ---
 
@@ -182,6 +182,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four-stage dataset preparation workflow for assessment research](four-stage-dataset-preparation-workflow-for-assessment-research.md) - A reproducible preparation pattern for consolidating heterogeneous examiner files into an answer-level dataset.
 * [Four-stage dropout timing definitions for cross-institutional persistence comparison](four-stage-dropout-timing-definitions-for-cross-institutional-persistence-comparison.md) - The article collapses Simpson's nine potential dropout stages into four timing-based definitions of dropout (Table 2), distinguishing drops before course start, during the initial or Orientation week, and during instruction, and counting only \"active drops\" while excluding dormant (MIA) students.
 * [Four-step methodological framework for measuring LLM alignment to intended impact in high-noise contexts](four-step-methodological-framework-for-measuring-llm-alignment-to-intended-impact-in-high.md) - The article proposes a general framework for evaluating whether LLM judgments align with real-world outcomes when experimental control is infeasible.
+* [Framework of computer-based scaffolding design characteristics and moderators](framework-of-computer-based-scaffolding-design-characteristics-and-moderators.md) - The article organizes computer-based scaffolding research along several coded dimensions: context of use (problem-based, case-based, design-based, project-based, inquiry-based, modeling/visualization, problem solving), scaffolding change (none, fading, adding, fading/adding), scaffolding logic (none
 * [FSM-based evaluation of interactivity in AI-generated educational materials (EE-Eval)](fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval.md) - The article conceptualizes interactivity as \"a finite space of learner-controllable states and transitions\", represented as a directed graph G = (V, E, M) where V denotes semantic interaction states, E transitions, and M task-level metadata such as pedagogical intent.
 * [Full Roster Method](full-roster-method.md) - The Full Roster Method is one of three methods the article proposes for estimating teacher value added under co-teaching.
 * [Funds of Knowledge](funds-of-knowledge.md) - The digest's recommendation set for teachers who plan similar projects: \"the following minimal conditions are suggested\" — theoretical teacher preparation, believing households contain abundant social and intellectual resources; home visits as participant-observers entering as learners; teacher labs

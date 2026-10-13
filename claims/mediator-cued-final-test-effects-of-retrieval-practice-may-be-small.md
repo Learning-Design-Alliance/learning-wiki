@@ -70,3 +70,4 @@ The chapter reports Coppens et al. (2016) as a corrective: the effect "may be sm
 - [Retrieval Fails Without Encoding](pretesting-enhances-learning.md) — related
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — a broader claim this one bears on
+- [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) — related

@@ -48,3 +48,4 @@ Authors' forward-looking statement in the conclusion: planned work includes comp
 - [In a real academic pilot, AISSA processed 90 presentations reliably at 1–3 minutes per submission and an estimated cost of $0.06–0.07 USD per evaluation](aissa-pilot-reliable-low-cost-processing.md) — related
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
 - [The study's comparative qualitative design yields experiential patterns, not estimates of causal effects or effect sizes](ai-see-non-causal-qualitative-design.md) — related
+- [Generative learning has implications for the science of learning and open directions for further research](generative-learning-implications-future-research.md) — related

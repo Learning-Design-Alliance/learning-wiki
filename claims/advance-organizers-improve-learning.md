@@ -125,3 +125,4 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related
 - [Using a flexible functional form, the estimated benefit of improving a competency depends on a student's existing strengths and weaknesses in other competencies](competency-benefits-depend-on-other-competencies.md) — related
+- [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — related

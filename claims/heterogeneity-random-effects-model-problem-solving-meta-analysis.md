@@ -71,3 +71,4 @@ Model-choice step of the meta-analysis: given the heterogeneity result, the auth
 - [Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling](genai-effect-heterogeneity-random-effects.md) — a narrower finding that bears on this claim
 - [GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices](gai-k12-personalization-assessment-opportunities.md) — related
 - [Meta-analysis of AI-in-nursing-education studies was not feasible due to heterogeneity, so the review used narrative synthesis](narrative-synthesis-ai-nursing-review-heterogeneity.md) — related
+- [The variability of feedback-intervention effects, including negative effects, exceeds sampling error and is robust to exclusion of a single prolific lab](fi-negative-effects-robust-not-sampling-error.md) — related

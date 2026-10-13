@@ -67,3 +67,4 @@ The report's background section, summarizing NAEP trend data (Exhibit 4), states
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — related
 - [In 2015–16, North Carolina Opportunity Culture schools outperformed other North Carolina schools on state accountability growth measures](nc-oc-schools-outperformed-2015-16.md) — related
+- [Percentages of students at or above NAEP Proficient were unchanged in mathematics and lower in reading since 2017 at grades 4 and 8](naep-2019-proficient-unchanged-math-lower-reading.md) — related

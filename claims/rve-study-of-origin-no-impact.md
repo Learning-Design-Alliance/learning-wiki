@@ -47,3 +47,4 @@ New robust variance estimation (RVE) analysis of the Leary et al. (2013) data, w
 - [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning](tutor-background-meta-regression-not-predictive.md) — related
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
 - [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91](massive-range-pbl-outcome-effect-sizes.md) — related
+- [Meta-analytic estimates are robust to the assumed within-study effect size correlation in sensitivity analyses](sensitivity-analysis-robust-to-within-study-correlation.md) — related

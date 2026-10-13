@@ -52,3 +52,4 @@ The study's central contribution is methodological: by instrumenting each proces
 
 ## Related Claims
 - (none yet linked)
+- [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](outcome-feedback-impedes-complex-task-learning-mcpl.md) — related

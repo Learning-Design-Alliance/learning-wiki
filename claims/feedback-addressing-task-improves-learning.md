@@ -88,3 +88,6 @@ The task-level (sometimes called "task process" or "information") focus of feedb
 - [Districts report more success with future-ready skill assessment focused on student growth than on proficiency](growth-over-proficiency-pog-assessment.md) — related
 - [Overemphasis on punishment is counterproductive; discipline problems often stem from attention-seeking above-average-intelligence students](punishment-overemphasis-counterproductive.md) — related
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related
+- [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related
+- [Feedback interventions improve performance on average with a moderate effect (d = .41), but over 38% of feedback-intervention effects are negative](fi-meta-analysis-mean-d-41-over-38-percent-negative.md) — related
+- [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](high-information-feedback-d099-versus-reinforcement-d024.md) — possibly the same claim (merge candidate)

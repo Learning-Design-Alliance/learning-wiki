@@ -114,3 +114,8 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — possibly the same claim (merge candidate)
 - [Pedagogical-criterion breakdown shows worked examples in only about 42% of responses, the weakest criterion despite 312 practice problems in the knowledge base](algorag-worked-example-retrieval-42-percent.md) — related
+- [Interleaving effects are larger in pure university student samples than in nonstudent samples](interleaving-larger-in-university-student-samples.md) — related
+- [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related
+- [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — a narrower finding that bears on this claim
+- [The interleaving effect generalizes to visual materials, with the largest effects for paintings](interleaving-strongest-for-paintings-visual-materials.md) — a narrower finding that bears on this claim
+- [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](moderate-overall-interleaving-effect.md) — possibly the same claim (merge candidate)

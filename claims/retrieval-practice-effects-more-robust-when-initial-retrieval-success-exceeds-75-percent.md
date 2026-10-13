@@ -67,3 +67,4 @@ The chapter cites Carpenter and DeLosh (2006) and Karpicke and Roediger (2007a) 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis](retrieval-practice-outperforms-repeated-study-rowland-meta-analysis.md) — related
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — related
+- [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) — related

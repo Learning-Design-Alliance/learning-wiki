@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1578 entries** · 0 stable · 0 in review · 1578 drafts
+**1579 entries** · 0 stable · 0 in review · 1579 drafts
 
 ---
 
@@ -663,6 +663,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Indiana College Core](indiana-college-core.md) - The Indiana Commission for Higher Education's Indiana College Core programme enables high school students to earn transferable college credits, supported by the My College Core interactive planning tool and counselor guidance.
 * [Indiana grant and scholarship programs (21st Century Scholars, Frank O'Bannon, Mitch Daniels Early Graduation, Workforce Ready)](indiana-grant-and-scholarship-programs-21st-century-scholars-frank-obannon-mitch-daniels-e.md) - Indiana state financial-aid programmes that provide grants or scholarships to eligible students pursuing postsecondary education or workforce credentials.
 * [Indicators-of-distress framework](indicators-of-distress-framework.md) - A National Charter School Resource Center framework that organizes leading signs of charter-school decline across six domains to help leaders, boards, authorizers, and support organizations identify risks and target interventions.
+* [Individual-participant-data meta-analysis datasets of examination scores and passing rates disaggregated by minoritized-group status](individual-participant-data-meta-analysis-datasets-of-examination-scores-and-passing-rates.md) - An openly available collection of individual-participant examination-score and passing-rate records disaggregated by minoritized-group or socioeconomic status, released by Theobald et al.
 * [Information Studies Research Accelerator (ISRA)](information-studies-research-accelerator-isra.md) - A first-year residential living-learning community programme run by its host institution to introduce undergraduate students to information studies research.
 * [INJECT Exercise Platform (IXP)](inject-exercise-platform-ixp.md) - An open-source platform developed by the INJECT team for delivering tabletop exercise scenarios, coordinating team interactions, and recording activity data for assessment.
 * [InkSurvey](inksurvey.md) - InkSurvey is free, web-based software developed for educators that collects keyed or digital-ink student responses in real time and enables anonymous display to a class.

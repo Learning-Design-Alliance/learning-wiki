@@ -96,3 +96,6 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related
 - [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](concrete-eco-feedback-visualizations-preferred-over-abstract.md) — a narrower finding that bears on this claim
 - [Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications](ai-relevance-perceptions-abstract-versus-proximal.md) — a narrower finding that bears on this claim
+- [Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently](fading-advantages-beyond-sum.md) — possibly the same claim (merge candidate)
+- [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
+- [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related

@@ -63,6 +63,7 @@ Self-regulation instruction works best when strategies are taught within subject
 - [Teach Metacognitive Strategies](../strategies/teach-metacognitive-strategies.md) — the cognitive-monitoring subset of self-regulation instruction
 - [Use Formative Feedback](../strategies/use-formative-feedback.md) — process-level feedback is the primary fuel for self-regulated adjustment
 - [Teach students to monitor and reflect on their own behavior](teach-students-self-monitor-reflect-behavior.md)
+- [Support learners in monitoring and regulating their own learning using effective strategies](support-self-regulated-use-of-effective-strategies.md)
 
 ## Examples
 **Zimmerman and colleagues' self-regulation training cycle** — Learners are taught a forethought → performance → self-reflection cycle applied to writing and studying tasks, with teachers modeling each phase and fading prompts over successive tasks.

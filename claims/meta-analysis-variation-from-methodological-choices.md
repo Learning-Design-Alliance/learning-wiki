@@ -48,3 +48,4 @@ Theoretical/methodological argument about sources of variation in secondary rese
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related
 - [Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies](risk-of-bias-varies-by-study-design.md) — related
 - [In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed](vague-statistics-definitions-never-formalized.md) — related
+- [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related

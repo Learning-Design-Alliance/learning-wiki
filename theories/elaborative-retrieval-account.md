@@ -17,7 +17,7 @@ sources:
 # Elaborative Retrieval Account
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (1 for, 1 mixed, 2 against, 1 unmarked) · 2 studies (1 quant-synthesis, 1 review), `q2`–`q4` · 2 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (1 for, 1 mixed, 3 against, 1 unmarked) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 Proposed by Carpenter (2009), this account holds that "semantic elaboration occurs during the process of retrieval and enhances subsequent recall". When given a cue, learners generate several semantically related items that are incorporated with the target into an elaborated, more recallable trace. The chapter credits it with a plausible mechanism and testable predictions.
@@ -39,10 +39,12 @@ Proposed by Carpenter (2009), this account holds that "semantic elaboration occu
 - Explain the mechanism by which retrieval enhances later recall
 
 ### Claims
+
 - [Less Initial Retrieval Support Produces Better Retention](../claims/less-initial-retrieval-support-produces-better-retention.md) [+W]
 - [Retrieval Practice Produces More Learning Than Concept Mapping And Imagery Elaboration](../claims/retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) [-W]
 - [Retrieval Practice Benefits Extend To Nonverbal Spatial And Differently Structured Text Materials](../claims/retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials.md) [-W]
 - [Mediator Cued Final Test Effects Of Retrieval Practice May Be Small](../claims/mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) [~W]
+- [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](../claims/limited-support-semantic-elaboration-testing-accounts.md) [-W] — attached 2026-10-13 from The effect of testing versus restudy on retention: A meta-analytic review of the testing e, which proposed "The elaborative retrieval hypothesis of the testing effect"; tests this page's relationship.
 
 ## Related Theories
 - [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md)

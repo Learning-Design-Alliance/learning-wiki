@@ -49,3 +49,4 @@ Learners studied and retrieved pairs to one correct recall, then items were assi
 
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md)
 - [Distributed Practice Improves Retention](distributed-practice-improves-retention.md)
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spacing-effect-robust-verbal-recall.md) — related

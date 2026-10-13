@@ -95,3 +95,4 @@ A review and meta-analysis of the seductive-detail literature. The effect held o
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — a broader claim this one bears on
 - [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — related
 - [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](personalized-problem-contexts-boost-engagement-grades-4-8.md) — reports the opposite
+- [Coherence principle: students transfer better from concise multimedia lessons than lessons expanded with extraneous material](coherence-principle-mayer-2008.md) — possibly the same claim (merge candidate)

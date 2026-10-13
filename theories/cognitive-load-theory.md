@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (10 for, 2 mixed, 1 against) · 23 studies (10 causal, 7 quant-synthesis, 4 review, 1 design, 1 theoretical), `q1`–`q4` · 4 of 23 report an effect size · 7 claims rest on one study
+> **Evidence** · 17 claims (14 for, 2 mixed, 1 against) · 23 studies (10 causal, 7 quant-synthesis, 4 review, 1 design, 1 theoretical), `q1`–`q4` · 4 of 23 report an effect size · 11 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -81,6 +81,10 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
 - [The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment](../claims/ai-feedback-reduces-cognitive-load-and-fear-of-failure.md) [+W] — attached 2026-10-11 from Nuhu et al. (2026), which proposed "Real-time AI feedback as digital scaffolds bridging feedback latency"; tests this page's relationship.
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](../claims/arpg-plus-load-composition-shift-and-overload-reduction.md) [+W] — attached 2026-10-12 from Ye et al. (2026), which proposed "Operationalizing cognitive load theory and ZPD into real-time coaching signals"; tests this page's relationship.
+- [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](../claims/minimally-guided-instruction-less-effective-than-strong-guidance.md) [+W] — attached 2026-10-13 from Kirschner et al. (2006), which proposed "Human cognitive architecture, expert-novice differences, and cognitive load as the explanatory framework for the superiority of guided instruction".
+- [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](../claims/guidance-advantage-recedes-with-high-prior-knowledge.md) [+W] — attached 2026-10-13 from Kirschner et al. (2006), which proposed "Human cognitive architecture, expert-novice differences, and cognitive load as the explanatory framework for the superiority of guided instruction"; tests this page's relationship.
+- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](../claims/segmenting-effect-retention-transfer-meta-analysis.md) [+W] — attached 2026-10-13 from Rey et al. (2019), which proposed "Explanatory accounts of the segmenting effect: designer-imposed chunking and structuring, more processing time, and individual pace adaptation".
+- [Segmentation reduces overall cognitive load during multimedia learning](../claims/segmenting-reduces-cognitive-load.md) [+W] — attached 2026-10-13 from Rey et al. (2019), which proposed "Explanatory accounts of the segmenting effect: designer-imposed chunking and structuring, more processing time, and individual pace adaptation"; tests this page's relationship.
 
 ## Related Theories
 

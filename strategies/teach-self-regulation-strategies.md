@@ -66,6 +66,7 @@ Self-regulation instruction has consistent positive effects on academic performa
 - [Teach students to examine their own data and set learning goals](teach-students-examine-own-data-set-goals.md)
 - [Build metacognitive reflection opportunities into AI-integrated instruction to prevent cognitive overload](metacognitive-opportunities-ai-integration.md)
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](independent-practice-cycles-for-ai-regulation.md)
+- [Support learners in monitoring and regulating their own learning using effective strategies](support-self-regulated-use-of-effective-strategies.md)
 
 ## Examples
 **Zimmerman & Campillo's cycle in writing instruction** — Students plan (set goals for audience and structure), draft with self-monitoring checklists, and revise after self-evaluation against criteria; the Self-Regulation Strategy Development model (SRSD) for writing has strong experimental support across grade levels.
