@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load
-description: Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load
+title: A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load
+description: "A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load"
 id: temporal-contiguity-lower-cognitive-load
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load
+# A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+
+<!-- title before 2026-10-14: Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load -->
 
 ## Subclaims
 `q2 i?` Chang et al. (2011) found simultaneous presentation of lecture notes, a worked example, and instructor explanations facilitated understanding of a programming language on pre- and post-tests; Cheng et al. (2015) found students receiving temporally contiguous instruction reported lower perceived cognitive load. [→ Marjorie Ceballos 2022](#ceballos-nutta-2022)
@@ -46,7 +48,7 @@ Narrative review attribution covering two studies: Chang et al. (2011) on split-
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
-- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Automated CTML metrics show significant improvement in temporal contiguity and coherence for CTML-informed videos, while modality, redundancy, and image quality show no significant difference](automated-metrics-temporal-contiguity-coherence.md) — related
 - [The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech](feasible-synchronized-video-generation-from-textbook-queries.md) — a narrower finding that bears on this claim

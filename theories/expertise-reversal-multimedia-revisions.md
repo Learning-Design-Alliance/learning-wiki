@@ -16,7 +16,7 @@ sources:
 # Expertise reversal effect applied to multi-principle visual revisions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The expertise reversal effect is the phenomenon in which "guidance intended to assist learning actually makes learning more difficult for students with higher levels of prior knowledge" because the guidance is redundant with what proficient learners already know. In this study, the authors invoke it to explain why revised visuals (with added labels, color coding, and call-out boxes) increased cognitive load for middle prior knowledge students while reducing it for low prior knowledge students. They also note an unanticipated reversal of the effect for high prior knowledge students viewing math-relevant visuals.

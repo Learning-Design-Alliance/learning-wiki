@@ -35,7 +35,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 ## Claims
 - [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M] — learner-paced segments let someone unfamiliar with the interface set their own rate
 - [Multimedia principle improves learning](../claims/multimedia-principle-improves-learning.md) [+M] — words plus pictures reduce reliance on interface text alone
-- [Redundancy hurts multimedia learning](../claims/redundancy-effect-impairs-learning.md) [-M] — duplicating on-screen text and narration adds load rather than support
+- [Redundancy hurts multimedia learning](../claims/redundancy-principle.md) [-M] — duplicating on-screen text and narration adds load rather than support
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](../claims/checklist-evaluation-ineffective-online.md) [-M] — a caution: teaching a checklist is not the same as building the competence
 - [A majority of YOUmedia participants report improved digital media skills due to the program](../claims/youmedia-majority-report-improved-digital-media-skills.md) [+W] — instruction changes it
 - [Creating computational literature develops computational literacy even when code modification is minor](../claims/creating-computational-literature-develops-computational-literacy.md) [+W] — instruction changes it

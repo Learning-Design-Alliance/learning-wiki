@@ -12,10 +12,10 @@ generated:
 # Reducing Visual Clutter
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 11 studies (7 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 11 report an effect size
 
 ## Description
-Reducing visual clutter involves minimizing unnecessary or distracting visual stimuli in the learning environment — on classroom walls, slides, web pages, and course materials. The strategy applies the *coherence principle* from multimedia learning research: people learn better when extraneous graphics, decorations, and background information are excluded rather than added [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. In physical classrooms, it means curating displays so that only content supporting current learning objectives remains visible; in digital materials, it means stripping decorative images, gratuitous animation, and competing layout elements.
+Reducing visual clutter involves minimizing unnecessary or distracting visual stimuli in the learning environment — on classroom walls, slides, web pages, and course materials. The strategy applies the *coherence principle* from multimedia learning research: people learn better when extraneous graphics, decorations, and background information are excluded rather than added [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S]. In physical classrooms, it means curating displays so that only content supporting current learning objectives remains visible; in digital materials, it means stripping decorative images, gratuitous animation, and competing layout elements.
 
 ## Design Implications
 
@@ -36,7 +36,7 @@ Visual clutter competes for limited attentional resources: young learners in hig
 
 #### Implementation Variability
 - **Physical environment:** rotate wall displays to match the current unit; keep a "focus wall" with only current-objective content
-- **Slides and multimedia:** apply the coherence principle — remove decorative images, background music, and nonessential animation [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]
+- **Slides and multimedia:** apply the coherence principle — remove decorative images, background music, and nonessential animation [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S]
 - **Digital course design:** simplify LMS navigation, hide unused menu items, use consistent module templates
 - **Individual accommodation:** preferential seating away from high-traffic or visually busy areas for learners with attention or sensory-processing needs ([Accommodations](../elements/accommodations.md))
 

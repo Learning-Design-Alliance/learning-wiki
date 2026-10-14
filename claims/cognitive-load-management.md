@@ -87,10 +87,9 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](audience-prior-knowledge-determines-information-density.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — related
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — a narrower finding that bears on this claim
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — related
 - [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — a narrower finding that bears on this claim
 - [Segmentation increases learning time](segmenting-increases-learning-time.md) — a narrower finding that bears on this claim
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — possibly the same claim (merge candidate)
-- [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
+- [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
-- [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-cueing-increases-learning.md) — related
+- [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-improves-learning.md) — related

@@ -12,14 +12,14 @@ generated:
 # Drawing and Memory Enhancement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 11 studies (7 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Drawing is a technique in which learners create their own pictorial representations of to-be-learned content — sketching a concept, process, or relationship — rather than viewing a provided image. It requires learners to process information visually, kinesthetically, and semantically: they must elaborate on the meaning of the concept and translate it into a new form (a picture). This active reconstruction produces stronger encoding than reading or listening alone, with the "drawing effect" showing reliable memory advantages over writing, imagining, or viewing [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-learning.md) [+S].
 
 ## Design Implications
 
-Drawing works because it is generative: learners must select critical information, organize it spatially, and integrate it with prior knowledge — the same processes that underlie effective [Dual Coding Theory](../theories/dual-coding-theory.md) [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-learning.md) [+M]. The benefit comes from *learner-generated* drawing; simply viewing decorative or instructor-supplied illustrations does not produce the same effect [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Drawings need not be artistically skilled — simple, schematic representations capture the benefit.
+Drawing works because it is generative: learners must select critical information, organize it spatially, and integrate it with prior knowledge — the same processes that underlie effective [Dual Coding Theory](../theories/dual-coding-theory.md) [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-learning.md) [+M]. The benefit comes from *learner-generated* drawing; simply viewing decorative or instructor-supplied illustrations does not produce the same effect [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S]. Drawings need not be artistically skilled — simple, schematic representations capture the benefit.
 
 ### Context
 #### Requirements

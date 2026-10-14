@@ -12,14 +12,14 @@ generated:
 # Draw To Explain
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 15 studies (7 causal, 4 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size
+> **Evidence** · 6 claims (4 for, 2 mixed) · 18 studies (10 causal, 4 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 3 of 18 report an effect size
 
 ## Description
 Draw To Explain asks learners to produce their own drawing, sketch, or diagram that explains a concept, process, or causal system — not to view or copy one. The act of constructing the visual forces learners to select key ideas, organize spatial relationships, and integrate them with verbal knowledge, making it a generative activity rather than a receptive one. It is typically paired with a short verbal explanation or label requirement so the drawing must communicate, not merely decorate.
 
 ## Design Implications
 
-Drawing is a generative learning activity: learners must construct external structure from their own understanding, which exposes gaps and supports integration of pictorial and verbal representations [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The benefit comes from the *construction* process, not the visual product — learner-generated drawings outperform viewing equivalent provided images [+M], and decorative or instructor-supplied pictures that learners do not process deeply add little [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Because drawing consumes working memory, it works best when the content is moderately complex and the drawing conventions are simple [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~S].
+Drawing is a generative learning activity: learners must construct external structure from their own understanding, which exposes gaps and supports integration of pictorial and verbal representations [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The benefit comes from the *construction* process, not the visual product — learner-generated drawings outperform viewing equivalent provided images [+M], and decorative or instructor-supplied pictures that learners do not process deeply add little [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+M]. Because drawing consumes working memory, it works best when the content is moderately complex and the drawing conventions are simple [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~S].
 
 ### Context
 #### Requirements

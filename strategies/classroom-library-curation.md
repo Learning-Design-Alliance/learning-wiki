@@ -12,7 +12,7 @@ generated:
 # Classroom Library Curation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 quant-synthesis, 4 causal, 1 review, 1 theoretical), `q1`–`q4` · 5 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (7 causal, 5 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size
 
 ## Description
 Classroom library curation is the intentional design of a classroom's book collection: selecting titles that reflect students' identities, interests, and cultures; organizing them for easy browsing and access; and refreshing the collection as readers grow. It treats the library itself as an instructional design decision rather than an inherited room feature.
@@ -33,7 +33,7 @@ Access to appealing, self-selected books is one of the strongest correlates of r
 - Leveled-only organization can stigmatize struggling readers and reduce browsing motivation [~M] — labeling bins by reading level signals status; organizing by genre or interest avoids this
 - Overly large, disorganized collections reduce circulation; students browse less when they cannot find appealing titles quickly [~W]
 - A static collection loses engagement value within a school year; without rotation, voluntary borrowing declines [~W]
-- Decorative or display-only book arrangements do not improve learning and can consume shelf space better used for accessible titles [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [~W]
+- Decorative or display-only book arrangements do not improve learning and can consume shelf space better used for accessible titles [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [~W]
 
 #### Implementation Variability
 - **Interest-first curation**: student surveys and request systems drive acquisition; strongest for reluctant readers

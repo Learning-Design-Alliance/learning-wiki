@@ -12,14 +12,14 @@ generated:
 # Multiple Display Boards/Screens
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (8 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 3 of 13 report an effect size
 
 ## Description
 Multiple Display Boards/Screens is a strategy in which a learning space is equipped with several simultaneous display surfaces — whiteboards, writable walls, projectors, or networked screens — so that instructional content, group work products, and shared artifacts can all be visible at once. Screens may be mirrored (one source to many displays), split (many sources side by side), or dedicated to distinct functions (one for instruction, one for group work in progress). The goal is to make thinking and work publicly visible and to reduce the bottleneck of a single shared display.
 
 ## Design Implications
 
-Multiple displays support learning primarily by making collaboration and work-in-progress visible to the whole group, enabling comparison, feedback, and shared attention [~M]. They also allow instructors to manage cognitive load by separating persistent reference material (kept on one board) from transient content (on another), reducing the need for learners to hold information in working memory while it is erased or scrolled away [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. However, additional displays add visual competition; content that is decorative or unattended does not improve learning and can fragment attention [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S].
+Multiple displays support learning primarily by making collaboration and work-in-progress visible to the whole group, enabling comparison, feedback, and shared attention [~M]. They also allow instructors to manage cognitive load by separating persistent reference material (kept on one board) from transient content (on another), reducing the need for learners to hold information in working memory while it is erased or scrolled away [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. However, additional displays add visual competition; content that is decorative or unattended does not improve learning and can fragment attention [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S].
 
 ### Context
 #### Requirements

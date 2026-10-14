@@ -12,14 +12,14 @@ generated:
 # Read Aloud with Highlighting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 8 studies (5 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size
 
 ## Description
 Read aloud (text-to-speech) features present digital text aurally while synchronized highlighting marks the word or sentence currently being spoken. The learner simultaneously sees and hears the text, receiving decoding support, attention guidance, and multisensory input. This is a common accessibility feature in digital reading environments and a [UDL](../principles/universal-design-for-learning.md) means of providing multiple representations of content.
 
 ## Design Implications
 
-Simultaneous audio and visual presentation of text supports learners whose decoding is slow or effortful, freeing working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Highlighting serves an attention-guiding function, keeping the learner's gaze aligned with the spoken word and reducing place-loss in longer passages [~M]. The approach draws on dual coding: pairing auditory and visual channels can strengthen encoding, but only when both channels carry the same essential content rather than redundant decoration [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-W].
+Simultaneous audio and visual presentation of text supports learners whose decoding is slow or effortful, freeing working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Highlighting serves an attention-guiding function, keeping the learner's gaze aligned with the spoken word and reducing place-loss in longer passages [~M]. The approach draws on dual coding: pairing auditory and visual channels can strengthen encoding, but only when both channels carry the same essential content rather than redundant decoration [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-W].
 
 ### Context
 #### Requirements

@@ -12,14 +12,14 @@ generated:
 # Picture Dictionaries
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (3 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 9 studies (6 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 9 report an effect size
 
 ## Description
 Picture dictionaries are reference tools that use illustrations to define words and concepts, making them accessible to language learners of all ages. Each entry pairs a word with a corresponding image, leveraging the dual-channel structure of memory to bind meaning to form. They range from comprehensive published volumes (e.g., the Oxford Picture Dictionary) to learner-built personal collections, in print or digital form.
 
 ## Design Implications
 
-Pairing words with relevant images supports recall better than words alone, consistent with dual coding theory — verbal and pictorial codes provide two retrieval routes [Learning improves when information is presented with complementary visuals rather than words alone.](../claims/dual-coding-improves-learning.md) [+S]. However, the image must carry the meaning, not merely decorate the page: illustrations that are attractive but uninformative add no learning value and can distract [Decorative illustrations that do not support the learning goal do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Picture dictionaries work best as one component of vocabulary instruction that includes contextualized encounters and productive use, not as a stand-alone memorization aid.
+Pairing words with relevant images supports recall better than words alone, consistent with dual coding theory — verbal and pictorial codes provide two retrieval routes [Learning improves when information is presented with complementary visuals rather than words alone.](../claims/dual-coding-improves-learning.md) [+S]. However, the image must carry the meaning, not merely decorate the page: illustrations that are attractive but uninformative add no learning value and can distract [Decorative illustrations that do not support the learning goal do not improve learning.](../claims/seductive-details-effect.md) [-S]. Picture dictionaries work best as one component of vocabulary instruction that includes contextualized encounters and productive use, not as a stand-alone memorization aid.
 
 ### Context
 #### Requirements

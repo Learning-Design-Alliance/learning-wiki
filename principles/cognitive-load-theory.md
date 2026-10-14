@@ -23,7 +23,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (11 for, 14 mixed) · 25 studies (13 causal, 6 review, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 5 of 25 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (11 for, 14 mixed) · 25 studies (13 causal, 6 review, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 5 of 25 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -75,9 +75,9 @@ Keep learners, task, comparator, outcome and horizon with each result when trans
 Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/cognitive-load.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
 
 - Does removing avoidable processing from a presentation improve learning? [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [+S]: 8 distinct studies.
-- For which material and pacing does managing load matter most? [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M]: 3 distinct studies.
+- For which material and pacing does managing load matter most? [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M]: 3 distinct studies.
 - Should related text and pictures be integrated rather than separated? [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [~S]: 5 distinct studies.
-- Should the same words be given both spoken and written, or other duplicate material be added? [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [~S]: 7 distinct studies.
+- Should the same words be given both spoken and written, or other duplicate material be added? [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](../claims/redundancy-hurts-learning.md) [~S]: 7 distinct studies.
 - For whom: does support that helps novices stop helping as task-specific expertise grows? [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]: 13 distinct studies.
 - Should component knowledge come before the whole task? [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [~S]: 3 distinct studies.
 
@@ -105,9 +105,9 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 ## Claims
 
 - [How commonly the increased efficiency effect is present in test data is unclear](../claims/increased-efficiency-prevalence-unclear.md) [~W]
-- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/visual-channel-overload-hurts-visual-knowledge.md) [+W]
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/voice-media-outperform-picture-text-overall.md) [+W]
 - [Supplementary process estimates linked differentiated support to lower cognitive load for low-proficiency and higher discourse awareness for intermediate learners, but were descriptive only](../claims/descriptive-process-estimates-support-layers.md) [~W]
-- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
+- [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
 - [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](../claims/genai-training-comparable-load-marginal-intrinsic-increase.md) [~W]
 - [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](../claims/redundant-text-no-effect-posterior-probability-lesson.md) [~W]
 

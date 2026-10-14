@@ -43,9 +43,11 @@ Small-group case study of 21 undergraduates studying a multimedia animation on c
 
 ## Related Claims
 
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — the general claim this finding bears on, with the studies behind it
+
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Change in the most-focused central object was detected at a low rate (41.66%) unless it was signalled and cued](central-object-change-detection-low-without-cueing.md) — related
 - [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](cueing-outcompetes-signalling-alone-for-attention.md) — a narrower finding that bears on this claim
 - [Changes were detected more easily on screens presenting fewer objects (66.66%)](fewer-objects-easier-change-detection.md) — related
-- [The change on the object that was both signalled and visually cued was the most detected change (83.33%)](signalled-and-cued-object-change-most-detected.md) — related
-- [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-cueing-increases-learning.md) — related
+- [The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)](signalled-and-cued-object-change-most-detected.md) — related
+- [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-improves-learning.md) — related

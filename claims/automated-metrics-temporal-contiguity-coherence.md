@@ -42,7 +42,7 @@ Algorithmic assessment of a corpus of 14 videos (7 topics × 2 conditions) from 
 
 ## Related Claims
 - [Human ratings and automated metrics converge on coherence and temporal alignment as the dimensions most enhanced by the dual gatekeeping pipeline](dual-evaluation-convergence-coherence-temporal.md) — related
-- [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
+- [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
 - [CTML-guided educator review of AI video scripts yields statistically significant improvements across all 12 CTML principles and overall instructional validity](ctml-review-improves-educator-ratings.md) — related
 - [A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic](slide-image-override-corpus-grounding-recovery.md) — related
 - [The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech](feasible-synchronized-video-generation-from-textbook-queries.md) — related

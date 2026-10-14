@@ -13,7 +13,7 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1255527"
     title: "Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527"
     author: "Kutbay, E. & Akpınar, Y."
-    q: 3
+    q: 2
     i: 3
     kind: causal
     rigour: 2
@@ -22,10 +22,10 @@ sources:
 # All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
-`q3 i3` Each group's post-test mean was significantly higher than its pre-test mean, with Cohen's d ranging from .34 to .86 across the ten conditions. [→ Kutbay 2020](#kutbay-2020)
+`q2 i3` Each group's post-test mean was significantly higher than its pre-test mean, with Cohen's d ranging from .34 to .86 across the ten conditions. [→ Kutbay 2020](#kutbay-2020)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527
 
-`q3 · i3` · `causal · r2`
+`q2 · i3` · `causal · r2`
 
 Paired t-tests on pre/post achievement for each of the ten multimedia conditions in the quasi-experiment (n=826 analyzed). Table 3 reports Cohen's d from .34 (W-C) to .86 (Sg-A); the Sg-A row shows "6.34 86 .000 .86", i.e., d = .86, the largest gain.
 

@@ -50,7 +50,7 @@ sources:
 # Segmenting Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (11 for, 14 mixed) · 17 studies (5 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 17 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (10 for, 14 mixed) · 18 studies (5 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 18 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,9 +143,9 @@ Each question links a general claim that gathers the studies behind it and the n
 
 ## Further evidence, not yet read against this model
 
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](../claims/segmenting-effect-retention-transfer-meta-analysis.md) [+M]: the same Rey et al. (2019) finding as the claim cited above; a fold candidate.
+- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](../claims/segmenting-improves-multimedia-learning.md) [+M]: the same Rey et al. (2019) finding as the claim cited above; a fold candidate.
 - [Cognitive Load Management](../claims/cognitive-load-management.md) [+M]: carries the Rey et al. meta-analysis beside a worked-examples meta-analysis.
-- [Multimedia principles benefit novices](../claims/multimedia-principles-benefit-novices.md) [~M]: the expertise reversal argument for multimedia supports in general, with no segmenting study.
+- [Multimedia principles benefit novices](../claims/expertise-reversal-effect.md) [~M]: the expertise reversal argument for multimedia supports in general, with no segmenting study.
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse](../claims/expertise-reversal-effect-compound.md) [~M]: the general prediction Rey et al.'s retention moderator runs against.
 - [Animations appear to pacify learners](../claims/animations-pacify-learners-navigation-imbalance.md) [~M]: navigation counts by format in one small study.
 - [Students pause the video after a few sequences to consult a segment menu](../claims/students-pause-video-to-view-segment-menu.md) [~W]: a classroom design report; learners judged workload by the number of segments.
@@ -161,6 +161,12 @@ The designer's objective is usually understanding of how a process works, retain
 The expectation should weaken if comparisons with comparable learners and material, holding content equal, find no retention or transfer advantage for segments placed at conceptual breaks, or if the advantage seen on immediate tests disappears at a delay. The prior-knowledge qualification should be revised once a study crosses prior knowledge with both retention and transfer outcomes in one design. A study that varies segment length, or that compares segments with and without a prompt at each break, would replace the untested dose in the default design.
 
 ## Related Principles
+- [Modality Principle](modality.md)
+- [Redundancy Principle](redundancy.md)
+- [Signaling Principle](signaling.md)
+- [Contiguity Principle (Spatial and Temporal)](contiguity.md)
+- [Coherence Principle](coherence.md)
+- [Pre-training Principle](pretraining.md)
 
 - [Multimedia Learning](multimedia-learning.md): the umbrella model this decision sits inside
 - [Chunking](chunking.md): meaningful units in general; segmenting is its form for transient media

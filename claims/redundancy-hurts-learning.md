@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Redundancy Hurts Learning
+title: On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions
 status: draft
 generated:
   by: "claude/unspecified"
@@ -26,10 +26,12 @@ sources:
     rigour: 2
 ---
 
-# Redundancy Hurts Learning
+# On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q4` meta-analysis and experiments · `i1`–`i2` · strongly conditional
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q3`–`q4`
+
+<!-- title before 2026-10-14: Redundancy Hurts Learning -->
 
 Presenting the same information simultaneously in multiple formats — such as on-screen text that duplicates spoken narration, or labels that restate what a diagram already shows — imposes extraneous cognitive load and impairs learning relative to a single well-integrated presentation. This is the redundancy principle of [Cognitive Load Theory](../theories/cognitive-load-theory.md).
 
@@ -37,7 +39,7 @@ Presenting the same information simultaneously in multiple formats — such as o
 
 `q3 i?` Removing text that duplicated narration improved learning from a diagram-based multimedia lesson; the duplicate had to be processed and contributed nothing. [→ Kalyuga et al. 1999](#kalyuga-et-al-1999)
 
-`q4 i?` A meta-analysis of 57 studies found verbal redundancy is not uniformly harmful: spoken–written presentations did not differ from written-only ones and outperformed spoken-only ones, an advantage found for low prior knowledge learners, system-paced materials and picture-free materials, with prior knowledge, pacing and the inclusion of animation or diagrams as moderators. [→ Adesope & Nesbit 2012](#adesope-nesbit-2012)
+`q4 i?` A meta-analysis of 57 independent effect sizes from 33 reports found verbal redundancy is not uniformly harmful: spoken–written presentations did not differ from written-only ones and outperformed spoken-only ones, an advantage found for low prior knowledge learners, system-paced materials and picture-free materials, with prior knowledge, pacing and the inclusion of animation or diagrams as moderators. [→ Adesope & Nesbit 2012](#adesope-nesbit-2012)
 
 `q4 i?` Displaying key terms extracted from the narration was associated with better learning than verbatim spoken–written text, and accounted for much of the advantage of spoken–written over spoken-only presentations. [→ Adesope & Nesbit 2012](#adesope-nesbit-2012)
 
@@ -59,22 +61,22 @@ Adesope, O. O., & Nesbit, J. C. (2012). Verbal redundancy in multimedia learning
 
 `q4` · `i? · the abstract prints no effect size; the full text may` · `quant-synthesis · r2`
 
-A meta-analysis of 57 independent experimental studies, mostly with postsecondary students, comparing spoken-only, written-only and spoken–written (text plus verbatim speech) presentations on retention and transfer. Spoken–written and written-only presentations did not differ, and spoken–written presentations *outperformed* spoken-only ones. That advantage depended on prior knowledge, pacing and the inclusion of animation or diagrams: it was found for low prior knowledge learners, system-paced materials and picture-free materials. Presentations showing key terms extracted from the narration were associated with better outcomes than verbatim spoken–written ones. The abstract does not report verbal redundancy as harmful in any configuration, which is why this study qualifies the claim rather than supporting it and should be cited with a contextual tag.
+A meta-analysis of 57 independent effect sizes from 33 experimental reports, mostly with postsecondary students, comparing spoken-only, written-only and spoken–written (text plus verbatim speech) presentations on retention and transfer. Spoken–written and written-only presentations did not differ, and spoken–written presentations *outperformed* spoken-only ones. That advantage depended on prior knowledge, pacing and the inclusion of animation or diagrams: it was found for low prior knowledge learners, system-paced materials and picture-free materials. Presentations showing key terms extracted from the narration were associated with better outcomes than verbatim spoken–written ones. The abstract does not report verbal redundancy as harmful in any configuration, which is why this study qualifies the claim rather than supporting it and should be cited with a contextual tag.
 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does presenting the same words twice (spoken and written) hurt or help, and for whom?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 review), `q3`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Without a competing picture, do the same words spoken and written help or hurt, and for whom?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Kalyuga et al. 1999](https://doi.org/10.1002/(sici) | q3 · causal · r? | i? | this claim |
-| [Adesope & Nesbit 2012](https://doi.org/10.1037/a0026147) | q3 / q4 · quant-synthesis · r2 | i?; i0; i1; i3; i2 | this claim; [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit wi](verbal-redundancy-small-overall-effect.md) (counts against); [The spoken–written advantage over spoken-only presentation appears for system-paced but no](system-paced-moderates-verbal-redundancy.md) (qualifies); [Spoken–written advantages are larger for second-language and nonfluent first-language read](reader-fluency-prior-knowledge-moderate-redundancy.md) (qualifies); [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) (qualifies); [Nonsegmented spoken–written presentations show a larger advantage over spoken-only present](segmentation-moderates-verbal-redundancy.md) (qualifies); [Spoken–written presentations do not outperform written-only presentations but do outperfor](spoken-written-beats-spoken-only-not-written-only.md) (qualifies); [Spoken–written advantages are larger for retention outcomes and multiple-choice test forma](outcome-constructs-test-formats-moderate-redundancy.md) (qualifies) |
-| [Trypke et al. 2023](https://doi.org/10.3389/fpsyg.2023.1148035) | q3 · review · r2 | i? | [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) (supports); [Redundant on-screen text impairs learning when it competes with a visualization, though wr](redundancy-principle.md) (qualifies) |
-| Kutbay 2020 | q3 · causal · r2 | i? | [The redundancy effect does not hold for middle school students: adding written text to spo](redundancy-effect-not-significant-middle-school.md) (qualifies) |
+| [Kalyuga et al. 1999](<https://doi.org/10.1002/(sici)1099-0720(199908)13:4<351::aid-acp589>) | q3 · causal · r? | i? | this claim |
+| [Adesope & Nesbit 2012](https://doi.org/10.1037/a0026147) | q3 / q4 · quant-synthesis · r2 | i?; i0; i1; i3; i2 | this claim; [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit wi](verbal-redundancy-small-overall-effect.md) (counts against); [Spoken–written presentations do not outperform written-only presentations but do outperfor](spoken-written-beats-spoken-only-not-written-only.md) (qualifies); [Spoken–written advantages are larger for second-language and nonfluent first-language read](reader-fluency-prior-knowledge-moderate-redundancy.md) (qualifies); [The spoken–written advantage over spoken-only presentation appears for system-paced but no](system-paced-moderates-verbal-redundancy.md) (qualifies); [Nonsegmented spoken–written presentations show a larger advantage over spoken-only present](segmentation-moderates-verbal-redundancy.md) (qualifies); [Spoken–written advantages are larger for retention outcomes and multiple-choice test forma](outcome-constructs-test-formats-moderate-redundancy.md) (qualifies); [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) (qualifies) |
+| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i3 | [Captioning second-language videos produces large benefits for comprehension and vocabulary](captioning-second-language-videos-large-benefits.md) (qualifies) |
+| [Trypke et al. 2023](https://doi.org/10.3389/fpsyg.2023.1148035) | q3 · review · r? | i? | [Redundant on-screen text impairs learning when it competes with a visualization, though wr](redundancy-principle.md) (supports) |
+| Kutbay 2020 | q2 · causal · r2 | i? | [In one middle-school quasi-experiment, adding written text to spoken narration makes no si](redundancy-effect-not-significant-middle-school.md) (qualifies) |
 | [Clinton 2016](https://doi.org/10.1080/00220973.2015.1048847) | q3 · causal · r2 | i? | [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) (qualifies) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i2 | [Redundancy principle: animation plus narration beats animation, narration, and on-screen t](redundancy-principle-mayer-2008.md) (supports) |
-| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i3 | [Captioning second-language videos produces large benefits for comprehension and vocabulary](captioning-second-language-videos-large-benefits.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -103,15 +105,12 @@ A meta-analysis of 57 independent experimental studies, mostly with postsecondar
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — explains why redundant formats can stop hurting, or even help, as learner expertise increases.
 - [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](expertise-reversal-effect.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
-- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — a broader claim this one bears on
-- [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — a broader claim this one bears on
-- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
+- [Redundancy Effect Impairs Learning](redundancy-principle.md) — a broader claim this one bears on
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related
-- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — a narrower finding that bears on this claim
-- [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
-- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](visual-channel-overload-hurts-visual-knowledge.md) — related
-- [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-spoken-text-visual-information.md) — related
+- [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — a narrower finding that bears on this claim
+- [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](voice-media-outperform-picture-text-overall.md) — related
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — related
 - [Redundancy principle: animation plus narration beats animation, narration, and on-screen text for transfer](redundancy-principle-mayer-2008.md) — a narrower finding that bears on this claim
 - [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) — reports the opposite

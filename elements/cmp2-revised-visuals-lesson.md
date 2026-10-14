@@ -17,7 +17,7 @@ sources:
 # Revised CMP2 mathematics lesson visuals based on signaling, contiguity, and coherence principles
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The revised lesson was derived from Connected Mathematics 2 (CMP2) and covered graphing independent and dependent variables, set in a story about planning a long-distance bike trip. It consisted of nine pages with identical text in both conditions but revised visuals on eight pages: "additional signaling was added; contiguity of visuals and related text was increased, and math-irrelevant visuals were removed." Revisions included color coding, labels, and call-out boxes on math-relevant tables and graphs, and deletion of decorative features.

@@ -12,14 +12,14 @@ generated:
 # Graphic Organizers as Text Illustrations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 12 studies (4 causal, 4 quant-synthesis, 4 review), `q2`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 4 claims (2 for, 2 against) · 15 studies (7 causal, 4 quant-synthesis, 4 review), `q2`–`q4` · 3 of 15 report an effect size
 
 ## Description
 Students add a graphic organizer — a diagram such as a flowchart, cycle diagram, comparison matrix, or concept map — to a finished expository or argumentative writing piece to illustrate a key concept or process. The organizer functions as a reader-facing illustration: it externalizes the text's structure or causal chain so readers can process the content through both verbal and visual channels. Unlike an [Advance Organizer](../elements/advance-organizers.md), which precedes a text, this organizer accompanies or follows completed writing.
 
 ## Design Implications
 
-Pairing text with a relevant, structure-mapping diagram engages dual coding — verbal and visual representations that reinforce each other in memory [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The organizer must be *relevant* to the text's argument, not decorative: seductive but irrelevant graphics add load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Because the student must construct the organizer themselves, the activity doubles as a comprehension and synthesis check — deciding what belongs in the diagram forces re-analysis of the writing's logical structure [Learner-generated organizers produce deeper learning than viewing author-provided ones.](../claims/advance-organizers-improve-learning.md) [+M].
+Pairing text with a relevant, structure-mapping diagram engages dual coding — verbal and visual representations that reinforce each other in memory [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The organizer must be *relevant* to the text's argument, not decorative: seductive but irrelevant graphics add load without benefit [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]. Because the student must construct the organizer themselves, the activity doubles as a comprehension and synthesis check — deciding what belongs in the diagram forces re-analysis of the writing's logical structure [Learner-generated organizers produce deeper learning than viewing author-provided ones.](../claims/advance-organizers-improve-learning.md) [+M].
 
 ### Context
 #### Requirements

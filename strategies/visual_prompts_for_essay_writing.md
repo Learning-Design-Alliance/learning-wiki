@@ -12,7 +12,7 @@ generated:
 # Visual Prompts for Essay Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (3 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 9 studies (6 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 9 report an effect size
 
 ## Description
 This strategy pairs a compelling photograph or artwork with an abstract "life lesson" statement (e.g., *Hard work pays off*) and asks students to write an essay connecting the image, the statement, and their own experience. A typical implementation is an 11-minute timed essay: students study the image, interpret what it shows, generate or adopt a life lesson it suggests, then write continuously — first explaining the lesson, then linking it to personal experience, literature, or the world. The image functions as a concrete anchor for an abstract claim, giving reluctant or novice writers something specific to react to before they must produce structured prose.
@@ -30,7 +30,7 @@ The strategy works because concrete visual referents reduce the blank-page probl
 
 #### Constraints
 - Weak or literal images produce literal, shallow essays; the prompt must support multiple interpretations or it constrains rather than stimulates [~M]
-- Images used merely as decoration — with no interpretive demand — do not improve learning and can distract [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Images used merely as decoration — with no interpretive demand — do not improve learning and can distract [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Students with strong writing fluency may find the rigid 11-minute structure constraining and produce formulaic responses [~W]
 - If the life-lesson statement is given rather than generated, students may write *about* the statement without genuine personal investment, yielding generic essays [-W]
 - Cultural specificity of images can disadvantage students who lack the background knowledge the image assumes [~W]

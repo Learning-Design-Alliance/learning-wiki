@@ -65,7 +65,7 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What should follow when the knowledge activated is a misconception?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 review, 1 quant-synthesis, 1 causal), `q2`–`q4`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does naming and refuting the misconception help?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 review, 1 quant-synthesis, 1 causal), `q2`–`q4`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

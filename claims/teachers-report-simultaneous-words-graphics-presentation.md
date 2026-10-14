@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect
-description: A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect
+title: Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously
+description: "Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously"
 id: teachers-report-simultaneous-words-graphics-presentation
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect
+# Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+
+<!-- title before 2026-10-14: A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect -->
 
 ## Subclaims
 `q2 i?` 61.9% of teachers agreed they present printed words and/or verbal words and corresponding graphics simultaneously, while 14.3% claimed the opposite. [→ Houichi 2020](#houichi-2020)

@@ -73,7 +73,7 @@ The founding cognitive load paper. It argues that conventional problem solving b
 | [Kala 2023](https://doi.org/10.36681/tused.2023.027) | q3 · causal · r1 | i3; i?; i2 | [A CLT-based instructional design yields significantly higher retention and transfer scores](clt-instructional-design-raises-retention-transfer-thermodynamics.md) (supports); [The CLT-based design produced higher effective learning scores at retention and transfer, ](clt-design-effective-learning-retention-transfer.md) (supports); [No significant difference between groups on the thermodynamics achievement post-test or co](no-group-difference-tat-posttest-cls.md) (qualifies) |
 | Rania Abdelghani 2026 | q2 · associational · r2 | i? | [Higher extraneous cognitive load predicted lower post-test scores after controlling for pr](extraneous-load-predicts-lower-post-test.md) (supports) |
 | Miwa et al. 2017 | q2 · causal · r1 | i0 | [Under high extraneous load (hint presentation and L and rL condition), no test-score incre](extraneous-load-eliminates-germane-load-learning-gains.md) (supports) |
-| Guttormsen Schär 2007 | q2 · causal · r1 | i? | [Avoiding double load on the visual channel improves visual knowledge (channel-overload eff](visual-channel-overload-hurts-visual-knowledge.md) (supports) |
+| Guttormsen Schär 2007 | q2 · causal · r2 | i? | [Voice-based multimedia settings (animation+voice and picture+voice) produce better learnin](voice-media-outperform-picture-text-overall.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -95,6 +95,8 @@ The founding cognitive load paper. It argues that conventional problem solving b
 
 ## Related Claims
 
+- [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — the general claim this finding bears on, with the studies behind it
+
 - [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md) — extraneous material is a direct source of overload
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a primary design countermeasure
 - [Worked examples can become redundant or counterproductive for advanced learners](worked-examples-less-effective-with-expertise.md) — expertise moderates when load-reducing scaffolds help
@@ -103,11 +105,11 @@ The founding cognitive load paper. It argues that conventional problem solving b
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — related
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a narrower finding that bears on this claim
 - [Cognitive Load Management](cognitive-load-management.md) — related
-- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
+- [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — related
 - [Signaling Improves Learning](signaling-improves-learning.md) — related
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — a narrower finding that bears on this claim
 - [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](user-goals-contradict-educational-objectives.md) — related
 - [Reported limitations of AR enhanced analytics include cognitive overload from immersive environments, technological constraints, usability challenges, and inconsistent measurement approaches](ar-analytics-limitations-cognitive-overload-inconsistency.md) — related
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](arpg-plus-load-composition-shift-and-overload-reduction.md) — a narrower finding that bears on this claim
-- [Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — related
+- [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — related
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — related

@@ -12,14 +12,14 @@ generated:
 # Enrichment Through Art and Music
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 14 studies (9 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 3 of 14 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 17 studies (12 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 3 of 17 report an effect size
 
 ## Description
 Teachers integrate art and music from diverse cultures into their lessons to enrich learning, engage students, and promote cultural understanding. Artworks and musical selections serve as entry points, analogies, and evidence for academic content, while students are encouraged to share their own cultural art and music, fostering a sense of inclusion and connection.
 
 ## Design Implications
 
-Art and music function as dual-coding supports: pairing verbal content with visual and auditory representations gives learners two memory pathways and improves recall [Pairing verbal information with relevant imagery improves recall.](../claims/dual-coding-improves-learning.md) [+S]. Culturally responsive selection also matters for motivation and belonging — content that affirms students' identities and communities increases engagement and outcomes [Belonging interventions improve academic outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]. The strategy works only when the art or music is *integral* to the learning goal; decorative use adds extraneous load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
+Art and music function as dual-coding supports: pairing verbal content with visual and auditory representations gives learners two memory pathways and improves recall [Pairing verbal information with relevant imagery improves recall.](../claims/dual-coding-improves-learning.md) [+S]. Culturally responsive selection also matters for motivation and belonging — content that affirms students' identities and communities increases engagement and outcomes [Belonging interventions improve academic outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]. The strategy works only when the art or music is *integral* to the learning goal; decorative use adds extraneous load without benefit [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Art and music function as dual-coding supports: pairing verbal content with visu
 
 #### Constraints
 - Requires careful planning to avoid cultural appropriation, tokenism, or misrepresentation — surface-level "heroes and holidays" treatment can reinforce stereotypes rather than reduce them [~M]
-- Decorative or tangential use of art and music adds cognitive load without improving learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Decorative or tangential use of art and music adds cognitive load without improving learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Background music during independent work can impair reading comprehension and memory for verbal material, particularly for introverted learners [~M]
 - May require additional resources, licensing awareness, and community consultation to support diverse artistic expressions
 

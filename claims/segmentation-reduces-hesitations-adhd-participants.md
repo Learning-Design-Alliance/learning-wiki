@@ -35,7 +35,7 @@ Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, and Andrew Begel. 
 
 `q3 · i?` · `causal · r2`
 
-Negative Binomial GLMM of hesitation counts for the ADHD subgroup (n=68 observations, 17 participants). The article reports a highly significant negative effect (β=-1.54, SE=0.29, z=-5.37, p<.001) with an Incident Rate Ratio of 0.214, indicating "approximately 79% fewer hesitations". No standardized effect size is printed, so no magnitude is coded.
+Negative Binomial GLMM of hesitation counts for the ADHD subgroup (n=68 observations, 17 participants). The article reports a highly significant negative effect (β=-1.54, SE=0.29, z=-5.37, p<.001) with an Incident Rate Ratio of 0.214, indicating "approximately 79% fewer hesitations". No standardized effect size is printed for this model, so no magnitude is coded. The article's separate simple-effects table on Medium and Hard tasks (Table 8) prints d = 1.14 for the ADHD group's hesitation reduction; that is a different analysis, recorded on [the ADHD-interaction claim](segmentation-benefit-larger-for-adhd-group.md).
 
 > "By exponentiating the coefficient, we calculated an Incident Rate Ratio (IRR) of0 .214, indicating that participants in the segmented condition exhibited approximately 79% fewer hesitations than those in the non-segmented condition."
 
@@ -48,4 +48,4 @@ Negative Binomial GLMM of hesitation counts for the ADHD subgroup (n=68 observat
 
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 - [ADHD medication status shows no significant interaction with segmentation, though medicated participants made fewer hesitations](medication-status-segmentation-interaction-null.md) — related
-- [Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant](segmentation-benefit-larger-for-adhd-group.md) — related
+- [Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction](segmentation-benefit-larger-for-adhd-group.md) — related

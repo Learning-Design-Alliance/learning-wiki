@@ -12,14 +12,14 @@ generated:
 # Use Current Events & Fictional Characters
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 13 studies (7 causal, 5 quant-synthesis, 1 review), `q2`–`q4` · 5 of 13 report an effect size
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 16 studies (10 causal, 5 quant-synthesis, 1 review), `q2`–`q4` · 5 of 16 report an effect size
 
 ## Description
 This strategy embeds target content in real-world current events or in fictional characters, stories, and scenarios. Learners analyze a live news event, debate a decision facing a character, or carry out tasks *as* a persona, so abstract concepts arrive attached to concrete people, stakes, and narratives rather than as decontextualized facts.
 
 ## Design Implications
 
-Narrative and situational context give learners a structure for organizing new information and increase situational interest, which sustains attention and engagement [Interest supports engagement and learning when it directs attention to content.](../claims/activation-improves-learning.md) [+M]. Anchoring instruction in a realistic event or scenario improves problem-solving transfer because learners encode knowledge in the context where it must later be used [Anchored instruction improves transfer by embedding knowledge in realistic problem contexts.](../patterns/anchored-instruction.md) [+M]. Fictional narratives additionally support social-cognitive outcomes: reading and reasoning about characters improves perspective-taking and empathy [Fiction reading improves empathy and perspective-taking.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. The context must do real instructional work — carrying the target concepts — rather than serving as decoration [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M].
+Narrative and situational context give learners a structure for organizing new information and increase situational interest, which sustains attention and engagement [Interest supports engagement and learning when it directs attention to content.](../claims/activation-improves-learning.md) [+M]. Anchoring instruction in a realistic event or scenario improves problem-solving transfer because learners encode knowledge in the context where it must later be used [Anchored instruction improves transfer by embedding knowledge in realistic problem contexts.](../patterns/anchored-instruction.md) [+M]. Fictional narratives additionally support social-cognitive outcomes: reading and reasoning about characters improves perspective-taking and empathy [Fiction reading improves empathy and perspective-taking.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. The context must do real instructional work — carrying the target concepts — rather than serving as decoration [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Narrative and situational context give learners a structure for organizing new i
 - A task that requires learners to reason *with* the context, not merely read about it ([Case Studies](../elements/case-studies.md))
 
 #### Constraints
-- Salient but irrelevant narrative details consume working memory and can distract from the target content, especially for novices [Seductive details reduce learning when they compete for attention with core content.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Salient but irrelevant narrative details consume working memory and can distract from the target content, especially for novices [Seductive details reduce learning when they compete for attention with core content.](../claims/seductive-details-effect.md) [-M]
 - Current events age quickly and may carry bias or incomplete information; outdated "current" events lose motivational force
 - Learners may remember the story but not the concept if the debrief does not explicitly extract the generalizable principle [Case-based learning improves exam performance when cases are followed by explicit abstraction.](../claims/case-based-learning-improves-exam-performance.md) [~M]
 - Fictional personas can oversimplify complex social issues, reinforcing stereotypes if characters are thinly drawn

@@ -13,14 +13,14 @@ generated:
 # Composition Projects Multimodal
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (7 for, 2 against, 1 unmarked) · 25 studies (11 quant-synthesis, 7 causal, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 10 of 25 report an effect size · 1 claim rests on one study
+> **Evidence** · 10 claims (7 for, 2 against, 1 unmarked) · 28 studies (11 quant-synthesis, 10 causal, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 10 of 28 report an effect size · 1 claim rests on one study
 
 ## Description
 Multimodal composition projects ask learners to produce original artifacts that deliberately combine modes of meaning — writing, visuals, audio, video, gesture, and spatial layout — rather than text alone. Learners plan, draft, and revise across modes, making rhetorical decisions about which mode best serves their purpose and audience. The composition process, not just the artifact, is the site of learning.
 
 ## Design Implications
 
-Multimodal composition leverages the productive overlap of verbal and visual representation: presenting and producing content in complementary modes supports encoding and recall [Combining words and visuals improves learning over words alone.](../claims/dual-coding-improves-learning.md) [+S]. Because learners choose modes, media, and framing, the work builds ownership and intrinsic motivation [Supporting learner autonomy increases intrinsic motivation and engagement.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, production quality is not learning quality — decorative or seductive visuals chosen for polish rather than meaning can add load without adding understanding [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Design decisions about mode should be tied to rhetorical purpose, and the cognitive load of learning new tools should be managed separately from the load of learning the content [Cognitive Load Management](../principles/cognitive-load-management.md) — see [Cognitive Load Management](../principles/cognitive-load-management.md).
+Multimodal composition leverages the productive overlap of verbal and visual representation: presenting and producing content in complementary modes supports encoding and recall [Combining words and visuals improves learning over words alone.](../claims/dual-coding-improves-learning.md) [+S]. Because learners choose modes, media, and framing, the work builds ownership and intrinsic motivation [Supporting learner autonomy increases intrinsic motivation and engagement.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, production quality is not learning quality — decorative or seductive visuals chosen for polish rather than meaning can add load without adding understanding [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+M]. Design decisions about mode should be tied to rhetorical purpose, and the cognitive load of learning new tools should be managed separately from the load of learning the content [Cognitive Load Management](../principles/cognitive-load-management.md) — see [Cognitive Load Management](../principles/cognitive-load-management.md).
 
 ### Context
 #### Requirements

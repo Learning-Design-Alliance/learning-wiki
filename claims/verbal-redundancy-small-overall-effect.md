@@ -48,7 +48,7 @@ Meta-analysis of 57 independent effect sizes from 33 reports (N = 3,452) compari
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](segmentation-moderates-verbal-redundancy.md) — a narrower finding that bears on this claim
 - [Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations](spoken-written-beats-spoken-only-not-written-only.md) — a narrower finding that bears on this claim
 - [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — a narrower finding that bears on this claim
-- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — reports the opposite
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — reports the opposite
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation](modality-effect-holds-middle-school-electricity.md) — related
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related

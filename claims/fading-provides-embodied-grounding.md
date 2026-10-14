@@ -41,8 +41,9 @@ Theoretical argument from the review's abstract, presented as the second of four
 
 ## Discussion
 
-
 ## Related Claims
-- [Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently](fading-advantages-beyond-sum.md) — related
+
+- [Concreteness fading helps learners interpret ambiguous or opaque abstract symbols in terms of well-understood concrete objects](fading-helps-interpret-abstract-symbols.md) — the general claim this finding bears on, with the studies behind it
+- [Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently](manipulatives-require-connection-to-concept.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related

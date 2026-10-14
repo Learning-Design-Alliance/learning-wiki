@@ -46,4 +46,4 @@ Descriptive eye-tracking finding from the multimedia animation study: on the sce
 - [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](cueing-outcompetes-signalling-alone-for-attention.md) — related
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related
 - [Change in the most-focused central object was detected at a low rate (41.66%) unless it was signalled and cued](central-object-change-detection-low-without-cueing.md) — related
-- [The change on the object that was both signalled and visually cued was the most detected change (83.33%)](signalled-and-cued-object-change-most-detected.md) — related
+- [The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)](signalled-and-cued-object-change-most-detected.md) — related

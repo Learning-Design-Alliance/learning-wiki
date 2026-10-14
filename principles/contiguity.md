@@ -50,7 +50,7 @@ sources:
 # Contiguity Principle (Spatial and Temporal)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (11 for, 15 mixed) · 18 studies (5 causal, 5 quant-synthesis, 5 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 18 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (11 for, 13 mixed) · 19 studies (6 review, 5 causal, 5 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,11 +129,11 @@ These rows are proposals, untested with learners as diagnostics. Where a learner
 - [Contiguity principles: near placement and simultaneous presentation improve transfer](../claims/contiguity-principles-mayer-2008.md) [+M]: Mayer (2008) reviews his group's experiments: spatial, 5 of 5 tests (paper and computer lessons on brakes and lightning), effect size 1.12; temporal, 8 of 8 experiments (pumps, brakes, lungs, lightning), median d = 1.31. One research programme, transfer tests soon after short lessons.
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](../claims/spatial-temporal-contiguity-equivalent-magnitudes.md) [~M]: d = 0.78 temporal (13 effects) vs 0.72 spatial (37); equivalence not tested.
 - [The benefit of integration is larger for high element-interactivity material](../claims/element-interactivity-moderates-contiguity-effect.md) [~M]: d = 0.78 (43 effects) vs 0.28 (7 effects, interval crossing zero).
-- [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M]: across all multimedia design principles, not contiguity alone. The prior-knowledge result is a non-significant moderator (p = 0.14), not evidence of no moderation.
+- [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M]: across all multimedia design principles, not contiguity alone. The prior-knowledge result is a non-significant moderator (p = 0.14), not evidence of no moderation.
 - [Contiguity effects show no reliable difference between static and dynamic presentation](../claims/static-dynamic-presentation-no-moderation.md) [~M].
 - [Contiguity effects are larger under one-on-one testing than group testing](../claims/testing-format-moderates-contiguity-effect.md) [~M].
 - [The split-attention benefit for novices reverses into a redundancy effect for more experienced learners](../claims/expertise-reversal-split-attention-redundancy-review.md) [~M]: Kalyuga et al. (2003) reporting Kalyuga et al. (1998), electrical trainees, and Yeung et al. (1998), integrated notes in text helping low language-competence learners and hindering more knowledgeable ones. No effect sizes printed.
-- [Multimedia principles benefit novices](../claims/multimedia-principles-benefit-novices.md) [~M]: the same two Kalyuga sources; the 1998 experiments are read from the abstract only.
+- [Multimedia principles benefit novices](../claims/expertise-reversal-effect.md) [~M]: the same two Kalyuga sources; the 1998 experiments are read from the abstract only.
 - [Split-attention worked examples lose their advantage, while integrated formats restore it](../claims/split-attention-effect-in-worked-examples.md) [+M]: Tarmizi & Sweller's geometry experiments as reviewed by Atkinson et al. (2000).
 - [Cognitive load reduction improves learning](../claims/cognitive-load-reduction-improves-learning.md) [~S]: carries Schroeder & Cenkci (2020), 41 comparisons in which integrated designs did not reliably change cognitive-load measures; the benefit is real, the load mechanism is unconfirmed.
 - [Temporal contiguity is associated with facilitated understanding and lower perceived load](../claims/temporal-contiguity-lower-cognitive-load.md) [+W]: two studies as reported second-hand in a narrative review, without effect sizes.
@@ -144,11 +144,11 @@ Taken together: for learners new to complex material, words placed with and time
 
 - Does placing words with the pictures they describe, in space and in time, improve learning, and by how much? [Presenting related material contiguously in space and time yields large learning benefits](../claims/contiguity-spatial-temporal-large-learning-benefits.md) [+M]
 - For which material, media and testing conditions is integration worth most? [The learning benefit of increasing integration is substantially larger for high element interactivity material](../claims/element-interactivity-moderates-contiguity-effect.md) [~M]
-- Does integration keep helping as learners gain expertise? [Multimedia principles benefit novices](../claims/multimedia-principles-benefit-novices.md) [~M]
+- Does integration keep helping as learners gain expertise? [Multimedia principles benefit novices](../claims/expertise-reversal-effect.md) [~M]
 
 ## Further evidence, not yet read against this model
 
-- [Cognitive load effects including integration benefits may reverse for more experienced learners](../claims/expertise-reversal-limits-contiguity-benefits.md) [~M]: a third report of Kalyuga et al. (1998), here through Ginns's (2006) discussion; restates the expertise-reversal claim above.
+- [Cognitive load effects including integration benefits may reverse for more experienced learners](../claims/expertise-reversal-split-attention-redundancy-review.md) [~M]: a third report of Kalyuga et al. (1998), here through Ginns's (2006) discussion; restates the expertise-reversal claim above.
 - [Dual-mode presentation of worked examples enhances problem-solving efficiency, except under high visual search without attention cues](../claims/dual-mode-worked-example-presentation.md) [~W]: the narration alternative in step 4 fails when learners must search the figure for what is spoken about.
 - [Step-linked visual grounding reduces split-attention effort](../claims/step-linked-visualization-externalizes-reasoning.md) [+W]: one student's interview remark about an AI tutor whose diagram changes with each proof step.
 - [A majority of surveyed teachers report presenting words and corresponding graphics simultaneously](../claims/teachers-report-simultaneous-words-graphics-presentation.md) [~W]: a self-report survey of Algerian university teachers of English; describes practice, not effect.
@@ -165,6 +165,11 @@ The designer's objective is usually an explanation of how a system works, or the
 The expectation should weaken if new comparisons with novice learners on complex material, holding content and time equal, find no advantage for integrated or synchronised designs at a delayed test, or if the advantage disappears when separated designs give learners full control of pace. The expertise boundary needs a direct test: integrated against diagram-only versions with learners measured for prior knowledge of the specific content, on the same transfer test. If integration helps learners who report no difference in effort, that would be consistent with Schroeder & Cenkci (2020) and would revise the mechanism, not the design.
 
 ## Related Principles
+- [Modality Principle](modality.md)
+- [Segmenting Principle](segmenting.md)
+- [Signaling Principle](signaling.md)
+- [Coherence Principle](coherence.md)
+- [Pre-training Principle](pretraining.md)
 
 - [Multimedia Learning](multimedia-learning.md) — the umbrella; this page is its placement and timing decision
 - [Cognitive Load Management](cognitive-load-management.md) — the wider model integration is one lever of

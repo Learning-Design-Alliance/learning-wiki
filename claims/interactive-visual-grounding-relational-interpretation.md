@@ -46,5 +46,5 @@ User study finding from 23 parent-child dyads using ParaTutor modes. Children us
 ## Related Claims
 - [Visual grounding in ParaTutor increased children's reasoning turns during math word problem tutoring compared to conventional and general LLM conditions](visual-grounding-increases-child-reasoning-turns.md) — related
 - [ParaTutor's role-separated scaffolding distributed support across parents and children in complementary forms](role-separated-scaffolding-distributed-support.md) — related
-- [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](decorative-images-distract-from-math-problems.md) — related
+- [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [Three recurring challenges disrupt parent-child math tutoring: cognitive misalignment, emotional escalation, and method mismatch](three-challenges-parent-child-math-tutoring.md) — related

@@ -12,14 +12,14 @@ generated:
 # Reducing Distractions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (6 causal, 2 quant-synthesis), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Reducing distractions is the deliberate removal or suppression of stimuli that compete with the learning task for attention — extraneous on-screen decoration, background noise, irrelevant media, notifications, and multitasking demands. It is carried out through environment design (physical and digital), message design (what is presented), and task design (what learners are asked to do simultaneously).
 
 ## Design Implications
 
-Working memory is severely limited, and attention allocated to irrelevant input is unavailable for schema construction [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. The multimedia coherence research shows that deleting interesting-but-irrelevant text, graphics, and background music improves learning, contrary to the intuition that added stimulation increases engagement [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Multitasking is not a viable learner workaround: media multitasking during learning measurably reduces comprehension and note-taking quality, and the cost extends to nearby peers who can see the distracting screen [-S].
+Working memory is severely limited, and attention allocated to irrelevant input is unavailable for schema construction [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. The multimedia coherence research shows that deleting interesting-but-irrelevant text, graphics, and background music improves learning, contrary to the intuition that added stimulation increases engagement [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S]. Multitasking is not a viable learner workaround: media multitasking during learning measurably reduces comprehension and note-taking quality, and the cost extends to nearby peers who can see the distracting screen [-S].
 
 ### Context
 #### Requirements
@@ -50,7 +50,7 @@ Working memory is severely limited, and attention allocated to irrelevant input 
 
 ### Instructions
 1. Audit the learning task and identify the elements essential to the objective; treat everything else as a candidate for removal.
-2. Strip extraneous material from materials and slides — decorative images, tangential anecdotes, background audio [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S].
+2. Strip extraneous material from materials and slides — decorative images, tangential anecdotes, background audio [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S].
 3. Signal structure so attention is guided rather than captured — headings, highlighting, and [Advance Organizers](../elements/advance-organizers.md) direct attention to what matters.
 4. Break complex material into manageable units ([Chunking](../principles/chunking.md)) so learners are not holding irrelevant intermediate content in mind.
 5. Design tasks as single tasks: one window, one goal, no simultaneous demands.

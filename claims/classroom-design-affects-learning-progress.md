@@ -89,7 +89,7 @@ A review synthesising the classroom-environment literature into two channels. **
 
 **The effect is concentrated at the bad end.** Across both the HEAD work and Cheryan et al.'s review, the pattern is that fixing genuinely poor conditions — a stuffy, dim, overheated, or noisy room — produces the observable gain, while further optimising an already adequate room produces little. Design is therefore best treated as a threshold variable rather than a lever to be maximised.
 
-**Stimulation is curvilinear, and this is the most frequently misread finding.** The HEAD result does not say that colourful classrooms help; it says that moderately decorated rooms outperform both bare and cluttered ones. Excess display competes for attention in exactly the way irrelevant graphics do in multimedia materials — see [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) and [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md). The design implication is purposeful display, not maximal display.
+**Stimulation is curvilinear, and this is the most frequently misread finding.** The HEAD result does not say that colourful classrooms help; it says that moderately decorated rooms outperform both bare and cluttered ones. Excess display competes for attention in exactly the way irrelevant graphics do in multimedia materials — see [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) and [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md). The design implication is purposeful display, not maximal display.
 
 **Design does not substitute for instruction.** The variance attributable to the room is small next to the variance attributable to teaching, and redesigning space without changing pedagogy reliably produces nothing — see [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md). Flexible furniture that is used to seat pupils in rows is a layout change, not an instructional one.
 
@@ -100,7 +100,7 @@ A review synthesising the classroom-environment literature into two channels. **
 ## Related Claims
 
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — the necessary counterweight: design effects do not materialise without matching changes to teaching
-- [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — the same attention cost that makes over-decorated classrooms underperform
+- [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — the same attention cost that makes over-decorated classrooms underperform
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the mechanism behind the stimulation factor's upper bound
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — a separate route by which what happens in the room affects learning
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a plausible mechanism for the ownership and flexibility components of individualisation

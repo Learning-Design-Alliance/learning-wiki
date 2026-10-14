@@ -12,14 +12,14 @@ generated:
 # Moose Math App
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 12 studies (7 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 12 report an effect size
 
 ## Description
 Moose Math (Duck Duck Moose, now part of Khan Academy) is a game-based mathematics app for early elementary learners. Children complete mini-games — a juice shop, a pet store, a city-building activity — in which solving counting, addition, subtraction, geometry, and sorting problems earns rewards and unlocks new content. The Dust Funnies characters provide instructions and encouragement, and progress maps track advancement through problem sets aligned to Common Core standards for kindergarten and grade 1.
 
 ## Design Implications
 
-The app exemplifies game-based practice: short problem sequences with immediate correctness feedback, extrinsic rewards, and progressive unlocking of difficulty. Its core learning mechanism is high-frequency [Practice](../elements/practice.md) with rapid [Assess Performance](../elements/assess-performance.md) cycles — the game continuously evaluates answers and routes the child forward or back. Because the audience is young novices, the design leans on low working-memory demands: one problem at a time, concrete visual representations of quantities, and spoken instructions that reduce reading load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. However, the rich animation and reward layer risk functioning as seductive detail that consumes attention without adding learning value [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [~M].
+The app exemplifies game-based practice: short problem sequences with immediate correctness feedback, extrinsic rewards, and progressive unlocking of difficulty. Its core learning mechanism is high-frequency [Practice](../elements/practice.md) with rapid [Assess Performance](../elements/assess-performance.md) cycles — the game continuously evaluates answers and routes the child forward or back. Because the audience is young novices, the design leans on low working-memory demands: one problem at a time, concrete visual representations of quantities, and spoken instructions that reduce reading load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. However, the rich animation and reward layer risk functioning as seductive detail that consumes attention without adding learning value [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [~M].
 
 ### Context
 #### Requirements

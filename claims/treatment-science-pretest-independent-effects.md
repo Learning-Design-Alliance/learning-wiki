@@ -13,7 +13,7 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1255527"
     title: "Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527"
     author: "Kutbay, E. & Akpınar, Y."
-    q: 3
+    q: 2
     i: "?"
     kind: causal
     rigour: 2
@@ -22,10 +22,10 @@ sources:
 # Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q3 i?` A 2x2x10 general linear model ANOVA showed significant main effects of treatment, science level, and pre-test, but no significant interactions; no effect sizes are printed in the reported test sentence. [→ Kutbay 2020](#kutbay-2020)
+`q2 i?` A 2x2x10 general linear model ANOVA showed significant main effects of treatment, science level, and pre-test, but no significant interactions; no effect sizes are printed in the reported test sentence. [→ Kutbay 2020](#kutbay-2020)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527
 
-`q3 · i?` · `causal · r2`
+`q2 · i?` · `causal · r2`
 
 General linear model 2x2x10 ANOVA on achievement in the quasi-experiment. All three main effects were significant: "multimedia treatments [F (9, 784) = 2.674, p = .005]", prior science level, and pre-test level, with no pairwise interactions. No effect size is printed in this sentence.
 

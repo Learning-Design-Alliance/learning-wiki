@@ -1,0 +1,146 @@
+{
+  "principle": "principles/pretraining",
+  "note": "Drafted 2026-10-14 by an agent from the claims read in full. pretraining-improves-transfer is also a hub in cognitive-load.json (with part-task-practice-reduces-load-for-novices) and pretraining-principle-mayer-2008 a member in multimedia-learning.json; the machine-learning 'pretraining' claims are excluded. Review before applying.",
+  "findings": [
+    {
+      "hub": "pretraining-improves-transfer",
+      "question": "Does a primer on the key parts and terms before a complex lesson improve learning and transfer?",
+      "members": [
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "pretraining-principle-mayer-2008",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-effect",
+      "question": "Does the benefit shrink for learners who already know the parts?",
+      "members": [
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-processing-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-modality-effect-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-prior-knowledge-interaction",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "-"
+        ],
+        [
+          "revisions-no-effect-time-with-lesson",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "multimedia-design-principles-improve-learning-overall",
+      "question": "For which material and pacing is a primer most worth its time?",
+      "members": [
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "~"
+        ],
+        [
+          "design-principles-improve-cognitive-load-management",
+          "+"
+        ],
+        [
+          "pretraining-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "cognitive-overload-degrades-learning",
+          "+"
+        ],
+        [
+          "element-interactivity-moderates-contiguity-effect",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "advance-organizers-improve-learning",
+      "question": "Does other material given before the lesson (an organizer, an activation prompt) do the same job?",
+      "members": [
+        [
+          "graphic-organizers-support-novice-comprehension",
+          "+"
+        ],
+        [
+          "learner-constructed-graphic-organizers-outperform-provided",
+          "~"
+        ],
+        [
+          "mismatched-graphic-organizers-increase-extraneous-load",
+          "~"
+        ],
+        [
+          "organization-task-match-determines-benefit",
+          "~"
+        ],
+        [
+          "prior-knowledge-activation-little-effect-on-retention",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

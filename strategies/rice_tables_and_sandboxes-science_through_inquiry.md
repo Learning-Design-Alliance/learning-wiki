@@ -19,7 +19,7 @@ Rice tables and sandboxes are sensory play stations stocked with pourable materi
 
 ## Design Implications
 
-Sensory materials make abstract physical concepts directly manipulable, which supports conceptual change in young learners whose reasoning is grounded in physical action [Hands-on activity supports learning when it is paired with sense-making rather than left unstructured.](../claims/hands-on-learning-improves-achievement.md) [~M]. The critical design move is the adult's framing: unstructured sand play alone produces engagement but little science learning; adding prediction prompts, comparison questions, and brief discussion turns manipulation into investigation [Guided inquiry outperforms pure discovery for novices.](../claims/guided-discovery-outperforms-pure-discovery.md) [+S].
+Sensory materials make abstract physical concepts directly manipulable, which supports conceptual change in young learners whose reasoning is grounded in physical action [Hands-on activity supports learning when it is paired with sense-making rather than left unstructured.](../claims/manipulatives-improve-math-learning.md) [~M]. The critical design move is the adult's framing: unstructured sand play alone produces engagement but little science learning; adding prediction prompts, comparison questions, and brief discussion turns manipulation into investigation [Guided inquiry outperforms pure discovery for novices.](../claims/guided-discovery-outperforms-pure-discovery.md) [+S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Sensory materials make abstract physical concepts directly manipulable, which su
 - **Documentation loop**: photos and children's dictations posted at the table support recall and revisiting ([Retrieval practice](../principles/retrieval-practice.md) in an early-childhood register)
 
 ### Target Learners
-- Preschool through early elementary (ages 3–8), where concrete manipulation precedes symbolic understanding [Hands-on activity supports learning when it is paired with sense-making rather than left unstructured.](../claims/hands-on-learning-improves-achievement.md) [~M]
+- Preschool through early elementary (ages 3–8), where concrete manipulation precedes symbolic understanding [Hands-on activity supports learning when it is paired with sense-making rather than left unstructured.](../claims/manipulatives-improve-math-learning.md) [~M]
 - Emergent bilinguals and children with limited verbal skills, for whom the materials provide a shared referent for science vocabulary
 - Less effective for older learners, who need more complex systems than a sensory table can model
 

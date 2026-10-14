@@ -1,0 +1,138 @@
+{
+  "principle": "principles/segmenting",
+  "note": "2026-10-14. Groupings and directions by an agent from the claims' full pages. segmenting-effect-retention-transfer-meta-analysis restates the hub of the first finding (same Rey et al. 2019 result) and is listed as a member so its study row is shared, not counted twice.",
+  "findings": [
+    {
+      "hub": "segmenting-improves-multimedia-learning",
+      "question": "Does breaking a continuous presentation into segments improve learning over presenting it whole?",
+      "members": [
+        [
+          "segmenting-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "segmenting-reduces-cognitive-load",
+          "+"
+        ],
+        [
+          "segmentation-reduces-hesitations-adhd-participants",
+          "+"
+        ],
+        [
+          "long-recorded-lectures-impeded-focus",
+          "+"
+        ],
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "+"
+        ],
+        [
+          "segmenting-increases-learning-time",
+          "~"
+        ],
+        [
+          "prior-knowledge-moderates-segmenting-retention",
+          "~"
+        ],
+        [
+          "segmentation-benefits-shrink-with-expertise",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learner-paced-beats-system-paced-complex-material",
+      "question": "Who should set the pauses, and do pause controls do the same job as designed segments?",
+      "members": [
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "~"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ],
+        [
+          "students-pause-video-to-view-segment-menu",
+          "~"
+        ],
+        [
+          "forced-pacing-eliminates-aiding-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-retention",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "prior-knowledge-moderates-segmenting-retention",
+      "question": "For which learners does segmenting help more or less (prior knowledge, attention)?",
+      "members": [
+        [
+          "segmentation-benefits-shrink-with-expertise",
+          "~"
+        ],
+        [
+          "segmentation-benefit-larger-for-adhd-group",
+          "~"
+        ],
+        [
+          "medication-status-segmentation-interaction-null",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "segmenting-increases-learning-time",
+      "question": "What does segmenting cost, and where does it add little?",
+      "members": [
+        [
+          "easy-task-floor-effect-excluded",
+          "~"
+        ],
+        [
+          "segmentation-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "mooc-engagement-declines-with-video-length",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

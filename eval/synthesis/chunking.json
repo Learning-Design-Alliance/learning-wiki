@@ -7,10 +7,6 @@
       "question": "Does breaking transient material (animation, video, narration) into segments improve learning over a continuous presentation?",
       "members": [
         [
-          "segmenting-effect-retention-transfer-meta-analysis",
-          "+"
-        ],
-        [
           "segmenting-principle-mayer-2008",
           "+"
         ],
@@ -19,16 +15,36 @@
           "+"
         ],
         [
-          "segmenting-increases-learning-time",
-          "~"
-        ],
-        [
           "segmentation-reduces-hesitations-adhd-participants",
           "+"
         ],
         [
           "long-recorded-lectures-impeded-focus",
           "+"
+        ],
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "+"
+        ],
+        [
+          "segmenting-increases-learning-time",
+          "~"
+        ],
+        [
+          "prior-knowledge-moderates-segmenting-retention",
+          "~"
+        ],
+        [
+          "segmentation-benefits-shrink-with-expertise",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
         ]
       ]
     },
@@ -56,6 +72,22 @@
       "members": [
         [
           "segmenting-effects-confirmed-system-paced",
+          "~"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ],
+        [
+          "students-pause-video-to-view-segment-menu",
           "~"
         ],
         [

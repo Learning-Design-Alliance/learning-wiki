@@ -39,6 +39,19 @@ Moderation analysis within the meta-analysis of 56 investigations found that "le
 
 > "Moderation analyses indicate that learners with high prior knowledge benefitted more from segmenting instructional material than learners with no or low prior knowledge in terms of retention performance."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*For which learners does segmenting help more or less (prior knowledge, attention)?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | this claim |
+| [Spanjers et al. 2011](https://doi.org/10.1016/j.chb.2010.05.011) | q3 · causal · r? | i? | [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) (qualifies) |
+| Veronica Pimenova 2026 | q3 · causal · r1 | i3; i? | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies); [ADHD medication status shows no significant interaction with segmentation, though medicate](medication-status-segmentation-interaction-null.md) (qualifies) |
+| [Sweller 2019](https://doi.org/10.1007/s10648-019-09465-5) | q2 · review · r2 | i? | [Expertise reversal: cognitive load effects for novices decrease, disappear, and can revers](expertise-reversal-effect-compound.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 
@@ -50,5 +63,4 @@ Moderation analysis within the meta-analysis of 56 investigations found that "le
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — reports the opposite
 - [Cognitive Load Management](cognitive-load-management.md) — a broader claim this one bears on
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
-- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — related
+- [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — related

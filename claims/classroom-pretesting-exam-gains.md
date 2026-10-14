@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
-`q3 i?` Students who took multiple-choice pretests at the start of lectures performed better on final exam questions addressing pretested content, including related but different questions. [→ Steven C. Pan 2023](#steven-c-pan-2023)
+`q3 i?` Students who took multiple-choice pretests at the start of lectures performed 8–9% better on final exam questions addressing pretested content (as reported by the review). [→ Steven C. Pan 2023](#steven-c-pan-2023)
 
 ## Evidence
 

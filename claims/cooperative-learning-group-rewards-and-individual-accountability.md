@@ -84,7 +84,7 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **7 distinct studies** (2 causal, 2 design, 1 review, 1 quant-synthesis, 1 theoretical), `q1`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How should team work be graded so every member is accountable?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **7 distinct studies** (2 causal, 2 design, 1 review, 1 quant-synthesis, 1 theoretical), `q1`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

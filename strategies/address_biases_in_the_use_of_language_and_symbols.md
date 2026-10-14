@@ -13,7 +13,7 @@ generated:
 # Address Biases in the Use of Language and Symbols
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (2 causal, 2 review), `q2`–`q3` · 2 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (2 causal, 2 review), `q2`–`q3` · 1 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy involves systematically auditing and revising the language, examples, names, images, and symbols used in learning materials, assessments, and classroom discourse so they are free from gender, racial, cultural, and ability-based stereotypes and respect the diverse identities of learners. It is carried out through bias review of materials, adoption of inclusive terminology (e.g., person-first or identity-first language as appropriate), and replacement of stereotyped example contexts with varied, representative ones.

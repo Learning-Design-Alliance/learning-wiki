@@ -31,7 +31,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (6 for, 6 mixed, 3 against, 1 unmarked) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (6 for, 6 mixed, 3 against, 1 unmarked) · 13 studies (6 causal, 4 review, 2 quant-synthesis, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,7 @@ The designer's objective is understanding deep enough to use a concept on proble
 The expectation should weaken if new comparisons with comparable learners, holding total time and practice equal, find no conceptual or transfer advantage for attempting first; or if the advantage disappears when the instruction-first condition also builds on typical student errors, which would locate the effect in the instruction rather than the order. It should be extended, not reversed, by studies of self-paced online versions and of learners outside mathematics and science.
 
 ## Related Principles
+- [Pretesting (Prequestions Before Study)](pretesting.md)
 
 - [Guided Discovery Learning](../patterns/guided-discovery-learning.md) — learning by discovery, with guidance (a pattern)
 - [Worked Examples](worked-examples.md) — the instruction-first counterpart for procedures and novices

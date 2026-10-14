@@ -12,14 +12,14 @@ generated:
 # Educational Posters
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 causal, 3 quant-synthesis, 3 review), `q2`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (8 causal, 3 quant-synthesis, 3 review), `q2`–`q4` · 3 of 14 report an effect size
 
 ## Description
 Educational posters are visual displays placed in the physical or digital learning environment that surface key concepts, procedures, learning strategies, or reference material. Unlike transient instructional visuals, posters persist across lessons, functioning as environmental scaffolds that support recall, vocabulary access, and self-regulation during independent work.
 
 ## Design Implications
 
-Posters work as external memory aids: they offload reference information from working memory so learners can attend to the task itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their effectiveness depends on adherence to multimedia design principles — relevant, well-organized graphics paired with concise text outperform decorative displays, which learners largely ignore or which compete for attention [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Combining words and relevant images supports dual coding and improves recall relative to text alone [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M].
+Posters work as external memory aids: they offload reference information from working memory so learners can attend to the task itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their effectiveness depends on adherence to multimedia design principles — relevant, well-organized graphics paired with concise text outperform decorative displays, which learners largely ignore or which compete for attention [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S]. Combining words and relevant images supports dual coding and improves recall relative to text alone [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -32,7 +32,7 @@ Posters work as external memory aids: they offload reference information from wo
 - Cluttered or highly decorated classroom walls can divert attention and reduce learning, especially for young learners [Visual clutter in the environment reduces attention to instruction and learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [~M] — Fisher, Godwin, and Seltman found children in heavily decorated classrooms spent more time off-task and scored lower on focused lessons
 - Posters that remain unchanged all year lose salience; learners habituate and stop seeing them [~W]
 - Posters cannot substitute for instruction — they support retrieval and reference, not initial acquisition of complex material [-M]
-- Seductive details (interesting but irrelevant images) depress retention of the core content [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Seductive details (interesting but irrelevant images) depress retention of the core content [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 
 #### Implementation Variability
 - **Reference posters** (word walls, formula charts, writing checklists) — used during independent work

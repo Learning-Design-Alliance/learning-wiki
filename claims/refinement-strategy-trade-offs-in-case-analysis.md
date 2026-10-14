@@ -47,6 +47,6 @@ Qualitative case analysis (§4.2) of refined versions of one signed multiplicati
 - [Decentralized Refinement reduces realism and readability failures faster than both Centralized strategies](decentralized-refinement-faster-on-realism-readability.md) — related
 - [Validator failure patterns vary by interest topic and math curriculum unit](failure-patterns-vary-by-topic-and-curriculum-unit.md) — related
 - [Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures](single-refinement-iteration-reduces-personalization-failures.md) — related
-- [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related
 - [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related
 - [Students frequently reported that personalized problem topics did not match their interests](students-report-topic-mismatch-interests.md) — related

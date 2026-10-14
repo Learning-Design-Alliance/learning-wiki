@@ -43,7 +43,7 @@ Synthesis of the Montero Perez et al. (2013) meta-analysis, which the authors ra
 
 ## Related Claims
 
-- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — the general claim this finding bears on, with the studies behind it
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — related
 - [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — related

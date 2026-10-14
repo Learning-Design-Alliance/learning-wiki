@@ -1,0 +1,132 @@
+{
+  "principle": "principles/contiguity",
+  "note": "Mayer batch (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. Most contiguity claims rest on three syntheses: Ginns (2006) behind integration-of-related-elements, element-interactivity, spatial-temporal-equivalent, static-dynamic, testing-format and expertise-reversal-limits; Schroeder & Cenkci (2018) behind split-attention-effect-degrades-learning (whose second entry, Ceballos & Nutta 2022, re-reports it) and cognitive-load-reduction; Noetel et al. (2022) re-reports both, so its rows are not further studies. The expertise claims all rest on Kalyuga et al. (1998) as reported by Kalyuga et al. (2003) or Ginns (2006). Hubs chosen not to collide with multimedia-learning.json (split-attention-effect-degrades-learning), cognitive-load.json (design-principle-effects-moderated-by-pacing-and-complexity) or worked-examples.json (split-attention-effect-in-worked-examples). Review before applying.",
+  "findings": [
+    {
+      "hub": "contiguity-spatial-temporal-large-learning-benefits",
+      "question": "Does placing words with the pictures they describe, in space and in time, improve learning, and by how much?",
+      "members": [
+        [
+          "split-attention-effect-degrades-learning",
+          "+"
+        ],
+        [
+          "integration-of-related-elements-large-mean-effect",
+          "+"
+        ],
+        [
+          "contiguity-principles-mayer-2008",
+          "+"
+        ],
+        [
+          "temporal-contiguity-lower-cognitive-load",
+          "+"
+        ],
+        [
+          "spatial-temporal-contiguity-equivalent-magnitudes",
+          "~"
+        ],
+        [
+          "cognitive-load-reduction-improves-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "element-interactivity-moderates-contiguity-effect",
+      "question": "For which material, media and testing conditions is integration worth most?",
+      "members": [
+        [
+          "split-attention-effect-in-worked-examples",
+          "+"
+        ],
+        [
+          "static-dynamic-presentation-no-moderation",
+          "~"
+        ],
+        [
+          "testing-format-moderates-contiguity-effect",
+          "~"
+        ],
+        [
+          "spatial-colocation-benefit-task-dependent",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-effect",
+      "question": "Does integration keep helping as learners gain expertise?",
+      "members": [
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-processing-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-modality-effect-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-prior-knowledge-interaction",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "-"
+        ],
+        [
+          "revisions-no-effect-time-with-lesson",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

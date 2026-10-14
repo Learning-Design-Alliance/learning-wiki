@@ -44,7 +44,7 @@ The review's account of Huelser and Metcalfe (2012, experiment 2), where partici
 
 ## Related Claims
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — a broader claim this one bears on
-- [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](feedback-timing-moderates-pretesting.md) — related
+- [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](semantic-association-moderates-pretesting.md) — related
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](pretesting-enhances-memory-tested-video.md) — related

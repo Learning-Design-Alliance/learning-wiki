@@ -12,14 +12,14 @@ generated:
 # Brain-Based Classroom Redesign
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 15 studies (6 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 15 report an effect size
+> **Evidence** · 6 claims (5 for, 1 against) · 18 studies (9 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size
 
 ## Description
 Brain-based classroom redesign treats the physical environment as an instructional variable: layout, furniture, color, lighting, displays, and materials are deliberately arranged to reduce unnecessary cognitive load, permit movement and collaboration, and signal safety and belonging. Typical moves include decluttering walls, using muted color schemes, maximizing natural light, adding plants, providing flexible seating, and involving learners in shaping the space. The goal is a "brain-friendly" environment — calm, organized, and responsive to how attention and working memory actually operate.
 
 ## Design Implications
 
-The physical environment competes directly with instruction for limited attentional resources. Highly decorated classroom walls pull young learners' eyes off the teacher and reduce attention allocation and learning [Visual displays in classrooms capture attention and reduce learning in young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S], consistent with the broader finding that extraneous material degrades learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. Conversely, environments that permit movement and physical activity improve attention and on-task behavior [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M], and giving learners meaningful choices in their environment supports intrinsic motivation [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
+The physical environment competes directly with instruction for limited attentional resources. Highly decorated classroom walls pull young learners' eyes off the teacher and reduce attention allocation and learning [Visual displays in classrooms capture attention and reduce learning in young children.](../claims/seductive-details-effect.md) [-S], consistent with the broader finding that extraneous material degrades learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. Conversely, environments that permit movement and physical activity improve attention and on-task behavior [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M], and giving learners meaningful choices in their environment supports intrinsic motivation [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ The physical environment competes directly with instruction for limited attentio
 - Learner involvement: gathering student input on what helps them focus and feel welcome, and iterating based on feedback
 
 #### Constraints
-- Over-decorating backfires: dense, colorful wall displays measurably reduce attention and learning for young learners [Visual displays in classrooms capture attention and reduce learning in young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S] — "enriched" does not mean visually busy
+- Over-decorating backfires: dense, colorful wall displays measurably reduce attention and learning for young learners [Visual displays in classrooms capture attention and reduce learning in young children.](../claims/seductive-details-effect.md) [-S] — "enriched" does not mean visually busy
 - Flexible seating can reduce attention when learners choose seats that isolate them from instruction or invite off-task behavior; choice must be paired with norms and teacher reassignment authority [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [~M]
 - Requires budget for furniture and lighting, and ongoing effort to keep the space organized; cluttered, disorganized spaces re-create the load problem the redesign was meant to solve [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Effects on achievement are small relative to instructional quality; redesign alone does not substitute for good teaching
@@ -40,7 +40,7 @@ The physical environment competes directly with instruction for limited attentio
 - Learner-co-designed variant: students audit and redesign the space themselves, turning the redesign into an [authentic](../principles/authentic-audiences-purposes.md) project with data collection and argumentation
 
 ### Target Learners
-- Young learners (K–5), who are most susceptible to visual distraction from classroom displays [Visual displays in classrooms capture attention and reduce learning in young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]
+- Young learners (K–5), who are most susceptible to visual distraction from classroom displays [Visual displays in classrooms capture attention and reduce learning in young children.](../claims/seductive-details-effect.md) [+S]
 - Learners with attention difficulties, who benefit disproportionately from reduced environmental distraction and opportunities for movement [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - All levels benefit from the belonging and autonomy effects of a welcoming, learner-shaped space [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
 
@@ -51,7 +51,7 @@ The physical environment competes directly with instruction for limited attentio
 - Belonging and engagement: environments that signal safety and ownership [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 
 ### Instructions
-1. **Audit and declutter.** Remove or archive displays not tied to current learning; keep walls roughly 20–50% decorated, favoring student work over commercial posters [Visual displays in classrooms capture attention and reduce learning in young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]
+1. **Audit and declutter.** Remove or archive displays not tied to current learning; keep walls roughly 20–50% decorated, favoring student work over commercial posters [Visual displays in classrooms capture attention and reduce learning in young children.](../claims/seductive-details-effect.md) [+S]
 2. **Optimize light and air.** Maximize natural light, eliminate glare, add lamps where overhead lighting is harsh, and add plants where feasible.
 3. **Create zones.** Define areas for whole-group instruction, small-group [collaboration](../principles/collaborative-learning.md), quiet individual work, and movement.
 4. **Introduce flexible seating with norms.** Offer seating choices, but establish expectations and retain the right to reassign seats when choices undermine attention [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [~M]

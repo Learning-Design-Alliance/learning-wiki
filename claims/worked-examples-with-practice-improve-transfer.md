@@ -64,7 +64,7 @@ Renkl and Atkinson argue that instructional design should not stop at example st
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should modelling come before the learner's first attempts?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **7 distinct studies** (4 causal, 1 theoretical, 1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do novices learn more from studying worked examples than from solving the same problems unaided?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **7 distinct studies** (4 causal, 1 theoretical, 1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

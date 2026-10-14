@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (11 for, 15 mixed, 1 against, 1 unmarked) · 18 studies (8 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 8 of 18 report an effect size · 23 claims rest on one study
+> **Evidence** · 26 claims (10 for, 14 mixed, 1 against, 1 unmarked) · 18 studies (8 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 6 of 18 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,7 +114,7 @@ Three facts change the decision most. Ask for them when the brief omits them: **
 | A VR scene, simulation or busy animated display | Pair each highlight with a pointing cue (arrow), keep few objects on screen, and expect learners to miss changes outside the cued area | [The signalled and cued change was most detected](../claims/signalled-and-cued-object-change-most-detected.md) [+W]; [Signalling focuses attention and reduces change detection elsewhere](../claims/signalling-focuses-attention-reduces-change-detection-elsewhere.md) [~W]; carrying it to VR is untested |
 | Phone-only, small screen | Fewer cues fit: keep the heading and one highlighted element per screen, and put the overview first | untested |
 | A single session | Use the early-session design only; there is no later session to fade in | untested proposal |
-| A fixed short time budget (for example ten minutes a day) | Signals add no content, so keep them; spend the minutes on the cued elements, not on extra decoration | [Signaling (cueing) increases learning and reduces cognitive load](../claims/signaling-cueing-increases-learning.md) [+M] (reduced load g = 0.25); its time cost is untested |
+| A fixed short time budget (for example ten minutes a day) | Signals add no content, so keep them; spend the minutes on the cued elements, not on extra decoration | [Signaling (cueing) increases learning and reduces cognitive load](../claims/signaling-improves-learning.md) [+M] (reduced load g = 0.25); its time cost is untested |
 | One teacher for many learners | Build the cues into the shared materials once (slides, handouts, video) rather than relying on the teacher to point in the moment | untested proposal |
 | Low literacy, or learners reading in a second language | Label illustrations with short text and use colour or arrows to link label and part; pair the written key word with narration for young bilingual readers | [Signaling with labeled illustrations is associated with increased learning (review for emergent bilinguals)](../claims/signaling-principle-increased-learning-outcomes.md) [+W]; [Narration with finger-tracking directs attention to the target-language print](../claims/enhancing-features-direct-attention-dual-language-e-books.md) [+M] |
 | Learners who are deaf or hard of hearing | Carry every cue visually (captions, on-screen headings, highlight, arrow); do not rely on vocal emphasis | untested |
@@ -144,7 +144,7 @@ These rows are proposals, untested with learners as diagnostics. A single contra
 
 - [Signaling improves learning](../claims/signaling-improves-learning.md) [+S]: Noetel et al. (2022), an overview of 29 reviews, ranks signaling among the multimedia principles with the largest benefits and gives g = 0.43 (k = 209) from the largest signaling meta-analysis; Alpizar et al. (2020), a meta-analysis of 29 studies (44 effect sizes, 2,726 participants), d = 0.38, with study, participant, presentation and method features moderating it and clearer benefits in higher-quality studies. The third entry qualifies it: Richter et al. (2018), a quasi-experimental field study with eighth graders, found text–picture integration signals helped low-prior-knowledge learners and harmed high-prior-knowledge ones. All three were read from abstracts or a preprint.
 - [Signaling principle: highlighting essential words improves transfer from multimedia lessons](../claims/signaling-principle-mayer-2008.md) [+M]: 6 of 6 experiments (computer lessons on airplanes, paper lessons on lightning and biology), median d = 0.52 on transfer. One research programme, reported in a review; read its median as that programme's result.
-- [Signaling (cueing) increases learning and reduces cognitive load in multimedia](../claims/signaling-cueing-increases-learning.md) [+M]: the same Noetel et al. overview, adding that signaling reduced cognitive load (g = 0.25, k = 27), increased learning-relevant fixations (g = 0.39, k = 14) and slightly raised motivation (g = 0.13, k = 13).
+- [Signaling (cueing) increases learning and reduces cognitive load in multimedia](../claims/signaling-improves-learning.md) [+M]: the same Noetel et al. overview, adding that signaling reduced cognitive load (g = 0.25, k = 27), increased learning-relevant fixations (g = 0.39, k = 14) and slightly raised motivation (g = 0.13, k = 13).
 - [Clear structure improves learning](../claims/clear-structure-improves-learning.md) [~S]: Alpizar et al. again, and Lorch & Lorch (1996), two experiments with 139 college readers in which organizational signals often did not raise the amount recalled but shifted what was recalled.
 - [Relevancy of emphasized text directs attention and influences test performance](../claims/relevancy-of-emphasis-directs-attention.md) [+M]: 67 college freshmen; underlining high- or low-relevance text raised scores on questions about whichever was underlined. One experiment, immediate test.
 - [The signaling effect holds only for abstract animation representations](../claims/signaling-effect-abstract-only.md) [~M]: middle-school students learning electricity; signaled written text beat unsignaled written text with abstract animation (d = .35) but not significantly with concrete animation (p = .074). The entry calls the design a quasi-experiment.
@@ -173,7 +173,7 @@ Each question below links a general claim that gathers the studies behind it int
 - [Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle](../claims/revised-visuals-cognitive-load-text-prior-knowledge-interaction.md) [~M], [Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group](../claims/revised-visuals-cognitive-load-math-visuals-interaction.md) [~M] and [Revised visuals reduce processing of math-relevant visuals for low prior knowledge students](../claims/revised-visuals-processing-math-visuals-interaction.md) [~M]: further measures from Clinton et al. (2017).
 - [Multimedia enhancing features increase attention to print in single-language e-books](../claims/enhancing-features-increase-attention-single-language-e-books.md) [+M]: Yow & Priyashri, Study 2.
 - [Multimedia design principles produce a moderate average improvement in learning, with large differences between principles](../claims/multimedia-design-principles-improve-learning-overall.md) [+M]: Noetel et al.; signaling is among the larger ones.
-- [Multimedia principles benefit novices](../claims/multimedia-principles-benefit-novices.md) [~S] and [Instructional guidance that helps novices can become redundant as expertise grows](../claims/expertise-reversal-effect.md) [~S]: Kalyuga et al.'s expertise-reversal account, from other cognitive-load paradigms than signaling.
+- [Multimedia principles benefit novices](../claims/expertise-reversal-effect.md) [~S] and [Instructional guidance that helps novices can become redundant as expertise grows](../claims/expertise-reversal-effect.md) [~S]: Kalyuga et al.'s expertise-reversal account, from other cognitive-load paradigms than signaling.
 - [Advance organizers produce a small average learning benefit, larger for high-ability learners](../claims/advance-organizers-improve-learning.md) [~S]: the organizer, a neighbour of the overview signal, owned by [Clear Structure](clear-structure.md).
 - [In one experiment, students who generated their own underlining did not score significantly higher than students given experimenter underlining](../claims/experimenter-underlining-effective-as-student-underlining.md) [~M].
 
@@ -186,6 +186,12 @@ The designer's objective is that learners select the essential material and see 
 The expectation should weaken if comparisons with comparable novice learners, holding content and time equal, find no learning advantage for cued over uncued material on aligned tests, or if the advantage seen on an immediate test is absent at a delay. It should be narrowed if more studies like Richter et al. and Clinton et al. find cues harming learners with moderate prior knowledge, which would make a prior-knowledge probe a requirement rather than a refinement. If the gains turn out to come from the cues matching the test items rather than from organising the material, the explanation should shift from organisation to attention alone. Do not protect the model by calling every null result a case of too many cues after the fact.
 
 ## Related Principles
+- [Modality Principle](modality.md)
+- [Redundancy Principle](redundancy.md)
+- [Segmenting Principle](segmenting.md)
+- [Contiguity Principle (Spatial and Temporal)](contiguity.md)
+- [Coherence Principle](coherence.md)
+- [Pre-training Principle](pretraining.md)
 
 - [Multimedia Learning](multimedia-learning.md) — the umbrella model this principle sits inside
 - [Clear Structure](clear-structure.md) — making organisation explicit more broadly; shares the signaling meta-analysis

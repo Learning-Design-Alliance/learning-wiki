@@ -46,7 +46,7 @@ sources:
 # Coherence Principle Irrelevant Material Hurts Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q4` meta-analysis and experiments · `i1`–`i3` · interesting-but-irrelevant material costs transfer
+> **Evidence** · 4 studies · 2 causal `r?`, 1 quant-synthesis `r?`, 1 theoretical `r3` · `q3`–`q4` · `i3` large
 
 Adding interesting-but-irrelevant text, images, sounds, or music to instructional materials typically impairs learning by consuming working-memory resources without supporting the learning goal.
 
@@ -56,7 +56,7 @@ Adding interesting-but-irrelevant text, images, sounds, or music to instructiona
 
 `q3 i?` Adding extraneous material to a multimedia explanation reduced understanding across three experiments — presenting more produced less. [→ Mayer et al. 2001](#mayer-et-al-2001)
 
-`q4 i?` Meta-analysis of the seductive-detail effect confirmed a reliable negative effect on retention and transfer, with an average magnitude in the small range rather than the large one the original experiments suggested. [→ Rey 2012](#rey-2012)
+`q4 i?` Meta-analysis of the seductive-detail effect confirmed a reliable negative effect on retention and transfer, with an average magnitude smaller than the original experiments suggested (the pooled size is unsourced on this page). [→ Rey 2012](#rey-2012)
 
 `q3 i3` Across 13 of 14 experiments, students performed better on problem-solving transfer tests after a concise lesson than an expanded lesson with extraneous material, median d = 0.97. [→ Richard E. Mayer 2008](#richard-e-mayer-2008)
 
@@ -84,7 +84,7 @@ Rey, G. D. (2012). A review of research and a meta-analysis of the seductive det
 
 `q4` · `i? · no source text available to check; the entry prints no effect size` · `quant-synthesis · r?`
 
-A review and meta-analysis of the seductive-detail literature. The effect held on retention and transfer measures, and the pooled magnitude was smaller than the headline experiments implied. Recorded here at `i1` for that reason: the direction is well supported, and a designer should not expect a large effect from removing one embellishment.
+A review and meta-analysis of the seductive-detail literature. The effect held on retention and transfer measures, and the pooled magnitude was smaller than the headline experiments implied. No pooled effect size is recorded here, so impact is coded `i?`; the direction is well supported, and a designer should not expect a large effect from removing one embellishment.
 
 ### Richard E. Mayer 2008
 
@@ -99,7 +99,7 @@ Program of controlled experiments in the author's lab comparing concise versus e
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should interesting but unneeded material be cut?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **10 distinct studies** (6 causal, 2 quant-synthesis, 1 theoretical, 1 design), `q1`–`q4`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should interesting but unneeded material be cut?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **11 distinct studies** (7 causal, 2 quant-synthesis, 1 theoretical, 1 design), `q1`–`q4`, 2 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -112,7 +112,8 @@ Program of controlled experiments in the author's lab comparing concise versus e
 | [González et al. 2019](https://doi.org/10.14742/ajet.4577) | q3 · causal · r2 | i1 · small effect, η²=.04 (Study 1) | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | Garner et al. 1992 | q2 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | Sanchez and Wiley 2006 | q3 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
-| Merging Cognitive Science and Curriculum to Strengthen Middle School Math 2014 | q1 · design · r1 | i? | [Decorative photographs unrelated to the mathematics of a problem distract students, and re](decorative-images-distract-from-math-problems.md) (supports) |
+| Merging Cognitive Science and Curriculum to Strengthen Middle School Math 2014 | q1 · design · r1 | i? | [A WestEd research bulletin reports a curriculum revision that replaced a decorative photog](decorative-images-distract-from-math-problems.md) (supports) |
+| Nist 1985 | q3 · causal · r? | i? | [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -132,6 +133,5 @@ Program of controlled experiments in the author's lab comparing concise versus e
 - [Signaling improves learning by guiding attention](signaling-improves-learning.md) — the constructive counterpart: cue what matters instead of adding what doesn't
 - [Multimedia learning improves outcomes when aligned with cognitive theory](multimedia-principle-improves-learning.md) — the broader Mayer framework in which coherence is one principle
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
-- [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — a broader claim this one bears on
 - [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — related
-- [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](personalized-problem-contexts-boost-engagement-grades-4-8.md) — reports the opposite
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — reports the opposite

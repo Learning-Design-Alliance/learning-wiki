@@ -13,7 +13,7 @@ generated:
 # Graphic Organizers and Guided Notes (Processing Speed)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (5 for, 3 mixed, 2 against) · 23 studies (9 causal, 8 quant-synthesis, 5 review, 1 theoretical), `q1`–`q4` · 8 of 23 report an effect size · 1 claim rests on one study
+> **Evidence** · 10 claims (5 for, 3 mixed, 2 against) · 26 studies (12 causal, 8 quant-synthesis, 5 review, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy provides students with pre-structured supports — graphic organizers (visual maps of relationships among ideas) or guided notes (lecture outlines with deliberate blanks, cues, and headings) — during direct instruction. The structure externalizes the organizational demands of note-taking so students can devote working memory to comprehending content rather than deciding what to record and how to format it.
@@ -25,7 +25,7 @@ Guided notes and organizers reduce the real-time processing burden of lectures b
 ### Context
 #### Requirements
 - Organizer or note templates aligned section-by-section with the actual lecture sequence
-- Cues that signal importance (headings, blanks, bolding) rather than decorative graphics [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Cues that signal importance (headings, blanks, bolding) rather than decorative graphics [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 - Brief instruction in how to use the template, and a follow-up activity that requires students to work with their completed notes ([Practice](../elements/practice.md))
 - A prepared organizer or guided-notes handout aligned to the lecture's actual structure (sequence, hierarchy, compare/contrast)
 - Blanks or prompts at the key points, not scattered trivially — the gaps should mark what matters

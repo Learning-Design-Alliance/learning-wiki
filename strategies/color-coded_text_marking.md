@@ -12,7 +12,7 @@ generated:
 # Color Coded Text Marking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 15 studies (7 causal, 4 review, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 18 studies (10 causal, 4 review, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 18 report an effect size · 1 claim rests on one study
 
 ## Description
 Color coded text marking asks learners to annotate a text using a consistent, shared color scheme in which each color represents a category — claims, evidence, counterarguments, unfamiliar vocabulary, personal connections. Unlike free-form [Annotating](../principles/annotating.md), the defining feature is a *fixed mapping* between color and meaning, which turns highlighting from a passive motor act into a structured analysis of the text's rhetorical or conceptual structure. It is typically carried out on printed handouts, shared digital documents (e.g., Google Docs, Perusall), or dedicated annotation tools (e.g., Hypothesis).
@@ -31,7 +31,7 @@ Color coding works because it forces learners to make classification decisions a
 #### Constraints
 - Unstructured highlighting — marking without categories or training — produces little benefit and can *reduce* performance by creating an illusion of mastery [Student-generated underlining is frequently superficial and less effective than experimenter-selected marking.](../claims/experimenter-underlining-effective-as-student-underlining.md) [-S]
 - Over-marking (more than ~5 categories, or marking most of the text) eliminates the distinctiveness advantage and adds extraneous cognitive load [Cognitive overload from excessive marking degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
-- Color alone carries no meaning; purely decorative color use does not improve learning [Decorative color and illustration do not improve learning without relevant function.](../claims/decorative-illustrations-do-not-improve-learning.md) [~M]
+- Color alone carries no meaning; purely decorative color use does not improve learning [Decorative color and illustration do not improve learning without relevant function.](../claims/seductive-details-effect.md) [~M]
 - Learners with certain visual impairments or color-vision deficiencies need non-color redundancies (symbols, underlining styles) as part of accessible design
 
 #### Implementation Variability

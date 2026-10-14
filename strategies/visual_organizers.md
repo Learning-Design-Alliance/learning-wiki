@@ -12,7 +12,7 @@ generated:
 # Visual Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies (6 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 15 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 18 studies (9 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size
 
 ## Description
 Visual organizers are spatial-graphic representations — concept maps, advance organizers, matrices, flowcharts, timelines, Venn diagrams — that externalize the relationships among ideas in a body of content. The strategy is carried out either by providing a completed organizer before or during instruction, or by prompting learners to construct one themselves as they process the material.
@@ -29,7 +29,7 @@ Visual organizers work by making relational structure explicit, reducing the wor
 
 #### Constraints
 - Provided organizers can become redundant or even harmful for learners with high prior knowledge, consistent with the expertise reversal pattern [Expertise reversal effect.](../claims/expertise-reversal-effect.md) [~M]
-- Decorative or mismatched graphics that do not represent the content's structure do not improve learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Decorative or mismatched graphics that do not represent the content's structure do not improve learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Overly dense organizers can overload working memory rather than reduce it; they should be chunked to a manageable number of nodes [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - If learners copy a provided organizer without processing relationships, the spatial format alone confers little benefit [Learner-constructed graphic organizers outperform provided ones.](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [~M]
 

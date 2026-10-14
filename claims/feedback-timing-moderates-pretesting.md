@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials
-description: Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials
+title: "A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours"
+description: "A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours"
 id: feedback-timing-moderates-pretesting
 status: draft
 generated:
@@ -27,10 +27,12 @@ sources:
     rigour: 3
 ---
 
-# Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials
+# A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+
+<!-- title before 2026-10-14: Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials -->
 
 ## Subclaims
 `q2 i?` With paired associates, delaying feedback nullified the pretesting advantage on cued recall posttests. [→ Steven C. Pan 2023](#steven-c-pan-2023)

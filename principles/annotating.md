@@ -13,7 +13,7 @@ generated:
 # Annotating
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 5 mixed, 1 against) · 26 studies (11 causal, 6 quant-synthesis, 6 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 6 of 26 report an effect size · 4 claims rest on one study
+> **Evidence** · 13 claims (7 for, 5 mixed, 1 against) · 26 studies (11 causal, 6 quant-synthesis, 6 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 5 of 26 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 

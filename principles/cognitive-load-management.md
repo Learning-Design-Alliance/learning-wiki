@@ -132,11 +132,14 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 
 - [English-delivered AI explanations impose a double cognitive burden: foreign-language content significantly reduced learning outcomes versus native-language instruction in controlled higher-education studies](../claims/double-burden-language-of-ai-instruction.md) [~W]
 - [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](../claims/audience-prior-knowledge-determines-information-density.md) [~W]
-- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/visual-channel-overload-hurts-visual-knowledge.md) [+W]
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/voice-media-outperform-picture-text-overall.md) [+W]
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [+W]
 - [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](../claims/extraneous-load-eliminates-germane-load-learning-gains.md) [~W]
 
 ## Related Principles
+- [Segmenting Principle](segmenting.md)
+- [Coherence Principle](coherence.md)
+- [Contiguity Principle (Spatial and Temporal)](contiguity.md)
 
 - [Cognitive Load Theory](cognitive-load-theory.md)
 - [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)

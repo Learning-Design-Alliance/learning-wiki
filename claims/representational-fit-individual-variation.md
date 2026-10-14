@@ -45,7 +45,7 @@ Qualitative theme from interview accounts in the same study: some students found
 
 ## Related Claims
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — a narrower finding that bears on this claim
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](abstract-concrete-representation-no-difference.md) — related
 - [College readiness is best understood as a property of interactions between students and the college context, not only individual skills](college-readiness-as-student-college-interaction.md) — a broader claim this one bears on
 - [Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications](ai-relevance-perceptions-abstract-versus-proximal.md) — related

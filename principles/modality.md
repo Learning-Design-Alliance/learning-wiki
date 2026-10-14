@@ -50,7 +50,7 @@ sources:
 # Modality Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (11 for, 18 mixed, 1 against) · 23 studies (9 causal, 6 review, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q3` · 7 of 23 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (9 for, 18 mixed, 1 against) · 23 studies (9 causal, 6 review, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q3` · 7 of 23 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,7 +126,7 @@ These rows are proposals, untested with learners as diagnostics.
 
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+S]: Ginns (2005) pooled 43 effects (39 between-subjects, 1,887 students), d = 0.72 [0.52, 0.92], moderated by element interactivity, pacing and field; Mayer & Moreno (1998), 146 college students learning lightning formation from an animation; and Noetel et al.'s (2022) overview, reporting the larger review's g = 0.38, g = 0.20 after publication-bias correction.
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](../claims/modality-principle-mayer-2008.md) [+M]: 17 of 17 experiments in six lesson domains, median d = 1.02, transfer tests. One research programme, short computer lessons.
-- [Modality effect: explanatory text spoken rather than written with visual information](../claims/modality-effect-spoken-text-visual-information.md) [+M]: Sweller et al.'s (2019) review, recalling Mousavi et al.'s geometry experiment. The title's "increases effective working memory capacity" is the mechanism the review proposes, not a measurement.
+- [Modality effect: explanatory text spoken rather than written with visual information](../claims/modality-effect-narration-over-text.md) [+M]: Sweller et al.'s (2019) review, recalling Mousavi et al.'s geometry experiment. The title's "increases effective working memory capacity" is the mechanism the review proposes, not a measurement.
 - [Within-subjects designs also show a moderate-to-large modality effect](../claims/modality-effect-within-subjects-d073.md) [+M]: four effects from two articles, 40 students, d = 0.73, all system-paced.
 - [Pacing moderates the modality effect](../claims/modality-effect-moderated-by-pacing.md) [~M]: d = 0.93 system-paced, d = −0.14 self-paced (interval −0.32 to 0.04, so "reversed" on the claim page is stronger than the interval shows; read it as no benefit).
 - [Modality effect sizes differ across fields of study](../claims/modality-effect-field-of-study-moderator.md) [~M]: science 1.20, engineering 0.87, English comprehension 0.69, maths/logic 0.58, social science −0.13.
@@ -149,9 +149,9 @@ Taken together: for system-paced lessons in which words explain a picture, narra
 
 ## Further evidence, not yet read against this model
 
-- [Avoiding double load on the visual channel improves visual knowledge](../claims/visual-channel-overload-hurts-visual-knowledge.md) [+M]: the same 36-adult study as the voice-based claim, on its visual-knowledge outcome.
+- [Avoiding double load on the visual channel improves visual knowledge](../claims/voice-media-outperform-picture-text-overall.md) [+M]: the same 36-adult study as the voice-based claim, on its visual-knowledge outcome.
 - [The redundancy effect was not significant for middle-school students](../claims/redundancy-effect-not-significant-middle-school.md) [~M]: adding written text to narration neither helped nor hurt; bears on the redundancy decision that follows this one.
-- [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [~S]: the neighbouring decision; key terms rather than verbatim text.
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](../claims/redundancy-hurts-learning.md) [~S]: the neighbouring decision; key terms rather than verbatim text.
 - [Instructional guidance that helps novices can become counterproductive as expertise grows](../claims/expertise-reversal-effect.md) [~S]: the general expertise-reversal claim behind step 7.
 - [Multimedia design principles produce a moderate average improvement in learning](../claims/multimedia-design-principles-improve-learning-overall.md) [+M]: modality among the larger principles in Noetel et al.'s comparison.
 - [A majority of surveyed teachers report presenting words and graphics simultaneously](../claims/teachers-report-simultaneous-words-graphics-presentation.md) [~W]: a survey of practice, not an effect.
@@ -169,6 +169,11 @@ The designer's objective is that learners understand what a picture shows well e
 The expectation should weaken if new system-paced comparisons, with comparable learners and the same words and pictures, find no advantage for narration on transfer, or if the advantage disappears on delayed tests. It should narrow if the field-of-study difference turns out to reflect the kind of picture (a process diagram rather than a photograph) rather than the discipline. It should be extended, not reversed, by studies in long online courses, with second-language learners and with learners who use captions as a matter of course.
 
 ## Related Principles
+- [Segmenting Principle](segmenting.md)
+- [Signaling Principle](signaling.md)
+- [Contiguity Principle (Spatial and Temporal)](contiguity.md)
+- [Coherence Principle](coherence.md)
+- [Pre-training Principle](pretraining.md)
 
 - [Multimedia Learning](multimedia-learning.md): the umbrella decision, whether to pair words with a picture at all
 - [Cognitive Load Management](cognitive-load-management.md): the general account of which this is one lever

@@ -12,7 +12,7 @@ generated:
 # Text Illustrations With Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (4 for, 2 mixed, 2 against) · 16 studies (7 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (4 for, 2 mixed, 2 against) · 19 studies (10 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 2 claims rest on one study
 
 ## Description
 Text illustrations with graphic organizers pair written expository or argumentative text with a spatial diagram — a matrix, hierarchy, flowchart, or concept map — that represents the text's key ideas and their relationships. The organizer may be provided by the instructor as a reading aid or constructed by learners after reading as a summarization activity. Unlike decorative illustrations, these organizers encode relational structure (comparisons, sequences, classifications) that prose conveys only linearly.
@@ -30,7 +30,7 @@ Pairing text with a structure-preserving graphic exploits dual-channel processin
 
 #### Constraints
 - Poorly matched organizers add extraneous load: learners must reconcile a diagram that contradicts or distorts the text's structure [Organizers that duplicate or distort text structure impose extraneous processing.](../claims/mismatched-graphic-organizers-increase-extraneous-load.md) [-M]
-- Decorative or redundant graphics that merely repeat text verbatim can depress learning by encouraging shallow processing [Graphics that are decorative rather than explanatory do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Decorative or redundant graphics that merely repeat text verbatim can depress learning by encouraging shallow processing [Graphics that are decorative rather than explanatory do not improve learning.](../claims/seductive-details-effect.md) [-M]
 - Overly dense organizers with excessive detail can overload working memory; keep to the text's core structure [Chunking information into organized units reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 - For learners with strong prior knowledge, provided organizers can be redundant and interfere with fluent text processing [Guidance becomes less effective — and can reverse — as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 

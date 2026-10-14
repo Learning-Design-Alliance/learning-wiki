@@ -67,7 +67,7 @@ The pattern is especially useful when material is conceptually dense or when nov
 - Cognitive load theory — instruction should manage intrinsic load and minimize extraneous load.
 - Worked-example traditions — examples can reduce unproductive search for novices.
 - Scaffolding and fading perspectives — support should adapt to current competence and then withdraw.
-- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/visual-channel-overload-hurts-visual-knowledge.md) [+W]
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/voice-media-outperform-picture-text-overall.md) [+W]
 
 #### Contradicting / Qualifying
 - Load reduction is not the only goal; learners still need productive struggle and meaningful performance.

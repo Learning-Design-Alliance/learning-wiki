@@ -25,8 +25,36 @@
       "question": "Does it matter what is marked, and who marks it (learner or instructor)?",
       "members": [
         [
+          "signalled-and-cued-object-change-most-detected",
+          "+"
+        ],
+        [
+          "cueing-outcompetes-signalling-alone-for-attention",
+          "+"
+        ],
+        [
+          "central-object-change-detection-low-without-cueing",
+          "+"
+        ],
+        [
+          "signalling-focuses-attention-reduces-change-detection-elsewhere",
+          "~"
+        ],
+        [
+          "enhancing-features-direct-attention-dual-language-e-books",
+          "+"
+        ],
+        [
+          "animation-phase-dependent-attention-to-print",
+          "~"
+        ],
+        [
           "experimenter-underlining-effective-as-student-underlining",
           "~"
+        ],
+        [
+          "highlighting-low-utility",
+          "-"
         ],
         [
           "signaling-principle-mayer-2008",

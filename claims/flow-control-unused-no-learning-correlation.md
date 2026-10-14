@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Learner flow control over animations was rarely used and did not correlate with learning performance
-description: Learner flow control over animations was rarely used and did not correlate with learning performance
+title: "Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464"
+description: "Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464"
 id: flow-control-unused-no-learning-correlation
 status: draft
 generated:
@@ -19,13 +19,15 @@ sources:
     rigour: 1
 ---
 
-# Learner flow control over animations was rarely used and did not correlate with learning performance
+# Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 
+<!-- title before 2026-10-14: Learner flow control over animations was rarely used and did not correlate with learning performance -->
+
 ## Subclaims
-`q2 i?` Navigation activity in the animation+voice setting did not correlate with knowledge test results, and participants rarely used the stop/play flow control, leading to rejection of the cognitive-load-reduction hypothesis. [→ Guttormsen Schär 2007](#guttormsen-schar-2007)
+`q2 i?` The authors report that navigation activity in the animation+voice setting did not correlate with knowledge test results (printed Spearman r = 0.464, no significance test), and participants rarely used the stop/play flow control, leading to rejection of the cognitive-load-reduction hypothesis. [→ Guttormsen Schär 2007](#guttormsen-schar-2007)
 
 ## Evidence
 
@@ -43,7 +45,7 @@ Correlation analysis between logged use of navigation elements (stop, start, spo
 
 ## Related Claims
 
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — the general claim this finding bears on, with the studies behind it
+- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — reports the opposite
 - [Control students rarely used the optional game, while treatment students logged in as expected](control-students-rarely-played-game.md) — related

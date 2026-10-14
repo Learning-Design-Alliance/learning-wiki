@@ -43,6 +43,14 @@
         [
           "pretraining-principle-mayer-2008",
           "+"
+        ],
+        [
+          "cognitive-overload-degrades-learning",
+          "+"
+        ],
+        [
+          "element-interactivity-moderates-contiguity-effect",
+          "~"
         ]
       ]
     },
@@ -83,7 +91,7 @@
           "~"
         ],
         [
-          "expertise-reversal-limits-contiguity-benefits",
+          "expertise-reversal-split-attention-redundancy-review",
           "~"
         ]
       ]
@@ -94,10 +102,6 @@
       "members": [
         [
           "modality-principle-mayer-2008",
-          "+"
-        ],
-        [
-          "modality-effect-spoken-text-visual-information",
           "+"
         ],
         [
@@ -127,6 +131,10 @@
         [
           "spoken-versus-signaled-written-null",
           "~"
+        ],
+        [
+          "design-principles-improve-cognitive-load-management",
+          "+"
         ]
       ]
     },
@@ -135,15 +143,11 @@
       "question": "Does presenting the same words twice (spoken and written) hurt or help, and for whom?",
       "members": [
         [
-          "redundancy-effect-impairs-learning",
-          "+"
-        ],
-        [
           "verbal-redundancy-small-overall-effect",
           "-"
         ],
         [
-          "system-paced-moderates-verbal-redundancy",
+          "spoken-written-beats-spoken-only-not-written-only",
           "~"
         ],
         [
@@ -151,11 +155,27 @@
           "~"
         ],
         [
-          "images-animation-eliminate-redundancy-benefit",
+          "system-paced-moderates-verbal-redundancy",
           "~"
         ],
         [
           "segmentation-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "outcome-constructs-test-formats-moderate-redundancy",
+          "~"
+        ],
+        [
+          "captioning-second-language-videos-large-benefits",
+          "~"
+        ],
+        [
+          "redundancy-principle",
+          "+"
+        ],
+        [
+          "images-animation-eliminate-redundancy-benefit",
           "~"
         ],
         [
@@ -169,22 +189,6 @@
         [
           "redundancy-principle-mayer-2008",
           "+"
-        ],
-        [
-          "redundancy-principle",
-          "~"
-        ],
-        [
-          "spoken-written-beats-spoken-only-not-written-only",
-          "~"
-        ],
-        [
-          "outcome-constructs-test-formats-moderate-redundancy",
-          "~"
-        ],
-        [
-          "captioning-second-language-videos-large-benefits",
-          "~"
         ]
       ]
     },
@@ -199,15 +203,31 @@
         [
           "decorative-images-distract-from-math-problems",
           "+"
+        ],
+        [
+          "relevancy-of-emphasis-directs-attention",
+          "+"
         ]
       ]
     },
     {
-      "hub": "segmenting-effect-retention-transfer-meta-analysis",
+      "hub": "segmenting-improves-multimedia-learning",
       "question": "Should continuous presentations be segmented, and does learner control of pace help?",
       "members": [
         [
           "segmenting-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "segmenting-reduces-cognitive-load",
+          "+"
+        ],
+        [
+          "segmentation-reduces-hesitations-adhd-participants",
+          "+"
+        ],
+        [
+          "long-recorded-lectures-impeded-focus",
           "+"
         ],
         [

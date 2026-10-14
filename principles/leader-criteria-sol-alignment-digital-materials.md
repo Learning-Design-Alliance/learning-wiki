@@ -42,9 +42,9 @@ The article recommends that as schools and districts acquire digital multimedia 
 - [Dual Language Programs Gap Closure Longitudinal](../claims/dual-language-programs-gap-closure-longitudinal.md) [+M]
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](../claims/multimedia-principle-words-and-pictures-outcomes.md) [+W]
 - [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](../claims/pretraining-improves-transfer.md) [+W]
-- [Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content](../claims/signaling-principle-increased-learning-outcomes.md) [+W]
+- [A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without](../claims/signaling-principle-increased-learning-outcomes.md) [+W]
 - [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](../claims/split-attention-effect-degrades-learning.md) [+W]
-- [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](../claims/temporal-contiguity-lower-cognitive-load.md) [+W]
+- [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](../claims/temporal-contiguity-lower-cognitive-load.md) [+W]
 
 ## Related Principles
 - 

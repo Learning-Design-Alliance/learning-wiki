@@ -11,10 +11,6 @@
           "+"
         ],
         [
-          "signaling-cueing-increases-learning",
-          "+"
-        ],
-        [
           "signaling-principle-mayer-2008",
           "+"
         ],
@@ -66,6 +62,10 @@
         ],
         [
           "organization-task-match-determines-benefit",
+          "~"
+        ],
+        [
+          "prior-knowledge-activation-little-effect-on-retention",
           "~"
         ]
       ]

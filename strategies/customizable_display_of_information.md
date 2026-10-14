@@ -12,14 +12,14 @@ generated:
 # Customizable Display of Information
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 causal, 3 quant-synthesis, 3 review), `q2`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (8 causal, 3 quant-synthesis, 3 review), `q2`–`q4` · 3 of 14 report an effect size
 
 ## Description
 Customizable display of information means presenting content in digital formats whose appearance and modality learners can adjust — font size and type, spacing, color contrast, text-to-speech, captions, language, and layout. Rather than fixing a single presentation, the design exposes controls so each learner can configure the display to fit perceptual, linguistic, and working-memory constraints. This is a core UDL (Universal Design for Learning) representation strategy: the content stays constant while its rendering flexes.
 
 ## Design Implications
 
-Adjusting display parameters changes how much working-memory capacity is consumed by perception and decoding, freeing resources for comprehension [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. For example, larger character spacing and shorter line lengths measurably improve reading speed and comprehension for readers with dyslexia, and e-reader displays that permit font manipulation outperform fixed paper for some of these readers (Schneps et al., 2013) [+M]. Pairing adjustable text with adjustable audio or visual rendering supports dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S], but added visual decoration does not by itself aid learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [~S] — customization should serve legibility and modality access, not ornament.
+Adjusting display parameters changes how much working-memory capacity is consumed by perception and decoding, freeing resources for comprehension [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. For example, larger character spacing and shorter line lengths measurably improve reading speed and comprehension for readers with dyslexia, and e-reader displays that permit font manipulation outperform fixed paper for some of these readers (Schneps et al., 2013) [+M]. Pairing adjustable text with adjustable audio or visual rendering supports dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S], but added visual decoration does not by itself aid learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [~S] — customization should serve legibility and modality access, not ornament.
 
 ### Context
 #### Requirements

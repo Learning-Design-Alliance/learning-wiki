@@ -74,7 +74,7 @@ Adults (Experiment 1, N=207) and youth (Experiment 2, N=193) were each randomly 
 | [Rau 2017](https://doi.org/10.1007/s10648-016-9365-3) | q2 · review · r? | i? | [Multiple representations improve learning](multiple-representations-improve-learning.md) (supports) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · theoretical · r3 | i3 | [Generative processing principles: words with pictures and conversational-style words impro](generative-processing-principles-mayer-2008.md) (supports) |
 | Alty 2002 | q3 · causal · r? | i? | [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) (supports) |
-| Kutbay 2020 | q3 · causal · r2 | i3 | [All ten multimedia treatment conditions produced significant pre-to-post achievement gains](all-treatments-produced-significant-gains.md) (supports) |
+| Kutbay 2020 | q2 · causal · r2 | i3 | [All ten multimedia treatment conditions produced significant pre-to-post achievement gains](all-treatments-produced-significant-gains.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -135,21 +135,20 @@ Open questions include how the effect scales across media formats (static illust
 - [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — pictures often carry the analogical structure that supports transfer from words
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — a narrower finding that bears on this claim
-- [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related
+- [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — a narrower finding that bears on this claim
 - [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — a broader claim this one bears on
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — a narrower finding that bears on this claim
 - [Cognitive Load Management](cognitive-load-management.md) — related
-- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
+- [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a narrower finding that bears on this claim
-- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — a narrower finding that bears on this claim
 - [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related
 - [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — a narrower finding that bears on this claim
-- [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](decorative-images-distract-from-math-problems.md) — related
+- [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — a broader claim this one bears on
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — related
 - [Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer](contiguity-principles-mayer-2008.md) — related
-- [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-spoken-text-visual-information.md) — related
+- [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-narration-over-text.md) — related
 - [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues](dual-mode-worked-example-presentation.md) — related

@@ -12,14 +12,14 @@ generated:
 # Spaces that Foster Creativity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (3 for, 2 mixed, 2 against) · 16 studies (6 causal, 4 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (3 for, 2 mixed, 2 against) · 19 studies (9 causal, 4 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 1 claim rests on one study
 
 ## Description
 Spaces that foster creativity are learning environments intentionally designed to move beyond the rows-and-lecture layout inherited from industrial-era schooling. They feature flexible, reconfigurable furniture; distinct zones for group work, quiet focus, making, and presentation; visible displays of learner work; and environmental qualities (light, color, air quality, acoustics) chosen to support attention and comfort. The design goal is that the environment itself affords collaboration, experimentation, and learner agency rather than only passive reception.
 
 ## Design Implications
 
-Physical environment is not a neutral backdrop: classroom design features account for meaningful variance in learning progress, with light, ownership, and flexibility among the strongest factors [Barrett et al. found ~16% of variance in learning progress attributable to classroom design factors.](../claims/classroom-design-affects-learning-progress.md) [+M]. Environments that offer choice and control support autonomy, a core driver of intrinsic motivation [Autonomy-supportive environments increase intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, novelty and playfulness can impose attention costs: decorative or stimulating features that are irrelevant to the learning goal can depress performance [Decorative illustrations do not improve learning and can reduce it.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S], so stimulation must be purposeful, not maximal.
+Physical environment is not a neutral backdrop: classroom design features account for meaningful variance in learning progress, with light, ownership, and flexibility among the strongest factors [Barrett et al. found ~16% of variance in learning progress attributable to classroom design factors.](../claims/classroom-design-affects-learning-progress.md) [+M]. Environments that offer choice and control support autonomy, a core driver of intrinsic motivation [Autonomy-supportive environments increase intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, novelty and playfulness can impose attention costs: decorative or stimulating features that are irrelevant to the learning goal can depress performance [Decorative illustrations do not improve learning and can reduce it.](../claims/seductive-details-effect.md) [-S], so stimulation must be purposeful, not maximal.
 
 ### Context
 #### Requirements

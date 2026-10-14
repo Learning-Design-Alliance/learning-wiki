@@ -41,11 +41,12 @@ Study 1 phase analysis of the enhanced English condition: English text retained 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — the general claim this finding bears on, with the studies behind it
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](enhancing-features-direct-attention-dual-language-e-books.md) — related
 - [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](enhancing-features-increase-attention-single-language-e-books.md) — related
 - [Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books](comprehension-benefit-dual-language-only.md) — related

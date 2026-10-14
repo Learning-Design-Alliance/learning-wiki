@@ -46,5 +46,5 @@ Across the ET and MR conditions of the user study, participants reported that ov
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
-- [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related
+- [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — related
 - [In a 24-participant three-modality user study, learners' workflows and engagement with fundamental mechanics problems varied across instructional modalities](workflows-vary-across-mr-et-tc-modalities.md) — a broader claim this one bears on

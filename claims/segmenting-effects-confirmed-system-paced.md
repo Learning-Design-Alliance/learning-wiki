@@ -49,5 +49,4 @@ Moderation/subgroup analysis within the meta-analysis: the four reported effects
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — possibly the same claim (merge candidate)
 - [Cognitive Load Management](cognitive-load-management.md) — a broader claim this one bears on
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — related
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — related

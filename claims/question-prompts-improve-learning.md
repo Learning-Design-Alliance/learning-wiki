@@ -59,6 +59,18 @@ Hattie, J. A. C., & Donoghue, G. M. (2016). Learning strategies: a synthesis and
 
 This paper synthesizes meta-analytic evidence on learning strategies into a model of surface, deep, and transfer learning phases. Elaborative interrogation — a self-regulation strategy in which learners generate explanations for why a stated fact or idea is true — is classified under "acquiring deep learning." Its own summary table reports this strategy at an average effect size of d = 0.42 (medium), drawn from one meta-analysis covering 24 studies, 2,150 participants (prorated to 15,450), and 164 effects — notably smaller than several other deep-learning strategies in the same table (e.g., elaboration and organisation, d = 0.75; meta-cognitive strategies, d = 0.61). The paper itself does not name the underlying meta-analysis beyond attributing its strategy database to Hattie's earlier *Visible Learning* synthesis.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the gain reach content the pre-questions did not ask about?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 review, 1 quant-synthesis), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Hamaker 1986](https://doi.org/10.3102/00346543056002212) | q3 · quant-synthesis · r? | i? | this claim |
+| [Hattie & Donoghue 2016](https://doi.org/10.1038/npjscilearn.2016.13) | q3 · review · r? | i2 · medium effect, d=0.42 | this claim |
+| [Steven C. Pan 2023](https://doi.org/10.1007/s10648-023-09814-5) | q2 · review · r3 | i? | [Effects of pre-instruction testing on untested but studied materials are highly inconsiste](pretesting-untested-materials-inconsistent.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Proposed mechanisms.** Question prompts are typically justified on three grounds: they induce retrieval practice (answering requires reconstructing knowledge from memory), they trigger [activation](activation-improves-learning.md) of relevant prior knowledge, and they push learners toward elaborative processing similar to self-explanation. All three mechanisms are well established in the broader literature, but the strength of a prompt's effect depends heavily on whether learners actually generate a substantive answer rather than skipping or skimming the question.

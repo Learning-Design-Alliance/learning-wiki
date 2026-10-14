@@ -43,9 +43,8 @@ Theoretical argument from the review's abstract, presented as the third of four 
 
 
 ## Related Claims
-- [Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently](fading-advantages-beyond-sum.md) — related
+- [Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently](manipulatives-require-connection-to-concept.md) — related
 - [Concreteness fading helps learners interpret ambiguous or opaque abstract symbols in terms of well-understood concrete objects](fading-helps-interpret-abstract-symbols.md) — related
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
 - [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — related
 - [Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking](fading-provides-embodied-grounding.md) — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related

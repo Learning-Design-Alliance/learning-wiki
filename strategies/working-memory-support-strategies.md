@@ -12,7 +12,7 @@ generated:
 # Working Memory Support Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 15 studies (7 causal, 4 review, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 4 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 18 studies (10 causal, 4 review, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 1 claim rests on one study
 
 ## Description
 Working memory support strategies are instructional design techniques that manage the severe capacity limits of working memory — roughly three to five novel elements for most adults [Cowan's embedded-processes model.](https://doi.org/10.1017/S0140525X01003922) [+S]. They work through three mechanisms: reducing intrinsic load (segmenting, [Chunking](../principles/chunking.md), pretraining), minimizing extraneous load (removing redundancy, integrating sources, clear structure), and externalizing content (graphics, organizers, worked examples) so learners need not hold intermediate states in mind. The approach is grounded in [Cognitive Load Theory](../theories/cognitive-load-theory.md) [+S].
@@ -31,7 +31,7 @@ Every instructional decision should be evaluated against the question: what must
 #### Constraints
 - Support becomes harmful for knowledgeable learners: redundant guidance imposes extra load on those who can self-manage, the [expertise reversal effect](../theories/expertise-reversal-effect.md) [-S]
 - Over-segmenting can fragment a coherent schema; learners may process pieces without integrating them [~M]
-- Offloading content to graphics backfires when the graphic is decorative rather than relevant [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Offloading content to graphics backfires when the graphic is decorative rather than relevant [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 - Learners with very low prior knowledge may not benefit from learner-controlled pacing, since they cannot judge when they have understood a segment [~W]
 
 #### Implementation Variability

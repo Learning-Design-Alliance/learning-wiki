@@ -43,6 +43,8 @@ Controlled experiments comparing signaled versus nonsignaled lessons (overview s
 
 ## Related Claims
 
+- [Signaling Improves Learning](signaling-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — the general claim this finding bears on, with the studies behind it
 
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — the general claim this finding bears on, with the studies behind it

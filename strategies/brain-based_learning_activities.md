@@ -12,14 +12,14 @@ generated:
 # Brain-Based Learning Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (2 for, 1 mixed, 2 against) · 13 studies (5 causal, 4 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 5 claims (2 for, 1 mixed, 2 against) · 16 studies (8 causal, 4 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size
 
 ## Description
 Activities that engage multiple senses (visual, auditory, kinesthetic, tactile) to activate different parts of the brain, enhancing learning and retention. In practice this means getting learners talking and teaching each other, pairing verbal content with visual representation, building in movement, and providing breaks for processing. The label "brain-based" is loose — the durable design principle underneath it is that learning improves when information is encoded through multiple coordinated channels and when attention is actively managed, not when activities "stimulate more of the brain" in a generic sense.
 
 ## Design Implications
 
-The defensible core of this strategy is dual-channel encoding: presenting verbal and visual information together improves recall compared with verbal-only presentation [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S], and peer explanation forces retrieval and elaboration that passive listening does not. Movement breaks can restore attention in long sessions, particularly for younger learners [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]. However, the popular "learning styles" reading of this strategy — matching instruction to a learner's preferred sensory modality — is not supported by evidence and should not drive design [X]. Adding sensory variety for its own sake can also backfire: decorative images, sound, and motion that do not carry instructional content depress learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
+The defensible core of this strategy is dual-channel encoding: presenting verbal and visual information together improves recall compared with verbal-only presentation [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S], and peer explanation forces retrieval and elaboration that passive listening does not. Movement breaks can restore attention in long sessions, particularly for younger learners [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]. However, the popular "learning styles" reading of this strategy — matching instruction to a learner's preferred sensory modality — is not supported by evidence and should not drive design [X]. Adding sensory variety for its own sake can also backfire: decorative images, sound, and motion that do not carry instructional content depress learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ The defensible core of this strategy is dual-channel encoding: presenting verbal
 - A classroom routine that makes movement and peer talk predictable and low-disruption
 
 #### Constraints
-- Multisensory additions that are redundant or decorative increase extraneous load rather than spreading encoding [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Multisensory additions that are redundant or decorative increase extraneous load rather than spreading encoding [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - For novices, open-ended kinesthetic or discovery-style activity can overload working memory; guidance must be explicit [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]
 - Movement and peer-teaching formats consume class time; without content-specific structure they become engagement theater with no retention benefit
 - Some learners find public movement or face-to-face teaching socially threatening; participation must be optional or scaffolded

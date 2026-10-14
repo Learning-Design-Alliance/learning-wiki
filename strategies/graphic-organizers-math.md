@@ -13,7 +13,7 @@ generated:
 # Graphic Organizers (Math)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 9 studies (4 causal, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 1 of 9 report an effect size
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 12 studies (7 causal, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size
 
 ## Description
 Graphic organizers are structured visual templates — diagrams, mats, charts, and grids — that externalize the structure of a math problem or concept so learners can organize information spatially instead of holding it in working memory. In mathematics they serve two main functions: problem-solving scaffolds (e.g., step-by-step word-problem frames, "break it down" templates) that help students identify what is being asked and which operation to use, and concept-development tools (e.g., the [Frayer model](https://www.theteachertoolkit.com/index.php/tool/frayer-model), Venn diagrams, place-value mats) that map relationships among ideas. Common formats include the Frayer model, step-by-step frames, Venn diagrams, number lines, place-value charts, ten-frames, and coordinate or hundredths grids.
@@ -38,7 +38,7 @@ Graphic organizers reduce extraneous cognitive load by offloading intermediate p
 - Poorly designed organizers that duplicate the textbook's own structure add transcription work without adding thinking [-W]
 - Poorly matched organizers add load rather than reduce it; a generic "fill in the boxes" frame can become a compliance ritual disconnected from mathematical reasoning [~M]
 - Over-reliance can block internalization if the organizer is never faded — learners may become dependent on the external structure [-M]
-- Organizers with heavy decorative graphics can distract rather than support [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Organizers with heavy decorative graphics can distract rather than support [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Requires initial instruction on use; some learners find the structure too rigid if not adapted to the task
 
 #### Implementation Variability
@@ -123,7 +123,7 @@ Graphic organizers reduce extraneous cognitive load by offloading problem struct
 #### Constraints
 - Poorly matched organizers add load rather than reduce it; a generic "fill in the boxes" frame can become a compliance ritual disconnected from mathematical reasoning [~M]
 - Over-reliance can block internalization if the organizer is never faded — learners may become dependent on the external structure [-M]
-- Organizers with heavy decorative graphics can distract rather than support [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Organizers with heavy decorative graphics can distract rather than support [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Requires initial instruction on use; some learners find the structure too rigid if not adapted to the task
 
 #### Implementation Variability
@@ -144,7 +144,7 @@ Graphic organizers reduce extraneous cognitive load by offloading problem struct
 - Metacognitive monitoring: the organizer's steps prompt self-questioning
 
 ### Instructions
-1. Select or design an organizer whose structure matches the problem schema; keep it minimal and free of decorative graphics [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+1. Select or design an organizer whose structure matches the problem schema; keep it minimal and free of decorative graphics [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 2. Model completing the organizer on a worked problem, thinking aloud at each step
 3. Have learners complete the organizer on a parallel problem, then solve it ([Practice](../elements/practice.md))
 4. Pair with [Analogies](../elements/analogies.md) or prior-problem comparison so learners see *when* the frame applies

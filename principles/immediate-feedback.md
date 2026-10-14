@@ -98,7 +98,7 @@ Taken together: feedback after an error, especially in multiple-choice and recal
 
 Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/feedback-timing.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
 
-- Should corrective feedback come immediately after a response, or can it wait? [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](../claims/feedback-timing-moderates-pretesting.md) [~M]: 7 distinct studies.
+- Should corrective feedback come immediately after a response, or can it wait? [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](../claims/feedback-timing-moderates-pretesting.md) [~M]: 7 distinct studies.
 - Does an advantage seen straight after correction last to a delayed test, and does that depend on the form of the correction? [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](../claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) [~S]: 4 distinct studies.
 - Who should decide when feedback arrives, and does the setting (in front of peers, mid-performance) matter? [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.](../claims/self-controlled-kr-decided-after-trial-improves-motor-retention.md) [~M]: 5 distinct studies.
 
@@ -194,4 +194,4 @@ Immediate feedback works because correction is most usable while the learner’s
 -->
 - [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](../claims/ai-helper-usability-obstacles.md) [~W]
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](../claims/its-improve-learning-outcomes-with-actionable-feedback.md) [+W]
-- [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](../claims/feedback-timing-moderates-pretesting.md) [~W]
+- [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](../claims/feedback-timing-moderates-pretesting.md) [~W]

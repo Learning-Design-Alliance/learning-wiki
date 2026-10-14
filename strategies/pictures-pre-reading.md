@@ -12,14 +12,14 @@ generated:
 # Pictures (Pre-Reading)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (8 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 The instructor selects three or four pictures related to the reading topic and provides them to small groups of learners. The groups work together to connect the pictures and guess what the reading will be about, then present their predictions to the class. This visual-based activity stimulates curiosity and encourages predictive thinking before reading, functioning as a concrete [Activation](../principles/activation.md) task that surfaces prior knowledge and builds anticipation for the text.
 
 ## Design Implications
 
-Pre-reading pictures work as a schema-activation device: they give learners a shared visual referent that lowers the language barrier to discussing an unfamiliar topic and primes relevant background knowledge before decoding begins [Activating prior knowledge improves comprehension of new material.](../claims/activation-improves-learning.md) [+M]. The predictive element matters as much as the pictures — asking groups to commit to a guess creates a purpose for reading, since learners then read to confirm or revise their hypotheses [~M]. Pictures must carry topical information, not merely decorate; images unrelated to the text's meaning do not improve learning [Decorative illustrations do not improve learning outcomes.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S].
+Pre-reading pictures work as a schema-activation device: they give learners a shared visual referent that lowers the language barrier to discussing an unfamiliar topic and primes relevant background knowledge before decoding begins [Activating prior knowledge improves comprehension of new material.](../claims/activation-improves-learning.md) [+M]. The predictive element matters as much as the pictures — asking groups to commit to a guess creates a purpose for reading, since learners then read to confirm or revise their hypotheses [~M]. Pictures must carry topical information, not merely decorate; images unrelated to the text's meaning do not improve learning [Decorative illustrations do not improve learning outcomes.](../claims/seductive-details-effect.md) [+S].
 
 ### Context
 #### Requirements
@@ -28,7 +28,7 @@ Pre-reading pictures work as a schema-activation device: they give learners a sh
 - Facilitation for group work and a brief whole-class synthesis connecting predictions to the upcoming reading
 
 #### Constraints
-- Pictures that are merely attractive rather than informative add no learning value [Decorative illustrations do not improve learning outcomes.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]
+- Pictures that are merely attractive rather than informative add no learning value [Decorative illustrations do not improve learning outcomes.](../claims/seductive-details-effect.md) [+S]
 - Ambiguous or culturally unfamiliar images can send groups in unproductive directions or disadvantage learners without the relevant background [~M]
 - If predictions are never revisited after reading, the activity loses its hypothesis-testing function and becomes an isolated warm-up [~W]
 - Time spent on picture discussion can crowd out actual reading time in short sessions [-W]

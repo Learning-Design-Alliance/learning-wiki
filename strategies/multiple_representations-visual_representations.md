@@ -12,18 +12,18 @@ generated:
 # Multiple Representations Visual Representations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies (6 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 16 studies (9 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 4 of 16 report an effect size
 
 ## Description
 This strategy presents the same content in two or more coordinated formats — typically words plus pictures, diagrams, graphs, animations, or manipulatives — rather than a single format. Learners must actively integrate the representations, mapping referents across them to construct a unified mental model. It is carried out by pairing verbal explanations with relevant visuals, sequencing them contiguously, and often supporting the mapping process with labels, color coding, or prompts.
 
 ## Design Implications
 
-Pairing words with meaningful graphics improves learning because verbal and visual channels process information in parallel and reinforce each other [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is not automatic: visuals must be relevant to the learning goal, not decorative, and the combination must not exceed working memory capacity [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Effective use requires managing the total load across representations — splitting attention between poorly integrated formats degrades learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
+Pairing words with meaningful graphics improves learning because verbal and visual channels process information in parallel and reinforce each other [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is not automatic: visuals must be relevant to the learning goal, not decorative, and the combination must not exceed working memory capacity [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S]. Effective use requires managing the total load across representations — splitting attention between poorly integrated formats degrades learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
 
 ### Context
 #### Requirements
-- Visuals that are relevant to the learning objective and carry instructional content, not decoration ([Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S])
+- Visuals that are relevant to the learning objective and carry instructional content, not decoration ([Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S])
 - Spatial or temporal contiguity: corresponding words and visuals presented near each other or simultaneously
 - Support for cross-referencing — labels, legends, color coding, or prompts that help learners map elements between representations
 - Chunked presentation so the combined verbal + visual load stays within working memory ([Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M])

@@ -12,14 +12,14 @@ generated:
 # Sensory Stimulation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 against) · 7 studies (3 causal, 3 quant-synthesis, 1 review), `q3`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (1 for, 2 against) · 10 studies (6 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Sensory stimulation involves providing experiences that engage a person's senses — tactile, proprioceptive, vestibular, visual, or auditory — to improve regulation, attention, and focus. In classrooms this typically takes the form of fidget tools, movement breaks, weighted or textured materials, and sensory-rich activities that help learners manage sensory defensiveness or satisfy sensory-seeking needs. The premise is that addressing sensory needs first reduces fidgeting, off-task behavior, and dysregulation, creating conditions for learning rather than teaching content directly.
 
 ## Design Implications
 
-Sensory stimulation is best understood as a **regulation support**, not an instructional method: it prepares learners for instruction rather than delivering it. Evidence for academic gains is thin and mostly indirect; the strongest support is for individualized, therapist-guided sensory integration with children with sensory processing difficulties [Sensory integration interventions show modest, context-dependent gains in self-regulation for children with sensory processing challenges.](../claims/classroom-physical-activity-improves-attention.md) [+W]. Generic classroom fidget programs show weaker and more mixed effects on attention [~W]. Importantly, stimulation that is *irrelevant* to the task can impose extraneous load rather than relieve it [Decorative or irrelevant sensory input does not improve learning and can distract.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M].
+Sensory stimulation is best understood as a **regulation support**, not an instructional method: it prepares learners for instruction rather than delivering it. Evidence for academic gains is thin and mostly indirect; the strongest support is for individualized, therapist-guided sensory integration with children with sensory processing difficulties [Sensory integration interventions show modest, context-dependent gains in self-regulation for children with sensory processing challenges.](../claims/classroom-physical-activity-improves-attention.md) [+W]. Generic classroom fidget programs show weaker and more mixed effects on attention [~W]. Importantly, stimulation that is *irrelevant* to the task can impose extraneous load rather than relieve it [Decorative or irrelevant sensory input does not improve learning and can distract.](../claims/seductive-details-effect.md) [-M].
 
 ### Context
 #### Requirements

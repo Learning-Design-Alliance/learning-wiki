@@ -13,7 +13,7 @@ generated:
 # Graphic Organizers for Unit Planning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 17 studies (7 quant-synthesis, 6 causal, 4 review), `q2`–`q4` · 6 of 17 report an effect size
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 20 studies (9 causal, 7 quant-synthesis, 4 review), `q2`–`q4` · 6 of 20 report an effect size
 
 ## Description
 A unit-level graphic organizer is a visual representation — flowchart, concept map, timeline, or matrix — that shows how the lessons, concepts, and activities of an instructional unit relate to one another. It is shared with learners at the outset (and revisited as the unit progresses) so they can see where they are, what came before, and why each part matters. For instructors, building the organizer forces decisions about which concepts are central and which are peripheral.
@@ -33,7 +33,7 @@ Unit-level organizers function as [Advance Organizers](../elements/advance-organ
 - Periodic updates or highlighting as the unit progresses, so the map reflects current position
 
 #### Constraints
-- Organizers that are decorative or that merely restate a list of topics without showing relationships add visual load without aiding learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Organizers that are decorative or that merely restate a list of topics without showing relationships add visual load without aiding learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 - Overly dense organizers can overload novices rather than orienting them [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M]
 - Learners with strong prior knowledge may gain little from an instructor-provided structure and may benefit more from generating their own [Concept maps improve learning.](../claims/concept-mapping-improves-learning.md) [~M]
 - A mismatch between the organizer's implied structure and the actual sequence of instruction confuses rather than orients

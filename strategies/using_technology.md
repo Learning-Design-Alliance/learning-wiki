@@ -12,7 +12,7 @@ generated:
 # Using Technology
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 14 studies (5 quant-synthesis, 4 causal, 3 review, 2 theoretical), `q1`–`q4` · 5 of 14 report an effect size
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 17 studies (7 causal, 5 quant-synthesis, 3 review, 2 theoretical), `q1`–`q4` · 5 of 17 report an effect size
 
 ## Description
 Using technology as a strategy means deliberately selecting and integrating digital tools — multimedia, simulations, learning platforms, collaboration tools, adaptive systems — to serve specific instructional purposes. The strategy treats technology as a delivery and interaction medium whose effectiveness depends entirely on the pedagogy it carries, not on the presence of the technology itself.
@@ -30,7 +30,7 @@ Meta-analyses consistently find that technology-mediated instruction produces le
 
 #### Constraints
 - Technology used as a content-delivery channel alone (e.g., lecture capture without interaction) yields minimal gains [Technology's effect on learning is small and depends on pedagogy, not the medium.](https://doi.org/10.3102/0034654311417738) [~M]
-- Decorative media, gratuitous animation, and seductive details depress learning by adding extraneous load [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Decorative media, gratuitous animation, and seductive details depress learning by adding extraneous load [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Redundant on-screen text read aloud verbatim impairs learning compared with narration alone [Multimedia learning is improved by coherence, signaling, redundancy, and segmentation principles.](https://doi.org/10.1017/CBO9780511811678) [-S]
 - High learner autonomy in open-ended digital environments can overload novices; guidance matters more as prior knowledge decreases [Guidance benefits reverse as learner expertise grows.](../claims/expertise-reversal-effect.md) [~M]
 - Digital distraction — off-task multitasking on devices — reduces performance for users and nearby peers [~M]

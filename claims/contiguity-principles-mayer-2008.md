@@ -65,6 +65,6 @@ Controlled experiments comparing simultaneous versus successive presentation of 
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — possibly the same claim (merge candidate)
 - [Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style](generative-processing-principles-mayer-2008.md) — a broader claim this one bears on
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
-- [A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect](teachers-report-simultaneous-words-graphics-presentation.md) — related
+- [Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously](teachers-report-simultaneous-words-graphics-presentation.md) — related
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — related
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on

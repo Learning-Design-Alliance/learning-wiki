@@ -12,14 +12,14 @@ generated:
 # Uncluttered Learning Environment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 6 studies (5 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 6 report an effect size
 
 ## Description
 An uncluttered learning environment removes non-essential visual, auditory, and digital stimuli so that learner attention is directed at the instructional core — the task, the text, the demonstration, or the discussion. It applies the coherence principle at the level of the physical and digital space: everything present should serve the learning goal, and everything else should be removed or minimized.
 
 ## Design Implications
 
-Attention is a limited resource; irrelevant stimuli compete with instructional content for working memory and can measurably reduce learning [Cognitive Load Management](../principles/cognitive-load-management.md). Children taught in classrooms with heavily decorated walls spent more time off-task and scored lower on a focused learning task than children in sparse classrooms [~S] — the effect is strongest for young learners and those with developing attention regulation. Decorative but irrelevant graphics and sounds do not improve learning and often depress it [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S].
+Attention is a limited resource; irrelevant stimuli compete with instructional content for working memory and can measurably reduce learning [Cognitive Load Management](../principles/cognitive-load-management.md). Children taught in classrooms with heavily decorated walls spent more time off-task and scored lower on a focused learning task than children in sparse classrooms [~S] — the effect is strongest for young learners and those with developing attention regulation. Decorative but irrelevant graphics and sounds do not improve learning and often depress it [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Attention is a limited resource; irrelevant stimuli compete with instructional c
 ### Target Learners
 - Young children, whose attention regulation is still developing and who are most vulnerable to visual distraction [~S]
 - Learners with ADHD or weaker executive function, who are disproportionately affected by environmental distraction [~M]
-- Novices generally, who lack the prior knowledge to distinguish relevant from irrelevant stimuli [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]
+- Novices generally, who lack the prior knowledge to distinguish relevant from irrelevant stimuli [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S]
 
 ### Target Learning Goals
 - Focused skill practice and [Practice](../elements/practice.md) requiring sustained attention

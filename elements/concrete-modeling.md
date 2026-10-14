@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 quant-synthesis, 1 review), `q3`–`q4` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 quant-synthesis, 1 review), `q3`–`q4` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -23,9 +23,8 @@ Concrete modeling is the element in which physical or tangible representations a
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Manipulatives Require Connection To Concept](../claims/manipulatives-require-connection-to-concept.md) [~W]
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](../claims/manipulatives-require-connection-to-concept.md) [~W]
 - [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]
-- [Hands-on learning improves achievement](../claims/hands-on-learning-improves-achievement.md) [+M]
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

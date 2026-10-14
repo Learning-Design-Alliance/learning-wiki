@@ -1,0 +1,80 @@
+{
+  "principle": "principles/modality",
+  "note": "2026-10-14. Groupings and directions by an agent from the claims' titles and evidence entries, all read in full. The first hub is also a hub in multimedia-learning.json, where the moderator claims are its members; here they are split out under the pacing claim. Review before relying on it.",
+  "findings": [
+    {
+      "hub": "modality-effect-narration-over-text",
+      "question": "Should words that explain a picture be spoken rather than printed?",
+      "members": [
+        [
+          "modality-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "modality-effect-within-subjects-d073",
+          "+"
+        ],
+        [
+          "modality-effect-holds-middle-school-electricity",
+          "+"
+        ],
+        [
+          "voice-media-outperform-picture-text-overall",
+          "+"
+        ],
+        [
+          "modality-effect-moderated-by-pacing",
+          "~"
+        ],
+        [
+          "modality-effect-field-of-study-moderator",
+          "~"
+        ],
+        [
+          "modality-effect-stronger-in-virtual-reality",
+          "~"
+        ],
+        [
+          "spoken-versus-signaled-written-null",
+          "~"
+        ],
+        [
+          "design-principles-improve-cognitive-load-management",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "modality-effect-moderated-by-pacing",
+      "question": "When does the effect hold: pacing, complexity, field and medium?",
+      "members": [
+        [
+          "modality-effect-field-of-study-moderator",
+          "~"
+        ],
+        [
+          "modality-effect-stronger-in-virtual-reality",
+          "~"
+        ],
+        [
+          "dual-mode-worked-example-presentation",
+          "~"
+        ],
+        [
+          "learner-paced-beats-system-paced-complex-material",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-modality-effect-review",
+      "question": "Does narration stop helping, or start to hurt, as learners gain expertise?",
+      "members": [
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

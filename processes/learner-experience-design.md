@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 18 studies (8 causal, 3 quant-synthesis, 3 design, 2 review, 2 theoretical), `q1`–`q4` · 3 of 18 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 18 studies (8 causal, 3 quant-synthesis, 3 design, 2 review, 2 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 7 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**

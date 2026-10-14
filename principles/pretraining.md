@@ -38,7 +38,7 @@ sources:
 # Pre-training Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (7 for, 11 mixed) · 21 studies (8 quant-synthesis, 7 review, 5 causal, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (7 for, 10 mixed) · 21 studies (8 quant-synthesis, 7 review, 5 causal, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -72,7 +72,7 @@ Three facts change the decision most. Ask for them when the brief omits them: **
 | If the brief says… | Then change… | Basis |
 |---|---|---|
 | Learners are `novice` on a system with many unfamiliar parts or terms (equipment, anatomy, a mechanism, a geological process) | Give the primer: name, location and behaviour of each component, before the main lesson | [Pretraining principle: pre-lessons on names, locations, and characteristics of key components improve transfer](../claims/pretraining-principle-mayer-2008.md) [+M] (5 of 5 experiments, median d = 0.85) |
-| Learners already know the parts (advanced learners, a refresher, practitioners) | Skip the primer, or replace it with a 1-minute naming check and teach only the parts they miss | [Isolated-elements benefit disappears for experienced learners](../claims/expertise-reversal-isolated-elements-and-imagination-review.md) [~M]; [Multimedia principles benefit novices more](../claims/multimedia-principles-benefit-novices.md) [~M]; qualified by [prior knowledge did not moderate the principles as a group](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M] |
+| Learners already know the parts (advanced learners, a refresher, practitioners) | Skip the primer, or replace it with a 1-minute naming check and teach only the parts they miss | [Isolated-elements benefit disappears for experienced learners](../claims/expertise-reversal-isolated-elements-and-imagination-review.md) [~M]; [Multimedia principles benefit novices more](../claims/expertise-reversal-effect.md) [~M]; qualified by [prior knowledge did not moderate the principles as a group](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M] |
 | A mixed class: some know the parts, some do not | Make the primer short and skippable (a labelled picture learners can consult), rather than a fixed segment for all | untested proposal |
 | The main lesson is simple (few parts, little interaction between them) | The primer is unlikely to pay for its time; fold the few terms into the lesson | [Design principles mattered more for complex (g = 0.70) than simple (g = 0.20) media](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M] (principles as a group, carried to pre-training) |
 | The main lesson is system-paced (a lecture, a video that plays straight through, a narrated animation) | Give the primer; learners cannot stop the lesson to work out a term | [Design principles mattered more in system-paced (g = 0.41) than learner-paced (g = 0.27) media](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M] (principles as a group) |
@@ -110,8 +110,8 @@ Record what the learner did, under stated conditions: whether they had a primer 
 
 - [Pretraining principle: pre-lessons on names, locations, and characteristics of key components improve transfer](../claims/pretraining-principle-mayer-2008.md) [+M]: Mayer's (2008) review of his group's experiments; 5 of 5 experiments on brakes, pumps and geology, median d = 0.85 on transfer. All from one research programme with computer-based lessons; read the median as that programme's result, not as independent replications.
 - [Pretraining before the main lesson improved knowledge and real-world transfer in one VR experiment](../claims/pretraining-improves-transfer.md) [+M]: Delgado & Mayer (2024), n = 93, randomised, against no pretraining; no standardised effect size printed; errors inside VR did not differ. The same claim records Ceballos & Nutta's (2022) second-hand report of pretraining studies in dual-language instruction (r1). Neither compares the primer with the same content given during or after the lesson.
-- [Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles](../claims/multimedia-design-principles-improve-learning-overall.md) [+M]: the umbrella estimate across principles (Noetel et al. 2022); the principle itself explained most of the variance, so the average does not forecast pre-training's own effect.
-- [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M]: complex over simple, system-paced over learner-paced; prior knowledge not a significant moderator (p = 0.14), which does not establish that it makes no difference.
+- [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles](../claims/multimedia-design-principles-improve-learning-overall.md) [+M]: the umbrella estimate across principles (Noetel et al. 2022); the principle itself explained most of the variance, so the average does not forecast pre-training's own effect.
+- [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M]: complex over simple, system-paced over learner-paced; prior knowledge not a significant moderator (p = 0.14), which does not establish that it makes no difference.
 - [The isolated-elements method benefits novices but the benefit disappears for experienced learners](../claims/expertise-reversal-isolated-elements-and-imagination-review.md) [~M] and [Expertise reversal: effects for novices decrease, disappear, and can reverse](../claims/expertise-reversal-effect-compound.md) [~M]: the reason to drop the primer for learners who know the parts. Neither tests pre-training directly.
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition](../claims/part-task-practice-reduces-load-for-novices.md) [+M]: Pollock et al. (2002); presenting isolated parts before the integrated whole helped novices on high-element-interactivity tasks. A neighbouring way of deferring component knowledge, with practice rather than a primer.
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) [+M]: the mechanism the primer is meant to address; indirect, since it tests reducing load, not pre-training.
@@ -127,7 +127,7 @@ Taken together: for novices facing a complex lesson on a system with many unfami
 
 ## Further evidence, not yet read against this model
 
-- [Multimedia Principles Benefit Novices](../claims/multimedia-principles-benefit-novices.md) [~M]: rests on the same two Kalyuga studies as the expertise-reversal claim; its discussion recommends pre-training for novices.
+- [Multimedia Principles Benefit Novices](../claims/expertise-reversal-effect.md) [~M]: rests on the same two Kalyuga studies as the expertise-reversal claim; its discussion recommends pre-training for novices.
 - [The learning benefit of increasing integration is substantially larger for high element interactivity materials](../claims/element-interactivity-moderates-contiguity-effect.md) [~M]: the complexity moderator for contiguity (Ginns 2006), a sibling principle.
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](../claims/advance-organizers-improve-learning.md) [~M]: a frame before the lesson rather than component knowledge; mean ES 0.21, with no special benefit for low-knowledge learners.
 - [Prior-knowledge activation instructions before study had little effect on retention](../claims/prior-knowledge-activation-little-effect-on-retention.md) [~M]: talking about a topic before study is not the same as being taught its parts.
@@ -145,6 +145,12 @@ The designer's objective is that learners understand how a system works well eno
 The expectation should weaken if comparisons with novices, holding total time equal, find no transfer advantage for a primer over teaching the same parts during the lesson; that would locate the effect in extra exposure rather than in the order. It should narrow if studies outside Mayer's programme, in classrooms and with delayed tests, find the effect only on immediate lab tests. It would be extended by studies of the primer's length, of children, and of learners in a second language.
 
 ## Related Principles
+- [Modality Principle](modality.md)
+- [Redundancy Principle](redundancy.md)
+- [Segmenting Principle](segmenting.md)
+- [Signaling Principle](signaling.md)
+- [Contiguity Principle (Spatial and Temporal)](contiguity.md)
+- [Coherence Principle](coherence.md)
 
 - [Multimedia Learning](multimedia-learning.md): the umbrella model; this page is its pre-training principle in depth
 - [Cognitive Load Management](cognitive-load-management.md): the sequence-level model in which pre-training is one way to defer component knowledge

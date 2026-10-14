@@ -66,7 +66,7 @@ A second reviewed finding attributes greater social responsibility, community aw
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Naval 2022](https://doi.org/10.3390/educsci12040240) | q2 · review · r2 | i? | this claim |
-| Susan E. Sporte and Joseph E. Kahne 2007 | q2 · associational · r2 | i? | [Service learning experiences and in-class civic learning opportunities have a larger impac](service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) (supports); [Experiencing civic community at home, in the neighborhood, and at school fosters students'](experiencing-civic-community-fosters-commitment.md) (supports) |
+| Susan E. Sporte and Joseph E. Kahne 2007 | q2 · associational · r2 | i? | [Service learning and in-class civic learning opportunities are more strongly associated wi](service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) (supports); [Experiencing civic community at home, in the neighborhood, and at school fosters students'](experiencing-civic-community-fosters-commitment.md) (supports) |
 | Building Decision Skills 2006 | q2 · causal · r? | i? | [Building Decision Skills combined with service learning has potentially positive effects o](bds-service-learning-potentially-positive-kav.md) (supports); [Effects favoring the curriculum-plus-service-learning condition over service-learning alon](bds-curriculum-adds-beyond-service-learning-alone.md) (qualifies) |
 <!-- synthesis:end -->
 

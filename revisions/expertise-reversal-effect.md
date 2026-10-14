@@ -15,3 +15,8 @@ Ingested from eric-ej1012872 (Children's Problem-Solving in Serious Games: The "
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence filled from Crossref-verified sources (gap-fill)
+
+## Earlier history as claims/multimedia-principles-benefit-novices
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence copied from a verified near-duplicate (gap-fill)

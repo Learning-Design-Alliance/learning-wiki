@@ -36,7 +36,7 @@ Multiple representations support abstraction and transfer because identifying th
 - Effectiveness reverses with expertise: advanced learners often benefit more from a single preferred representation, and added forms become redundant [Expertise reversal: guidance that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~M]
 - If representations are superficially similar, learners may map surface features instead of deep structure, producing misconceptions [-W]
 - Multiple representations can *harm* learning when learners lack the skill to translate between them; novices given several simultaneous formats often split attention across them without integrating [Cognitive overload degrades learning when demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [-M]
-- Redundant representations (identical text read aloud on screen) can depress learning relative to a single well-chosen format [Redundancy principle.](../claims/redundancy-effect-impairs-learning.md) [~M]
+- Redundant representations (identical text read aloud on screen) can depress learning relative to a single well-chosen format [Redundancy principle.](../claims/redundancy-principle.md) [~M]
 - Benefits reverse with expertise: advanced learners integrating a second redundant representation show the expertise-reversal effect, performing worse than with a single compact format [~M]
 
 #### Implementation Variability
@@ -119,7 +119,7 @@ Multiple representations support learning when learners actively integrate them:
 
 #### Constraints
 - Multiple representations can *harm* learning when learners lack the skill to translate between them; novices given several simultaneous formats often split attention across them without integrating [Cognitive overload degrades learning when demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [-M]
-- Redundant representations (identical text read aloud on screen) can depress learning relative to a single well-chosen format [Redundancy principle.](../claims/redundancy-effect-impairs-learning.md) [~M]
+- Redundant representations (identical text read aloud on screen) can depress learning relative to a single well-chosen format [Redundancy principle.](../claims/redundancy-principle.md) [~M]
 - Benefits reverse with expertise: advanced learners integrating a second redundant representation show the expertise-reversal effect, performing worse than with a single compact format [~M]
 
 #### Implementation Variability

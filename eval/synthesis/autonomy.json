@@ -51,6 +51,22 @@
           "~"
         ],
         [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ],
+        [
+          "students-pause-video-to-view-segment-menu",
+          "~"
+        ],
+        [
           "forced-pacing-eliminates-aiding-transfer",
           "~"
         ],

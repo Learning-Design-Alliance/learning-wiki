@@ -27,3 +27,8 @@ Evidence copied from a verified near-duplicate (gap-fill)
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence copied from a verified near-duplicate (gap-fill)
+
+## Earlier history as claims/modality-effect-spoken-text-visual-information
+
+### 2026-10-13 · ingest · process:wiki-ingest
+Ingested from syn-sweller-2019-cognitive-architecture-and-instructional-design (Cognitive Architecture and Instructional Design: 20 Years Later) via eval_harness.py + ingest_extractions.py

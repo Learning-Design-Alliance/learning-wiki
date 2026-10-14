@@ -13,7 +13,7 @@ generated:
 # Graphic Organizers and Visual Aids (Attention)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (7 for, 1 against) · 20 studies (8 causal, 7 quant-synthesis, 4 review, 1 associational), `q2`–`q4` · 6 of 20 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 against) · 20 studies (8 causal, 7 quant-synthesis, 4 review, 1 associational), `q2`–`q4` · 5 of 20 report an effect size · 2 claims rest on one study
 
 ## Description
 Graphic organizers and visual aids structure content spatially — through mind maps, advance organizers, comparison matrices, flowcharts, and diagrams — so that learners can see which information matters and how it relates. As an attention strategy, the organizer functions as a pre-selection device: it directs the learner's limited attentional resources toward essential relationships rather than surface details.
@@ -126,7 +126,7 @@ Graphic organizers (concept maps, flowcharts, comparison matrices, story maps) a
 
 ## Design Implications
 
-Graphic organizers work by spatially representing relational structure, which supports both attention allocation and encoding: combining verbal and visual representations improves recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M], and organizing material into coherent visual chunks reduces extraneous working-memory load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Provided organizers are most effective when they require learners to actively complete or apply them; simply viewing a pre-filled organizer produces weaker learning than constructing or filling in the structure [~M]. Visuals must be relevant to the content — decorative illustrations that do not carry information do not improve learning and can distract [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S].
+Graphic organizers work by spatially representing relational structure, which supports both attention allocation and encoding: combining verbal and visual representations improves recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M], and organizing material into coherent visual chunks reduces extraneous working-memory load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Provided organizers are most effective when they require learners to actively complete or apply them; simply viewing a pre-filled organizer produces weaker learning than constructing or filling in the structure [~M]. Visuals must be relevant to the content — decorative illustrations that do not carry information do not improve learning and can distract [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S].
 
 ### Context
 #### Requirements

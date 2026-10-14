@@ -12,10 +12,10 @@ generated:
 # Pictures & Visuals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 against) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (1 for, 2 against) · 11 studies (7 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
-This strategy uses images, diagrams, videos, animations, and graphic organizers to represent content alongside or instead of verbal explanation. Its theoretical basis is [Dual Coding Theory](../theories/dual-coding-theory.md): information encoded both verbally and visually leaves two retrieval paths, improving recall [Pairing words with relevant images improves recall compared with words alone.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is conditional, not automatic — visuals help when they are relevant, explanatory, and integrated with text, and can harm learning when they are decorative or overloaded [Decorative illustrations do not improve learning and can reduce it by diverting attention.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
+This strategy uses images, diagrams, videos, animations, and graphic organizers to represent content alongside or instead of verbal explanation. Its theoretical basis is [Dual Coding Theory](../theories/dual-coding-theory.md): information encoded both verbally and visually leaves two retrieval paths, improving recall [Pairing words with relevant images improves recall compared with words alone.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is conditional, not automatic — visuals help when they are relevant, explanatory, and integrated with text, and can harm learning when they are decorative or overloaded [Decorative illustrations do not improve learning and can reduce it by diverting attention.](../claims/seductive-details-effect.md) [-S].
 
 ## Design Implications
 
@@ -28,7 +28,7 @@ Visuals work by directing attention to essential content, making abstract or inv
 - Alignment with [Cognitive Load Management](../principles/cognitive-load-management.md): strip decorative clutter, highlight essential features, and avoid presenting identical text verbatim on screen and in narration
 
 #### Constraints
-- Decorative stock images, clip art, and "engaging" photos do not improve learning and can reduce it by splitting attention [Decorative illustrations do not improve learning and can reduce it by diverting attention.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Decorative stock images, clip art, and "engaging" photos do not improve learning and can reduce it by splitting attention [Decorative illustrations do not improve learning and can reduce it by diverting attention.](../claims/seductive-details-effect.md) [-S]
 - Overly complex or dense visuals (busy diagrams, animations with excessive motion) overload the visual channel [Cognitive overload degrades learning when working memory demands exceed capacity.](../claims/cognitive-overload-degrades-learning.md) [-S]
 - Redundancy harms learning: full on-screen text duplicating narration consumes the same channel and reduces comprehension [~S]
 - Learners with low prior knowledge benefit most from well-designed visuals; experts may find them redundant [~M]

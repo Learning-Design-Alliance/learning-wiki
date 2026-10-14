@@ -13,7 +13,7 @@ generated:
 # Classroom Management with Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 2 review), `q2`–`q3` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 2 review), `q2`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Teachers put the most important policies, procedures, and expectations into graphic form — posters, flowcharts, anchor charts, visual schedules, behavior matrices — to increase the likelihood that students will follow them. The strategy applies dual-coding and [Chunking](../principles/chunking.md) logic to classroom management: visual organization makes expectations permanently visible, reduces the verbal load of repeated teacher reminders, and gives students an external reference for self-monitoring their own behavior.
@@ -112,7 +112,7 @@ This strategy applies the visual-structuring power of [Graphic Organizers](../el
 
 ## Design Implications
 
-Visual displays of procedures work because they offload rule-keeping from working memory and make expectations permanently available for reference [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Pairing text with visual structure exploits dual coding, producing more durable memory for the expectations themselves [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. The management benefit depends on the organizer being *procedural* — showing sequences, decision points, and outcomes — rather than decorative; a poster of rules that students never consult adds clutter without changing behavior [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]. Clear, consistently referenced structure is itself a core component of effective classroom management [Clear Structure](../principles/clear-structure.md) [+M].
+Visual displays of procedures work because they offload rule-keeping from working memory and make expectations permanently available for reference [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Pairing text with visual structure exploits dual coding, producing more durable memory for the expectations themselves [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. The management benefit depends on the organizer being *procedural* — showing sequences, decision points, and outcomes — rather than decorative; a poster of rules that students never consult adds clutter without changing behavior [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]. Clear, consistently referenced structure is itself a core component of effective classroom management [Clear Structure](../principles/clear-structure.md) [+M].
 
 ### Context
 #### Requirements

@@ -12,7 +12,7 @@ generated:
 # Fidget Utilization Protocol
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 against) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q3` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (1 mixed, 1 against) · 8 studies (5 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 8 report an effect size
 
 ## Description
 Fidgets are tools to aid focus and self-regulation, not toys. This strategy establishes explicit rules for using fidgets at home or in the classroom: being mindful of when a fidget is needed, using it only to focus or calm down, not distracting others, and returning it to a designated place after use. Learners experiment with different fidget types to find what works, and the rules are often formalized in a signed fidget contract.
@@ -33,7 +33,7 @@ The protocol treats fidget use as a trained behavior rather than an open accommo
 - Fidgets used as toys — spun, shown to peers, dropped loudly — degrade on-task behavior for the user and nearby peers [Fidget spinners impaired attention in children without ADHD.](../claims/classroom-physical-activity-improves-attention.md) [-S]
 - No reliable benefit for typically developing learners without attention difficulties; universal fidget access tends to add distraction rather than focus [-M]
 - Requires sustained commitment from learner and instructor; abandoned contracts leave the fidget functioning as a toy
-- Visually engaging fidgets compete for the same attentional resources as the lesson itself [Decorative or attention-grabbing visuals do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Visually engaging fidgets compete for the same attentional resources as the lesson itself [Decorative or attention-grabbing visuals do not improve learning.](../claims/seductive-details-effect.md) [-M]
 
 #### Implementation Variability
 - Individual contract (one learner, negotiated rules) vs. whole-class protocol with shared norms
