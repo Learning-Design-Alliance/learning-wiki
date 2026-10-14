@@ -41,7 +41,8 @@ Exploratory ANOVA of ITS log data on the level of skills students reached during
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](mastery-probability-covariate-ancova-favors-adaptive.md) — related
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related

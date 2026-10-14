@@ -81,6 +81,23 @@ Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Revi
 
 Mayer responds to Barnes and Clawson's (1975) conclusion that organizers "do not facilitate learning". He argues that their review represented the theory poorly, analysed learning outcomes poorly and did not control the experiments adequately. He then presents nine experimental tests that favour an assimilation-encoding account. He concludes that organizers can change the outcome of learning, but only when they are used in appropriate situations and the outcome is measured properly. Only the abstract was read.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do organizers given before or alongside the material help, and for whom?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **8 distinct studies** (4 quant-synthesis, 3 causal, 1 review), `q2`–`q4`, 5 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Luiten et al. 1980](https://doi.org/10.3102/00028312017002211) | q3 · quant-synthesis · r? | i1 · small effect, mean ES=0.21 on learning | this claim |
+| [Stone 1983](https://doi.org/10.1080/00220973.1983.11011862) | q3 · quant-synthesis · r? | i? | this claim |
+| [Mayer 1979](https://doi.org/10.3102/00346543049002371) | q2 · review · r? | i? | this claim |
+| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.60 overall (0.37 for studying maps) | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (supports) |
+| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58; i2 · medium effect for constructing, g=0.72; studying g=0.43 | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (supports); [Learner-constructed graphic organizers are not shown to outperform provided ones: the one ](learner-constructed-graphic-organizers-outperform-provided.md) (qualifies) |
+| [Stull & Mayer 2007](https://doi.org/10.1037/0022-0663.99.4.808) | q3 · causal · r? | i2 · transfer favoured provided organizers, d=0.24 (ns), 0.43, 0.84 | [Learner-constructed graphic organizers are not shown to outperform provided ones: the one ](learner-constructed-graphic-organizers-outperform-provided.md) (qualifies) |
+| [Schnotz & Baadte 2015](https://doi.org/10.3758/s13421-014-0490-2) | q3 · causal · r? | i2 · medium effect on schema-interference contrasts, d=0.51–0.54; smaller format-match interaction, η²=.03–.04 | [Recall from bar graphs is more accurate when the recall format matches the studied graph f](mismatched-graphic-organizers-increase-extraneous-load.md) (qualifies) |
+| Eylon 1979 | q2 · causal · r2 | i? | [A hierarchical organization facilitates tasks only when matched to the task domain: organi](organization-task-match-determines-benefit.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The claim originates in Ausubel's assimilation theory of meaningful learning: organizers work by providing "ideational scaffolding" — relevant, stable prior concepts to which new material can be subsumed. The mechanism overlaps heavily with [Activation](activation-improves-learning.md) and prior-knowledge activation more broadly; an organizer can be seen as a structured, designer-authored form of [activating prior knowledge](../strategies/activating-prior-knowledge.md) rather than a learner-generated recall activity.

@@ -56,8 +56,9 @@ Supervised Week 8 independent no-AI near-transfer essay scored blind by two rate
 
 ## Discussion
 
-
 ## Related Claims
+
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Bounded AI support outperformed open collaboration on all four Week 8 independent no-AI outcomes, though exact wild-cluster p values sat at the 0.050–0.063 boundary](bounded-beats-open-week8-independent-outcomes.md) — related
 - [Open collaboration involved more prompts, greater text incorporation, less self-generated text, and deeper idea and reasoning offloading than bounded support](open-collaboration-process-intensity-profile.md) — related
 - [Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.](ai-draft-quality-ownership-tradeoff.md) — related

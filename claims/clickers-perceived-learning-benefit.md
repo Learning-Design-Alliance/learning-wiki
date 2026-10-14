@@ -39,6 +39,17 @@ Questionnaire item asked of all four sections; responses were basic counts. "109
 
 > "A slightly smaller but still significant 109 students (89.3%) believed that the use of clickers had assisted them in learning and/or understanding course material. Four students (3.3%) did not believe this to be true for them, and nine students (7.4%) remained unsure."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How do learners receive vote-and-discuss routines?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (1 associational, 1 causal), `q2`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Miller 2013 | q2 · associational · r1 | i? | this claim; [Pre-service elementary teachers overwhelmingly liked a modified peer instruction clicker i](clicker-mpi-liked-by-preservice-teachers.md) (supports); [No instructor bias was evident in students' liking of the clicker implementation or percei](no-instructor-bias-clicker-perceptions.md) (qualifies); [Students perceived clickers' greatest course impact as lesson variation and fun, with lear](clickers-fun-variation-over-learning.md) (qualifies) |
+| [Deborah K. Anderson 2023](https://doi.org/10.1128/jmbe.00151-22) | q3 · causal · r2 | i2; i? | [Students rate clicker questions and lecture as more helpful than the textbook](clickers-and-lecture-rated-above-textbook.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

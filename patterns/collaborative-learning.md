@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (7 for, 7 mixed, 1 against) · 15 studies (4 causal, 4 quant-synthesis, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (7 for, 10 mixed, 1 against) · 18 studies (4 causal, 4 quant-synthesis, 3 qualitative, 2 review, 2 associational, 2 design, 1 theoretical), `q1`–`q4` · 3 of 18 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -61,6 +61,24 @@ A request for "more group work" or "more engagement" does not specify these inpu
 - **How a group feels it worked is not what its members learned.** [Aligned problem perceptions in online groups](../claims/homogeneous-problem-perceptions-predict-regulation-success.md) [~M]. In a cross-sectional path-modelling study of 311 pre-service teachers in 112 online groups on a single case-analysis task, groups whose members saw their collaboration problems alike reported higher satisfaction, perceived regulation success and subjective learning gain (β = .31–.57). That alignment was unrelated to objectively measured knowledge. There was no pretest, and the associated outcomes are all self-reports. Not yet checked against its source. It supports row 4 of the table: read self-reports as observations of the group's process.
 
 **No claim here tests this policy as a whole**, or compares light structure first with full cooperative structure from the start. No claim establishes an optimal group size or composition, or an effect for adult workplace teams or online groups in general. Do not convert the pooled d or the writing ES into an individual's probability of benefit, rank these studies against each other, or read a group product score as evidence about any member. A precise abstention names the missing input (individual starting response, outcome, horizon) and how to get it.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **how much experience the learners have of working in groups**, **whether the task could be done by one member alone**, and **when and how each member's own learning will be checked**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The task could be split into parts that members do separately | Make it less divisible, or require each member to use another's part; groups of strong students still fail when they do not actually work together | [High-performing groups fail without collaboration](../claims/high-performing-groups-fail-without-collaboration.md) [~W] |
+| Student group leaders will run the discussion | Brief leaders to collect each member's view before settling an answer; leaders who rushed and imposed their view prevented discussion | [Poor group leaders undermined discussion](../claims/cooperative-conceptual-change-chemistry-misconceptions.md) [~W] |
+| The objective is measured at a delayed test | Make step 6 a delayed individual check on matched and changed wording; agreement in the pair's talk often did not hold later | [Co-construction needs personal construction for stable change](../claims/personal-construction-required-stable-conceptual-change.md) [~W] |
+| The goal is writing | Pair learners to plan and revise, then have each write a piece alone as the individual check in step 5 | [Collaborative writing improves text quality](../claims/collaborative-writing-improves-text-quality.md) [+M] |
+| The work is asynchronous online, in small groups | Start with a shared prompt and response deadlines; if individual checks are weak, change the task or the prompt, since roles or rewards alone did not change achievement | [Structuring interdependence did not change achievement online](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [~M] |
+| Groups of four or five share one lab station or procedure | Use three or four per group, or rotate roles so each member carries out each step | [Large groups limited individual participation](../claims/large-group-size-limited-participation-confidence.md) [~W] |
+| The group will report how well it worked | Keep the self-report, but choose the next activity from the individual check, not from it | [Aligned problem perceptions predict self-reported, not measured, outcomes](../claims/homogeneous-problem-perceptions-predict-regulation-success.md) [~M] |
+| Generative AI is available to the group | Set limits on AI use in the joint task and make the individual check AI-free | [Open collaboration with AI, offloading and lower independent thinking](../claims/offloading-mediation-lower-independent-hot.md) [-W] |
+| A reading programme asks pupils to read independently | Add regular peer discussion of what each has read | [Extensive reading with peer interaction gave larger gains](../claims/er-peer-interaction-greater-achievement-gains.md) [+W] |
+| Learners include neurodivergent students and group size is open | Offer a choice between pairs and teams of three to five, and ask each learner; this is evidence about comfort, not learning | [Neurodivergent and neurotypical students prefer different team sizes](../claims/nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) [~W] |
+| Learners are young or new to group work | Give roles and a talk prompt from the first session rather than starting light | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

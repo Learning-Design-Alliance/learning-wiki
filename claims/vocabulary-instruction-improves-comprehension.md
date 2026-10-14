@@ -59,6 +59,20 @@ Wright, T. S., & Cervetti, G. N. (2017). A Systematic Review of the Research on 
 
 A systematic review of 36 vocabulary interventions with comprehension outcomes, sorted by whether the comprehension test used passages containing the taught words or was a generalized measure, and by whether the intervention taught word meanings directly or taught word-learning strategies. Teaching word meanings supported comprehension of text containing those words in almost all cases, and instruction involving active processing typically did more than giving a definition or using a dictionary. There was very limited evidence that direct teaching of word meanings, even in long-term programmes covering many words, improves generalized comprehension, and no evidence that teaching one or two word-solving strategies does. This substantially qualifies the claim: the reliable benefit is to comprehension of text that uses the taught words.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching the essential terms improve comprehension, and of which texts?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (1 quant-synthesis, 1 review, 1 causal, 1 theoretical, 1 design), `q1`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Elleman et al. 2009](https://doi.org/10.1080/19345740802539200) | q4 · quant-synthesis · r? | i2 · medium effect on custom measures, d=0.50 (d=0.10 on standardized measures) | this claim |
+| [Wright and Cervetti 2017](https://doi.org/10.1002/rrq.163) | q3 · review · r3 | i? | this claim |
+| Manzo 1977 | q2 · causal · r2 | i2 | [Textual material treated with embedded aids produced 10-15% higher reading comprehension s](embedded-aids-improve-reading-comprehension.md) (supports) |
+| Preparing Problems for Classroom Instruction 2012 | q1 · theoretical · r1 | i? | [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reas](unfamiliar-contexts-distract-from-mathematics.md) (supports) |
+| Dyer 1992 | q1 · design · r1 | i? | [The package claims minimal technical English limits workplace training through comprehensi](minimal-technical-english-limits-training.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Comprehension depends on word knowledge because readers must construct a situation model from individual word meanings; when too many words are unknown, working-memory resources are consumed by decoding meaning rather than integrating ideas — see [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) and [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md). This places vocabulary instruction squarely within [cognitive load theory](../theories/cognitive-load-theory.md): unknown words act as extraneous load during reading, so reducing that load is a precondition for the deeper integration work that comprehension requires.

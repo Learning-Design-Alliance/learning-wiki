@@ -41,8 +41,11 @@ Moderator analysis within the meta-analysis of 50 effects, using the article's d
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
 - [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](integration-of-related-elements-large-mean-effect.md) — a broader claim this one bears on

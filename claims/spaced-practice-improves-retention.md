@@ -117,6 +117,27 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 
 128 Japanese college students studied 20 English–Japanese word pairs under expanding or equal spacing, with the amount of spacing set at massed, short, medium or long. The main effect of the amount of spacing was significant and, in the author's words, produced large effect sizes; the author concludes that introducing spacing may matter more than whether it expands. Read from the abstract only: it prints no effect sizes, retention intervals or group sizes, and does not say how learners were assigned to conditions.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **12 distinct studies** (5 causal, 4 quant-synthesis, 3 review), `q2`–`q4`, 3 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Cepeda et al. 2006](https://doi.org/10.1037/0033-2909.132.3.354) | q2 / q4 · quant-synthesis · r? | i? | this claim; [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) (supports); [The spacing benefit holds even at very short retention intervals, contradicting the Peters](spacing-benefit-short-retention-no-peterson-paradox.md) (supports) |
+| [Donovan and Radosevich 1999](https://doi.org/10.1037/0021-9010.84.5.795) | q3 / q4 · quant-synthesis · r? | i2 · medium effect, mean weighted d=0.46; i2 | this claim; [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) (supports) |
+| [Cepeda et al. 2008](https://doi.org/10.1111/j.1467-9280.2008.02209.x) | q3 · causal · r2 | i3 · large effect, d=1.1 recall (optimal gap vs zero gap); i? | this claim; [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) (supports) |
+| [Kim and Webb 2022](https://doi.org/10.1111/lang.12479) | q3 · quant-synthesis · r? | i? | this claim |
+| [Nakata 2015](https://doi.org/10.1017/s0272263114000825) | q3 · causal · r? | i? | this claim |
+| [Carpenter 2022](https://doi.org/10.1038/s44159-022-00089-1) | q2 · review · r? | i? | [Spacing enhances learning across various domains and across the lifespan, with emphasis on](spacing-enhances-learning-across-domains-lifespan.md) (supports) |
+| Digital Promise and the Institute for Applied Neuroscience 2019 | q2 · review · r? | i? | [Spacing content over time and interweaving different content strengthens learning and rete](spacing-interleaving-improve-retention.md) (supports) |
+| [Latimier et al. 2021](https://doi.org/10.1007/s10648-020-09572-8) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.74 | [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md) (supports) |
+| Caple 1996 | q2 · causal · r? | i? | [Structured CAI with spaced practice and spaced review produced better recall and retention](structured-cai-spacing-improves-recall-and-retention.md) (supports) |
+| [Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova 2016](https://doi.org/10.1558/cj.v33i3.26055) | q3 · causal · r2 | i? | [Supplemental computer-based spaced repetition activities nearly triple long-term vocabular](spaced-repetition-supplement-triples-vocabulary-retention.md) (supports) |
+| [Tetiana Zubenko 2022](https://doi.org/10.20535/2410-8286.250501) | q2 · causal · r1 | i? | [ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental lis](svas-spaced-listening-outperforms-comparison-end-of-experiment.md) (supports) |
+| Roschelle 2020 | q2 · review · r? | i? | [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Spacing is commonly explained by desirable-difficulty accounts: a delay between study episodes forces partial forgetting, so retrieval at the next session requires more effortful reconstruction, which strengthens the memory trace more than immediate, easy retrieval would. Consolidation-based accounts add that time between sessions allows memory traces to stabilize. Both accounts predict the same design implication: the optimal gap scales with the retention interval — longer delays to the final test call for longer spacing gaps.

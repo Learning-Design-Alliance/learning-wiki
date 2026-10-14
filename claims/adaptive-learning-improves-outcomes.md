@@ -59,6 +59,25 @@ Kulik, J. A., & Fletcher, J. D. (2016). Effectiveness of intelligent tutoring sy
 
 A meta-analysis of 50 controlled evaluations of intelligent computer tutoring systems against conventional instruction. The median effect raised test scores 0.66 standard deviations, from the 50th to the 75th percentile. The size of the gain depended strongly on whether outcomes were measured with locally developed or standardized tests, which the authors suggest makes test-instruction alignment a critical determinant of the effect; ten further evaluations with nonconventional control groups or flawed implementations showed small effects. Read from the abstract only.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **10 distinct studies** (5 causal, 3 review, 2 quant-synthesis), `q2`–`q4`, 5 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ma et al. 2014](https://doi.org/10.1037/a0037123) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.42 vs teacher-led large-group instruction | this claim |
+| [Kulik & Fletcher 2016](https://doi.org/10.3102/0034654315581420) | q4 · quant-synthesis · r? | i2 · medium effect, median 0.66 SD | this claim |
+| [Feng Z and Huang K 2026](https://doi.org/10.3389/fpsyg.2026.1879982) | q3 · causal · r2 | i3; i2 | [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved](personalized-paths-experiment-outcomes.md) (supports); [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimens](personalized-paths-lower-cognitive-load.md) (supports) |
+| Tithi 2026 | q3 · causal · r2 | i? | [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance ove](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) (supports) |
+| Digital Promise 2015 | q3 · causal · r? | i? | [A multi-site randomized controlled trial found Woot Math's adaptivity contributed signific](woot-math-rct-adaptivity-significant-effects.md) (supports) |
+| [Ikram M 2026](https://doi.org/10.3389/feduc.2026.1782626) | q2 · review · r2 | i2 | [Meta-analytic evidence reviewed reports medium-to-large positive effects of AI-enabled ada](ai-adaptive-learning-medium-large-effects-reviewed.md) (supports) |
+| [Simon Baradziej 2026](https://doi.org/10.1016/j.ssaho.2026.103418) | q2 · review · r3 | i? | [Adaptive learning systems report academic performance gains of 15–25% and engagement incre](adaptive-learning-gains-15-25-percent.md) (supports) |
+| [Mahamad 2025](https://doi.org/10.3390/fi17090383) | q2 · review · r2 | i? | [A reinforcement-learning adaptive learning system improved course grades by 12%, engagemen](rl-adaptive-system-grade-engagement-gains.md) (supports) |
+| [Bin Bakheet 2026](https://doi.org/10.1186/s40594-026-00630-1) | q2 · causal · r1 | i? | [An adaptive AI-based STEM instructional program produced statistically significant differe](adaptive-ai-stem-deep-learning-gains-sixth-grade.md) (supports) |
+| [Sibley 2026](https://doi.org/10.1016/j.caeo.2026.100420) | q3 · causal · r3 | i?; i2 | [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest pe](task-difficulty-adaptation-no-learning-benefit-second-grade.md) (counts against); [Students in the non-adaptive condition reached significantly higher average mastery probab](non-adaptive-condition-higher-mastery-probabilities.md) (counts against); [Adaptive versus non-adaptive ITS condition showed no significant differences in mental eff](adaptive-its-no-difference-cognitive-load-enjoyment.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Adaptive systems plausibly improve outcomes through two routes: keeping learners in their zone of proximal development (tasks neither too easy nor too hard, consistent with [cognitive load management](../principles/cognitive-load-management.md)), and ensuring mastery of prerequisites before advancing (as in [adaptive mastery learning](../elements/adaptive-mastery-learning.md)). Both routes predict the largest gains for learners who would otherwise be mismatched to a fixed sequence — struggling learners overwhelmed by uniform pacing, or advanced learners bored by it.
@@ -70,6 +89,8 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 <!-- deprecated (2026-10-05, stale: entries had been added): **Open questions.** The evidence base for this claim has not yet been populated. Key moderators to establish include: which adaptation target (difficulty, pacing, feedback, content sequence) drives effects; whether gains persist beyond the adaptive period; and how outcomes compare across intelligent tutoring systems, mastery-based platforms, and simpler adaptive quizzing. Studies must be added before any strength rating can be assigned. -->
 
 ## Related Claims
+
+- [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) — the general claim this finding bears on, with the studies behind it
 
 - [Mastery learning improves achievement.](../elements/adaptive-mastery-learning.md) — mastery-based adaptation is the classic mechanism by which adaptive sequencing helps
 - [Cognitive load theory](../principles/cognitive-load-theory.md) — adaptation aims to keep load within learners' working-memory limits

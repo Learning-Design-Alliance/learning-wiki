@@ -37,6 +37,17 @@ RQ3 interview findings from ten CS2-completing participants. The article reports
 
 > "When personalization "landed," participants described a qualitative shift in how memorable or intuitive a concept became, consistent with Hallal et al.'s [26] finding that AI-generated analogies increase perceived engagement."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How do learners receive an explanatory analogy from a familiar source domain?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **2 distinct studies** (2 qualitative), `q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| engagement | q2 · qualitative · r3 | i? | this claim |
+| structural-audit | q2 · qualitative · r3 | i? | [Undergraduate computing students evaluate GenAI analogies by structural correspondence bet](students-audit-genai-analogy-structural-correspondence.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -41,8 +41,9 @@ Delphi survey ratings of 15 themes by 70 international experts. The article repo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — the general claim this finding bears on, with the studies behind it
 - [Evolved teacher roles with AI agents rank high in impact but are rated among the most challenging themes, with a negative priority indicator](evolved-teacher-roles-high-impact-high-challenge.md) — related
 - [Experts rate AI-related competences for learners and educators as the highest-impact and most important AI-in-education trend](ai-competences-highest-rated-delphi-trend.md) — related
 - [Explainability/trustworthiness and accessibility/equal access of AI agents rank prominently in impact and importance but carry high challenge ratings](responsible-equitable-ai-themes-prominent-high-challenge.md) — related

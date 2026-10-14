@@ -125,6 +125,8 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 
 ## Related Claims
 
+- [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](cooperative-conceptual-change-chemistry-misconceptions.md) — the general claim this finding bears on, with the studies behind it
+
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — structured discussion is a form of active learning; this claim situates discussion within that broader evidence base.
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — structured discussion is a specific, talk-focused instance of collaborative learning.
 - [Argumentation improves reasoning](argumentation-improves-reasoning.md) — many structured discussion methods (e.g., academic controversy) center on argumentation moves.

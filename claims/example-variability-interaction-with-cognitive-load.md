@@ -41,6 +41,7 @@ The review reports, citing Paas and Van Merrienboer, a four-group experiment (lo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — the general claim this finding bears on, with the studies behind it
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related

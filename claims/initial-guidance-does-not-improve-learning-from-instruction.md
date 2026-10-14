@@ -60,6 +60,7 @@ An independent replication with three conditions (unguided problem solving, guid
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures](multiple-examples-per-problem-type.md) — related

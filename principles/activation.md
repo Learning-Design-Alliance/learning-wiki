@@ -18,13 +18,30 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (3 for, 5 mixed, 1 against) · 20 studies (8 causal, 6 quant-synthesis, 5 review, 1 associational), `q2`–`q4` · 7 of 20 report an effect size · 2 claims rest on one study
+> **Evidence** · 17 claims (7 for, 8 mixed, 2 against) · 22 studies (9 causal, 6 quant-synthesis, 6 review, 1 associational), `q2`–`q4` · 7 of 22 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
 For a learner meeting new material that connects to something they already know, a short activity that makes the relevant prior knowledge visible before instruction (a prediction, an explanation of a familiar case, a pre-question, an organizer that relates the new content to the known) may improve comprehension or later retention of that material, compared with starting the instruction directly. The relationship is conditional on at least four things: that the learner has relevant and accurate knowledge to activate (`expertise` matters, but the useful observation is the task-specific starting response, not the label); that the activity surfaces knowledge that the following instruction actually uses; what kind of knowledge is activated (topic knowledge, metacognitive knowledge, a misconception); and the outcome and horizon (`immediate-performance`, `conceptual-understanding`, `delayed-retention`). Where the activated knowledge is inaccurate, the expected benefit depends on the instruction confronting it, not on the activation itself.
 
 No claim in this wiki tests the relationship as a whole against a no-activation comparison across these conditions. The recorded evidence is split: synthesis evidence on advance organizers and experiments on pre-questions point one way, and two experiments of topic-knowledge activation found little or no effect. The [Merrill activation pattern](../patterns/merrills-first-principles-activation.md) is the matching pattern page (not yet in this format); [prior knowledge activation](../elements/prior-knowledge-activation.md) and [advance organizers](../elements/advance-organizers.md) are the elements that carry it.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **do learners hold relevant and accurate knowledge of the topic, or likely misconceptions?**, **will the instruction that follows use what is activated?**, and **is the outcome recall of specific content or broader understanding, and at what delay?**
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Learners know little about the topic | Do not open with a free brainstorm of what they know; ask a few questions on the coming content instead | [Prior-knowledge activation had little effect on retention](../claims/prior-knowledge-activation-little-effect-on-retention.md) [-M]; [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+M] |
+| The material is expository text or video to be studied | Put a few pre-questions before the reading or between video segments, and expect the gain mainly on the questioned content | [Pretesting enhances memory for tested text](../claims/pretesting-enhances-memory-tested-text.md) [+M]; [Pretesting enhances memory for tested video](../claims/pretesting-enhances-memory-tested-video.md) [+M] |
+| The outcome covers content the pre-questions did not ask about | Do not count on pre-questions for it; benefits for untested content were inconsistent across experiments | [Effects on untested materials are inconsistent](../claims/pretesting-untested-materials-inconsistent.md) [~M] |
+| A multi-week course with a high-stakes exam | Give short ungraded pretests at the start of units on the content the exam will cover | [Classroom pretesting improves exam performance](../claims/classroom-pretesting-exam-gains.md) [+M] |
+| A voluntary online course (MOOC) where persistence matters | Keep any pretest short and optional, and tell learners it is not graded; pretests reduced persistence in one MOOC | [Pretesting can harm motivation](../claims/pretesting-can-harm-motivation.md) [-M] |
+| The content is vocabulary or paired items | Give the correct answer immediately after each pre-question; delayed feedback removed the benefit for paired items | [Feedback timing moderates pretesting](../claims/feedback-timing-moderates-pretesting.md) [~M] |
+| Learners are likely to hold misconceptions | Surface the belief, then confront it directly (state the misbelief, then the fact and why) rather than presenting the correct account alone | [Misconceptions interfere with new learning](../claims/misconceptions-interfere-with-new-learning.md) [~M]; [Refutational text enhances recall](../claims/refutational-text-order-enhances-retention.md) [+M] |
+| The designer can write an organizer relating the new content to what learners know | Use one, and expect a small effect, larger for higher-ability learners | [Advance organizers improve learning](../claims/advance-organizers-improve-learning.md) [+M] |
+| Primary-school pupils will read a text for comprehension | Activate what they know about how to read (strategies, monitoring) rather than what they know about the topic | [Activation improves learning](../claims/activation-improves-learning.md) [~M] |
+| Learners resist answering questions on material they have not studied | Tell them why it helps; learners rank pretesting as the least effective strategy even when it helps them | [Learners underrate pretesting](../claims/metacognitive-illusion-pretesting-underrated.md) [~M] |
 
 ## Observation, state and explanation
 
@@ -50,6 +67,16 @@ These observations can shift confidence between explanations; none identifies a 
 - [Prior knowledge determines new learning](../claims/prior-knowledge-determines-new-learning.md) [~M]: a meta-analysis of 8,776 effect sizes finds prior knowledge strongly correlated with later knowledge (r = .534) but almost unrelated to normalized learning gains (r = −.059), with a prediction interval from −.688 to .621. It is correlational and does not test activation; it qualifies the assumption that prior knowledge reliably helps new learning, which the activation rationale rests on. Not yet checked against its sources.
 
 Keep each study's learners, prompt, duration, comparator, outcome and delay when transporting these results. The six claims differ in design, comparator and outcome; do not rank them by effect label.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/activation.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does an activity that surfaces prior knowledge before instruction improve learning compared with starting directly? [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [~S]: 5 distinct studies.
+- Do designer-made organizers that relate new content to the known help, and for whom? [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](../claims/advance-organizers-improve-learning.md) [+S]: 8 distinct studies.
+- Does asking questions on the material before it is taught improve later learning of it? [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S]: 4 distinct studies.
+- What should follow when the knowledge activated is a misconception? [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [~S]: 4 distinct studies.
+- Does knowing more beforehand mean learning more from the instruction? [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [~M]: 3 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite and not used as core evidence above. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

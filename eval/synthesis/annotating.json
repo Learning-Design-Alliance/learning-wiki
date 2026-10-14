@@ -1,0 +1,66 @@
+{
+  "principle": "principles/annotating",
+  "note": "Batch g8 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. Highlighting/underlining evidence and elaborative-annotation evidence are kept under separate questions on purpose: the page distinguishes marking from elaborative notes, and the wiki has no claim testing learner-written margin notes. The note-taking question (laptop vs longhand) is lecture note-taking, not text annotation; drop it if judged off-topic. Review before applying.",
+  "findings": [
+    {
+      "hub": "annotating-improves-learning",
+      "question": "Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?",
+      "members": [
+        [
+          "highlighting-low-utility",
+          "-"
+        ],
+        [
+          "five-techniques-low-utility",
+          "-"
+        ],
+        [
+          "ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "relevancy-of-emphasis-directs-attention",
+      "question": "Does it matter what is marked, and who marks it (learner or instructor)?",
+      "members": [
+        [
+          "experimenter-underlining-effective-as-student-underlining",
+          "~"
+        ],
+        [
+          "signaling-principle-mayer-2008",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "self-questioning-improves-comprehension",
+      "question": "Do annotations that make the reader generate questions, explanations or summaries improve comprehension?",
+      "members": [
+        [
+          "self-explanation-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "scaffolded-close-reading-improves-comprehension-for-struggling-readers",
+          "+"
+        ],
+        [
+          "summarization-improves-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "laptop-notes-verbatim-shallower",
+      "question": "Does the medium of the notes (handwritten or typed) change what is learned?",
+      "members": [
+        [
+          "handwritten-notes-higher-achievement-than-typing",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

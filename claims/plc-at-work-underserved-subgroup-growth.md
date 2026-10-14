@@ -41,8 +41,9 @@ Subgroup analysis within the Arkansas quasi-experimental study, in which 85% of 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](stem-plc-math-student-learning-existence-proof.md) — the general claim this finding bears on, with the studies behind it
 - [Students eligible for free or reduced-price lunch showed larger gains (+0.39) from Greenfield-trained teachers on the CAASPP ELA assessment](greenfield-literacy-frl-larger-gains.md) — related
 - [Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch](field-trip-effects-largest-hispanic-frpl-students.md) — related
 - [Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students](learning-conditions-predict-grades-across-demographics.md) — related

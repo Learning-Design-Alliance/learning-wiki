@@ -39,6 +39,16 @@ Feature-difference analysis across the 59 studies, examining the 14 course featu
 
 > "We identified seven of the 59 (11.9%) studies where only one feature differed between/among the conditions and an additional five (8.5%) studies where two of the three conditions being compared had only one difference."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Is the gain due to the activities or to what else changed with the course format?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **1 distinct studies** (1 review), `q2`, 0 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Martella 2021 | q2 · review · r2 | i? | this claim; [Active learning conditions more often include quizzes, homework, and learning/exam prepara](active-learning-conditions-more-other-pedagogical-features.md) (supports); [Time-on-task is frequently unequal across compared conditions, with active learning condit](time-on-task-unequal-in-active-learning-comparisons.md) (supports); [Group tasks are the most frequent active learning activity in college science active learn](group-tasks-most-frequent-active-learning-activity.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

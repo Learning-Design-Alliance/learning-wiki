@@ -61,6 +61,8 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 
 ## Related Claims
 
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
+
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — managing the load imposed by unfamiliar word forms supports combined contextual-instructional approaches
 - [Activation improves learning.](../claims/activation-improves-learning.md) — activating prior knowledge primes learners to extract word meaning from context
 - [Annotating improves learning.](../claims/annotating-improves-learning.md) — annotation is one way to bind explicit glosses to contextual encounters

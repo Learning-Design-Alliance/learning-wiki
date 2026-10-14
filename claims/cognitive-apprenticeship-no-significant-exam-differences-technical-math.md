@@ -41,8 +41,9 @@ Quasi-experiment in community college technical mathematics: two teachers each t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](ca-methods-more-effective-than-traditional-writing-college.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [Teacher-by-method interaction was significant on the standardized MPE posttest, with control-group performance dependent on the teacher](teacher-method-interaction-significant-mpe-posttest.md) — related
 - [Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method](attrition-non-significant-technical-math-quasi-experiment.md) — related

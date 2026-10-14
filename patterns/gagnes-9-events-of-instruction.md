@@ -16,7 +16,7 @@ grain_size: lesson
 # Gagné's 9 Events of Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (1 for, 8 mixed) · 16 studies (5 causal, 3 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 13 claims (4 for, 8 mixed, 1 against) · 25 studies (10 causal, 6 quant-synthesis, 4 review, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 25 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -72,6 +72,22 @@ These rows are proposals for local observation, untested with learners. A probe 
 - **For a complex skill, prefer whole tasks to a part-by-part pass.** A design argument, not an experiment, holds that load-reducing methods suited to practising complex tasks to retention (low variability, complete guidance and feedback) can hinder transfer, and proposes high variability and limited guidance with simpler whole tasks early for novices ([whole-task practice](../claims/whole-task-performance-improves-transfer.md) [~M]). It qualifies a single linear pass through the nine events for a `complex-skill` target with a transfer goal; it is not evidence of an effect.
 
 Unguided discovery against explicit instruction, which bears on events 4–5 for novices, is read on the [Direct Instruction principle](../principles/direct-instruction.md) and not repeated here. None of these entries tests the nine events as a sequence, their order, or event 1 or 9 as such. A precise abstention names the missing comparison, target or observation and the next way to resolve it.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **what the learners can do on the target before the lesson**, **the outcome and the horizon at which it is checked**, and **the lesson's length and delivery**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Time is short and events must be cut | Keep practice with feedback (event 6–7) above all; it was the one event whose removal lowered the posttest | [Practice raises computer-based lesson posttest scores](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M] |
+| Objectives, examples or a closing review would be cut | One of them may be trimmed if time forces it; removing any one alone did not significantly lower an immediate posttest, but that is not evidence they do nothing | [Removing single events did not reduce achievement](../claims/single-event-removal-no-achievement-effect.md) [~M] |
+| The lesson will be judged on learner satisfaction ratings | Also check performance on an unaided task; ratings did not track which events learners received | [The no-objectives group rated goal clarity highest](../claims/no-objectives-group-most-positive-attitudes.md) [~M]; [Students notice missing practice and examples](../claims/students-notice-missing-practice-and-examples.md) [~M] |
+| Learners cannot begin the target task | Run events 4 and 5 (presentation and guidance) in full | [Minimal guidance is less effective for novices](../claims/minimal-guidance-less-effective-for-novices.md) [+S] |
+| Some learners already perform the target unaided | Shorten events 4 and 5 for them and move to performance, feedback and transfer | [Expertise reversal effect](../claims/expertise-reversal-effect.md) [~S] |
+| Learners have little relevant prior knowledge for event 3 | Replace open "what do you know" recall with a few questions on the coming content; open activation showed little effect | [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+M]; [Prior-knowledge activation had little effect on retention](../claims/prior-knowledge-activation-little-effect-on-retention.md) [-M] |
+| The target must be recalled weeks later | Make event 9 retrieval practice in later sessions rather than a review at the end of this lesson | [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S] |
+| The target is a complex skill with a transfer goal | Replace a single linear pass through the events with whole tasks of increasing complexity (see 4C/ID) | [Whole-task practice improves transfer (design argument)](../claims/whole-task-performance-improves-transfer.md) [~W] |
+| `online-self-paced`, with learners directing their own work | State the objective briefly in performance terms and let learners check their own attempt against it | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

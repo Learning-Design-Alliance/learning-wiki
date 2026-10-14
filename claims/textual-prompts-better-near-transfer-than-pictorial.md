@@ -39,6 +39,16 @@ In the 2x2 factorial experiment with 51 high school students without prior circu
 
 > "This difference on the near transfer posttest scores was statistically significant F(1,47) = 6.50, MSE  = 9.69, p = .01. Cohen's f statistic for these data yields an effect size estimate of .37 for the near -transfer posttest problems, which approaches a large effect."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*In what form, and under whose control, should prompts be given?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **1 distinct studies** (1 causal), `q2`, 1 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Reisslein 2004 | q2 · causal · r2 | i2; i? | this claim; [Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts pr](prompt-format-first-second-attempt-accuracy.md) (qualifies); [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](textual-prompts-stronger-continuing-motivation.md) (supports); [Self-regulated vs. externally regulated prompt presentation shows no significant effect on](prompt-presentation-no-performance-effect.md) (qualifies); [Learners report more positive attitudes toward externally regulated prompts than self-regu](external-prompt-regulation-more-positive-attitudes.md) (qualifies); [In one 51-learner experiment on help formats in computer-based electrical engineering inst](far-transfer-floor-effect-and-equal-time.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

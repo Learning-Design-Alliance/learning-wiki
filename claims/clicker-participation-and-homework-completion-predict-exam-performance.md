@@ -41,8 +41,9 @@ Observational analysis of 346 consenting students in two sections of an introduc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — the general claim this finding bears on, with the studies behind it
 - [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](any-clicker-pattern-beats-absence-except-lowest-quartile.md) — a narrower finding that bears on this claim
 - [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](homework-explanation-quality-predicts-exam-performance.md) — related
 - [Being present for a clicker question predicts a higher likelihood of providing a homework explanation demonstrating understanding, except in the lowest quartile](clicker-presence-predicts-homework-explanation-quality.md) — related

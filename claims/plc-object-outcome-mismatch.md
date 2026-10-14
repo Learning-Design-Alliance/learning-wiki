@@ -39,6 +39,20 @@ Synthesis of reported outcomes across the 32 studies. The review found "only thr
 
 > "There were only three studies in which there was a complete correspondence between object and outcome (Borko et al., 2008; Campbell & Stohl Lee, 2017; Horn & Kane, 2015)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What goes wrong: outcomes that differ from aims, excluded members, and communities that cannot form?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (2 theoretical, 2 qualitative, 1 review), `q1`–`q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Harvey 2022 | q2 · review · r3 | i? | this claim |
+| [Chen 2016](https://doi.org/10.7575/aiac.alls.v.7n.3p.168) | q1 · theoretical · r2 | i? | [Within the CoP model, learners who do not progress toward the centre through nonparticipat](cop-nonparticipation-invalidates-learner-identities.md) (qualifies) |
+| Riveros 2012 | q1 · theoretical · r3 | i? | [Current PLC formulations trivialize teacher practice, which the authors argue severely lim](plc-literature-trivializes-teacher-practice.md) (qualifies); [Teacher resistance as an exercise of teacher agency is a fundamental challenge to current ](teacher-resistance-agency-challenges-plc.md) (qualifies) |
+| A Focused Look at Rural Schools Receiving School Improvement Grants 2014 | q2 · qualitative · r2 | i? | [Small rural teaching staffs forced PLCs across grades and subjects, and teachers in four s](small-rural-staffs-cross-subject-plcs-isolation.md) (qualifies) |
+| Rural Turnaround: Challenges and Opportunities 2014 | q2 · qualitative · r1 | i? | [Geographic distance and insufficient internet bandwidth can derail rural schools' plans fo](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

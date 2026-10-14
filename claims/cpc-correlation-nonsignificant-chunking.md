@@ -41,7 +41,8 @@ Correlational analysis across both studies comparing CPC scores with immediate a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — the general claim this finding bears on, with the studies behind it
 - [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md) — reports the opposite
 - [Learning style (visual-verbal) shows no significant correlation with the effectiveness of pictorial elucidation for adolescent EFL learners](learning-style-no-correlation-pictorial-elucidation-effect.md) — related

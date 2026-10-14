@@ -47,6 +47,8 @@ Four 12–13-year-old students at a museum architecture workshop completed two m
 This is a single-group case study (one focal group deeply analyzed out of four observed, all of which reportedly showed similar tensions during the ill-defined task per field notes, though not analyzed in comparable depth). The within-group, cross-task design strengthens the contrast (same participants, same setting, only the task and materials differ) but the sample remains small and specific to a museum architecture-workshop context; generalization to other creative domains or age groups is untested. The authors themselves note the design principles are offered tentatively given the limited data.
 
 ## Related Claims
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
 - [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related

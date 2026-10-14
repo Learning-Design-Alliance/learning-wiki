@@ -41,8 +41,9 @@ The authors' interpretation of Experiment 1 led to a hypothesis that "specificse
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](fading-worked-steps-facilitates-example-to-problem-transition.md) — the general claim this finding bears on, with the studies behind it
 - [No effect of fading on productive learning events including self-explanations was found in Experiment 2's think-aloud analysis](fading-no-effect-productive-learning-events.md) — related
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related

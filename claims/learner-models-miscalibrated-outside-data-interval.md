@@ -58,6 +58,22 @@ Section 8 calibration analysis with reliability diagrams binned by predicted and
 
 > "In general, models are calibrated only in the interval containing most of the data."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can the system's diagnosis of the learner be trusted?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (4 design, 2 causal, 1 review), `q2`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Theophile Gervet 2020 | q2 · design · r2 | i? | this claim |
+| Kirk Vanacore 2026 | q2 · review · r2 | i? | [Emerging evidence indicates generative AI tutors currently struggle to accurately infer st](genai-tutors-struggle-infer-student-knowledge.md) (supports) |
+| Jaewook Kim 2026 | q2 · causal · r2 | i? | [Failing to sort student attempt sequences by ServerTimestamp violates temporal causality a](pkt-temporal-causality-violation-inflates-performance.md) (supports) |
+| Lu 2024 | q3 · design · r2 | i2 | [The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an ](transformer-kt-first-place-edm-cup-2023.md) (qualifies) |
+| Liangbei Xu and Mark A. Davenport 2020 | q2 · causal · r2 | i? | [Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVM](dynemb-tracks-knowledge-without-skill-tags.md) (qualifies) |
+| Hooshyar 2026 | q2 · design · r2 | i? | [Symbolic knowledge injection improves temporal reliability of predictions, yielding lower ](responsible-dkt-temporal-reliability.md) (qualifies) |
+| Peilin Zhan 2026 | q2 · design · r2 | i? | [TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains pla](tsdr-improves-calibration-acc-rmse.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

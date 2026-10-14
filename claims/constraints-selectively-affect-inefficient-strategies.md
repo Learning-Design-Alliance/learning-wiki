@@ -41,8 +41,9 @@ Simulation comparison across constraint conditions (Figure 3) showing an asymmet
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — the general claim this finding bears on, with the studies behind it
 - [A closer-to-mastery task-selection constraint sharply reduces overpractice for the risk-averse strategy, with large Cohen's d effect sizes](closer-to-mastery-constraint-reduces-overpractice.md) — a narrower finding that bears on this claim
 - [The risk-averse Minimize Worst Case Loss task-selection strategy produces far higher overpractice than other strategies in simulated mastery learning](risk-averse-task-selection-high-overpractice.md) — a narrower finding that bears on this claim
 - [A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset](prefer-harder-constraint-reduces-overpractice.md) — a narrower finding that bears on this claim

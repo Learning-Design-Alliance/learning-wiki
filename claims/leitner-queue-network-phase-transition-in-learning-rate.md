@@ -58,6 +58,16 @@ Mechanical Turk vocabulary-learning experiment (Japanese words or American Sign 
 
 > "The simulated and empirical curves are in close agreement; in particular, the MTurk data shows the phase transition in learning rate predicted by our theoretical model."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*In a flashcard or review system, how many new items should enter and how should reviews be shared out?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **1 distinct studies** (1 theoretical), `q1`–`q2`, 0 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Reddy 2016](https://doi.org/10.1145/2939672.2939850) | q1 / q2 · theoretical · r3 | i? | this claim; [In a Mechanical Turk flashcard experiment, raising the new-item arrival rate first increas](excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck.md) (supports); [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spe](optimal-leitner-schedule-reviews-lower-decks-more-often.md) (qualifies); [Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases ](optimal-leitner-schedule-expands-intervals-between-reviews.md) (qualifies); [Under the mean-recall approximation, the maximum achievable learning rate is convex in the](leitner-learning-rate-shows-increasing-returns-to-review-budget.md) (qualifies); [Under the Leitner Queue Network optimization, easy items call for roughly uniform time acr](optimal-leitner-deck-allocation-depends-on-item-difficulty.md) (qualifies); [In Mnemosyne log data, setting memory strength equal to an item's Leitner deck position pr](leitner-deck-position-predicts-recall-better-than-review-count.md) (qualifies); [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty ](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

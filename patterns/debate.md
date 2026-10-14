@@ -24,7 +24,7 @@ sources:
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (1 for, 10 mixed, 1 against) · 21 studies (6 causal, 5 quant-synthesis, 4 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 21 report an effect size · 6 claims rest on one study
+> **Evidence** · 15 claims (3 for, 11 mixed, 1 against) · 24 studies (7 review, 6 causal, 5 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 24 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
@@ -72,6 +72,24 @@ The default sequence is the earlier page's, kept because no claim here tests a d
 - **Format rules in competitive debate.** [The parliamentary-rules critique](../claims/parliamentary-rules-ban-evidence-and-omit-cross-examination.md) [-W] and [unconstrained topic writing](../claims/unconstrained-topic-writing-yields-frivolous-resolutions.md) [~W] are one author's analysis of competitive parliamentary debate (1996), coded `q1`, `theoretical`. They warn that rules can remove evidence use and questioning and that topics can stop being arguable; they measure nothing, and they concern tournaments, not classes.
 
 Do not rank debate against Socratic seminar, Structured Academic Controversy or discussion from these claims: none compares them. Do not read a round's result, a judge's ballot or a learner's enthusiasm as a learning gain, and do not predict delayed or far-transfer outcomes from immediate round scores. A precise abstention names the missing comparison (debate against another argument format, on an individual outcome) and says what local observation would stand in for it.
+
+## Fitting the design to a situation
+
+No claim in the wiki tests classroom debate itself, so most rows carry evidence about argumentation and discussion in general. Ask for three facts when the brief omits them: **which capability is the target** (individual written argument, responding to counter-evidence, perspective-taking, speaking), **the learners' age and experience of arguing**, and **how much preparation time and evidence the format allows**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The target is learners' individual written argument | After the round, have each learner write an argument on a new question; dialogic peer argumentation transferred to individual essays on new topics | [Argumentation improves reasoning](../claims/argumentation-improves-reasoning.md) [~M] |
+| Learners are young adolescents and argument skill is a goal for the year | Run repeated peer argument exchanges across months, not a single round; the transfer recorded came from a multiyear programme | [Argumentation improves reasoning](../claims/argumentation-improves-reasoning.md) [~M] |
+| Learners are new to arguing | Give prompts that make them paraphrase the other side, criticise it, ask questions and synthesise, before and during the round | [Argument prompts and scaffolds produce knowledge gains](../claims/argumentation-prompts-scaffolds-knowledge-gains.md) [+W] |
+| The format bans published evidence or has no questioning period | Allow cited evidence and add a cross-examination or question period, so research and evidence use stay part of the task | [Parliamentary rules ban evidence and omit cross-examination](../claims/parliamentary-rules-ban-evidence-and-omit-cross-examination.md) [-W] |
+| Learners or the instructor write the resolutions freely | Check each resolution supports competing, evidence-bearing claims; drop joke or one-sided topics | [Unconstrained topic writing yields frivolous resolutions](../claims/unconstrained-topic-writing-yields-frivolous-resolutions.md) [~W] |
+| Participation or speaking time is how the activity will be assessed | Score reasoning and use of evidence, and collect an individual written position; more talk alone did not raise comprehension | [Some discussion approaches improve comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [~M] |
+| The goal is perspective-taking or less one-sided judgement | In the debrief, ask each learner what makes the opposing case strongest, or reverse sides for a second round | [Considering the opposite reduces bias](../claims/considering-the-opposite-reduces-bias.md) [~W] |
+| The goal is motivation or content learning, not debating skill | Keep the collaborative argument but drop the win/lose judging, as in Structured Academic Controversy | [Collaborative argumentation benefits](../claims/collaborative-argumentation-benefits-summary.md) [+W] |
+| The class is online or asynchronous | Run the argument in a threaded forum or shared document with turn deadlines and scaffolding prompts | [Argumentation improves reasoning](../claims/argumentation-improves-reasoning.md) [~M] |
+| Class time is short and the curriculum is full | Plan the preparation and debrief time up front, or run a shorter round on a topic already in the syllabus; time and curriculum fit are the commonest reported barriers | [Argumentation implementation challenges](../claims/argumentation-implementation-challenges.md) [~W] |
+| The topic is personally charged for some learners | Switch to a synthesis format, or reframe the question so it does not ask anyone to argue against their own group | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

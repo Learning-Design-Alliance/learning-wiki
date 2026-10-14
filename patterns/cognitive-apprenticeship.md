@@ -28,7 +28,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (7 for, 4 mixed, 1 against) · 16 studies (6 causal, 3 quant-synthesis, 2 review, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 1 of 16 report an effect size · 8 claims rest on one study
+> **Evidence** · 15 claims (9 for, 4 mixed, 2 against) · 17 studies (7 causal, 3 quant-synthesis, 3 review, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 1 of 17 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -73,6 +73,31 @@ A request to "use cognitive apprenticeship" does not specify these. Ask for them
 - **When to shorten the arc.** [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]. Full guidance helps `novice` learners more than knowledgeable ones and can become redundant for them, so a learner who already performs unaided should not be sent through every phase. Reviews only, not settled against their sources. They give no individual cut-off.
 
 Do not rank these against one another or average them: their learners, tasks, comparators and outcomes differ. Nothing here supports a fixed duration for each phase (the old "weeks, not a single lesson" is a design judgement, not a finding).
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/cognitive-apprenticeship.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does the whole cognitive-apprenticeship approach beat traditional instruction? [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](../claims/ca-methods-more-effective-than-traditional-writing-college.md) [+M]: 4 distinct studies.
+- Does modelling strategies and handing the lead to learners improve reading comprehension, and on which measures? [Reciprocal Teaching Improves Reading Comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M]: 2 distinct studies.
+- Should modelling come before the learner's first attempts? [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]: 7 distinct studies.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **the learner's unassisted attempt and reasoning on a representative task**, **who coaches, and how many learners each coach serves**, and **which outcome measure and horizon will judge the design**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Learners are new to this task | Put modelling first: a worked or narrated example, then the learner's attempt, rather than starting with a problem | [Example-problem sequences reduce cognitive load](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]; [Example-based sequences outperform problem-only practice](../claims/worked-examples-with-practice-improve-transfer.md) [+M] |
+| The target is reading comprehension | Use reciprocal teaching: model summarising, questioning, clarifying and predicting, then hand the discussion lead to learners | [Reciprocal teaching improves reading comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M]; [Reciprocal teaching raises comprehension of poor readers](../claims/reciprocal-teaching-raises-reading-comprehension-poor-readers.md) [+W] |
+| Success will be judged on a standardised test | Expect a smaller gain than researcher-made tests show (median .32 against .88 for reciprocal teaching) and set expectations accordingly | [Reciprocal teaching improves reading comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [~M] |
+| One-to-one or small-group coaching is possible | Coach contingently: least help first, more after a failure, less after a success | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [+M] |
+| One instructor coaches a whole online cohort | Set limits on coaching time, and use recorded models or peer coaching for part of it; coaching without a time limit became a large, open-ended load for the instructor | [Web-based cognitive apprenticeship required large instructor time](../claims/web-based-ca-instructor-time-burden.md) [~W] |
+| Support moves from worked examples to independent problems | Fade from complete to incomplete examples to independent problems across the cases, not in one step | [Fading support promotes transfer of responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] |
+| A learner already performs the task unaided | Shorten or skip modelling and coaching for that learner and move to articulation and exploration | [Worked-example guidance becomes less effective with expertise](../claims/worked-examples-less-effective-with-expertise.md) [~M] |
+| The course replaces traditional instruction in technical mathematics and is judged on exams | Do not promise exam gains; one community-college quasi-experiment found none, and higher mathematics anxiety alongside more confidence. Track anxiety as an outcome | [No significant exam differences in technical mathematics](../claims/cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) [-M]; [Anxiety rose while confidence grew](../claims/cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) [~M] |
+| Learners are learning to program or debug | Order tasks from completing a program to fixing a faulty one to building one; reasoning shifted toward diagnosis as tasks moved on | [Scaffolded task progression shifts novices toward diagnosis](../claims/scaffolded-task-progression-diagnostic-shift.md) [+W] |
+| The brief fixes a length for each phase (weeks of modelling, then coaching) | Move learners between phases on their unaided performance instead; no phase length is established | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

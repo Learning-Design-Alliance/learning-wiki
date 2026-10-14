@@ -80,6 +80,25 @@ Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment i
 
 A narrative review of the classroom formative assessment literature, the source this claim traces to. It concludes that several studies give firm evidence that strengthening frequent feedback to students yields substantial learning gains, and it discusses students' role in self-assessment, teachers' formative strategies, and mastery learning, before developing a theoretical account of feedback. No pooled estimate was computed, which is part of why later meta-analyses contest the size of the effect.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does using assessment evidence during instruction raise achievement compared with the usual teaching?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **10 distinct studies** (3 quant-synthesis, 2 review, 2 design, 2 causal, 1 theoretical), `q1`–`q3`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Lee et al. 2020](https://doi.org/10.1080/08957347.2020.1732383) | q3 · quant-synthesis · r? | i1 · small effect, d=.29 | this claim |
+| [Kingston and Nash 2011](https://doi.org/10.1111/j.1745-3992.2011.00220.x) | q3 · quant-synthesis · r2 | i1 · small effect, weighted mean ES=.20 | this claim |
+| [Black and Wiliam 1998](https://doi.org/10.1080/0969595980050102) | q2 · review · r? | i? | this claim |
+| Burnstein 2007 | q1 · design · r1 | i? | [The review reports that formative assessment produces significant and often substantial le](formative-assessment-produces-substantial-learning-gains-cited.md) (supports) |
+| Jones 2024 | q2 · theoretical · r2 | i? | [Teacher feedback as part of formative assessment has been shown by multiple studies to mov](teacher-feedback-moves-learning-forward.md) (supports) |
+| Center on School Turnaround at WestEd 2018 | q2 · design · r1 | i? | [Hattie's synthesis identifies lesson study, formative evaluation of teaching, discussion o](hattie-high-effect-size-instructional-factors.md) (supports) |
+| Darling-Hammond 2020 | q2 · review · r2 | i? | [Grade retention and tracking students into remedial instruction undermine achievement, whi](retention-and-downtracking-undermine-achievement.md) (supports) |
+| [Mustafa Metin 2022](https://doi.org/10.17509/jsl.v5i1.33190) | q2 · causal · r1 | i? | [Formative assessment embedded with explicit-reflective instruction yields higher post-test](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) (supports); [The formative-assessment-embedded group retained higher NOS and SK scores than the control](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) (supports) |
+| [Rebecka Rundquist 2024](https://doi.org/10.18608/jla.2024.8299) | q2 · quant-synthesis · r2 | i? | [Formative-assessment-based LA shows positive effects on achievement, motivation, and under](formative-assessment-la-positive-effects.md) (supports) |
+| [Yao X-C and Fan L 2026](https://doi.org/10.3389/fpsyg.2026.1905455) | q2 · causal · r2 | i3; i? | [The Diagnostic Review class gained more writing points across three cycles than the Contro](diagnostic-review-larger-writing-gains.md) (supports); [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehen](diagnostic-review-higher-process-indicators.md) (supports); [Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revis](group-cycle-interactions-formative-outcomes.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ### Comparability of the pooled effects

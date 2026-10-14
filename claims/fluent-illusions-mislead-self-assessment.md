@@ -113,6 +113,10 @@ Participants studied words printed in different font sizes for a free-recall tes
 
 ## Related Claims
 
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
+
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — perceived difficulty and actual load can diverge, complicating learner self-report.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — well-chunked material raises fluency, which can inflate confidence independently of learning.
 - [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md) — clean presentation aids learning but also boosts the fluency cues that fuel illusions of knowing.

@@ -60,8 +60,9 @@ Follow-up univariate tests after MANOVA on eight-session means: experimental RT 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The CLT-based design produced higher effective learning scores at retention and transfer, while achievement effective learning scores were nearly equal between groups](clt-design-effective-learning-retention-transfer.md) — possibly the same claim (merge candidate)
 - [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](no-group-difference-tat-posttest-cls.md) — related
 - [As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease](retention-transfer-scores-decrease-with-element-interactivity.md) — related

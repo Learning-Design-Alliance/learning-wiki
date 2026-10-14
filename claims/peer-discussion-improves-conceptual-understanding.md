@@ -59,6 +59,19 @@ Smith, M. K., Wood, W. B., Krauter, K., & Knight, J. K. (2011). Combining Peer D
 
 Using the same isomorphic-question-pair clicker technique, this study compared three conditions on different question pairs within the same majors' and nonmajors' genetics courses: peer discussion only, instructor explanation only, and peer discussion followed by instructor explanation. Peer discussion alone and instructor explanation alone produced similar normalized learning gains (e.g., 41.5% vs. a comparable value for instructor-only in the majors' course), but the combined mode produced markedly higher gains than either alone, and this combination benefited weak, medium and strong performers alike — where instructor explanation alone did not help the strongest students. The authors read this as evidence that peer discussion and instructor explanation contribute independently to conceptual learning rather than one making the other redundant.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does discussing a committed answer with peers improve a later individual answer on a new question?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 associational, 1 design), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Smith et al. 2009](https://doi.org/10.1126/science.1165919) | q2 · causal · r? | i? | this claim |
+| [Smith et al. 2011](https://doi.org/10.1187/cbe.10-08-0101) | q2 · causal · r? | i? | this claim |
+| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Students answering both clicker votes correctly score significantly higher on isomorphic e](correct-correct-clicker-pattern-higher-exam-performance.md) (qualifies); [Clicker participation and homework completion each significantly predict performance on is](clicker-participation-and-homework-completion-predict-exam-performance.md) (supports) |
+| Miller 2013 | q2 · design · r2 | i? | [Students attributed improved understanding to the discussion process of the implementation](learning-attributed-to-process-not-technology.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The mechanism most commonly proposed is that peer discussion forces **articulation and elaboration**: learners must externalize their reasoning, which exposes gaps and inconsistencies that silent listening does not. Confronting a peer's differing answer also creates the cognitive conflict associated with conceptual change — see [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md).

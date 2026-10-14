@@ -18,11 +18,28 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (5 for, 8 mixed, 1 against) · 16 studies (5 quant-synthesis, 4 review, 3 causal, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 16 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (7 for, 11 mixed, 2 against) · 19 studies (5 causal, 5 quant-synthesis, 4 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 19 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
 In a sequence of units where later units depend on earlier ones (cumulative `procedure`, `principle` or `complex-skill` goals), a learner whose response on a unit check does not yet meet a stated criterion may do better on later units and on the course examination if that response triggers corrective instruction and another, comparable check before the learner advances, rather than advancing on a fixed schedule. The relationship is conditional on four things the evidence names: the check must represent the intended capability, the correction must respond to what the response showed rather than repeat the same material, the extra time must be available, and the outcome and horizon must be stated, since course-examination gains (`general-achievement`), attitudes, completion (`persistence`) and time (`learning-time`) move separately. The [pattern](../patterns/mastery-learning.md) specifies a reusable gate-correct-recheck policy; its local diagnostic branches remain proposals.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **whether the units are cumulative**, **whether the class moves together or each learner sets the pace**, **what test the outcome will be judged on (a course test or a standardized one)**, and **how much extra class time correction can take**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| A course of cumulative units at college, high-school or upper-elementary level | End each unit with a check against a stated criterion; below it, give corrective instruction and a parallel recheck before moving on | [Mastery learning improves outcomes](../claims/mastery-learning-improves-outcomes.md) [+M] |
+| The criterion has not been set | Set a high unit standard rather than a low one; programmes with higher standards had larger effects | [Effects vary with standard, pacing and test type](../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) [~M] |
+| Learners will work at their own pace | Prefer group-based pacing with individual correction; if self-paced, add deadlines or pacing support, because completion falls | [Self-paced mastery programmes reduce course completion](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M]; [Effects vary with standard, pacing and test type](../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) [~M] |
+| The class mixes stronger and weaker students | Use it; both groups gain, and the spread of scores narrows | [Effects larger for lower-aptitude students](../claims/mastery-learning-effects-larger-for-lower-aptitude-students.md) [+M] |
+| Elementary students | Expect a larger effect than in high school or college | [Effects larger in elementary school](../claims/mastery-effects-larger-elementary.md) [~M] |
+| A science course | Expect a smaller effect than in mathematics, social studies or language arts | [Effects smaller in science](../claims/mastery-science-smaller-effects.md) [~M] |
+| Success will be judged on a state or standardized test | Expect a much smaller effect than on the course's own tests, and check that gating does not stop learners reaching later tested topics | [Effects vary with standard, pacing and test type](../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) [~M]; [Tension between mastery and curricular coverage](../claims/adaptive-mastery-versus-coverage-tension-null-result.md) [-W] |
+| The course must keep to a fixed scope or calendar | Budget class time for the correction loop (about a fifth of class time in one study) and decide in advance what happens at the time limit | [Trained teachers gave 20% of class time to the corrective loop](../claims/training-increases-feedback-corrective-loop-time.md) [~W]; [Mastery learning did not reduce pace or scope](../claims/mastery-learning-did-not-slow-pace-or-scope.md) [~W] |
+| The outcome that matters is retention after the course | Recheck earlier units at a delay; gains held at about eight weeks | [Gains persist at follow-up](../claims/mastery-learning-gains-persist-at-follow-up.md) [+M] |
+| Teachers are adopting it for the first time | Prepare teachers for feeling less confident at first, even as results improve | [Mixed effects on teacher variables](../claims/mastery-mixed-teacher-variable-effects.md) [~M] |
 
 ## Observation, state and explanation
 
@@ -46,6 +63,18 @@ These rows are proposals for interpreting responses, untested with learners. A p
 - [Earned credit in mastery and non-mastery sections](../claims/mastery-learning-higher-earned-credit-rates.md) [~W]: a retrospective analysis of one college system's records (`correlational`, `postsecondary`) found higher earned credit rates in mastery sections in eight of nine course-level comparisons, but students taking one mastery class had a lower rate (59%) than those taking none (64%) or two (66%), which the authors attribute to course selection. No effect size; assignment not controlled; not yet checked against its source. It shows that a section-level comparison can be confounded by who enrols where, not that mastery sections cause higher credit rates.
 
 Keep population band, comparator (conventionally paced, group or self-paced), the mastery procedure, the instrument and the horizon with each finding. Do not combine the synthesis and the records analysis into one strength, and do not read "positive effects" as a size.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/mastery-learning.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing? [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]: 7 distinct studies.
+- Do the gains last after the course ends? [Mastery learning gains persist at follow-up examinations about eight weeks after instruction](../claims/mastery-learning-gains-persist-at-follow-up.md) [~M]: 2 distinct studies.
+- For whom: does it help weaker and stronger students, and at which ages and in which subjects? [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](../claims/mastery-learning-effects-larger-for-lower-aptitude-students.md) [~M]: 3 distinct studies.
+- Which variant: how high a criterion, group-paced or self-paced, and measured how? [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) [~M]: 6 distinct studies.
+- How do students and teachers respond to it? [Mastery learning improves students' attitudes toward the instruction and toward the subject](../claims/mastery-learning-improves-attitudes-toward-instruction.md) [+M]: 2 distinct studies.
+- What does it cost in time and coverage, and what happens when learners do not reach the criterion? [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](../claims/mastery-learning-did-not-slow-pace-or-scope.md) [~M]: 5 distinct studies.
+- Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable? [Criterion-referenced tests require empirically-based construct validation studies](../claims/criterion-referenced-tests-need-construct-validation.md) [~W]: 8 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

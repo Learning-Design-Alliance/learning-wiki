@@ -65,6 +65,8 @@ Butler and Winne argue that feedback influences learning through the learner's i
 Self-monitoring is not mere self-report. It is strongest when learners have explicit criteria, visible progress indicators, and a realistic chance to act on what they notice.
 
 ## Related Claims
+
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](specific-difficult-goals-lead-to-higher-performance.md)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md)
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)

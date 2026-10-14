@@ -97,6 +97,28 @@ Section 6 of this conceptual paper reports the expertise reversal effect as attr
 
 > "Providing additional text is redundant for experts and will have negative rather than positive effects, thus demonstrating the expertise reversal effect."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When should support be withdrawn as the learner improves?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **13 distinct studies** (5 review, 5 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q3`, 1 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 / q3 · review · r2 | i? | this claim; [The review reports that the split-attention benefit for novices reverses into a redundancy](expertise-reversal-split-attention-redundancy-review.md) (supports); [The review reports that the modality effect reverses with expertise: audio-visual presenta](expertise-reversal-modality-effect-review.md) (supports); [The review reports that the isolated-elements mixed instructional method benefits novices ](expertise-reversal-isolated-elements-and-imagination-review.md) (supports); [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) (supports) |
+| [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | this claim |
+| Obikwelu 2013 | q1 · theoretical · r2 | i? | this claim |
+| [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q2 · quant-synthesis · r2 | i? | [Cognitive load effects including integration benefits may reverse for more experienced lea](expertise-reversal-limits-contiguity-benefits.md) (supports) |
+| [Kalyuga 2007](https://doi.org/10.1007/s10648-007-9054-3) | q2 · review · r? | i? | [The effectiveness of instructional techniques and procedures interacts with levels of lear](expertise-reversal-prior-knowledge-interaction.md) (supports) |
+| [Sweller 2019](https://doi.org/10.1007/s10648-019-09465-5) | q2 · review · r2 | i? | [Expertise reversal: cognitive load effects for novices decrease, disappear, and can revers](expertise-reversal-effect-compound.md) (supports) |
+| Clinton 2017 | q3 · causal · r? | i?; i3 | [Revised visuals reduce cognitive processing of lesson text for low prior knowledge student](revised-visuals-processing-text-prior-knowledge-interaction.md) (qualifies); [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge pred](revised-visuals-no-learning-effect.md) (qualifies) |
+| [Kirschner 2006](https://doi.org/10.1207/s15326985ep4102_1) | q2 · review · r? | i? | [The advantage of guidance begins to recede only when learners have sufficiently high prior](guidance-advantage-recedes-with-high-prior-knowledge.md) (supports) |
+| [Renkl & Atkinson 2003](https://doi.org/10.1207/s15326985ep3801_3) | q3 · theoretical · r? | i? | [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) (supports) |
+| [van de Pol et al. 2010](https://doi.org/10.1007/s10648-010-9127-6) | q3 · review · r2 | i? | [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) (supports) |
+| [Renkl et al. 2002](https://doi.org/10.1080/00220970209599510) | q3 · causal · r? | i? | [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) (supports) |
+| [Ye 2026](https://doi.org/10.1186/s41239-026-00606-9) | q2 · causal · r? | i? | [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or ](adaptive-fading-beats-fixed-and-linear-scaffolding.md) (supports) |
+| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The claim does not mean experts need no support. It means support should change form: less completion of routine steps, more emphasis on challenge, transfer, and selective feedback.

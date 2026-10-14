@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (5 for, 6 mixed) · 21 studies (5 causal, 5 quant-synthesis, 5 review, 4 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 21 report an effect size · 6 claims rest on one study
+> **Evidence** · 17 claims (8 for, 9 mixed) · 23 studies (6 causal, 5 quant-synthesis, 5 review, 4 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 5 of 23 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -63,6 +63,25 @@ A request to "make lectures more interactive" does not specify these inputs. Ask
 - For grouping, [poor group leadership](../claims/cooperative-conceptual-change-chemistry-misconceptions.md) [~W] is reported (second-hand) to have prevented effective discussion in cooperative conceptual-change groups in community-college chemistry. Watch who closes the discussion.
 
 Do not convert a normalized gain into a d, rank these studies by effect labels, or predict delayed retention from in-class revote changes. A precise abstention names the missing comparison, target or observation and the next way to resolve it.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **whether a bank of conceptual questions with diagnostic distractors exists**, **how answers will be collected** (clickers, cards, poll), and **what follows class** (homework, exam items matched to the questions).
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| A lecture course with a polling system and conceptual content | Run the full cycle: individual vote, discussion of reasons, revote, isomorphic question alone, instructor explanation | [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M] |
+| Time pressure tempts the instructor to skip either discussion or explanation | Keep both; the recorded comparison found the combination ahead of either alone | [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M] |
+| The exam has higher-order items | Write questions at application or analysis level rather than recall | [Higher-order clicker questions improve lower-order exam performance](../claims/hocs-clickers-improve-locs-exam-performance.md) [+M] |
+| The lowest-performing students are a concern | Add a short take-home reflection asking learners to explain the discussed question; completing it went with better performance on related exam items | [Follow-up homework modestly boosts exam performance](../claims/follow-up-homework-modestly-boosts-exam-performance.md) [+W]; [Clicker participation does not help the lowest quartile](../claims/any-clicker-pattern-beats-absence-except-lowest-quartile.md) [~W] |
+| Many learners switch to the correct answer on the revote | Treat switchers as not yet secure; give an isomorphic item later, since only correct-correct students outperformed on related exam items | [Correct-correct pattern predicts higher exam performance](../claims/correct-correct-clicker-pattern-higher-exam-performance.md) [~W] |
+| The brief wants clicker questions without discussion, to save time | Expect some benefit from answering alone, but do not credit it to discussion; it is a different design | [Classroom quizzing improves exam performance](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+W] |
+| The goal includes general scientific reasoning | Add explicit reasoning instruction and a reasoning measure; concept-question practice did not move a reasoning test in one course series | [Content gains but no reasoning gains](../claims/reformed-pedagogy-content-gains-but-no-reasoning-gains.md) [~W] |
+| Learners are pre-service teachers or others who may see clickers as a game | Say what the discussion is for; learners liked the routine and credited learning to the discussion rather than the device, but rated fun above learning | [Learning attributed to discussion, not technology](../claims/learning-attributed-to-process-not-technology.md) [+W]; [Students saw fun and variation as the main impact](../claims/clickers-fun-variation-over-learning.md) [~W] |
+| Groups form freely and one member tends to decide | Ask each member for a reason before the revote and vary groups; poor group leadership has been reported to cut discussion short | [Poor group leadership undermined discussion](../claims/cooperative-conceptual-change-chemistry-misconceptions.md) [~W] |
+| Fewer than about a third answer correctly on the first vote | Explain or pose a simpler bridging question before discussion, rather than discussing a shared misconception | untested proposal |
+| Nearly everyone answers correctly on the first vote | Explain briefly and move to a harder or changed question | untested proposal |
+| The class runs live online (`online-instructor-led`) | Use the poll for the votes and breakout rooms of two or three for discussion, with the isomorphic item answered alone in the poll | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

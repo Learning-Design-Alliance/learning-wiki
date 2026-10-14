@@ -23,7 +23,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (26 for, 16 mixed, 6 against) · 50 studies (21 causal, 13 review, 6 quant-synthesis, 4 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 50 report an effect size · 41 claims rest on one study
+> **Evidence** · 50 claims (26 for, 20 mixed, 4 against) · 52 studies (22 causal, 13 review, 6 quant-synthesis, 4 associational, 4 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 10 of 52 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -49,6 +49,24 @@ The page's earlier guidance, kept as a concrete default a designer can act on an
 
 How far the neighbouring claims carry: the tutoring meta-analyses are about whole systems against non-individualised instruction, not about any one step above; the contingent-scaffolding evidence is mostly one-to-one human tutoring; the fidelity claim is a matched-comparison study of school-wide personalised learning, not of an adaptive rule.
 
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **what the system will adapt** (the support after a response, or only difficulty and order), **what evidence it adapts on** (responses to items, or self-reported preferences), **which outcome and horizon count** (the system's own items, an aligned test, a standardised test), and **who will look at the learner data**. The strongest evidence compares whole tutoring systems with conventional instruction; only a few studies compare adaptation with the same content in a fixed order.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The alternative is conventional, non-individualised instruction or a textbook | Use a system that selects tasks and step-level feedback from each learner's responses; expect a gain on aligned tests, smaller on standardised ones, and none over a human tutor or a small group | [Adaptive learning improves outcomes](../claims/adaptive-learning-improves-outcomes.md) [+S] |
+| The plan adapts only task difficulty, for young learners (early primary) | Add adaptive support (hints, worked steps, feedback tied to the error) rather than relying on difficulty alone; one trial found difficulty-only adaptation no better than a fixed version, and its mastery gate held learners back | [Adaptive task difficulty did not improve second-graders' posttest](../claims/task-difficulty-adaptation-no-learning-benefit-second-grade.md) [-M]; [The non-adaptive condition reached higher mastery](../claims/non-adaptive-condition-higher-mastery-probabilities.md) [-M] |
+| University learners, a cumulative topic with checkable parts | Diagnose the parts with frequent short items and order each learner's path from the diagnosis; expect time saved as well as a modest post-test gain | [Personalized paths reduced learning time and improved post-test scores](../claims/personalized-paths-experiment-outcomes.md) [+M]; [Adaptive scaffolding policies improved posttest in a logic tutor](../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) [+M] |
+| A tutor (human or AI) responds to learners who are stuck | Change the support as the impasse persists: after a failed question, address the learner's error rather than repeating the question | [Questioning benefit decays with impasse depth](../claims/questioning-benefit-decays-with-impasse-depth.md) [+W]; [Repeating a scripted question lowers recovery](../claims/repeating-scripted-question-lowers-recovery.md) [+W] |
+| An AI tutor is used, and the platform holds mastery and practice history | Pass the learner's mastery estimates for the skill and its prerequisites to the tutor, with an instruction to review weak prerequisites | [Student mastery context improved tutor metrics](../claims/student-context-personalization-improves-tutor-metrics.md) [+M]; [Generative AI tutors struggle to infer student knowledge](../claims/genai-tutors-struggle-infer-student-knowledge.md) [~M] |
+| Learners improve quickly on a skill | Withdraw worked steps and hints as unassisted performance improves, checking unsupported items before each removal | [Guidance that helps novices can become redundant as expertise grows](../claims/expertise-reversal-effect.md) [~M]; [Fading support promotes the transfer of responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] |
+| The brief proposes adapting to learning styles or stated preferences | Adapt on responses to items and on prior knowledge instead | [Learning-styles matching does not improve learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-S] |
+| Routing depends on a knowledge-tracing or learner model | Treat estimates at the extremes (very low or very high predicted success) as least reliable: add a teacher check or an unassisted probe before repeated remediation or a fast skip | [Learner models are miscalibrated outside the data interval](../claims/learner-models-miscalibrated-outside-data-interval.md) [~M] |
+| A vendor reports the model's predictive accuracy (AUC) | Ask whether attempts were ordered by time in the evaluation, and how the model is calibrated, not only its AUC; leakage inflates reported accuracy | [Violating temporal order inflates knowledge-tracing performance](../claims/pkt-temporal-causality-violation-inflates-performance.md) [~M]; [A transformer model won EDM Cup 2023 with an AUC of 0.79](../claims/transformer-kt-first-place-edm-cup-2023.md) [~M] |
+| A school or adult programme adopts a platform | Plan for teachers to read and act on the diagnostic reports, and record use; judge the effect only where the adaptation was used | [Personalized learning effects vary with fidelity](../claims/personalized-learning-effects-vary-with-fidelity.md) [~M]; [Adult education programmes used learner data minimally](../claims/adult-ed-minimal-learner-data-use.md) [~M] |
+| The system optimises its own reward (a reinforcement-learning policy) | Set the reward on learning measured without support, not on engagement or in-system correctness, and watch for learners who depend on scaffolding | [RL reward misalignment failure modes](../claims/rl-reward-misalignment-failure-modes.md) [~W] |
+
 ## Observation, state and explanation
 
 An adaptive system observes **responses to particular items under stated conditions** (correctness, hint requests, time, attempts, which help was shown) and turns them into an inferred state: "has mastered this skill", "probability correct is 0.8", "ready for harder items". The inferred state is a model output, not an observation, and it inherits the model's errors. "Struggling" and "advanced" are labels for a learner's responses on this task, not traits. Record the items, the help given and the model's estimate side by side, so a routing decision can be checked against what was actually seen.
@@ -73,6 +91,17 @@ These rows are proposals, untested with learners. A probe can shift confidence a
 - [Learner-model calibration](../claims/learner-models-miscalibrated-outside-data-interval.md) [~W]: one analysis of two knowledge-tracing models on tutoring datasets reports that both were calibrated only in the range containing most of the data, overestimating learners when the probability of a correct answer was low and underestimating them when it was high. It limits the diagnostic step: a system's estimate for a learner at the extremes is least trustworthy where routing matters most. Associational, one study, no outcome for learners; not yet checked against its source.
 
 Keep the comparator (conventional, non-tutoring software, human tutor), the population band, the outcome instrument and its alignment, and the horizon with each finding. Do not set the meta-analytic g values beside the school-level SD gains as if they measured the same thing.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/adaptive-learning.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence? [Adaptive learning improves outcomes](../claims/adaptive-learning-improves-outcomes.md) [+S]: 10 distinct studies.
+- What should adapt: the support given after a response, or only difficulty and order? [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]: 20 distinct studies.
+- When should support be withdrawn as the learner improves? [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]: 13 distinct studies.
+- What should the adaptation be based on: responses, or learner styles and preferences? [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-S]: 4 distinct studies.
+- Can the system's diagnosis of the learner be trusted? [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](../claims/learner-models-miscalibrated-outside-data-interval.md) [~M]: 7 distinct studies.
+- What makes an adaptive design fail in practice? [Personalized Learning Effects Vary With Fidelity](../claims/personalized-learning-effects-vary-with-fidelity.md) [~M]: 4 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

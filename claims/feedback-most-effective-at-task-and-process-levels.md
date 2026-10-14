@@ -73,6 +73,8 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 
 ## Related Claims
 
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - Feedback at the self level (praise, trait judgments) adds little instructional value — the contrast case that defines this claim. *(page not yet created)*
 - [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) — feedback is a core mechanism through which formative assessment acts.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — effective feedback must be interpretable within the learner's working-memory limits.

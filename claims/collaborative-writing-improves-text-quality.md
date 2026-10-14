@@ -69,6 +69,8 @@ Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in
 
 ## Related Claims
 
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — the general claim this finding bears on, with the studies behind it
+
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — the broader claim that structured peer collaboration raises achievement, of which collaborative writing is a specific case
 - [Authentic audiences improve student work.](authentic-audiences-improve-student-work.md) — a co-writer is an immediate, authentic audience, one proposed mechanism for quality gains
 - [Argumentation improves reasoning.](argumentation-improves-reasoning.md) — negotiating a shared text requires argumentative moves that may transfer to reasoning quality

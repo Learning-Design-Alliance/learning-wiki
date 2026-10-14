@@ -41,6 +41,7 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — possibly the same claim (merge candidate)

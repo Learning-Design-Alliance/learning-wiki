@@ -41,8 +41,9 @@ Eye-tracking finding from the speaker scene, where two parts carried signalling 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Clear Structure Improves Learning](clear-structure-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Change in the most-focused central object was detected at a low rate (41.66%) unless it was signalled and cued](central-object-change-detection-low-without-cueing.md) — related
 - [The change on the object that was both signalled and visually cued was the most detected change (83.33%)](signalled-and-cued-object-change-most-detected.md) — related
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — a broader claim this one bears on

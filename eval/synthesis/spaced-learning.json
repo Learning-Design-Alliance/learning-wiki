@@ -1,0 +1,140 @@
+{
+  "principle": "principles/spaced-learning",
+  "note": "Drafted 2026-10-14 by an agent from the claims' titles and evidence entries, following the retrieval-practice pilot. Claims used in eval/synthesis/retrieval-practice.json (spaced-retrieval-improves-retention, expanding-versus-uniform-retrieval-no-difference, expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules, the Kang 2023 financial-knowledge claims, spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall, spaced-retrieval-multiyear-vocabulary-retention, learners-underuse-effective-learning-strategies, ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest, practice-testing-distributed-practice-high-utility) are deliberately left out so no claim sits under two hubs. Review before applying.",
+  "findings": [
+    {
+      "hub": "spaced-practice-improves-retention",
+      "question": "Does spreading study or practice over sessions improve later retention more than massing the same amount of it?",
+      "members": [
+        [
+          "spaced-repetition-improves-retention",
+          "+"
+        ],
+        [
+          "spacing-benefit-short-retention-no-peterson-paradox",
+          "+"
+        ],
+        [
+          "spacing-enhances-learning-across-domains-lifespan",
+          "+"
+        ],
+        [
+          "spacing-interleaving-improve-retention",
+          "+"
+        ],
+        [
+          "spaced-retrieval-outperforms-restudy",
+          "+"
+        ],
+        [
+          "structured-cai-spacing-improves-recall-and-retention",
+          "+"
+        ],
+        [
+          "spaced-repetition-supplement-triples-vocabulary-retention",
+          "+"
+        ],
+        [
+          "svas-spaced-listening-outperforms-comparison-end-of-experiment",
+          "+"
+        ],
+        [
+          "spaced-interleaved-homework-practice",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "optimal-isi-increases-with-retention-interval",
+      "question": "How long should the gap between sessions be, given when the knowledge is needed?",
+      "members": [
+        [
+          "isi-effect-nonmonotonic-joint-retention-interval",
+          "~"
+        ],
+        [
+          "eight-day-review-improves-five-week-science-test-versus-one-day-review",
+          "+"
+        ],
+        [
+          "distributed-practice-limits-l2",
+          "~"
+        ],
+        [
+          "spaced-practice-benefit-reflects-transfer-not-item-memorization",
+          "+"
+        ],
+        [
+          "relearning-confound-distributed-practice-designs",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished",
+      "question": "Should the gaps expand, stay equal, or contract?",
+      "members": [
+        [
+          "expanding-isis-better-than-fixed-tentative",
+          "~"
+        ],
+        [
+          "exposures-moderate-expanding-schedule-benefit",
+          "~"
+        ],
+        [
+          "two-week-uniform-spacing-greatest-benefit",
+          "~"
+        ],
+        [
+          "standard-two-week-spacing-significant-over-baseline",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "leitner-queue-network-phase-transition-in-learning-rate",
+      "question": "In a flashcard or review system, how many new items should enter and how should reviews be shared out?",
+      "members": [
+        [
+          "excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck",
+          "+"
+        ],
+        [
+          "optimal-leitner-schedule-reviews-lower-decks-more-often",
+          "~"
+        ],
+        [
+          "optimal-leitner-schedule-expands-intervals-between-reviews",
+          "~"
+        ],
+        [
+          "leitner-learning-rate-shows-increasing-returns-to-review-budget",
+          "~"
+        ],
+        [
+          "optimal-leitner-deck-allocation-depends-on-item-difficulty",
+          "~"
+        ],
+        [
+          "leitner-deck-position-predicts-recall-better-than-review-count",
+          "~"
+        ],
+        [
+          "item-specific-difficulty-helps-only-at-low-and-high-leitner-decks",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learners-misjudge-spacing-benefits",
+      "question": "Will learners space their study on their own?",
+      "members": [
+        [
+          "transfer-practice-timing-mismatch-delayed-review",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

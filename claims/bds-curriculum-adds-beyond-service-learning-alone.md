@@ -41,8 +41,9 @@ The WWC reports (footnote to Appendix A3) that Leming (2001) also compared the c
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Building Decision Skills plus service learning significantly improved twelfth-graders' ethical perspective relative to a no-character-education comparison](bds-improves-ethical-perspective.md) — related
 - [Building Decision Skills plus service learning showed no statistically significant effects on self-esteem, general social responsibility, or anticipated community participation](bds-null-self-esteem-general-responsibility.md) — related
 - [Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives](360-filmmakers-challenge-perspective-taking.md) — related

@@ -61,6 +61,21 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 
 > "The evidence indicates that prompting is an effective way to enhance SRL and learning performance. However, the results should be interpreted with caution as publication bias was not examined."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do planning, monitoring and evaluation prompts help, and which ones?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **6 distinct studies** (2 associational, 1 quant-synthesis, 1 review, 1 causal, 1 theoretical), `q1`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Guo 2022](https://doi.org/10.1111/jcal.12650) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.40, 95% CI [0.31, 0.49] | this claim |
+| [Wong et al. 2019](https://doi.org/10.1080/10447318.2018.1543084) | q3 · review · r2 | i? | this claim |
+| Lallé 2017 | q2 / q3 · associational · r1 | i3; i? | [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportio](review-notes-compliance-predicts-learning-gains.md) (supports); [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proport](revise-summary-compliance-predicts-learning-gains.md) (supports); [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger propor](suggest-subgoal-compliance-predicts-learning-gains.md) (supports); [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-dia](no-learning-effect-for-four-explicit-srl-prompts.md) (qualifies); [No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page pr](no-learning-effect-for-metacognitive-monitoring-prompts.md) (qualifies) |
+| [Belle Dang 2024](https://doi.org/10.18608/jla.2024.8393) | q2 · causal · r1 | i? | [Metacognitive activity alone does not equate to effective regulation; unaccompanied metaco](metacognitive-alone-not-effective-regulation.md) (qualifies) |
+| Abdelghani 2026 | q2 · associational · r? | i? | [Within-session SRL change shows no detectable association with unaided post-test performan](srl-change-no-posttest-association.md) (qualifies) |
+| Sander de Jong 2026 | q1 · theoretical · r2 | i? | [Repeated reflective prompts may habituate, so scaffolding can replace rather than strength](reflective-scaffolding-habituation-deskilling.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope and mechanism.** Metacognitive prompts are typically short questions or cues (e.g., "What is your goal for this step?", "Does this answer make sense?") inserted into a task, worked example, or collaborative activity. They are expected to work by triggering self-regulatory processes that learners would not otherwise initiate spontaneously — see [Self-regulated learning](../theories/self-regulated-learning.md). The claim as stated is deliberately broad: prompts vary widely in content (planning vs. monitoring vs. evaluation), timing, and delivery. Two syntheses are recorded above: Guo (2022), a meta-analysis of experiments in computer-based learning environments (learning outcomes g = 0.40 against unprompted controls; its number of studies is not stated in the abstract read here), and Wong et al. (2019), a systematic review of 35 online-learning studies that pooled no effect. Both point in the claim's direction; neither covers classroom or paper-based prompting, and no primary study is recorded on this page yet. <!-- deprecated (2026-10-05, stale: entries had been added): the evidence base has not yet been entered on this page, so no effect direction is currently asserted with a tag. Until evidence entries are added, this page should be treated as a scoped hypothesis with plausible moderators, not a validated claim. -->

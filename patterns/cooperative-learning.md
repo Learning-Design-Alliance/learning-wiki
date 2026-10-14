@@ -25,7 +25,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 19 studies (11 quant-synthesis, 2 causal, 2 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 9 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 22 claims (12 for, 10 mixed) · 22 studies (12 quant-synthesis, 3 review, 3 design, 2 causal, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 22 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -68,6 +68,24 @@ A request for "more group work" or "more engagement" does not specify these inpu
 - **Plan for failure in a given implementation.** [Science-classroom comparisons](../claims/cooperative-learning-science-studies-mixed.md) [~W] include null results and a chemistry course in which control classes won all 60 comparisons. Second-hand and unchecked, with no effect sizes; it is a reason to check individual outcomes, not an estimate of failure rates.
 
 Do not convert vote counts or median effects into pooled estimates, rank these syntheses against each other, or read a group product score as evidence about any member. A precise abstention names the missing input (individual starting response, outcome, horizon) and how to get it.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **the learners' age and experience of group work**, **whether the format is groups, pairs or peer tutoring**, and **what the individual check in step 5 will be and when**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| School-age learners, a programme of four weeks or more | In step 3, compute the team's recognition from members' individual quiz results or improvement, and say so at the start | [Group rewards on every member's individual learning](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M] |
+| The format is peer tutoring | Script the tutor and tutee roles and train them; structured programmes gave larger gains than unstructured ones | [Structured peer tutoring outperforms unstructured](../claims/structured-peer-tutoring-outperforms-unstructured.md) [+M] |
+| The learners are English learners developing the language | Use peer tutoring and peer response groups for language development | [Peer tutoring and response groups for English language development](../claims/peer-tutoring-response-groups-positive-eld-effects.md) [+M] |
+| The goal is oral proficiency through cross-age tutoring over a few months | Do not rely on tutoring alone; three months of daily sessions showed no significant gain | [Cross-age peer tutoring: no significant oral-proficiency effect](../claims/cross-level-peer-tutoring-null-oral-proficiency.md) [~W] |
+| The structure chosen is jigsaw | Add an individual quiz that counts for the home team | [Secondary studies: STAD most, Jigsaw least successful](../claims/secondary-cooperative-learning-newmann-thompson.md) [~W] |
+| Groups are asynchronous online | Use roles in step 4 to organise the process; expect reward-only groups to drift off task; do not expect either to raise achievement | [Interdependence type shifted the kind of interaction](../claims/interdependence-type-shifts-interaction-nature.md) [~W]; [Structuring interdependence did not change achievement online](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [~M] |
+| Lab groups of four or five share one procedure | Use groups of three or four, or rotate the roles across steps | [Large groups limited individual participation](../claims/large-group-size-limited-participation-confidence.md) [~W] |
+| Student group leaders will run the discussion | Train leaders to elicit each member's answer before the group settles one | [Poor group leaders undermined discussion](../claims/cooperative-conceptual-change-chemistry-misconceptions.md) [~W] |
+| Learners include neurodivergent students | Ask each learner's preferred group size; neurodivergent students in one survey were most comfortable in teams of three to five | [Neurodivergent and neurotypical students prefer different team sizes](../claims/nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) [~W] |
+| Instructors are new to cooperative structures | Plan staff development with immersion sessions, peer observation and shared scripts before launch | [A threefold staff development plan supported implementation](../claims/threefold-cooperative-learning-staff-development-plan.md) [+W] |
+| One short session with no later unit | Use a short structure (individual answer, pair discussion, individual re-answer) and skip the group reward | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

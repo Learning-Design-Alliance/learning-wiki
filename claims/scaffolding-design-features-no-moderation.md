@@ -41,8 +41,9 @@ Moderator analysis of scaffolding intervention type (conceptual, strategic, meta
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — the general claim this finding bears on, with the studies behind it
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related

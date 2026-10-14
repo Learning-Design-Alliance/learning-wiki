@@ -40,6 +40,19 @@ Correlational analysis under RQ3 in the survey of 47 graduate students in the on
 
 > "teaching presence revealed no statistically significant relationship with metacognition with its value of .096 and .228 for self-regulation and co-regulation, respectively"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*In an online community of inquiry, which presences go with learners' regulation and learning?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (2 qualitative, 1 associational, 1 causal), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Sadaf 2022](https://doi.org/10.24059/olj.v26i4.3474) | q2 · associational · r1 | i? | this claim; [Co-regulation shows stronger relationships with the three CoI presences than self-regulati](co-regulation-stronger-presence-relationships-than-self-regulation.md) (supports); [In an online case-based course, students perceive cognitive presence as highest and least ](cognitive-presence-highest-least-variable-online-cbi.md) (qualifies) |
+| [Honig 2021](https://doi.org/10.24059/olj.v25i2.2237) | q2 · qualitative · r? | i? | [CoI survey ratings reveal uneven presence profiles: course organization and exploration ra](coi-presence-uneven-profile-mba.md) (qualifies); [Peer monitoring among MBA learners goes beyond CoI social presence by involving profession](peer-monitoring-exceeds-social-presence.md) (qualifies) |
+| [Means 2021](https://doi.org/10.51388/20.500.12265/116) | q1 · qualitative · r2 | i? | [Students perceived online lab exercises as more effective when instructors were present on](online-labs-better-with-instructor-scaffolds.md) (qualifies) |
+| [Sarré 2011](https://doi.org/10.14705/rpnet.2011.9781908416001) | q2 · causal · r1 | i? | [Discussion board interactions generated no negative feedback at all, suggesting synchrony ](discussion-board-no-negative-feedback-synchrony-required.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -39,6 +39,18 @@ Moderator analyses in Table 2 for these five variables showed non-significant Q-
 
 > "In addition, it was observed that the average effect sizes of meta-analysis studies did not differ statistically according to CLM, learning outcome type, quality level, publication bias status, and basic research type."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the effect differ by setting, outcome or learner?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 review, 1 causal), `q2`–`q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Öztürk 2023](https://doi.org/10.29329/epasr.2023.600.13) | q3 · quant-synthesis · r2 | i?; i2 | this claim; [The effect of cooperative learning differs by the location of the meta-analysis studies, w](cooperative-learning-location-moderator.md) (qualifies) |
+| Blosser 1993 | q2 · review · r3 | i? | [Cooperative learning shows benefits for gifted and high-ability students, though long-term](cooperative-learning-gifted-students.md) (qualifies) |
+| [Özgür Tutal 2026](https://doi.org/10.1038/s41598-026-50770-1) | q2 · causal · r1 | i2; i? | [CCCT participation improved prospective teachers' attitudes towards cooperativeness (g = 0](ccct-improved-cooperativeness-attitudes.md) (qualifies); [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and ](ccct-qualitative-strengths-challenges.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

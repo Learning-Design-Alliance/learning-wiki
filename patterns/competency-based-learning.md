@@ -15,7 +15,7 @@ grain_size: course
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (2 for, 7 mixed, 2 against) · 16 studies (6 causal, 3 quant-synthesis, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 16 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (2 for, 9 mixed, 3 against) · 19 studies (7 causal, 3 quant-synthesis, 3 theoretical, 2 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 19 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -65,6 +65,23 @@ A request to "move to competency-based learning" or "let students go at their ow
 - **Whether the evidence of competence means what the map says.** [Criterion-referenced tests need construct validation](../claims/criterion-referenced-tests-need-construct-validation.md) [~W] is a theoretical argument (checked by the judge on full text) that the tasks of a criterion-referenced test must be shown empirically to reflect the competence of interest; it reports no validation study. Progression is only as sound as that evidence, so the competency checks should be checked against an independent outcome before the map is trusted.
 
 The earlier page's requirements (defined competencies, valid evidence, flexible pacing or modular progression, feedback and reassessment) and constraints (design complexity, atomising learning into isolated skills, administrative systems built on seat time) are carried into the inputs and sequence above. None of them is tested as a requirement by a claim here; they are proposals from the earlier page. Do not combine these findings into one strength, rank unlike comparators by effect labels, or read "positive effects" as a size. A precise abstention names the missing comparison, instrument or horizon and how to obtain it.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **how far learners' pace may vary and what deadlines remain**, **how starting points will be placed**, **what external test or credential the course answers to**, and **whether there is an integrated task that requires several competencies together**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Each competency should be gated on demonstrated performance | Put a criterion check, correction and parallel recheck on each competency, as in mastery learning | [Mastery learning improves outcomes](../claims/mastery-learning-improves-outcomes.md) [+M] |
+| Learners will set their own pace (`online-self-paced`, adult or college) | Keep checkpoints or deadlines and monitor who stalls; self-paced mastery courses lost more students, and learner control in general showed almost no effect | [Self-paced mastery programmes reduce course completion](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M]; [Learner pacing helped on complex material only](../claims/learner-paced-beats-system-paced-complex-material.md) [~M] |
+| A whole school or programme adopting personalised, competency-based progression | Expect small first-year effects that depend on how fully the practices are put in place; monitor implementation, not only outcomes | [Personalized learning effects vary with fidelity](../claims/personalized-learning-effects-vary-with-fidelity.md) [~M] |
+| A community-college credential programme | Do not assume completion will rise; one evaluation found slightly lower gateway-course completion for CBE participants | [CBE gatekeeper completion lower than comparison](../claims/cbe-gatekeeper-completion-lower-than-comparison.md) [-W] |
+| A placement test decides where each learner starts | Check that the test is precise around the cut that places learners, not only overall; one placement test lost precision above the 40th percentile | [Placement test precision declines above the 40th percentile](../claims/cmi-ela-test-precision-declines-above-40th-percentile.md) [~W] |
+| Checks need to be short and frequent | An adaptive mastery test can cut length while reaching the same pass/fail decision for almost all learners | [Adaptive mastery testing reduces length and preserves decisions](../claims/adaptive-mastery-testing-reduces-length-preserves-decisions.md) [~W] |
+| Learners will also sit a state test or a time-bound exam | Map which competencies the test covers and protect time for the later ones; slow mastery of early topics can leave later tested topics untaught | [Tension between mastery and curricular coverage](../claims/adaptive-mastery-versus-coverage-tension-null-result.md) [-W]; [Pacing calendars seen as impediments to mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W] |
+| Support between attempts is given by a tutor | Make the support depend on the learner's last response rather than a fixed sequence of hints | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [~M] |
+| The goal is a `complex-skill` built from several competencies | Add an integrated whole task and recheck it; a set of single-competency passes is not evidence of integrated performance | [Whole-task practice improves transfer, an untested argument](../claims/whole-task-performance-improves-transfer.md) [~W] |
+| Group-paced class moving through competencies together | Keep the group pace with individual correction; attrition was lower in group-based mastery classes | [Mastery improves engagement and lowers attrition](../claims/mastery-improves-engagement-attrition.md) [+W] |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite and did not use in the model above. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

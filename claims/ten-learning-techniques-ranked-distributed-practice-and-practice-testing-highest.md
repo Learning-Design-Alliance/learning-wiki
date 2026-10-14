@@ -49,6 +49,8 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 
 ## Related Claims
 
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 
 - [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — related

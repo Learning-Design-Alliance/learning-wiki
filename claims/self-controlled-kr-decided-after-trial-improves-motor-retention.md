@@ -77,10 +77,25 @@ Self versus yoked post hoc comparisons on retention AE: "both the Self-After and
 
 > "(1) both the Self-After and Self-Both groups had significantly less AE than their Yoked counterparts (Yoked-After: M = 24.87, SE = 3.04; Yoked-Both: M = 35.66, SE = 3.55); and (2) the Self-Before and the Yoked-Before (M = 27.35, SE = 3.66) groups did not differ significantly."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Who should decide when feedback arrives, and does the setting (in front of peers, mid-performance) matter?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (2 qualitative, 2 design, 1 causal), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Carter 2014](https://doi.org/10.3389/fpsyg.2014.01325) | q3 · causal · r1 | i3; i? | this claim |
+| [Gómez Argüelles 2019](https://doi.org/10.15446/profile.v21n1.69508) | q2 · qualitative · r3 | i? | [Instructors favored delayed over immediate oral corrective feedback, believing immediate c](teachers-favor-delayed-ocf-over-immediate.md) (qualifies) |
+| Zhiqi Gao 2026 | q2 · qualitative · r3 | i? | [Formative participants preferred post-session debriefing over in-session interruption, wit](feedback-timing-post-session-debrief-preference.md) (qualifies) |
+| Lili Chen 2026 | q2 · design · r2 | i? | [Platform users were more convinced than non-users that immediate, imperfect AI feedback is](users-value-immediate-ai-feedback-more-than-nonusers.md) (qualifies) |
+| [Rienties 2026](https://doi.org/10.1016/j.caeai.2026.100607) | q2 · design · r3 | i? | [Distance students prefer an institution-embedded assistant offering 24/7 immediate, contex](aida-preferred-24-7-context-specific-feedback.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) — related
 - [Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.](self-both-kr-decision-shows-no-additive-motivational-informational-benefit.md) — related
 - [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) — possibly the same claim (merge candidate)

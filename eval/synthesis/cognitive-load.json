@@ -1,0 +1,210 @@
+{
+  "principle": "principles/cognitive-load-theory",
+  "note": "Drafted 2026-10-14 by an agent from the claims' titles and evidence entries. Serves both principles/cognitive-load-theory.md and principles/cognitive-load-management.md (the second holds the sequence-level questions: pretraining, isolated parts, when to restore effort). desirable-difficulties-enhance-learning and productive-failure-improves-conceptual-learning are cited in the tables but left out of the spec, since they belong with the retrieval, spacing, interleaving and productive-failure principles. Segmenting claims are in chunking.json; worked-example claims in worked-examples.json. Review before applying.",
+  "findings": [
+    {
+      "hub": "cognitive-overload-degrades-learning",
+      "question": "Does removing avoidable processing from a presentation improve learning?",
+      "members": [
+        [
+          "cognitive-load-management",
+          "+"
+        ],
+        [
+          "design-principles-improve-cognitive-load-management",
+          "~"
+        ],
+        [
+          "clt-instructional-design-raises-retention-transfer-thermodynamics",
+          "+"
+        ],
+        [
+          "clt-design-effective-learning-retention-transfer",
+          "+"
+        ],
+        [
+          "no-group-difference-tat-posttest-cls",
+          "~"
+        ],
+        [
+          "extraneous-load-predicts-lower-post-test",
+          "+"
+        ],
+        [
+          "extraneous-load-eliminates-germane-load-learning-gains",
+          "+"
+        ],
+        [
+          "visual-channel-overload-hurts-visual-knowledge",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "design-principle-effects-moderated-by-pacing-and-complexity",
+      "question": "For which material and pacing does managing load matter most?",
+      "members": [
+        [
+          "element-interactivity-moderates-contiguity-effect",
+          "+"
+        ],
+        [
+          "retention-transfer-scores-decrease-with-element-interactivity",
+          "+"
+        ],
+        [
+          "mental-effort-study-time-indicate-element-interactivity",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cognitive-load-reduction-improves-learning",
+      "question": "Should related text and pictures be integrated rather than separated?",
+      "members": [
+        [
+          "split-attention-effect-degrades-learning",
+          "+"
+        ],
+        [
+          "contiguity-spatial-temporal-large-learning-benefits",
+          "+"
+        ],
+        [
+          "spatial-temporal-contiguity-equivalent-magnitudes",
+          "~"
+        ],
+        [
+          "temporal-contiguity-lower-cognitive-load",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "redundancy-hurts-learning",
+      "question": "Should the same words be given both spoken and written, or other duplicate material be added?",
+      "members": [
+        [
+          "redundancy-effect-impairs-learning",
+          "+"
+        ],
+        [
+          "verbal-redundancy-small-overall-effect",
+          "-"
+        ],
+        [
+          "system-paced-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "reader-fluency-prior-knowledge-moderate-redundancy",
+          "~"
+        ],
+        [
+          "images-animation-eliminate-redundancy-benefit",
+          "~"
+        ],
+        [
+          "segmentation-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "redundancy-effect-not-significant-middle-school",
+          "~"
+        ],
+        [
+          "redundant-text-no-effect-posterior-probability-lesson",
+          "~"
+        ],
+        [
+          "redundancy-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "redundancy-principle",
+          "~"
+        ],
+        [
+          "spoken-written-beats-spoken-only-not-written-only",
+          "~"
+        ],
+        [
+          "outcome-constructs-test-formats-moderate-redundancy",
+          "~"
+        ],
+        [
+          "captioning-second-language-videos-large-benefits",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-effect",
+      "question": "For whom: does support that helps novices stop helping as task-specific expertise grows?",
+      "members": [
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-modality-effect-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-limits-contiguity-benefits",
+          "+"
+        ],
+        [
+          "expertise-reversal-prior-knowledge-interaction",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "+"
+        ],
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "pretraining-improves-transfer",
+      "question": "Should component knowledge come before the whole task?",
+      "members": [
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

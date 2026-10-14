@@ -67,6 +67,18 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 
 > "Studies on the learning effects of the pretraining principle demonstrated increased learning outcomes (Bos et al., 2009; Gegner et al., 2009; Kennedy et al., 2014)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should component knowledge come before the whole task?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Delgado and Mayer 2024](https://doi.org/10.1111/jcal.13099) | q3 · causal · r? | i? | this claim |
+| Ceballos & Nutta 2022 | q2 · review · r1 | i? | this claim |
+| [Pollock et al. 2002](https://doi.org/10.1016/s0959-4752(01) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Pretraining is one of the classic cognitive load management techniques: by naming key concepts and their characteristics before the main lesson, it reduces the extraneous processing learners would otherwise spend simultaneously building a mental model of the system and deciphering new terminology. This aligns with [Cognitive Load Theory](../theories/cognitive-load-theory.md) and with the broader claim that [cognitive overload degrades learning](cognitive-overload-degrades-learning.md). Pretraining is closely related to [advance organizers](../elements/advance-organizers.md) and to [activation](activation-improves-learning.md) of prior knowledge, but is narrower: it front-loads specific conceptual vocabulary needed to understand the upcoming instruction, rather than providing a general organizing structure.

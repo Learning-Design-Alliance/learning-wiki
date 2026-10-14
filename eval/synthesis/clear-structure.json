@@ -1,0 +1,104 @@
+{
+  "principle": "principles/clear-structure",
+  "note": "Batch g7 (2026-10-14), topic structure-and-language (split into this spec and accessible-vocabulary-syntax.json, one per principle page). Groupings and directions by an agent from the claims' titles and evidence entries. The clarity question rests on one 1991 experiment (Snyder et al.) behind five claims; the change-detection signalling claims are one small eye-tracking study. Signaling claims are grouped here rather than in the multimedia spec. Review before applying.",
+  "findings": [
+    {
+      "hub": "clear-structure-improves-learning",
+      "question": "Does making the material's organization explicit with signals improve learning?",
+      "members": [
+        [
+          "signaling-improves-learning",
+          "+"
+        ],
+        [
+          "signaling-cueing-increases-learning",
+          "+"
+        ],
+        [
+          "signaling-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "signaling-principle-increased-learning-outcomes",
+          "+"
+        ],
+        [
+          "signaling-effect-abstract-only",
+          "~"
+        ],
+        [
+          "signalled-and-cued-object-change-most-detected",
+          "+"
+        ],
+        [
+          "central-object-change-detection-low-without-cueing",
+          "+"
+        ],
+        [
+          "cueing-outcompetes-signalling-alone-for-attention",
+          "~"
+        ],
+        [
+          "signalling-focuses-attention-reduces-change-detection-elsewhere",
+          "~"
+        ],
+        [
+          "chunking-reduces-working-memory-load",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "advance-organizers-improve-learning",
+      "question": "Do organizers given before or alongside the material help, and for whom?",
+      "members": [
+        [
+          "graphic-organizers-support-novice-comprehension",
+          "+"
+        ],
+        [
+          "learner-constructed-graphic-organizers-outperform-provided",
+          "~"
+        ],
+        [
+          "mismatched-graphic-organizers-increase-extraneous-load",
+          "~"
+        ],
+        [
+          "organization-task-match-determines-benefit",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "clear-variable-coordinate-beats-unclear",
+      "question": "Does a clearly presented lesson beat an unclear one, and when does clarity matter most?",
+      "members": [
+        [
+          "positive-clarity-moves-correlate-achievement",
+          "+"
+        ],
+        [
+          "unclear-presentation-complex-structure-penalty",
+          "+"
+        ],
+        [
+          "clarity-less-relevant-simpler-structures",
+          "~"
+        ],
+        [
+          "students-perceive-lesson-clarity",
+          "~"
+        ],
+        [
+          "checkpoints-and-definitions-improved-clarity",
+          "+"
+        ],
+        [
+          "student-engagement-authenticity-clear-sequence",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,6 +41,7 @@ The review attributes this to Cooper, Tindall-Ford, Chandler, and Sweller (2001)
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 -

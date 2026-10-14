@@ -58,6 +58,22 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 
 > "As seen in Table 2, SRL knowledge, self-efficacy and the SRL overall score showed statistically significant interaction effects in the hypothesized direction, with Group TDP showing the most prominent gains among treatment groups and Group C showing either constant levels or even negative developments."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which components (training, diary, peer feedback, goals), and which outcomes move?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **7 distinct studies** (4 quant-synthesis, 2 causal, 1 theoretical), `q3`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bellhäuser 2022](https://doi.org/10.3389/fpsyg.2022.813381) | q3 · causal · r2 | i?; i2 | this claim; [A daily learning diary alone (Group D) did not produce statistically significant pre-post ](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) (qualifies); [Web-based SRL training combined with a learning diary (Group TD) produced statistically si](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) (qualifies); [Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produc](peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md) (supports); [With peer feedback groups added to web-based SRL training (Group TDP), students showed sta](peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) (supports); [SRL interventions in a four-week online mathematics preparation course did not significant](srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) (qualifies); [Logged time investment on an online mathematics preparation platform differed significantl](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) (supports) |
+| [Ergen 2017](https://doi.org/10.14689/ejer.2017.69.4) | q3 · quant-synthesis · r3 | i? | [The pooled effect of self-regulated learning does not differ significantly by strategy typ](srl-effect-no-strategy-type-difference.md) (qualifies) |
+| [Guntur 2024](https://doi.org/10.24059/olj.v28i3.4025) | q3 · quant-synthesis · r1 | i? | [SRL interventions combining metacognitive, cognitive, and motivational components were mos](mixed-srl-strategy-interventions-greatest-impact.md) (qualifies) |
+| [Wood et al. 1987](https://doi.org/10.1037/0021-9010.72.3.416) | q3 · quant-synthesis · r? | i2 · medium effect, d=.42 (complex tasks) to d=.76 (simple tasks) | [Goal setting improves performance](goal-setting-improves-performance.md) (supports) |
+| [Epton et al. 2017](https://doi.org/10.1037/ccp0000260) | q4 · quant-synthesis · r? | i1 · small effect, d=.34 (95% CI .28–.41) | [Goal setting improves performance](goal-setting-improves-performance.md) (supports) |
+| [Zimmerman & Kitsantas 1999](https://doi.org/10.1037/0022-0663.91.2.241) | q3 · causal · r? | i? | [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) (supports) |
+| [Zimmerman 2000](https://doi.org/10.1016/b978-012109890-2/50031-7) | q3 · theoretical · r? | i? | [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -60,8 +60,9 @@ Exploratory quartile analysis of the same presence effect on homework explanatio
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](homework-explanation-quality-predicts-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](any-clicker-pattern-beats-absence-except-lowest-quartile.md) — related
 - [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](clicker-participation-and-homework-completion-predict-exam-performance.md) — related
 - [Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best](clicker-vote-patterns-null-on-homework-explanations.md) — related

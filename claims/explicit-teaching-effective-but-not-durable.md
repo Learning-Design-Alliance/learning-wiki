@@ -41,8 +41,9 @@ The review reports Tode (2007), a seven-month experimental study of 89 Japanese 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — the general claim this finding bears on, with the studies behind it
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](metalinguistic-beats-recasts-immediate-not-delayed.md) — related
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — related

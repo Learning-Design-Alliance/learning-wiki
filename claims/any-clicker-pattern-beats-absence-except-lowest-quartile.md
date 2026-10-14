@@ -60,8 +60,9 @@ Exploratory quartile analysis of the same comparison; the lowest-quartile studen
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — the general claim this finding bears on, with the studies behind it
 - [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](clicker-participation-and-homework-completion-predict-exam-performance.md) — a broader claim this one bears on
 - [Students answering both clicker votes correctly score significantly higher on isomorphic exam questions than all other vote patterns](correct-correct-clicker-pattern-higher-exam-performance.md) — related
 - [Being present for a clicker question predicts a higher likelihood of providing a homework explanation demonstrating understanding, except in the lowest quartile](clicker-presence-predicts-homework-explanation-quality.md) — related

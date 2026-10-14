@@ -43,6 +43,18 @@ Thirteen evaluations reported examination effects separately for students of dif
 
 > "The average effect size in all 13 studies was also higher for the less able students (M = 0.61) than for the more able ones (M = 0.40). The difference, however, is not significant (t = 1.23, p > .10)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*For whom: does it help weaker and stronger students, and at which ages and in which subjects?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 causal), `q2`–`q4`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i2 · medium effect, ES = 0.61 SD low-aptitude vs 0.40 SD high-aptitude | this claim |
+| Guskey 1985 | q3 · quant-synthesis · r2 | i2 | [Achievement effects of group-based mastery learning are larger for elementary students tha](mastery-effects-larger-elementary.md) (qualifies); [Mastery learning effects are smaller in science than in mathematics, social studies, and l](mastery-science-smaller-effects.md) (qualifies) |
+| Guskey 1982 | q2 · causal · r1 | i? | [Female students show stronger academic self-confidence, more positive attitudes, higher ac](sex-advantage-diminishes-under-mastery-learning.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Both groups gain, so mastery gating does not trade the stronger students' learning for the weaker students'. The aptitude difference itself is not significant in 13 studies, so the narrowing of score spread is the firmer of the two results.

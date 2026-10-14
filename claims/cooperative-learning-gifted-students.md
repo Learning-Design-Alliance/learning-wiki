@@ -60,7 +60,8 @@ Slavin's stated evidence gap in the controversy section on cooperative learning 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](cooperative-learning-higher-achievement-than-competitive-individualistic.md) — a broader claim this one bears on

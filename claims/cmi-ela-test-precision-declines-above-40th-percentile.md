@@ -41,8 +41,9 @@ Item response theory measurement-precision analysis across levels of ELA perform
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [Only 11 percent of first-time CMI students between spring 2022 and spring 2024 placed into credit-bearing ELA courses, down from 22 percent under the prior placement system](cmi-ela-credit-bearing-placement-declined-to-11-percent.md) — related
 - [Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items](adaptive-testing-more-precise-achievement-measurement.md) — related
 - [The multiple-choice component of the revised ELA placement test strongly measured overall ELA performance, but few items strongly measured the three specific ELA domains](cmi-ela-test-strong-overall-weak-domain-measurement.md) — related

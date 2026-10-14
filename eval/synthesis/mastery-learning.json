@@ -1,0 +1,164 @@
+{
+  "principle": "principles/mastery-learning",
+  "note": "Group 2 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries; review before applying. Uses the Kulik et al. (1990) claims rewritten from full text on 2026-10-13. Covers principles/mastery-learning, patterns/mastery-learning, patterns/competency-based-learning and principles/competency-based-assessment; the competency pages have no claim testing a competency-based course as a whole, so their claims sit under the mastery questions and the measurement question.",
+  "findings": [
+    {
+      "hub": "mastery-learning-improves-outcomes",
+      "question": "Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing?",
+      "members": [
+        [
+          "group-mastery-positive-achievement-all-studies",
+          "+"
+        ],
+        [
+          "mastery-learning-meta-analysis-d-078",
+          "+"
+        ],
+        [
+          "mastery-platform-longitudinal-positive-effects",
+          "+"
+        ],
+        [
+          "mastery-learning-higher-earned-credit-rates",
+          "+"
+        ],
+        [
+          "personalized-learning-effects-vary-with-fidelity",
+          "~"
+        ],
+        [
+          "cbe-gatekeeper-completion-lower-than-comparison",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "mastery-learning-gains-persist-at-follow-up",
+      "question": "Do the gains last after the course ends?",
+      "members": [
+        [
+          "mastery-improves-retention",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "mastery-learning-effects-larger-for-lower-aptitude-students",
+      "question": "For whom: does it help weaker and stronger students, and at which ages and in which subjects?",
+      "members": [
+        [
+          "mastery-effects-larger-elementary",
+          "~"
+        ],
+        [
+          "mastery-science-smaller-effects",
+          "~"
+        ],
+        [
+          "sex-advantage-diminishes-under-mastery-learning",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "mastery-learning-effects-vary-with-standard-pacing-and-test-type",
+      "question": "Which variant: how high a criterion, group-paced or self-paced, and measured how?",
+      "members": [
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "+"
+        ],
+        [
+          "mastery-improves-engagement-attrition",
+          "+"
+        ],
+        [
+          "learner-paced-beats-system-paced-complex-material",
+          "~"
+        ],
+        [
+          "adaptive-learning-improves-outcomes",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "mastery-learning-improves-attitudes-toward-instruction",
+      "question": "How do students and teachers respond to it?",
+      "members": [
+        [
+          "mastery-positive-affective-effects",
+          "+"
+        ],
+        [
+          "mastery-mixed-teacher-variable-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "mastery-learning-did-not-slow-pace-or-scope",
+      "question": "What does it cost in time and coverage, and what happens when learners do not reach the criterion?",
+      "members": [
+        [
+          "training-increases-feedback-corrective-loop-time",
+          "~"
+        ],
+        [
+          "adaptive-mastery-versus-coverage-tension-null-result",
+          "-"
+        ],
+        [
+          "pacing-calendars-standardized-assessments-impediments",
+          "~"
+        ],
+        [
+          "espark-post-quiz-mastery-failure-rate",
+          "~"
+        ],
+        [
+          "socratic-more-attempts-many-never-reach-mastery",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "criterion-referenced-tests-need-construct-validation",
+      "question": "Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable?",
+      "members": [
+        [
+          "criterion-referenced-tests-measure-mastery-not-relative-standing",
+          "~"
+        ],
+        [
+          "statistical-item-selection-conflicts-criterion-referenced-definition",
+          "+"
+        ],
+        [
+          "raters-differed-severity-mfrm",
+          "+"
+        ],
+        [
+          "engineering-rubric-low-scoring-reliability",
+          "+"
+        ],
+        [
+          "explicit-rubric-conditions-reduce-ai-disagreement",
+          "~"
+        ],
+        [
+          "mean-classification-cut-score-method-robust",
+          "~"
+        ],
+        [
+          "adaptive-mastery-testing-reduces-length-preserves-decisions",
+          "~"
+        ],
+        [
+          "cmi-ela-test-precision-declines-above-40th-percentile",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

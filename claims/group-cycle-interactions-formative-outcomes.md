@@ -56,8 +56,9 @@ The same mixed-effects analysis found no significant Group × Cycle interaction 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Feedback comprehension showed the strongest bivariate association with revision quality, and indirect associations through actionability and comprehension remained positive after adjustment](comprehension-strongest-link-revision-quality.md) — related
 - [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles](diagnostic-review-higher-process-indicators.md) — related
 - [High-acceptance groups made more effective use of AI feedback during revision, resulting in higher accuracy scores](high-acceptance-groups-effective-ai-feedback-use-higher-accuracy.md) — related

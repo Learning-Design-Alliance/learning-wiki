@@ -40,6 +40,18 @@ Chen, C.-H., & Yang, Y.-C. (2019). Revisiting the effects of project-based learn
 
 Meta-analysis comparing project-based learning against traditional, teacher-led instruction on measured academic achievement, synthesizing 46 effect-size comparisons drawn from 30 journal articles published 1998–2017. The overall weighted mean effect size was d+ = 0.71 favoring project-based learning. The effect was moderated by subject area, school location, hours of instruction, and information-technology support, but not by educational stage or small-group size.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a real-world purpose (a project, a community need, a live event) improve learning beyond the product?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Chen Yang 2019](https://doi.org/10.1016/j.edurev.2018.11.001) | q4 · quant-synthesis · r? | i2 · medium effect, d+=0.71 | this claim |
+| [Naval 2022](https://doi.org/10.3390/educsci12040240) | q2 · review · r2 | i? | [Service-learning within integrated projects is associated with improvements in students' s](service-learning-improves-civic-and-personal-outcomes.md) (supports) |
+| [Miller & Li 2026](https://doi.org/10.1080/10508406.2025.2557896) | q2 · qualitative · r2 | i? | [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **What the recorded evidence shows.** The one meta-analysis above (30 studies, read as an abstract) finds a medium positive effect on achievement (d+ = 0.71), moderated by subject area, school location, instructional hours and IT support.

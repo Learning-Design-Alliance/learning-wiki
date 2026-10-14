@@ -39,6 +39,18 @@ The article synthesizes meta-analytic comparisons of PBL with traditional direct
 
 > "Compared to traditional direct instruction, PBL may have a null or an even negative effect on the acquisition of basic knowledge but a positive effect on conceptual understanding and transfer."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*For which outcomes: basic knowledge, application and transfer, or professional skills?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (1 theoretical, 1 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | this claim |
+| Newell 2008 | q3 · causal · r2 | i? | [The problem-based group achieved significantly larger content-knowledge gains, while the s](problem-based-larger-knowledge-gains.md) (qualifies); [The participatory simulation group achieved significantly larger application gains than th](simulation-larger-application-gains.md) (qualifies); [The participatory simulation group showed significantly larger overall (combined knowledge](simulation-larger-overall-il-gains.md) (qualifies) |
+| Sutcher 2017 | q2 · review · r2 | i? | [Problem-based learning connecting coursework and practice is associated with stronger cand](problem-based-principal-preparation-self-efficacy.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

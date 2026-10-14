@@ -1,0 +1,144 @@
+{
+  "principle": "patterns/team-based-learning",
+  "note": "Drafted 2026-10-14 by an agent. Thin: TBL-specific claims come from three single-cohort studies (Miller, Falcone & Metz 2015, non-randomised cohort comparison; Peterson & Carrico 2015, one lab module; Bell 2022, correlational, 69 students), plus one survey of neurodivergent computing students on collaborative learning (Zastudil et al. 2026) and one school cooperative-learning synthesis (Slavin 1996). No claim in the wiki compares TBL with the same content taught otherwise. Review before applying.",
+  "findings": [
+    {
+      "hub": "team-rat-scores-higher-than-individual-rat",
+      "question": "Does the team readiness test raise scores above the individual one?",
+      "members": [
+        [
+          "tbl-trat-isat-improve-over-irat",
+          "+"
+        ],
+        [
+          "trat-scores-exceed-irat-scores",
+          "+"
+        ],
+        [
+          "rat-section-difference-same-trend",
+          "+"
+        ],
+        [
+          "tbl-module-prepares-independent-projects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "irat-stronger-final-exam-association-than-trat",
+      "question": "Which readiness score says something about later individual performance?",
+      "members": [
+        [
+          "irat-low-moderate-correlation-lecture-assessments",
+          "+"
+        ],
+        [
+          "trat-weak-correlation-lecture-assessments",
+          "+"
+        ],
+        [
+          "rat-module-high-scores-no-distinction",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "low-stress-tbl-higher-isat-scores",
+      "question": "High-stakes or low-stress readiness tests?",
+      "members": [
+        [
+          "low-stress-tbl-lower-stress-frustration",
+          "+"
+        ],
+        [
+          "low-stress-tbl-higher-perceived-effectiveness",
+          "+"
+        ],
+        [
+          "high-stakes-tbl-questions-seen-harder-less-fair",
+          "+"
+        ],
+        [
+          "tbl-formats-similar-irat-trat-performance",
+          "~"
+        ],
+        [
+          "tbl-team-dynamics-no-format-differences",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cooperative-learning-group-rewards-and-individual-accountability",
+      "question": "How should team work be graded so every member is accountable?",
+      "members": [
+        [
+          "tbl-survey-above-neutral",
+          "~"
+        ],
+        [
+          "group-membership-alone-does-not-produce-cooperation",
+          "+"
+        ],
+        [
+          "accountability-effects-depend-on-type-context-task",
+          "~"
+        ],
+        [
+          "interdependence-type-no-achievement-effect-asynchronous",
+          "~"
+        ],
+        [
+          "interdependence-type-shifts-interaction-nature",
+          "~"
+        ],
+        [
+          "reward-interdependence-benefit-attitudes",
+          "~"
+        ],
+        [
+          "structured-interdependence-contribution-obligation-attitude",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "nd-semester-long-team-discomfort",
+      "question": "Permanent teams: who finds them hard, and how should teams be formed and run?",
+      "members": [
+        [
+          "nd-prefer-teams-of-3-to-5-nt-prefer-pairs",
+          "~"
+        ],
+        [
+          "nd-comfort-order-team-formation-collaborative-learning",
+          "~"
+        ],
+        [
+          "nd-prefer-defined-team-roles",
+          "~"
+        ],
+        [
+          "nd-comfort-highest-fully-structured-assignments",
+          "~"
+        ],
+        [
+          "nd-nt-prefer-some-instructor-involvement-in-person",
+          "~"
+        ],
+        [
+          "nd-coping-self-selected-roles-self-disclosure",
+          "~"
+        ],
+        [
+          "nd-coping-failure-avoidance-public-presentations",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

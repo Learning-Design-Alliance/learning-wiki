@@ -41,8 +41,9 @@ Moderator analysis of segment size (Table 3): nonsegmented studies (k = 7) reach
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) — related
 - [Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats](outcome-constructs-test-formats-moderate-redundancy.md) — related
 - [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — related

@@ -86,9 +86,9 @@ The same comparison analysis reports that credential completion differences "var
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Differences in credential completion rates between CBE participants and nonparticipants varied by college, possibly reflecting unobservable group differences](cbe-credential-completion-varied-by-college-unobservable-differences.md) — related
 - [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related

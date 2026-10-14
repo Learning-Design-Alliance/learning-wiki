@@ -1,0 +1,172 @@
+{
+  "principle": "principles/communities-of-practice",
+  "note": "Group g4 (2026-10-14). Covers principles/communities-of-practice.md and principles/community-of-inquiry.md (the last question serves the latter). Groupings and directions by an agent from the claims' titles and evidence entries; review before applying. Almost all evidence is about teacher professional learning communities; none compares members with comparable non-members on observed practice except the student-achievement studies of PLC programmes, which are quasi-experiments. linked-learning-communities-* (curricular course-linking for community-college students, WWC: no discernible effects) were left out as a different construct; the main session may judge otherwise.",
+  "findings": [
+    {
+      "hub": "plc-participation-changes-teacher-norms-understanding-practice",
+      "question": "Does taking part in a professional learning community change teachers' knowledge and practice?",
+      "members": [
+        [
+          "stem-plc-teacher-knowledge-attitude-gains",
+          "+"
+        ],
+        [
+          "stem-plc-instructional-practice-shifts",
+          "+"
+        ],
+        [
+          "stem-plcs-deepen-teacher-content-knowledge",
+          "+"
+        ],
+        [
+          "plc-nurtures-teacher-metacognition",
+          "+"
+        ],
+        [
+          "pktp-plc-supported-implementation",
+          "+"
+        ],
+        [
+          "principal-networks-professional-learning-communities",
+          "+"
+        ],
+        [
+          "cop-relationships-combat-aie-director-isolation",
+          "+"
+        ],
+        [
+          "stem-plc-research-methodological-rigor-weak",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "stem-plc-math-student-learning-existence-proof",
+      "question": "Does teachers' community participation reach their students' achievement?",
+      "members": [
+        [
+          "stem-plcs-improve-student-math-achievement",
+          "+"
+        ],
+        [
+          "plc-at-work-significant-math-effect",
+          "+"
+        ],
+        [
+          "plc-at-work-no-ela-effect",
+          "~"
+        ],
+        [
+          "plc-at-work-underserved-subgroup-growth",
+          "~"
+        ],
+        [
+          "vplc-assistments-no-significant-overall-effect",
+          "~"
+        ],
+        [
+          "vplc-assistments-low-performing-significant-gain",
+          "~"
+        ],
+        [
+          "vplc-assistments-rural-subgroup-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "plc-norms-three-categories-trust-prerequisite",
+      "question": "What conditions make a community productive: norms, trust, leadership, active participation?",
+      "members": [
+        [
+          "teacher-leader-more-productive-plc",
+          "+"
+        ],
+        [
+          "plc-disagreements-catalyze-learning",
+          "+"
+        ],
+        [
+          "adlab-interaction-quality-shifted-from-superficial-to-collaborative",
+          "+"
+        ],
+        [
+          "active-participation-beats-mere-membership-for-learning",
+          "+"
+        ],
+        [
+          "honours-community-safe-supportive-learning-environment",
+          "+"
+        ],
+        [
+          "online-communities-must-be-designed-and-scaffolded",
+          "+"
+        ],
+        [
+          "online-community-requires-conscious-effort",
+          "+"
+        ],
+        [
+          "web-conferences-support-online-community",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "plc-object-outcome-mismatch",
+      "question": "What goes wrong: outcomes that differ from aims, excluded members, and communities that cannot form?",
+      "members": [
+        [
+          "cop-nonparticipation-invalidates-learner-identities",
+          "~"
+        ],
+        [
+          "plc-literature-trivializes-teacher-practice",
+          "~"
+        ],
+        [
+          "teacher-resistance-agency-challenges-plc",
+          "~"
+        ],
+        [
+          "small-rural-staffs-cross-subject-plcs-isolation",
+          "~"
+        ],
+        [
+          "rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "social-presence-strongest-metacognition-association-cbi",
+      "question": "In an online community of inquiry, which presences go with learners' regulation and learning?",
+      "members": [
+        [
+          "co-regulation-stronger-presence-relationships-than-self-regulation",
+          "+"
+        ],
+        [
+          "cognitive-presence-highest-least-variable-online-cbi",
+          "~"
+        ],
+        [
+          "coi-presence-uneven-profile-mba",
+          "~"
+        ],
+        [
+          "peer-monitoring-exceeds-social-presence",
+          "~"
+        ],
+        [
+          "online-labs-better-with-instructor-scaffolds",
+          "~"
+        ],
+        [
+          "discussion-board-no-negative-feedback-synchrony-required",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

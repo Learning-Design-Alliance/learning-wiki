@@ -41,12 +41,13 @@ Interview-form study of 136 sixth-grade Latino students in three Chicago public 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — the general claim this finding bears on, with the studies behind it
 - [The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons](strp-teachers-metacognitive-tools-before-during-after.md) — related
 - [The authors report that an area of positive change in their study was students' use of self-generated questions](self-generated-questions-positive-change-metacognitive-training.md) — related
 - [Students in grades 2-12 whose teachers received STRP training used 19 of 35 framework metacognitive behaviors in reading](students-use-19-of-35-metacognitive-behaviors.md) — related

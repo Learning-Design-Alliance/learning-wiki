@@ -1,0 +1,172 @@
+{
+  "principle": "principles/peer-discussion",
+  "note": "Drafted 2026-10-14 by an agent from the claims' titles and evidence entries. Covers principles/peer-discussion, patterns/peer-instruction and patterns/think-pair-share. Thin: the clicker-specific members come from three studies (Kirkwood-Watts et al. 2022, associational; Anderson et al. 2023, counterbalanced quasi-experiment; Miller 2013, surveys), and the hub from two Smith et al. studies. Review before applying.",
+  "findings": [
+    {
+      "hub": "peer-discussion-improves-conceptual-understanding",
+      "question": "Does discussing a committed answer with peers improve a later individual answer on a new question?",
+      "members": [
+        [
+          "correct-correct-clicker-pattern-higher-exam-performance",
+          "~"
+        ],
+        [
+          "clicker-participation-and-homework-completion-predict-exam-performance",
+          "+"
+        ],
+        [
+          "learning-attributed-to-process-not-technology",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "classroom-quizzing-improves-exam-performance-across-grades-and-content",
+      "question": "How much comes from answering the question at all, before any discussion?",
+      "members": [
+        [
+          "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "hocs-clickers-improve-locs-exam-performance",
+      "question": "Which questions to discuss: recall-level or higher-order?",
+      "members": [
+        [
+          "locs-exam-questions-outperform-hocs",
+          "~"
+        ],
+        [
+          "semester-cohort-difference-hocs-exams",
+          "~"
+        ],
+        [
+          "students-perceive-clicker-levels-equally-helpful",
+          "~"
+        ],
+        [
+          "reformed-pedagogy-content-gains-but-no-reasoning-gains",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "homework-explanation-quality-predicts-exam-performance",
+      "question": "What should follow the in-class discussion?",
+      "members": [
+        [
+          "follow-up-homework-modestly-boosts-exam-performance",
+          "+"
+        ],
+        [
+          "clicker-presence-predicts-homework-explanation-quality",
+          "+"
+        ],
+        [
+          "clicker-vote-patterns-null-on-homework-explanations",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cooperative-conceptual-change-chemistry-misconceptions",
+      "question": "What makes a discussion fail to revise understanding?",
+      "members": [
+        [
+          "cognitive-disequilibrium-motivates-conceptual-change",
+          "~"
+        ],
+        [
+          "interactive-requires-constructive-turn-taking",
+          "~"
+        ],
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "collaborative-learning-improves-outcomes",
+      "question": "Does small-group work beat working alone, and how should groups be set up?",
+      "members": [
+        [
+          "cooperative-learning-group-rewards-and-individual-accountability",
+          "~"
+        ],
+        [
+          "discussion-promotes-more-active-thought-than-lecture",
+          "~"
+        ],
+        [
+          "pairs-better-than-triads-in-stellar-inquiry",
+          "~"
+        ],
+        [
+          "increasing-wait-time-improves-response-quality",
+          "~"
+        ],
+        [
+          "small-group-learning-improves-stem-achievement",
+          "+"
+        ],
+        [
+          "meta-analytic-moderate-large-effects-collaborative-learning",
+          "+"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "er-peer-interaction-greater-achievement-gains",
+          "+"
+        ],
+        [
+          "collaborative-group-work-beats-competitive-classrooms-k12",
+          "+"
+        ],
+        [
+          "active-collaborative-approaches-higher-order-thinking",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "students-report-peer-collaboration-supports-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "clickers-perceived-learning-benefit",
+      "question": "How do learners receive vote-and-discuss routines?",
+      "members": [
+        [
+          "clicker-mpi-liked-by-preservice-teachers",
+          "+"
+        ],
+        [
+          "clickers-and-lecture-rated-above-textbook",
+          "+"
+        ],
+        [
+          "no-instructor-bias-clicker-perceptions",
+          "~"
+        ],
+        [
+          "clickers-fun-variation-over-learning",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

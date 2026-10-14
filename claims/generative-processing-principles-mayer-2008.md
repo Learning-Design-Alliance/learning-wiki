@@ -41,6 +41,7 @@ Controlled experiments on paper-based and computer-based lessons on brakes, pump
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer](contiguity-principles-mayer-2008.md) — a narrower finding that bears on this claim

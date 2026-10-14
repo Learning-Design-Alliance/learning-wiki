@@ -20,7 +20,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (15 for, 9 mixed, 1 against) · 20 studies (9 causal, 5 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 20 report an effect size · 20 claims rest on one study
+> **Evidence** · 37 claims (22 for, 15 mixed) · 29 studies (15 causal, 8 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 11 of 29 report an effect size · 30 claims rest on one study
 
 ## Description and scope
 
@@ -63,6 +63,25 @@ A request to "make it more engaging" or "add visuals" does not specify these inp
 - **Segment continuous presentations for learners new to the content, and check whether it is still needed.** In one randomized experiment with 75 Dutch secondary students, [segmentation of narrated animated worked examples](../claims/segmentation-benefits-shrink-with-expertise.md) [~M] was more efficient for lower prior knowledge, with no advantage at higher prior knowledge, on an efficiency composite rather than on transfer scores alone. Not yet checked against its source.
 
 Do not convert η² or a regression β into a probability for a learner, rank these unlike comparisons by effect label, or predict delayed use from an immediate test. A precise abstention names the missing comparison, target or observation and the next way to resolve it.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **who controls the pace** (system-paced video or lecture, or learner-paced pages), **how complex the material is** (how many parts must be held in mind together), **the learners' prior knowledge and reading fluency in the language of instruction**, and **whether the outcome is retention or transfer**. Each row changes step 3 (configure the candidate) unless it says otherwise.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| A system-paced video, lecture or narrated animation | Apply the configuration rules strictly (words beside the picture, narration rather than printed text, no extras); the design principles matter more when learners cannot pause | [Design principle effects are moderated by pacing and complexity](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [+M]; [Pacing moderates the modality effect](../claims/modality-effect-moderated-by-pacing.md) [+M] |
+| Learner-paced pages, slides or a website | Keep the words printed next to the picture; do not convert them to narration, which showed no benefit (slightly negative) when learners set the pace | [Pacing moderates the modality effect](../claims/modality-effect-moderated-by-pacing.md) [~M] |
+| Complex material: a process with many interacting parts, and learners new to it | Integrate each label or sentence into the picture at the point it describes, and present spoken words with the matching part of an animation | [Integration benefit is larger for high element-interactivity material](../claims/element-interactivity-moderates-contiguity-effect.md) [+M]; [Integrating related elements gives a large average benefit for novices](../claims/integration-of-related-elements-large-mean-effect.md) [+M] |
+| Learners already know the content well | Cut explanatory text that repeats what the diagram shows, and reduce segmentation; check on a transfer item rather than assuming | [Integration benefits may reverse for more experienced learners](../claims/expertise-reversal-limits-contiguity-benefits.md) [~M]; [Segmentation benefits shrink with expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [~M] |
+| Second-language readers or less fluent readers, and the material has no picture or animation | Give the words both spoken and written | [Spoken–written advantages are larger for L2 and nonfluent readers](../claims/reader-fluency-prior-knowledge-moderate-redundancy.md) [+M]; [Verbal redundancy does not help when images or animation are included](../claims/images-animation-eliminate-redundancy-benefit.md) [~M] |
+| A narrated animation carries the full narration as on-screen text | Remove the duplicated text, or keep only key terms beside the picture; keep captions where access requires them | [Redundancy principle](../claims/redundancy-principle-mayer-2008.md) [+M]; [Verbal redundancy does not help when images or animation are included](../claims/images-animation-eliminate-redundancy-benefit.md) [~M] |
+| Video in a second language, for language learners | Add captions in the target language | [Captioning second-language videos produces large benefits](../claims/captioning-second-language-videos-large-benefits.md) [+M] |
+| The brief asks for engaging extras: stock photos, background music, anecdotes | Leave out what the explanation does not need, and replace decorative images with ones that show the relation being explained | [Coherence principle](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+M]; [Interesting but irrelevant details can impair learning](../claims/seductive-details-effect.md) [~M] |
+| The choice is between a static diagram and an animation | Choose by what must be shown (change over time or not); the integration rules apply equally to both | [Contiguity effects do not differ between static and dynamic presentation](../claims/static-dynamic-presentation-no-moderation.md) [~M] |
+| A long continuous presentation, and learners are new to the content | Break it into meaningful segments with a pause or "next" between them; allow for more study time | [Segmenting improves retention and transfer](../claims/segmenting-effect-retention-transfer-meta-analysis.md) [+M]; [Segmentation increases learning time](../claims/segmenting-increases-learning-time.md) [~M] |
+| The plan relies on learners using pause and replay controls | Build the pauses into the presentation rather than counting on learners to use the controls | [Learner flow control over animations was rarely used](../claims/flow-control-unused-no-learning-correlation.md) [~W] |
+| The outcome is transfer, not recall | Expect smaller gains from adding written text to narration, and judge the configuration on a transfer item in step 5 | [Spoken–written advantages are larger for retention than transfer](../claims/outcome-constructs-test-formats-moderate-redundancy.md) [~M] |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

@@ -41,8 +41,9 @@ Moderator analysis of the examination-score dataset by assessment type. Achievem
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — possibly the same claim (merge candidate)
 - [Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing](active-learning-raises-stem-exam-performance-047-sd.md) — related
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related

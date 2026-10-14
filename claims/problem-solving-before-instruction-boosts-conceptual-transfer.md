@@ -41,6 +41,7 @@ The article reports a randomized-controlled experiment comparing problem solving
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 -

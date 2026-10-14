@@ -41,6 +41,7 @@ Classroom observation study of 21 trained and 19 control secondary mathematics t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](mastery-learning-did-not-slow-pace-or-scope.md) — the general claim this finding bears on, with the studies behind it
 - [Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions](time-reallocated-across-instructional-functions.md) — related

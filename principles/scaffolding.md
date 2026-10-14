@@ -27,13 +27,31 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (12 for, 11 mixed, 2 against) · 24 studies (11 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 24 report an effect size · 19 claims rest on one study
+> **Evidence** · 29 claims (10 for, 16 mixed, 3 against) · 25 studies (12 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 25 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
 A learner who cannot yet complete a task alone may learn more from attempting it **with support** than from attempting it unsupported. Support here means hints, prompts, models, partial structures or tutor questions given during the attempt. The expected change is in later cognitive outcomes on the target task (`immediate-performance`, `near-transfer`, `conceptual-understanding`), not in how well the learner does while the support is present. The relationship is bounded by the learner's starting response on *this* task (`novice` for the task, not for the domain), by the kind of support and what it leaves the learner to do, by the setting (most evidence is one-to-one tutoring or computer-based support in STEM problem solving; little is `classroom`), and by whether the outcome is measured with the support removed.
 
 This page owns the general relationship: support versus none. The [Scaffolding and Fading](scaffolding-and-fading.md) principle holds a narrower model inside it, in which support is **contingent** (raised after failure, lowered after success) and then **withdrawn**, and the outcome is unassisted performance. Whether support must be contingent and must fade to help is a question that page treats; the evidence below does not settle it, and one synthesis found no difference by fading. The [cognitive apprenticeship pattern](../patterns/cognitive-apprenticeship.md) is a reusable policy built on that narrower model.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **what the learner does on the task without support**, **whether the outcome that matters will be measured with the support removed**, and **who or what gives the support (a tutor, a teacher with a class, software, an AI assistant)**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Learners cannot yet complete the target task alone | Give support during the attempt (prompts, partial structures, models) rather than leaving them to attempt it unsupported, and judge learning on a later task without the support | [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S] |
+| `online-self-paced` or computer-based STEM problem solving | Build conceptual, strategic or metacognitive scaffolds into the tasks; do not rely on motivational messages alone, which showed no effect on their own | [Computer-based scaffolding has a positive effect in STEM](../claims/computer-based-scaffolding-positive-cognitive-outcomes-stem.md) [+M]; [Scaffold design features did not moderate the effect](../claims/scaffolding-design-features-no-moderation.md) [~M] |
+| The objective is applying principles, not recalling concepts | Aim the scaffolds at choosing and applying the principle; the effect was larger at the principles level than the concept level | [Scaffolding's effect is greater at the principles level](../claims/principles-level-assessment-highest-scaffolding-effect.md) [+M] |
+| The course is project-based, or design-based | Use scaffolds in project-based work; in design-based learning the pooled effect was not distinguishable from zero, so check unsupported performance there | [Scaffolding's effect is highest in project-based contexts](../claims/project-based-context-highest-scaffolding-effect.md) [~M] |
+| Learners are underperforming or below grade level | Expect a smaller gain from the same scaffolds; check unsupported performance more often and add explicit teaching of the missing knowledge | [Education population moderates the scaffolding effect](../claims/education-population-moderates-scaffolding-effect.md) [~M] |
+| One-to-one tutoring is available | Have tutors prompt the learner to produce the next step before they explain; prompting alone matched ordinary tutoring in one small study | [Tutoring effectiveness comes from scaffolding](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [~M] |
+| The support is an AI assistant that can produce the answer | Limit it to hints and questions rather than solutions, and test without it; unrestricted help raised assisted work and lowered unassisted results | [AI assistance impairs unassisted fraction performance](../claims/ai-assistance-impairs-unassisted-fraction-performance-exp1.md) [-M]; [Supported and independent writing performance diverge](../claims/genai-supported-performance-independent-divergence.md) [~M] |
+| Prompts are delivered in a computer module to novices | Write the prompts as text rather than diagrams | [Textual prompts give better near transfer than pictorial](../claims/textual-prompts-better-near-transfer-than-pictorial.md) [+M] |
+| A learner already does as well without the support | Make the support optional or remove it; guidance that helps novices can become redundant | [Expertise reversal effect](../claims/expertise-reversal-effect.md) [~S] |
+| The strategy can be taught explicitly instead | Consider explicit strategy instruction first; a dynamic-assessment synthesis ranked it above scaffolding | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [~M] |
+| Language teachers plan to support learners mainly by repeating or translating | Plan support aimed at the step the learner is stuck on; repetition and translation used as unplanned support were reported to hinder learning | [Repetition and translation as scaffolding can hinder learning](../claims/repetition-translation-scaffolding-hinders-learning.md) [-W] |
 
 ## Observation, state and explanation
 
@@ -58,6 +76,16 @@ These rows are proposals for interpreting a response; none has been tested with 
 - [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](../claims/repetition-translation-scaffolding-hinders-learning.md) [-W]. A forum piece reports a study of teacher–student exchanges in Cypriot after-school language programmes in which teachers' repetition and translation, used as unplanned support, hindered learning. It is a second-hand report with no design details or outcome measure on the claim page, so it shows only that something called scaffolding can fail; it does not show when. Not yet checked against its sources.
 
 The wiki has no claim that compares kinds of support (structuring the task versus simplifying it, procedural versus metacognitive prompts) on a common outcome, and none that tests scaffolding in whole classes against unsupported practice at a delayed horizon. Before transporting these observations, record the learners, setting (one-to-one, small group, computer-based), the support actually given and what it left to the learner, the comparator, outcome alignment and horizon. These studies do not rank one another; their comparisons differ.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/scaffolding.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes? [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]: 7 distinct studies.
+- Must support be contingent on the learner's last response, rather than fixed? [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]: 20 distinct studies.
+- Should support be withdrawn, and in what order? [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]: 7 distinct studies.
+- When the support can do the task for the learner (AI assistants), does it cost independent performance? [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/genai-usage-mode-predicts-independent-performance.md) [~M]: 9 distinct studies.
+- In what form, and under whose control, should prompts be given? [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](../claims/textual-prompts-better-near-transfer-than-pictorial.md) [+M]: 1 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

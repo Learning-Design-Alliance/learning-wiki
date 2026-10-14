@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (8 for, 7 mixed, 2 against) · 23 studies (8 causal, 7 quant-synthesis, 4 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 8 of 23 report an effect size · 10 claims rest on one study
+> **Evidence** · 25 claims (11 for, 12 mixed, 2 against) · 24 studies (8 causal, 7 quant-synthesis, 4 review, 2 associational, 2 design, 1 theoretical), `q1`–`q4` · 8 of 24 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -64,6 +64,34 @@ A request to "use TBL" does not specify these. Elicit them before choosing item 
 - **Base team rewards on individual learning.** [Group rewards with individual accountability](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+W] were associated with larger achievement effects (median +.32 against +.07) in a best-evidence synthesis of school studies, which also reports structured interaction working without rewards. These are school-age cooperative-learning studies, not this pattern; they bear on its grading, not its retrieval steps.
 
 Do not rank these against one another, and do not read an effect from a laboratory word-pair or a lecture course as a forecast for a team-based course. A precise abstention names the missing comparison: no recorded study compares this sequence with the same content taught otherwise.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/team-based-learning.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does the team readiness test raise scores above the individual one? [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](../claims/team-rat-scores-higher-than-individual-rat.md) [~M]: 3 distinct studies.
+- Which readiness score says something about later individual performance? [IRAT performance shows a stronger association with final exam performance than TRAT performance does](../claims/irat-stronger-final-exam-association-than-trat.md) [~M]: 1 distinct studies.
+- High-stakes or low-stress readiness tests? [Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts](../claims/low-stress-tbl-higher-isat-scores.md) [~M]: 1 distinct studies.
+- How should team work be graded so every member is accountable? [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S]: 7 distinct studies.
+- Permanent teams: who finds them hard, and how should teams be formed and run? [50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students](../claims/nd-semester-long-team-discomfort.md) [~M]: 1 distinct studies.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **how long the course runs** (stable teams need weeks), **what the readiness tests count for**, **class and team size**, and **whether any learners find permanent teamwork hard**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The instructor needs to know who prepared the reading | Use the individual readiness test, not the team test, as the signal of individual preparation; in one pharmacy course it tracked the final exam more closely | [IRAT is more strongly associated with the final exam than TRAT](../claims/irat-stronger-final-exam-association-than-trat.md) [+W]; [TRAT correlates weakly with lecture assessments](../claims/trat-weak-correlation-lecture-assessments.md) [+W] |
+| Team test scores are much higher than individual ones | Expect this; do not read the team score as each member's learning, and recheck individuals on the missed items later | [Team RAT scores are higher than individual RAT](../claims/team-rat-scores-higher-than-individual-rat.md) [~W] |
+| The cohort is in a high-stakes professional programme (medicine, dentistry) | Lower the grade weight of the readiness tests; in one non-randomised comparison a low-stress format gave similar readiness scores, less stress and higher individual summative scores | [Low-stress format had higher iSAT scores](../claims/low-stress-tbl-higher-isat-scores.md) [+W]; [Low-stress format lowered stress and frustration](../claims/low-stress-tbl-lower-stress-frustration.md) [+W] |
+| Readiness tests are multiple choice | Give immediate feedback on every team item (scratch cards or digital), and on individual items if the team test is dropped | [Feedback enhances retrieval practice](../claims/feedback-enhances-retrieval-practice.md) [+M]; [Multiple-choice lures can be learned as false knowledge](../claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) [-M] |
+| Team work counts towards grades | Tie team credit to each member's individual performance, with peer evaluation, rather than to a single team product | [Group rewards with individual accountability](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+W] |
+| Some learners are neurodivergent, or teams last a whole semester | Give teams defined roles, let students have a say in forming them, allow teams of three to five, and check in on team comfort during the term | [Half of ND students report discomfort with semester-long teams](../claims/nd-semester-long-team-discomfort.md) [~W]; [ND students prefer defined team roles](../claims/nd-prefer-defined-team-roles.md) [~W] |
+| The team test shows a concept most teams missed | Give a short instructor explanation of that concept only, after the teams have discussed it | [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+W] |
+| The course is a large lecture section | Keep the application exercises, which replace lecture time, but expect smaller gains than in classes of 50 or fewer | [Active learning is strongest in small classes](../claims/active-learning-strongest-small-classes.md) [~M] |
+| The course is a laboratory with independent projects later | Use a TBL module on the core concepts before learners design their own projects | [TBL module prepared students for independent projects](../claims/tbl-module-prepares-independent-projects.md) [+W] |
+| The brief is a one-off workshop, not a course | Run a single readiness cycle (individual test, team test with feedback, clarification, one application problem) with ad hoc teams; drop peer evaluation and appeals | untested proposal |
+| The course runs live online | Run the individual test in the platform, the team test in breakout rooms with a shared answer form that gives immediate feedback, and simultaneous reporting by posting answers at once | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

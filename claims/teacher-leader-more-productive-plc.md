@@ -41,6 +41,7 @@ The review reports, citing Takahashi and McDougal (2016), that PLC with no appoi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — the general claim this finding bears on, with the studies behind it
 - [Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it](educator-style-matches-leadership-capacity.md) — related

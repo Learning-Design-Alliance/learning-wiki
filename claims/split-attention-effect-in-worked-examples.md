@@ -58,6 +58,17 @@ The review reports, citing Tarmizi and Sweller, that Experiments 4 and 5 with an
 
 > "the authors found that simply restructuring the worked example by integrating verbal explanations into a diagram enhanced learning in comparison to conventional problem solving and split-source worked examples."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How should a worked example be presented?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (2 review), `q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | this claim; [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent probl](dual-mode-worked-example-presentation.md) (qualifies); [Lesson variability benefits transfer only in combination with worked-example instruction, ](example-variability-interaction-with-cognitive-load.md) (qualifies) |
+| [Sweller 2019](https://doi.org/10.1007/s10648-019-09465-5) | q2 · review · r2 | i? | [Variability of practice interacts with problem format: high variability aids learning from](variability-effect-format-interaction.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

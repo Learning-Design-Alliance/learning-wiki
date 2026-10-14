@@ -39,6 +39,16 @@ Generalized linear mixed model predicting isomorphic exam performance from coded
 
 > "Students who gave a homework explanation that demonstrated understanding were more likely than students who gave an incomplete or incorrect explanation to answer the isomorphic exam question correctly (Fig. 7A and T able 5)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What should follow the in-class discussion?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **1 distinct studies** (1 associational), `q3`, 0 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | this claim; [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) (supports); [Being present for a clicker question predicts a higher likelihood of providing a homework ](clicker-presence-predicts-homework-explanation-quality.md) (supports); [Clicker vote patterns show no significant effect on homework explanation quality, though c](clicker-vote-patterns-null-on-homework-explanations.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

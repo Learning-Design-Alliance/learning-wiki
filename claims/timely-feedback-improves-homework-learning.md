@@ -60,8 +60,9 @@ The authors describe their own rigorous study of the ASSISTments platform, which
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](feedback-timing-moderates-pretesting.md) — the general claim this finding bears on, with the studies behind it
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — a broader claim this one bears on
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related

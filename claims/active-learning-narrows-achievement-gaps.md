@@ -59,6 +59,18 @@ Lorenzo, M., Crouch, C. H., & Mazur, E. (2006). Reducing the gender gap in the p
 
 Comparing introductory physics courses with varying levels of active-engagement instruction, this study found active learning benefited all students but had the largest effect on female students specifically; at the highest ("high dose") level of active-learning implementation studied, the gender performance gap was eliminated entirely — consistent with earlier work suggesting women particularly benefit from active-learning approaches (Laws et al., 1999; Schneider, 2001).
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*For whom: does it narrow gaps for underrepresented and low-income students?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q2`–`q4`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Haak et al 2011](https://doi.org/10.1126/science.1204820) | q3 · causal · r? | i2 · large effect on the specific achievement gap studied | this claim |
+| [Lorenzo, Crouch, and Mazur 2006](https://doi.org/10.1119/1.2162549) | q3 · causal · r? | i? | this claim |
+| [Theobald Elli J. et al 2020](https://doi.org/10.1073/pnas.1916903117) | q2 / q3 / q4 · quant-synthesis · r3 | i? | [Active learning reduces the examination-score achievement gap between minoritized-group an](active-learning-reduces-exam-achievement-gaps-33-percent.md) (supports); [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized](active-learning-narrows-passing-rate-gap-45-percent.md) (supports); [Effects of active learning on achievement gaps vary widely across studies, with a minority](active-learning-gap-effects-vary-across-studies.md) (qualifies); [Class size, course level, and discipline did not explain significant variation in how achi](class-size-level-discipline-not-significant-moderators.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Both studies share a structure worth noting for design purposes: the achievement gap wasn't closed by disadvantaged/underrepresented students catching up on their own, but by a course-wide structural change (more structure, more active engagement) that helped everyone while helping the previously-lower-performing group more. This means the intervention did not require identifying or singling out at-risk students — a uniformly applied, well-structured active-learning redesign was sufficient to narrow the gap as a side effect of raising the whole course's instructional quality. This strengthens the case for [Active Learning](../principles/active-learning.md) beyond its general performance benefits (Freeman et al., 2014): in STEM gateway courses specifically, it functions as an equity intervention, not just an average-performance one.

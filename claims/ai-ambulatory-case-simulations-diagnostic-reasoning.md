@@ -41,8 +41,9 @@ In the review's ambulatory-settings theme, it describes longitudinal case-based 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — reports the opposite
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related

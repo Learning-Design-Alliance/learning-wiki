@@ -41,8 +41,9 @@ Student interviews and focus groups in the course case studies. "Online lab exer
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — the general claim this finding bears on, with the studies behind it
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — related
 - [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — a broader claim this one bears on
 - [Attention can move within the visual field without eye movements, selecting among simultaneous inputs](attention-mobility-visual-field.md) — related

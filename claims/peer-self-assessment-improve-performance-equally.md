@@ -41,7 +41,8 @@ The primer reports, citing Double et al. (2020), a meta-analysis of control grou
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — a narrower finding that bears on this claim

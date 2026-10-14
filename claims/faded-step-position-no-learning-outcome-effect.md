@@ -41,8 +41,11 @@ Experiment 1 in a computer-based learning environment containing faded worked so
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — the general claim this finding bears on, with the studies behind it
+
+- [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](fading-worked-steps-facilitates-example-to-problem-transition.md) — the general claim this finding bears on, with the studies behind it
 - [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — related
 - [No effect of fading on productive learning events including self-explanations was found in Experiment 2's think-aloud analysis](fading-no-effect-productive-learning-events.md) — related
 - [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — related

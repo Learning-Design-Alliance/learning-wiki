@@ -41,8 +41,9 @@ Limitation identified through student feedback and instructor observation. Stude
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - [AI-supported lab manual design increased students' confidence in experimental design in an upper-division analytical chemistry laboratory course](ai-lab-manual-design-increased-confidence-experimental-design.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on

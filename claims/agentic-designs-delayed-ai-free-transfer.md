@@ -41,7 +41,8 @@ Delayed AI-free transfer was a novel supervised argumentation task without GenAI
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — related
 - [Hybrid feedback outperforms direct GenAI feedback on conceptual learning; the reflective–direct contrast is positive but non-significant](hybrid-feedback-conceptual-learning-advantage.md) — related

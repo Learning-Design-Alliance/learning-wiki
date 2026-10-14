@@ -128,6 +128,23 @@ Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic Rewards and Intrinsic
 
 Responding directly to Cameron and Pierce's (1994) conclusion that the undermining effect was minimal, this article reviews the results of the authors' 1999 meta-analysis, which it says showed Cameron and Pierce's analysis was seriously flawed and that tangible rewards do have a substantial undermining effect, supporting cognitive evaluation theory. It discusses what that means for rewards in classrooms: they should be used selectively and thoughtfully, not treated as a costless motivational tool.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do rewards and praise undermine voluntary engagement?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **8 distinct studies** (4 review, 2 quant-synthesis, 2 causal), `q3`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Deci Koestner Ryan 1999](https://doi.org/10.1037/0033-2909.125.6.627) | q4 · quant-synthesis · r2 | i1 · small to medium effects, d=-0.28 (performance-contingent) to -0.40 (engagement-contingent); the printed range spans the i1–i2 boundary and is binned by its smaller end, so it covers all three contingencies the subclaim names | this claim |
+| [Cameron Pierce 1994](https://doi.org/10.3102/00346543064003363) | q4 · quant-synthesis · r? | i? | this claim |
+| [Deci 1971](https://doi.org/10.1037/h0030644) | q3 · causal · r? | i? | this claim |
+| [Eisenberger and Cameron 1996](https://doi.org/10.1037/0003-066x.51.11.1153) | q3 · review · r? | i? | this claim |
+| [Deci Koestner and Ryan 2001](https://doi.org/10.3102/00346543071001001) | q3 · review · r2 | i? | this claim |
+| [Mueller & Dweck 1998](https://doi.org/10.1037/0022-3514.75.1.33) | q3 · causal · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
+| [Henderlong & Lepper 2002](https://doi.org/10.1037/0033-2909.128.5.774) | q3 · review · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
+| Halpern 2007 | q3 · review · r2 | i? | [Praise focused on global intelligence has negative effects on future learning behavior com](intelligence-praise-versus-effort-praise-effects.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The standard explanation draws on [self-determination theory](../theories/self-determination-theory.md): rewards can shift a learner's perceived locus of causality from internal ("I do this because I enjoy it") to external ("I do this to get the reward"), undermining the needs for [autonomy](../principles/autonomy.md) and competence that sustain intrinsic motivation. This is closely related to the claim that [autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md).

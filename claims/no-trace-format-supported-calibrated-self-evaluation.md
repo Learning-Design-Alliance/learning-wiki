@@ -41,8 +41,9 @@ Trial-level Type-2 ROC area computed per participant from ten items did not diff
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [Full reasoning traces impaired task performance relative to both answer-only and summary-trace conditions in AI-assisted LSAT reasoning](full-traces-impair-ai-assisted-reasoning-performance.md) — related
 - [Full reasoning traces worsened calibration bias and Brier scores relative to both other conditions](full-traces-worsen-calibration-and-brier-scores.md) — related
 - [Guided-LLM students showed the strongest self-assessment calibration, with the highest well-calibrated rate and strongest self-assessment–performance correlations](guided-llm-self-assessment-calibration-alignment.md) — related

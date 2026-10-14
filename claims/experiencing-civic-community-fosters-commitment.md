@@ -41,8 +41,9 @@ The longitudinal survey analysis examined neighborhood social capital, school se
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [General academic supports and quality instruction are insufficient to foster civic commitment; supportive teachers and quality instruction were not statistically related to it](academic-outcomes-focus-insufficient-civic-commitment.md) — related
 - [Service learning experiences and in-class civic learning opportunities have a larger impact on high school students' commitment to civic participation than other school, family, or community influences](service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) — related
 - [Neighborhood poverty concentration and parental press for academic achievement each had negative effects on students' civic commitments](poverty-concentration-and-parental-academic-press-negative-civic-effects.md) — related

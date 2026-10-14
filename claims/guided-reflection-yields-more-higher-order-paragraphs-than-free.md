@@ -41,8 +41,9 @@ Comparative analysis of journal and blog paragraphs from four sections of a grad
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes](syllabus-service-content-connection-strongest-pedagogical-relationship.md) — the general claim this finding bears on, with the studies behind it
 - [Guided reflection assignments produce roughly twice as much written reflection as free assignments](guided-reflection-produces-longer-reflections.md) — related
 - [Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing](public-vs-private-reflection-mixed.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — a broader claim this one bears on

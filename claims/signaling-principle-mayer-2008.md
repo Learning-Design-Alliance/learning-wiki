@@ -41,6 +41,9 @@ Controlled experiments comparing signaled versus nonsignaled lessons (overview s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — the general claim this finding bears on, with the studies behind it
+
+- [Clear Structure Improves Learning](clear-structure-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 -

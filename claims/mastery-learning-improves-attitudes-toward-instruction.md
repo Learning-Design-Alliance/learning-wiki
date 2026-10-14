@@ -43,6 +43,17 @@ Eighteen evaluations measured students' ratings of the instructional method: 16 
 
 > "Overall, the average effect size in the 18 studies was 0.63, t(17) = 4.50, p < .001."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How do students and teachers respond to it?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (2 quant-synthesis), `q3`–`q4`, 2 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i2 · medium effect, ES = 0.63 toward instruction, 0.40 toward subject | this claim |
+| Guskey 1985 | q3 · quant-synthesis · r2 | i?; i0; i2 | [Mastery learning has overall positive effects on student affect, with the exception of sli](mastery-positive-affective-effects.md) (supports); [Successful use of mastery learning has powerful but mixed effects on teacher variables, in](mastery-mixed-teacher-variable-effects.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Attitude scales were self-report and the studies were mostly college PSI courses, so this says students like the method, not that it raises motivation more broadly. It sits alongside a small cost in instructional time: in six of eight studies mastery students needed more, a median 4% more.

@@ -60,8 +60,9 @@ The report's narrative review states this benefit of attending diverse schools, 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — the general claim this finding bears on, with the studies behind it
 - [Racially diverse schools show stronger achievement for historically underserved groups and positive effects on critical thinking, intergroup relationships, and civic engagement](racially-diverse-schools-benefits-underserved-achievement.md) — possibly the same claim (merge candidate)
 - [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related
 - [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related

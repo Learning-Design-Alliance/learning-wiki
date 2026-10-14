@@ -61,6 +61,17 @@ Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text 
 
 In the same study, the main effect for relevancy was also significant for the low-relevant score, F(1, 40) = 6.98, p < .05. Learners scored higher on low-relevant questions when the low-relevant material was the emphasized content. Together with the high-relevant result, this shows the effect is symmetric: emphasis improves performance on whatever is emphasized, regardless of its actual instructional importance.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does it matter what is marked, and who marks it (learner or instructor)?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 causal, 1 review), `q3`, 2 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Nist 1985 | q3 · causal · r? | i2 · medium effect; i? | this claim; [In one experiment, students who generated their own underlining did not score significantl](experimenter-underlining-effective-as-student-underlining.md) (qualifies) |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i2 | [Signaling principle: highlighting essential words improves transfer from multimedia lesson](signaling-principle-mayer-2008.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Attention follows marking, not importance.** The two findings combine into a single mechanism: emphasis acts as an [attention](../elements/attention.md) cue, and learners allocate study time and processing to cued content. This is double-edged. Marking the *right* content scaffolds selective attention and improves outcomes; marking the *wrong* content misdirects attention away from what matters, producing the same measurable shift toward trivial material. This aligns with the broader coherence finding that irrelevant material hurts learning — see [Irrelevant material hurts learning (coherence principle).](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+M]

@@ -41,8 +41,9 @@ A randomized controlled double-blind study in which 22 cadets were independently
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Double-blind experimental design can be successfully implemented in CALL-based pedagogical intervention research](double-blind-design-feasible-in-call-research.md) — related
 - [Lexical units brought to the 'fully learned' stage by the tutor scored significantly lower on the posttest than units students already knew before introduction](learned-units-below-previously-known-units.md) — related
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — a broader claim this one bears on

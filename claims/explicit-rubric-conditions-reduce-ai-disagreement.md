@@ -60,8 +60,9 @@ Focused regrading of only the OE1 Q2 submissions with large Round I AI–officia
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [AI total scores correlate strongly with official human scores on handwritten physics assessments (r = 0.91–0.97 in Round I; 0.93–0.96 in Round II)](ai-human-total-score-correlation-handwritten-physics.md) — related
 - [AI self-reported confidence flags identify parts with smaller grading differences, but some high-confidence parts still differ from official scores by more than one point](confidence-flags-triage-human-review.md) — related
 - [Round II raised exact question-part agreement from about 63% to about 70% and cut parts differing by more than one point from about 13% to 7%, while exact partial-credit scoring remained hardest](question-part-agreement-partial-credit-limits.md) — a broader claim this one bears on

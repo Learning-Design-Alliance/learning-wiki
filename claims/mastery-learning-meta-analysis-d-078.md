@@ -41,8 +41,9 @@ The author meta-analyzed U.S. elementary mathematics mastery learning studies (a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Japanese elementary students outperform American students in mathematics achievement with a standardized mean difference of d = 0.78](japanese-math-achievement-d-078.md) — related
 - [Overlapping confidence intervals of Japanese math performance and mastery learning effects indicate a potential relationship, not a causal conclusion](overlapping-ci-potential-relationship.md) — related
 - [In the top ten percent of the mathematics achievement distribution, Japanese students outperform American students 18 to one](top-decile-japanese-outperform-18-to-1.md) — related

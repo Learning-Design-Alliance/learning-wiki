@@ -96,6 +96,25 @@ Program of controlled experiments in the author's lab comparing concise versus e
 
 > "The median effect size ( d) was 0.97, which is considered a large effect."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should interesting but unneeded material be cut?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **10 distinct studies** (6 causal, 2 quant-synthesis, 1 theoretical, 1 design), `q1`–`q4`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Harp & Mayer 1998](https://doi.org/10.1037/0022-0663.90.3.414) | q3 · causal · r? | i? | this claim; [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
+| [Mayer et al. 2001](https://doi.org/10.1037/0022-0663.93.1.187) | q3 · causal · r? | i? | this claim |
+| [Rey 2012](https://doi.org/10.1016/j.edurev.2012.05.003) | q4 · quant-synthesis · r? | i? | this claim |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · theoretical · r3 | i3 | this claim |
+| [Sundararajan & Adesope 2020](https://doi.org/10.1007/s10648-020-09522-4) | q3 · quant-synthesis · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
+| [Lenzner et al. 2013](https://doi.org/10.1007/s11251-012-9256-z) | q3 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
+| [González et al. 2019](https://doi.org/10.14742/ajet.4577) | q3 · causal · r2 | i1 · small effect, η²=.04 (Study 1) | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
+| Garner et al. 1992 | q2 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
+| Sanchez and Wiley 2006 | q3 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
+| Merging Cognitive Science and Curriculum to Strengthen Middle School Math 2014 | q1 · design · r1 | i? | [Decorative photographs unrelated to the mathematics of a problem distract students, and re](decorative-images-distract-from-math-problems.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The coherence principle follows from [cognitive load theory](../theories/cognitive-load-theory.md): working memory has severely limited capacity, and seductive details — emotionally interesting but tangential material — compete for those resources, diverting attention away from essential content and disrupting the construction of a coherent mental model. This connects directly to [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) and [Chunking reduces working-memory load](chunking-reduces-working-memory-load.md).

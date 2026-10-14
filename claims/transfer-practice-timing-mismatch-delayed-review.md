@@ -56,7 +56,8 @@ Interview finding from the same field study: participants P09 and P10 wanted sav
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — the general claim this finding bears on, with the studies behind it
 - [System reliability and latency acted as a prerequisite bottleneck: 56.4% of started solves completed, with a 32.0-second average latency and 68.5-second p90](solve-funnel-latency-bottleneck.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related

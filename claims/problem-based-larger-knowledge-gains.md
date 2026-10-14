@@ -41,7 +41,8 @@ In the same randomized two-group trial, the knowledge-section gain comparison re
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [The participatory simulation group achieved significantly larger application gains than the problem-based group](simulation-larger-application-gains.md) — related
 - [The participatory simulation group showed significantly larger overall (combined knowledge and application) gains than the problem-based group after four weeks](simulation-larger-overall-il-gains.md) — related

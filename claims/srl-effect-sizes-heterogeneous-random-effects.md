@@ -41,8 +41,9 @@ Heterogeneity test comparing the Q statistic to the χ2 table with df = n-1; bec
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](heterogeneity-random-effects-model-problem-solving-meta-analysis.md) — related
 - Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — possibly the same claim (merge candidate)
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — related

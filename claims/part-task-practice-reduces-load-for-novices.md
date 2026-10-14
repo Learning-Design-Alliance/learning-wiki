@@ -48,6 +48,8 @@ This finding qualifies the whole-task approach, suggesting that [part-task pract
 - [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md)
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on

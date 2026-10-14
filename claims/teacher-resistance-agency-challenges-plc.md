@@ -41,7 +41,8 @@ Theoretical argument drawing on Tarnoczi (2006), Ball (1987) and Achistein (2002
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — the general claim this finding bears on, with the studies behind it
 - [Current PLC formulations trivialize teacher practice, which the authors argue severely limits the model's usefulness](plc-literature-trivializes-teacher-practice.md) — related
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related

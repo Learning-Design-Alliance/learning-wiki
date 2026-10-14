@@ -41,8 +41,9 @@ Generalized linear model with fixed effects in R 4.0.3, pre-test as baseline sco
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — the general claim this finding bears on, with the studies behind it
 - [Classroom implementation of the GoldList Method encountered pitfalls: forgotten notebooks, omitted dates, and unclear initial steps](goldlist-implementation-pitfalls-observed.md) — related
 - [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — related
 - [Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline](two-week-uniform-spacing-greatest-benefit.md) — possibly the same claim (merge candidate)

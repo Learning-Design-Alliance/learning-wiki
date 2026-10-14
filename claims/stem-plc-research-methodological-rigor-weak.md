@@ -60,8 +60,9 @@ The synthesis's judgment in the How Well Do We Know It section, based on its met
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — the general claim this finding bears on, with the studies behind it
 - [Online tools are extending STEM PLCs, with skilled facilitators, collaborative tools, and stable platforms identified as key components](online-stem-plcs-growing-phenomenon.md) — related
 - [Students of teachers in STEM learning communities learn mathematics better, but published evidence covers only mathematics and remains emerging](stem-plcs-improve-student-math-achievement.md) — reports the opposite
 - [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](stem-plc-math-student-learning-existence-proof.md) — related

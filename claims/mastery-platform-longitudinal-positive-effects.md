@@ -41,8 +41,9 @@ A large-scale longitudinal observational analysis of multi-year panel data from 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
 - [Time-varying confounds (e.g., hiring a tutor, school policy changes) remain an uneliminated threat to the platform's estimated effects](time-varying-confounds-limit-platform-estimates.md) — related

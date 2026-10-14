@@ -20,7 +20,7 @@ grain_size: lesson
 # Anchored Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (1 for, 8 mixed) · 23 studies (10 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 28 studies (12 causal, 8 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 28 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -71,6 +71,23 @@ Each step carries its evidence status. The steps are the earlier page's sequence
 - **When the whole problem is too complex.** [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition](../claims/part-task-practice-reduces-load-for-novices.md) [~M]: in one experiment, novices on tasks with high element interactivity did better when first given isolated parts before the integrated whole. The page records no sample size and no effect size, and its source has not been checked. It qualifies an anchor that presents one large integrated problem to novices; it does not say the anchor should be abandoned.
 
 Do not rank these results against one another: their comparators (unassisted discovery, fixed support, materials without decoration, unconnected concrete materials, whole-task presentation) and outcomes differ, and none was measured in an anchored unit. A precise abstention names the missing comparison, outcome or observation and the next way to resolve it.
+
+## Fitting the design to a situation
+
+No claim in the wiki tests an anchored unit against another format, so these rows adjust the parts the evidence bears on. Ask for four facts when the brief omits them: **what do learners already know of the target concept?**, **which details in the anchor are needed for the problem and which are decoration?**, **is transfer to a new situation the goal?**, and **how many sessions are there?**
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Learners are novices on the concept the anchor is meant to carry | Make the concept available explicitly (a short explanation or modelled step) before or alongside the work in the anchor | [Minimal guidance is less effective for novices](../claims/minimal-guidance-less-effective-for-novices.md) [-M] |
+| The anchor is a vivid story or video with much interesting but irrelevant detail, and learners have low prior knowledge | Trim or play down decorative details; keep only distractors that are part of the task, and prompt for relevance judgements on those | [Seductive details can impair comprehension and transfer](../claims/seductive-details-effect.md) [-M] |
+| The goal is use of the concept in new situations | Give a second anchor or case with different surface details and the same concept, and have learners compare the two | [Comparing cases side by side improves learning and transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M] |
+| The debrief is planned as a retelling of the story | Make step 5 an explicit mapping: name the concept and show which parts of the anchor correspond to it | [Concrete materials help only when connected to the concept](../claims/manipulatives-require-connection-to-concept.md) [~W] (manipulatives; carried to anchors by analogy) |
+| The anchor's problem needs several new interacting ideas at once and learners are complete beginners | Isolate one component first, then return to the whole anchor | [Part-task practice reduces load for absolute novices](../claims/part-task-practice-reduces-load-for-novices.md) [~W] |
+| Small groups work in the anchor with a facilitator | Raise support when a group is stuck and lower it when it progresses, recording each intervention | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [+M] (one-to-one tutoring) |
+| The anchor is a simulation or video that learners work through alone (`online-self-paced`) | Build prompts and feedback into the environment instead of leaving the anchor open | [Guidance added to simulation inquiry modestly improves outcomes](../claims/simulation-guidance-moderate-effect-dangelo.md) [+W] |
+| Learners are in the early primary years and the plan has them attempt the anchor's problem before any teaching | Teach the concept first and use the anchor as application | [PS-I effects are negative for 2nd–5th graders](../claims/psi-effect-increases-with-grade-level.md) [-M] |
+| Only one session is available | Use one short anchor, connect it explicitly to the concept within the session, and end with one individual item on a new situation | untested proposal |
+| The assessment asks about the anchor's own story | Score recall of the anchor separately from use of the concept on a new problem; only the second shows the concept travelled | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

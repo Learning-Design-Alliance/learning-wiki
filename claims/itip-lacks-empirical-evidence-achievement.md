@@ -41,8 +41,9 @@ The monograph reports a review by Orlich and associates (1993) of studies of sta
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](clinical-supervision-effectiveness-inconclusive.md) — related
 - [Experimental staff development programs mostly raised student achievement relative to control teachers (review attribution)](experimental-staff-development-raises-student-achievement.md) — related
 - [The expert-presenter model is the most prevalent staff development model, with most activities brief](expert-presenter-model-most-prevalent.md) — related

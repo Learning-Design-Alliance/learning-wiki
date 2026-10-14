@@ -61,6 +61,22 @@ Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example stu
 
 Renkl and Atkinson argue that instructional design should not stop at example study. Transfer is improved when examples are paired with application and when support is faded so learners take on progressively more of the task.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should modelling come before the learner's first attempts?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **7 distinct studies** (4 causal, 1 theoretical, 1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | this claim; [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) (supports); [Example-first conditions outperformed problem-first conditions on an immediate circuit tes](worked-example-problem-sequences.md) (supports) |
+| [Renkl & Atkinson 2003](https://doi.org/10.1207/s15326985ep3801_3) | q3 · theoretical · r? | i? | this claim |
+| [Sweller & Cooper 1985](https://doi.org/10.1207/s1532690xci0201_3) | q3 · causal · r? | i? | [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) (supports); [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) (supports) |
+| [Barbieri & Booth 2016](https://doi.org/10.1016/j.lindif.2016.04.001) | q2 · causal · r? | i? | [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) (supports) |
+| [Alfieri 2011](https://doi.org/10.1037/a0021017) | q3 · quant-synthesis · r2 | i1 | [Worked examples confer a larger advantage over unassisted discovery than direct teaching d](worked-examples-largest-advantage-over-unassisted-discovery.md) (supports) |
+| Shen 2006 | q3 · causal · r2 | i? | [Studying worked examples between two rounds of a computer puzzle game produced significant](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) (supports); [Adult players who studied worked examples scored significantly higher on a game-based prob](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md) (supports); [Adult players who studied worked examples scored significantly higher on a game-based prob](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) (supports); [Worked-example gains in a puzzle game remained small relative to expert performance, with ](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) (qualifies) |
+| Star 2015 | q2 · review · r3 | i? | [Studying solved problems improves algebra achievement compared to solving practice problem](solved-problems-improve-algebra-achievement.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 This claim is about sequence design, not mere inclusion. Examples that are never followed by application can produce familiarity without independent competence.

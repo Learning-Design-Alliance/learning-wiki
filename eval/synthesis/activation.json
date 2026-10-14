@@ -1,0 +1,116 @@
+{
+  "principle": "principles/activation",
+  "note": "Drafted 2026-10-14 by an agent (g6). Topic 'design-models' covers patterns/gagnes-9-events-of-instruction, patterns/4cid-four-component-instructional-design and principles/activation, but only activation has enough claims for a spec, so this spec is for principles/activation alone (Gagne: four claims from one experiment; 4C/ID: two small null trials and design arguments). high-confidence-errors-improve-retention is left out because the retrieval-practice spec already uses it. Review before applying.",
+  "findings": [
+    {
+      "hub": "activation-improves-learning",
+      "question": "Does an activity that surfaces prior knowledge before instruction improve learning compared with starting directly?",
+      "members": [
+        [
+          "prior-knowledge-activation-little-effect-on-retention",
+          "-"
+        ],
+        [
+          "ai-warmups-activate-prior-knowledge-solution-generation",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "advance-organizers-improve-learning",
+      "question": "Do designer-made organizers that relate new content to the known help, and for whom?",
+      "members": [
+        [
+          "graphic-organizers-support-novice-comprehension",
+          "+"
+        ],
+        [
+          "learner-constructed-graphic-organizers-outperform-provided",
+          "~"
+        ],
+        [
+          "mismatched-graphic-organizers-increase-extraneous-load",
+          "~"
+        ],
+        [
+          "organization-task-match-determines-benefit",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "pretesting-enhances-learning",
+      "question": "Does asking questions on the material before it is taught improve later learning of it?",
+      "members": [
+        [
+          "pretesting-enhances-memory-tested-text",
+          "+"
+        ],
+        [
+          "pretesting-enhances-memory-tested-video",
+          "+"
+        ],
+        [
+          "classroom-pretesting-exam-gains",
+          "+"
+        ],
+        [
+          "pretesting-effect-grows-with-retention-interval",
+          "+"
+        ],
+        [
+          "pretesting-untested-materials-inconsistent",
+          "~"
+        ],
+        [
+          "semantic-association-moderates-pretesting",
+          "~"
+        ],
+        [
+          "feedback-timing-moderates-pretesting",
+          "~"
+        ],
+        [
+          "metacognitive-illusion-pretesting-underrated",
+          "~"
+        ],
+        [
+          "pretesting-can-harm-motivation",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "misconceptions-interfere-with-new-learning",
+      "question": "What should follow when the knowledge activated is a misconception?",
+      "members": [
+        [
+          "refutational-text-order-enhances-retention",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-improves-misbelief-items-pretest-posttest",
+          "~"
+        ],
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "prior-knowledge-determines-new-learning",
+      "question": "Does knowing more beforehand mean learning more from the instruction?",
+      "members": [
+        [
+          "pretest-predicts-posttest-not-learning-gain",
+          "+"
+        ],
+        [
+          "pretest-scores-predict-posttest-scores",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

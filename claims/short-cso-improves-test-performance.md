@@ -41,6 +41,7 @@ Quasi-experimental comparison across two general psychology classes given short 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — the general claim this finding bears on, with the studies behind it
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — related

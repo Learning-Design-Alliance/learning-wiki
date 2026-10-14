@@ -41,6 +41,7 @@ Moderator analysis of education level (primary, middle, secondary, college, adul
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero](project-based-context-highest-scaffolding-effect.md) — related

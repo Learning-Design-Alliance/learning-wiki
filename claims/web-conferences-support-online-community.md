@@ -41,8 +41,9 @@ Qualitative finding from student comments in web conference sessions collected a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — the general claim this finding bears on, with the studies behind it
 - [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
 - [The redesigned unit promoted engagement across all five elements of the Engagement Framework, including professional relevance rated 4.86 on SETL](redesigned-unit-engaged-all-framework-elements.md) — a broader claim this one bears on
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related

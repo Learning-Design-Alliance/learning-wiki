@@ -41,6 +41,7 @@ Educators' reflective commentary on two editions of the course Planetary Health 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — the general claim this finding bears on, with the studies behind it
 - [In the course's COIL component, the intercultural environment did not create significantly larger problems than those typically observed in standard group work](coil-intercultural-environment-no-larger-problems-than-standard-group-work.md) — related

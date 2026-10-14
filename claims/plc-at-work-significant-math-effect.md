@@ -41,7 +41,8 @@ A quasi-experimental study compared over 2,500 students in 12 Arkansas schools u
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](stem-plc-math-student-learning-existence-proof.md) — the general claim this finding bears on, with the studies behind it
 - [PLC at Work did not significantly affect ELA achievement scores](plc-at-work-no-ela-effect.md) — related
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](barr-multisite-rct-map-math-es-008.md) — related

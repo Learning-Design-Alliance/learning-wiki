@@ -41,8 +41,9 @@ Secondary qualitative finding from the gateway math faculty and student study. T
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — the general claim this finding bears on, with the studies behind it
 - [Gateway math students benefit from a balance of social, active learning and independent practice, but faculty constraints limit active learning](balance-active-learning-independent-practice-gateway-math.md) — related
 - [Courseware can bridge gateway math learning gaps through tailored tutorials, study tools, diagnostics, and targeted practice](courseware-bridges-learning-gaps-gateway-math.md) — related
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related

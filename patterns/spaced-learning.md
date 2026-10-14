@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 16 claims (10 for, 5 mixed, 1 unmarked) · 14 studies (6 causal, 5 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (11 for, 9 mixed, 1 unmarked) · 18 studies (7 causal, 5 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 16 claims rest on one study
 
 ## Description
 
@@ -52,6 +52,23 @@ A word-pair experiment separated total retrieval spacing from its relative arran
 
 An equal schedule may be selected for practical reasons while this exact comparison remains unresolved; do not predict a gain from changing only equal to expanding gaps on this evidence. Calendar timing and the dose needed for a particular learner remain local questions. Lower practice fluency can coexist with better delayed performance, but difficulty alone does not identify the cause or predict the outcome.
 
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **when the learners will need the material** (the delay to the test or use), **how many sessions and minutes the schedule can hold**, and **whether reviews can be recall attempts with feedback**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| A course of several weeks with a final exam | Plan each topic's first study and at least one later review in a different week; keep the total practice time the same rather than adding sessions | [Spaced practice improves retention](../claims/spaced-practice-improves-retention.md) [+S] |
+| The exam or use is months away | Set longer gaps between first study and review for material needed later; review again closer to the date. Do not fix one gap for every course | [The optimal gap grows with the retention interval](../claims/optimal-isi-increases-with-retention-interval.md) [+M]; [The gap's effect depends on the retention interval](../claims/isi-effect-nonmonotonic-joint-retention-interval.md) [~M] |
+| Reviews can be short quizzes in an app or LMS | Make each review a recall attempt with corrective feedback rather than a reread | [Spaced retrieval improves retention](../claims/spaced-retrieval-improves-retention.md) [+M] |
+| The brief asks for a choice between expanding and fixed intervals | Default to equal intervals for simplicity; switch to expanding only if each item will be retrieved many times, where the meta-analysis found the expanding schedule did better | [Expanding and uniform schedules do not differ](../claims/expanding-versus-uniform-retrieval-no-difference.md) [~M]; [More exposures favour the expanding schedule](../claims/exposures-moderate-expanding-schedule-benefit.md) [~M] |
+| A flashcard or Leitner-box system with a steady flow of new items | Cap the number of new items introduced per session; above a threshold, items pile up in the first deck and learning stalls | [Too high a new-item rate causes a phase transition in learning rate](../claims/leitner-queue-network-phase-transition-in-learning-rate.md) [+W] |
+| A one-day workshop with no follow-up sessions | Add spaced follow-up quizzes in the weeks after the workshop | [Spaced retrieval after a financial workshop improved retention at five months](../claims/spaced-retrieval-practice-improves-financial-knowledge-retention.md) [+M] |
+| `online-self-paced` with learners choosing when to study | Release review sessions on a schedule and send reminders; do not leave the timing to learners, who prefer massing | [Learners misjudge spacing benefits](../claims/learners-misjudge-spacing-benefits.md) [~M] |
+| Learners want saved problems back later rather than straight after solving | Offer a later, collected review of saved or missed problems (a weekly "wrong-book") rather than an immediate follow-up card | [Learners rarely opened immediate transfer cards and asked for delayed review](../claims/transfer-practice-timing-mismatch-delayed-review.md) [~W] |
+| Second-language vocabulary in a course of a semester or longer | Space vocabulary reviews across the term; do not stretch the gaps across years | [Distributed practice benefits L2 learning, with limits on very long spreads](../claims/distributed-practice-limits-l2.md) [~W] |
+| The schedule is judged by practice accuracy | Report a delayed test as well; spaced reviews lower practice accuracy while raising delayed recall | [Spaced retrieval wins at the final test despite lower initial recall](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+M] |
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
@@ -86,3 +103,13 @@ The examples are local design instances, not additional observations from those 
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](../claims/retention-interval-by-levels-of-thinking-interaction-not-significant.md) [~W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](../claims/ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) [+M]
+
+## Key Sources
+
+- Karpicke, J. D., & Bauernschmidt, A. (2011). Spaced retrieval: Absolute spacing enhances learning regardless of relative spacing. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 37*(5), 1250–1257. [doi:10.1037/a0023436](https://doi.org/10.1037/a0023436)
+- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+- Latimier, A., Peyre, H., & Ramus, F. (2021). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. *Educational Psychology Review, 33*(3), 959–987. [doi:10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)
+- Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
+- Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. *Applied Cognitive Psychology, 23*(9), 1297–1317. [doi:10.1002/acp.1537](https://doi.org/10.1002/acp.1537)
+- Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850
+- Nakata, T. (2015). Effects of expanding and equal spacing on second language vocabulary learning: Does gradually increasing spacing increase vocabulary learning? *Studies in Second Language Acquisition, 37*(4), 677–711. [doi:10.1017/s0272263114000825](https://doi.org/10.1017/s0272263114000825)

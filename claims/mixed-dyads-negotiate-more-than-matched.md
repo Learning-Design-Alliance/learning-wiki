@@ -41,8 +41,9 @@ Generalized linear mixed model results for the overall NoM category from the sam
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - [EFL primary children's meaning negotiation during a spot-the-differences task is low in amount but significantly higher in the L2 than in the L1](efl-child-nom-low-l2-higher-than-l1.md) — related
 - [The quality rather than the quantity of interactional modifications predicts comprehensible input](interaction-quality-over-quantity.md) — related
 - [Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)](pairing-language-interaction-nom-l2-only.md) — reports the opposite

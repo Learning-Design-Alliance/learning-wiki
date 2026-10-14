@@ -42,6 +42,17 @@ Double, K. S., McGrane, J. A., & Hopfenbeck, T. N. (2020). The impact of peer as
 
 A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary, secondary and tertiary students across subjects, comparing peer-assessment interventions (grading, peer dialogue, written feedback) against no-assessment and teacher-assessment control conditions on academic performance (test scores, essay/writing quality, practical skills). Peer assessment improved performance relative to no assessment (g = 0.31, p = .004) and relative to teacher assessment (g = 0.28, p = .007), and its effect did not differ significantly from self-assessment (g = 0.23, p = .209). Meta-regressions found the effect was robust across moderators such as online/offline delivery, assessment frequency and education level, i.e., no single implementation detail was required for the effect to hold.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should learners assess each other's work, and does it need a rubric or script?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q3`–`q4`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Double et al. 2020](https://doi.org/10.1007/s10648-019-09510-3) | q4 · quant-synthesis · r? | i1 · small-to-medium effect, g=0.31; i0 · moderator effect below d=0.2, non-significant | this claim; [Structured criteria in peer assessment are not shown to improve its effect on academic per](peer-assessment-structured-criteria-improve-learning.md) (qualifies) |
+| [Fusco 2025](https://doi.org/10.51388/20.500.12265/252) | q3 · review · r1 | i? | [Peer and self-assessment both show significant effects on academic performance with no sig](peer-self-assessment-improve-performance-equally.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanisms.** Two routes plausibly drive any performance benefit. First, reviewing peers' work forces learners to apply criteria to authentic artifacts, which resembles the [worked examples](../elements/demonstration.md) benefit: studying others' solutions with evaluative intent exposes quality differences without the full load of production. Second, receiving structured feedback from peers adds feedback episodes beyond what an instructor alone can provide, aligning with [assessment for learning](../principles/assessment-for-learning.md) principles. Both routes also position peer assessment as a form of [active learning](../principles/active-learning.md): learners construct evaluative judgments rather than passively receive them.

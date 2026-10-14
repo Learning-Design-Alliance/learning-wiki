@@ -41,6 +41,7 @@ In the study on text familiarity and cohesion, cohesion was defined as the degre
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](linguistic-simplification-improves-math-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall](passage-familiarity-correlates-with-recall.md) — related

@@ -15,7 +15,7 @@ grain_size: lesson
 # Think-Pair-Share
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (3 for, 6 mixed) · 25 studies (9 review, 8 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 25 report an effect size · 1 claim rests on one study
+> **Evidence** · 14 claims (3 for, 11 mixed) · 32 studies (10 causal, 10 review, 6 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 32 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 
@@ -60,6 +60,24 @@ A request to "get more students talking" does not specify these inputs. Ask for 
 - For pair size, [pairs over triads](../claims/pairs-better-than-triads-in-stellar-inquiry.md) [+W] is the authors' experience from teaching one astronomy inquiry twice, with no measured outcome. It is a reason to keep pairs, not evidence that pairs are better.
 
 Do not convert a median effect from vote counts into a d, rank these by effect labels, or predict delayed retention from in-class share quality. A precise abstention names the missing comparison, target or observation and the next way to resolve it.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **what kind of prompt it is** (one defensible answer, or open), **what the routine is for** (revising a concept, wider participation, a check before moving on), and **how the share will be collected in a class of this size**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The prompt is a conceptual question with one defensible answer and a known misconception | Use the Peer Instruction configuration: a committed individual answer, pair discussion, a revote and a new question answered alone | [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M] |
+| Many learners rarely speak, or are working in a second language | Lengthen the think phase and ask for a written note before talking | [Longer wait time goes with higher-level responses](../claims/increasing-wait-time-improves-response-quality.md) [+W] |
+| Learners have not yet been taught the needed concept (`novice`) | Give a short explanation or example before the prompt; the think phase needs something to think with | [Minimal guidance is less effective for novices](../claims/minimal-guidance-less-effective-for-novices.md) [~M] |
+| One partner tends to do all the talking | Assign turns: one explains, the other questions, then swap; ask both to say where they disagree | [Interactive engagement requires constructive turn taking](../claims/interactive-requires-constructive-turn-taking.md) [~W] |
+| The brief asks whether to use pairs or larger groups | Default to pairs, and offer trios where some learners prefer them; neurodivergent students in one survey were more comfortable in teams of three to five, neurotypical students in pairs | [Pairs worked better than triads in one inquiry](../claims/pairs-better-than-triads-in-stellar-inquiry.md) [+W]; [ND students prefer teams of 3–5](../claims/nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) [~W] |
+| Some learners find speaking to the whole class hard | Let the share be written or reported by the pair, not a forced individual public answer | [ND students avoid courses requiring public presentations](../claims/nd-coping-failure-avoidance-public-presentations.md) [~W] |
+| The routine will be used weekly as graded group work | Base any group credit on each learner's individual answer | [Group rewards with individual accountability](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [~M] |
+| The prompt asks for interpretation of a text | Teach a few discussion moves (asking for evidence, building on a partner's point) before using the routine; talk volume alone did not raise comprehension | [Some discussion approaches improve comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [~M] |
+| The aim is only to deliver information | Explain directly; use the routine where learners must do something with the information | [Discussion promotes more active thinking; lecture is no worse for information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [~W] |
+| The class is large and a whole-class share would take too long | Call on randomly chosen pairs, or collect the share through a poll or written slips | untested proposal |
+| The class runs live online | Use breakout pairs with a timed think phase in the chat or a shared document, and collect the share in writing | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

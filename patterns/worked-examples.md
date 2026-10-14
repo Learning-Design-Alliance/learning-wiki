@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (2 for, 1 against, 3 unmarked) · 5 studies (4 causal, 1 design), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (6 for, 4 mixed, 1 against, 3 unmarked) · 11 studies (6 causal, 3 review, 1 design, 1 theoretical), `q2`–`q3` · 0 of 11 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -56,6 +56,23 @@ A request for “better learning” does not specify these inputs. Ask for them 
 
 Do not convert reported partial η² into a probability, rank unlike comparators using Cohen/Kraft labels, or predict delayed repair from immediate paper-task scores. A precise abstention names the missing comparison, target or observation and the next way to resolve it.
 
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **what a learner does on a first attempt at this problem type without help**, **how many example–problem pairs the time allows**, and **which outcome is checked, and when** (the practised procedure, a changed problem, a delayed test).
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| A first lesson on a structured procedure for learners who have not met it | Open with a fully worked example with the reasoning for each step visible, then a comparable problem | [Example-based sequences outperform problem-only practice for novices](../claims/worked-examples-with-practice-improve-transfer.md) [+M]; [Example–problem sequences reduce cognitive load](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M] |
+| One lesson with room for about four pairs | Sequence example → problem in each pair, never problem → example | [Example-first beat problem-first on an immediate test](../claims/worked-example-problem-sequences.md) [+M] |
+| The paired problem is identical to the example | Vary the paired problem's surface or numbers, and do not expect an order effect to last to a final test | [Order advantage not detected at the final test](../claims/identical-example-problem-order-advantage-not-detected-at-final-test.md) [~M] |
+| A unit of several lessons | Move from full examples to examples with the last step left out, then two steps, then bare problems | [Fading worked steps eases the move to problem solving](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+M] |
+| Learners will be tested on the principles, not only the procedure | Fade the steps that apply the principles to be learned, and prompt learners to name the principle at each step | [Learners learned most about the faded principles](../claims/learners-learn-most-about-faded-principles.md) [+M]; [Backward fading and principle prompts supported transfer](../claims/fading-and-principle-prompts-improve-probability-transfer.md) [+M] |
+| The first attempt shows learners can already solve and explain the problem | Skip to completion or independent problems for those learners, and check again on a changed problem | [Worked examples become less effective as expertise grows](../claims/worked-examples-less-effective-with-expertise.md) [~M] |
+| The first attempt shows little task knowledge | Give full, not completion, examples to these learners | [Lower-prior-knowledge learners did better with full than completion examples](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [+M] |
+| Examples come as a diagram plus separate text, or as narrated slides | Integrate the text into the diagram; if narration is used, add cues that direct attention when the visual search is heavy | [Split-attention examples lose their advantage](../claims/split-attention-effect-in-worked-examples.md) [~M]; [Dual-mode presentation helps, except under high visual search without cues](../claims/dual-mode-worked-example-presentation.md) [~W] |
+| The practice set uses widely varied problems | Pair varied problems with worked examples rather than with conventional problem solving | [High variability aids learning from examples but harms learning from problems](../claims/variability-effect-format-interaction.md) [~W] |
+| An AI tutor or retrieval system is meant to supply worked examples | Check that examples are actually delivered; one system included them in about 42% of responses despite a large problem bank | [Worked examples appeared in only about 42% of responses](../claims/algorag-worked-example-retrieval-42-percent.md) [-W] |
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
@@ -78,3 +95,12 @@ This pattern is scoped to selecting solution support for structured tasks. Open-
 ## Claims
 
 - [Pedagogical-criterion breakdown shows worked examples in only about 42% of responses, the weakest criterion despite 312 practice problems in the knowledge base](../claims/algorag-worked-example-retrieval-42-percent.md) [-W]
+
+## Key Sources
+
+- van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212–218. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
+- van Gog, T. (2011). Effects of identical example–problem and problem–example pairs on learning. *Computers & Education, 57*(2), 1775–1779. [doi:10.1016/j.compedu.2011.03.019](https://doi.org/10.1016/j.compedu.2011.03.019)
+- Atkinson, R. K., Renkl, A., & Merrill, M. M. (2003). Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps. *Journal of Educational Psychology, 95*(4), 774–783. [doi:10.1037/0022-0663.95.4.774](https://doi.org/10.1037/0022-0663.95.4.774)
+- Renkl, A., Atkinson, R.K. & Große, C.S. (2004). How Fading Worked Solution Steps Works – A Cognitive Load Perspective. Instructional Science. https://doi.org/10.1023/B:TRUC.0000021815.74806.f6
+- Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59-89. [https://doi.org/10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
+- Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252

@@ -39,8 +39,19 @@ Age moderator analysis in the unassisted-discovery meta-analysis, Q(2) = 12.29, 
 
 > "Post hoc comparisons revealed that the mean effect size for adolescents ( d /H11005– 0.53) was significantly greater than the mean effect size for adults ( d /H11005– 0.26), Q(1) /H1100510.41, p /H11005.001."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*For whom, in which domain and on which measure does the cost of unassisted discovery (and the benefit of enhanced discovery) change?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **1 distinct studies** (1 quant-synthesis), `q3`, 1 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Alfieri 2011](https://doi.org/10.1037/a0021017) | q3 · quant-synthesis · r2 | i2; i3; i1 | this claim; [The advantage of explicit instruction over unassisted discovery is largest in the verbal/s](domain-moderates-unassisted-discovery-deficit.md) (qualifies); [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-ins](dependent-measure-moderates-discovery-effects.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](dependent-measure-moderates-discovery-effects.md) — related

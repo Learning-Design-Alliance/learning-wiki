@@ -41,8 +41,9 @@ In the Priority 3 section on assessment, the report cites research showing that 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes](algebra-for-all-created-mixed-ability-classrooms.md) — related
 - [Taking English I instead of remedial English increased English credit earning with no adverse consequences on failure rates or test scores](english-enrollment-effect-increased-credit-no-adverse.md) — a narrower finding that bears on this claim
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](double-dose-induced-algebra-tracking.md) — related

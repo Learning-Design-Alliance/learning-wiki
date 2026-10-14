@@ -41,11 +41,12 @@ The discussion cites Kalyuga et al. (1998), reported in the article as finding t
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
 - [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — a broader claim this one bears on
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — a broader claim this one bears on

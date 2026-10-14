@@ -43,6 +43,19 @@ Huisman, B., Saab, N., van den Broek, P., & van Driel, J. (2019). The impact of 
 
 This meta-analysis synthesized 24 quantitative studies of higher-education students' academic writing performance after engaging in structured peer feedback. Students who gave and/or received peer feedback showed significantly larger writing improvements than students in no-feedback control conditions (g = 0.91, 95% CI [0.41, 1.42] — a large effect) and than students who only self-assessed their own writing (g = 0.33, 95% CI [0.01, 0.64] — a small-to-moderate but reliable effect). Peer feedback and teacher feedback produced similar-sized improvements (g = 0.46), but this comparison's confidence interval crossed zero ([-0.44, 1.36]), so peer feedback cannot be said to outperform or reliably match teacher feedback from this analysis alone. The nature of the peer feedback (e.g., its content and delivery) significantly moderated the size of the effect, while the number of peers a student engaged with did not moderate it significantly. The authors also note that well-controlled primary studies in this area are still scarce, which widens the confidence intervals above.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a responding audience of peers improve later drafts?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (3 quant-synthesis, 1 causal), `q3`–`q4`, 3 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Huisman et al. 2019](https://doi.org/10.1080/02602938.2018.1545896) | q4 · quant-synthesis · r? | i3 · large effect vs. no-feedback control, g=0.91 | this claim |
+| What Works Clearinghouse 2007 | q3 · quant-synthesis · r1 | i2; i? | [Peer response groups increase the number of idea units in English learners' writing but sh](peer-response-groups-writing-idea-units.md) (qualifies) |
+| [Graham and Perin 2007](https://doi.org/10.1037/0022-0663.99.3.445) | q3 · quant-synthesis · r? | i2 · medium effect, weighted mean ES = 0.75 (95% CI 0.54–0.97) | [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) (supports) |
+| [Yarrow and Topping 2001](https://doi.org/10.1348/000709901158514) | q3 · causal · r2 | i? | [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Peer feedback is thought to work through two routes: receiving feedback gives writers actionable, audience-based input for revision, and giving feedback requires evaluating text against criteria, which deepens the reviewer's own understanding of quality writing. Both routes align with [Assessment for Learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback used by learners to close gaps, rather than merely delivered to them. The reviewer route also draws on [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md)-style engagement: critiquing a peer's text forces close reading against explicit criteria.

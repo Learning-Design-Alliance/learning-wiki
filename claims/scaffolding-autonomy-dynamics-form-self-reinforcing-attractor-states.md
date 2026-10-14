@@ -48,6 +48,8 @@ Three violin/cello teacher-student dyads (students purposively selected as the m
 This is an intensive microgenetic case study of three purposively-selected extreme cases, not a representative or randomized sample — the three trajectories are informative illustrations of a theoretically-motivated mechanism (self-reinforcing dynamics, attractor states) rather than a generalizable base rate of how one-on-one instruction typically unfolds. The cluster analysis is post-hoc, and the "sudden shift fails" finding rests on a single illustrative case within one dyad. The quantitative time-series trends (out-of-synch decline, contingency and autonomy-support slopes) are statistically tested and precisely reported, including honest null and marginal results (e.g., Robin's contingency slope at p=.06), which supports trusting the reported significant findings as not selectively reported.
 
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — related

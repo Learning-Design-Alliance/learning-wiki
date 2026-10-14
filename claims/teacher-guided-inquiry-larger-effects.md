@@ -60,6 +60,7 @@ Narrative review reporting the Carolan, Hutchins, Wickens, and Cumming (2014) me
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 -

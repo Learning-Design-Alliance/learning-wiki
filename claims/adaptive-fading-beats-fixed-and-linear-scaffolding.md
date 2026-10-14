@@ -41,8 +41,9 @@ Scaffolding strategy effectiveness analysis comparing Fixed High (constant σt =
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](arpg-plus-load-composition-shift-and-overload-reduction.md) — related
 - [ARPG+ reaches quality milestones faster than comparison conditions in simulation](arpg-plus-faster-time-to-proficiency.md) — related
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — a broader claim this one bears on

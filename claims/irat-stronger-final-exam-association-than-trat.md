@@ -39,6 +39,16 @@ Scatterplot displays (Figures 1 and 2) of mean IRAT and mean TRAT scores versus 
 
 > "The plots indicated stronger association between IRAT performance and final exam performance when compared to the association between TRAT performance and final exam performance ."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which readiness score says something about later individual performance?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **1 distinct studies** (1 associational), `q2`, 0 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bell 2022](https://doi.org/10.29333/iji.2022.15142a) | q2 · associational · r1 | i? | this claim; [IRAT scores correlate low-to-moderately and significantly with pharmacy calculations lectu](irat-low-moderate-correlation-lecture-assessments.md) (supports); [TRAT scores correlate only very low-to-low with lecture assessment scores, with significan](trat-weak-correlation-lecture-assessments.md) (supports); [Neither IRAT nor TRAT distinguishes itself in correlation with module high scores, with is](rat-module-high-scores-no-distinction.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

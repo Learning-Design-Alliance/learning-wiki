@@ -41,7 +41,8 @@ The review reports, citing Jeung, Chandler, and Sweller, an experiment comparing
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — the general claim this finding bears on, with the studies behind it
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related

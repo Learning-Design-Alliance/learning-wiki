@@ -39,6 +39,18 @@ Moderator analysis using a three-way Trt × MGS × Moderator Bayesian model, wit
 
 > "students from MGS vs. non-MGS average a difference of −0.48 (95% CI: −0.60 to −0.37) with low-intensity active learning, but only −0.36 (95% CI: −0.45 to −0.27) with high-intensity active learning"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How much class time has to be active, and does class size matter?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 review), `q2`–`q4`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Theobald Elli J. et al 2020](https://doi.org/10.1073/pnas.1916903117) | q3 · quant-synthesis · r3 | i? | this claim |
+| [Freeman S 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r3 | i? | [Active learning benefits students in all class sizes, with the greatest effects in classes](active-learning-strongest-small-classes.md) (qualifies) |
+| Martella 2021 | q2 · review · r2 | i? | [Most active learning college science conditions contain a substantial lecture component de](active-learning-courses-retain-lecture-component.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

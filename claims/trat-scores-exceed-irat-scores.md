@@ -41,6 +41,7 @@ The author's interpretation of score patterns across the 69-student cohort, offe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — the general claim this finding bears on, with the studies behind it
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related

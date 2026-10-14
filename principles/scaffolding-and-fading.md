@@ -35,11 +35,28 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (13 for, 10 mixed, 1 against) · 25 studies (10 causal, 4 review, 4 theoretical, 2 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 3 of 25 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (14 for, 11 mixed, 1 against) · 27 studies (12 causal, 4 review, 4 theoretical, 2 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 3 of 27 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
 A learner who cannot yet complete a task alone, but can complete it with help, may develop more independent performance when help is **contingent** and then **withdrawn**. Contingent means the tutor or system raises support after a failed attempt and lowers it after a success. The expected change is in later unassisted performance on the target task (`immediate-performance`, `delayed-retention`, `near-transfer`), not in assisted performance during the lesson. The learner's task-specific starting response bounds the relationship (`novice` for this task, not for the domain), as do the knowledge type (`procedure` and `complex-skill` in the studies below), the setting (most evidence is one-to-one tutoring or `lab`, little is `classroom`), how support ends, and the horizon. Withdrawing support too early or too late is a hypothesis about failure, not an established threshold. The [cognitive apprenticeship pattern](../patterns/cognitive-apprenticeship.md) is a reusable policy built on this relationship; its diagnostic branches are untested proposals.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **who adjusts the support (a tutor, a teacher with a group, software, an AI tutor)**, **whether the target is unassisted performance and at what horizon**, and **whether near or far transfer is wanted**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| One-to-one tutoring or an adaptive system | Make support contingent: start with the least help that might do, raise it after a failed attempt, lower it after a success | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [+M] |
+| An AI tutor will give the support | Have it escalate and fade on what the learner does, holding back the full answer; this kept learners doing the thinking | [A contingent AI tutor keeps metacognitive demand](../claims/contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) [+M]; [The contingent tutor surrendered the answer least](../claims/contingent-scaffolding-surrenders-full-answer-least.md) [+M] |
+| Learners can use an AI assistant that gives answers | Bound it to hints, and schedule regular checks with no AI; answers given in practice lowered later unassisted performance | [AI assistance impairs unassisted performance](../claims/ai-assistance-impairs-unassisted-fraction-performance-exp1.md) [-M]; [Supported and independent performance diverge](../claims/genai-supported-performance-independent-divergence.md) [~M] |
+| Learners move from worked examples to problem solving | Fade worked steps over a series of problems, from complete example to incomplete to independent, instead of fixed example–problem pairs | [Fading support promotes transfer of responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]; [Fading worked steps eases the example-to-problem transition](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+M] |
+| The question is which steps to fade first | Removing the last steps first is one tested option; in another experiment the position did not matter, so either is defensible | [Fading support promotes transfer of responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]; [Faded step position had no effect](../claims/faded-step-position-no-learning-outcome-effect.md) [~M] |
+| Transfer to new problems is the goal | Pair backward fading with prompts asking learners to name the principle each step uses | [Backward fading and principle prompts improve transfer](../claims/fading-and-principle-prompts-improve-probability-transfer.md) [+M] |
+| A teacher supports several small groups at once | Before withdrawing support, ask a learner to do or explain the next step; learners who applied support rather than copying it gave more accurate later answers | [Uptake of support predicts answer accuracy](../claims/student-uptake-of-support-predicts-small-group-answer-accuracy.md) [~W] |
+| Computer-based STEM scaffolds, and building a fading mechanism is costly | Fixed scaffolds may serve as well; the meta-analytic effect did not differ by whether scaffolds faded. Check unassisted performance before investing | [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [~M] |
+| A learner succeeds only at the support level last given | Hold that level on a changed case and lower it one step at a time; no fading threshold is established | untested proposal |
+| A learner keeps using support they no longer need | Make the support optional and record whether accuracy changes; guidance can become redundant as expertise grows | [Worked-example guidance becomes less effective with expertise](../claims/worked-examples-less-effective-with-expertise.md) [~M] |
 
 ## Observation, state and explanation
 

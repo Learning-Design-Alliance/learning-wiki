@@ -43,6 +43,8 @@ Restricting to groups with heterogeneous problem perceptions, the authors tested
 This is a null finding from a single study's sub-sample (n=136) and should not be treated as proof that awareness never helps — it may instead indicate that awareness is necessary but not sufficient, that this particular measure of awareness didn't capture the operative construct, or that the single-session task gave groups no real opportunity to act on newly recognized disagreement. The practical implication the authors draw — that awareness-raising interventions alone are unlikely to improve group regulation, and that groups likely need additional scaffolding (scripts, prompts, explicit training) to convert awareness into coordinated action — is a reasonable but untested inference from this one study.
 
 ## Related Claims
+
+- [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — the general claim this finding bears on, with the studies behind it
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — the positive finding this null result qualifies: alignment itself predicts success, but simply becoming aware of misalignment does not
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related

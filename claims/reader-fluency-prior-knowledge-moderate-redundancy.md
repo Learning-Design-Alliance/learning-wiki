@@ -42,11 +42,12 @@ Meta-analytic moderator analysis of participant characteristics (Table 4): readi
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](segmentation-moderates-verbal-redundancy.md) — related
 - [Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats](outcome-constructs-test-formats-moderate-redundancy.md) — related
 - [Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations](spoken-written-beats-spoken-only-not-written-only.md) — related

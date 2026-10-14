@@ -94,6 +94,22 @@ Synthesis of two reviews of the modality effect (Ginns, 2005; Reinwein, 2012); t
 
 > "The larger of these reviews found moderate benefits on learning (g = 0.38, 95% CI [0.33, 0.43], k = 86; Reinwein, 2012). Effects were smaller, but still significant, when statistically accounting for publication bias (g = 0.20, 95% CI [0.15, 0.25], k = 86; Reinwein, 2012)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should the words be spoken or printed?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 4 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ginns 2005](https://doi.org/10.1016/j.learninstruc.2005.07.001) | q2 / q3 / q4 · quant-synthesis · r? | i?; i2; i3 | this claim; [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) (supports); [Presentation pacing moderates the modality effect: strong under system-paced conditions, r](modality-effect-moderated-by-pacing.md) (qualifies); [Modality effect sizes differ across fields of study, with social science effects negative ](modality-effect-field-of-study-moderator.md) (qualifies); [The modality effect is particularly strong for students learning through virtual reality m](modality-effect-stronger-in-virtual-reality.md) (qualifies) |
+| [Mayer and Moreno 1998](https://doi.org/10.1037/0022-0663.90.2.312) | q3 · causal · r? | i? | this claim |
+| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i1 | this claim |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) (supports) |
+| [Sweller 2019](https://doi.org/10.1007/s10648-019-09465-5) | q2 · review · r2 | i? | [Modality effect: presenting explanatory text in spoken rather than written form with visua](modality-effect-spoken-text-visual-information.md) (supports) |
+| Kutbay 2020 | q3 · causal · r2 | i1; i? | [The modality effect holds for middle school students learning electricity with multimedia ](modality-effect-holds-middle-school-electricity.md) (supports); [Spoken text modality does not significantly differ from signaled written text modality, or](spoken-versus-signaled-written-null.md) (qualifies) |
+| Guttormsen Schär 2007 | q2 · causal · r2 | i? | [Voice-based multimedia settings (animation+voice and picture+voice) produce better learnin](voice-media-outperform-picture-text-overall.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The modality effect is a core prediction of [Cognitive Load Theory](../theories/cognitive-load-theory.md) and its dual-channel account of working memory: when graphics and written words both compete for visual processing, narration offloads verbal material to the auditory channel, freeing visual resources for the diagram or animation. This mechanism is closely related to the [dual coding](../theories/dual-coding-theory.md) tradition, though the two literatures make somewhat different predictions and should not be conflated. It is one of several working-memory interventions alongside [chunking](chunking-reduces-working-memory-load.md) and broader [cognitive load management](cognitive-load-management.md).

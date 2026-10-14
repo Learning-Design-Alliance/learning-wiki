@@ -13,7 +13,7 @@ generated:
 # Check-ins
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (1 for, 5 mixed, 1 against) · 16 studies (8 causal, 3 review, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (2 for, 6 mixed, 1 against) · 19 studies (8 causal, 3 quant-synthesis, 3 review, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 2 of 19 report an effect size · 2 claims rest on one study
 
 ## Conditional relationship
 
@@ -22,6 +22,22 @@ A check-in is a short, recurring prompt that asks a learner to report something 
 The relationship this page owns is narrower than the one on the [formative assessment principle](formative-assessment.md), and differs from it in one way. Formative assessment interprets an **aligned task response** (an explanation, an application) and uses it to choose a next action. A check-in mostly collects a **self-report about the learner's state**, often affective or social as well as cognitive, on a routine schedule. So it is one cheap input to the formative loop, and a weaker one wherever the question is what the learner can do: a learner's judgment of their own learning is an observation of that judgment, not of their learning. Where a check-in asks for a short task response, such as an exit question, the formative assessment model applies directly. The [check-in element](../elements/check-in.md) describes the component itself.
 
 No claim in this wiki tests a check-in routine as such. Nothing here compares learners who were checked in with against learners who were not, on any outcome or at any horizon. The model below is assembled from evidence on adjacent relationships: support adjusted to the learner's response, the accuracy of learners' self-judgments, and self-monitoring as a mechanism.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **what the check-in asks about (understanding, confidence, workload, wellbeing)**, **whether answers are public or private**, and **what the teacher will do with each kind of answer**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The check-in asks learners how well they understood | Follow the rating with one short unassisted task on the same content; act on the task, not on the rating alone | [Judgments of learning are often inaccurate](../claims/fluent-illusions-mislead-self-assessment.md) [-M]; [Prior knowledge needed for accurate self-assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M] |
+| Learners are new to the subject | Expect low accuracy in their self-reports; show a modelled example of judging one's own work before relying on the check-in | [Self-assessment accuracy is low without training](../claims/self-assessment-accuracy-is-low-without-training.md) [~M] |
+| A learner reports high confidence and then answers wrongly | Correct the answer straight away and explain it; confident errors corrected this way are well remembered | [High-confidence errors improve retention after correction](../claims/high-confidence-errors-improve-retention.md) [+M] |
+| The teacher can respond to individuals (tutoring, small groups) | Change the help given in the next activity according to the report and the task response, and record what was given | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [~M] |
+| The check-in is about wellbeing or social-emotional state | Use a brief private or anonymous form, read daily, and follow up individually with learners who report difficulty | [Teachers used Forms for well-being check-ins and anonymous voice](../claims/forms-sel-checkins-anonymity.md) [~W]; [Students' self-assessments of well-being give useful information](../claims/student-self-assessments-valuable-development-information.md) [~W] |
+| First-year or transition learners, where belonging is a concern | Treat a check-in as a way to find out who needs support, not as the support itself; the tested interventions are belonging reframing, not check-ins | [Belonging interventions improve outcomes](../claims/belonging-interventions-improve-outcomes.md) [~W] |
+| `online-self-paced`, with no instructor | Turn the check-in into a self-monitoring prompt against a stated goal, with a suggested next step for each answer | [Self-monitoring improves self-regulation](../claims/self-monitoring-improves-self-regulation.md) [+W] |
+| Answers will be visible to the class | Switch to a private channel; public reports of confusion are likely to be withheld | untested proposal |
+| Learners say "fine" every time | Act visibly on one report and see whether later reports become more specific | untested proposal |
 
 ## Observation, state and explanation
 

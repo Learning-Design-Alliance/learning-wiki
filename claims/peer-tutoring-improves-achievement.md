@@ -61,6 +61,19 @@ Alegre-Ansuategui, F. J., Moliner, L., Lorenzo, G., & Maroto, A. (2017). Peer Tu
 
 A meta-analysis of 50 independent studies of peer-tutoring programs in mathematics across multiple educational stages found that 88% of the programs had a positive effect on participants' academic performance, with a pooled Hedge's g of 0.333. Moderator analyses found tutee/tutor age, assigned roles, tutee ability level (disabled/at-risk vs. not), session length and frequency were not significant moderators, while educational stage, study design, program duration, tutor knowledge level, time of day (in-school vs. out-of-school) and sample size were significant moderators of the effect. Crossref carries no page range for this record; the article's own header gives pp. 337–354 (2018;14(1)), which is noted here but not asserted as the Crossref-verified value.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does structured peer tutoring, a paired form of cooperative work, raise achievement, and does its structure matter?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (4 quant-synthesis), `q3`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Cohen et al. 1982](https://doi.org/10.3102/00028312019002237) | q3 · quant-synthesis · r? | i? | this claim; [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) (supports) |
+| [Alegre-Ansuategui et al. 2017](https://doi.org/10.12973/ejmste/79805) | q4 · quant-synthesis · r? | i1 · small effect, Hedge's g = 0.333 | this claim |
+| [Ginsburg-Block et al. 2006](https://doi.org/10.1037/0022-0663.98.4.732) | q3 · quant-synthesis · r? | i? | [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) (supports) |
+| What Works Clearinghouse 2007 | q3 · quant-synthesis · r1 | i?; i2 | [Peer Tutoring and Response Groups has positive effects on English language development for](peer-tutoring-response-groups-positive-eld-effects.md) (supports); [Cross-age peer tutoring by either bilingual or English-only tutors shows no statistically ](cross-level-peer-tutoring-null-oral-proficiency.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Tutor gains.** Cohen et al. (1982) report that tutors showed the same pattern of academic and attitudinal gains as tutees; the recorded entries do not compare the size of the two, so the claim often made in the peer-tutoring literature that the *tutor* benefits as much as or more than the tutee is not established here. <!-- deprecated 2026-10-05 (not in the entries): **Tutor gains.** A recurring finding in the peer tutoring literature is that the *tutor* often benefits as much as or more than the tutee. --> Preparing to explain, generating explanations, and detecting and repairing one's own knowledge gaps during tutoring are forms of elaborative retrieval and self-explanation, which plausibly explains why tutoring functions as a powerful learning activity for the tutor rather than merely a delivery mechanism. This aligns with the broader "protégé effect" documented for teaching-related activities — see [Teaching as learning](../strategies/teaching-as-learning.md).

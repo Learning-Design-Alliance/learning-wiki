@@ -18,7 +18,7 @@ sources:
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (6 for, 6 mixed, 1 against) · 21 studies (8 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 8 claims rest on one study
+> **Evidence** · 18 claims (6 for, 10 mixed, 2 against) · 23 studies (9 causal, 5 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -41,6 +41,24 @@ The page's earlier guidance, kept as a concrete default a designer can act on an
 7. **Judge on the old model's home ground**, at the horizon the objective sets: a delayed, differently worded probe where the old explanation would give a different answer. A correct answer right after the lesson is not yet evidence that the old model is gone. Untested here; the misconceptions claim's Discussion raises reversion, and no recorded study measures it.
 
 How far each neighbouring claim may be carried is said under each one below.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **is there a known, recorded wrong model for this topic (or a way to elicit one)?**, **will there be support to resolve the conflict once it is noticed?**, **do learners work alone, in pairs or from text?**, and **when will the revised model be tested?**
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The topic is science with well-known misconceptions (force and motion, heat, natural selection) | Build the unit as predict, confront, resolve: elicit a committed prediction, show the case it gets wrong, then teach the better model explicitly | [Conflict-based instruction improves science conceptual learning](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M] |
+| The material is mainly read (textbook, online text) | Use refutation text: state the common misconception, say that it is wrong, and give the scientific account with its reason | [Instruction that confronts misconceptions produces conceptual change more often than exposition](../claims/misconceptions-interfere-with-new-learning.md) [+M]; [Refutational text order enhanced recall in one experiment](../claims/refutational-text-order-enhances-retention.md) [+W] |
+| Learners answer questions with a stated confidence (quizzes, clickers, polls) | Ask for confidence with each answer, and give immediate, clear, non-punitive correction; confident errors are then corrected best | [High-confidence errors lead to better retention after correction](../claims/high-confidence-errors-improve-retention.md) [+M] |
+| Learners will resolve the conflict in pairs or groups (for example at a simulation) | Add an individual step: each learner writes what they expected, what happened and how they now explain it; peer conflict changed conceptions only for students who reflected on and rebuilt their own | [Peer conflicts worked only for students prepared to reflect](../claims/peer-conflicts-conditional-on-reflection.md) [~M]; [Co-construction needed personal sense-making for stable change](../claims/personal-construction-required-stable-conceptual-change.md) [~W] |
+| The group looks engaged and contributions look balanced | Still check each learner's model on an individual probe; equal, mutual engagement did not ensure conceptual change | [High equality and mutuality were not sufficient for conceptual change](../claims/high-equality-mutuality-not-sufficient-conceptual-change.md) [~W] |
+| Novices meet the problem before any instruction, with no support | Add scaffolding to the attempt so that confusion and surprise lead somewhere; unscaffolded attempts produced more confusion, and emotions related to transfer differently by condition | [Emotion dynamics predict learning in a way that depends on scaffolding](../claims/emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) [~M] |
+| Learners are getting most practice items wrong and say they are confused | Lower the difficulty or give support now rather than more contradiction; confusion with repeated errors predicted worse later performance | [Confusion amplifies the negative effect of incorrect trials](../claims/confusion-amplifies-negative-effect-of-incorrect-trials.md) [-W] (exploratory) |
+| The target is a developmental reasoning skill and the brief asks how big a challenge to set | Pitch the discrepant task one level above the learner's current level; two levels above produced no more advance, and all advances were one level | [One-step advance regardless of discrepancy size](../claims/one-step-advance-regardless-of-discrepancy-size.md) [~W] (one 1975 spatial-reasoning study) |
+| The revised model must hold for months | Plan a delayed probe the old model would answer wrongly, and revisit; in one physics study 7 of 14 students showed no change at post- or delayed test | [Force-and-motion conceptions were very difficult to change](../claims/force-motion-conceptions-difficult-to-change.md) [~W] |
+| Learners will discuss in cooperative groups (for example college chemistry) | Prepare group leaders or assign roles so the discussion stays on the conflicting ideas; poor leadership undermined it | [Conceptual change strategies in cooperative groups reduced misconceptions](../claims/cooperative-conceptual-change-chemistry-misconceptions.md) [~W] |
+| Learners are anxious about being wrong, or the setting is public | Collect predictions privately or anonymously and say that wrong predictions are expected | untested proposal |
 
 ## Observation, state and explanation
 
@@ -70,6 +88,15 @@ No claim in the wiki tests the relationship as stated: none compares, for learne
 Taken together: conflict-based conceptual-change instruction has large average effects in science education, with wide variation and abstract-only reading; naming and refuting a misconception has review and experimental support for comprehension and fact recall; and conflict on its own, whether staged by agents or arising between peers, did not reliably change learning unless learners experienced it and were prepared to work on it. Learners, settings and outcomes differ across these claims, so do not rank them by effect label.
 
 How far each may be carried: the syntheses are about science-education instruction packages, not a single discrepant event, and not other domains; the refutation-text claims concern reading, not demonstrations or discussion; the hypercorrection claim concerns corrected answers, so it says nothing about explanatory models; the agent-contradiction and emotion studies are single-session or single-domain studies with university students. None establishes a delayed benefit on an explanatory probe, and none tests the default design's checking, timing or safety steps.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/cognitive-disequilibrium.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does conflict-based instruction improve conceptual learning more than standard exposition? [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+S]: 5 distinct studies.
+- Does naming and refuting the misconception help? [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]: 4 distinct studies.
+- When does a conflict fail to change the learner's model? [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](../claims/peer-conflicts-conditional-on-reflection.md) [~M]: 4 distinct studies.
+- How far beyond the learner's current level should the discrepancy be? [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](../claims/one-step-advance-regardless-of-discrepancy-size.md) [~M]: 1 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite and not used as core evidence above. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

@@ -1,0 +1,260 @@
+{
+  "principle": "principles/direct-instruction",
+  "note": "Drafted 2026-10-14 by an agent from the claims' titles and evidence entries (g6). Directions are relative to each hub. Avoids hubs and members used in the scaffolding, cognitive-apprenticeship and design-models specs; expertise-reversal-effect is a hub here only. Review before applying.",
+  "findings": [
+    {
+      "hub": "minimal-guidance-less-effective-for-novices",
+      "question": "Does explaining and modelling a new method beat leaving learners to discover it with little support?",
+      "members": [
+        [
+          "teachers-struggle-designing-interactive-activities",
+          "~"
+        ],
+        [
+          "balance-active-learning-independent-practice-gateway-math",
+          "~"
+        ],
+        [
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
+          "+"
+        ],
+        [
+          "minimally-guided-approaches-ignore-cognitive-architecture",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "explicit-instruction-beats-unassisted-discovery",
+          "+"
+        ],
+        [
+          "guided-discovery-outperforms-pure-discovery",
+          "+"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "recent-design-models-support-guidance-during-instruction",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "~"
+        ],
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "explicit-instruction-context-dependent-synthesis",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "teacher-guided-inquiry-outperforms-student-led",
+      "question": "If inquiry or discovery is chosen, how much should the teacher or system guide it?",
+      "members": [
+        [
+          "enhanced-discovery-beats-other-instruction",
+          "+"
+        ],
+        [
+          "guidance-improves-inquiry-learning-outcomes",
+          "+"
+        ],
+        [
+          "guidance-improves-inquiry-learning-activities",
+          "+"
+        ],
+        [
+          "guidance-improves-inquiry-performance-success",
+          "+"
+        ],
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
+          "guided-discovery-outperformed-both-extremes",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "productive-failure-improves-conceptual-learning",
+      "question": "Teach the method first, or let learners attempt problems before instruction?",
+      "members": [
+        [
+          "problem-solving-before-instruction-boosts-conceptual-transfer",
+          "+"
+        ],
+        [
+          "productive-failure-problem-solving-before-instruction-effect",
+          "+"
+        ],
+        [
+          "initial-guidance-does-not-improve-learning-from-instruction",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-effect",
+      "question": "How long should full explanation and guidance continue as learners gain expertise?",
+      "members": [
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-modality-effect-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-limits-contiguity-benefits",
+          "+"
+        ],
+        [
+          "expertise-reversal-prior-knowledge-interaction",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "+"
+        ],
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "direct-instruction-advantages-vanish-long-term",
+      "question": "Does the advantage of explicit instruction last beyond the end of instruction?",
+      "members": [
+        [
+          "instruction-positive-effect-peaks-then-diminishes",
+          "+"
+        ],
+        [
+          "explicit-teaching-effective-but-not-durable",
+          "+"
+        ],
+        [
+          "direct-instruction-lock-in-constrains-exploration",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "direct-instruction-improves-outcomes",
+      "question": "Does adopting a scripted Direct Instruction programme raise achievement in schools, and what does it depend on?",
+      "members": [
+        [
+          "prior-research-direct-instruction-higher-achievement",
+          "+"
+        ],
+        [
+          "direct-instruction-gains-depend-on-implementation-support",
+          "~"
+        ],
+        [
+          "direct-instruction-two-years-before-significant-difference",
+          "~"
+        ],
+        [
+          "direct-instruction-no-significant-reading-difference-sixth-grade",
+          "-"
+        ],
+        [
+          "scaffolding-lower-adherence-than-scripted-components",
+          "~"
+        ],
+        [
+          "itip-lacks-empirical-evidence-achievement",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "explicit-l2-grammar-instruction-superior-to-implicit",
+      "question": "In second-language teaching, explicit rules and strategies or implicit exposure?",
+      "members": [
+        [
+          "explicit-teaching-complex-rules-only-advantage",
+          "+"
+        ],
+        [
+          "rule-oriented-explicit-outperforms-implicit",
+          "+"
+        ],
+        [
+          "explicit-rules-learned-faster-in-communicative-tasks",
+          "~"
+        ],
+        [
+          "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone",
+          "~"
+        ],
+        [
+          "explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension",
+          "+"
+        ],
+        [
+          "efl-students-positive-views-explicit-strategy-instruction",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,7 +41,8 @@ Extreme-groups comparison of high versus low CPC students in the retention study
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — the general claim this finding bears on, with the studies behind it
 - [Retention after learning with the chunking method is high, with 85% to 95% of original learning retained over three months](chunking-method-high-retention.md) — related
 - [The correlation between cognitive processing capacity and test performance is non-significant when using the chunking method](cpc-correlation-nonsignificant-chunking.md) — reports the opposite

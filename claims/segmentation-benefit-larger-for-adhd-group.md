@@ -60,10 +60,11 @@ Simple-effects table (Table 8) of segmentation benefit by group on hesitations: 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — the general claim this finding bears on, with the studies behind it
 - [ADHD medication status shows no significant interaction with segmentation, though medicated participants made fewer hesitations](medication-status-segmentation-interaction-null.md) — related
 - [Segmented videos reduce hesitations for participants with ADHD by approximately 79% compared to non-segmented videos](segmentation-reduces-hesitations-adhd-participants.md) — related

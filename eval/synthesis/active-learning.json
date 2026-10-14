@@ -1,0 +1,208 @@
+{
+  "principle": "principles/active-learning",
+  "note": "Drafted 2026-10-14 by an agent from the claims' titles and evidence entries, including the Freeman et al. (2014) and Theobald et al. (2020) claims ingested 2026-10-13. Kirkwood-Watts (2022) clicker claims are grouped under the peer-discussion spec, not here. The two second-hand reports of Kestin et al. (2025) (engineered-ai-tutor-doubled-learning-vs-active-learning, pedagogically-designed-ai-tutors-outperform-active-learning) are left out so the one study is not counted three times; the primary entry is a member. Review before applying.",
+  "findings": [
+    {
+      "hub": "active-learning-improves-exam-performance",
+      "question": "Does replacing part of lecture with active learning raise exam scores and pass rates?",
+      "members": [
+        [
+          "active-learning-raises-stem-exam-performance-047-sd",
+          "+"
+        ],
+        [
+          "lecturing-increases-stem-failure-rates",
+          "+"
+        ],
+        [
+          "active-learning-effect-robust-bias-and-rigor",
+          "+"
+        ],
+        [
+          "active-learning-benefits-hold-across-stem-disciplines",
+          "+"
+        ],
+        [
+          "active-engagement-higher-learning-gains-than-lecture",
+          "+"
+        ],
+        [
+          "interactive-instruction-positive-achievement-gains-chicago",
+          "+"
+        ],
+        [
+          "ai-tutor-beats-active-learning-post-test",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "discussion-promotes-more-active-thought-than-lecture",
+      "question": "Which outcomes move: information recall, concept understanding, general reasoning, or learners' sense of having learned?",
+      "members": [
+        [
+          "active-learning-gains-larger-concept-inventories",
+          "~"
+        ],
+        [
+          "reformed-pedagogy-content-gains-but-no-reasoning-gains",
+          "~"
+        ],
+        [
+          "active-learning-felt-learning-paradox",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "active-learning-narrows-achievement-gaps",
+      "question": "For whom: does it narrow gaps for underrepresented and low-income students?",
+      "members": [
+        [
+          "active-learning-reduces-exam-achievement-gaps-33-percent",
+          "+"
+        ],
+        [
+          "active-learning-narrows-passing-rate-gap-45-percent",
+          "+"
+        ],
+        [
+          "active-learning-gap-effects-vary-across-studies",
+          "~"
+        ],
+        [
+          "class-size-level-discipline-not-significant-moderators",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "high-intensity-active-learning-narrows-gaps",
+      "question": "How much class time has to be active, and does class size matter?",
+      "members": [
+        [
+          "active-learning-strongest-small-classes",
+          "~"
+        ],
+        [
+          "active-learning-courses-retain-lecture-component",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "constructive-learning-beats-active-passive",
+      "question": "Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?",
+      "members": [
+        [
+          "icap-hypothesis-learning-increases-i-cap",
+          "+"
+        ],
+        [
+          "active-to-constructive-largest-leap",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "interactive-requires-constructive-turn-taking",
+          "~"
+        ],
+        [
+          "self-explanation-improves-conceptual-understanding",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "minimal-guidance-less-effective-for-novices",
+      "question": "What makes it fail: too little guidance for novices, or tasks that are hard to design well?",
+      "members": [
+        [
+          "teachers-struggle-designing-interactive-activities",
+          "~"
+        ],
+        [
+          "balance-active-learning-independent-practice-gateway-math",
+          "~"
+        ],
+        [
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
+          "+"
+        ],
+        [
+          "minimally-guided-approaches-ignore-cognitive-architecture",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "explicit-instruction-beats-unassisted-discovery",
+          "+"
+        ],
+        [
+          "guided-discovery-outperforms-pure-discovery",
+          "+"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "recent-design-models-support-guidance-during-instruction",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "~"
+        ],
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "explicit-instruction-context-dependent-synthesis",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "most-comparisons-differ-on-multiple-features",
+      "question": "Is the gain due to the activities or to what else changed with the course format?",
+      "members": [
+        [
+          "active-learning-conditions-more-other-pedagogical-features",
+          "+"
+        ],
+        [
+          "time-on-task-unequal-in-active-learning-comparisons",
+          "+"
+        ],
+        [
+          "group-tasks-most-frequent-active-learning-activity",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

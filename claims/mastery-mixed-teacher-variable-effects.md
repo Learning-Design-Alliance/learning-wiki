@@ -41,6 +41,7 @@ Large-scale study by Guskey (1984) involving 117 junior and high school level te
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery learning improves students' attitudes toward the instruction and toward the subject](mastery-learning-improves-attitudes-toward-instruction.md) — the general claim this finding bears on, with the studies behind it
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related

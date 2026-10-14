@@ -43,6 +43,19 @@ Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S
 
 A meta-analysis of 56 investigations (88 pairwise comparisons) testing whether presenting multimedia instruction in learner-paced segments, rather than as a continuous unit, improves learning. It finds a significant segmenting effect with small-to-medium effects on both retention and transfer performance, and reports that segmentation also reduces overall cognitive load and increases learning time; these four effects held specifically for system-paced segmentation. Moderator analyses indicated learners with high prior knowledge benefited more from segmenting than learners with no or low prior knowledge, on retention performance.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does breaking transient material (animation, video, narration) into segments improve learning over a continuous presentation?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (1 quant-synthesis, 1 review, 1 causal, 1 qualitative), `q1`–`q4`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Rey et al. 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 / q4 · quant-synthesis · r? | i? | this claim; [Segmenting multimedia instruction into learner-paced segments improves retention and trans](segmenting-effect-retention-transfer-meta-analysis.md) (supports); [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) (supports); [Segmentation increases learning time](segmenting-increases-learning-time.md) (qualifies) |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Segmenting principle: learner-paced segments of narrated animation improve transfer over c](segmenting-principle-mayer-2008.md) (supports) |
+| Veronica Pimenova 2026 | q3 · causal · r2 | i? | [Segmented videos reduce hesitations for participants with ADHD by approximately 79% compar](segmentation-reduces-hesitations-adhd-participants.md) (supports) |
+| Means 2020 | q1 · qualitative · r2 | i? | [Students reported that long recorded lectures impeded focus, while instructors who broke l](long-recorded-lectures-impeded-focus.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Segmenting is grounded in cognitive load theory (see [Cognitive Load Theory](../theories/cognitive-load-theory.md)): continuous narrated animations are transient — each element disappears before the learner has fully processed it, forcing simultaneous processing of essential and still-unintegrated material. Segmenting gives learners time to complete one processing cycle before the next begins, and is one of the standard multimedia design principles alongside coherence and signaling. It is the temporal analogue of [chunking](../claims/chunking-reduces-working-memory-load.md): where chunking groups content spatially or structurally, segmenting breaks it into digestible time slices.

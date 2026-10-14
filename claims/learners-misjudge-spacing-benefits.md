@@ -60,6 +60,19 @@ Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effect
 
 Participants used a web-based programme to learn GRE-type vocabulary word pairs, comparing spacing (one large flashcard stack) against massing (four smaller stacks studied separately) and against cramming (massed study on the last day before test) across three experiments. Spacing outperformed massing for 90% of participants and also outperformed cramming, yet after their first study session 72% of participants judged that massing had been the more effective way to study — a direct mismatch between the condition that actually worked and the one learners believed had worked.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Will learners space their study on their own?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **4 distinct studies** (2 causal, 2 design), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kornell & Bjork 2008](https://doi.org/10.1111/j.1467-9280.2008.02127.x) | q3 · causal · r? | i? | this claim |
+| [Kornell 2009](https://doi.org/10.1002/acp.1537) | q3 · causal · r? | i? | this claim |
+| transfer-funnel | q2 · design · r2 | i? | [Students rarely open transfer-practice cards immediately after solving; they want such pro](transfer-practice-timing-mismatch-delayed-review.md) (qualifies) |
+| transfer-funnel (2) | q2 · design · r3 | i? | [Students rarely open transfer-practice cards immediately after solving; they want such pro](transfer-practice-timing-mismatch-delayed-review.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The illusion of massing.** Because massed practice produces fluent, effortless performance in the moment, learners interpret that fluency as evidence of learning. Spaced practice feels harder and yields worse immediate performance, so learners judge it less effective even when it produces substantially better delayed retention. This is a case of a desirable difficulty being misread as a defect: conditions that impair short-term performance can enhance long-term learning, and learners' metacognitive monitoring is tuned to short-term performance, not durable retention. The same subjective-experience trap appears in [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md), where the felt ease of a study condition diverges from what it actually produces.

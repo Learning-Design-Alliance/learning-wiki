@@ -41,8 +41,9 @@ Meta-regression analyses from the review comparing instructional methods while a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Content domain shows little association with effect sizes, except fractions in mathematics](content-domain-little-effect-fractions-exception.md) — related
 - [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](small-group-instruction-outperforms-cai-incentives.md) — a narrower finding that bears on this claim
 - [Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions](math-test-effects-larger-than-reading.md) — related

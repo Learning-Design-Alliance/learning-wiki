@@ -41,6 +41,7 @@ Moderator analysis using Sugrue's (1995) assessment framework (concept, principl
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — related

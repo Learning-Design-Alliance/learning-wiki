@@ -41,8 +41,9 @@ A stated position in Module 6's performance criteria, offered without empirical 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English](limited-english-use-opportunities-after-training.md) — related
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
 - [The package argues the workplace provides experiences that give meaning to new language](workplace-context-gives-meaning-to-new-language.md) — related

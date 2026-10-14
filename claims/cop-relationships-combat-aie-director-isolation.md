@@ -41,8 +41,9 @@ Participant-reported outcomes from a 5-year UEPC evaluation of R15CC support to 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — the general claim this finding bears on, with the studies behind it
 - [The CoP extended its network's reach through national convenings, including a member-facilitated NIEA convention session](cop-extended-reach-niea-convention-session.md) — related
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
 - [Existing school-based behavioral health TA in California is siloed, and equitable access depends on local leaders' individual knowledge and networks](siloed-behavioral-health-ta-unequal-access.md) — related

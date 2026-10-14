@@ -19,7 +19,7 @@ sources:
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (8 for, 4 mixed) · 15 studies (3 causal, 3 review, 3 associational, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 3 of 15 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (7 for, 8 mixed) · 17 studies (4 causal, 3 review, 3 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 3 of 17 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -38,6 +38,23 @@ The earlier page's guidance, kept as a concrete default a designer can act on an
 5. **Hold a facilitated cross-group discussion** in which students, teachers and partners reflect together on what the activity is for. Evidence: the single case's own follow-up intervention, at one site.
 6. **Set equitable norms and access.** Check that every learner can take part (time, transport, cost, safety, language) and that roles are not allocated by who is already confident. Untested here; from the earlier page.
 7. **Assess the learning separately from the service.** Hours completed and partner satisfaction are not evidence of the learning object; score the concept use in a product or reflection against criteria. Untested here; follows from the earlier page's warning that community work can drift toward service without learning.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **whether the outcome sought is civic commitment, personal growth, or course content**, **the learners' level (school or university)**, and **who the community partner is and how the work is agreed with them**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| High-school students, with civic commitment as the goal | Combine service learning with in-class discussion of civic issues; these were the experiences most associated with later commitment | [Service learning and in-class civic learning predict civic commitment](../claims/service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) [+W] |
+| The course must also teach its content | Name in the syllabus and the brief which concepts the community work exercises, and assess them separately from the service; the wiki holds no test of content learning | [A syllabus linking service to content goes with civic competence](../claims/syllabus-service-content-connection-strongest-pedagogical-relationship.md) [+W] |
+| Learners will write reflections | Give guided prompts that name a concept and ask for analysis, not free journals | [Guided reflection yields more analytic paragraphs](../claims/guided-reflection-yields-more-higher-order-paragraphs-than-free.md) [+W] |
+| The partner or the student group differs in background from most learners | Include explicit exploration of that diversity in class and in reflection | [Exploration of diversity goes with all civic outcomes](../claims/diversity-enhances-all-civic-competence-outcomes.md) [+W] |
+| A large course in which the instructor cannot mentor each student | Assign trained peer mentors to service-learning students | [Peer mentoring went with higher civic action](../claims/peer-mentoring-increases-civic-action-service-learning.md) [+W] |
+| The partner is new, or the brief mentions past friction with partners | Co-plan the project with the partner, check the relationship during the term, and act on conflict early | [Co-planning gives partners a voice](../claims/csl-co-planning-gives-community-partners-voice-in-project.md) [~W]; [Partner conflict goes with worse social-justice attitudes](../claims/community-partner-conflict-negatively-correlates-social-justice.md) [~W] |
+| Middle-school students run a project with local businesses | Anchor the project in named disciplinary concepts and hold a discussion with students, teachers and partners about its purpose, so it does not narrow to making money | [Community projects need conceptual framing](../claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) [~W] |
+| Secondary students study ethics or values alongside service | Pair the service with a values curriculum; the curriculum added to service alone only for ethical awareness and perspective | [Curriculum plus service added only for ethical awareness](../claims/bds-curriculum-adds-beyond-service-learning-alone.md) [~W] |
+| The course links partners in several countries (collaborative online international learning) | Build in flexibility in schedule and scope and agree roles with partners on equal terms | [Three lessons from an integrated planetary health course](../claims/planetary-health-course-three-key-lessons.md) [~W] |
+| The service is a one-off visit or a few hours | Treat it as exposure, not as the relationship the page describes; add structured reflection tied to concepts | untested proposal |
 
 ## Observation, state and explanation
 
@@ -63,6 +80,14 @@ Any single contrast shifts confidence among these; it does not identify a cause,
 - [Community projects need conceptual framing to avoid narrowing the learning object](../claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) [~W]: one qualitative case (`qualitative`, `q1`) of a Finnish middle school's entrepreneurship course with local businesses and municipal partners. Without a disciplinary knowledge base the activity converged on "money-making" and left the critical dimensions the design implied unexamined; a researcher-facilitated mixed-stakeholder discussion surfaced a broader framing. It shows a mechanism at one site, not how often it happens. Not yet checked.
 
 Taken together: the conditions (content link, structured reflection, supported relationships) have weak, mostly associational support; the outcomes are civic attitudes, self-reports and reflection quality, not tested content learning; and community contact can go badly. How far each may be carried: the two Harkins-study claims and the syllabus claim are correlational surveys of postsecondary service-learning courses and do not show that adding a mentor or a syllabus statement causes anything; the reflection claim compares reflection texts, not learning; the case study is one school. None argues against community-based learning, and none establishes it.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/community-based-learning.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does community-based or service learning change civic commitment, attitudes and self-reported growth? [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](../claims/service-learning-improves-civic-and-personal-outcomes.md) [+M]: 3 distinct studies.
+- Which course features go with better outcomes: an explicit link to course concepts, diversity, structured reflection? [A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes](../claims/syllabus-service-content-connection-strongest-pedagogical-relationship.md) [+M]: 3 distinct studies.
+- How much do relationships with mentors, professors and community partners matter? [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](../claims/positive-relationships-increase-civic-engagement-intention.md) [~M]: 3 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

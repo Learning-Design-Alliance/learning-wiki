@@ -39,8 +39,9 @@ Quasi-experimental classroom study with two pre-existing intact classes (48 stud
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles](diagnostic-review-higher-process-indicators.md) — related
 - [Teacher review workload was higher in the Diagnostic Review class in review minutes, added instruction, and review intensity](teacher-review-workload-higher-diagnostic-review.md) — related
 - [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — related

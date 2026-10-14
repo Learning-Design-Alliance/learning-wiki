@@ -64,6 +64,8 @@ Well-aligned organizers and advance organizers can support learning — see [Adv
 
 ## Related Claims
 
+- [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Advance organizers improve learning](../claims/advance-organizers-improve-learning.md) — well-matched advance organizers are the constructive counterpart to the mismatch penalty claimed here.
 - [Chunking reduces working-memory load](../claims/chunking-reduces-working-memory-load.md) — matched organizers work by chunking related content; mismatches defeat that chunking.
 - [Coherence principle: irrelevant material hurts learning](../claims/coherence-principle-irrelevant-material-hurts-learning.md) — both claims describe design features that add extraneous processing.

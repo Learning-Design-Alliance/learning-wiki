@@ -59,6 +59,26 @@ Lorch, R. F., & Lorch, E. P. (1996). Effects of organizational signals on free r
 
 Two experiments had college students read expository text with or without organizational signaling devices and then freely recall it. Signals frequently did not increase the amount recalled, but they systematically shifted which content was remembered. The authors interpret this as signals helping readers construct a representation of the text's topic structure, rather than simply boosting total recall. Read from the ERIC abstract only.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does making the material's organization explicit with signals improve learning?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **11 distinct studies** (5 causal, 4 review, 2 quant-synthesis), `q2`–`q4`, 4 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Alpizar et al. 2020](https://doi.org/10.1007/s11423-020-09748-7) | q4 · quant-synthesis · r? | i1 · small effect, d=0.38; i1 · small-to-moderate effect, d=0.38 | this claim; [Signaling Improves Learning](signaling-improves-learning.md) (supports) |
+| [Lorch & Lorch 1996](https://doi.org/10.1037/0022-0663.88.1.38) | q3 · causal · r? | i? | this claim |
+| [Noetel et al. 2022](https://doi.org/10.3102/00346543211052329) | q3 / q4 · quant-synthesis · r? | i2 · medium effect, g=0.43 for signaling; i2; i1 | [Signaling Improves Learning](signaling-improves-learning.md) (supports); [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-cueing-increases-learning.md) (supports) |
+| [Richter et al. 2018](https://doi.org/10.1037/edu0000220) | q2 · causal · r? | i? | [Signaling Improves Learning](signaling-improves-learning.md) (supports) |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i2 | [Signaling principle: highlighting essential words improves transfer from multimedia lesson](signaling-principle-mayer-2008.md) (supports) |
+| Ceballos & Nutta 2022 | q2 · review · r1 | i? | [Signaling in multimedia (labeled text with illustrations) is associated with increased lea](signaling-principle-increased-learning-outcomes.md) (supports) |
+| Kutbay 2020 | q3 · causal · r2 | i1; i? | [The signaling effect holds only for abstract animation representations: signaling signific](signaling-effect-abstract-only.md) (qualifies) |
+| Mutlu-Bayraktar 2018 | q2 · causal · r1 | i? | [The change on the object that was both signalled and visually cued was the most detected c](signalled-and-cued-object-change-most-detected.md) (supports); [Change in the most-focused central object was detected at a low rate (41.66%) unless it wa](central-object-change-detection-low-without-cueing.md) (supports); [Among two objects with the same signalling, participants focused more on the arrow-cued ob](cueing-outcompetes-signalling-alone-for-attention.md) (qualifies); [In a multimedia animation, participants focused more on signalled objects and detected few](signalling-focuses-attention-reduces-change-detection-elsewhere.md) (qualifies) |
+| [Miller 1956](https://doi.org/10.1037/h0043158) | q2 · review · r? | i? | [Chunking reduces working memory load by grouping information into fewer, more meaningful u](chunking-reduces-working-memory-load.md) (supports) |
+| [Cowan 2001](https://doi.org/10.1017/s0140525x01003922) | q2 · review · r? | i? | [Chunking reduces working memory load by grouping information into fewer, more meaningful u](chunking-reduces-working-memory-load.md) (supports) |
+| [Thalmann et al. 2019](https://doi.org/10.1037/xlm0000578) | q3 · causal · r? | i? | [Chunking reduces working memory load by grouping information into fewer, more meaningful u](chunking-reduces-working-memory-load.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Clear structure is best understood through cognitive load theory: when organization is made explicit, learners spend fewer resources on figuring out *how* the material fits together and more on the content itself. Advance organizers, headings, and consistent segmenting all serve this function — see [Advance organizers improve learning](advance-organizers-improve-learning.md) and [Chunking reduces working memory load](chunking-reduces-working-memory-load.md). Signaling and segmenting in multimedia materials are the most-studied instantiations of this claim, and both operate by cutting extraneous processing rather than adding information.

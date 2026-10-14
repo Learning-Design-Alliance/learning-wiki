@@ -13,11 +13,29 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (4 for, 6 mixed) · 16 studies (7 quant-synthesis, 6 causal, 1 review, 1 qualitative, 1 design), `q2`–`q4` · 7 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 21 claims (8 for, 13 mixed) · 22 studies (10 quant-synthesis, 8 causal, 3 review, 1 design), `q2`–`q4` · 9 of 22 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
 For learners of any age who can already take part in the target task, and for goals that benefit from explaining, checking and reconciling ideas (concepts, principles and complex skills more than verbal associations), structured small-group work, in which the group's success depends on every member's learning and each member's learning is assessed separately, is expected to raise individually measured achievement relative to individualistic or competitive arrangements over several weeks of use. Grouping alone is not this relationship: the expectation attaches to the structure (interdependence plus individual accountability), and science-classroom comparisons show it can fail. Evidence is mostly from school and undergraduate classrooms, on general or course achievement, at the end of multi-week programmes; it does not forecast a single session, an adult workplace team or a particular learner. The [cooperative learning pattern](../patterns/cooperative-learning.md) specifies a reusable design policy; its local diagnostic branches remain proposals.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **the learners' stage (primary, secondary, undergraduate, adult)**, **how long the cooperative work runs (one session or four weeks or more)**, and **how any group grade or recognition will be computed**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| School-age learners, a unit of four weeks or more, an achievement goal | Recognise teams by the sum or average of each member's individual quiz results, announced in advance, rather than by a single group product | [Group rewards on every member's individual learning](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M] |
+| An undergraduate STEM course | Use structured small-group work in class sessions; expect a programme-level gain, smaller in studies where the investigator did not teach the course and not significant at two-year colleges | [Small-group learning improves undergraduate STEM achievement](../claims/small-group-learning-improves-stem-achievement.md) [+M] |
+| The plan is a jigsaw with a shared group grade | Add an individual quiz that counts toward the team's recognition; in secondary studies jigsaw was the least successful method, perhaps for lack of it | [Secondary studies: STAD most, Jigsaw least successful](../claims/secondary-cooperative-learning-newmann-thompson.md) [~W] |
+| The goal is conceptual change in science | Do not assume groups beat pair or individual work; check each learner's concept individually, and coach student group leaders not to rush | [Science-classroom studies are mixed](../claims/cooperative-learning-science-studies-mixed.md) [~W]; [Poor group leaders undermined discussion](../claims/cooperative-conceptual-change-chemistry-misconceptions.md) [~W] |
+| Groups work asynchronously online | Use roles to organise the group's process, but do not expect roles or rewards to raise achievement; check each member's posttest | [Structuring interdependence did not change achievement online](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [~M]; [Interdependence type shifted the kind of interaction](../claims/interdependence-type-shifts-interaction-nature.md) [~W] |
+| The group includes gifted or high-ability learners | Give them explaining roles and an individual challenge as well, and check their own gains; long-term evidence for this group is lacking | [Cooperative learning and gifted students](../claims/cooperative-learning-gifted-students.md) [~W] |
+| The goal is reading comprehension in grades 3–4, with explicit strategy instruction available | Keep the explicit instruction central; the cooperative component did not add significantly over it with the same materials | [The cooperative component's added benefit was not confirmed](../claims/circ-cooperative-component-benefit-unconfirmed.md) [~M] |
+| A second-language class | Use cooperative groups for speaking practice, which gave learners more turns than teacher-led classes | [Cooperative learning in language classes](../claims/cooperative-learning-language-class-outcomes.md) [+W] |
+| Learners are primary pupils who need practice in a basic skill | Use structured peer tutoring with scripted roles rather than unstructured pairing | [Peer tutoring improves achievement](../claims/peer-tutoring-improves-achievement.md) [+M]; [Structured peer tutoring outperforms unstructured](../claims/structured-peer-tutoring-outperforms-unstructured.md) [+M] |
+| Learners are trainee teachers and cooperation is itself an outcome | Run a structured cooperative technique and measure attitudes to cooperation separately from achievement; watch for unequal participation | [A cooperative technique improved attitudes to cooperativeness](../claims/ccct-improved-cooperativeness-attitudes.md) [~W]; [Unequal participation and time constraints noted](../claims/ccct-qualitative-strengths-challenges.md) [~W] |
+| One session only | Use a brief structure with individual answers before and after the group step; do not expect the multi-week effect | untested proposal |
 
 ## Observation, state and explanation
 
@@ -42,6 +60,15 @@ These rows are proposals, untested with learners. A single probe shifts confiden
 - [Mixed science-classroom comparisons](../claims/cooperative-learning-science-studies-mixed.md) [~W]: a clearinghouse digest reports a grades 3–5 temperature study with no advantage over pair work, a preservice-teacher chemistry course where control classes won all 60 comparisons, and a seven-week biology study with no difference. Not yet checked against its source, second-hand, no effect sizes. It predicts that the expectation can fail in a given implementation; it does not say why.
 
 Keep each study's learners, comparator, duration and outcome when transporting these observations. A pooled d is a programme-level average, not a learner's probability of benefit, and synthesis effects from unlike comparators should not be ranked.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/cooperative-learning.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction? [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]: 10 distinct studies.
+- Does the effect differ by setting, outcome or learner? [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](../claims/cooperative-learning-nonsignificant-moderators.md) [~M]: 3 distinct studies.
+- Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind? [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [~S]: 7 distinct studies.
+- Does structured peer tutoring, a paired form of cooperative work, raise achievement, and does its structure matter? [Peer Tutoring Improves Achievement](../claims/peer-tutoring-improves-achievement.md) [~S]: 4 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

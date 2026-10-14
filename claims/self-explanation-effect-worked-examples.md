@@ -58,6 +58,18 @@ The review reports, citing Renkl, a study of qualitative differences in college 
 
 > "Renkl (1997b) discovered that the quality of the effective learners' self-explanations could be attributed to how often they attempted to self-explain the deep structure of the problems."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What should learners do while studying an example, and which examples should they see?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (1 review, 1 quant-synthesis, 1 causal), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | this claim; [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enha](subgoal-labels-worked-examples-transfer.md) (supports) |
+| [Rittle-Johnson 2017](https://doi.org/10.1007/s11858-017-0834-z) | q3 · quant-synthesis · r? | i? | [Erroneous examples improve conceptual understanding by forcing comparison with correct mod](erroneous-examples-build-conceptual-knowledge.md) (supports) |
+| [Durkin & Rittle-Johnson 2012](https://doi.org/10.1016/j.learninstruc.2011.11.001) | q3 · causal · r? | i? | [Erroneous examples improve conceptual understanding by forcing comparison with correct mod](erroneous-examples-build-conceptual-knowledge.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

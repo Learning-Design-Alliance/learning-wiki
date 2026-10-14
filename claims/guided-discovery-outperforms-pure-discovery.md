@@ -100,6 +100,20 @@ Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance durin
 
 This narrative review builds its case on human cognitive architecture, expert–novice differences and [cognitive load theory](../theories/cognitive-load-theory.md). It concludes that empirical studies over the past half-century consistently show minimally guided instruction to be less effective and less efficient than instruction that strongly guides the learning process. It states the claim's novice boundary directly: the advantage of guidance recedes only when learners have enough prior knowledge to provide "internal" guidance (see [expertise reversal effect](../theories/expertise-reversal-effect.md)). It is an argument that synthesises other studies, with no pooled estimate of its own.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should novices be left to discover the target content without support?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q2`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Alfieri et al. 2011](https://doi.org/10.1037/a0021017) | q3 / q4 · quant-synthesis · r2 | i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery; i1 | this claim; [Explicit instruction produces greater learning than unassisted discovery learning under mo](explicit-instruction-beats-unassisted-discovery.md) (supports); [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) (supports); [Worked examples confer a larger advantage over unassisted discovery than direct teaching d](worked-examples-largest-advantage-over-unassisted-discovery.md) (supports) |
+| [Klahr & Nigam 2004](https://doi.org/10.1111/j.0956-7976.2004.00737.x) | q3 · causal · r? | i? | this claim |
+| [Kirschner et al. 2006](https://doi.org/10.1207/s15326985ep4102_1) | q2 · review · r? | i? | this claim |
+| [Lazonder 2016](https://doi.org/10.3102/0034654315627366) | q2 · quant-synthesis · r3 | i1 | [Minimally guided or unguided inquiry is less effective than explicit instruction, while ad](minimal-guidance-inquiry-inferior-explicit-instruction.md) (supports) |
+| [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q2 · theoretical · r3 | i? | [Guided discovery outperformed both unguided discovery and direct instruction in classic st](guided-discovery-outperformed-both-extremes.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The core mechanism is working-memory limits: unguided search consumes limited cognitive resources on off-task exploration rather than schema construction, so guidance redirects that effort toward the to-be-learned structure — consistent with [cognitive load theory](../theories/cognitive-load-theory.md) and the conditions under which [cognitive overload degrades learning](cognitive-overload-degrades-learning.md). Guidance can take many forms — scaffolds, prompts, feedback, or [worked examples](../elements/demonstration.md) — and the amount needed is not fixed: as expertise grows, support should fade, per the [expertise reversal effect](../theories/expertise-reversal-effect.md).

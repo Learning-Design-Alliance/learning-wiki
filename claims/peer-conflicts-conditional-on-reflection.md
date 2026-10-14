@@ -39,6 +39,19 @@ Analysis of peer-conflict instances across the 7 dyads (Table 4), where the numb
 
 > "Peer conflicts appeared to have impact on some students but not on others, and some students achieved conceptual change without experiencing any peer conflicts at all.It appeared that the crucial factor was whether students were prepared to reflect on and reconstruct their conceptions."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When does a conflict fail to change the learner's model?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 qualitative, 1 design), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Tao 1997 | q2 · qualitative · r2 | i? | this claim; [Computer-supported collaborative learning with simulation programs fostered conceptual cha](cscl-simulation-conceptual-change-cognitive-engagement.md) (qualifies); [High joint on-task engagement with high equality and mutuality of engagement did not neces](high-equality-mutuality-not-sufficient-conceptual-change.md) (qualifies); [Co-construction of shared understanding needed to be accompanied by students' personal con](personal-construction-required-stable-conceptual-change.md) (qualifies) |
+| [Sinha 2022](https://doi.org/10.1080/10508406.2021.1964506) | q3 · causal · r? | i1 | [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) (qualifies) |
+| Maass 2016 | q2 · causal · r2 | i? | [Higher self-reported confusion predicts a much larger negative effect on future performanc](confusion-amplifies-negative-effect-of-incorrect-trials.md) (qualifies) |
+| Suleiman 2026 | q2 · design · r3 | i? | [Scaffolding must be balanced: too little led to confusion and overload, while too much red](scaffolding-balance-confusion-versus-critical-thinking.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

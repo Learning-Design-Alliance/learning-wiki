@@ -41,8 +41,9 @@ Observation-based finding from the four-school case study: teachers look at evid
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - Equity as a core value is the first distinguishing finding that drives personalization of student learning in these schools — a broader claim this one bears on
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](intensive-professional-development-stronger-epportfolio-outcomes.md) — related
 - [Strong personalized student supports tend to accompany strong freshman course performance but may not be essential](student-supports-tend-accompany-strong-performance.md) — related

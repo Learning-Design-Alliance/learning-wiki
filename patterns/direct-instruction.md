@@ -15,7 +15,7 @@ grain_size: lesson
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 22 studies (11 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 12 claims rest on one study
+> **Evidence** · 24 claims (13 for, 11 mixed) · 25 studies (12 quant-synthesis, 5 causal, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -59,6 +59,24 @@ A request for "clear teaching" or "better results" does not specify these inputs
 - **A whole scripted curriculum.** [Engelmann's Direct Instruction curricula](../claims/direct-instruction-improves-outcomes.md) [+M] (328 studies) show positive effects across reading, mathematics, language and spelling, larger with more exposure. One family of scripted programmes, abstract only, not yet checked, with no comparator stated; it is not evidence about any explicit lesson.
 
 Do not rank these by effect label while their comparators, learners and outcomes differ. A precise abstention names the missing comparison, target or observation and the next way to resolve it.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **the learners' unaided attempt at a representative task**, **the knowledge type and outcome (procedure, concept, transfer)**, **the setting and who can give feedback**, and **the horizon at which the outcome is checked**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Learners cannot start the target task | Run the full sequence: brief elicitation, explanation and model, guided practice with checks, then hand over | [Minimal guidance is less effective for novices](../claims/minimal-guidance-less-effective-for-novices.md) [+S] |
+| `online-self-paced`, with no teacher to respond in the moment | Use worked examples as the model and build feedback into the guided items; worked examples beat unassisted discovery by more than direct teaching did | [Worked examples' advantage over unassisted discovery](../claims/worked-examples-largest-advantage-over-unassisted-discovery.md) [+M] |
+| Older learners and a conceptual or transfer objective | Put a short designed problem attempt before step 2 (the explanation), then teach the method and contrast it with their attempts | [Productive failure improves conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) [~S] |
+| A procedure, or second to fifth graders | Keep instruction first and keep the opening elicitation brief | [Productive failure improves conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) [+S] |
+| Some learners pass the opening elicitation and explain it | Route them past the full explanation to varied or changed items; recheck later | [Expertise reversal effect](../claims/expertise-reversal-effect.md) [~S] |
+| The design is inquiry-based (science lab, investigation) | Keep the teacher leading the inquiry steps and add prompts and feedback rather than switching to lecture | [Teacher-guided inquiry outperforms student-led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+S]; [Guidance improves inquiry learning outcomes](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M] |
+| The target is a verbal or social skill (discussion moves, reading strategies, interpersonal routines) | Give explicit explanation and modelling priority; the deficit of unassisted discovery was largest in that domain | [Domain moderates the unassisted-discovery deficit](../claims/domain-moderates-unassisted-discovery-deficit.md) [+M] |
+| Learners may move on only after showing mastery | Add a mastery check before each new unit and plan for extra time; in self-paced college courses, watch completion | [Mastery learning improves outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]; [Self-paced mastery reduces course completion](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [~M] |
+| The outcome is checked at the end of term, not the end of the lesson | Schedule later practice and a delayed check with new items; do not judge the lesson on the immediate check | [Instruction effect peaks then diminishes](../claims/instruction-positive-effect-peaks-then-diminishes.md) [~M] |
+| Many teachers will deliver the lesson from a script | Expect the responsive parts (prompting, adjusting support) to be delivered less faithfully than the scripted parts; train and observe those parts | [Lower adherence to scaffolding than to scripted components](../claims/scaffolding-lower-adherence-than-scripted-components.md) [~M] |
+| A school is adopting a scripted Direct Instruction programme | Budget for training and coaching; gains appeared only where the programme was fully supported | [Direct Instruction gains depend on implementation support](../claims/direct-instruction-gains-depend-on-implementation-support.md) [~M] |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

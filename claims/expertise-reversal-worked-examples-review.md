@@ -41,6 +41,7 @@ The review attributes this to Kalyuga, Chandler, Tuovinen, and Sweller (2001), e
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — the general claim this finding bears on, with the studies behind it
 -

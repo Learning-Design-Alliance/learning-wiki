@@ -49,6 +49,8 @@ Video recordings of 35 lessons across 7 teacher-student small-group dyads were c
 This study's honest null result (contingency did not predict uptake) is as important as its positive one: it directly complicates a common assumption in the scaffolding literature that well-calibrated support is close to sufficient for effectiveness, showing instead that *how support ends* matters as much as how well it was pitched. The qualitative timely-fading mechanism is drawn from a small number of illustrative cases (7 ignored, 7 applied) within the larger dataset and should be read as a well-grounded explanatory account rather than a separately quantified effect. The study is observational, not an experiment on fading timing, so a causal claim that teaching fading-checks would improve uptake is plausible but untested here.
 
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) — related

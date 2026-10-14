@@ -41,6 +41,7 @@ Controlled experiments adding a pre-lesson giving the name, location, and behavi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — the general claim this finding bears on, with the studies behind it
 -

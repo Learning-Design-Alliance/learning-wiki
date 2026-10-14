@@ -41,7 +41,8 @@ Synthesis of four retention studies (Block, 1972; Omelich & Covington, 1981; Wen
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery learning gains persist at follow-up examinations about eight weeks after instruction](mastery-learning-gains-persist-at-follow-up.md) — the general claim this finding bears on, with the studies behind it
 - [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](group-mastery-positive-achievement-all-studies.md) — related
 - [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](mastery-improves-engagement-attrition.md) — related

@@ -66,6 +66,18 @@ Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example stu
 
 The paper argues that effective instruction must manage the transition away from examples, because maintaining full guidance after competence develops weakens transfer and independent performance.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*For whom: how does the benefit change with prior knowledge?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (1 review, 1 theoretical, 1 causal), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 / q3 · review · r? | i? | this claim; [The review reports that worked examples benefit inexperienced learners but become redundan](expertise-reversal-worked-examples-review.md) (supports) |
+| [Renkl & Atkinson 2003](https://doi.org/10.1207/s15326985ep3801_3) | q3 · theoretical · r? | i? | this claim |
+| [Gupta 2020](https://doi.org/10.20897/ejsteme/9252) | q3 · causal · r2 | i?; i1 | [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than](lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) (supports); [Prior knowledge and worked-example type (full vs completion) interact significantly on sel](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) (qualifies); [Prior knowledge, worked-example type (full vs completion) and task difficulty show a signi](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) (qualifies); [No significant interaction between prior knowledge and task difficulty was observed in a w](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The design implication is not to remove structure abruptly. It is to fade it as competence grows so learners are not trapped in support they no longer need.

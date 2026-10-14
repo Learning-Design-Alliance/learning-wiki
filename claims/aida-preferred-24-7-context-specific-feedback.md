@@ -41,8 +41,9 @@ Perception studies 1-3, in which 315 distance students reacted to prototypes and
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-motor-retention.md) — the general claim this finding bears on, with the studies behind it
 - [After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature](aida-post-use-96-percent-quiz-most-liked.md) — related
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
 - [Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful](students-prefer-combined-peer-and-ai-feedback.md) — related

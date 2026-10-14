@@ -39,6 +39,18 @@ The discussion section synthesizes survey and focus group findings, reporting th
 
 > "service-learners who felt positively about their relationships with their professors, community partners, and peer mentors reported more intention to be civically engaged in the future, including plans to engage in more volunteer work, to participate in community action programs and services"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How much do relationships with mentors, professors and community partners matter?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **3 distinct studies** (1 associational, 1 qualitative, 1 design), `q1`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Harkins 2020](https://doi.org/10.3998/mjcsloa.3239521.0026.202) | q2 / q3 · associational · r1 | i?; i1; i3 · r = −.38 and −.41 with social justice attitudes (i3 under r bins), r = −.36 with diversity attitudes (i2) | this claim; [Service-learning students with a SLAM peer mentor scored higher on posttest civic action t](peer-mentoring-increases-civic-action-service-learning.md) (supports); [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) (supports); [Professor-student relationship quality correlates with multiple civic engagement outcomes ](professor-relationship-quality-civic-engagement-bidirectional.md) (supports); [Conflict and antagonism with community partners negatively correlate with social justice a](community-partner-conflict-negatively-correlates-social-justice.md) (qualifies) |
+| Warren-Gordon 2019 | q1 · qualitative · r2 | i? | [Community partners report that co-planning under the CSL model gives them a voice in what ](csl-co-planning-gives-community-partners-voice-in-project.md) (qualifies) |
+| Addison 2025 | q1 · design · r2 | i? | [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three](planetary-health-course-three-key-lessons.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

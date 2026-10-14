@@ -1,0 +1,68 @@
+{
+  "principle": "principles/building-empathy",
+  "note": "Batch g8 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. The outcomes differ by hub (attitudes towards a group; social-cognitive task scores; social-emotional skill composites; teacher discipline and suspensions) and must not be read as one 'empathy' outcome. Review before applying. reading-literary-fiction-improves-theory-of-mind is left out: it is itself a general claim with three studies and no narrower member in the wiki, and its outcome (social-cognitive task scores) is not the attitude outcome of the first hub.",
+  "findings": [
+    {
+      "hub": "building-empathy-improves-intergroup-attitudes",
+      "question": "Does structured perspective-taking or contact improve learners' attitudes towards another person or group, and does it reach behaviour?",
+      "members": [
+        [
+          "diverse-schools-social-and-civic-benefits",
+          "+"
+        ],
+        [
+          "csl-one-on-one-partner-contact-disrupts-stereotypes",
+          "+"
+        ],
+        [
+          "students-interaction-empathy-perspective-taking",
+          "+"
+        ],
+        [
+          "360-filmmakers-challenge-perspective-taking",
+          "+"
+        ],
+        [
+          "game-based-learning-empathy-sec",
+          "+"
+        ],
+        [
+          "label-condition-moderates-empathy-predictors",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "sel-programs-improve-social-emotional-skills",
+      "question": "Do sustained, structured programmes produce social-emotional gains, and do they last?",
+      "members": [
+        [
+          "sel-benefits-persist-follow-up",
+          "+"
+        ],
+        [
+          "rwsa-hong-kong-less-bullying-empathy-gains",
+          "+"
+        ],
+        [
+          "bds-improves-ethical-perspective",
+          "+"
+        ],
+        [
+          "pretend-play-facilitates-perspective-taking-abstract-thought",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "brief-intervention-empathic-discipline-cuts-suspensions",
+      "question": "When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?",
+      "members": [
+        [
+          "empathic-mindset-teacher-intervention-lowers-suspensions",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

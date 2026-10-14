@@ -41,10 +41,11 @@ Negative Binomial GLMM of hesitation counts for the ADHD subgroup (n=68 observat
 
 ## Discussion
 
-
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 - [ADHD medication status shows no significant interaction with segmentation, though medicated participants made fewer hesitations](medication-status-segmentation-interaction-null.md) — related
 - [Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant](segmentation-benefit-larger-for-adhd-group.md) — related

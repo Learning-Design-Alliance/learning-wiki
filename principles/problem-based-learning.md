@@ -22,7 +22,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (5 for, 14 mixed, 1 against) · 25 studies (7 causal, 6 quant-synthesis, 6 review, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 3 of 25 report an effect size · 15 claims rest on one study
+> **Evidence** · 28 claims (9 for, 17 mixed, 2 against) · 29 studies (8 causal, 7 review, 6 quant-synthesis, 4 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -33,6 +33,25 @@ Problem-based learning (PBL) organizes learning around ill-structured or authent
 **Within a problem-centred design, guidance is the better-supported lever.** For a learner who is a `novice` on the target relation, leaving essential content to be discovered without support learns less than explicit instruction, while discovery with feedback, worked examples or scaffolding does better than other instruction. Starting with a problem *before* instruction is a narrower configuration (productive failure): it has meta-analytic support for conceptual knowledge and transfer when instruction follows, no procedural advantage, a reversal for second- to fifth-grade `child` learners, and is reported most reliably in well-structured domains. It is not evidence that open problems help novices learn content on their own.
 
 The relationship is therefore conditional on the learner's starting knowledge of the target content, on the guidance and consolidation provided, on the outcome chosen (conceptual, transfer, procedural, product) and on the horizon. The [pattern](../patterns/problem-based-learning.md) specifies a reusable design policy; its local diagnostic branches remain proposals.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **what do learners already know of the content the problem needs?**, **is the outcome basic knowledge, or understanding and transfer?**, **how old are the learners?**, and **will explicit instruction consolidate the problem work?**
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The plan is to convert a whole course or curriculum to PBL and expects a clear gain | Promise no gain from the label; the average effect is small (g = 0.27), ranges from strongly negative to strongly positive, and may be overstated by publication bias. Specify the guidance and consolidation and evaluate that configuration | [The overall PBL effect is modest with large heterogeneity](../claims/pbl-overall-effect-modest-large-heterogeneity.md) [~M]; [Publication bias in the same data](../claims/publication-bias-pbl-tutor-meta-analysis.md) [~M] |
+| The outcome that matters is basic factual knowledge on an exam | Do not rely on problem work alone for it; add explicit teaching and practice of the knowledge base | [PBL: null or negative on basic knowledge, positive on understanding and transfer](../claims/pbl-null-basic-knowledge-positive-transfer.md) [~M] |
+| The outcome is conceptual understanding and transfer | Use a problem-centred design with consolidating instruction afterwards | [PBL: positive on understanding and transfer](../claims/pbl-null-basic-knowledge-positive-transfer.md) [+M]; [Problem-first improves conceptual learning when instruction follows](../claims/productive-failure-improves-conceptual-learning.md) [+M] |
+| Learners are novices on the content the problem needs | Make that content explicit (explanation, worked examples) before or alongside the problem; leaving it to be found unsupported learns less | [Minimal guidance is less effective for novices](../claims/minimal-guidance-less-effective-for-novices.md) [-M]; [Worked examples reduce novice search](../claims/worked-examples-reduce-novice-search.md) [+M] |
+| Learners already have strong knowledge of the domain | Lower the guidance and give more open problems, checking on an unaided task first | [The advantage of guidance recedes with high prior knowledge](../claims/guidance-advantage-recedes-with-high-prior-knowledge.md) [~W] (a review's argument) |
+| Learners are in the early primary years and the plan is problem-first | Teach first and use the problem as application | [PS-I effects are negative for 2nd–5th graders and rise with age](../claims/psi-effect-increases-with-grade-level.md) [-M] |
+| Facilitators are not content experts (or the brief insists they must be) | Do not choose tutors on content background alone; prepare every facilitator in the guidance and consolidation moves | [Tutor background did not predict learning](../claims/tutor-background-meta-regression-not-predictive.md) [~M] |
+| Small groups, each with a facilitator | Have facilitators raise support after a failed step and lower it after success, rather than give fixed hints | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [+M] (one-to-one tutoring, not PBL groups) |
+| The goal is application of a skill, and a participatory simulation is an option | Expect the simulation to give larger application gains and PBL larger knowledge gains, in one trial with 54 seventh and eighth graders; choose by the outcome that matters | [Simulation gave larger application gains](../claims/simulation-larger-application-gains.md) [~W]; [PBL gave larger knowledge gains](../claims/problem-based-larger-knowledge-gains.md) [~W] |
+| The learners are adult professionals in a preparation programme (for example school leaders) | Tie the problems to the learners' own practice through fieldwork, not only to classroom cases | [Problem-based learning connecting coursework and practice](../claims/problem-based-principal-preparation-self-efficacy.md) [+W] |
+| Collaboration skills are a goal | Ask learners to reflect in writing on how the group worked, and prompt for thinking processes, which learners rarely mention unprompted | [PBL students named valuing others' perspectives and interdependence](../claims/pbl-attitudes-valuing-interdependence-self.md) [+W]; [Students rarely referred to higher-level processing benefits](../claims/minimal-reference-higher-level-processing-benefits.md) [~W] |
+| Every problem product will be graded | Keep the problem phase low-stakes and grade the individual consolidation and transfer tasks | untested proposal |
 
 ## Observation, state and explanation
 
@@ -63,6 +82,15 @@ These rows are proposals, untested with learners. A probe can shift confidence a
 - [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [~M]: in one community-college biology cohort (n = 56; a non-randomized within-cohort comparison of matched topics), case-taught topics scored higher on course exams; a systematic review of 104 papers in health professional education (it passes the judge) concluded that students enjoy case-based learning but the evidence on learning compared with other activities is inconclusive, and that any benefit of small-group case work may come from the group work rather than the cases. It does not establish an advantage for authentic-problem formats in general and does not report delayed outcomes.
 
 Retain learner age and starting knowledge, the exact comparator (instruction-first, lecture, unassisted discovery), the amount and timing of guidance, time on task, outcome type and horizon when transporting these results. A pooled g over unlike implementations is not a forecast for one class or one learner, and a nonsignificant procedural difference does not establish equivalence.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/problem-based-learning.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does PBL as a curriculum format raise achievement over conventional instruction, and how reliably? [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](../claims/pbl-overall-effect-modest-large-heterogeneity.md) [~M]: 4 distinct studies.
+- For which outcomes: basic knowledge, application and transfer, or professional skills? [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](../claims/pbl-null-basic-knowledge-positive-transfer.md) [~M]: 3 distinct studies.
+- How much guidance do novices need inside a problem-centred design? [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S]: 13 distinct studies.
+- What do learners say they learn about collaboration from PBL? [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](../claims/pbl-attitudes-valuing-interdependence-self.md) [~M]: 2 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

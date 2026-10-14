@@ -59,6 +59,19 @@ Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Mat
 
 A Best Evidence Medical Education review of case-based learning in prequalification programmes in medicine, dentistry, veterinary science, nursing, social care and the allied health professions, searching six databases from 1965 to September 2010. Of 104 coded papers, 23 were rated higher quality. Most studies used a single cohort (61%) and evaluated outcomes only after the intervention (75%), and the variety of interventions ruled out meta-analysis. The authors conclude that students enjoy case-based learning and think it helps them, but that the evidence is inconclusive on whether it improves learning more than other activities, and that any benefit of small-group case work may come from the group learning rather than from the cases.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching through realistic cases, by itself, raise learning?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (3 review, 1 causal), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bonney 2015](https://doi.org/10.1128/jmbe.v16i1.846) | q2 · causal · r2 | i? | this claim |
+| [Thistlethwaite et al. 2012](https://doi.org/10.3109/0142159x.2012.680939) | q3 · review · r3 | i? | this claim |
+| [Zhao J 2026](https://doi.org/10.3389/feduc.2026.1907589) | q2 · review · r2 | i? | [Case-based learning benefits depended on faculty-guided embedding, while complex cases and](genai-cbl-faculty-guided-conditional-benefits.md) (qualifies) |
+| [Alrazeeni 2026](https://doi.org/10.1177/23779608261424597) | q2 · review · r2 | i? | [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticip](ai-ambulatory-case-simulations-diagnostic-reasoning.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Why cases might help exam performance.** Cases situate abstract principles in concrete, realistic contexts, which is the core move of [situated learning](../theories/situated-learning.md) and [cognitive apprenticeship](../theories/cognitive-apprenticeship.md). Working through cases requires learners to activate prior knowledge, discriminate relevant from irrelevant detail, and apply concepts to messy situations — processes associated with deeper encoding than passive review. Structured case discussion formats such as the [Harvard method](../patterns/case-based-learning-harvard-method.md) add accountability and [argumentation](../elements/argumentation.md), which plausibly strengthens the retrieval routes that exams test.
