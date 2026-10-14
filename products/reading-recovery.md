@@ -54,12 +54,11 @@ Reading Recovery is a one-to-one early-literacy tutoring programme for low-achie
 - [Reading Recovery shows uncertain effects on general academic achievement ten years after the intervention](../claims/reading-recovery-uncertain-longterm-academic-achievement.md) [~W]
 - [Reading Recovery shows uncertain effects on mathematics achievement three years after the intervention](../claims/reading-recovery-uncertain-mathematics-achievement.md) [~W]
 - [Phonemic awareness effects of Reading Recovery were positive and substantively important but not statistically significant in one trial](../claims/reading-recovery-phonemic-awareness-null-significance.md) [+W]
-- [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](../claims/reading-recovery-positive-general-reading-achievement.md) [+W]
+- [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](../claims/reading-recovery-positive-general-reading-achievement.md) [+M]
 - [Reading Recovery has potentially positive effects on alphabetics for beginning readers](../claims/reading-recovery-potentially-positive-alphabetics.md) [+W]
 - [Reading Recovery has potentially positive effects on comprehension, with mixed findings across two trials](../claims/reading-recovery-potentially-positive-comprehension.md) [+W]
 - [Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial](../claims/reading-recovery-potentially-positive-reading-fluency.md) [+W]
 - [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](../claims/reading-go-positive-decoding-word-reading-outcomes.md) [+M]
-- [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](../claims/reading-recovery-positive-general-reading-achievement.md) [+M]
 
 ## Related Products and Programmes
 -

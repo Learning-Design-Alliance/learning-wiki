@@ -25,7 +25,6 @@ The paper recommends that researchers interested in studying complex interventio
 ### Claims
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde.md) [+M]
 - [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/bayesian-72-arm-half-sample-size-classical.md) [+M]
-- [For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/bayesian-72-arm-half-sample-size-classical.md) [+M]
 
 ## Related Research Methods
 -

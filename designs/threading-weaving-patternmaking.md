@@ -50,7 +50,6 @@ Unit (one physics unit; reduced from 75 to 28 minutes per session under COVID co
 
 ### Claims
 #### Supporting
-- [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](../claims/critical-speculative-design-supports-critical-consciousness-in-science.md) [~M]
 
 ## Design
 

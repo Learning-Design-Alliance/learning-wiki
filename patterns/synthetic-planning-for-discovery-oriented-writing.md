@@ -52,7 +52,6 @@ Lesson (a single extended writing session; the source study used a 30-minute dra
 
 ### Claims
 #### Supporting
-- [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](../claims/spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) [~M]
 #### Contradicting
 - (none yet linked)
 

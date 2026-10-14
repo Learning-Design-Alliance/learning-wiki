@@ -28,11 +28,10 @@ Success Boston Coaching is a college-access coaching programme run through Bosto
 - **Cost profile of Success Boston Coaching: $5,762 per student during scale-up, decreasing to $3,037**: The report documents the major resources needed to implement Success Boston Coaching, listing cost ingredients covering personnel, facilities, equipment and materials, direct assistance, and other supports. In the 2015-16 academic year, when the intervention was scaled from serving about 300 students to 1,000 students per cohort annually, "the estimated total cost was $5,762 per student". Without scale-up administrative costs, the cost per student decreased to $3,037 in 2016-17. Funding came from The Boston Foundation, a Social Innovation Fund grant, and coaching partner organizations. (What Works Clearinghouse et al. (2020))
 
 ### Claims
-- [In the Linkow et al. (2019) scale-up QED, coaching showed no statistically significant effect on cumulative college GPA (effect size 0.01, p = 0.82)](../claims/linkow-2019-null-gpa-effect.md) [~W]
+- [In the Linkow et al. (2019) scale-up QED, coaching showed no statistically significant effect on cumulative college GPA (effect size 0.01, p = 0.82)](../claims/linkow-2019-null-gpa-effect.md) [~W] — (also cited [-W])
 - [In the Linkow et al. (2019) scale-up QED, coaching produced a statistically significant positive effect on second-year college enrollment](../claims/linkow-2019-significant-persistence-effect.md) [+W]
 - [In the Linkow et al. (2017) QED, coaching produced a statistically significant positive effect on cumulative college GPA](../claims/linkow-2017-significant-gpa-effect.md) [+W]
 - [In the Linkow et al. (2017) QED, coaching produced a statistically significant positive effect on second-year college enrollment](../claims/linkow-2017-significant-persistence-effect.md) [+W]
-- [In the Linkow et al. (2019) scale-up QED, coaching showed no statistically significant effect on cumulative college GPA (effect size 0.01, p = 0.82)](../claims/linkow-2019-null-gpa-effect.md) [-W]
 - [Success Boston Coaching has potentially positive effects on academic achievement, with a significant effect in one study and an indeterminate effect in the other](../claims/success-boston-coaching-potentially-positive-academic-achievement.md) [+W]
 - [Success Boston Coaching has potentially positive effects on progressing in college, based on two quasi-experimental studies meeting WWC standards with reservations](../claims/success-boston-coaching-potentially-positive-progressing-in-college.md) [+W]
 

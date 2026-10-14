@@ -60,7 +60,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 ### Claims
 
 - [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](../claims/access-effective-teaching-varies-across-districts.md) [+W]
-- [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](../claims/disadvantaged-students-receive-less-effective-teaching.md) [+W]
+- [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](../claims/disadvantaged-students-receive-less-effective-teaching.md) [+M]
 - [The teaching-effectiveness disparity represents a small share of the overall achievement gap for disadvantaged students](../claims/teaching-effectiveness-disparity-small-share-of-achievement-gap.md) [+W]
 - [Teacher mobility behavior is heterogeneous across the teacher performance distribution](../claims/heterogeneous-mobility-across-performance-distribution.md) [+W]
 - [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](../claims/more-effective-teachers-remain-in-profession-and-school.md) [+W]
@@ -74,7 +74,6 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - [The Full Roster Method effectively counts co-taught students more than once in value-added calculations](../claims/frm-counts-cotaught-students-more-than-once.md) [+W]
 - [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](../claims/ffl-scores-correlated-principal-value-added.md) [+W]
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](../claims/ffl-scores-not-associated-achievement-growth.md) [-W]
-- [FFL evaluation scores are significantly and positively correlated with principals' contributions to student achievement (value-added)](../claims/ffl-scores-correlated-principal-value-added.md) [+W]
 - [FFL scores correlate more strongly with contributions to math achievement than to achievement in other subjects](../claims/ffl-math-value-added-stronger-correlation.md) [+W]
 - [Oklahoma educators received value-added results in spring 2016 based on instruction provided in the 2014–2015 school year](../claims/oklahoma-tle-value-added-results-spring-2016.md) [+W]
 - [Spring 2016 was the third year Oklahoma's TLE provided value-added results to educators](../claims/tle-third-year-value-added-results.md) [+W]
@@ -83,8 +82,6 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - [The report synthesizes 21 empirical studies on value-added model key issues and findings](../claims/vam-report-synthesized-21-empirical-studies.md) [+W]
 - [Phase 1 of the Pennsylvania pilot examined whether teachers with higher classroom observation scores on specific professional practices tended to have greater value-added impacts on student achievement](../claims/observation-scores-value-added-relationship-pennsylvania-pilot.md) [+W]
 - [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](../claims/first-study-principal-practice-ratings-value-added-validity.md) [+W]
-- [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](../claims/disadvantaged-students-receive-less-effective-teaching.md) [+M]
-- [Access to effective teaching for disadvantaged students varied across districts, from no statistically significant difference to a disparity equivalent to 13 weeks of learning](../claims/access-effective-teaching-varies-across-districts.md) [+W]
 - [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](../claims/teaching-disparity-weeks-of-learning.md) [+W]
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](../claims/vam-omitting-background-lowers-disadvantaged-district-ratings.md) [+W]
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](../claims/disadvantaged-students-poorer-access-effective-teachers.md) [+W]

@@ -29,10 +29,8 @@ A preschool intervention developed by researchers that combines the Preschool PA
 - **Pairing social-emotional learning with interactive storybook reading and phonological awareness activities in preschool**: REDI's instructional design combines an SEL curriculum with structured early-literacy activities: "an interactive storybook reading and retelling approach, along with phonological awareness training and alphabet center activities." The pattern pairs self-regulation and emotional-control teaching with language and print activities in the same preschool day. (REDI (Research Based (2024))
 
 ### Claims
-- [REDI improves preschool language and literacy outcomes with a mean end-of-preschool effect size of +0.23](../claims/redi-end-of-preschool-mean-effect-023.md) [+W]
-- [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](../claims/redi-kindergarten-followup-faded-effects.md) [-W]
 - [REDI improves preschool language and literacy outcomes with a mean end-of-preschool effect size of +0.23](../claims/redi-end-of-preschool-mean-effect-023.md) [+M]
-- [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](../claims/redi-kindergarten-followup-faded-effects.md) [~M]
+- [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](../claims/redi-kindergarten-followup-faded-effects.md) [-W] — (also cited [~M])
 
 ## Related Products and Programmes
 -

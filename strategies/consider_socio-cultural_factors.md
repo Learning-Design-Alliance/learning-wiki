@@ -68,7 +68,6 @@ Equity of access is a precondition for the benefits of any instructional design:
 - [Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race](../claims/thirty-percent-students-lacked-internet-or-devices-2018.md) [+W]
 - [The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students](../claims/digital-divide-narrowed-schools-partially-compensating.md) [~W]
 - [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](../claims/homework-gap-scale-2020.md) [+W]
-- [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](../claims/covid-stem-tech-access-inequity.md) [+W]
 
 ## Related Strategies
 

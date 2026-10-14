@@ -40,8 +40,8 @@ Reading Apprenticeship® is a secondary-school academic literacy curriculum and 
 
 ### Claims
 - [Reading Apprenticeship® showed a statistically significant positive effect on the GRADE reading comprehension subtest for Cohort 2 ninth-grade students](../claims/reading-apprenticeship-cohort2-comprehension-significant.md) [+W]
-- [Reading Apprenticeship® showed no statistically significant effects on most GRADE outcomes: Cohort 1 comprehension and vocabulary, and Cohort 2 vocabulary](../claims/reading-apprenticeship-null-grade-outcomes.md) [-W]
-- [The WWC rates Reading Apprenticeship® as having potentially positive effects on comprehension for adolescent learners, based on one study](../claims/reading-apprenticeship-potentially-positive-comprehension.md) [+W]
+- [Reading Apprenticeship® showed no statistically significant effects on most GRADE outcomes: Cohort 1 comprehension and vocabulary, and Cohort 2 vocabulary](../claims/reading-apprenticeship-null-grade-outcomes.md) [-W] — (also cited [~W])
+- [The WWC rates Reading Apprenticeship® as having potentially positive effects on comprehension for adolescent learners, based on one study](../claims/reading-apprenticeship-potentially-positive-comprehension.md) [+M]
 - [Reading Apprenticeship® has potentially positive effects on grade point average in core subjects, based on one qualifying study](../claims/reading-apprenticeship-potentially-positive-gpa.md) [+W]
 - [Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)](../claims/reading-apprenticeship-no-vocabulary-effect.md) [~W]
 - [Reading Apprenticeship® has potentially positive effects on student science achievement in grades 7–9, based on one qualifying study](../claims/reading-apprenticeship-potentially-positive-science-achievement.md) [+W]
@@ -51,8 +51,6 @@ Reading Apprenticeship® is a secondary-school academic literacy curriculum and 
 - [The overall mean impact of Reading Apprenticeship across four variations is +0.11](../claims/ra-mean-impact-plus-point-one-one.md) [+W]
 - [RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10)](../claims/raal-significant-positive-effects.md) [+W]
 - [RAISE showed positive but non-significant effects (effect size +0.14)](../claims/raise-positive-nonsignificant-effects.md) [+W]
-- [The WWC rates Reading Apprenticeship® as having potentially positive effects on comprehension for adolescent learners, based on one study](../claims/reading-apprenticeship-potentially-positive-comprehension.md) [+M]
-- [Reading Apprenticeship® showed no statistically significant effects on most GRADE outcomes: Cohort 1 comprehension and vocabulary, and Cohort 2 vocabulary](../claims/reading-apprenticeship-null-grade-outcomes.md) [~W]
 
 ## Related Products and Programmes
 

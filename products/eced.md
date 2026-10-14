@@ -30,10 +30,8 @@ Every Classroom, Every Day (ECED) is a two-year stand-alone high-school literacy
 - **Designate an on-site instructional coach to monitor and support ECED implementation**: ECED's staffing requirements state that implementation "Requires a designated on-site instructional coach or leader to monitor and support implementation", noting "This position may look different depending on size of school". Both curricula also "require a reallocation of existing school staff to teach each of the courses". The coach role is part of the program's implementation model rather than an evaluated manipulation in the outcome study. (Every Classroom (2019))
 
 ### Claims
-- [ECED schools made somewhat greater gains on state tests than control schools (effect size +0.06) in a large two-year study](../claims/eced-somewhat-greater-state-test-gains.md) [+W]
-- [ECED schools made greater gains on state math tests than control schools (effect size +0.14) in one large two-year study](../claims/eced-greater-math-gains-state-tests.md) [+W]
-- [ECED schools made greater gains on state math tests than control schools (effect size +0.14) in one large two-year study](../claims/eced-greater-math-gains-state-tests.md) [+M]
 - [ECED schools made somewhat greater gains on state tests than control schools (effect size +0.06) in a large two-year study](../claims/eced-somewhat-greater-state-test-gains.md) [+M]
+- [ECED schools made greater gains on state math tests than control schools (effect size +0.14) in one large two-year study](../claims/eced-greater-math-gains-state-tests.md) [+M]
 
 ## Related Products and Programmes
 -

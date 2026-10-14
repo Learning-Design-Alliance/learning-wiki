@@ -30,7 +30,6 @@ Connect Science is a 31-lesson fourth-grade science curriculum that integrates N
 - **Service-learning integrated elementary science unit pattern combining NGSS practices, collaborative skills, and a service project**: This pattern organizes an elementary science unit around three integrated strands: standards-aligned science instruction, explicit social and collaborative skills teaching, and a facilitated service-learning experience. The article describes Connect Science as designed "to prepare teachers to use Next Generation Science Standards (NGSS) instructional practices, teach social and collaborative skills, and facilitate a service-learning experience in their science class." The sequence of 31 lessons runs 14 weeks or more and can be integrated with other content instruction. (Connect Science program description et al. (2022))
 
 ### Claims
-- [Connect Science raises fourth-grade science achievement more than business-as-usual science instruction (effect size +0.36)](../claims/connect-science-science-achievement-es-036.md) [+W]
 - [Connect Science raises fourth-grade science achievement more than business-as-usual science instruction (effect size +0.36)](../claims/connect-science-science-achievement-es-036.md) [+M]
 
 ## Related Products and Programmes

@@ -35,13 +35,12 @@ Healthy Harlem is a school-based health and wellness programme whose Get Fit and
 
 ### Claims
 - [Overweight or obese students who participated in Get Fit and Prevention had large and statistically significant increases in PACER laps two and three years later](../claims/healthy-harlem-get-fit-prevention-pacer-increases.md) [+W]
-- [Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls](../claims/healthy-harlem-hfz-gains-larger-for-boys.md) [~W]
+- [Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls](../claims/healthy-harlem-hfz-gains-larger-for-boys.md) [~W] — (also cited [+W])
 - [The percentage of students in the targeted Harlem Fitness Zone was significantly greater after two and three years of participation than at baseline](../claims/healthy-harlem-hfz-percentage-greater-than-baseline.md) [+W]
 - [Among students overweight or obese at baseline who received both Get Fit and Prevention, BMI z-scores and overweight/obesity prevalence were reduced](../claims/healthy-harlem-bmi-reduction-baseline-overweight-get-fit-prevention.md) [+W]
 - [Healthy Harlem generally increased students' fitness levels, with variation by gender](../claims/healthy-harlem-fitness-gains-vary-by-gender.md) [+W]
 - [Healthy Harlem had some positive impacts on other measures of student self-efficacy and social support](../claims/healthy-harlem-self-efficacy-social-support-impacts.md) [+W]
 - [Healthy Harlem increased students' nutrition knowledge and physical-activity self-efficacy, with gains sustained over three years](../claims/healthy-harlem-sustained-nutrition-knowledge-self-efficacy-gains.md) [+W]
-- [Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls](../claims/healthy-harlem-hfz-gains-larger-for-boys.md) [+W]
 
 ## Related Products and Programmes
 -

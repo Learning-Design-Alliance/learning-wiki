@@ -47,7 +47,6 @@ The meta-analysis supports presenting textual information through an auditory mo
 - [Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions](../claims/modality-effect-moderated-by-pacing.md) [+M]
 - [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](../claims/modality-effect-narration-over-text.md) [+M]
 - [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](../claims/modality-effect-within-subjects-d073.md) [+M]
-- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
 - [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](../claims/modality-effect-spoken-text-visual-information.md) [+M]
 - [Modality effect sizes differ across fields of study, with social science effects negative and science effects largest](../claims/modality-effect-field-of-study-moderator.md) [~M]
 - [The modality effect is particularly strong for students learning through virtual reality media](../claims/modality-effect-stronger-in-virtual-reality.md) [~M]

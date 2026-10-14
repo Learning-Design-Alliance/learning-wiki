@@ -38,7 +38,6 @@ The study applies a Latent State Trait (LST) model to decompose an individual's 
 ### Claims
 
 - [Rapid Guessing State Like Not Trait](../claims/rapid-guessing-state-like-not-trait.md) [+M]
-- [Rapid guessing on achievement tests tends to be more state-like than academic achievement scores, which are fairly stable over time](../claims/rapid-guessing-state-like-not-trait.md) [+W]
 - [Rapid guessing can be examined over three years using six test administrations to distinguish trait-like from situational disengagement](../claims/six-administrations-three-years-rapid-guessing-design.md) [+W]
 
 ## Related Theories

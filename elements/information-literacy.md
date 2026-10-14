@@ -38,7 +38,6 @@ Information literacy is the element in which learners identify information needs
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
-- [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](../claims/distributed-epistemic-agency-machine-authority.md) [+W] — attached 2026-10-12 from Voicu (2026), which proposed "Critical AI Literacy (technical, epistemic, and ethical dimensions)".
 - [Automation bias toward fluent LLM output surrenders learners' epistemic agency](../claims/automation-bias-surrenders-epistemic-agency.md) [~W]
 - [Technology anxiety's positive association with AI literacy is confined to critical evaluation and ethical competence and absent from the three performance-oriented subdimensions](../claims/anxiety-effect-localized-to-evaluative-subdimensions.md) [~W]

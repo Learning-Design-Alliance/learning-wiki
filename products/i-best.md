@@ -33,8 +33,6 @@ A Washington State Board for Community and Technical Colleges programme that int
 - [I-BEST has no discernible effects on credit accumulation](../claims/ibest-no-discernible-effects-credit-accumulation.md) [-M]
 - [I-BEST has positive effects on industry-recognized credential, certificate, or license completion (improvement index +18 across three studies)](../claims/ibest-positive-effects-credential-completion.md) [+M]
 - [I-BEST has potentially positive effects on short-term employment (improvement index +10)](../claims/ibest-potentially-positive-short-term-employment.md) [+M]
-- [I-BEST has no discernible effects on credit accumulation](../claims/ibest-no-discernible-effects-credit-accumulation.md) [-W]
-- [I-BEST has potentially positive effects on short-term employment (improvement index +10)](../claims/ibest-potentially-positive-short-term-employment.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -45,11 +45,10 @@ Sound Partners is a structured one-to-one early-literacy tutoring programme deve
 - [Sound Partners shows no discernible effects on general reading achievement](../claims/sound-partners-no-discernible-general-reading.md) [-W]
 - [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](../claims/sound-partners-positive-effects-alphabetics.md) [+W]
 - [Sound Partners tutoring has positive effects on reading comprehension of beginning readers](../claims/sound-partners-positive-effects-comprehension.md) [+W]
-- [Sound Partners tutoring has positive effects on reading fluency of beginning readers](../claims/sound-partners-positive-effects-fluency.md) [+W]
+- [Sound Partners tutoring has positive effects on reading fluency of beginning readers](../claims/sound-partners-positive-effects-fluency.md) [+M]
 - [Sound Partners outcomes for English learners persist two years later on Word Reading and Comprehension](../claims/sound-partners-outcomes-persist-two-years.md) [+W]
 - [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](../claims/sound-partners-positive-first-grade-effects-english-learners.md) [+W]
 - [Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60)](../claims/sound-partners-positive-kindergarten-effects-english-learners.md) [+W]
-- [Sound Partners tutoring has positive effects on reading fluency of beginning readers](../claims/sound-partners-positive-effects-fluency.md) [+M]
 
 ## Related Products and Programmes
 -

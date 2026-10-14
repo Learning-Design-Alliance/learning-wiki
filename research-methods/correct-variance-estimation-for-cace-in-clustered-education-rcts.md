@@ -35,10 +35,8 @@ The report's methodological contribution is to work out the correct variance for
 
 ### Claims
 - [Variance correction terms matter little for CACE significance findings in education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+M]
-- [CACE estimators based on correct variance formulas and commonly used simplified formulas yield very similar significance findings across 10 education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+M]
 - [Control-group noncompliance makes experimental and nonexperimental estimands diverge (CACE vs. all treated subjects)](../claims/noncompliance-estimand-divergence-cace-itt.md) [+W]
 - [Identifying and estimating the CACE parameter in the multi-armed context requires complex assumptions](../claims/multi-armed-cace-complex-assumptions.md) [+W]
-- [CACE estimators based on correct variance formulas and commonly used simplified formulas yield very similar significance findings across 10 education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+W]
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](../claims/rct-policy-conclusions-sensitive-to-estimator-choice.md) [~W]
 
 ## Related Research Methods

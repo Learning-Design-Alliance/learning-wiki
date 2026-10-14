@@ -33,7 +33,6 @@ An intensive early behavioral intervention programme developed at UCLA and deliv
 - [The Lovaas Model has no discernible effects on communication/language competencies for children with disabilities](../claims/lovaas-model-no-discernible-communication-effects.md) [-W]
 - [The Lovaas Model has no discernible effects on functional abilities for children with disabilities](../claims/lovaas-model-no-discernible-functional-abilities-effects.md) [-W]
 - [The Lovaas Model has no discernible effects on social-emotional development and behavior for children with disabilities](../claims/lovaas-model-no-discernible-social-emotional-effects.md) [-W]
-- [The Lovaas Model has potentially positive effects on cognitive development for children with disabilities, with an improvement index of +27 percentile points](../claims/lovaas-model-potentially-positive-cognitive-development.md) [+W]
 - [The Lovaas Model has potentially positive effects on cognitive development for children with disabilities, with an improvement index of +27 percentile points](../claims/lovaas-model-potentially-positive-cognitive-development.md) [+M]
 
 ## Related Products and Programmes

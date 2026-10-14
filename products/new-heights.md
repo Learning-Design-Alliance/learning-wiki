@@ -29,7 +29,6 @@ A school-based support programme for expectant and parenting teens, evaluated in
 - **Program elements and practices used together improved academic outcomes for New Heights participants**: The study's central pattern is that it was the program elements and practices "when used together" that improved academic outcomes for New Heights participants, rather than any single component in isolation. The page frames this combination as defining "a possible roadmap for service providers interested in replicating the program's success". The pattern concerns a coordinated system of school-based supports for expectant and parenting students. (Subuhi Asheer et al. (2020))
 
 ### Claims
-- [The New Heights program was found to be effective at improving educational outcomes for expectant and parenting students](../claims/new-heights-effective-improving-educational-outcomes.md) [+W]
 - [The New Heights program was found to be effective at improving educational outcomes for expectant and parenting students](../claims/new-heights-effective-improving-educational-outcomes.md) [+M]
 
 ## Related Products and Programmes

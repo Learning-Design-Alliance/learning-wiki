@@ -35,9 +35,6 @@ A school- and district-partnered attendance intervention that analyzes attendanc
 - [Mailing parents personalized Absence Reports significantly reduces student absences among at-risk students (ES=+0.19) in an urban randomized evaluation](../claims/absence-reports-philadelphia-rct-es-019.md) [+W]
 - [The Absence Reports effect on absences replicates across urban, suburban, and rural elementary districts in California (ES=+0.10)](../claims/absence-reports-replication-california.md) [+W]
 - [Across two randomized studies totaling 38,584 students, the weighted mean effect of Absence Reports on absences is +0.16, qualifying for a Strong evidence rating](../claims/absence-reports-weighted-mean-strong-rating.md) [+W]
-- [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](../claims/absence-reports-philadelphia-rct-es-019.md) [+W]
-- [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](../claims/absence-reports-replication-california.md) [+W]
-- [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](../claims/absence-reports-weighted-mean-strong-rating.md) [+W]
 
 ## Related Products and Programmes
 -

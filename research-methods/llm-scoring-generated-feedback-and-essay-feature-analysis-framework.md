@@ -24,7 +24,7 @@ The article proposes an analysis framework in which "Essays are first evaluated 
 
 ### Claims
 
-- [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](../claims/llm-feedback-sentiment-tracks-scores.md) [+M]
+- [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](../claims/llm-feedback-sentiment-tracks-scores.md) [+M] — (also cited [~W])
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](../claims/llm-essay-scoring-weak-human-agreement.md) [+M]
 - [Llama 4 Maverick shows the strongest human-LLM alignment, while Claude Sonnet 4 performs weakest with poor calibration](../claims/llama-strongest-human-llm-alignment-claude-weakest.md) [+M]
 - [Causal discovery analysis finds four of five LLMs prioritize lexical features in scoring, while DeepSeek R1 uniquely prioritizes syntactic complexity](../claims/llm-causal-feature-dependencies-lexical-versus-syntactic.md) [+M]
@@ -32,7 +32,6 @@ The article proposes an analysis framework in which "Essays are first evaluated 
 - [Implicit demographic conditioning inflates AES scores in some models, with Llama-70B scores rising 1.57 points over its own default, while GPT models remain stable](../claims/implicit-conditioning-inflates-aes-scores-llama-70b.md) [~W]
 - [LLMs agree strongly with their own consensus grades (most ICC > 0.8), far more than with human teachers' grades](../claims/llm-high-consensus-agreement-circularity-risk.md) [~W]
 - [ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them](../claims/ml-overestimates-llm-underestimates-pattern.md) [~W]
-- [SHAP analysis shows praise mentions raise LLM-assigned scores while criticism mentions lower them](../claims/llm-feedback-sentiment-tracks-scores.md) [~W]
 - [Full-scale LLM versions consistently achieve higher agreement with human grades than their mini and nano counterparts](../claims/full-scale-llms-outperform-mini-nano-grading.md) [~W]
 - [Teachers systematically assign higher grades than all evaluated LLM grading models](../claims/teachers-grade-higher-than-all-llm-models.md) [~W]
 - [Document length alone carries some signal (word-count classifier ROC-AUC 0.68), but the fixed-word sliding-window design largely prevents stylometric features from capturing length differences](../claims/sliding-window-controls-document-length-effects.md) [~W]

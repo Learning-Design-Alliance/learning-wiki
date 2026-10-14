@@ -42,7 +42,6 @@ The digest notes that hearing loss and declining visual acuity affect many peopl
 - [Rote Drills Disadvantage Older Learners](../claims/rote-drills-disadvantage-older-learners.md) [~M]
 - [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](../claims/modality-effect-narration-over-text.md) [+M]
 - [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](../claims/modality-effect-spoken-text-visual-information.md) [+W]
-- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
 
 ## Related Principles
 - 

@@ -29,10 +29,8 @@ A U.S. federal grant programme that supported preschools in improving teacher pr
 - **Enhance preschool teacher practices, instructional content, and classroom environments to prepare children for school**: The Early Reading First program embodies the principle that improving preschool quality on three fronts — teacher practices, instructional content, and classroom environments — helps children start school ready. Grants were "designed to enhance teacher practices, instructional content, and classroom environments in preschools to ensure that young children... start school with the skills needed for academic success." (Jackson et al. (2007))
 
 ### Claims
-- [Early Reading First improved instructional content and practices in preschool classrooms](../claims/early-reading-first-classroom-practice-impacts.md) [+W]
-- [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](../claims/early-reading-first-positive-print-letter-knowledge-impacts.md) [+W]
-- [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](../claims/early-reading-first-positive-print-letter-knowledge-impacts.md) [+M]
 - [Early Reading First improved instructional content and practices in preschool classrooms](../claims/early-reading-first-classroom-practice-impacts.md) [+M]
+- [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](../claims/early-reading-first-positive-print-letter-knowledge-impacts.md) [+M]
 
 ## Related Products and Programmes
 -

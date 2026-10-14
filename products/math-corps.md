@@ -45,7 +45,6 @@ Math Corps is an intensive summer mathematics camp for middle school students fo
 - [Few Math Corps participants had encounters with the criminal justice system](../claims/math-corps-few-criminal-justice-encounters.md) [+W]
 - [Math Corps students had much higher graduation rates than Detroit Public Schools students overall](../claims/math-corps-higher-graduation-rates-than-detroit-public-schools.md) [+W]
 - [Participation in the Math Corps summer program had a large and statistically significant impact on college enrollment](../claims/math-corps-large-significant-impact-college-enrollment.md) [+W]
-- [An NSF-funded replication of Math Corps operated in three new cities across summers 2017–2019 with independent evaluation](../claims/math-corps-nsf-funded-three-city-replication.md) [+W]
 - [Math Corps students significantly outperform controls on STAR Math and score higher on the state assessment after one year](../claims/math-corps-one-year-two-assessment-effects.md) [+W]
 - [Math Corps effects are larger for students receiving the optimal dosage](../claims/math-corps-optimal-dosage-larger-effect.md) [+W]
 - [Across two randomized studies, Math Corps has a sample-size-weighted mean effect size of +0.16](../claims/math-corps-pooled-mean-effect-016.md) [+W]

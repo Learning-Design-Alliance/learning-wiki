@@ -40,9 +40,8 @@ Success for All is a comprehensive K–5 school reform and reading programme dev
 - [Teachers at SFA schools report positive perceptions of the reading program, including benefits for English learners and special education students](../claims/sfa-teacher-survey-positive-perceptions.md) [+W]
 - [SFA® shows mixed effects on reading comprehension for beginning readers](../claims/sfa-mixed-effects-comprehension.md) [~W]
 - [SFA® shows mixed effects on general reading achievement for beginning readers](../claims/sfa-mixed-effects-general-reading-achievement.md) [~W]
-- [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](../claims/sfa-positive-effects-alphabetics-k-4.md) [+W]
-- [SFA® shows potentially positive effects on reading fluency for beginning readers](../claims/sfa-potentially-positive-reading-fluency.md) [+W]
 - [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](../claims/sfa-positive-effects-alphabetics-k-4.md) [+M]
+- [SFA® shows potentially positive effects on reading fluency for beginning readers](../claims/sfa-potentially-positive-reading-fluency.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -30,9 +30,8 @@ Lexia English Language Development is a blended English-language-development pro
 
 ### Claims
 - [Effects of Lexia English Language Development are strongest among students with lower baseline English proficiency](../claims/lexia-english-effects-strongest-lower-baseline.md) [+W]
-- [Lexia English Language Development raises English language proficiency (ELPAC) with an effect size of +0.23](../claims/lexia-english-elpac-effect-023.md) [+W]
-- [Lexia English Language Development raises English language arts literacy (SBAC) with an effect size of +0.22](../claims/lexia-english-sbac-effect-022.md) [+W]
 - [Lexia English Language Development raises English language proficiency (ELPAC) with an effect size of +0.23](../claims/lexia-english-elpac-effect-023.md) [+M]
+- [Lexia English Language Development raises English language arts literacy (SBAC) with an effect size of +0.22](../claims/lexia-english-sbac-effect-022.md) [+W]
 
 ## Related Products and Programmes
 -

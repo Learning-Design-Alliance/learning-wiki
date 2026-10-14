@@ -54,7 +54,6 @@ Unit (a multi-week unit; the source study used a 9-week sequence)
 
 ### Claims
 #### Supporting
-- [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](../claims/heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) [+M]
 #### Contradicting
 - (none yet linked)
 

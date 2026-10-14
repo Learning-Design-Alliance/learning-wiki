@@ -55,7 +55,6 @@ Co-design (researchers and educators collaboratively designing curriculum) is no
 
 ### Claims
 
-- [Attending to affect in co-design supports community and cross-scale transfer](../claims/attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) [+M]
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](../claims/trust-climate-enabled-open-sharing.md) [+W]
 
 ## Design

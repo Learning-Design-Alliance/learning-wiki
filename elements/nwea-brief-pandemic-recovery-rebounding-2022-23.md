@@ -40,7 +40,6 @@ A research brief by Megan Kuhfeld and Karyn Lewis examining achievement trends a
 ## Claims
 
 - [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](../claims/2022-23-achievement-stalled-pandemic-recovery.md) [+M]
-- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](../claims/2022-23-achievement-stalled-pandemic-recovery.md) [+M]
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](../claims/persistent-achievement-gaps-2022-23.md) [+M]
 - [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](../claims/covid-cohort-achievement-gap-tracked.md) [+M]
 

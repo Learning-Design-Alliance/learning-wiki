@@ -78,7 +78,6 @@ Standardized testing is "high-stakes" when performance carries real consequences
 - [Target Teach schools improved in all tested subjects, not only the aligned reading tests, suggesting factors beyond test alignment contributed](../claims/target-teach-gains-across-all-subjects.md) [~W]
 - [Even a small amount of rapid-guessing behavior can impact institutional rankings](../claims/small-rapid-guessing-impacts-institutional-rankings.md) [~W]
 - [In mathematics, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in English language arts the standards are not statistically distinguishable](../claims/parcc-math-standard-less-remediation-than-mcas-proficient.md) [~W]
-- [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](../claims/disengagement-material-individual-summative-scores-minor-aggregations.md) [~W]
 - [Eighth-grade retention rates surged from under 2 percent prepolicy to 8.3 percent in the first policy year, peaking at 11.1 percent](../claims/chicago-gate-retention-surge.md) [~W]
 - [Nearly half of waiver states adopted a 'cut the gap in half' achievement goal, while only Arizona chose 100 percent proficiency by 2020](../claims/cut-gap-in-half-goal-adoption.md) [~W]
 - [High-stakes testing accountability is pervasive in American K-12 schooling while its efficacy remains contested](../claims/high-stakes-testing-pervasive-efficacy-contested.md) [~W]

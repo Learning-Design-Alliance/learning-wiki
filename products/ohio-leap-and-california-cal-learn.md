@@ -33,7 +33,6 @@ LEAP, run by Ohio, and Cal-Learn, run by California, are state welfare programs 
 - [Financial incentives for teen parents show no discernible effects on completing school](../claims/financial-incentives-teen-parents-completing-school.md) [-W]
 - [Financial incentives for teen parents show no discernible effects on progressing in school](../claims/financial-incentives-teen-parents-progressing-in-school.md) [-W]
 - [Financial incentives for teen parents have potentially positive effects on staying in school, with a statistically significant dropout reduction in Cal-Learn but not in LEAP](../claims/financial-incentives-teen-parents-staying-in-school.md) [+W]
-- [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](../claims/financial-incentives-teen-parents-staying-in-school.md) [+W]
 
 ## Related Products and Programmes
 -

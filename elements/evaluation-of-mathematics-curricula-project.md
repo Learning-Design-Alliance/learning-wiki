@@ -44,7 +44,6 @@ The Evaluation of Mathematics Curricula is an IES-funded project, with a stated 
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](../claims/curriculum-choice-mattered-early-elementary-math.md) [+W]
 - [After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+W]
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](../claims/large-scale-experimental-study-curricula-achievement.md) [+W]
-- [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](../claims/four-curricula-two-year-elementary-math-study-design.md) [+W]
 
 ## Related Elements
 

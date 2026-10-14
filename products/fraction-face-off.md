@@ -39,9 +39,6 @@ Fraction Face-Off! is a structured small-group tutoring programme for at-risk fo
 - [Fraction Face-Off! shows potentially positive effects on fourth-grade students' geometry and measurement outcomes, with a WWC-calculated average effect size of 0.96 and improvement index of +33](../claims/fraction-face-off-potentially-positive-geometry-measurement.md) [+M]
 - [Fraction Face-Off! shows potentially positive effects on general mathematics achievement, with a WWC-calculated effect size of 0.64 and improvement index of +24 on NAEP selected items](../claims/fraction-face-off-potentially-positive-general-math-achievement.md) [+M]
 - [Fraction Face-Off! shows potentially positive effects on number and operations outcomes, with a WWC-calculated average effect size of 0.89 and improvement index of +31](../claims/fraction-face-off-potentially-positive-number-operations.md) [+M]
-- [Fraction Face-Off! shows potentially positive effects on general mathematics achievement, with a WWC-calculated effect size of 0.64 and improvement index of +24 on NAEP selected items](../claims/fraction-face-off-potentially-positive-general-math-achievement.md) [+W]
-- [Fraction Face-Off! shows potentially positive effects on fourth-grade students' geometry and measurement outcomes, with a WWC-calculated average effect size of 0.96 and improvement index of +33](../claims/fraction-face-off-potentially-positive-geometry-measurement.md) [+W]
-- [Fraction Face-Off! shows potentially positive effects on number and operations outcomes, with a WWC-calculated average effect size of 0.89 and improvement index of +31](../claims/fraction-face-off-potentially-positive-number-operations.md) [+W]
 
 ## Related Products and Programmes
 -

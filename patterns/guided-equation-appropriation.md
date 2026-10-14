@@ -51,7 +51,6 @@ Unit (the source study analyzed an equation-focused sequence unfolding across mu
 
 ### Claims
 #### Supporting
-- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [~M]
 #### Contradicting
 
 - (none yet linked)

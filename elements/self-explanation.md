@@ -42,7 +42,6 @@ Self-explanation is the element in which learners explain to themselves why some
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
-- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [+W]
 - [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](../claims/faded-steps-hypothesized-trigger-self-explanations.md) [~W]
 

@@ -30,12 +30,10 @@ Open Learning Initiative is Carnegie Mellon University's online courseware and l
 ### Claims
 - [OLI has mixed effects on academic achievement among postsecondary students](../claims/oli-mixed-effects-academic-achievement.md) [~M]
 - [OLI has potentially positive effects on credit accumulation and persistence among postsecondary students](../claims/oli-potentially-positive-credit-accumulation-persistence.md) [+M]
-- [Only three of twelve identified OLI studies met WWC group design standards](../claims/oli-three-of-twelve-studies-meet-wwc-standards.md) [~W]
+- [Only three of twelve identified OLI studies met WWC group design standards](../claims/oli-three-of-twelve-studies-meet-wwc-standards.md) [~W] — (also cited [-W])
 - [OLI statistics students completed the semester's material in approximately half the regularly scheduled time](../claims/oli-accelerated-completion-half-semester-time.md) [+W]
 - [OLI evidence base covers community college and postsecondary students across diverse racial and ethnic groups](../claims/oli-evidence-scope-postsecondary-populations.md) [+W]
 - [Suh et al. (2019) found a positive but non-significant effect on course passing rate (effect size 0.80) and a negative non-significant effect on final exam score](../claims/suh-2019-mixed-achievement-findings.md) [~W]
-- [OLI has potentially positive effects on credit accumulation and persistence among postsecondary students](../claims/oli-potentially-positive-credit-accumulation-persistence.md) [+W]
-- [Only three of twelve identified OLI studies met WWC group design standards](../claims/oli-three-of-twelve-studies-meet-wwc-standards.md) [-W]
 
 ## Related Products and Programmes
 -

@@ -48,7 +48,6 @@ Unit (a multi-lesson sequence spanning classroom time, field trips, and/or take-
 
 ### Claims
 #### Supporting
-- [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](../claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) [~M]
 
 ## Design
 

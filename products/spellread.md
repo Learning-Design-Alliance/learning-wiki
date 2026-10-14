@@ -38,14 +38,12 @@ SpellRead™ is a structured literacy programme for struggling readers in grade 
 - [SpellRead™ has potentially positive effects on reading comprehension, with an average improvement index of +20 percentile points](../claims/spellread-comprehension-index-twenty.md) [+W]
 - [SpellRead™ has positive effects on alphabetics for struggling beginning readers, with an average improvement index of +18 percentile points](../claims/spellread-positive-effects-alphabetics.md) [+W]
 - [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](../claims/spellread-potentially-positive-fluency.md) [+W]
-- [In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months](../claims/torgesen-2006-spellread-indeterminate.md) [~W]
-- [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](../claims/rashotte-2001-spellread-significant-gains.md) [+W]
-- [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](../claims/spellread-potentially-positive-alphabetics.md) [+W]
+- [In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months](../claims/torgesen-2006-spellread-indeterminate.md) [~W] — (also cited [-M])
 - [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](../claims/rashotte-2001-spellread-significant-gains.md) [+M]
+- [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](../claims/spellread-potentially-positive-alphabetics.md) [+W]
 - [One year after the intervention ended, SpellRead™ effects were not statistically significant on the supplemental Torgesen et al. (2007) outcomes](../claims/spellread-one-year-followup-not-significant.md) [-W]
 - [SpellRead™ shows potentially positive effects on comprehension for adolescent readers, with an average improvement index of +11](../claims/spellread-potentially-positive-comprehension.md) [+W]
 - [SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14](../claims/spellread-potentially-positive-reading-fluency.md) [+W]
-- [In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months](../claims/torgesen-2006-spellread-indeterminate.md) [-M]
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](../claims/lips-supplemental-followup-mixed-findings.md) [~W]
 - [Spellread Program Element](../products/spellread.md) [+M]
 

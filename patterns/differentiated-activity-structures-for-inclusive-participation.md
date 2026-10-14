@@ -49,7 +49,6 @@ Program (an ongoing civic or organizational participatory process, spanning mult
 
 ### Claims
 #### Supporting
-- [Resolving a participation double-bind requires redesigning activity structures, not just adding outreach](../claims/resolving-participation-double-bind-requires-redesigned-activity-structures.md) [+M]
 
 ## Design
 

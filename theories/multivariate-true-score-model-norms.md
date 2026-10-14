@@ -41,7 +41,6 @@ The norming approach is "a model-based approach employing a multivariate true sc
 - [Course Specific Norms Normality Supported](../claims/course-specific-norms-normality-supported.md) [+M]
 - [Course Specific Term Score Correlations Above 090](../claims/true-score-correlations-above-090.md) [+M]
 - [Normality assumptions of the true score model appeared reasonable for the course-specific tests](../claims/normality-assumption-reasonable-course-specific.md) [+W]
-- [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](../claims/true-score-correlations-above-090.md) [+W]
 
 ## Related Theories
 

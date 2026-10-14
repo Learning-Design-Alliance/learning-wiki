@@ -42,14 +42,10 @@ Future Forward is a branded early-literacy tutoring and family-engagement progra
 - [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](../claims/future-forward-rd-nonsignificant-positive-effect.md) [+W]
 - [Future Forward holds 'Strong' evidence ratings for Family Engagement and Attendance in addition to literacy](../claims/future-forward-strong-ratings-family-engagement-attendance.md) [+W]
 - [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](../claims/future-forward-tutoring-scaled-up.md) [+W]
-- [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [-W]
+- [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [-W] — (also cited [~W])
 - [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](../claims/future-forward-prior-rct-evidence.md) [+W]
-- [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](../claims/future-forward-prior-rct-evidence.md) [+W]
-- [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](../claims/future-forward-improves-school-attendance.md) [+W]
-- [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](../claims/future-forward-tutoring-scaled-up.md) [+W]
 - [The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold](../claims/ff-family-engagement-under-implementation.md) [~W]
-- [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](../claims/future-forward-family-engagement-not-scaled.md) [~W]
 - [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](../claims/future-forward-differential-impact-subgroups.md) [~W]
 - [Black male students with low baseline attendance show the largest Future Forward attendance gains, though not statistically significant](../claims/future-forward-black-male-low-attendance-gains.md) [~W]
 

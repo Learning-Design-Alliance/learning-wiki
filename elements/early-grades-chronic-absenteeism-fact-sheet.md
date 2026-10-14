@@ -42,7 +42,6 @@ This artifact is a fact sheet addressed to schools, published by Regional Educat
 - [The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address](../claims/chronic-absenteeism-early-grades-importance-asserted.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](../claims/prek-kindergarten-attendance-importance.md) [+W]
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 
 ## Related Elements
 

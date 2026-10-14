@@ -33,7 +33,6 @@ FLIGHT is a Florida school-based mentoring and college-access programme supporte
 - [The supporting evidence for FLIGHT comes from a single randomized controlled trial with compromised random assignment](../claims/flight-evidence-single-rct-compromised-randomization.md) [~W]
 - [FLIGHT shows no discernible effects on high school attendance](../claims/flight-no-discernible-effect-high-school-attendance.md) [-W]
 - [FLIGHT shows no discernible effects on general high school academic achievement (GPA)](../claims/flight-no-discernible-effect-high-school-gpa.md) [-W]
-- [FLIGHT may increase college enrollment among disadvantaged students, with 97% of the FLIGHT group versus 83% of the comparison group enrolling in college](../claims/flight-potentially-positive-college-enrollment.md) [+W]
 - [FLIGHT may increase college enrollment among disadvantaged students, with 97% of the FLIGHT group versus 83% of the comparison group enrolling in college](../claims/flight-potentially-positive-college-enrollment.md) [+M]
 
 ## Related Products and Programmes

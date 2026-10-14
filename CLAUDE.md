@@ -245,6 +245,8 @@ waves 1–7 in `eval/page-triage/`):
   Links inside HTML comments count for nothing.
 - Folds and merges: `merge_pages.py` (across kinds with `kind/slug`, no alias) and
   `merge_claims.py` (keeps a differing write-up of a shared study in a `<!-- merged -->` comment).
+  After merging claims run `dedupe_claim_bullets.py --apply`: a page that cited both lists the kept
+  claim twice in a section, under the two old titles (`judge_claim_merges.py` runs it itself).
   Which page survives is the maintainer's call when it is not obvious.
 
 **Citations:**

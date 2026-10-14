@@ -46,7 +46,6 @@ This account holds that effortful retrieval strengthens knowledge and that "The 
 
 ## Related Theories
 - [Desirable Difficulties Enhance Learning](../claims/desirable-difficulties-enhance-learning.md)
-- [Desirable Difficulties Improve Retention](../claims/desirable-difficulties-enhance-learning.md)
 
 ## Examples
 -

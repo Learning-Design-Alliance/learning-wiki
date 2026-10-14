@@ -37,9 +37,8 @@ A professional learning programme developed and iteratively tested by the Southw
 - [The SWELL logic model posits medium-term improvements in teachers' literacy instruction and ability to accommodate language learning and embed CLRI](../claims/swell-medium-term-teacher-instruction-outcomes.md) [+W]
 - [The SWELL logic model posits that participating teachers will increase self-efficacy in literacy instruction and in supporting English learner students](../claims/swell-teacher-self-efficacy-short-term-outcomes.md) [+W]
 - [Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach](../claims/wts-teacher-confidence-increased-over-year.md) [+W]
-- [Teachers reported increased use of culturally and linguistically relevant instruction over the year, while teacher collaboration remained unchanged](../claims/wts-clri-increased-collaboration-unchanged.md) [+W]
+- [Teachers reported increased use of culturally and linguistically relevant instruction over the year, while teacher collaboration remained unchanged](../claims/wts-clri-increased-collaboration-unchanged.md) [+W] — (also cited [~W])
 - [Teachers with a local coach completed far more of the intended Write to Succeed professional learning activities than teachers without one](../claims/wts-local-coach-higher-activity-completion.md) [+W]
-- [Teachers reported increased use of culturally and linguistically relevant instruction over the year, while teacher collaboration remained unchanged](../claims/wts-clri-increased-collaboration-unchanged.md) [~W]
 - [Most pilot teachers found the Write to Succeed materials helpful, and teachers and coaches benefited from seeing practices modeled](../claims/wts-materials-and-modeling-rated-helpful.md) [+W]
 - [Most pilot teachers used the Write to Succeed practices and found them easy to use and helpful for students, with ease of use increasing across semesters](../claims/wts-practices-used-and-rated-helpful.md) [+W]
 

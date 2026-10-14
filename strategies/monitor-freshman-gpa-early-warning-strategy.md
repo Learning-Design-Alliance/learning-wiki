@@ -42,7 +42,6 @@ The article supports district and school use of ninth-grade GPA as an early warn
 
 - [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](../claims/gpa-most-predictive-attainment-english-learners.md) [+W]
 - [Freshman GPA is highly stable, correlating 0.87 with eleventh-grade GPA](../claims/freshman-gpa-stable-through-eleventh-grade.md) [+W]
-- [GPAs are the most predictive single indicator of high school graduation, college enrollment, and degree completion for all English Learner groups, followed by attendance and course failure rates](../claims/gpa-most-predictive-attainment-english-learners.md) [+W]
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](../claims/ninth-grade-gpa-predicts-graduation.md) [+W]
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](../claims/ninth-grade-gpa-predicts-college-enrollment-persistence.md) [+W]
 - [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](../claims/on-track-freshman-courses-predict-graduation.md) [+W]

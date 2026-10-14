@@ -53,7 +53,6 @@ Lesson (a single whole-class discussion segment, typically several minutes)
 
 ### Claims
 #### Supporting
-- [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](../claims/unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) [+M]
 #### Contradicting
 - (none yet linked)
 

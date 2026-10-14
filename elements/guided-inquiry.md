@@ -40,7 +40,6 @@ Guided inquiry is the element in which learners investigate questions or problem
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 - [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](../claims/llm-participants-stage-goal-clarification.md) [+W]
 
 ## Related Elements

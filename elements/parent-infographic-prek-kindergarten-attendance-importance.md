@@ -40,7 +40,6 @@ The publication is described as an "Infographic for parents on the importance of
 
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](../claims/early-grades-chronic-absenteeism-risk-factors.md) [+W]
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 
 ## Related Elements
 

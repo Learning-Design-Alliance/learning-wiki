@@ -54,7 +54,6 @@ Unit (a multi-week classroom project; the source professional-development worksh
 
 ### Claims
 #### Supporting
-- [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](../claims/mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) [+M]
 #### Contradicting
 - (none yet linked)
 

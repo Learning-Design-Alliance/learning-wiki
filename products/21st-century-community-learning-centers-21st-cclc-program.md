@@ -34,19 +34,15 @@ A U.S. Department of Education programme that funds community learning centers t
 
 ### Claims
 - [Students in 21st CCLC elementary programs had more incidents of negative behavior](../claims/cclc-elementary-participants-more-negative-behaviors.md) [-W]
-- [21st CCLC elementary programs did not affect students' academic outcomes](../claims/21st-cclc-no-effect-academic-outcomes-elementary.md) [~W]
+- [21st CCLC elementary programs did not affect students' academic outcomes](../claims/21st-cclc-no-effect-academic-outcomes-elementary.md) [~W] — (also cited [-W])
 - [21st CCLC participation showed no statistically significant effect on the incidence of self-care after school](../claims/21st-cclc-no-significant-effect-self-care.md) [~W]
 - [21st CCLC afterschool programs changed after-school supervision, with parents less likely to care for their child and other adults more likely](../claims/21st-cclc-shifted-after-school-supervision-away-from-parents.md) [+W]
 - [Students in 21st CCLC programs reported feeling safer after school](../claims/21st-cclc-students-felt-safer-after-school.md) [+W]
 - [21st Century Community Learning Centers after-school programs changed where and with whom students spent some of their after-school time](../claims/21st-cclc-changed-after-school-time-location-and-companions.md) [+W]
 - [Elementary students participating in the 21st Century Community Learning Centers program felt safer than students not enrolled](../claims/cclc-elementary-participants-felt-safer.md) [+W]
-- [Elementary participants in the 21st Century Community Learning Centers program were more likely to engage in negative behaviors than students not enrolled](../claims/cclc-elementary-participants-more-negative-behaviors.md) [-W]
-- [21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion](../claims/21st-cclc-limited-academic-influence.md) [~W]
-- [The 21st Century Community Learning Centers program had few impacts on student achievement overall](../claims/21st-cclc-national-evaluation-no-academic-improvement.md) [~W]
-- [The 21st Century Community Learning Centers program had few impacts on student achievement overall](../claims/21st-cclc-national-evaluation-no-academic-improvement.md) [-W]
+- [21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion](../claims/21st-cclc-limited-academic-influence.md) [~W] — (also cited [-W])
+- [The 21st Century Community Learning Centers program had few impacts on student achievement overall](../claims/21st-cclc-national-evaluation-no-academic-improvement.md) [~W] — (also cited [-W])
 - [No difference between treatment and control groups on homework assistance or completion in the 21st Century Community Learning Centers evaluation](../claims/cclc-no-difference-homework-assistance-completion.md) [-W]
-- [21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion](../claims/21st-cclc-limited-academic-influence.md) [-W]
-- [21st CCLC elementary programs did not affect students' academic outcomes](../claims/21st-cclc-no-effect-academic-outcomes-elementary.md) [-W]
 
 ## Related Products and Programmes
 -

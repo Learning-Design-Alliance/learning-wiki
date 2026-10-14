@@ -55,7 +55,6 @@ Lesson (45-50 minutes: individual work, whole-class discussion, then a task-revi
 
 ### Claims
 #### Supporting
-- [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](../claims/ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) [+M]
 #### Contradicting
 - (none yet linked)
 

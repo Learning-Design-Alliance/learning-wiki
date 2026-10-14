@@ -30,7 +30,6 @@ Four published elementary mathematics curricula evaluated comparatively by Agodi
 ### Claims
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+W]
 - [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+W]
-- [After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -54,7 +54,6 @@ Students form simulated consulting organizations (e.g., HR-service companies) th
 - The source study could not independently verify that all team activity met a strict definition of interdisciplinary integration (as opposed to parallel, divided-labor contribution), since the final offers themselves were not systematically analyzed for integration quality
 
 ### Claims
-- [Organization simulation knowledge practices support interdisciplinary learning](../claims/organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) [+M]
 
 ## Design
 

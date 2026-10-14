@@ -32,11 +32,10 @@ A school-improvement framework developed by the Consortium on Chicago School Res
 - **Model of Essential Supports for Student Learning as framework for assessing school improvement**: The report uses the Model of Essential Supports for Student Learning as its organizing framework, assessing seven areas of school improvement: "quality of classroom instruction; student learning climate; school leadership; teacher professional community; parent and community support; relational trust; and instructional program coherence." Survey measures, field research indicators, and achievement analyses were organized around these supports, with figures tracking each from 1994 or 1997 to 2001. (Smylie et al. (2003))
 
 ### Claims
-- [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](../claims/annenberg-capacity-gains-eroded-by-2001.md) [+M]
+- [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](../claims/annenberg-capacity-gains-eroded-by-2001.md) [+M] — (also cited [~W])
 - [Schools that improved focused on multiple mutually-reinforcing aspects of school organization rather than a single aspect](../claims/multi-area-mutually-reinforcing-improvement-distinguishes-strong-schools.md) [+W]
 - Breakthrough Schools Sustained Professional Community Leadership Trust [+M]
 - [Annenberg elementary schools developed in small but potentially significant ways in leadership, professional community, parent and community support, and social trust, mostly mirroring citywide development patterns](../claims/annenberg-schools-small-development-gains-mirror-citywide.md) [+M]
-- [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](../claims/annenberg-capacity-gains-eroded-by-2001.md) [~W]
 - More Essential Supports Higher Improvement Likelihood [+M]
 
 ## Related Products and Programmes

@@ -49,27 +49,21 @@ REACH is Chicago Public Schools' teacher-evaluation programme combining classroo
 - [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](../claims/reach-observation-process-supports-growth.md) [+W]
 - [A majority of teachers believed REACH relied too heavily on standardized tests, with special education teachers especially critical](../claims/teachers-hesitant-student-growth-evaluation.md) [-W]
 - [Most teachers judged their REACH evaluators fair and able to assess instruction accurately](../claims/teachers-view-evaluator-ratings-fair-accurate.md) [+W]
-- [Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system](../claims/reach-fewer-teachers-top-rating-categories-than-checklist.md) [+W]
-- [Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change](../claims/reach-missed-observations-inability-to-rate.md) [~W]
+- [Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system](../claims/reach-fewer-teachers-top-rating-categories-than-checklist.md) [+W] — (also cited [~W])
+- [Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change](../claims/reach-missed-observations-inability-to-rate.md) [~W] — (also cited [-W]); (also cited [+W])
 - [The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)](../claims/framework-identifies-more-unsatisfactory-teachers.md) [+W]
-- [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](../claims/reach-ratings-increased-over-time.md) [+W]
-- [Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)](../claims/reach-fewer-top-two-ratings-than-checklist.md) [+W]
+- [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](../claims/reach-ratings-increased-over-time.md) [+W] — (also cited [~W])
+- [Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)](../claims/reach-fewer-top-two-ratings-than-checklist.md) [+W] — (also cited [~W])
 - [Only about 25 percent of teachers received an individual value-added score, with most teachers instead receiving a school-wide literacy value-added score](../claims/reach-only-quarter-individual-value-added.md) [~W]
 - [Beginning teachers are more positive about REACH than teachers with more years of experience](../claims/reach-beginning-teachers-more-positive-than-veterans.md) [+W]
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](../claims/reach-changing-practice-communication-collaboration.md) [+W]
 - [Majorities of teachers and evaluators question the effort required by REACH, saying it takes more effort than the results are worth](../claims/reach-effort-questioned-more-effort-than-results-worth.md) [-W]
-- [Teachers and principals report increased teacher stress and anxiety under REACH](../claims/reach-increased-teacher-and-administrator-stress.md) [-W]
+- [Teachers and principals report increased teacher stress and anxiety under REACH](../claims/reach-increased-teacher-and-administrator-stress.md) [-W] — (also cited [+W])
 - [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](../claims/reach-teachers-question-student-growth-weight-fairness.md) [-W]
 - [Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one](../claims/reach-year-two-optimism-declining-satisfaction.md) [~W]
-- [Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system](../claims/reach-fewer-teachers-top-rating-categories-than-checklist.md) [~W]
-- [Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)](../claims/reach-fewer-top-two-ratings-than-checklist.md) [~W]
-- [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](../claims/reach-ratings-increased-over-time.md) [~W]
-- [Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change](../claims/reach-missed-observations-inability-to-rate.md) [-W]
-- [Both teachers and administrators report REACH increased their levels of stress and anxiety](../claims/reach-increased-teacher-and-administrator-stress.md) [+W]
 - [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](../claims/reach-observation-process-reflection-and-feedback-use.md) [+W]
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](../claims/reach-perceptions-stable-year-two-to-year-three.md) [+W]
 - [Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair](../claims/reach-teachers-fair-observations-unfair-student-growth.md) [+W]
-- [Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change](../claims/reach-missed-observations-inability-to-rate.md) [+W]
 - [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](../claims/credentials-difference-observation-only-not-value-added.md) [+W]
 - [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](../claims/lower-rated-schools-tend-higher-poverty.md) [+W]
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](../claims/lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) [+W]

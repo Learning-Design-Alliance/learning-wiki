@@ -53,7 +53,6 @@ Learners make art using or about living organisms (specimens, plants, biological
 - None identified in the source study
 
 ### Claims
-- [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](../claims/multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) [+W]
 
 ## Design
 

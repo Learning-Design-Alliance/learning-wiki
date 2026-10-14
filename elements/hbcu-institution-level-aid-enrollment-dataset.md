@@ -45,7 +45,6 @@ The article's evidence base is institution-level data used to "examine financial
 - [PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process](../claims/plus-loans-increased-somewhat-2013-14-appeals-streamlined.md) [+W]
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](../claims/plus-tightening-changed-hbcu-aid-and-enrollment.md) [+W]
 - [After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs](../claims/plus-decline-hbcus-after-credit-standard-tightening.md) [+W]
-- [Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs](../claims/other-federal-aid-did-not-offset-plus-decline.md) [+W]
 - [The larger enrollment decline at HBCUs corresponded to the larger decline in PLUS recipients at those institutions](../claims/enrollment-decline-corresponds-to-plus-recipient-decline.md) [+W]
 - [Enrollment at HBCUs decreased more than enrollment at other institutions after the PLUS credit-standard tightening](../claims/hbcu-enrollment-declined-more-than-other-institutions.md) [+W]
 

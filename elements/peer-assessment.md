@@ -43,7 +43,6 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
-- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
 - [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](../claims/rubrics-improve-peer-feedback-quality.md) [+M]
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+M]
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]

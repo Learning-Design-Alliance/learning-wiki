@@ -61,8 +61,7 @@ Interleaving improves delayed test performance across mathematics, category lear
 
 ## Related Strategies
 
-- [Spaced practice](../claims/spaced-repetition-improves-retention.md) — interleaving's natural companion; mixed schedules distribute retrieval over time
-- [Retrieval practice](../claims/spaced-repetition-improves-retention.md) — each interleaved item forces re-selection of a strategy, embedding retrieval in the schedule
+- [Spaced practice](../claims/spaced-repetition-improves-retention.md) — interleaving's natural companion; mixed schedules distribute retrieval over time; each interleaved item forces re-selection of a strategy, embedding retrieval in the schedule
 - [Comparing cases](../elements/case-studies.md) — interleaving enacts comparison at the schedule level; explicit case comparison does it at the task level
 - [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
 

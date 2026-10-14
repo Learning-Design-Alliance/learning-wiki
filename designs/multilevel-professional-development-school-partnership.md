@@ -49,7 +49,6 @@ Program (a multi-year, multi-school research-practice partnership)
 
 ### Claims
 #### Supporting
-- [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](../claims/boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) [+M]
 
 ## Design
 

@@ -52,12 +52,10 @@ SEERNet is an Institute of Education Sciences-funded network that supports respo
 
 ### Claims
 - [OpenStax Kinetic shifted from gift cards to shareable digital badges to incentivize adult learners to participate in research studies](../claims/digital-badges-incentivize-opt-in-research-participation.md) [+W]
-- [Studies run on the E-TRIALS platform reach far larger samples than is typical in educational research, with nearly 20% enrolling over 1,000 participants](../claims/e-trials-large-sample-studies.md) [+W]
-- [SEERNet platforms trade off open science against availability of individual student data, with eTrials and ASU L@S at opposite extremes](../claims/seernet-platform-open-science-data-tradeoff.md) [+W]
 - [Studies run on the E-TRIALS platform reach far larger samples than is typical in educational research, with nearly 20% enrolling over 1,000 participants](../claims/e-trials-large-sample-studies.md) [+M]
+- [SEERNet platforms trade off open science against availability of individual student data, with eTrials and ASU L@S at opposite extremes](../claims/seernet-platform-open-science-data-tradeoff.md) [+W] — (also cited [~W])
 - [Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects](../claims/practitioner-considerations-experimental-research.md) [+W]
 - [Practitioner engagement initiatives reflected buy-in rather than ownership because leadership developed ideas and decisions before seeking context-expert input](../claims/seernet-initiatives-buy-in-not-ownership.md) [~W]
-- [SEERNet platforms trade off open science against availability of individual student data, with eTrials and ASU L@S at opposite extremes](../claims/seernet-platform-open-science-data-tradeoff.md) [~W]
 - [SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice](../claims/seernet-dlps-over-100000-regular-users.md) [+M]
 - [The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers](../claims/dlp-subfield-small-and-fragmented.md) [~M]
 - [Wave 1's greatest challenge was achieving mutual knowledge and coherence among six independently selected projects while respecting their differences](../claims/seernet-wave1-coherence-challenge.md) [+W]

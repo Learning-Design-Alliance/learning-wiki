@@ -29,7 +29,6 @@ Because binary outcomes demand larger samples than continuous test-score or beha
 
 ### Claims
 - [Typical clustered RCTs with 40 to 60 schools are often insufficient for binary outcomes](../claims/40-60-schools-insufficient-binary-outcomes.md) [+M]
-- [Typical clustered RCTs with 40 to 60 schools are often insufficient for binary outcomes](../claims/40-60-schools-insufficient-binary-outcomes.md) [+W]
 - [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](../claims/gee-sample-size-formulas-clustered-school-rcts.md) [+W]
 - [The sample size approach handles logit models both with and without baseline covariates](../claims/logit-models-with-and-without-covariates-power.md) [+W]
 

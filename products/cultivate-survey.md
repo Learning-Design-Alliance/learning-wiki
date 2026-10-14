@@ -43,8 +43,6 @@ The Cultivate Survey is a twice-yearly anonymous student survey developed by the
 - [All nine Cultivate learning condition measures show strong Rasch person reliability (0.82-0.87) in CPS administrations](../claims/cultivate-learning-condition-measures-strong-reliability.md) [+M]
 - [Each individual learning condition predicts I am Valued gains, with Classroom Community the largest (15.0 middle grades, 16.9 high school percentile points)](../claims/individual-learning-conditions-predict-valued-beliefs.md) [+M]
 - [Cultivate survey items function without systematic bias across student groups by race/ethnicity, gender, economic disadvantage, learning differences, or EL status](../claims/cultivate-items-no-bias-across-student-groups.md) [+W]
-- [All nine Cultivate learning condition measures show strong Rasch person reliability (0.82-0.87) in CPS administrations](../claims/cultivate-learning-condition-measures-strong-reliability.md) [+W]
-- [Each individual learning condition predicts I am Valued gains, with Classroom Community the largest (15.0 middle grades, 16.9 high school percentile points)](../claims/individual-learning-conditions-predict-valued-beliefs.md) [+W]
 - [Students' experiences of learning conditions strongly and significantly predict their self-reports of school engagement](../claims/learning-conditions-predict-school-engagement.md) [+W]
 - [Within-year improvements in overall learning conditions predict large gains in students' I am Valued beliefs](../claims/cultivate-composite-predicts-valued-belief-gains.md) [+W]
 

@@ -152,7 +152,6 @@ A summative score at the end of a course, retention months later, transfer to a 
 - [Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data](../claims/reach-performance-tasks-little-differentiation.md) [-W]
 - [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](../claims/nclb-tests-low-higher-order-content.md) [-W]
 - [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](../claims/summative-assessment-dual-function-measure-and-support-learning.md) [+W]
-- [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](../claims/disengagement-material-individual-summative-scores-minor-aggregations.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

@@ -37,7 +37,6 @@ Cignition is an online mathematics tutoring programme that combines one-to-one t
 - [The corrected effect size for online tutoring plus game was g = +.47 (95% CI [+.23, +.70]), larger than the g = .26 reported for face-to-face elementary math tutoring](../claims/corrected-effect-size-047-online-tutoring.md) [+W]
 - [Fifth graders receiving online tutoring plus a fractions game learned more about fractions than students with game access only](../claims/online-tutoring-plus-game-improves-fraction-learning.md) [+W]
 - [Randomization produced equivalent pretest scores across conditions, with low attrition and blinded scoring](../claims/rct-pretest-equivalence-low-attrition.md) [+W]
-- [Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT](../claims/cignition-group-tutoring-fractions-gain-0-44.md) [+W]
 - [Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT](../claims/cignition-group-tutoring-fractions-gain-0-44.md) [+M]
 - [Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors](../claims/cignition-tutor-relationships-positive-uniform.md) [+W]
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](../claims/cignition-tutoring-confidence-enjoyment-gains.md) [+W]

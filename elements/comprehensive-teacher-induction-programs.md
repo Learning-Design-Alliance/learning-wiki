@@ -50,7 +50,6 @@ Comprehensive teacher induction is a support model for new teachers that "goes b
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](../claims/working-conditions-shape-retention-and-recruitment.md) [~W]
 - [Comprehensive teacher induction generated no significant improvements in student achievement in the first year](../claims/comprehensive-induction-no-student-achievement-gains-first-year.md) [-M]
 - [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](../claims/comprehensive-induction-no-retention-gain-first-year.md) [-M]
-- [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](../claims/comprehensive-induction-no-retention-gain-first-year.md) [-M]
 - [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](../claims/comprehensive-induction-no-classroom-practice-gains-first-year.md) [-M]
 
 ## Related Elements

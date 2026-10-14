@@ -45,7 +45,6 @@ Collaborative discussion is the element in which learners build understanding to
 - [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](../claims/adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) [+W]
 - [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
-- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
 - [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](../claims/ai-fosters-collaborative-social-construction.md) [+W]
 
 ## Related Elements

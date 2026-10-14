@@ -29,7 +29,6 @@ A whole-school educational model developed and supported by EL Education that or
 
 ### Claims
 - [Students in Expeditionary Learning middle schools perform better in reading and math than counterparts in other public schools](../claims/el-middle-schools-better-reading-math-achievement.md) [+W]
-- [EL middle school students perform better in reading and math than their public school counterparts](../claims/el-middle-schools-better-reading-math-achievement.md) [+W]
 
 ## Related Products and Programmes
 -

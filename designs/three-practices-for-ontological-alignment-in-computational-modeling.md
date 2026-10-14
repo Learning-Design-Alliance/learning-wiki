@@ -53,7 +53,6 @@ Unit (a 6-day computational modeling unit in the source study)
 
 ### Claims
 #### Supporting
-- [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](../claims/external-evidence-can-refute-computational-models-of-particle-interactions.md) [+M]
 #### Contradicting
 - (none yet linked)
 

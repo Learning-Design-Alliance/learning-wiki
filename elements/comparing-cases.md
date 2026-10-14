@@ -46,7 +46,6 @@ Comparing cases is the element in which learners inspect two or more examples, s
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M]
-- [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ## Related Elements
 - [Non-Examples](non-examples.md)

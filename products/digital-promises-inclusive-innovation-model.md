@@ -72,12 +72,10 @@ An equity-centered research-and-development framework created by Digital Promise
 - [Most RCS Core Team members who completed the Inclusive Innovation Survey showed positive beliefs and efficacy aligned with the Inclusive Innovation Core Tenets](../claims/iis-core-team-positive-beliefs-efficacy.md) [+M]
 - [The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge](../claims/rcs-root-causes-fear-curriculum-awareness.md) [+M]
 - [Post-implementation survey responses after each Socratic Circles implementation cycle trended affirmative toward the team-defined outcomes](../claims/socratic-circles-surveys-trended-affirmative-outcomes.md) [+W]
-- [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](../claims/student-voice-tenet-sustained-educator-practice.md) [+W]
+- [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](../claims/student-voice-tenet-sustained-educator-practice.md) [+M]
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](../claims/inclusive-innovation-solutions-perceived-met-outcomes.md) [+M]
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](../claims/inclusive-innovation-implementation-barriers.md) [~M]
-- [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](../claims/student-voice-tenet-sustained-educator-practice.md) [+M]
 - [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](../claims/inclusive-innovation-sustainability-factors.md) [+W]
-- [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](../claims/inclusive-innovation-solutions-perceived-met-outcomes.md) [+W]
 - [Sunnyside students participating in the Compact Writing Assignments pilot completed quarterly research papers at a rate more than 15 percent higher than non-participants](../claims/sunnyside-writing-engagement-15-percent-increase.md) [+W]
 
 ## Related Products and Programmes

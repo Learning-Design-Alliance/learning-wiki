@@ -34,7 +34,6 @@ A dataset compiled by Thomas Coen and colleagues tracking 1,177 applicants to 13
 - [The study long-term tracked 1,177 students who applied to 13 oversubscribed KIPP middle schools through 2008 or 2009 admissions lotteries](../claims/kipp-tracking-1177-lottery-applicants-13-schools.md) [+W]
 - [Receiving an offer of admission to a KIPP middle school increases enrollment in 4-year college programs by 6.9 percentage points](../claims/kipp-middle-offer-increases-four-year-college-enrollment.md) [+W]
 - [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](../claims/kipp-lottery-offer-rct-group-balance.md) [+W]
-- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](../claims/kipp-lottery-offer-rct-group-balance.md) [+W]
 
 ## Related Products and Programmes
 -

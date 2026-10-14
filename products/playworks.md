@@ -39,12 +39,11 @@ Playworks is a school-based programme run by the Playworks nonprofit that places
 - [Most teachers, students, and principals reported positive perceptions of the Playworks program](../claims/playworks-most-stakeholders-positive-perceptions.md) [+W]
 - [Teachers in Playworks schools reported less bullying and exclusionary behavior during recess than control-school teachers](../claims/playworks-reduced-teacher-reported-recess-bullying.md) [+W]
 - [Teachers in Playworks schools were more likely to report that students enjoyed adult-organized recess activities](../claims/playworks-students-enjoyed-adult-organized-recess.md) [+W]
-- [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](../claims/playworks-rct-more-vigorous-recess-activity.md) [+W]
+- [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](../claims/playworks-rct-more-vigorous-recess-activity.md) [+M]
 - [Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity](../claims/playworks-gender-differential-impact.md) [+M]
 - [Girls in Playworks schools had significantly higher accelerometer intensity counts and spent more time in vigorous physical activity than girls in control schools](../claims/playworks-girls-higher-activity-counts-vigorous.md) [+M]
 - [Girls in Playworks schools were less likely to be sedentary and more likely to engage in jumping, tag, and playground games during recess](../claims/playworks-girls-recess-activity-types.md) [+M]
 - [No significant accelerometer-based differences in physical activity were found for boys in Playworks schools compared with control schools](../claims/playworks-no-boys-accelerometer-effect.md) [~M]
-- [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](../claims/playworks-rct-more-vigorous-recess-activity.md) [+M]
 
 ## Related Products and Programmes
 -

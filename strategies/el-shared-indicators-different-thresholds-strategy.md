@@ -38,8 +38,7 @@ The study's policy takeaway is that "Schools do not need different systems of ea
 
 ## Claims
 
-- [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](../claims/gpa-most-predictive-attainment-english-learners.md) [~W]
-- [GPAs are the most predictive single indicator of high school graduation, college enrollment, and degree completion for all English Learner groups, followed by attendance and course failure rates](../claims/gpa-most-predictive-attainment-english-learners.md) [+W]
+- [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](../claims/gpa-most-predictive-attainment-english-learners.md) [~W] — (also cited [+W])
 - [Indicator performance differs across EL subgroups: former and late-arriving ELs had stronger ninth-grade GPAs and attendance than never ELs, while long-term ELs without IEPs had much lower GPAs](../claims/el-subgroup-indicator-distributions.md) [+W]
 
 ## Related Strategies

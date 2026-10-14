@@ -55,7 +55,6 @@ Practice is one of the most consistently supported instructional elements: activ
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
-- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-retention.md) [+S]
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
 - [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [~S]
 - [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [-M]
