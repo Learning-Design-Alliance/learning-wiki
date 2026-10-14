@@ -94,7 +94,7 @@ Character education goes beyond teaching a list of rules ("always tell the truth
 ## Key Sources
 - Elkind, D., & Sweet, F. (2004). How to do character education. Retrieved from http://www.goodcharacter.com/Article_4.html
 - Berkowitz, M., & Bier, M. (2006). *What works in character education: A research-driven guide for educators*. Center for Character and Citizenship.
-- Narvaez, D. (2009). Moral complexity: The fatal attraction of truthiness and the importance of mature moral functioning. *Perspectives on Psychological Science, 5*(2), 162-181.
+- Narvaez, D. (2009). Moral complexity: The fatal attraction of truthiness and the importance of mature moral functioning. *Perspectives on Psychological Science, 5*(2), 162-181. [doi:10.1177/1745691610362351](https://doi.org/10.1177/1745691610362351)
 - Nucci, L. P. (2009). *Nice is not enough: Facilitating moral development*. Merrill/Prentice Hall.
 - Minow, M., Shweder, R., & Markus, H. (Eds.). (2008). *Just schools: Pursuing equality in societies of difference*. Russell Sage Foundation.
 - Arduini-Van Hoose, N. (2020). Moral development. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

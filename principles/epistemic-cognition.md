@@ -135,7 +135,7 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 
 ## Key Sources
 - Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories. *Review of Educational Research, 67*(1), 88-140. [https://doi.org/10.3102/00346543067001088](https://doi.org/10.3102/00346543067001088)
-- Greene, J. A., Sandoval, W. A., & Bråten, I. (Eds.). (2016). *Handbook of epistemic cognition*. Routledge.
+- Greene, J. A., Sandoval, W. A., & Bråten, I. (Eds.). (2016). *Handbook of epistemic cognition*. Routledge. [doi:10.4324/9781315795225](https://doi.org/10.4324/9781315795225)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 

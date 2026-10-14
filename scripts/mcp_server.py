@@ -195,7 +195,14 @@ def _hub_rows(wiki: "Wiki", terms: list, kind, seen: set) -> list:
     retention" altogether, while four of its own fragments filled the top of the list."""
     out = []
     for pid, p in wiki.pages.items():
-        if not p.get("canonical") or (kind and p["type"] != kind) or not _names_hub(p, terms):
+        if not p.get("canonical") or (kind and p["type"] != kind):
+            continue
+        # Named by its title, or carrying every query word in its title and description: "feedback
+        # timing" names Immediate Feedback, whose description is about timing, and the page fell outside
+        # the top 40 of 2,300 full-text matches (2026-10-14).
+        about = " ".join(_tokens(f"{p.get('title') or ''} {p.get('description') or ''}"))
+        if not (_names_hub(p, terms) or (len(terms) > 1 and all(re.search(rf"\b{re.escape(t[:5])}", about)
+                                                                for t in terms))):
             continue
         k, slug = pid.split("/", 1)
         folder = wiki.folder_of.get(k)

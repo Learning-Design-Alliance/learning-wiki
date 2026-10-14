@@ -85,5 +85,5 @@ Explicit instruction in internet search is valuable because searching is a compo
 ## Key Sources
 - Afflerbach, P. A., & Cho, B. Y. (2010). Determining and describing reading strategies: Internet and traditional forms of reading. In *Metacognition, strategy use, and instruction*.
 - Gross, M., & Latham, D. (2013). Addressing below proficient information literacy skills. *Library & Information Science Research, 35*(3), 181-190. [doi:10.1016/j.lisr.2013.03.001](https://doi.org/10.1016/j.lisr.2013.03.001)
-- Kingsley, T., & Tancock, S. (2014). Internet inquiry. *The Reading Teacher, 67*(5), 389-399.
-- Roberts, L. (2017). Research in the real world. *College & Research Libraries, 78*(4), 527.
+- Kingsley, T., & Tancock, S. (2014). Internet inquiry. *The Reading Teacher, 67*(5), 389-399. [doi:10.1002/trtr.1223](https://doi.org/10.1002/trtr.1223)
+- Roberts, L. (2017). Research in the real world. *College & Research Libraries, 78*(4), 527. [doi:10.5860/crl.78.4.527](https://doi.org/10.5860/crl.78.4.527)

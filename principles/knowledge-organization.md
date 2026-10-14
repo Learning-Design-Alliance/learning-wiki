@@ -152,7 +152,7 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 **Sequenced unit frameworks** — An instructor repeatedly returns to the same conceptual map as new detail is added, helping learners keep the big picture intact.
 
 ## Key Sources
-- Novak, J. D. (2010). Learning, creating, and using knowledge (2nd ed.). Routledge.
+- Novak, J. D. (2010). Learning, creating, and using knowledge (2nd ed.). Routledge. [doi:10.4324/9780203862001](https://doi.org/10.4324/9780203862001)
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart and Winston.
 - Eylon, B.-S., & Reif, F. (1979). Effects of internal knowledge organization on task performance. https://eric.ed.gov/?id=ED171804
 

@@ -137,7 +137,7 @@ Changed participation norms, changed understanding, changed practice and a membe
 
 ## Key Sources
 - Abedini, A., Abedin, B., & Zowghi, D. (2021). Adult learning in online communities of practice: A systematic review. *British Journal of Educational Technology, 52*(4), 1663-1694. [doi:10.1111/bjet.13120](https://doi.org/10.1111/bjet.13120)
-- Boud, D., & Middleton, H. (2003). Learning from others at work: Communities of practice and informal learning. *Journal of Workplace Learning, 15*, 194-202.
+- Boud, D., & Middleton, H. (2003). Learning from others at work: Communities of practice and informal learning. *Journal of Workplace Learning, 15*, 194-202. [doi:10.1108/13665620310483895](https://doi.org/10.1108/13665620310483895)
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)
 - Office of Educational Technology. (2014). *Designing online communities of practice for educators to create value*. U.S. Department of Education.
 

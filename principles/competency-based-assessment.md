@@ -149,7 +149,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.
 - Henri, M., Johnson, M. D., & Nepal, B. (2017). A review of competency-based learning: Tools, assessments, and recommendations. *Journal of Engineering Education, 106*(4), 607-638. [doi:10.1002/jee.20180](https://doi.org/10.1002/jee.20180)
-- Collins, J. B., Harsy, A., Hart, J., Haymaker, K. A., Hoofnagle, A. M., Kuyper Janssen, M., & O'Shaughnessy, J. (2019). Mastery-based testing in undergraduate mathematics courses. *PRIMUS, 29*(5), 441-460.
+- Collins, J. B., Harsy, A., Hart, J., Haymaker, K. A., Hoofnagle, A. M., Kuyper Janssen, M., & O'Shaughnessy, J. (2019). Mastery-based testing in undergraduate mathematics courses. *PRIMUS, 29*(5), 441-460. [doi:10.1080/10511970.2018.1488317](https://doi.org/10.1080/10511970.2018.1488317)
 - Shearer, R. L. (2017). Adaptive learning, competency-based education, and personalization: Implications for distance education and adult learners. *Journal of Lifelong Learning Society, 13*(1), 49-71.
 - National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/
 

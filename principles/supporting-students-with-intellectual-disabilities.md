@@ -147,7 +147,7 @@ Assisted success in practice, unaided performance in class, performance in the r
 
 ## Key Sources
 - American Association on Mental Retardation. (2002). *Mental retardation: Definition, classification, and systems of supports* (10th ed.).
-- Schalock, R. L., & Luckasson, R. (2004). American Association on Mental Retardation's definition, classification, and system of supports and its relation to international trends and issues in the field of intellectual disabilities. *Journal of Policy and Practice in Intellectual Disabilities, 1*(3-4), 136-146.
+- Schalock, R. L., & Luckasson, R. (2004). American Association on Mental Retardation's definition, classification, and system of supports and its relation to international trends and issues in the field of intellectual disabilities. *Journal of Policy and Practice in Intellectual Disabilities, 1*(3-4), 136-146. [doi:10.1111/j.1741-1130.2004.04028.x](https://doi.org/10.1111/j.1741-1130.2004.04028.x)
 - Bogdan, R. (2006). Setting appropriate expectations for students with disabilities. In *Special education perspectives*.
 - Snell, M. E., et al. (2005). *Instruction of students with severe disabilities* (6th ed.). Pearson.
 - Arduini-Van Hoose, N. (2020). Intelligence. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

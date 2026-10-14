@@ -124,7 +124,7 @@ Discussion-Based Learning is a pattern in which understanding is built through s
 
 ## Key Sources
 - Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning: The value and potential of sociocultural theory. *Learning, Culture and Social Interaction, 1*(1), 12-21. [https://doi.org/10.1016/j.lcsi.2012.03.001](https://doi.org/10.1016/j.lcsi.2012.03.001)
-- Resnick, L. B., Asterhan, C. S. C., & Clarke, S. N. (Eds.). (2015). *Socializing intelligence through academic talk and dialogue*. AERA.
+- Resnick, L. B., Asterhan, C. S. C., & Clarke, S. N. (Eds.). (2015). *Socializing intelligence through academic talk and dialogue*. AERA. [doi:10.3102/978-0-935302-43-1](https://doi.org/10.3102/978-0-935302-43-1)
 - McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. *International Journal of Learning Technology, 2*(2-3), 216-242. [https://doi.org/10.1504/IJLT.2006.010632](https://doi.org/10.1504/IJLT.2006.010632)
 
 <!-- merged 2026-10-02 from patterns/discussion-group ("Discussion Group"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

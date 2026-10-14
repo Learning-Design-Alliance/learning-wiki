@@ -67,6 +67,6 @@ The easiest management problems to solve are the ones that never happen. Before 
 - Turiel, E. (2006). Thought, emotions, and social interactional processes in moral development. In M. Killen & J. G. Smetana (Eds.), *Handbook of moral development* (pp. 7-35). Erlbaum.
 - Marzano, R. J., & Marzano, J. S. (2004). The key to classroom management. *Educational Leadership, 61*(1), 6-13.
 - Van Merrienboer, J. J. G. (2003). Fostering integrated learning and transfer of complex cognitive skills. *Educational Technology Research and Development, 51*(3), 5-19.
-- McCorskey, J. C., & McVetta, R. W. (1978). Classroom seating arrangements: Instructional communication theory versus student preferences. *Communication Education, 27*(2), 99-111.
+- McCorskey, J. C., & McVetta, R. W. (1978). Classroom seating arrangements: Instructional communication theory versus student preferences. *Communication Education, 27*(2), 99-111. [doi:10.1080/03634527809378281](https://doi.org/10.1080/03634527809378281)
 - Harvey, E. J., & Kenyon, M. C. (2013). Classroom seating considerations for 21st century students and faculty. *Journal of Learning Spaces, 2*(1).
 - Arduini-Van Hoose, N. (2020). Preventing management problems. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

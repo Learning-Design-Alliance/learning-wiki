@@ -135,8 +135,8 @@ A better verdict on new sites, a better reason, durability over months, and chan
 - [Teach AI-mediated judgement and make process, judgement and transfer visible in assessment](../strategies/teach-ai-mediated-judgement-assessment.md)
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2017). *Lateral reading: Reading less and learning more when evaluating digital information*.
-- Breakstone, J., McGrew, S., Smith, M., Ortega, T., & Wineburg, S. (2018). Why we need a new approach to teaching digital literacy. *Phi Delta Kappan, 99*(6), 27-32.
+- Wineburg, S., & McGrew, S. (2017). *Lateral reading: Reading less and learning more when evaluating digital information*. [doi:10.2139/ssrn.3048994](https://doi.org/10.2139/ssrn.3048994)
+- Breakstone, J., McGrew, S., Smith, M., Ortega, T., & Wineburg, S. (2018). Why we need a new approach to teaching digital literacy. *Phi Delta Kappan, 99*(6), 27-32. [doi:10.1177/0031721718762419](https://doi.org/10.1177/0031721718762419)
 - Rapchak, M. E., Lewis, L. A., Motyka, J. K., & Balmert, M. (2015). Information literacy and adult learners. *Adult Learning, 26*(4), 135-142. [doi:10.1177/1045159515594155](https://doi.org/10.1177/1045159515594155)
 - Afflerbach, P. A., & Cho, B. Y. (2010). Determining and describing reading strategies: Internet and traditional forms of reading. In *Metacognition, strategy use, and instruction*.
 

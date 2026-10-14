@@ -82,7 +82,7 @@ The best-known packaging is **ACTA** — applied cognitive task analysis — a p
 - Militello, & Hutton. Applied cognitive task analysis (ACTA).
 - Stefaniak. Ch. 7 in *Design for Learning*. EdTech Books.
 - Clark, R. E., Feldon, D. F., van Merriënboer, J. J. G., Yates, K., & Early, S. (2008). Cognitive task analysis. In J. M. Spector et al. (Eds.), *Handbook of research on educational communications and technology* (3rd ed., pp. 577–593). Lawrence Erlbaum Associates.
-- Schraagen, J. M., Chipman, S. F., & Shalin, V. L. (Eds.). (2000). *Cognitive task analysis*. Lawrence Erlbaum Associates.
+- Schraagen, J. M., Chipman, S. F., & Shalin, V. L. (Eds.). (2000). *Cognitive task analysis*. Lawrence Erlbaum Associates. [doi:10.4324/9781410605795](https://doi.org/10.4324/9781410605795)
 
 <!-- The first two entries carry only what the commissioning brief stated. Years,
      journal, volume and pages were not established: this sandbox cannot reach

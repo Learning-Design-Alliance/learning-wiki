@@ -139,7 +139,7 @@ This pattern is scoped to learning one profession's way of deciding through a gu
 ## Key Sources
 - Shaffer, D. W., Squire, K. R., Halverson, R., & Gee, J. P. (2005). Video games and the future of learning. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/video_games_and_the_future_of_learning](https://edtechbooks.org/lidtfoundations/video_games_and_the_future_of_learning)
 - Rieber, L. P., Smith, L., & Noah, D. (1998). The value of serious play. *Educational Technology, 38*(6), 29–37. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/the_value_of_serious_play](https://edtechbooks.org/lidtfoundations/the_value_of_serious_play)
-- Malone, T. (1981). Toward a theory of intrinsically motivating instruction. *Cognitive Science, 5*(4), 333–369.
+- Malone, T. (1981). Toward a theory of intrinsically motivating instruction. *Cognitive Science, 5*(4), 333–369. [doi:10.1016/s0364-0213(81)80017-1](https://doi.org/10.1016/s0364-0213(81)80017-1)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 

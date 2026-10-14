@@ -69,6 +69,6 @@ Personas improve design decisions by forcing explicit, testable assumptions abou
 ## Key Sources
 - Miaskiewicz, T., & Kozar, K. A. (2011). Personas and user-centered design: How can personas benefit product design processes? *Design Studies, 32*(5), 417–430. [doi:10.1016/j.destud.2011.03.003](https://doi.org/10.1016/j.destud.2011.03.003)
 - Pruitt, J., & Adlin, T. (2006). *The Persona Lifecycle: Keeping People in Mind Throughout Product Design*. Morgan Kaufmann.
-- Nielsen, L. (2019). *Personas – User Focused Design* (2nd ed.). Springer.
-- Chapman, C. N., & Milham, R. P. (2006). The personas' new clothes: Methodological and practical arguments against a popular method. *Proceedings of the Human Factors and Ergonomics Society 50th Annual Meeting*, 634–636.
+- Nielsen, L. (2019). *Personas – User Focused Design* (2nd ed.). Springer. [doi:10.1007/978-1-4471-7427-1](https://doi.org/10.1007/978-1-4471-7427-1)
+- Chapman, C. N., & Milham, R. P. (2006). The personas' new clothes: Methodological and practical arguments against a popular method. *Proceedings of the Human Factors and Ergonomics Society 50th Annual Meeting*, 634–636. [doi:10.1177/154193120605000503](https://doi.org/10.1177/154193120605000503)
 ---

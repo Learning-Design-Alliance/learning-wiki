@@ -89,13 +89,13 @@ This creates a genuine tension for teachers, who must evaluate students' learnin
 
 ## Key Sources
 - Gardner, H. (1993). *Creating minds: An anatomy of creativity seen through the lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi*. Basic Books.
-- Kaufman, J. C., & Baer, J. (2006). *Creativity and reason in cognitive development*. Cambridge University Press.
+- Kaufman, J. C., & Baer, J. (2006). *Creativity and reason in cognitive development*. Cambridge University Press. [doi:10.1017/cbo9780511606915](https://doi.org/10.1017/cbo9780511606915)
 - Torrance, E. P. (1992). *A national climate for creativity and invention*. Gifted Child Today.
-- Kim, K. H. (2006). Can we trust creativity tests? A review of the Torrance Tests of Creative Thinking (TTCT). *Creativity Research Journal, 18*(1), 3-14.
-- Sternberg, R. J. (2003). *Wisdom, intelligence, and creativity synthesized*. Cambridge University Press.
-- Runco, M. A. (2004). Creativity. *Annual Review of Psychology, 55*, 657-687.
-- Cropley, A. J. (2006). In praise of convergent thinking. *Creativity Research Journal, 18*(3), 391-404.
-- Brophy, J. (2004). *Motivating students to learn* (2nd ed.). Lawrence Erlbaum Associates.
+- Kim, K. H. (2006). Can we trust creativity tests? A review of the Torrance Tests of Creative Thinking (TTCT). *Creativity Research Journal, 18*(1), 3-14. [doi:10.1207/s15326934crj1801_2](https://doi.org/10.1207/s15326934crj1801_2)
+- Sternberg, R. J. (2003). *Wisdom, intelligence, and creativity synthesized*. Cambridge University Press. [doi:10.1017/cbo9780511509612](https://doi.org/10.1017/cbo9780511509612)
+- Runco, M. A. (2004). Creativity. *Annual Review of Psychology, 55*, 657-687. [doi:10.1146/annurev.psych.55.090902.141502](https://doi.org/10.1146/annurev.psych.55.090902.141502)
+- Cropley, A. J. (2006). In praise of convergent thinking. *Creativity Research Journal, 18*(3), 391-404. [doi:10.1207/s15326934crj1803_13](https://doi.org/10.1207/s15326934crj1803_13)
+- Brophy, J. (2004). *Motivating students to learn* (2nd ed.). Lawrence Erlbaum Associates. [doi:10.4324/9781410610218](https://doi.org/10.4324/9781410610218)
 - Claxton, G., Edwards, S., & Scale-Constantinou, V. (2006). Cultivating creative mentality: Implications for education. *Thinking Skills and Creativity, 1*(1), 57-61.
 - Arduini-Van Hoose, N. (2020). Creative thinking. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517

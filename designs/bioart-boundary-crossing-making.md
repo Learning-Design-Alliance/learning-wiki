@@ -80,4 +80,4 @@ Learners make art using or about living organisms (specimens, plants, biological
 
 ## Key Sources
 - Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S. (2023). Interacting with nature in and through boundary crossing learning: A case of bioart-making. *Journal of the Learning Sciences, 32*(4-5), 534-572. [https://doi.org/10.1080/10508406.2023.2263845](https://doi.org/10.1080/10508406.2023.2263845)
-- Ives, C. D., Freeth, R., & Fischer, J. (2020). Inside-out sustainability: The neglect of inner worlds. *Ambio, 49*, 208-217.
+- Ives, C. D., Freeth, R., & Fischer, J. (2020). Inside-out sustainability: The neglect of inner worlds. *Ambio, 49*, 208-217. [doi:10.1007/s13280-019-01187-w](https://doi.org/10.1007/s13280-019-01187-w)

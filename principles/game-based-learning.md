@@ -169,8 +169,8 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - Isbister, K., Flanagan, M., & Hash, C. (2010). Designing games for learning: Insights from conversations with designers. *CHI '10 Extended Abstracts on Human Factors in Computing Systems*, 2041–2044. [doi:10.1145/1753326.1753637](https://doi.org/10.1145/1753326.1753637)
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
 - Schnotz, W., Böckler, J., & Grzondziel, H. (1999). Individual and co-operative learning with interactive animated pictures. *European Journal of Psychology of Education, 14*(2), 245–265. [doi:10.1007/bf03172968](https://doi.org/10.1007/bf03172968)
-- Swink, S. (2008). *Game feel: A game designer's guide to virtual sensation*. Morgan Kaufmann.
-- Juul, J. (2003). The game, the player, the world: Looking for a heart of gameness. In M. Copier & J. Raessens (Eds.), *Level up: Digital Games Research Conference Proceedings* (pp. 30–45). Utrecht University.
+- Swink, S. (2008). *Game feel: A game designer's guide to virtual sensation*. Morgan Kaufmann. [doi:10.1201/9781482267334](https://doi.org/10.1201/9781482267334)
+- Juul, J. (2003). The game, the player, the world: Looking for a heart of gameness. In M. Copier & J. Raessens (Eds.), *Level up: Digital Games Research Conference Proceedings* (pp. 30–45). Utrecht University. [doi:10.26503/dl.v2003i1.65](https://doi.org/10.26503/dl.v2003i1.65)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 

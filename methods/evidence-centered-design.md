@@ -92,7 +92,7 @@ ECD earns its formality in settings where the assessment is not a test — simul
 - Mislevy, R. J., Steinberg, L. S., & Almond, R. G. (2003). Focus article: On the structure of educational assessments. *Measurement: Interdisciplinary Research and Perspectives, 1*(1), 3–62. [doi:10.1207/s15366359mea0101_02](https://doi.org/10.1207/s15366359mea0101_02)
 - Rupp, A. A., Gushta, M., Mislevy, R. J., & Shaffer, D. W. (2010). Evidence-centered design of epistemic games: Measurement principles for complex learning environments. *Journal of Technology, Learning, and Assessment, 8*(4).
 - Plass, J. L., Homer, B. D., Kinzer, C., Frye, J., & Perlin, K. (2011). *Learning mechanics and assessment mechanics for games for learning* (G4LI White Paper #01/2011, Version 0.1). Games for Learning Institute. [researchgate.net/publication/272815253](https://www.researchgate.net/publication/272815253_Learning_Mechanics_and_Assessment_Mechanics_for_Games_for_Learning)
-- Shute, V. J. (2010). *Innovative assessment for the 21st century: Supporting educational needs*. Springer.
+- Shute, V. J. (2010). *Innovative assessment for the 21st century: Supporting educational needs*. Springer. [doi:10.1007/978-1-4419-6530-1](https://doi.org/10.1007/978-1-4419-6530-1)
 
 <!-- Provenance, and the reason this page is status: draft rather than review. The account
      of ECD's three models here follows Plass et al. (2011)'s summary of Mislevy, Steinberg

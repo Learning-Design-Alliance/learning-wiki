@@ -204,7 +204,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - Ma, W., Adesope, O. O., Nesbit, J. C., & Liu, Q. (2014). Intelligent tutoring systems and learning outcomes: A meta-analysis. *Journal of Educational Psychology, 106*(4), 901–918. [doi:10.1037/a0037123](https://doi.org/10.1037/a0037123)
 - Corbett, A. T. (2001). Cognitive computer tutors: Solving the two-sigma problem. *User Modeling 2001*, 137–147. [doi:10.1007/3-540-44566-8_14](https://doi.org/10.1007/3-540-44566-8_14)
 - Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017). Informing progress: Insights on personalized learning implementation and effects. RAND Corporation. [https://www.rand.org/pubs/research_reports/RR2042.html](https://www.rand.org/pubs/research_reports/RR2042.html) [doi:10.7249/rr2042](https://doi.org/10.7249/rr2042)
-- Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND.
+- Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND. [doi:10.7249/rr1365](https://doi.org/10.7249/rr1365)
 - Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
 - Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
 

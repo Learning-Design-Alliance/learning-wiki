@@ -5,6 +5,28 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-14 — synthesis tables for 32 principles; DOIs found for Key Sources
+
+- **Synthesis.** `eval/synthesis/` now has 32 specs (retrieval practice plus 31). 142 general claims carry
+  a table of the distinct studies behind them and behind their narrower claims (median 4, 17 with 10 or
+  more). The principle pages gained "The evidence by question", and every page missing "Fitting the
+  design to a situation" got one: `check_design_page.py` reports 0 problems on 135 pages, from 63.
+- **Missing DOIs** (`scripts/find_missing_dois.py`, maintainer on `patterns/case-based-learning`). 461
+  Key Sources citations on principles, patterns, processes, methods, learner variables and designs had
+  no DOI or link. 126 got one; 335 have no matching registry record and are left as they are (most are
+  books). **The first run's rule was wrong, and none of it was written**: it compared Crossref's title
+  with the whole citation line, and `titles_align()` is a guard against one shape, not a match, so 257
+  "matches" included a Who's Who entry for Stein & Valters (2012) and "General psychology" for Hunter's
+  *Mastery teaching*. A match now needs the cited title itself to agree (main title, 75% of words, or a
+  prefix of five words or more), first author, year within one (a later edition is another record), the
+  journal for an article, and the form (book or article). Each rule was added for a case it rejects.
+  Decisions are in `eval/missing-dois/decisions.ndjson`.
+- **Search.** A canonical page whose title and description carry every query word now joins the
+  candidates even when it is outside the top 40 full-text rows: "feedback timing" returns Immediate
+  Feedback first again.
+- **Evidence review** re-measured and republished (614 MB site, 170 s build, 72% of claims cited by a
+  concept page, 237 of 860 canonical concept pages on one study or none).
+
 ## 2026-10-13 (later) — claims sorted on design relevance; the "what isn't working" list
 
 - **The claim sort** (`scripts/sort_claims.py`): the 6,686 claims no concept page cited, sorted on the

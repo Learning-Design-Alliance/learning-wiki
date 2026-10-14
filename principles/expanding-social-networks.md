@@ -109,9 +109,9 @@ Expanding social networks matters because access to opportunity is often mediate
 
 ## Key Sources
 - Department for Education. (2018). *Decisions of adult learners*. Kantar Public and Learning and Work Institute.
-- Hellerstein, J. K., & Neumark, D. (2020). Social capital, networks, and economic wellbeing. *The Future of Children, 30*(1).
+- Hellerstein, J. K., & Neumark, D. (2020). Social capital, networks, and economic wellbeing. *The Future of Children, 30*(1). [doi:10.1353/foc.2020.0002](https://doi.org/10.1353/foc.2020.0002)
 - Dorner, H. (2012). Effects of online mentoring in computer-supported collaborative learning environments. *American Journal of Distance Education, 26*(3), 157-171. [doi:10.1080/08923647.2012.692265](https://doi.org/10.1080/08923647.2012.692265)
-- Ngcoza, K., & Southwood, S. (2019). Webs of development: Professional networks as spaces for learning. *Pythagoras, 40*(1).
+- Ngcoza, K., & Southwood, S. (2019). Webs of development: Professional networks as spaces for learning. *Pythagoras, 40*(1). [doi:10.4102/pythagoras.v40i1.409](https://doi.org/10.4102/pythagoras.v40i1.409)
 - Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
 
 <!-- merged 2026-10-07 from principles/age-friendly-classroom-remedy-social-isolation ("Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

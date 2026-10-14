@@ -127,7 +127,7 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 ## Key Sources
 - van Merrienboer, J. J. G. (1997). *Training complex cognitive skills*. Educational Technology Publications.
 - van Merrienboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343-352. [https://doi.org/10.1002/acp.1250](https://doi.org/10.1002/acp.1250)
-- van Merrienboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge.
+- van Merrienboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315113210](https://doi.org/10.4324/9781315113210)
 - M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above; the pattern body as it stood before the rewrite, kept verbatim.

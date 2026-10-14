@@ -155,12 +155,12 @@ Progress on the next unit, progress on enrichment work, retention over time, eng
 - Lally, M., & Valentine-French, S. (2015). *Lifespan development: A psychological perspective*. 
 - Terman, L. M., & Oden, M. H. (1959). *The gifted group at mid-life: Thirty-five years' follow-up of the superior child* (Genetic Studies of Genius, Vol. 5). Stanford University Press.
 - Seagoe, M. V. (1975). *Terman and the gifted*. William Kaufmann.
-- Lubinski, D., & Benbow, C. P. (2006). Study of mathematically precocious youth after 35 years: Uncovering antecedents for the development of math-science expertise. *Perspectives on Psychological Science, 1*(4), 316-345.
-- Steiner, H. H., & Carr, M. (2003). Cognitive development in gifted children: Toward a more precise understanding of emerging differences in intelligence. *Educational Psychology Review, 15*(3), 215-246.
+- Lubinski, D., & Benbow, C. P. (2006). Study of mathematically precocious youth after 35 years: Uncovering antecedents for the development of math-science expertise. *Perspectives on Psychological Science, 1*(4), 316-345. [doi:10.1111/j.1745-6916.2006.00019.x](https://doi.org/10.1111/j.1745-6916.2006.00019.x)
+- Steiner, H. H., & Carr, M. (2003). Cognitive development in gifted children: Toward a more precise understanding of emerging differences in intelligence. *Educational Psychology Review, 15*(3), 215-246. [doi:10.1023/a:1024636317011](https://doi.org/10.1023/a:1024636317011)
 - Davis, G. A., & Rimm, S. B. (2004). *Education of the gifted and talented* (5th ed.). Pearson.
 - Friend, M. (2008). *Special education: Contemporary perspectives for school professionals* (2nd ed.). Pearson.
 - Schiever, S. W., & Maker, C. J. (2003). New directions in enrichment and acceleration. In N. Colangelo & G. A. Davis (Eds.), *Handbook of gifted education* (3rd ed., pp. 163-173). Allyn & Bacon.
-- Colangelo, N., & Assouline, S. (2009). Acceleration: Meeting the academic and social needs of students. In T. Balchin, B. Hymer, & D. Matthews (Eds.), *The Routledge international companion to gifted education* (pp. 194-202). Routledge.
+- Colangelo, N., & Assouline, S. (2009). Acceleration: Meeting the academic and social needs of students. In T. Balchin, B. Hymer, & D. Matthews (Eds.), *The Routledge international companion to gifted education* (pp. 194-202). Routledge. [doi:10.1007/978-1-4020-6162-2_55](https://doi.org/10.1007/978-1-4020-6162-2_55)
 - Arduini-Van Hoose, N. (2020). Intelligence. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.

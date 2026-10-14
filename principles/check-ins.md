@@ -99,7 +99,7 @@ An immediate change in what learners report, a change in engagement, later perfo
 
 ## Key Sources
 - Champion, T. D. (2015). Scheduled check-ins increase student completion of assignments in an online non-majors science course at an HBCU. *SoTL Conference*.
-- Fischer, J., & Alpert, A. (2019). Promoting intern resilience: Individual chief wellness check-ins. *The Journal of Teaching and Learning Resources*.
+- Fischer, J., & Alpert, A. (2019). Promoting intern resilience: Individual chief wellness check-ins. *The Journal of Teaching and Learning Resources*. [doi:10.15766/mep_2374-8265.10848](https://doi.org/10.15766/mep_2374-8265.10848)
 - Kluch, S. (2020). Leading remotely: What managers need to keep teams engaged. *Gallup*.
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The page's previous Description and Implications, kept verbatim.

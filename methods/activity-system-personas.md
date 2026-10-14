@@ -87,7 +87,7 @@ The design payoff is that this account produces **actionable findings**. "Maria'
 
 ## Key Sources
 - Schmidt, & Tawfik. EdTech Books. [https://edtechbooks.org/eme_6606](https://edtechbooks.org/eme_6606)
-- Engeström, Y. (2015). *Learning by expanding: An activity-theoretical approach to developmental research* (2nd ed.). Cambridge University Press.
+- Engeström, Y. (2015). *Learning by expanding: An activity-theoretical approach to developmental research* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9781139814744](https://doi.org/10.1017/cbo9781139814744)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
 
 <!-- The first entry carries only what the commissioning brief stated: authors and

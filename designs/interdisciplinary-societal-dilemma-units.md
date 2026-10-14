@@ -85,5 +85,5 @@ Interdisciplinary Societal Dilemmas (ISDs) — problems tied to students' lived 
 
 ## Key Sources
 - Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A. (2024). Opportunities and hindrances for promoting interdisciplinary learning in schools. *Journal of the Learning Sciences, 33*(2), 242-283. [https://doi.org/10.1080/10508406.2024.2344809](https://doi.org/10.1080/10508406.2024.2344809)
-- Goldman, S. R., Britt, M. A., Brown, W., Cribb, G., George, M., Greenleaf, C., Lee, C. D., Shanahan, C., & Project READI. (2016). Disciplinary literacies and learning to read for understanding: A conceptual framework for disciplinary literacy. *Educational Psychologist, 51*(2), 219-246.
+- Goldman, S. R., Britt, M. A., Brown, W., Cribb, G., George, M., Greenleaf, C., Lee, C. D., Shanahan, C., & Project READI. (2016). Disciplinary literacies and learning to read for understanding: A conceptual framework for disciplinary literacy. *Educational Psychologist, 51*(2), 219-246. [doi:10.1080/00461520.2016.1168741](https://doi.org/10.1080/00461520.2016.1168741)
 - Dewey, J. (1916). *Democracy and Education*. Macmillan.

@@ -57,4 +57,4 @@ When a group creative task is genuinely open-ended (e.g., "design a building for
 
 ## Key Sources
 - Pierroux, P., Steier, R., & Ludvigsen, S. R. (2022). Group creativity in adolescence: Relational, material and institutional dimensions of creative collaboration. *Journal of the Learning Sciences, 31*(1), 107-137. [https://doi.org/10.1080/10508406.2022.2025813](https://doi.org/10.1080/10508406.2022.2025813)
-- Engle, R. A., Langer-Osuna, J. M., & McKinney de Royston, M. (2014). Toward a model of influence in persuasive discussions: Negotiating quality, authority, and access within a heated classroom debate. *Journal of the Learning Sciences, 23*(2), 245-268.
+- Engle, R. A., Langer-Osuna, J. M., & McKinney de Royston, M. (2014). Toward a model of influence in persuasive discussions: Negotiating quality, authority, and access within a heated classroom debate. *Journal of the Learning Sciences, 23*(2), 245-268. [doi:10.1080/10508406.2014.883979](https://doi.org/10.1080/10508406.2014.883979)
