@@ -42,8 +42,9 @@ A math teacher's small-scale classroom survey asked which of three retrieval str
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — reports the opposite
 - [Survey respondents most prefer presenting their information experientially rather than chronologically](experiential-presentation-preferred-chronological.md) — related

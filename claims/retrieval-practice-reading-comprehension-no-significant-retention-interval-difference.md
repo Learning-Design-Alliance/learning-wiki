@@ -41,8 +41,9 @@ Between-subjects factor of the classroom experiment: 100 undergraduates randomly
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Practice Enhances Long Term Retention](retrieval-practice-improves-retention.md)
 - [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — related
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related

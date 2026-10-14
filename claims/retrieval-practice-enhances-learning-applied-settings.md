@@ -41,8 +41,9 @@ Narrative review synthesis. The review discusses "key research findings on two s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings](spacing-enhances-learning-across-domains-lifespan.md) — related
 - [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — a narrower finding that bears on this claim

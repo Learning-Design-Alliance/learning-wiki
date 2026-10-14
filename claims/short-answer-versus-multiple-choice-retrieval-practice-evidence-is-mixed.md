@@ -115,6 +115,20 @@ The chapter reports laboratory experiments by Smith and Karpicke (2014), includi
 
 > "Across four experiments, Smith and Karpicke reported an overall effect size of d ¼ 0.07 for the effect of short-answer versus multiple-choice questioning on ﬁnal retention."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which practice format: short answer, multiple choice, or matching the final test?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 review), `q2`–`q4`, 3 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i?; i0 | this claim; [Having more multiple-choice alternatives benefits later retention when initial retrieval s](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) (qualifies); [The benefits of retrieval practice do not depend on an exact match between initial retriev](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) (qualifies) |
+| [Adesope 2017](https://doi.org/10.3102/0034654316689306) | q4 · quant-synthesis · r3 | i2 | [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-ch](practice-test-format-moderates-effect.md) (qualifies); [Testing effects are stronger when practice and final test formats are identical (g = 0.63)](tap-identical-formats-stronger-effect.md) (qualifies) |
+| [Nero 2021](https://doi.org/10.24191/ajue.v17i4.16222) | q3 · causal · r2 | i? | [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no ](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) (qualifies); [Retrieval practice format, levels of thinking and retention interval show no significant t](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) (qualifies) |
+| Maass 2016 | q3 · causal · r2 | i? | [Multiple choice practice items produce significantly higher performance during retrieval p](multiple-choice-higher-practice-performance-than-short-answer.md) (qualifies); [Successful retrieval practice of more difficult items (short answer, applied) yields great](successful-difficult-retrieval-greater-future-success.md) (qualifies) |
+| [Yang 2020](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r? | i2 | [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exa](format-consistency-moderates-classroom-testing-effect.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

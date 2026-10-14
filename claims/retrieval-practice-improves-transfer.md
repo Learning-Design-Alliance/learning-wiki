@@ -59,6 +59,21 @@ Butler, A. C. (2010). Repeated testing produces superior transfer of learning re
 
 Participants studied prose passages and then either repeatedly restudied them or took repeated tests on them. A week later the final test used the same questions (Experiment 1a), new inferential questions from the same knowledge domain (Experiments 1b and 2), or new inferential questions from different knowledge domains (Experiment 3). Repeated testing produced better retention and transfer than repeated studying in every case, indicating the benefit is not limited to the specific response practised.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the benefit carry to new questions, inferences and applications, or only to the items practised?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 2 causal, 1 review), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Pan & Rickard 2018](https://doi.org/10.1037/bul0000151) | q4 · quant-synthesis · r2 | i2 · medium effect, d=0.40; i2; i? | this claim; [Practice testing yields transferrable learning relative to a nontesting reexposure control](testing-yields-transfer-versus-reexposure-control-d-040.md) (supports); [Transfer of test-enhanced learning is greatest across test formats, to application and inf](transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) (supports); [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to un](transfer-weakest-rearranged-untested-materials-worked-examples.md) (qualifies) |
+| [Butler 2010](https://doi.org/10.1037/a0019902) | q3 · causal · r? | i? | this claim |
+| [Adesope 2017](https://doi.org/10.3102/0034654316689306) | q4 · quant-synthesis · r3 | i2 | [Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a sig](practice-tests-aid-retention-and-transfer.md) (supports) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i?; i0 | [Retrieval practice enhances performance on final inference and transfer questions relative](retrieval-practice-improves-final-inference-and-transfer-questions.md) (supports); [Practicing retrieval of some portions of an educational text can enhance retention of rela](retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) (qualifies); [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) (qualifies) |
+| [Nero 2021](https://doi.org/10.24191/ajue.v17i4.16222) | q3 · causal · r2 | i? | [After retrieval practice, undergraduates score significantly higher on lower-order thinkin](retrieval-practice-lower-order-questions-outscore-higher-order-questions.md) (qualifies); [The effect of retrieval practice format on reading comprehension does not differ significa](retrieval-format-by-levels-of-thinking-interaction-not-significant.md) (qualifies) |
+| [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i1 · small effect on deep outcomes, d = 0.26 (0.60 surface); far transfer d = 0.39 | [Learning techniques have much smaller effects on deep learning and far transfer than on su](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope of the claim.** The retrieval-practice literature distinguishes near transfer (applying knowledge to reworded or slightly varied problems) from far transfer (applying it to novel problem types or domains). The strongest documented benefits are for retention and near transfer; evidence for far transfer is thinner and more contested. Designers should treat "retrieval improves transfer" as most defensible when the transfer task shares structural features with the practiced material.

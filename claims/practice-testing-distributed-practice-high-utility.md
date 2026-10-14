@@ -41,8 +41,9 @@ The monograph's own overall assessment, a narrative synthesis of the literatures
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related

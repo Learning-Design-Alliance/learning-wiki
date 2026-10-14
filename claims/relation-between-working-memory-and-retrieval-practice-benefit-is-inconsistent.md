@@ -79,11 +79,12 @@ The chapter reports Brewer and Unsworth (2012): working memory and attentional c
 
 ## Discussion
 
-
 ## Learner Variables
 - [Working Memory](../learner-variables/working-memory.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — the general claim this finding bears on, with the studies behind it
 
 - [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](higher-anxiety-is-associated-with-smaller-testing-effects.md) — related
 - [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md)

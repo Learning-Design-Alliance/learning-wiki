@@ -40,6 +40,19 @@ Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta
 
 This meta-analysis pooled 159 effect sizes from 61 published and unpublished studies comparing final retention of tested vs. restudied material (Hedges's g, random-effects model). A dedicated "retrievability and reexposure" moderator analysis split the no-feedback studies by how often the initial retrieval attempt succeeded. Where more than half of initial retrieval attempts failed (≤50% correct) and no feedback followed, the testing effect was statistically indistinguishable from zero; as the proportion of successful retrievals rose (51–75%, then >75%), the size of the benefit rose with it, and studies that provided feedback after retrieval (regardless of initial success) showed the largest effects of all. The pattern directly supports [practice](../elements/practice.md) calibrated to a learner's likely success and pairing failed attempts with feedback, as this claim's Discussion recommends.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How much should retrieval succeed during practice, and how much support should it get?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 causal), `q2`–`q4`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Rowland 2014](https://doi.org/10.1037/a0037559) | q4 · quant-synthesis · r? | i? | this claim; [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) (qualifies) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 / q3 · review · r3 | i? | [Retrieval practice effects become more robust as initial retrieval success increases, espe](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) (supports); [Initial retrieval conditions that provide less cue support, such as free recall rather tha](less-initial-retrieval-support-produces-better-retention.md) (qualifies); [Inducing learners to recollect the prior study episode during retrieval practice enhances ](recollecting-the-prior-study-episode-during-retrieval-enhances-retention.md) (qualifies) |
+| [Steven C. Pan and Timothy C. Rickard 2018](https://doi.org/10.1037/bul0000151) | q4 · quant-synthesis · r3 | i? | [Response congruency, elaborated retrieval practice, and initial test performance strongly ](moderators-congruency-elaborated-retrieval-initial-test-performance.md) (supports) |
+| [Ariel 2018](https://doi.org/10.1037/xap0000133) | q3 · causal · r2 | i2; i1 | [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Why failure matters.** Retrieval practice is among the most robust learning strategies, but its benefit is not automatic. A retrieval attempt appears to produce learning primarily when it succeeds — the act of reconstructing an answer strengthens the memory trace. When learners cannot retrieve the answer at all, the attempt may contribute little, and if learners then immediately see the answer, the failed attempt can function as passive re-exposure rather than active reconstruction. This connects to the broader principle that [cognitive load management](../principles/cognitive-load-management.md) matters: a retrieval task pitched far beyond what the learner can access may consume effort without producing consolidation.

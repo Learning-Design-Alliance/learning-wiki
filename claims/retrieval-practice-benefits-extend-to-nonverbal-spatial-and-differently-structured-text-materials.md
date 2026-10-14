@@ -79,8 +79,9 @@ The chapter reports Karpicke and Blunt (2011, Experiment 2), which compared enum
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — the general claim this finding bears on, with the studies behind it
 - [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — related

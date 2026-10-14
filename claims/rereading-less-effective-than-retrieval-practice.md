@@ -87,6 +87,8 @@ A systematic review evaluating ten learning techniques against generalisability,
 
 ## Related Claims
 
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
+
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — active engagement during learning generally outperforms passive exposure, of which rereading is a prime case
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — another generative alternative to passive restudy
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — relevant to why retrieval demands are manageable when material is well-organized

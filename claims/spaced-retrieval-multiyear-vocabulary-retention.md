@@ -41,8 +41,9 @@ The review attributes this to Bahrick, Bahrick, Bahrick and Phelps (1993), descr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) — related
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — a broader claim this one bears on

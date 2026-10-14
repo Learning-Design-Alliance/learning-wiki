@@ -41,6 +41,7 @@ Moderator analyses of study setting and educational level (Table 3): classroom k
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — the general claim this finding bears on, with the studies behind it
 -
