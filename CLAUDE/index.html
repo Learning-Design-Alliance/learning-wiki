@@ -1945,6 +1945,8 @@ waves 1–7 in <code>eval/page-triage/</code>):</p>
   Links inside HTML comments count for nothing.</li>
 <li>Folds and merges: <code>merge_pages.py</code> (across kinds with <code>kind/slug</code>, no alias) and
   <code>merge_claims.py</code> (keeps a differing write-up of a shared study in a <code>&lt;!-- merged --&gt;</code> comment).
+  After merging claims run <code>dedupe_claim_bullets.py --apply</code>: a page that cited both lists the kept
+  claim twice in a section, under the two old titles (<code>judge_claim_merges.py</code> runs it itself).
   Which page survives is the maintainer's call when it is not obvious.</li>
 </ul>
 <p><strong>Citations:</strong></p>
