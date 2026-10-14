@@ -7,3 +7,8 @@ page: ../claims/pbis-three-tiers-fidelity-fewer-oss-pandemic.md
 
 ### 2026-10-09 · ingest · process:wiki-ingest
 Ingested from eric-ed673553 (Implementing Positive Behavior Interventions and Supports during the COVID-19 Pandemic: Three Tiers of Prevention and Intervention as Protective Factors) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/tier3-intensive-supports-drove-exclusion-reduction
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from eric-ed673553 (Implementing Positive Behavior Interventions and Supports during the COVID-19 Pandemic: Three Tiers of Prevention and Intervention as Protective Factors) via eval_harness.py + ingest_extractions.py

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation
+title: Teachers in one focus-group study show disciplinary variation in how they assess communication
 description: Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation
 id: disciplinary-variation-communication-assessment
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation
+# Teachers in one focus-group study show disciplinary variation in how they assess communication
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+<!-- title before 2026-10-14: Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation -->
 
 ## Subclaims
 `q2 i?` The analysis revealed patterns of disciplinary variation in communication assessment that the authors suggest might not emerge from smaller samples. [→ Teresa M. Ober 2026](#teresa-m-ober-2026)

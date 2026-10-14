@@ -39,7 +39,7 @@ The packet operationalizes Cummins's and Canale & Swain's theories using Steve K
 ### Claims
 
 - [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](../claims/affective-variables-facilitate-l2-acquisition.md) [+W]
-- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
 
 ## Related Theories
 

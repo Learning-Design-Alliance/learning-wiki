@@ -119,7 +119,7 @@ Learners, disciplines and outcomes differ across these claims (ninth-grade biolo
 Claims the earlier page cited that bear only partly on the model:
 
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](../claims/ai-literacy-discipline-specific-calibration.md) [+W] — a review's endorsement of a framework holding that fields differ in vocabularies, genres and evidentiary standards; no data. Used only in the AI-tools row.
-- [Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation](../claims/disciplinary-variation-communication-assessment.md) [+W] — authors' interpretation of a focus-group analysis of teachers' assessment of communication; it bears on how disciplines judge communication, not on teaching disciplinary reading. Used only in the cross-subject rubric row.
+- [Teachers in one focus-group study show disciplinary variation in how they assess communication](../claims/disciplinary-variation-communication-assessment.md) [+W] — authors' interpretation of a focus-group analysis of teachers' assessment of communication; it bears on how disciplines judge communication, not on teaching disciplinary reading. Used only in the cross-subject rubric row.
 - [Use a strategy for imagining the past built on two sets of guiding questions](../strategies/strategy-imagining-past-two-question-sets.md) — a strategy page from the folded imagination page, not a claim; the old page marked it [+M], but it cites no claim. Used as the question card in the default design.
 
 ## Objective and learner-valued goal

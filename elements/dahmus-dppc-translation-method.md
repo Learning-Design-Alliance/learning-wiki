@@ -41,7 +41,7 @@ The Dahmus Method (DM), based on Dahmus's DPPC Method (direct, pure, piece-meal,
 - [Polya and Dahmus methods do not differ on the problem solution criterion](../claims/no-treatment-difference-problem-solution-criterion.md) [+W]
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](../claims/dahmus-students-translate-but-no-single-equation.md) [~W]
 - [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](../claims/polya-method-beats-dahmus-on-equation-criterion.md) [-W]
-- [Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks](../claims/verbal-problem-scores-resistant-to-forgetting.md) [+W]
+- [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](../claims/verbal-problem-scores-resistant-to-forgetting.md) [+W]
 
 ## Related Elements
 

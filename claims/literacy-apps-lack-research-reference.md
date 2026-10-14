@@ -3,6 +3,7 @@ type: claim
 title: More than 70 percent of the 180 most popular literacy applications referenced no research in their design
 description: More than 70 percent of the 180 most popular literacy applications referenced no research in their design
 id: literacy-apps-lack-research-reference
+aliases: [few-literacy-apps-mention-research-descriptions]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 2
+  - id: simone-2017
+    resource: "https://digitalpromise.dspacedirect.org/items/82489735-de61-4d86-bf04-5ebdfbb15f10"
+    title: "Simone, C. M., & Gross, K. (2017). Using Research in Ed-Tech: How ed-tech companies use research to make better products. Digital Promise. https://digitalpromise.dspacedirect.org/items/82489735-de61-4d86-bf04-5ebdfbb15f10"
+    author: "Simone, C. M., & Gross, K."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # More than 70 percent of the 180 most popular literacy applications referenced no research in their design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence** · 2 studies · 1 associational `r1`, 1 theoretical `r2` · `q2`
 
 ## Subclaims
+
 `q2 i?` A 2015 market scan found over 70 percent of the 180 most popular literacy apps made no reference to research or learning expertise in their design. [→ Research and the Promise of Personalized Learning 2015](#research-and-the-promise-of-personalized-learning-2015)
+
+`q2 i?` Research mentions are rare among top literacy apps: only 24 percent of app store descriptions mentioned research. [→ Simone 2017](#simone-2017)
 
 ## Evidence
 
@@ -39,9 +51,20 @@ The white paper reports a 2015 market scan and analysis of children's literacy a
 
 > "A 2015 report from the Joan Ganz Cooney Center and New America found that more than 70 percent of the 180 most popular literacy applications made no reference to research or learning expertise in the design of the products."
 
+### Simone 2017
+
+Simone, C. M., & Gross, K. (2017). Using Research in Ed-Tech: How ed-tech companies use research to make better products. Digital Promise. https://digitalpromise.dspacedirect.org/items/82489735-de61-4d86-bf04-5ebdfbb15f10
+
+`q2 · i?` · `associational · r1`
+
+The report cites, without reproducing the study's design, a 2015 Joan Ganz Cooney Center finding that "only 24 percent of top literacy apps mentioned research" in store descriptions. The report offers this as motivation; the underlying study is not described here.
+
+> "In a 2015 study by the Joan Ganz Cooney Center, for instance, only 24 percent of top literacy apps mentioned research in their app store descriptions."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Mobile language learning apps are used mainly for vocabulary learning among surveyed app users](mall-vocabulary-most-supported-skill.md) — related
-- [Only 24 percent of top literacy apps mentioned research in their app store descriptions, per a 2015 study the report cites](few-literacy-apps-mention-research-descriptions.md) — possibly the same claim (merge candidate)

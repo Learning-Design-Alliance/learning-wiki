@@ -12,7 +12,7 @@ generated:
 # Arts Integration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 11 studies (4 quant-synthesis, 4 review, 2 causal, 1 associational), `q2`–`q4` · 3 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 12 studies (4 quant-synthesis, 4 review, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Arts integration is an instructional strategy in which learners construct or demonstrate understanding of non-arts content through an art form — writing and performing a play about a historical event, choreographing a dance that models a scientific process, or designing a graphic that illustrates a mathematical relationship. The defining feature is bidirectional connection: the art activity is not decoration but a means of representing and reasoning about the target content, and the content constrains what counts as a successful artistic product.

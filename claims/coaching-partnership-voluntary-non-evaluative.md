@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation
+title: Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence
 description: Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation
 id: coaching-partnership-voluntary-non-evaluative
 status: draft
@@ -27,10 +27,11 @@ sources:
     rigour: 2
 ---
 
-# Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation
+# Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+<!-- title before 2026-10-14: Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation -->
 
 ## Subclaims
 `q2 i?` Teachers reporting coaching as a partnership showed positive significant correlations with ITU confidence (corr between .16 and .21) and challenge improvement (corr for index score = .43, p < .001). [→ Mahsa Bakhshaei 2020](#mahsa-bakhshaei-2020)
@@ -64,7 +65,7 @@ Survey correlations from the DLP: voluntary participation with a printed "corr w
 ## Related Claims
 - [Most coached teachers report improvement across classroom challenge categories after working with a coach](coaching-improves-classroom-challenge-categories.md) — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related
-- [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](sustained-coaching-contact-hours.md) — related
+- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours](sustained-coaching-contact-hours.md) — related
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
 - [Coached teachers report significantly higher confidence in their ability to implement impactful technology use](coaching-raises-teacher-itu-confidence.md) — related
 - [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) — related

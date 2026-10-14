@@ -62,7 +62,7 @@ Same section: students greatly appreciate when teachers slow the pace for questi
 
 
 ## Related Claims
-- [Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty](pacing-guides-force-teacher-centered-lessons.md) — related
+- [One policy report argues that rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding activities, especially in schools serving learners of color and those experiencing poverty](pacing-guides-force-teacher-centered-lessons.md) — related
 - [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
 - [Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them](students-report-prerequisites-block-course-access.md) — related
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](older-beginners-excluded-from-standard-adl-esl.md) — related

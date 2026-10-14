@@ -64,7 +64,7 @@ The review attributes this stakes-moderation finding to Freele et al. (2025): hi
 ## Related Claims
 - [Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust](explainability-mixed-effect-on-trust.md) — related
 - Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — related
-- [Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy](trust-not-equivalent-to-ai-accuracy.md) — related
+- [A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate](trust-not-equivalent-to-ai-accuracy.md) — related
 - [The tool's effect differs by timing: early AI acts as a momentum starter, later AI as a deepener raising narrative transportation](ai-scaffolding-effect-depends-on-workflow-timing.md) — related
 - [Self-reported LLM usage collapses at the first team milestone and recovers only partially on later coding-heavy team tasks](llm-usage-collapses-at-team-onset-partial-recovery.md) — related
 - [Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained](longitudinal-trust-studies-omit-skill-outcomes.md) — related

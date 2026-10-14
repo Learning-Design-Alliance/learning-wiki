@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":17884,
+"claim":17869,
 "design":719,
 "element":1080,
 "learner-variable":14,
@@ -2442,15 +2442,6 @@
 "type":"claim"
 },
 {
-"description":"Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments",
-"evidence_strength":"weak",
-"id":"active-engagement-higher-learning-gains-than-lecture",
-"path":"claims/active-engagement-higher-learning-gains-than-lecture.md",
-"status":"draft",
-"title":"Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments",
-"type":"claim"
-},
-{
 "description":"Active learning's performance benefits hold across all STEM disciplines",
 "evidence_strength":"strong",
 "id":"active-learning-benefits-hold-across-stem-disciplines",
@@ -2514,6 +2505,7 @@
 "type":"claim"
 },
 {
+"aliases":["active-learning-raises-stem-exam-performance-047-sd","active-engagement-higher-learning-gains-than-lecture"],
 "description":"",
 "id":"active-learning-improves-exam-performance",
 "path":"claims/active-learning-improves-exam-performance.md",
@@ -2546,15 +2538,6 @@
 "path":"claims/active-learning-pedagogies-qr-redesign.md",
 "status":"draft",
 "title":"QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses",
-"type":"claim"
-},
-{
-"description":"Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing",
-"evidence_strength":"strong",
-"id":"active-learning-raises-stem-exam-performance-047-sd",
-"path":"claims/active-learning-raises-stem-exam-performance-047-sd.md",
-"status":"draft",
-"title":"Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing",
 "type":"claim"
 },
 {
@@ -18345,6 +18328,7 @@
 "type":"claim"
 },
 {
+"aliases":["empathic-mindset-teacher-intervention-lowers-suspensions"],
 "description":"",
 "evidence_strength":"weak",
 "id":"brief-intervention-empathic-discipline-cuts-suspensions",
@@ -25478,7 +25462,7 @@
 "id":"classroom-physical-activity-improves-attention",
 "path":"claims/classroom-physical-activity-improves-attention.md",
 "status":"draft",
-"title":"Classroom Physical Activity Improves Attention",
+"title":"Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests",
 "type":"claim"
 },
 {
@@ -26839,7 +26823,7 @@
 "id":"coaching-partnership-voluntary-non-evaluative",
 "path":"claims/coaching-partnership-voluntary-non-evaluative.md",
 "status":"draft",
-"title":"Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation",
+"title":"Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence",
 "type":"claim"
 },
 {
@@ -27864,7 +27848,7 @@
 "id":"collaboration-buy-in-student-leadership",
 "path":"claims/collaboration-buy-in-student-leadership.md",
 "status":"draft",
-"title":"Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities",
+"title":"Staff and students in three California schools describe collaboration among leaders, teachers and students as improving buy-in and creating student leadership opportunities",
 "type":"claim"
 },
 {
@@ -28640,7 +28624,7 @@
 "id":"colorblindness-blocks-distribution-discussion",
 "path":"claims/colorblindness-blocks-distribution-discussion.md",
 "status":"draft",
-"title":"Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race",
+"title":"Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race",
 "type":"claim"
 },
 {
@@ -40405,7 +40389,7 @@
 "id":"disciplinary-variation-communication-assessment",
 "path":"claims/disciplinary-variation-communication-assessment.md",
 "status":"draft",
-"title":"Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation",
+"title":"Teachers in one focus-group study show disciplinary variation in how they assess communication",
 "type":"claim"
 },
 {
@@ -42716,12 +42700,13 @@
 "type":"claim"
 },
 {
+"aliases":["repetitive-drill-grammar-focus-ineffective"],
 "description":"Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition",
 "evidence_strength":"weak",
 "id":"drill-and-grammar-focus-ineffective-for-l2-acquisition",
 "path":"claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md",
 "status":"draft",
-"title":"Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition",
+"title":"A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition",
 "type":"claim"
 },
 {
@@ -43445,15 +43430,7 @@
 "type":"claim"
 },
 {
-"description":"E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom",
-"evidence_strength":"moderate",
-"id":"e-teacher-shift-to-facilitator-role",
-"path":"claims/e-teacher-shift-to-facilitator-role.md",
-"status":"draft",
-"title":"E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom",
-"type":"claim"
-},
-{
+"aliases":["e-teacher-shift-to-facilitator-role"],
 "description":"In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning",
 "evidence_strength":"moderate",
 "id":"e-teachers-widen-object-toward-independent-learning",
@@ -48197,15 +48174,6 @@
 "path":"claims/empathetic-condition-least-attrition.md",
 "status":"draft",
 "title":"Starting interaction with the Empathetic chatbot is associated with the least attrition in the six-week study",
-"type":"claim"
-},
-{
-"description":"An empathy-enhancing intervention for teachers reduced suspension rates, especially for students of color",
-"evidence_strength":"moderate",
-"id":"empathic-mindset-teacher-intervention-lowers-suspensions",
-"path":"claims/empathic-mindset-teacher-intervention-lowers-suspensions.md",
-"status":"draft",
-"title":"An empathy-enhancing intervention for teachers reduced suspension rates, especially for students of color",
 "type":"claim"
 },
 {
@@ -54996,15 +54964,6 @@
 "type":"claim"
 },
 {
-"description":"Only 24 percent of top literacy apps mentioned research in their app store descriptions, per a 2015 study the report cites",
-"evidence_strength":"weak",
-"id":"few-literacy-apps-mention-research-descriptions",
-"path":"claims/few-literacy-apps-mention-research-descriptions.md",
-"status":"draft",
-"title":"Only 24 percent of top literacy apps mentioned research in their app store descriptions, per a 2015 study the report cites",
-"type":"claim"
-},
-{
 "description":"Few models exist for estimating growth in the presence of multiple raters despite growing multi-rater longitudinal data",
 "evidence_strength":"weak",
 "id":"few-models-for-growth-with-multiple-raters",
@@ -61707,7 +61666,7 @@
 "id":"genai-learning-gain-persists-one-week",
 "path":"claims/genai-learning-gain-persists-one-week.md",
 "status":"draft",
-"title":"A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)",
+"title":"One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 SD), short of statistical significance (p = 0.068)",
 "type":"claim"
 },
 {
@@ -64586,15 +64545,6 @@
 "type":"claim"
 },
 {
-"description":"Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor",
-"evidence_strength":"weak",
-"id":"gpt-access-supported-practice-poorer-unaided-test",
-"path":"claims/gpt-access-supported-practice-poorer-unaided-test.md",
-"status":"draft",
-"title":"Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor",
-"type":"claim"
-},
-{
 "description":"Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning",
 "evidence_strength":"moderate",
 "id":"gpt-base-crutch-mechanism",
@@ -64739,7 +64689,7 @@
 "type":"claim"
 },
 {
-"aliases":["gpt4-practice-gains-exam-loss-cognitive-debt","unrestricted-chatgpt-worse-exam-scores"],
+"aliases":["gpt4-practice-gains-exam-loss-cognitive-debt","unrestricted-chatgpt-worse-exam-scores","guarded-ai-placement-prevents-unaided-exam-harm","gpt-access-supported-practice-poorer-unaided-test","offloading-to-ai-costs-learning"],
 "description":"Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal",
 "evidence_strength":"weak",
 "id":"gpt4-access-harms-learning-after-withdrawal",
@@ -66232,15 +66182,6 @@
 "path":"claims/guaranteed-funding-floors-32-states.md",
 "status":"draft",
 "title":"Thirty-two states and DC guarantee base per-pupil funding, and state legislation can add year-to-year funding guarantees such as California's Proposition 98",
-"type":"claim"
-},
-{
-"description":"Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)",
-"evidence_strength":"weak",
-"id":"guarded-ai-placement-prevents-unaided-exam-harm",
-"path":"claims/guarded-ai-placement-prevents-unaided-exam-harm.md",
-"status":"draft",
-"title":"Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)",
 "type":"claim"
 },
 {
@@ -83731,6 +83672,7 @@
 "type":"claim"
 },
 {
+"aliases":["few-literacy-apps-mention-research-descriptions"],
 "description":"More than 70 percent of the 180 most popular literacy applications referenced no research in their design",
 "evidence_strength":"moderate",
 "id":"literacy-apps-lack-research-reference",
@@ -87296,15 +87238,6 @@
 "path":"claims/low-examinee-effort-threat-to-score-validity.md",
 "status":"draft",
 "title":"Low examinee effort is a major threat to valid uses of many test scores",
-"type":"claim"
-},
-{
-"description":"In one study of students with emotional disturbance, the authors interpret their results as showing that teachers implementing PBIS with low fidelity tended not to see student behavior improvements as large as those of high-fidelity colleagues",
-"evidence_strength":"weak",
-"id":"low-fidelity-pbis-smaller-student-improvements",
-"path":"claims/low-fidelity-pbis-smaller-student-improvements.md",
-"status":"draft",
-"title":"In one study of students with emotional disturbance, the authors interpret their results as showing that teachers implementing PBIS with low fidelity tended not to see student behavior improvements as large as those of high-fidelity colleagues",
 "type":"claim"
 },
 {
@@ -101889,15 +101822,6 @@
 "type":"claim"
 },
 {
-"description":"Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam",
-"evidence_strength":"weak",
-"id":"offloading-to-ai-costs-learning",
-"path":"claims/offloading-to-ai-costs-learning.md",
-"status":"draft",
-"title":"Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam",
-"type":"claim"
-},
-{
 "description":"Volume of offloading masks differences between offloading processes that become visible when profiling what is offloaded",
 "evidence_strength":"moderate",
 "id":"offloading-volume-masks-content-differences",
@@ -104741,7 +104665,7 @@
 "id":"pacing-guides-force-teacher-centered-lessons",
 "path":"claims/pacing-guides-force-teacher-centered-lessons.md",
 "status":"draft",
-"title":"Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty",
+"title":"One policy report argues that rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding activities, especially in schools serving learners of color and those experiencing poverty",
 "type":"claim"
 },
 {
@@ -106475,39 +106399,13 @@
 "type":"claim"
 },
 {
-"description":"No significant differences in in-school suspensions or students with only one OSS emerged across the four PBIS fidelity conditions during 2020–21",
-"evidence_strength":"moderate",
-"id":"pbis-fidelity-conditions-no-difference-iss-single-oss",
-"path":"claims/pbis-fidelity-conditions-no-difference-iss-single-oss.md",
-"status":"draft",
-"title":"No significant differences in in-school suspensions or students with only one OSS emerged across the four PBIS fidelity conditions during 2020–21",
-"type":"claim"
-},
-{
-"description":"The percentage of students with ED meeting clinically significant problem-behavior criteria declined significantly from pre- to post-test",
-"evidence_strength":"moderate",
-"id":"pbis-reduces-clinically-significant-behavior-problems",
-"path":"claims/pbis-reduces-clinically-significant-behavior-problems.md",
-"status":"draft",
-"title":"The percentage of students with ED meeting clinically significant problem-behavior criteria declined significantly from pre- to post-test",
-"type":"claim"
-},
-{
+"aliases":["pbis-reduces-syndrome-scores-ed-students","pbis-reduces-clinically-significant-behavior-problems"],
 "description":"PBIS implementation is associated with significant pre-to-post reductions in externalizing and total problem behaviors of students with ED in self-contained settings",
 "evidence_strength":"moderate",
 "id":"pbis-reduces-externalizing-total-problems-ed-self-contained",
 "path":"claims/pbis-reduces-externalizing-total-problems-ed-self-contained.md",
 "status":"draft",
 "title":"PBIS implementation is associated with significant pre-to-post reductions in externalizing and total problem behaviors of students with ED in self-contained settings",
-"type":"claim"
-},
-{
-"description":"PBIS is associated with significant reductions on the Thought Problems, Attention Problems, and Aggressive Behavior syndrome scores",
-"evidence_strength":"moderate",
-"id":"pbis-reduces-syndrome-scores-ed-students",
-"path":"claims/pbis-reduces-syndrome-scores-ed-students.md",
-"status":"draft",
-"title":"PBIS is associated with significant reductions on the Thought Problems, Attention Problems, and Aggressive Behavior syndrome scores",
 "type":"claim"
 },
 {
@@ -106520,6 +106418,7 @@
 "type":"claim"
 },
 {
+"aliases":["tier3-intensive-supports-drove-exclusion-reduction"],
 "description":"Schools implementing all three PBIS tiers with fidelity had significantly fewer students with OSS, fewer days missed from OSS, and fewer OSS incidents than matched non-PBIS schools during 2020–21",
 "evidence_strength":"moderate",
 "id":"pbis-three-tiers-fidelity-fewer-oss-pandemic",
@@ -106529,6 +106428,7 @@
 "type":"claim"
 },
 {
+"aliases":["pbis-fidelity-conditions-no-difference-iss-single-oss"],
 "description":"Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year",
 "evidence_strength":"moderate",
 "id":"pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions",
@@ -118360,7 +118260,7 @@
 "id":"racial-reticence-predicts-school-change-capacity",
 "path":"claims/racial-reticence-predicts-school-change-capacity.md",
 "status":"draft",
-"title":"A school's inability to talk openly about race is a proxy for its general capacity for change",
+"title":"Payne suspects that a school's inability to talk openly about race predicts its capacity for change",
 "type":"claim"
 },
 {
@@ -122834,15 +122734,6 @@
 "type":"claim"
 },
 {
-"description":"Repetitive drill and grammar-focused instruction are ineffective teaching devices for language acquisition",
-"evidence_strength":"weak",
-"id":"repetitive-drill-grammar-focus-ineffective",
-"path":"claims/repetitive-drill-grammar-focus-ineffective.md",
-"status":"draft",
-"title":"Repetitive drill and grammar-focused instruction are ineffective teaching devices for language acquisition",
-"type":"claim"
-},
-{
 "description":"Repetitivist group included significantly more lower-grade students while Multifunctionist group included more upper-grade students",
 "evidence_strength":"moderate",
 "id":"repetitivist-lower-grade-multifunctionist-upper-grade",
@@ -123362,7 +123253,7 @@
 "id":"resolving-participation-double-bind-requires-redesigned-activity-structures",
 "path":"claims/resolving-participation-double-bind-requires-redesigned-activity-structures.md",
 "status":"draft",
-"title":"Resolving a participation double-bind requires redesigning activity structures, not just adding outreach",
+"title":"In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned",
 "type":"claim"
 },
 {
@@ -131552,7 +131443,7 @@
 "id":"service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment",
 "path":"claims/service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md",
 "status":"draft",
-"title":"Service learning experiences and in-class civic learning opportunities have a larger impact on high school students' commitment to civic participation than other school, family, or community influences",
+"title":"Service learning and in-class civic learning opportunities are more strongly associated with high school students' later commitment to civic participation than the other school, family and community factors studied",
 "type":"claim"
 },
 {
@@ -143720,7 +143611,7 @@
 "id":"sustained-coaching-contact-hours",
 "path":"claims/sustained-coaching-contact-hours.md",
 "status":"draft",
-"title":"Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours",
+"title":"In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours",
 "type":"claim"
 },
 {
@@ -150938,15 +150829,6 @@
 "type":"claim"
 },
 {
-"description":"Because schools implementing Tiers 1 and 2 with fidelity showed no effect, the authors attribute the reduction in exclusions to fidelity-implemented intensive (Tier 3) supports",
-"evidence_strength":"weak",
-"id":"tier3-intensive-supports-drove-exclusion-reduction",
-"path":"claims/tier3-intensive-supports-drove-exclusion-reduction.md",
-"status":"draft",
-"title":"Because schools implementing Tiers 1 and 2 with fidelity showed no effect, the authors attribute the reduction in exclusions to fidelity-implemented intensive (Tier 3) supports",
-"type":"claim"
-},
-{
 "description":"After the first year of implementation, fewer than half of 2010 TIF districts implemented all four required program components for teachers, though a large majority implemented at least three",
 "evidence_strength":"moderate",
 "id":"tif-2010-fewer-than-half-implemented-all-four-components",
@@ -151640,6 +151522,7 @@
 "type":"claim"
 },
 {
+"aliases":["low-fidelity-pbis-smaller-student-improvements"],
 "description":"Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)",
 "evidence_strength":"moderate",
 "id":"tkss-fidelity-ancova-interaction-problem-behavior",
@@ -153054,15 +152937,6 @@
 "type":"claim"
 },
 {
-"description":"Students in treatment classrooms showed less disruptive behavior than control classrooms in all 12 studies",
-"evidence_strength":"moderate",
-"id":"treatment-classrooms-less-disruptive-than-control",
-"path":"claims/treatment-classrooms-less-disruptive-than-control.md",
-"status":"draft",
-"title":"Students in treatment classrooms showed less disruptive behavior than control classrooms in all 12 studies",
-"type":"claim"
-},
-{
 "description":"Treatment-group students increased significantly more than Delayed Treatment students on math-in-science-context tasks from pretest to midtest and pretest to posttest",
 "evidence_strength":"moderate",
 "id":"treatment-greater-gains-math-in-science-context-tasks",
@@ -153492,7 +153366,7 @@
 "id":"trust-not-equivalent-to-ai-accuracy",
 "path":"claims/trust-not-equivalent-to-ai-accuracy.md",
 "status":"draft",
-"title":"Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy",
+"title":"A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate",
 "type":"claim"
 },
 {
@@ -155462,6 +155336,7 @@
 "type":"claim"
 },
 {
+"aliases":["treatment-classrooms-less-disruptive-than-control"],
 "description":"Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)",
 "evidence_strength":"moderate",
 "id":"universal-classroom-management-reduces-problem-behavior",
@@ -156835,7 +156710,7 @@
 "id":"verbal-problem-scores-resistant-to-forgetting",
 "path":"claims/verbal-problem-scores-resistant-to-forgetting.md",
 "status":"draft",
-"title":"Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks",
+"title":"On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems",
 "type":"claim"
 },
 {
@@ -252869,7 +252744,7 @@
 "active-defenses-limited-partial-protection":"active-defenses-limited-partial-protection",
 "active-el-reporting-bias":"active-el-reporting-bias",
 "active-els-underrepresented-four-year-colleges":"active-els-underrepresented-four-year-colleges",
-"active-engagement-higher-learning-gains-than-lecture":"active-engagement-higher-learning-gains-than-lecture",
+"active-engagement-higher-learning-gains-than-lecture":"active-learning-improves-exam-performance",
 "active-learning-benefits-hold-across-stem-disciplines":"active-learning-benefits-hold-across-stem-disciplines",
 "active-learning-conditions-more-other-pedagogical-features":"active-learning-conditions-more-other-pedagogical-features",
 "active-learning-courses-retain-lecture-component":"active-learning-courses-retain-lecture-component",
@@ -252881,7 +252756,7 @@
 "active-learning-narrows-achievement-gaps":"active-learning-narrows-achievement-gaps",
 "active-learning-narrows-passing-rate-gap-45-percent":"active-learning-narrows-passing-rate-gap-45-percent",
 "active-learning-pedagogies-qr-redesign":"active-learning-pedagogies-qr-redesign",
-"active-learning-raises-stem-exam-performance-047-sd":"active-learning-raises-stem-exam-performance-047-sd",
+"active-learning-raises-stem-exam-performance-047-sd":"active-learning-improves-exam-performance",
 "active-learning-reduces-exam-achievement-gaps-33-percent":"active-learning-reduces-exam-achievement-gaps-33-percent",
 "active-learning-strongest-small-classes":"active-learning-strongest-small-classes",
 "active-participation-beats-mere-membership-for-learning":"active-participation-beats-mere-membership-for-learning",
@@ -257479,7 +257354,7 @@
 "dynemb-tracks-knowledge-without-skill-tags":"dynemb-tracks-knowledge-without-skill-tags",
 "dyslexia-knowledge-term-versus-explanation-items":"dyslexia-knowledge-term-versus-explanation-items",
 "dyslexlens-mean-answer-relevancy-075":"dyslexlens-mean-answer-relevancy-075",
-"e-teacher-shift-to-facilitator-role":"e-teacher-shift-to-facilitator-role",
+"e-teacher-shift-to-facilitator-role":"e-teachers-widen-object-toward-independent-learning",
 "e-teachers-widen-object-toward-independent-learning":"e-teachers-widen-object-toward-independent-learning",
 "e-trials-large-sample-studies":"e-trials-large-sample-studies",
 "e2l-coaching-staar-math-outperformed":"e2l-coaching-staar-math-outperformed",
@@ -258014,7 +257889,7 @@
 "emotions-differentiate-from-generalized-excitement":"emotions-differentiate-from-generalized-excitement",
 "empathetic-chatbot-faster-intention-selfefficacy-growth":"empathetic-chatbot-faster-intention-selfefficacy-growth",
 "empathetic-condition-least-attrition":"empathetic-condition-least-attrition",
-"empathic-mindset-teacher-intervention-lowers-suspensions":"empathic-mindset-teacher-intervention-lowers-suspensions",
+"empathic-mindset-teacher-intervention-lowers-suspensions":"brief-intervention-empathic-discipline-cuts-suspensions",
 "empathy-checklist-item-largest-gain":"empathy-checklist-item-largest-gain",
 "empathy-dimensions-correlate-with-outcomes":"empathy-dimensions-correlate-with-outcomes",
 "empathy-interviews-adopted-by-improvement-teams":"empathy-interviews-adopted-by-improvement-teams",
@@ -258779,7 +258654,7 @@
 "few-edtech-companies-peer-review-evaluations":"few-edtech-companies-peer-review-evaluations",
 "few-individuals-common-variance-model-reliability-masking":"few-individuals-common-variance-model-reliability-masking",
 "few-kindergartners-synthetic-scientific-models":"few-kindergartners-synthetic-scientific-models",
-"few-literacy-apps-mention-research-descriptions":"few-literacy-apps-mention-research-descriptions",
+"few-literacy-apps-mention-research-descriptions":"literacy-apps-lack-research-reference",
 "few-models-for-growth-with-multiple-raters":"few-models-for-growth-with-multiple-raters",
 "few-parents-offered-decision-input-opportunities":"few-parents-offered-decision-input-opportunities",
 "few-prior-studies-online-instruction-operations-effects":"few-prior-studies-online-instruction-operations-effects",
@@ -259864,7 +259739,7 @@
 "gpt-4o-final-turn-correctness-labeling-is-close-to-human-level":"gpt-4o-final-turn-correctness-labeling-is-close-to-human-level",
 "gpt-4o-mini-lowest-act-balance-mae":"gpt-4o-mini-lowest-act-balance-mae",
 "gpt-4o-reference-outperformed-quantised-models-human-ratings":"gpt-4o-reference-outperformed-quantised-models-human-ratings",
-"gpt-access-supported-practice-poorer-unaided-test":"gpt-access-supported-practice-poorer-unaided-test",
+"gpt-access-supported-practice-poorer-unaided-test":"gpt4-access-harms-learning-after-withdrawal",
 "gpt-base-crutch-mechanism":"gpt-base-crutch-mechanism",
 "gpt-base-harms-unassisted-exam-performance":"gpt-base-harms-unassisted-exam-performance",
 "gpt-base-improves-assisted-practice-performance":"gpt-base-improves-assisted-practice-performance",
@@ -260052,7 +259927,7 @@
 "gstg-supported-28600-aspiring-educators":"gstg-supported-28600-aspiring-educators",
 "gt-aux-consistently-outperforms-no-aux-geometry":"gt-aux-consistently-outperforms-no-aux-geometry",
 "guaranteed-funding-floors-32-states":"guaranteed-funding-floors-32-states",
-"guarded-ai-placement-prevents-unaided-exam-harm":"guarded-ai-placement-prevents-unaided-exam-harm",
+"guarded-ai-placement-prevents-unaided-exam-harm":"gpt4-access-harms-learning-after-withdrawal",
 "guardrails-rejection-rates-development-testing":"guardrails-rejection-rates-development-testing",
 "guessing-probability-five-benchmark-samples":"guessing-probability-five-benchmark-samples",
 "guest-mode-equity-metacognitive-labor":"guest-mode-equity-metacognitive-labor",
@@ -262427,7 +262302,7 @@
 "low-epistemic-engagement-788-percent-non-mastery":"low-epistemic-engagement-788-percent-non-mastery",
 "low-equity-participants-converge-toward-high-equity-responses":"low-equity-participants-converge-toward-high-equity-responses",
 "low-examinee-effort-threat-to-score-validity":"low-examinee-effort-threat-to-score-validity",
-"low-fidelity-pbis-smaller-student-improvements":"low-fidelity-pbis-smaller-student-improvements",
+"low-fidelity-pbis-smaller-student-improvements":"tkss-fidelity-ancova-interaction-problem-behavior",
 "low-freshman-absence-high-graduation":"low-freshman-absence-high-graduation",
 "low-goal-attainment-child-goals-higher-rate":"low-goal-attainment-child-goals-higher-rate",
 "low-group-first-graders-read-few-words":"low-group-first-graders-read-few-words",
@@ -264075,7 +263950,7 @@
 "offloading-content-constrains-volume":"offloading-content-constrains-volume",
 "offloading-illusion-ai-effort-savings":"offloading-illusion-ai-effort-savings",
 "offloading-mediation-lower-independent-hot":"offloading-mediation-lower-independent-hot",
-"offloading-to-ai-costs-learning":"offloading-to-ai-costs-learning",
+"offloading-to-ai-costs-learning":"gpt4-access-harms-learning-after-withdrawal",
 "offloading-volume-masks-content-differences":"offloading-volume-masks-content-differences",
 "ogap-math-pssa-effect-020-two-year-rct":"ogap-math-pssa-effect-020-two-year-rct",
 "ogap-trial-high-poverty-urban-sample":"ogap-trial-high-poverty-urban-sample",
@@ -264591,10 +264466,10 @@
 "pax-gbg-reading-effect-019":"pax-gbg-reading-effect-019",
 "pay-for-performance-implementation-gap-bonus-unawareness":"pay-for-performance-implementation-gap-bonus-unawareness",
 "pay-parity-policies-nonlea-teachers":"pay-parity-policies-nonlea-teachers",
-"pbis-fidelity-conditions-no-difference-iss-single-oss":"pbis-fidelity-conditions-no-difference-iss-single-oss",
-"pbis-reduces-clinically-significant-behavior-problems":"pbis-reduces-clinically-significant-behavior-problems",
+"pbis-fidelity-conditions-no-difference-iss-single-oss":"pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions",
+"pbis-reduces-clinically-significant-behavior-problems":"pbis-reduces-externalizing-total-problems-ed-self-contained",
 "pbis-reduces-externalizing-total-problems-ed-self-contained":"pbis-reduces-externalizing-total-problems-ed-self-contained",
-"pbis-reduces-syndrome-scores-ed-students":"pbis-reduces-syndrome-scores-ed-students",
+"pbis-reduces-syndrome-scores-ed-students":"pbis-reduces-externalizing-total-problems-ed-self-contained",
 "pbis-suspensions-decreased-41-percent":"pbis-suspensions-decreased-41-percent",
 "pbis-three-tiers-fidelity-fewer-oss-pandemic":"pbis-three-tiers-fidelity-fewer-oss-pandemic",
 "pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions":"pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions",
@@ -266441,7 +266316,7 @@
 "repeating-scripted-question-lowers-recovery":"repeating-scripted-question-lowers-recovery",
 "repetition-translation-scaffolding-hinders-learning":"repetition-translation-scaffolding-hinders-learning",
 "repetitions-increase-acceptance-both-message-types":"repetitions-increase-acceptance-both-message-types",
-"repetitive-drill-grammar-focus-ineffective":"repetitive-drill-grammar-focus-ineffective",
+"repetitive-drill-grammar-focus-ineffective":"drill-and-grammar-focus-ineffective-for-l2-acquisition",
 "repetitivist-lower-grade-multifunctionist-upper-grade":"repetitivist-lower-grade-multifunctionist-upper-grade",
 "replacement-frame-near-universal-in-essays":"replacement-frame-near-universal-in-essays",
 "replay-most-prompt-intensive-view-31-prompts":"replay-most-prompt-intensive-view-31-prompts",
@@ -269636,7 +269511,7 @@
 "tibetcpr-depth-progressive-within-session-gain":"tibetcpr-depth-progressive-within-session-gain",
 "tibetcpr-high-usability-sus-84-3":"tibetcpr-high-usability-sus-84-3",
 "tibetcpr-rhythm-stabilisation-exceeds-unguided-practice":"tibetcpr-rhythm-stabilisation-exceeds-unguided-practice",
-"tier3-intensive-supports-drove-exclusion-reduction":"tier3-intensive-supports-drove-exclusion-reduction",
+"tier3-intensive-supports-drove-exclusion-reduction":"pbis-three-tiers-fidelity-fewer-oss-pandemic",
 "tif-2010-fewer-than-half-implemented-all-four-components":"tif-2010-fewer-than-half-implemented-all-four-components",
 "tif-average-bonus-below-recommended-share":"tif-average-bonus-below-recommended-share",
 "tif-bonus-schools-lower-satisfaction":"tif-bonus-schools-lower-satisfaction",
@@ -269872,7 +269747,7 @@
 "travel-outside-neighborhood-reduces-single-gender-support":"travel-outside-neighborhood-reduces-single-gender-support",
 "trc-spanish-least-correlated-with-other-assessments":"trc-spanish-least-correlated-with-other-assessments",
 "treatment-amenability-subscales-null-manova":"treatment-amenability-subscales-null-manova",
-"treatment-classrooms-less-disruptive-than-control":"treatment-classrooms-less-disruptive-than-control",
+"treatment-classrooms-less-disruptive-than-control":"universal-classroom-management-reduces-problem-behavior",
 "treatment-greater-gains-math-in-science-context-tasks":"treatment-greater-gains-math-in-science-context-tasks",
 "treatment-sample-rural-middle-schools-assistments":"treatment-sample-rural-middle-schools-assistments",
 "treatment-science-pretest-independent-effects":"treatment-science-pretest-independent-effects",

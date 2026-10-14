@@ -35,7 +35,7 @@ Khan Abdus Salam, Khan Muhammad Nasir Ayub, Khan Muhammad I. (2025). Comparing t
 
 `q2 · i?` · `causal · r2`
 
-Quasi-experimental study of 21 emergency care professionals randomized to a lecture (Group A, n=10) or a 4C/ID workshop (Group B, n=11); independent t-tests compared 25-item MCQ scores. Post-test scores 'remained comparable' (p=0.883); no effect size was printed.
+A study of 21 emergency care professionals, which its authors call quasi-experimental and also describe as "randomized into two groups" (both in the abstract), assigning them to a lecture (Group A, n=10) or a 4C/ID workshop (Group B, n=11); independent t-tests compared 25-item MCQ scores. Post-test scores 'remained comparable' (p=0.883); no effect size was printed.
 
 > "Both groups improved after their respective interventions, but post-test scores remained comparable (Group A: 21.90 ± 2.38 vs. Group B: 21.73 ± 2.87; p=0.883)."
 

@@ -69,6 +69,5 @@ Confirmatory test of H2b on the six-item unaided final test in the same preregis
 - [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
 - [Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance](llm-access-no-significant-lower-unaided-performance.md) — related
 - [Metacognitive feedback disrupted the tendency to repeat answer offloading across consecutive items without changing whether participants engaged with the assistant](metacognitive-feedback-disrupts-repeated-answer-offloading.md) — a narrower finding that bears on this claim
-- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — related
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it](reward-reduced-assistant-use-feedback-changed-use-composition.md) — related
-- [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — related

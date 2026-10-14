@@ -26,7 +26,7 @@ sources:
 # Guided Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (6 for, 8 mixed) · 19 studies (8 causal, 4 review, 2 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 1 of 19 report an effect size · 10 claims rest on one study
+> **Evidence** · 14 claims (6 for, 8 mixed) · 24 studies (8 causal, 7 theoretical, 4 review, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 1 of 24 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -195,6 +195,6 @@ Guided practice matters because early application is where misunderstanding beco
 
 -->
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](../claims/adaptive-fading-beats-fixed-and-linear-scaffolding.md) [+W]
-- [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](../claims/gpt-access-supported-practice-poorer-unaided-test.md) [~W]
+- [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~W]
 - [Immediate task success does not establish learning that persists without AI support](../claims/immediate-performance-not-evidence-of-independent-learning.md) [~W]
 - [Support form differentiates the scaffolding–engagement association: feedback and explaining align most with constructive engagement, with a task-ecology crossover between instructing and modelling](../claims/support-form-differentiates-engagement.md) [~W]

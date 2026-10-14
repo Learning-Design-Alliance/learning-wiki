@@ -146,7 +146,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Immediate task success does not establish learning that persists without AI support](../claims/immediate-performance-not-evidence-of-independent-learning.md) [+W]
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](../claims/vocabulary-forgetting-pattern-decline-then-rise.md) [~W]
 - [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](../claims/simulation-advantage-immediate-not-sustained.md) [-W]
-- [A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)](../claims/genai-learning-gain-persists-one-week.md) [+W]
+- [One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 SD), short of statistical significance (p = 0.068)](../claims/genai-learning-gain-persists-one-week.md) [+W]
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](../claims/h3-product-process-dissociation-hypothesis.md) [+W]
 - [Mastery learning gains persist at follow-up examinations about eight weeks after instruction](../claims/mastery-learning-gains-persist-at-follow-up.md) [+M]
 

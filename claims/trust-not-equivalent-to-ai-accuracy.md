@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy"
+title: "A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate"
 description: "Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy"
 id: trust-not-equivalent-to-ai-accuracy
 status: draft
@@ -14,18 +14,19 @@ sources:
     title: "Malikova Z, Ualikhanova B, Turmambekov T, Rakhashev B and Berdaliyev D (2026). Artificial intelligence in university physics education: a systematic review of empirical studies. Front. Educ. 11:1964629. https://doi.org/10.3389/feduc.2026.1964629"
     author: Malikova Z, Ualikhanova B, Turmambekov T, Rakhashev B and Berdaliyev D
     q: 2
-    i: 3
+    i: "?"
     kind: associational
     rigour: "?"
 ---
 
-# Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy
+# A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r?` · `q2` · `i3` large
+> **Evidence** · 1 study · associational `r?` · `q2`
+<!-- title before 2026-10-14: Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy -->
 
 ## Subclaims
-`q2 i3` Ding et al. (2023) found ChatGPT achieved 85% overall accuracy across 362 questions, yet high-trust students agreed with responses 100% of the time despite 82% mean accuracy, with higher trust linked to more favorable perceptions (η2 = .257). [→ Malikova Z 2026](#malikova-z-2026)
+`q2 i?` Ding et al. (2023) found ChatGPT achieved 85% overall accuracy across 362 questions, yet high-trust students agreed with responses 100% of the time despite 82% mean accuracy, with higher trust linked to more favorable perceptions (η2 = .257). [→ Malikova Z 2026](#malikova-z-2026)
 
 ## Evidence
 
@@ -33,7 +34,7 @@ sources:
 
 Malikova Z, Ualikhanova B, Turmambekov T, Rakhashev B and Berdaliyev D (2026). Artificial intelligence in university physics education: a systematic review of empirical studies. Front. Educ. 11:1964629. https://doi.org/10.3389/feduc.2026.1964629
 
-`q2 · i3` · `associational · r?`
+`q2 · i? · the printed η2 = .257 is for trust and perceptions, not for agreement versus accuracy` · `associational · r?`
 
 The review reports this mixed-methods study of 40 undergraduates in Section 3.4; Table 5 lists ANOVA: F(2,37) = 6.383, p = .004, "η2 = .257" for the trust-related comparison, a large effect.
 

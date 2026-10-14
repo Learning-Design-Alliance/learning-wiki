@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race
+title: Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race
 description: Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race
 id: colorblindness-blocks-distribution-discussion
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race
+# Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+<!-- title before 2026-10-14: Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race -->
 
 ## Subclaims
 `q1 i?` When educators claim to be color blind, they lose the ability to discuss racial disparities such as the absence of black boys from honors tracks. [→ Payne 2005](#payne-2005)

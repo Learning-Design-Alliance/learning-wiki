@@ -38,7 +38,7 @@ The open-ended scenario is a pedagogical device designed by DiPietro (1981) that
 
 ### Claims
 
-- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
 
 ## Related Patterns
 - 

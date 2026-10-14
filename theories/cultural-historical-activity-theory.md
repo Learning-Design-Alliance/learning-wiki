@@ -21,7 +21,7 @@ sources:
 # Cultural-Historical Activity Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 7 studies (5 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 2 of 7 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 7 studies (5 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 1 of 7 report an effect size · 8 claims rest on one study
 
 ## Description
 Cultural-historical activity theory (CHAT) holds that human thinking and learning cannot be separated from the culturally mediated activity in which they occur. Building on Vygotsky's insight that action is mediated rather than a direct stimulus-response link, CHAT analyzes learning through activity systems: a subject pursuing an object (a motive) using tools, within a community governed by rules and a division of labor. Object formation is treated as a joint, evolving achievement of participants rather than a fixed target defined in advance — the same activity can shift meaning as different groups (e.g., students, teachers, outside partners) bring different histories and interests to it. Two concepts extend the framework for settings that cross institutional boundaries: a **boundary object** is something plastic enough to adapt to each group's local needs yet stable enough to hold a shared identity across groups, and **dialogicality** describes how meaning is made by encounters between old (there-and-then) and new (here-and-now) meanings carried into the activity by different participants.
@@ -44,7 +44,7 @@ Cultural-historical activity theory (CHAT) holds that human thinking and learnin
 ## Claims
 
 - [Community projects need conceptual framing to avoid narrowing the learning object](../claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) [~W]
-- [Resolving a participation double-bind requires redesigning activity structures, not just adding outreach](../claims/resolving-participation-double-bind-requires-redesigned-activity-structures.md) [+M]
+- [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](../claims/resolving-participation-double-bind-requires-redesigned-activity-structures.md) [+M]
 - [Engineering students develop implicit rules for using GenAI as a self-directed, efficient learning tool when traditional educational tools fall short](../claims/genai-implicit-rules-self-directed-efficient-learning.md) [+W] — attached 2026-10-10 from Tiina Leino Lindell (2026), which proposed "Cultural-Historical Activity Theory as a framework for analyzing how GenAI transforms educational activity systems".
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](../claims/genai-immediacy-reduces-teacher-interactions.md) [+W] — attached 2026-10-10 from Tiina Leino Lindell (2026), which proposed "Cultural-Historical Activity Theory as a framework for analyzing how GenAI transforms educational activity systems".
 - [CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence](../claims/type2-contradictions-thwart-sdt-needs.md) [+W] — attached 2026-10-10 from Haiyang Xin et al. (2026), which proposed "CHAT-SDT diagnostic framework for transformative teacher professional development".

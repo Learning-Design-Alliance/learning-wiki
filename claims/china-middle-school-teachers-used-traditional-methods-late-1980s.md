@@ -44,6 +44,6 @@ The article cites a 1990 investigation by Zuo reporting that "87% of teachers in
 
 ## Related Claims
 - [Secondary school teachers in 1980s China had low formal English qualifications](china-1980s-secondary-teachers-low-qualifications.md) — related
-- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
 - [Communicative Approach introduced to China in the 1990s was initially not very communicative](clt-china-1990s-initial-weak-adoption.md) — related
 - [Students most often attributed their grammar-learning beliefs to their use of English outside the classroom, followed by high-school teachers and classmates](factors-shaping-grammar-beliefs-outside-use-top.md) — related

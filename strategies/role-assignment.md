@@ -12,7 +12,7 @@ generated:
 # Role Assignment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 quant-synthesis, 1 theoretical), `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Role assignment gives each member of a small group a defined function — such as facilitator, recorder, timekeeper, or skeptic — that carries distinct responsibilities for the group's work. The strategy structures collaboration by distributing cognitive and social labor, preventing free-riding, and ensuring that every learner has a concrete, accountable contribution to make.

@@ -44,7 +44,7 @@ This is the interviewee's theoretical argument, not an empirical test. He report
 
 ## Related Claims
 - [Dynamic systems theory and sociocultural theory are incommensurable because language is a complex adaptable, not adaptive, system](dst-sct-incommensurable-language-adaptable-system.md) — related
-- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
 - [Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena](learners-differ-in-mediation-responsiveness.md) — related
 - [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related
 - [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related

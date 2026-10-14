@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 17,884 |
-| Evidence entries | 21,194 |
+| Claims | 17,869 |
+| Evidence entries | 21,182 |
 | Distinct studies | 5,117 |
-| Claims resting on one study | 17,416 (97%) |
+| Claims resting on one study | 17,400 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 999 of 5,117 (20%) |
+| Studies reporting an effect size | 998 of 5,117 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 66 | 552 | 202 | 372 | 1,192 |
+| causal | 66 | 552 | 203 | 372 | 1,193 |
 | quant-synthesis | 43 | 93 | 38 | 116 | 290 |
 | review | 57 | 298 | 113 | 113 | 581 |
-| associational | 29 | 627 | 301 | 254 | 1,211 |
+| associational | 29 | 627 | 300 | 254 | 1,210 |
 | qualitative | 113 | 276 | 72 | 89 | 550 |
-| design | 62 | 547 | 166 | 37 | 812 |
-| theoretical | 75 | 283 | 70 | 53 | 481 |
+| design | 62 | 547 | 165 | 37 | 811 |
+| theoretical | 75 | 283 | 71 | 53 | 482 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 772 (15%) | 3,267 (64%) | 966 (19%) | 112 (2%) |
+| 771 (15%) | 3,268 (64%) | 966 (19%) | 112 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,416, 2: 393, 3: 64, 4 or more: 11.
+**Studies per claim:** 0: 0, 1: 17,400, 2: 392, 3: 65, 4 or more: 12.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -79,7 +79,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 319 pages | 2 | q3 | 0 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 226 pages | 2 | q3 | 0 of 2 |
 | [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 221 pages | 3 | q3–q4 | 1 of 3 |
-| [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 218 pages | 2 | q3–q4 | 2 of 2 |
+| [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 219 pages | 3 | q2–q4 | 2 of 3 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 210 pages | 3 | q2–q3 | 2 of 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 206 pages | 3 | q1–q3 | 0 of 3 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 190 pages | 5 | q2–q4 | 0 of 5 |
@@ -102,7 +102,7 @@ Of the 37 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-191 claims are cited both ways.
+190 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [processes](processes/index.md) | 18 | 17 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 29 | 1 | 0 |
 | [theories](theories/index.md) | 1,372 | 1,156 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 14 | 14 | 61.5 | 0 |
+| [learner-variables](learner-variables/index.md) | 14 | 14 | 62 | 0 |
 | [designs](designs/index.md) | 719 | 472 | 1 | 0 |
 | [products](products/index.md) | 1,581 | 1,267 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 428 | 375 | 1 | 0 |

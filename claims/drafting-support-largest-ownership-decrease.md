@@ -9,14 +9,14 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 sources:
-  - id: c2-contrast
-    title: c2-contrast
+  - id: gero-et-al-2026
+    title: Gero et al. 2026
     q: 3
     i: "?"
     kind: causal
     rigour: 2
-  - id: c3-contrast
-    title: c3-contrast
+  - id: gero-et-al-2026-2
+    title: Gero et al. 2026 (2)
     q: 3
     i: "?"
     kind: causal
@@ -29,12 +29,12 @@ sources:
 > **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` The ai draft condition differed from the average of ai plan and ai revision by −1.65 ownership points (p<.001). [→ c2-contrast](#c2-contrast)
-`q3 i?` Planning support preserved more ownership than revision support (+0.73 points, p=.0016). [→ c3-contrast](#c3-contrast)
+`q3 i?` The ai draft condition differed from the average of ai plan and ai revision by −1.65 ownership points (p<.001). [→ Gero et al. 2026](#gero-et-al-2026)
+`q3 i?` Planning support preserved more ownership than revision support (+0.73 points, p=.0016). [→ Gero et al. 2026 (2)](#gero-et-al-2026-2)
 
 ## Evidence
 
-### c2-contrast
+### Gero et al. 2026
 
 Katy Ilonka Gero, Tao Long, Carly Schnitzler, and Paramveer S. Dhillon. 2026. From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership. In Designing Interactive Systems Conference (DIS '26), June 13–17, 2026, Singapore, Singapore. ACM, New York, NY, USA. https://doi.org/10.1145/3800645.3813003
 
@@ -44,7 +44,7 @@ Pre-planned contrast C2 from the between-subjects experiment (n=253) on prompt-a
 
 > "C2(ai–draftvs. the average ofai–planandai–revision) was −1.65points (𝑝<. 001), showing that assistance during drafting lowers ownership substantially more than assistance during planning or revision."
 
-### c3-contrast
+### Gero et al. 2026 (2)
 
 Katy Ilonka Gero, Tao Long, Carly Schnitzler, and Paramveer S. Dhillon. 2026. From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership. In Designing Interactive Systems Conference (DIS '26), June 13–17, 2026, Singapore, Singapore. ACM, New York, NY, USA. https://doi.org/10.1145/3800645.3813003
 

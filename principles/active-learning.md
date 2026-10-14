@@ -27,7 +27,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (16 for, 17 mixed, 1 against) · 31 studies (8 causal, 6 associational, 5 quant-synthesis, 5 review, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 7 of 31 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (15 for, 17 mixed, 1 against) · 31 studies (8 causal, 6 associational, 5 quant-synthesis, 5 review, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 7 of 31 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -182,7 +182,7 @@ The effect size for active learning in STEM is unusually large and consistent fo
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M] — direct observational evidence for why moving from passive lecture toward active formats changes the kind of thinking students actually do in class
 
 -->
-- [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](../claims/active-engagement-higher-learning-gains-than-lecture.md) [+W]
+- [Actively engaging learning environments show higher learning gains than one-way lecture environments, according to a National Academies consensus study cited in one article](../claims/active-learning-improves-exam-performance.md) [+W]
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](../claims/active-learning-conditions-more-other-pedagogical-features.md) [~W]
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](../claims/class-size-level-discipline-not-significant-moderators.md) [+W]
 - [Students rated the manual annotation activity as more effective than traditional lectures for understanding bias and reported increased motivation](../claims/annotation-more-effective-than-lectures-for-bias.md) [+W]

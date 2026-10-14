@@ -71,7 +71,7 @@ Eleventh-grade students in five San Francisco high schools took part in a six-mo
 
 **Text complexity as a moderator.** Disciplinary texts often carry heavy conceptual and syntactic loads. Where text demands exceed learners' capacity, disciplinary strategies may not compensate; designers should pair strategy instruction with [chunking](../principles/chunking.md) and other load-management supports — see [Cognitive load management](../principles/cognitive-load-management.md).
 
-**Evidence status.** This page currently has no curated evidence entries. Studies still need to be added before the claim's strength can be rated; until then, treat the claim as a promising but unverified hypothesis rather than an established effect. Candidate evidence to curate includes large quasi-experimental evaluations of disciplinary literacy programs in middle and high school, and studies comparing disciplinary vs. generic strategy conditions on discipline-specific text comprehension.
+**Evidence status.** This page has two evidence entries: a cluster-randomised trial in high-school science (Goldman et al. 2019; small comprehension gains, no gain in written explanations) and a quasi-experiment in high-school history (Reisman 2012; effect sizes not recorded here). Both compare disciplinary-literacy instruction with usual instruction, not with well-taught generic strategy instruction, so the generic-vs-disciplinary question above is untested in the wiki. Further evidence to curate includes studies comparing disciplinary vs. generic strategy conditions on discipline-specific text comprehension, and evaluations in middle school.
 
 ## Related Claims
 

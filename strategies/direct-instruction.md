@@ -13,7 +13,7 @@ generated:
 # Direct Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 11 claims (10 for, 1 mixed) · 21 studies (7 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 21 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 mixed) · 22 studies (7 causal, 7 quant-synthesis, 5 review, 2 theoretical, 1 associational), `q2`–`q4` · 7 of 22 report an effect size · 3 claims rest on one study
 
 ## Description
 Direct Instruction (DI) is a highly structured, teacher-led strategy in which content is broken into small sequential steps, modeled explicitly by the instructor, practiced with high rates of learner response, and followed by immediate corrective feedback. It encompasses both the formal Engelmann-style DI programs (e.g., *Reading Mastery*, *Corrective Mathematics*) and the broader family of explicit teaching routines described by Rosenshine — daily review, presentation in small units, guided practice, and independent practice.

@@ -42,7 +42,7 @@ The article analyzes and synthesizes Krashen's SLA Theory, Larsen-Freeman's Comp
 - [Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency](../claims/fluency-precedes-accuracy-oral-l2.md) [+W]
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](../claims/learner-centeredness-universal-theme-sla.md) [+W]
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](../claims/mother-tongue-affects-sla-production.md) [+W]
-- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+M]
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+M]
 
 ## Related Theories
 

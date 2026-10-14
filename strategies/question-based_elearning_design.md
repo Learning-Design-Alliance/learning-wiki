@@ -12,7 +12,7 @@ generated:
 # Question-based eLearning Design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (6 quant-synthesis, 2 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 12 studies (6 quant-synthesis, 2 causal, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 5 of 12 report an effect size
 
 ## Description
 Question-based eLearning design replaces the traditional expository method with an inquiry-oriented one. Instead of presenting information as statements, the course poses questions — through realistic scenarios, concept-identification examples, or complex problems — and learners gather information to answer them. The question, not the content dump, becomes the organizing unit of the learning experience, promoting active exploration and critical thinking.

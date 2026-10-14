@@ -38,7 +38,7 @@ The bibliography describes, citing Comeau (1992), an interactive oral grammar ex
 
 ### Claims
 
-- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](../claims/input-processing-insufficient-for-adult-competence-terrell.md) [~W]
 
 ## Related Patterns

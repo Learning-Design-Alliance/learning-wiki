@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
 
 ## Subclaims
-`q3 i?` For both total coaching hours and total PD hours, the meta-analytic regressions find no evidence that higher dosage produces larger effects on instruction or achievement. [→ Kraft 2018](#kraft-2018)
+`q2 i?` For both total coaching hours and total PD hours, the meta-analytic regressions find no evidence that higher dosage produces larger effects on instruction or achievement. [→ Kraft 2018](#kraft-2018)
 
 ## Evidence
 

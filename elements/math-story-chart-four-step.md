@@ -43,7 +43,7 @@ The Math Story Chart is a teacher-made graphic organizer based on Polya's four-s
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness](../claims/interview-perceptions-problem-solving-plan-steps.md) [~W]
-- [Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks](../claims/verbal-problem-scores-resistant-to-forgetting.md) [+W]
+- [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](../claims/verbal-problem-scores-resistant-to-forgetting.md) [+W]
 - [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](../claims/explicit-strategy-instruction-no-significant-gain.md) [-W]
 
 ## Related Elements

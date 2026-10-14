@@ -1,8 +1,9 @@
 ---
 type: claim
-title: Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition
+title: A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition
 description: Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition
 id: drill-and-grammar-focus-ineffective-for-l2-acquisition
+aliases: [repetitive-drill-grammar-focus-ineffective]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -19,13 +20,17 @@ sources:
     rigour: 1
 ---
 
-# Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition
+# A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+<!-- title before 2026-10-14: Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition -->
 
 ## Subclaims
+
 `q2 i?` The packet asserts, citing Krashen, that repetitive drill and a focus on grammar are ineffective teaching devices for second language acquisition. [→ Calderon 1982](#calderon-1982)
+
+`q1 i?` Both theory and practical experience confirm that repetitive drill and focus on grammar are ineffective teaching devices, and grammar approaches shown ineffective for adults are even less effective for children. [→ Calderon 1982](#calderon-1982)
 
 ## Evidence
 
@@ -39,10 +44,24 @@ The packet's Rationale section asserts, citing Krashen (1981a), that "repetitive
 
 > "it has been confirmed by both theory and practical experiences that repetitive drill and focus on grammar are inef- fective teaching devices (Krashen, 1981a)"
 
+<!-- merged 2026-10-14 from repetitive-drill-grammar-focus-ineffective: that page's entry for this study, which differed from the one above, kept verbatim.
+### Calderon 1982
+
+Calderon, Margarita; DiPietro, Robert J.; Larsen-Pusey, Mary Ann; Rubio, Olga. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Series B. Teacher Edition. Evaluation, Dissemination and Assessment Center, Dallas. https://eric.ed.gov/?id=ED226608
+
+`q1 · i?` · `design · r1`
+
+The packet's rationale section asserts, citing Krashen (1981a), that "repetitive drill and focus on grammar are ineffective" teaching devices; no data or study design is reported in the packet itself, and no effect size is printed.
+
+> "it has bee confirmed by both theory and practical'experiencet that repetitive drill and focus on grammar are inef-fective .teaUling devices' (Krashen, 1.981a)."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](monitoring-improves-learnable-rule-accuracy.md) — reports the opposite
@@ -59,4 +78,4 @@ The packet's Rationale section asserts, citing Krashen (1981a), that "repetitive
 - [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](instruction-little-effect-on-route-of-acquisition.md) — related
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
 - [Grammar instruction and skill drills show little carryover to composition success](grammar-drills-little-carryover-composition.md) — related
-- [Repetitive drill and grammar-focused instruction are ineffective teaching devices for language acquisition](repetitive-drill-grammar-focus-ineffective.md) — possibly the same claim (merge candidate)
+- [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related

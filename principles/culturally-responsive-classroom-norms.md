@@ -14,7 +14,7 @@ generated:
 # Culturally Responsive Classroom Norms
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 23 studies (7 causal, 7 quant-synthesis, 5 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 24 studies (7 causal, 7 quant-synthesis, 6 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 

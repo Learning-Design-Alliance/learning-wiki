@@ -13,7 +13,7 @@ generated:
 # Shadowing to Address Behavior Problems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 0 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (5 causal, 2 review, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 9 report an effect size
 
 ## Description
 Shadowing assigns a trained adult (aide, counselor, or behavior technician) to stay within arm's reach of a student exhibiting harmful behaviors (e.g., biting, aggression, elopement) to interrupt the behavior chain before an incident occurs. The shadow provides constant direct supervision without singling the student out publicly, models and prompts alternative strategies at the moment of need, and collects observational data on antecedents and triggers. The goal is to keep the classroom safe while breaking the reinforcement cycle sustaining the behavior and teaching replacement skills in context.

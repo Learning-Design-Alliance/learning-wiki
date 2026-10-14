@@ -102,7 +102,7 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
-- [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](e-teacher-shift-to-facilitator-role.md) — related
+- [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](e-teachers-widen-object-toward-independent-learning.md) — related
 - [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](ideation-discussion-creative-thought-gains-not-logic.md) — related
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — related
 - [Merrill's First Principles may provide a more comprehensive synthesis than prior lesson-design frameworks](merrill-framework-more-comprehensive-synthesis.md) — related
@@ -114,4 +114,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — reports the opposite
 - [Inquiry-based science provides a highly contextualized setting for authentic language use and higher-level dialogue that is not text-dependent, supporting English learners' language development](inquiry-science-contextualized-authentic-language.md) — related
-- [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](active-engagement-higher-learning-gains-than-lecture.md) — related
+- [Actively engaging learning environments show higher learning gains than one-way lecture environments, according to a National Academies consensus study cited in one article](active-learning-improves-exam-performance.md) — related

@@ -15,7 +15,7 @@ grain_size: course
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 16 claims (1 for, 9 mixed, 6 against) · 16 studies (4 review, 3 causal, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 5 of 16 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (1 for, 9 mixed, 5 against) · 16 studies (4 review, 3 causal, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 5 of 16 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -107,7 +107,7 @@ Do not rank lecture against named alternatives from these claims by their effect
 
 Claims this page cited before the 2026-10-14 rewrite that are not used as core evidence above. Each keeps its old direction, capped by its recorded evidence.
 
-- [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](../claims/active-engagement-higher-learning-gains-than-lecture.md) [-W] — a 2026 draft paper's one-sentence summary of a National Academies consensus study, not its own analysis; no sample or effect size. Bears on the page in the same direction as the active-learning meta-analyses and adds no study.
+- [Actively engaging learning environments show higher learning gains than one-way lecture environments, according to a National Academies consensus study cited in one article](../claims/active-learning-improves-exam-performance.md) [-W] — a 2026 draft paper's one-sentence summary of a National Academies consensus study, not its own analysis; no sample or effect size. Bears on the page in the same direction as the active-learning meta-analyses and adds no study.
 - [Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)](../claims/ccct-outperformed-lecture-achievement.md) [-W] — one quasi-experiment (31 against 36 prospective teachers in Turkey) of a cooperative-learning technique against a lecture-based control, coded `r1`. Bears on the page only as one more comparison in which lecture is the control.
 - [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](../claims/genai-instructional-method-moderator.md) [~W] — a moderator analysis in a meta-analysis of generative-AI interventions; it is about where AI tools were used (6 studies in lecture-based settings), not about lecture against another method. It bears on this page only slightly.
 - [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](../claims/ousd-passive-lecture-unchallenged-students.md) [-W] — used in the secondary-school row above; it describes practice and tests nothing.
@@ -162,7 +162,7 @@ Lecture's effectiveness depends heavily on which of four common instructional ob
 
 ## Claims
 
-- [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](../claims/active-engagement-higher-learning-gains-than-lecture.md) [-W]
+- [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](../claims/active-learning-improves-exam-performance.md) [-W]
 - [Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)](../claims/ccct-outperformed-lecture-achievement.md) [-W]
 - [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](../claims/genai-instructional-method-moderator.md) [~W]
 - [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](../claims/ousd-passive-lecture-unchallenged-students.md) [-W]

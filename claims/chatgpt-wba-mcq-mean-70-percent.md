@@ -65,5 +65,5 @@ In class tests using a 'higher MCQ' format with described scenarios (e.g. patien
 - [ChatGPT could not execute R code for statistics MCQs, achieving 60% accuracy when its code was run with corrected dataset naming](chatgpt-r-code-questions-60-percent-accuracy.md) — related
 - [Phi-2's answers to its own generated MCQs align with human experts at least as strongly as the experts agree with each other](phi2-answers-align-with-human-experts.md) — related
 - [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](hint-prompts-raise-llm-scoring-agreement.md) — related
-- [Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy](trust-not-equivalent-to-ai-accuracy.md) — related
+- [A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate](trust-not-equivalent-to-ai-accuracy.md) — related
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](lo-alignment-judgment-more-subjective-than-answering.md) — related

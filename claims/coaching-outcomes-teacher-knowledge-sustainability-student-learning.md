@@ -88,5 +88,5 @@ Program Outcomes section: teachers used clear language that they "knew" students
 - [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](requisite-coach-characteristics-qualitative-findings.md) — related
 - [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](coaching-complexity-may-fragment-impact.md) — reports the opposite
 - [Sustained administrator involvement in coaching programs is associated with less teacher stress, better perceived coaching skills, and more improvement in teaching practices](administrator-involvement-improves-coaching-outcomes.md) — related
-- [Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation](coaching-partnership-voluntary-non-evaluative.md) — related
+- [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](coaching-partnership-voluntary-non-evaluative.md) — related
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](stem-plc-teacher-knowledge-attitude-gains.md) — related

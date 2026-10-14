@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "A school's inability to talk openly about race is a proxy for its general capacity for change"
+title: "Payne suspects that a school's inability to talk openly about race predicts its capacity for change"
 description: "A school's inability to talk openly about race is a proxy for its general capacity for change"
 id: racial-reticence-predicts-school-change-capacity
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# A school's inability to talk openly about race is a proxy for its general capacity for change
+# Payne suspects that a school's inability to talk openly about race predicts its capacity for change
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+<!-- title before 2026-10-14: A school's inability to talk openly about race is a proxy for its general capacity for change -->
 
 ## Subclaims
 `q1 i?` Schools that cannot discuss race openly tend to be unable to discuss other difficult matters, making racial reticence a predictor of which schools can change. [→ Payne 2005](#payne-2005)

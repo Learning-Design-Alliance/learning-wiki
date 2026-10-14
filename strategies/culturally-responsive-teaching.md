@@ -13,7 +13,7 @@ generated:
 # Culturally Responsive Teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies (8 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 14 studies (8 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 2 of 14 report an effect size
 
 ## Description
 Culturally responsive teaching (CRT) engages students in the learning process, both cognitively and emotionally, through an understanding of how their identity and perspective are shaped by their culture and community experiences. It encompasses race, language, gender, and ability, and uses this knowledge to promote equity, reduce bias, and foster a sense of belonging for each student. In practice, instructors learn about students' cultural frameworks, examine their own implicit bias, and design learning experiences that connect new content to students' existing knowledge and communities.

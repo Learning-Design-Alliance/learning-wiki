@@ -44,4 +44,4 @@ Interpretive conclusion drawn from a case vignette of a white Comer-project faci
 
 ## Related Claims
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md) — related
-- [A school's inability to talk openly about race is a proxy for its general capacity for change](racial-reticence-predicts-school-change-capacity.md) — related
+- [Payne suspects that a school's inability to talk openly about race predicts its capacity for change](racial-reticence-predicts-school-change-capacity.md) — related

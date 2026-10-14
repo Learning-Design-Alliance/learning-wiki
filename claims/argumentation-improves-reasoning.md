@@ -67,7 +67,7 @@ Over several years, two cohorts of young adolescents argued about social issues 
 
 **Domain dependence.** Much of the supporting literature comes from science education (e.g., claim–evidence–reasoning frameworks) and from dialogue-based approaches such as collaborative reasoning and reciprocal teaching. Transfer of argumentation skill to everyday reasoning and informal contexts is less well established than within-domain gains, and the field lacks a consensus on how best to assess argumentation quality.
 
-**Open questions.** Key unresolved issues include how much prior knowledge is needed before argumentation becomes productive, whether individual written argumentation yields the same benefits as dialogic (peer) argumentation, and how durable the gains are over time. Until controlled studies are added to the Evidence section, the strength of this claim cannot be rated.
+**Open questions.** Key unresolved issues include how much prior knowledge is needed before argumentation becomes productive, whether individual written argumentation yields the same benefits as dialogic (peer) argumentation, and how durable the gains are over time. The Evidence section now holds one meta-analysis of online science argumentation (Zhou 2023) and one quasi-experimental intervention (Kuhn & Crowell 2011); evidence beyond online science settings, and on durability, is not yet recorded in the wiki.
 
 ## Related Claims
 

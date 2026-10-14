@@ -41,6 +41,7 @@ This is a second-hand report: the protocol's introduction attributes the finding
 
 ## Discussion
 
+This page rests on a single sentence in a scoping-review protocol, which attributes the finding to a study by Whitney and Wisniewski; the primary study has not been read for this page. As reported, the comparison is of average scores across course years (2021 to 2023), with no control group, and credit was given for completing tasks rather than for the quality of the search strategies, so the rise cannot be attributed to the game-based approach or read as better searching skill.
 
 ## Related Claims
 - [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related

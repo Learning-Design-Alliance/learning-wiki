@@ -15,7 +15,7 @@ grain_size: lesson, unit
 # Workshop Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 18 studies (5 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 19 studies (5 causal, 5 quant-synthesis, 4 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 19 report an effect size · 2 claims rest on one study
 
 ## Description
 The workshop model organizes instruction around a predictable three-part structure: a brief whole-class [mini-lesson](../elements/demonstration.md) (typically 10–15 minutes), an extended work session in which students practice independently or collaboratively while the teacher confers with individuals and small groups, and a closing share or reflection. Developed in literacy education by Atwell and Calkins and grounded in the gradual release of responsibility, it solves the problem of transmission-only teaching by making sustained, supported practice — not explanation — the center of the lesson. The teacher's role shifts during the work session from presenter to coach, differentiating through one-to-one [conferences](../elements/feedback.md) rather than whole-class pacing.

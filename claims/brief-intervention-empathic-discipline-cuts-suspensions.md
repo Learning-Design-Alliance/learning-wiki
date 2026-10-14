@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: brief-intervention-empathic-discipline-cuts-suspensions
+aliases: [empathic-mindset-teacher-intervention-lowers-suspensions]
 evidence_strength: weak
 sources:
   - id: okonofua-et-al-2016
@@ -26,12 +27,20 @@ sources:
     n: 5822 students (66 randomized teachers)
     kind: causal
     rigour: 3
+  - id: hernández-2022
+    resource: "https://doi.org/10.54300/165.102"
+    title: "Hernández, L. E., & Darling-Hammond, L. (2022). Creating identity-safe schools and classrooms. Learning Policy Institute. https://doi.org/10.54300/165.102"
+    author: "Hernández, L. E., & Darling-Hammond, L."
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Brief Intervention Empathic Discipline Cuts Suspensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q3`–`q4`
+> **Evidence** · 3 studies · 2 causal `r3`, 1 review `r2` · `q3`–`q4`
 
 A short, scalable intervention that reframes discipline as an opportunity to maintain relationships with students — rather than to punish — can reduce suspension rates, particularly for students from historically disciplined groups.
 
@@ -40,6 +49,8 @@ A short, scalable intervention that reframes discipline as an opportunity to mai
 `q3 i?` A brief online exercise that encouraged middle-school teachers to take an empathic rather than punitive mindset about discipline halved year-long student suspension rates (9.6% to 4.8%) in a randomized field experiment at five schools, and raised the respect previously suspended students perceived from their teachers. [→ Okonofua et al. 2016](#okonofua-et-al-2016)
 
 `q4 i?` A preregistered, active-placebo-controlled replication with 66 randomized teachers and 5,822 students cut the Black/Hispanic-versus-other suspension disparity from 10.6 to 5.9 percentage points and reduced suspensions for previously suspended students and students in special education, but the preregistered overall main effect was small and only marginal (2.4–3.1 percentage points). [→ Okonofua et al. 2022](#okonofua-et-al-2022)
+
+`q3 i?` In a randomized experiment, classrooms of middle school math teachers assigned to an empathic mindset condition had significantly lower suspension rates than control classrooms, especially for students of color. [→ Hernández 2022](#hernandez-2022)
 
 ## Evidence
 
@@ -59,6 +70,16 @@ Okonofua, J. A., Goyer, J. P., Lindsay, C. A., Haugabrook, J., & Walton, G. M. (
 
 Middle-school math teachers were randomized to a 45–70-minute online empathic-mindset exercise or an active control exercise, and their students' suspensions were tracked for the school year and the following year. The preregistered main effect was small and marginal. In the full eligible sample (173 teachers, 13,210 students), 17.3% of students with treated teachers were suspended against 20.4% of control students (P = 0.051, two-tailed). Among the 66 randomized teachers and their 5,822 students alone, b = 0.024 and P = 0.130. The larger effects were for groups at high risk of suspension. Among Black and Hispanic students, suspensions fell from 26.5% to 20.8%, which narrowed the racial disparity from 10.6 to 5.9 percentage points. Among previously suspended students they fell from 56.1% to 49.6%. The effect on students with two or more prior suspensions was not significant. In a subsample followed into the next year, the reduction held when students had different teachers (16.7% vs 20.9%).
 
+### Hernández 2022
+
+Hernández, L. E., & Darling-Hammond, L. (2022). Creating identity-safe schools and classrooms. Learning Policy Institute. https://doi.org/10.54300/165.102
+
+`q3 · i?` · `review · r2`
+
+The report describes a randomized experiment in which middle school math teachers in the empathic mindset condition read and wrote about understanding students' experiences; the report states "suspension rates were significantly lower" than in control classrooms. No effect size is printed.
+
+> "In the classrooms of teachers who were randomly assigned to the empathic mindset condition, suspension rates were significantly lower than those in the control group classrooms, especially for students of color, disrupting patterns of exclusion that reinforce academic, social, and emotional difficulties."
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
@@ -68,7 +89,7 @@ Middle-school math teachers were randomized to a 45–70-minute online empathic-
 |---|---|---|---|
 | [Okonofua et al. 2016](https://doi.org/10.1073/pnas.1523698113) | q3 · causal · r? | i? | this claim |
 | [Okonofua et al. 2022](https://doi.org/10.1126/sciadv.abj0691) | q4 · causal · r3 | i? | this claim |
-| [Hernández 2022](https://doi.org/10.54300/165.102) | q3 · review · r2 | i? | [An empathy-enhancing intervention for teachers reduced suspension rates, especially for st](empathic-mindset-teacher-intervention-lowers-suspensions.md) (supports) |
+| [Hernández 2022](https://doi.org/10.54300/165.102) | q3 · review · r2 | i? | [An empathy-enhancing intervention for teachers reduced suspension rates, especially for st](brief-intervention-empathic-discipline-cuts-suspensions.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -94,5 +115,4 @@ Middle-school math teachers were randomized to a 45–70-minute online empathic-
 - [Educational psychology has long neglected marginalized learners and remains complicit in imposing normative standards and social stratification](ed-psych-neglect-marginalized-learners-normative-standards.md) — related
 - [Schurz High School's Cultivate-driven feedback-for-growth improvement work coincided with improved student experiences and out-of-school suspensions dropping to one-half of the prior year's number](schurz-cultivate-improvement-outcomes.md) — related
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — a narrower finding that bears on this claim
-- [An empathy-enhancing intervention for teachers reduced suspension rates, especially for students of color](empathic-mindset-teacher-intervention-lowers-suspensions.md) — possibly the same claim (merge candidate)
 - [Oakland Unified gradually reduced out-of-school suspension rates for girls after policy changes](oakland-reduced-girls-suspension-rates-over-time.md) — related

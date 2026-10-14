@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities
+title: Staff and students in three California schools describe collaboration among leaders, teachers and students as improving buy-in and creating student leadership opportunities
 description: Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities
 id: collaboration-buy-in-student-leadership
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: "?"
 ---
 
-# Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities
+# Staff and students in three California schools describe collaboration among leaders, teachers and students as improving buy-in and creating student leadership opportunities
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+<!-- title before 2026-10-14: Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities -->
 
 ## Subclaims
 `q2 i?` Data-use processes designed to include teacher and student perspectives fostered investment in climate improvement and developed student leadership. [→ Klevan 2024](#klevan-2024)

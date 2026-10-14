@@ -12,7 +12,7 @@ sources:
     author: "Zimmerman, B. J., & Kitsantas, A."
     q: 3
     i: "?"
-    n: unspecified
+    n: 84
     kind: causal
     rigour: "?"
   - id: zimmerman-2000
@@ -47,9 +47,9 @@ Primary evidence link: https://doi.org/10.1037/0022-0663.91.2.241
 
 Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–252. [https://doi.org/10.1037/0022-0663.91.2.241](https://doi.org/10.1037/0022-0663.91.2.241)
 
-`q3 · peer-reviewed experimental study` · `i? · the abstract prints no effect size; the full text may` · `n=unspecified` · `causal · r?`
+`q3 · peer-reviewed experimental study` · `i? · the abstract prints no effect size; the full text may` · `n=84` · `causal · r?`
 
-This study examined high-schoolers learning writing revision skills. Students who were assigned process goals (focusing on the strategy) outperformed those assigned outcome goals (focusing on the final score). The results also suggested that once a skill is mastered, shifting to outcome goals can be beneficial.
+This study examined 84 high school girls learning a writing revision skill (combining kernel sentences into one nonredundant sentence); the participant count and population are confirmed from the OpenAlex abstract. Students who were assigned process goals (focusing on the strategy) outperformed those assigned outcome goals (focusing on the final score). The results also suggested that once a skill is mastered, shifting to outcome goals can be beneficial.
 
 ### Zimmerman 2000
 

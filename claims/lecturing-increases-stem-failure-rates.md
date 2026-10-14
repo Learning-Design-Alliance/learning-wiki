@@ -43,5 +43,4 @@ Random-effects meta-analysis of 67 independent comparisons of failure rates (usu
 
 
 ## Related Claims
-- [Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing](active-learning-raises-stem-exam-performance-047-sd.md) — related
-- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
+- [Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing](active-learning-improves-exam-performance.md) — related

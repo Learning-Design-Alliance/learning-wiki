@@ -18,7 +18,7 @@ sources:
 # Digital Promise 2016 ed-tech research-use campaign and scoring rubric
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (8 for) · 3 studies (1 associational, 1 qualitative, 1 design), `q2` · 0 of 3 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 4 studies (1 associational, 1 qualitative, 1 design, 1 theoretical), `q2` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 A Digital Promise campaign that invited ed-tech companies to report how they use research in product development and evaluated their submissions with a rubric covering research quality, researcher involvement, and public sharing of results.
@@ -29,7 +29,7 @@ A Digital Promise campaign that invited ed-tech companies to report how they use
 ### Claims
 - [Among Evaluation category submitters, 67 percent used a comparison group and 23 percent used randomization](../claims/evaluation-submitters-comparison-randomization-rates.md) [+W]
 - [Among Evaluation category companies, 57 percent publicly shared evaluation results but only four published in a peer-reviewed journal](../claims/few-edtech-companies-peer-review-evaluations.md) [+W]
-- [Only 24 percent of top literacy apps mentioned research in their app store descriptions, per a 2015 study the report cites](../claims/few-literacy-apps-mention-research-descriptions.md) [+W]
+- [Only 24 percent of top literacy apps mentioned research in their app store descriptions, per a 2015 study the report cites](../claims/literacy-apps-lack-research-reference.md) [+W]
 - [Among 2016 Learning Science category submissions, 85 percent of companies had a researcher on staff or worked with an external researcher](../claims/learning-science-submitters-work-with-researchers.md) [+W]
 - [Learning Science submitters that scored well drew on research from multiple disciplines and translated findings into product features](../claims/multi-discipline-research-translated-to-features.md) [+W]
 - [Nearly all (94 percent) user research submitters engaged more than one stakeholder group, most often students and teachers](../claims/multi-stakeholder-user-research-common.md) [+W]
@@ -73,7 +73,7 @@ In summer 2016 Digital Promise ran a campaign asking ed-tech companies to share 
 
 - [Among Evaluation category submitters, 67 percent used a comparison group and 23 percent used randomization](../claims/evaluation-submitters-comparison-randomization-rates.md) [+W]
 - [Among Evaluation category companies, 57 percent publicly shared evaluation results but only four published in a peer-reviewed journal](../claims/few-edtech-companies-peer-review-evaluations.md) [+W]
-- [Only 24 percent of top literacy apps mentioned research in their app store descriptions, per a 2015 study the report cites](../claims/few-literacy-apps-mention-research-descriptions.md) [+W]
+- [Only 24 percent of top literacy apps mentioned research in their app store descriptions, per a 2015 study the report cites](../claims/literacy-apps-lack-research-reference.md) [+W]
 - [Among 2016 Learning Science category submissions, 85 percent of companies had a researcher on staff or worked with an external researcher](../claims/learning-science-submitters-work-with-researchers.md) [+W]
 - [Learning Science submitters that scored well drew on research from multiple disciplines and translated findings into product features](../claims/multi-discipline-research-translated-to-features.md) [+W]
 - [Nearly all (94 percent) user research submitters engaged more than one stakeholder group, most often students and teachers](../claims/multi-stakeholder-user-research-common.md) [+W]

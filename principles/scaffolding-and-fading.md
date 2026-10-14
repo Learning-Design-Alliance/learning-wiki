@@ -35,7 +35,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (14 for, 11 mixed, 1 against) · 27 studies (12 causal, 4 review, 4 theoretical, 2 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 3 of 27 report an effect size · 20 claims rest on one study
+> **Evidence** · 26 claims (14 for, 11 mixed, 1 against) · 32 studies (12 causal, 9 theoretical, 4 review, 2 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 3 of 32 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,7 +115,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](../claims/adaptive-fading-beats-fixed-and-linear-scaffolding.md) [+W]
 - [In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants](../claims/ai-assistance-impairs-unassisted-fraction-performance-exp1.md) [-W]
 - [Learners learned most about those principles that were faded](../claims/learners-learn-most-about-faded-principles.md) [+W]
-- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/offloading-to-ai-costs-learning.md) [~W]
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~W]
 - [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](../claims/faded-step-position-no-learning-outcome-effect.md) [~W]
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/genai-usage-mode-predicts-independent-performance.md) [~W]

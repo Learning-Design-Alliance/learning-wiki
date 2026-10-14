@@ -13,7 +13,7 @@ generated:
 # Class Discussion Norms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 15 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 16 report an effect size
 
 ## Description
 Class discussion norms are explicit, co-constructed agreements about *how* students talk during whole-class and small-group discussion: how to take turns, build on others' ideas, demand and provide reasons, and disagree respectfully. They are taught and modeled like any other skill, posted for reference, and enforced consistently, so that the cognitive work of discussion (reasoning aloud, evaluating claims) is not crowded out by the social work of managing conversation.

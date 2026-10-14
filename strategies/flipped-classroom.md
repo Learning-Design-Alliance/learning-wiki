@@ -12,7 +12,7 @@ generated:
 # Flipped Classroom
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (5 quant-synthesis, 2 causal), `q3`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (5 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 The flipped classroom moves direct instruction outside of class — typically as short videos or structured readings — and reserves synchronous time for application: problem-solving, discussion, and feedback with the instructor present. The instructor's role shifts from delivering content to diagnosing and correcting understanding during [Practice](../elements/practice.md).

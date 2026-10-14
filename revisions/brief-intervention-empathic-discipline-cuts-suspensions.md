@@ -7,3 +7,8 @@ page: ../claims/brief-intervention-empathic-discipline-cuts-suspensions.md
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+
+## Earlier history as claims/empathic-mindset-teacher-intervention-lowers-suspensions
+
+### 2026-10-10 · ingest · process:wiki-ingest
+Ingested from eric-ed626549 (Creating Identity-Safe Schools and Classrooms) via eval_harness.py + ingest_extractions.py

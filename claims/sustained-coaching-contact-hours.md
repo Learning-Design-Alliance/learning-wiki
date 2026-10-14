@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours
+title: In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours
 description: Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours
 id: sustained-coaching-contact-hours
 status: draft
@@ -27,10 +27,11 @@ sources:
     rigour: 2
 ---
 
-# Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours
+# In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+<!-- title before 2026-10-14: Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours -->
 
 ## Subclaims
 `q2 i?` Coached teachers in core subjects more often reported sustained PD with coherent follow-up (47% vs. 30%, Chi-Sq p < .001), and sustained PD correlated with ITU confidence (corr = .3, p < .001). [→ Mahsa Bakhshaei 2020](#mahsa-bakhshaei-2020)
@@ -62,7 +63,7 @@ Descriptive survey data from DLP coached teachers on coaching dosage: "more than
 
 
 ## Related Claims
-- [Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation](coaching-partnership-voluntary-non-evaluative.md) — related
+- [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](coaching-partnership-voluntary-non-evaluative.md) — related
 - [Coached teachers report significantly higher confidence in their ability to implement impactful technology use](coaching-raises-teacher-itu-confidence.md) — related
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related

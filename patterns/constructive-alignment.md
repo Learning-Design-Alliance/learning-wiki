@@ -28,7 +28,7 @@ grain_size: course, program
 # Constructive Alignment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 18 studies (5 quant-synthesis, 4 causal, 3 associational, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 8 of 18 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 19 studies (5 quant-synthesis, 4 causal, 4 theoretical, 3 associational, 2 review, 1 qualitative), `q1`–`q4` · 8 of 19 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
