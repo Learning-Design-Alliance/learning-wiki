@@ -7,3 +7,8 @@ page: ../claims/pthv-home-visits-improve-attendance-slightly.md
 
 ### 2026-10-07 · ingest · process:wiki-ingest
 Ingested from hub-1537 (Parent Teacher Home Visits – Attendance) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/pthv-home-visit-improves-attendance-es-002
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-8995 (Parent Teacher Home Visits) via eval_harness.py + ingest_extractions.py

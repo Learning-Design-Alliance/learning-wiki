@@ -7,3 +7,8 @@ page: ../claims/nih-ugsp-scholars-outpace-non-awarded-finalists.md
 
 ### 2026-10-09 · ingest · process:wiki-ingest
 Ingested from hub-2366 (Process Analysis on the Operation of the NIH Undergraduate Scholarship Program) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/nih-scholars-higher-biomedical-research-rates-than-finalists
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-1149 (The NIH Undergraduate Scholarship Program: Career Outcomes of Scholars and Non-Awarded Finalists) via eval_harness.py + ingest_extractions.py

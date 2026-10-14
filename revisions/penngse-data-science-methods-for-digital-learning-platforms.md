@@ -1,0 +1,12 @@
+---
+type: revisions
+page: ../products/penngse-data-science-methods-for-digital-learning-platforms.md
+---
+
+# Revision history: [products/penngse-data-science-methods-for-digital-learning-platforms](../products/penngse-data-science-methods-for-digital-learning-platforms.md)
+
+Recorded as elements/penngse-data-science-dlp-certificate before it was renamed, re-filed or merged.
+
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-827 (Making Waves: Reflections on SEERNet’s Progress and a Vision for a New Generation of Education Research) via eval_harness.py + ingest_extractions.py

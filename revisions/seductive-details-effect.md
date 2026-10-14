@@ -7,3 +7,13 @@ page: ../claims/seductive-details-effect.md
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence copied from a verified near-duplicate (gap-fill)
+
+## Earlier history as claims/seductive-details-distract-from-learning
+
+### 2026-08-29 · ingest · claude/unspecified
+New claim ld-6: seductive details effect (Unit 6 ingest)
+
+## Earlier history as claims/seductive-details-harm-learning
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence copied from a verified near-duplicate (gap-fill)

@@ -1,9 +1,0 @@
----
-type: revisions
-page: ../theories/polytomous-dfit-framework.md
----
-
-# Revision history: [theories/polytomous-dfit-framework](../research-methods/polytomous-dfit-framework.md)
-
-### 2026-09-26 · ingest · process:wiki-ingest
-Ingested from eric-ed410300 (The Relationship between Polytomous DFIT and Other Polytomous DIF Procedures.) via eval_harness.py + ingest_extractions.py

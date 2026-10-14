@@ -7,3 +7,8 @@ page: ../claims/bayesian-adaptive-superior-inference-smaller-samples.md
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-1925 (What Works for Whom? A Bayesian Approach to Channeling Big Data Streams for Public Program Evaluation) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/bayesian-adaptive-superior-inference-smaller-trials
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-2061 (What Works for Whom? A Bayesian Approach to Channeling Big Data Streams for Policy Analysis) via eval_harness.py + ingest_extractions.py

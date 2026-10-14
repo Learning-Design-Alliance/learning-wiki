@@ -1,9 +1,0 @@
----
-type: revisions
-page: ../claims/algebra-placement-8th-versus-9th-grade-outcomes.md
----
-
-# Revision history: [claims/algebra-placement-8th-versus-9th-grade-outcomes](../claims/nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md)
-
-### 2026-10-08 · ingest · process:wiki-ingest
-Ingested from hub-7497 (Trend Snapshots: COVID-19 recovery in K–2, positive recovery trends) via eval_harness.py + ingest_extractions.py

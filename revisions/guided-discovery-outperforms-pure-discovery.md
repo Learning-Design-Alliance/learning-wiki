@@ -7,3 +7,8 @@ page: ../claims/guided-discovery-outperforms-pure-discovery.md
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence copied from a verified near-duplicate (gap-fill)
+
+## Earlier history as claims/guided-inquiry-outperforms-pure-discovery
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence copied from a verified near-duplicate (gap-fill)

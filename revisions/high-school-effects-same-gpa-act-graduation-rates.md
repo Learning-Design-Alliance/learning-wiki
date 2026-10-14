@@ -7,3 +7,8 @@ page: ../claims/high-school-effects-same-gpa-act-graduation-rates.md
 
 ### 2026-10-09 · ingest · process:wiki-ingest
 Ingested from hub-5621 (High School GPAs and ACT Scores as Predictors of College Completion) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/same-gpa-act-different-graduation-rates-by-high-school
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-5614 (High School GPAs and ACT Scores as Predictors of College Completion) via eval_harness.py + ingest_extractions.py

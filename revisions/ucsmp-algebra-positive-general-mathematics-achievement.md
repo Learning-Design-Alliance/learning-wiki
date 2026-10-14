@@ -7,3 +7,8 @@ page: ../claims/ucsmp-algebra-positive-general-mathematics-achievement.md
 
 ### 2026-10-07 · ingest · process:wiki-ingest
 Ingested from hub-104 (UCSMP Multiple Courses) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/ucsmp-algebra-potentially-positive-general-mathematics-achievement
+
+### 2026-10-07 · ingest · process:wiki-ingest
+Ingested from hub-90 (University of Chicago School Mathematics Project (UCSMP) Algebra) via eval_harness.py + ingest_extractions.py

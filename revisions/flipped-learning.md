@@ -1,9 +1,12 @@
 ---
 type: revisions
-page: ../patterns/flipped-learning.md
+page: ../principles/flipped-learning.md
 ---
 
-# Revision history: [patterns/flipped-learning](../patterns/flipped-classroom.md)
+# Revision history: [principles/flipped-learning](../principles/flipped-learning.md)
 
-### 2026-08-29 · content · claude/unspecified
-Add Lage Platt Treglia 2000 historical precursor citation (Unit 8 enrichment)
+Recorded as principles/multimedia-modules-for-pre-lecture-preparation before it was renamed, re-filed or merged.
+
+
+### 2026-09-25 · ingest · process:wiki-ingest
+Ingested from arxiv-0806.0405 (Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content) via eval_harness.py + ingest_extractions.py

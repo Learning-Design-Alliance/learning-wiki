@@ -1,0 +1,12 @@
+---
+type: revisions
+page: ../products/operation-outbreak.md
+---
+
+# Revision history: [products/operation-outbreak](../products/operation-outbreak.md)
+
+Recorded as elements/operation-outbreak-experiential-simulation before it was renamed, re-filed or merged.
+
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-760 (Operation Outbreak: Exploring the Affordances and Challenges of Experiential Simulations in Education for Scalability) via eval_harness.py + ingest_extractions.py

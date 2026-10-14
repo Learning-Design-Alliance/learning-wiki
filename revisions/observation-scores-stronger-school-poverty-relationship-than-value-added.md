@@ -7,3 +7,8 @@ page: ../claims/observation-scores-stronger-school-poverty-relationship-than-val
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-5678 (Teacher Evaluation in Chicago) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/observation-scores-stronger-poverty-concentration
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-5679 (Teacher Evaluation in Chicago) via eval_harness.py + ingest_extractions.py

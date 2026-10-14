@@ -7,3 +7,13 @@ page: ../strategies/exact-path-existing-staff-implementation-strategy.md
 
 ### 2026-10-07 · ingest · process:wiki-ingest
 Ingested from hub-634 (Exact Path Proficiency + Exact Path Growth — Reading) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as strategies/exact-path-implementation-existing-staff-pd
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-652 (Exact Path Growth — Math) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as strategies/exact-path-implementation-strategy
+
+### 2026-10-07 · ingest · process:wiki-ingest
+Ingested from hub-628 (Exact Path Growth — Reading) via eval_harness.py + ingest_extractions.py

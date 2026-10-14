@@ -7,3 +7,8 @@ page: ../claims/learner-constructed-graphic-organizers-outperform-provided.md
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+
+## Earlier history as claims/learner-generated-organizers-beat-provided-organizers
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence copied from a verified near-duplicate (gap-fill)

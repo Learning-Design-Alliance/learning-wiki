@@ -7,3 +7,8 @@ page: ../claims/on-track-early-indicator-graduation.md
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-5820 (How Do Barton Graduates Perform in CPS High Schools?) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/freshman-on-track-early-indicator-kenwood
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-5821 (How Do Kenwood Graduates Perform?) via eval_harness.py + ingest_extractions.py

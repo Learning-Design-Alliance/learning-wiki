@@ -7,3 +7,8 @@ page: ../claims/late-pretest-inclusion-can-bias-posttest-estimates.md
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-2255 (The Late Pretest Problem in Randomized Control Trials of Education Interventions (Journal Article)) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/late-pretest-inclusion-can-bias-impact-estimates
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-2316 (The Late Pretest Problem in Randomized Control Trials of Education Interventions) via eval_harness.py + ingest_extractions.py

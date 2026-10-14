@@ -7,3 +7,8 @@ page: ../claims/high-and-low-achievers-benefit-from-quality-assignments.md
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-5794 (Documentation of the 1996-2002 Chicago Annenberg Research Project on Authentic Intellectual Demand Exhibited in Assignments and Student Work) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/demanding-assignments-benefit-all-achievement-levels
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-5762 (Promoting Instructional Improvement) via eval_harness.py + ingest_extractions.py

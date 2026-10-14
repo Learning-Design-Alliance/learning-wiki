@@ -7,3 +7,8 @@ page: ../claims/parent-involvement-improves-achievement.md
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence filled from Crossref-verified sources (gap-fill)
+
+## Earlier history as claims/parental-involvement-improves-achievement
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence filled from Crossref-verified sources (gap-fill)
