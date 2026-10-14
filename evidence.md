@@ -8,10 +8,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 17,909 |
+| Claims | 17,908 |
 | Evidence entries | 21,225 |
 | Distinct studies | 5,118 |
-| Claims resting on one study | 17,441 (97%) |
+| Claims resting on one study | 17,439 (97%) |
 | Claims with no coded evidence | 0 |
 | Studies reporting an effect size | 1,003 of 5,118 (20%) |
 
@@ -19,22 +19,21 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 67 | 548 | 203 | 372 | 1,190 |
+| causal | 68 | 550 | 203 | 372 | 1,193 |
 | quant-synthesis | 43 | 93 | 38 | 116 | 290 |
 | review | 57 | 297 | 113 | 114 | 581 |
 | associational | 29 | 627 | 301 | 254 | 1,211 |
 | qualitative | 113 | 276 | 72 | 89 | 550 |
 | design | 62 | 547 | 165 | 37 | 811 |
 | theoretical | 75 | 283 | 71 | 53 | 482 |
-| not yet coded | | | | | 3 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 771 (15%) | 3,263 (64%) | 972 (19%) | 112 (2%) |
+| 771 (15%) | 3,264 (64%) | 971 (19%) | 112 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,441, 2: 391, 3: 64, 4 or more: 13.
+**Studies per claim:** 0: 0, 1: 17,439, 2: 392, 3: 64, 4 or more: 13.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 

@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":17909,
+"claim":17908,
 "design":719,
 "element":1080,
 "learner-variable":14,
@@ -18716,12 +18716,12 @@
 "type":"claim"
 },
 {
-"description":"Bullying and peer rejection typically increase as children approach middle school",
+"description":"Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools",
 "evidence_strength":"moderate",
 "id":"bullying-rejection-increase-approaching-middle-school",
 "path":"claims/bullying-rejection-increase-approaching-middle-school.md",
 "status":"draft",
-"title":"Bullying and peer rejection typically increase as children approach middle school",
+"title":"Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools",
 "type":"claim"
 },
 {
@@ -108601,12 +108601,12 @@
 "type":"claim"
 },
 {
-"description":"Personalization improved accuracy on easy knowledge components in Unit 6",
+"description":"Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit",
 "evidence_strength":"moderate",
 "id":"personalization-improves-easy-kc-accuracy-algebra-its",
 "path":"claims/personalization-improves-easy-kc-accuracy-algebra-its.md",
 "status":"draft",
-"title":"Personalization improved accuracy on easy knowledge components in Unit 6",
+"title":"Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit",
 "type":"claim"
 },
 {
@@ -108619,30 +108619,30 @@
 "type":"claim"
 },
 {
-"description":"Students receiving personalized problems engaged in less gaming-the-system behavior within the tutoring environment",
+"description":"Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit",
 "evidence_strength":"moderate",
 "id":"personalization-reduces-gaming-behavior",
 "path":"claims/personalization-reduces-gaming-behavior.md",
 "status":"draft",
-"title":"Students receiving personalized problems engaged in less gaming-the-system behavior within the tutoring environment",
+"title":"Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit",
 "type":"claim"
 },
 {
-"description":"Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal",
+"description":"Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit",
 "evidence_strength":"moderate",
 "id":"personalization-reduces-solution-time-efficiency",
 "path":"claims/personalization-reduces-solution-time-efficiency.md",
 "status":"draft",
-"title":"Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal",
+"title":"Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit",
 "type":"claim"
 },
 {
-"description":"Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra",
+"description":"In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit",
 "evidence_strength":"moderate",
 "id":"personalization-struggling-students-moderation",
 "path":"claims/personalization-struggling-students-moderation.md",
 "status":"draft",
-"title":"Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra",
+"title":"In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit",
 "type":"claim"
 },
 {
@@ -109780,12 +109780,12 @@
 "type":"claim"
 },
 {
-"description":"Students with the lowest baseline achievement showed the greatest growth relative to comparison peers, particularly in mathematics",
+"description":"In mathematics, personalized-learning students in the lowest baseline quintile were the most likely to out-grow their matched comparison students",
 "evidence_strength":"moderate",
 "id":"pl-lowest-baseline-students-greatest-growth",
 "path":"claims/pl-lowest-baseline-students-greatest-growth.md",
 "status":"draft",
-"title":"Students with the lowest baseline achievement showed the greatest growth relative to comparison peers, particularly in mathematics",
+"title":"In mathematics, personalized-learning students in the lowest baseline quintile were the most likely to out-grow their matched comparison students",
 "type":"claim"
 },
 {
@@ -143997,57 +143997,48 @@
 "type":"claim"
 },
 {
-"description":"Effects of SWPBIS on peer rejection are strongest among children first exposed at a younger age",
+"description":"SWPBIS effects on peer rejection appeared strongest for children first exposed in earlier grades, the one significant grade-cohort interaction among those tested",
 "evidence_strength":"moderate",
 "id":"swpbis-earlier-exposure-stronger-rejection-effect",
 "path":"claims/swpbis-earlier-exposure-stronger-rejection-effect.md",
 "status":"draft",
-"title":"Effects of SWPBIS on peer rejection are strongest among children first exposed at a younger age",
+"title":"SWPBIS effects on peer rejection appeared strongest for children first exposed in earlier grades, the one significant grade-cohort interaction among those tested",
 "type":"claim"
 },
 {
-"description":"Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children",
+"description":"SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline",
 "evidence_strength":"moderate",
 "id":"swpbis-effects-greatest-at-risk-high-risk-children",
 "path":"claims/swpbis-effects-greatest-at-risk-high-risk-children.md",
 "status":"draft",
-"title":"Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children",
+"title":"SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline",
 "type":"claim"
 },
 {
-"description":"SWPBIS schools achieved and maintained high implementation fidelity during the trial",
-"evidence_strength":"moderate",
-"id":"swpbis-high-fidelity-implementation",
-"path":"claims/swpbis-high-fidelity-implementation.md",
-"status":"draft",
-"title":"SWPBIS schools achieved and maintained high implementation fidelity during the trial",
-"type":"claim"
-},
-{
-"description":"SWPBIS improves emotion regulation among elementary school children",
+"description":"SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)",
 "evidence_strength":"moderate",
 "id":"swpbis-improves-emotion-regulation",
 "path":"claims/swpbis-improves-emotion-regulation.md",
 "status":"draft",
-"title":"SWPBIS improves emotion regulation among elementary school children",
+"title":"SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)",
 "type":"claim"
 },
 {
-"description":"SWPBIS improves prosocial behavior among elementary school children",
+"description":"SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)",
 "evidence_strength":"moderate",
 "id":"swpbis-improves-prosocial-behavior",
 "path":"claims/swpbis-improves-prosocial-behavior.md",
 "status":"draft",
-"title":"SWPBIS improves prosocial behavior among elementary school children",
+"title":"SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)",
 "type":"claim"
 },
 {
-"description":"SWPBIS main effects on bullying and rejection are robust across sex, special education status, and ethnicity",
+"description":"Sex and special education status did not significantly moderate SWPBIS effects on teacher-rated bullying and peer rejection",
 "evidence_strength":"weak",
 "id":"swpbis-main-effects-robust-across-demographics",
 "path":"claims/swpbis-main-effects-robust-across-demographics.md",
 "status":"draft",
-"title":"SWPBIS main effects on bullying and rejection are robust across sex, special education status, and ethnicity",
+"title":"Sex and special education status did not significantly moderate SWPBIS effects on teacher-rated bullying and peer rejection",
 "type":"claim"
 },
 {
@@ -144060,39 +144051,39 @@
 "type":"claim"
 },
 {
-"description":"SWPBIS training showed no significant effect on third- and fifth-grade math and reading achievement gains",
+"description":"SWPBIS training showed no significant effect on school-level third- and fifth-grade math and reading proficiency gains",
 "evidence_strength":"weak",
 "id":"swpbis-no-significant-achievement-effect",
 "path":"claims/swpbis-no-significant-achievement-effect.md",
 "status":"draft",
-"title":"SWPBIS training showed no significant effect on third- and fifth-grade math and reading achievement gains",
+"title":"SWPBIS training showed no significant effect on school-level third- and fifth-grade math and reading proficiency gains",
 "type":"claim"
 },
 {
-"description":"The percentage of SWPBIS-school students with an office discipline referral declined significantly over the trial",
+"description":"In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data",
 "evidence_strength":"moderate",
 "id":"swpbis-reduced-odr-percentage",
 "path":"claims/swpbis-reduced-odr-percentage.md",
 "status":"draft",
-"title":"The percentage of SWPBIS-school students with an office discipline referral declined significantly over the trial",
+"title":"In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data",
 "type":"claim"
 },
 {
-"description":"Suspension rates declined significantly over time in SWPBIS schools but not comparison schools",
+"description":"School suspension rates declined significantly within SWPBIS schools but not within comparison schools, though the two conditions were not tested against each other",
 "evidence_strength":"moderate",
 "id":"swpbis-reduced-suspensions-not-comparisons",
 "path":"claims/swpbis-reduced-suspensions-not-comparisons.md",
 "status":"draft",
-"title":"Suspension rates declined significantly over time in SWPBIS schools but not comparison schools",
+"title":"School suspension rates declined significantly within SWPBIS schools but not within comparison schools, though the two conditions were not tested against each other",
 "type":"claim"
 },
 {
-"description":"SWPBIS reduces concentration problems among elementary school children",
+"description":"SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)",
 "evidence_strength":"moderate",
 "id":"swpbis-reduces-concentration-problems",
 "path":"claims/swpbis-reduces-concentration-problems.md",
 "status":"draft",
-"title":"SWPBIS reduces concentration problems among elementary school children",
+"title":"SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)",
 "type":"claim"
 },
 {
@@ -144105,21 +144096,21 @@
 "type":"claim"
 },
 {
-"description":"SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years",
+"description":"SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)",
 "evidence_strength":"moderate",
 "id":"swpbis-reduces-disruptive-behavior",
 "path":"claims/swpbis-reduces-disruptive-behavior.md",
 "status":"draft",
-"title":"SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years",
+"title":"SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)",
 "type":"claim"
 },
 {
-"description":"Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously",
+"description":"Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)",
 "evidence_strength":"weak",
 "id":"swpbis-reduces-grade-retention-skilled",
 "path":"claims/swpbis-reduces-grade-retention-skilled.md",
 "status":"draft",
-"title":"Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously",
+"title":"Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)",
 "type":"claim"
 },
 {
@@ -144177,6 +144168,7 @@
 "type":"claim"
 },
 {
+"aliases":["swpbis-high-fidelity-implementation"],
 "description":"Schools trained in SWPBIS implement the model with high, sustained fidelity on the School-Wide Evaluation Tool",
 "evidence_strength":"strong",
 "id":"swpbis-training-high-fidelity-set",
@@ -269214,7 +269206,7 @@
 "swpbis-behavioral-violations-subscale-mixed":"swpbis-behavioral-violations-subscale-mixed",
 "swpbis-earlier-exposure-stronger-rejection-effect":"swpbis-earlier-exposure-stronger-rejection-effect",
 "swpbis-effects-greatest-at-risk-high-risk-children":"swpbis-effects-greatest-at-risk-high-risk-children",
-"swpbis-high-fidelity-implementation":"swpbis-high-fidelity-implementation",
+"swpbis-high-fidelity-implementation":"swpbis-training-high-fidelity-set",
 "swpbis-improves-emotion-regulation":"swpbis-improves-emotion-regulation",
 "swpbis-improves-prosocial-behavior":"swpbis-improves-prosocial-behavior",
 "swpbis-main-effects-robust-across-demographics":"swpbis-main-effects-robust-across-demographics",

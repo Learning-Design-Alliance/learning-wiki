@@ -13,18 +13,20 @@ sources:
     resource: "https://www.rand.org/t/RR1365z2"
     title: "John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2"
     author: John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton
-    q: 3
+    q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Students in personalized learning schools made significantly greater mathematics and reading gains over two years than matched comparison students (effect sizes 0.27 mathematics, 0.19 reading)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
-`q3 i1` Over two years, personalized learning students' mathematics growth exceeded matched comparison students' growth with an effect size of 0.27. [→ John F. Pane 2015](#john-f-pane-2015)
-`q3 i1` Over two years, personalized learning students' reading growth exceeded matched comparison students' growth with an effect size of 0.19. [→ John F. Pane 2015](#john-f-pane-2015)
+`q2 i1` Over two years, personalized learning students' mathematics growth exceeded matched comparison students' growth with an effect size of 0.27. [→ John F. Pane 2015](#john-f-pane-2015)
+`q2 i0` Over two years, personalized learning students' reading growth exceeded matched comparison students' growth with an effect size of 0.19. [→ John F. Pane 2015](#john-f-pane-2015)
 
 ## Evidence
 
@@ -32,7 +34,7 @@ sources:
 
 John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2
 
-`q3 · i1`
+`q2 · i1` · `causal · r2`
 
 Matched comparison group (NWEA virtual comparison group) analysis of MAP scores for approximately 11,000 students in 62 schools over 2013–14 and 2014–15. Printed effect sizes: 0.27 in mathematics and 0.19 in reading; the report states "The two-year effect sizes for this student population across all schools were 0.27 in mathematics and 0.19 in reading."
 

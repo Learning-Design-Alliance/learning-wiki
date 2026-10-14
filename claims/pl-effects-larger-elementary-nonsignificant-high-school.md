@@ -13,17 +13,19 @@ sources:
     resource: "https://www.rand.org/t/RR1365z2"
     title: "John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2"
     author: John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton
-    q: 3
+    q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Personalized learning effects tended to be larger in elementary grades and were not statistically significant in high school grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q3 i?` Achievement effects of personalized learning tended to be larger in elementary grades and were not statistically significant in high school grades. [→ John F. Pane 2015](#john-f-pane-2015)
+`q2 i?` Achievement effects of personalized learning tended to be larger in elementary grades and were not statistically significant in high school grades. [→ John F. Pane 2015](#john-f-pane-2015)
 
 ## Evidence
 
@@ -31,7 +33,7 @@ sources:
 
 John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2
 
-`q3 · i?`
+`q2 · i?` · `causal · r2`
 
 Grade-level subgroup analysis of the two-year MAP matched-comparison results across the 62 schools; the report states effects "tended to be larger in the elementary grades and were not statistically significant in the high school grades."
 

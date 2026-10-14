@@ -43,13 +43,13 @@ Within-class comparisons in the group-randomized trial using the Services Assess
 
 
 ## Related Claims
-- [Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children](swpbis-effects-greatest-at-risk-high-risk-children.md) — a broader claim this one bears on
-- [SWPBIS improves emotion regulation among elementary school children](swpbis-improves-emotion-regulation.md) — related
-- [SWPBIS improves prosocial behavior among elementary school children](swpbis-improves-prosocial-behavior.md) — related
+- [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — a broader claim this one bears on
+- [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
+- [SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related
 - [SWPBIS does not significantly reduce out-of-school suspensions in this trial](swpbis-no-effect-suspensions.md) — related
-- [SWPBIS reduces concentration problems among elementary school children](swpbis-reduces-concentration-problems.md) — related
-- [SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years](swpbis-reduces-disruptive-behavior.md) — related
-- [Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously](swpbis-reduces-grade-retention-skilled.md) — related
+- [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
+- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
+- [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)](swpbis-reduces-grade-retention-skilled.md) — related
 - [SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers](swpbis-reduces-odr-at-risk-high-risk.md) — related
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — related
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related

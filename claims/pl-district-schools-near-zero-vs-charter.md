@@ -13,17 +13,19 @@ sources:
     resource: "https://www.rand.org/t/RR1365z2"
     title: "John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2"
     author: John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton
-    q: 3
+    q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # District schools in the aggregate showed near-zero effects, significantly lower than charter schools in the same grades, but the district sample was small
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q3 i?` Estimated two-year effects were near zero for the six district schools and near 0.2 for same-grade charter students, a statistically significant difference the authors caution against generalizing. [→ John F. Pane 2015](#john-f-pane-2015)
+`q2 i?` Estimated two-year effects were near zero for the six district schools and near 0.2 for same-grade charter students, a statistically significant difference the authors caution against generalizing. [→ John F. Pane 2015](#john-f-pane-2015)
 
 ## Evidence
 
@@ -31,7 +33,7 @@ sources:
 
 John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2
 
-`q3 · i?`
+`q2 · i?` · `causal · r2`
 
 Chart 7 comparison of estimated two-year effects for the six district-operated schools (grades 7–12) versus public charter students in the same grade range; two district schools were positive, offset by negative results in three others.
 

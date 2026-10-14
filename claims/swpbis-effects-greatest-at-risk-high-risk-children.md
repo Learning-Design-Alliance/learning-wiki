@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children"
-description: "Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children"
+title: SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline
+description: SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline
 id: swpbis-effects-greatest-at-risk-high-risk-children
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children
+# SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+<!-- title before 2026-10-14: Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children -->
 
 ## Subclaims
 `q3 i?` LPA membership moderated children's subsequent discipline problems and need for school-based services; SWPBIS effects tended to be greatest among at-risk and high-risk children. [→ Bradshaw 2015](#bradshaw-2015)
@@ -47,6 +48,6 @@ Overall moderation finding from the 4-year group-randomized effectiveness trial 
 - [Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk](lpa-four-baseline-risk-classes.md) — related
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — a narrower finding that bears on this claim
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — a broader claim this one bears on
-- [SWPBIS schools achieved and maintained high implementation fidelity during the trial](swpbis-high-fidelity-implementation.md) — related
-- [SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years](swpbis-reduces-disruptive-behavior.md) — related
+- [SWPBIS schools achieved and maintained high implementation fidelity during the trial](swpbis-training-high-fidelity-set.md) — related
+- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — a narrower finding that bears on this claim

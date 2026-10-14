@@ -47,4 +47,4 @@ Multilevel logistic regression in the 4-year group RCT found "no signi ﬁcant d
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related
 - [SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers](swpbis-reduces-odr-at-risk-high-risk.md) — related
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — related
-- [SWPBIS reduces concentration problems among elementary school children](swpbis-reduces-concentration-problems.md) — related
+- [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related

@@ -51,4 +51,4 @@ Controlled study in the Deep Thought logic tutor with 123 participants (111 comp
 - [BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality](bkt-faster-posttest-completion.md) — related
 - [AURA's within-session reinforcement learning improved composite response quality over non-adaptive baselines (p = 0.044, d = 0.66), with fewer specification prompts and more validation behavior](aura-rl-improves-response-quality.md) — related
 - [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related
-- [Students receiving personalized problems engaged in less gaming-the-system behavior within the tutoring environment](personalization-reduces-gaming-behavior.md) — related
+- [Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit](personalization-reduces-gaming-behavior.md) — related

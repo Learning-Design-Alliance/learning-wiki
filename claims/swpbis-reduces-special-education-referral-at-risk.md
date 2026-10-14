@@ -44,8 +44,8 @@ Within-class outcome in the 4-year group-randomized effectiveness trial, measure
 
 ## Related Claims
 - [SWPBIS does not significantly reduce out-of-school suspensions in this trial](swpbis-no-effect-suspensions.md) — related
-- [SWPBIS reduces concentration problems among elementary school children](swpbis-reduces-concentration-problems.md) — related
-- [Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously](swpbis-reduces-grade-retention-skilled.md) — related
-- [Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children](swpbis-effects-greatest-at-risk-high-risk-children.md) — a broader claim this one bears on
+- [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
+- [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)](swpbis-reduces-grade-retention-skilled.md) — related
+- [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — a broader claim this one bears on
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
 - [SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers](swpbis-reduces-odr-at-risk-high-risk.md) — related

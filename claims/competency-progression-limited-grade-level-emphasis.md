@@ -15,12 +15,14 @@ sources:
     author: John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students' ability to work at their own pace and advance upon mastery was limited by a perceived need to emphasize grade-level content, driven by standards and standardized testing constraints. [→ John F. Pane 2015](#john-f-pane-2015)
@@ -31,7 +33,7 @@ sources:
 
 John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Implementation analysis across the 32 NGLC schools drawing on administrator interviews, surveys, logs, and site visits; fewer schools implemented competency-based progression than other strategies.
 

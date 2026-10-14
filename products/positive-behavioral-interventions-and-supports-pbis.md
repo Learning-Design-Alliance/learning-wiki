@@ -30,10 +30,10 @@ PBIS is an evidence-based, multitiered framework used by schools to organize dat
 - [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year](../claims/pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) [~M]
 - [PBIS improves staff-reported overall school organizational health, resource influence, staff affiliation, and academic emphasis over a 5-year randomized trial](../claims/pbis-improves-organizational-health-dimensions.md) [+M]
 - [PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model](../claims/pbis-collegial-leadership-fidelity-model.md) [~M]
-- [SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years](../claims/swpbis-reduces-disruptive-behavior.md) [+M]
-- [SWPBIS improves prosocial behavior among elementary school children](../claims/swpbis-improves-prosocial-behavior.md) [+M]
+- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](../claims/swpbis-reduces-disruptive-behavior.md) [+M]
+- [SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](../claims/swpbis-improves-prosocial-behavior.md) [+M]
 - [SWPBIS reduces the odds of receiving an office discipline referral](../claims/swpbis-reduces-office-discipline-referrals.md) [+M]
-- [Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children](../claims/swpbis-effects-greatest-at-risk-high-risk-children.md) [+M]
+- [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](../claims/swpbis-effects-greatest-at-risk-high-risk-children.md) [+M]
 
 ## Related Products and Programmes
 -

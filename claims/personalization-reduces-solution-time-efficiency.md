@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal
-description: Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal
+title: Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit
+description: Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit
 id: personalization-reduces-solution-time-efficiency
 status: draft
 generated:
@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: walkington-2013
     resource: "https://doi.org/10.1037/a0031882"
-    title: "Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. Journal of Educational Data Mining, 5(1). https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)"
+    title: "Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)"
     author: Walkington, C. A.
     q: 3
     i: "?"
@@ -19,7 +19,7 @@ sources:
     rigour: 2
   - id: walkington-2013-2
     resource: "https://doi.org/10.1037/a0031882"
-    title: "Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. Journal of Educational Data Mining, 5(1). https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)"
+    title: "Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)"
     author: Walkington, C. A.
     q: 3
     i: "?"
@@ -27,10 +27,11 @@ sources:
     rigour: 2
 ---
 
-# Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal
+# Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+<!-- title before 2026-10-14: Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal -->
 
 ## Subclaims
 `q3 i?` Students in the personalization condition spent significantly less time solving hard KC problem parts in Unit 6 (6.93 second reduction, p = 0.048). [→ Walkington 2013](#walkington-2013)
@@ -40,7 +41,7 @@ sources:
 
 ### Walkington 2013
 
-Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. Journal of Educational Data Mining, 5(1). https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
+Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
 
 `q3 · i?` · `causal · r2`
 
@@ -50,7 +51,7 @@ Hierarchical linear regression of step duration in Unit 6. Experimental students
 
 ### Walkington 2013 (2)
 
-Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. Journal of Educational Data Mining, 5(1). https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
+Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
 
 `q3 · i?` · `causal · r2`
 
@@ -64,4 +65,4 @@ Hierarchical linear regression of step duration in Unit 10. Students previously 
 ## Related Claims
 - [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](personalization-improves-hard-kc-accuracy-algebra-its.md) — related
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — related
-- [Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra](personalization-struggling-students-moderation.md) — related
+- [In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit](personalization-struggling-students-moderation.md) — related

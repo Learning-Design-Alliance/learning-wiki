@@ -15,12 +15,14 @@ sources:
     author: "Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf"
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # SWPBIS training significantly improved staff-reported implementation fidelity on all four EBS subscales
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Staff ratings of schoolwide, nonclassroom, classroom, and individualized behavior support systems all improved significantly in SWPBIS-trained schools. [→ Catherine P. Bradshaw 2010](#catherine-p-bradshaw-2010)
@@ -31,7 +33,7 @@ sources:
 
 Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Repeated measures GLM on the staff-completed Effective Behavior Support Survey across 5 years of the randomized trial. Schoolwide systems effect: "Wilks's Λ = .50, F(4, 32) = 7.97, p < .001, η2 = .50, d = 1.71"; nonclassroom d = 1.47, classroom d = 1.08, individualized d = 1.46.
 

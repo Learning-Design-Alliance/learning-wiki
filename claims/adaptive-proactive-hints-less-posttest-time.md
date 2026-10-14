@@ -49,4 +49,4 @@ Controlled study in the Deep Thought tutor (Fall 2019 discrete math course). A W
 - [BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality](bkt-faster-posttest-completion.md) — a narrower finding that bears on this claim
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
 - [Participants deprived of relevant relational knowledge in Stage 1 take longer on the subsequent network-reasoning task](control-condition-slower-network-reasoning.md) — related
-- [Students receiving personalized problems engaged in less gaming-the-system behavior within the tutoring environment](personalization-reduces-gaming-behavior.md) — related
+- [Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit](personalization-reduces-gaming-behavior.md) — related

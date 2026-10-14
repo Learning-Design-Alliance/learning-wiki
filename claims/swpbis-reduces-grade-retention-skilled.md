@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously
-description: Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously
+title: Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)
+description: Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)
 id: swpbis-reduces-grade-retention-skilled
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously
+# Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+<!-- title before 2026-10-14: Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously -->
 
 ## Subclaims
 `q3 i1` A lower percentage of socially-emotionally skilled children in SWPBIS schools had ever been held back a grade over the trial (1.8% vs. 4.2%, d = -0.39). [→ Bradshaw 2015](#bradshaw-2015)
@@ -45,4 +46,4 @@ Archival administrative-record outcome (grade retention) in the group-randomized
 ## Related Claims
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related
-- [SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years](swpbis-reduces-disruptive-behavior.md) — related
+- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related

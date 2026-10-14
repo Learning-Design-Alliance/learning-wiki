@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra
-description: Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra
+title: In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit
+description: In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit
 id: personalization-struggling-students-moderation
 status: draft
 generated:
@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: walkington-2013
     resource: "https://doi.org/10.1037/a0031882"
-    title: "Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. Journal of Educational Data Mining, 5(1). https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)"
+    title: "Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)"
     author: Walkington, C. A.
     q: 3
     i: "?"
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra
+# In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+<!-- title before 2026-10-14: Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra -->
 
 ## Subclaims
 `q3 i?` Low achievement students in the personalization condition greatly outperformed low achievement controls on hard KCs in Unit 6 (odds = 4.20, p = 0.037). [→ Walkington 2013](#walkington-2013)
@@ -31,7 +32,7 @@ sources:
 
 ### Walkington 2013
 
-Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. Journal of Educational Data Mining, 5(1). https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
+Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
 
 `q3 · i?` · `causal · r2`
 
@@ -43,7 +44,7 @@ Subgroup analysis using curriculum progress as achievement proxy. 25 students id
 
 
 ## Related Claims
-- [Personalization improved accuracy on easy knowledge components in Unit 6](personalization-improves-easy-kc-accuracy-algebra-its.md) — related
+- [Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit](personalization-improves-easy-kc-accuracy-algebra-its.md) — related
 - [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](personalization-improves-hard-kc-accuracy-algebra-its.md) — a broader claim this one bears on
-- [Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal](personalization-reduces-solution-time-efficiency.md) — related
-- [Students receiving personalized problems engaged in less gaming-the-system behavior within the tutoring environment](personalization-reduces-gaming-behavior.md) — related
+- [Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit](personalization-reduces-solution-time-efficiency.md) — related
+- [Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit](personalization-reduces-gaming-behavior.md) — related

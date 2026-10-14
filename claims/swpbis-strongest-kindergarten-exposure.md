@@ -46,7 +46,7 @@ Cross-level interaction tests in the HLM models of the group RCT showed grade co
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [SWPBIS improves emotion regulation among elementary school children](swpbis-improves-emotion-regulation.md) — related
-- [SWPBIS improves prosocial behavior among elementary school children](swpbis-improves-prosocial-behavior.md) — related
-- [SWPBIS reduces concentration problems among elementary school children](swpbis-reduces-concentration-problems.md) — related
-- [SWPBIS schools achieved and maintained high implementation fidelity during the trial](swpbis-high-fidelity-implementation.md) — related
+- [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
+- [SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related
+- [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
+- [SWPBIS schools achieved and maintained high implementation fidelity during the trial](swpbis-training-high-fidelity-set.md) — related

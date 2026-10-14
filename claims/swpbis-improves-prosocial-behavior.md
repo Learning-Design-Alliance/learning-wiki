@@ -1,7 +1,7 @@
 ---
 type: claim
-title: SWPBIS improves prosocial behavior among elementary school children
-description: SWPBIS improves prosocial behavior among elementary school children
+title: SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)
+description: SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)
 id: swpbis-improves-prosocial-behavior
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# SWPBIS improves prosocial behavior among elementary school children
+# SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+<!-- title before 2026-10-14: SWPBIS improves prosocial behavior among elementary school children -->
 
 ## Subclaims
 `q3 i0` Children in SWPBIS schools had higher levels of prosocial behavior than children in comparison schools (ES = –0.17). [→ Catherine P. Bradshaw 2012](#catherine-p-bradshaw-2012)
@@ -43,9 +44,9 @@ In the 4-year group RCT, HLM on teacher TOCA-C prosocial behavior ratings showed
 
 
 ## Related Claims
-- [SWPBIS improves emotion regulation among elementary school children](swpbis-improves-emotion-regulation.md) — related
+- [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
 - [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](swpbis-strongest-kindergarten-exposure.md) — related
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
 - [At end of program, the largest Too Good for Drugs effect was on teacher-rated prosocial behaviors (effect size 0.52), not statistically significant after WWC correction](too-good-for-drugs-prosocial-behavior-end-of-program-es-052.md) — related
-- [SWPBIS reduces concentration problems among elementary school children](swpbis-reduces-concentration-problems.md) — related
-- [SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years](swpbis-reduces-disruptive-behavior.md) — related
+- [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
+- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related

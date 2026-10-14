@@ -27,7 +27,7 @@ Page counts are regenerated with every index rebuild.
 | [Research Methods](research-methods/) | 429 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
 | [Theories](theories/) | 1,372 | Explanatory frameworks that ground principles and claims. |
 | [Learner Variables](learner-variables/) | 14 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 17,909 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Claims](claims/) | 17,908 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 

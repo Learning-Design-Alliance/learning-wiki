@@ -1,7 +1,7 @@
 ---
 type: claim
-title: SWPBIS reduces concentration problems among elementary school children
-description: SWPBIS reduces concentration problems among elementary school children
+title: SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)
+description: SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)
 id: swpbis-reduces-concentration-problems
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# SWPBIS reduces concentration problems among elementary school children
+# SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+<!-- title before 2026-10-14: SWPBIS reduces concentration problems among elementary school children -->
 
 ## Subclaims
 `q3 i0` Children in SWPBIS schools showed significantly lower concentration problems than children in comparison schools (ES = 0.08). [→ Catherine P. Bradshaw 2012](#catherine-p-bradshaw-2012)
@@ -43,9 +44,9 @@ Same 4-year group RCT; multilevel HLM analysis of teacher-rated concentration pr
 
 
 ## Related Claims
-- [SWPBIS improves emotion regulation among elementary school children](swpbis-improves-emotion-regulation.md) — related
-- [SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years](swpbis-reduces-disruptive-behavior.md) — related
-- [SWPBIS improves prosocial behavior among elementary school children](swpbis-improves-prosocial-behavior.md) — related
+- [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
+- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
+- [SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related
 - [SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers](swpbis-reduces-odr-at-risk-high-risk.md) — related
 - [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](swpbis-strongest-kindergarten-exposure.md) — related
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related

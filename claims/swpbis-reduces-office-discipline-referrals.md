@@ -43,7 +43,7 @@ Multilevel logistic regression in the 4-year group RCT on aggregated dichotomous
 
 
 ## Related Claims
-- [Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children](swpbis-effects-greatest-at-risk-high-risk-children.md) — a narrower finding that bears on this claim
+- [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — a narrower finding that bears on this claim
 - [SWPBIS does not significantly reduce out-of-school suspensions in this trial](swpbis-no-effect-suspensions.md) — related
 - [SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers](swpbis-reduces-odr-at-risk-high-risk.md) — a narrower finding that bears on this claim
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related

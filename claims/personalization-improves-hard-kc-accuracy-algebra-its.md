@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: walkington-2013
     resource: "https://doi.org/10.1037/a0031882"
-    title: "Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. Journal of Educational Data Mining, 5(1). https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)"
+    title: "Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)"
     author: Walkington, C. A.
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Walkington 2013
 
-Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. Journal of Educational Data Mining, 5(1). https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
+Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
 
 `q3 · i?` · `causal · r2`
 
@@ -43,10 +43,10 @@ Randomized experiment with 145 ninth-grade Algebra I students in Cognitive Tutor
 
 
 ## Related Claims
-- [Personalization improved accuracy on easy knowledge components in Unit 6](personalization-improves-easy-kc-accuracy-algebra-its.md) — related
-- [Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal](personalization-reduces-solution-time-efficiency.md) — related
-- [Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra](personalization-struggling-students-moderation.md) — a narrower finding that bears on this claim
-- [Students receiving personalized problems engaged in less gaming-the-system behavior within the tutoring environment](personalization-reduces-gaming-behavior.md) — related
+- [Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit](personalization-improves-easy-kc-accuracy-algebra-its.md) — related
+- [Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit](personalization-reduces-solution-time-efficiency.md) — related
+- [In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit](personalization-struggling-students-moderation.md) — a narrower finding that bears on this claim
+- [Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit](personalization-reduces-gaming-behavior.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related
 - [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related

@@ -46,4 +46,4 @@ End-of-program findings from the Bacon (2003) randomized controlled trial report
 - [Too Good for Violence produces statistically significant positive effects on elementary students' behavior 20 weeks after the program ends](tgv-significant-behavior-effects-20-weeks.md) — related
 - [Too Good for Drugs has potentially positive effects on student behavior, with a WWC-computed domain average effect size of 0.25 that is not statistically significant](too-good-for-drugs-potentially-positive-behavior-effects.md) — a broader claim this one bears on
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — a broader claim this one bears on
-- [SWPBIS improves prosocial behavior among elementary school children](swpbis-improves-prosocial-behavior.md) — related
+- [SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related

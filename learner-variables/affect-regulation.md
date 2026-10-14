@@ -124,7 +124,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](../claims/test-anxiety-negative-exam-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](../claims/nature-exposure-reduces-learner-stress.md) [+M] — instruction changes it
 - [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](../claims/swpbis-strongest-kindergarten-exposure.md) [~M] — instruction changes it
-- [SWPBIS improves emotion regulation among elementary school children](../claims/swpbis-improves-emotion-regulation.md) [-M] — instruction changes it
+- [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](../claims/swpbis-improves-emotion-regulation.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

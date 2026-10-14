@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The percentage of SWPBIS-school students with an office discipline referral declined significantly over the trial
-description: The percentage of SWPBIS-school students with an office discipline referral declined significantly over the trial
+title: In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data
+description: In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data
 id: swpbis-reduced-odr-percentage
 status: draft
 generated:
@@ -15,18 +15,23 @@ sources:
     author: "Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: catherine-p-bradshaw-2010-2
     resource: "https://doi.org/10.1177/1098300709334798"
     title: "Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798"
     author: "Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
-# The percentage of SWPBIS-school students with an office discipline referral declined significantly over the trial
+# In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+<!-- title before 2026-10-14: The percentage of SWPBIS-school students with an office discipline referral declined significantly over the trial -->
 
 ## Subclaims
 `q3 i?` The percentage of students with a major or minor ODR decreased significantly in SWPBIS schools, though the printed effect size was very small (d = .08). [→ Catherine P. Bradshaw 2010](#catherine-p-bradshaw-2010)
@@ -38,7 +43,7 @@ sources:
 
 Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Repeated measures GLM on SWIS ODR data from SWPBIS-trained schools only (no baseline or comparison ODR data; SWIS use was part of the program). The percentage fell "from 18.8% to 18.1%" with d = .08.
 
@@ -48,7 +53,7 @@ Repeated measures GLM on SWIS ODR data from SWPBIS-trained schools only (no base
 
 Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Second GLM analysis of SWIS ODR data from the SWPBIS schools across the four posttraining years, showing a significant decline in ODR events per student with d = .12.
 

@@ -15,12 +15,14 @@ sources:
     author: John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Teachers had abundant student data but most needed help translating data into instructional steps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 61 percent of teachers agreed or strongly agreed that while they had plenty of data, they needed help translating those data into instructional steps. [→ John F. Pane 2015](#john-f-pane-2015)
@@ -31,7 +33,7 @@ sources:
 
 John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015). Continued Progress: Promising Evidence on Personalized Learning. RAND Corporation. https://www.rand.org/t/RR1365z2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Spring 2015 online teacher survey (distributed to 261 teachers, 74 percent response rate) on learner profile implementation; majorities reported receiving mastery, extra-help, and concept-mastery data at least weekly.
 
