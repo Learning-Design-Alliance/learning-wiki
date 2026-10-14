@@ -41,6 +41,7 @@ Self-Directed Learning is the pattern-level target for designs in which learners
 - [Self-Directed Learning](../principles/self-directed-learning.md)
 - [Self-Regulation](../principles/self-regulated-learning.md)
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+W]
+- [Self-regulation strategy instruction improves achievement](../claims/self-regulation-strategy-instruction-improves-achievement.md) [+S]
 
 ## Key Sources
 - Knowles, M. S. (1975). *Self-directed learning*. Follett.

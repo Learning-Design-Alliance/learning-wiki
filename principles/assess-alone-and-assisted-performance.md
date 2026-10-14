@@ -38,7 +38,9 @@ The article reports Vygotsky's assessment principle that a true picture of cogni
 - accurate assessment of cognitive development
 
 ### Claims
+
 - [Vygotsky Zone Of Proximal Development](../theories/vygotsky-zone-of-proximal-development.md) [+S]
+- [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](../claims/static-assessment-misses-emerging-functions.md) [+W]
 
 ## Related Principles
 

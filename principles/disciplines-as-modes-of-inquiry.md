@@ -41,6 +41,7 @@ Sharon Bailin's plenary address extends the standard skills-and-dispositions acc
 ### Claims
 
 - [Principles of reason assessment are both subject-neutral and subject-specific](../claims/reason-assessment-principles-both-neutral-and-specific.md) [+W]
+- [Critical science education requires explicit attention to philosophy of science and rival theories](../claims/critical-science-education-philosophy-of-science.md) [+W]
 
 ## Related Principles
 

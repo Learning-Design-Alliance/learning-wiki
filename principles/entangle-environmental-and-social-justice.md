@@ -42,6 +42,7 @@ The article argues that an ecologically attuned CCP should treat environmental j
 ### Claims
 
 - [Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+W]
+- [Brazilian EE legislation shifted from Law 6938/1981's naturalistic, conservation-restricted discourse to the socio-environmental perspective of Law 9795/1999 and the 2013 DCNEB](../claims/brazilian-ee-legislation-discourse-shift.md) [+W]
 
 ## Related Principles
 

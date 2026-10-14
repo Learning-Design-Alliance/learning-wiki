@@ -42,6 +42,7 @@ The article argues interactive video's power lies in providing context and conte
 
 - [Annotated Videodisc Beats Videotape Retention Recall](../claims/annotated-videodisc-beats-videotape-retention-recall.md) [+M]
 - [Learner flow control over animations was rarely used and did not correlate with learning performance](../claims/flow-control-unused-no-learning-correlation.md) [-W]
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~W]
 
 ## Related Principles
 - 

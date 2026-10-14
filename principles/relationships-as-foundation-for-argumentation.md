@@ -46,7 +46,9 @@ Argumentation instruction is often taught as a set of discourse moves (making cl
 - (none yet linked)
 
 ### Claims
+
 - [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](../claims/relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) [+M]
+- [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](../claims/relationship-quality-defines-safe-schools.md) [+W]
 
 ## Related Principles
 - (none yet linked)
