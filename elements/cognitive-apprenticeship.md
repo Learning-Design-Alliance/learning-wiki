@@ -32,4 +32,4 @@ Cognitive apprenticeship is the element in which learners observe expert thinkin
 - [Coaching](coaching.md)
 
 ## Key Sources
-- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*.
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*. [doi:10.5840/thinking19888129](https://doi.org/10.5840/thinking19888129)

@@ -35,4 +35,4 @@ Cognitive apprenticeship is the theory that complex thinking is learned through 
 - [Computational Essay Writing](../patterns/computational-essay-writing.md) — students work from modeled expert artifacts (example computational essays) toward independent investigation, articulating their reasoning in writing
 
 ## Key Sources
-- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*.
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*. [doi:10.5840/thinking19888129](https://doi.org/10.5840/thinking19888129)

@@ -10,7 +10,7 @@ evidence_strength: moderate
 sources:
   - id: jimenez-et-al-1995
     resource: "https://journals.sagepub.com/home/aer"
-    title: "Jimenez, R. T., García, G. E., & Pearson, P. D. (1995). Three children, two languages, and strategic reading: Case studies in bilingual/monolingual reading. *American Educational Research Journal, 32*(1), 67-97. [https://journals.sagepub.com/home/aer](https://journals.sagepub.com/home/aer)"
+    title: "Jimenez, R. T., García, G. E., & Pearson, P. D. (1995). Three children, two languages, and strategic reading: Case studies in bilingual/monolingual reading. *American Educational Research Journal, 32*(1), 67-97. [https://journals.sagepub.com/home/aer](https://journals.sagepub.com/home/aer). [doi:10.2307/1163214](https://doi.org/10.2307/1163214)"
     author: "Jimenez, R. T., García, G. E., & Pearson, P. D."
     q: 2
     i: "?"
@@ -45,7 +45,7 @@ Students who are genuinely fluent in two languages — able to express the same 
 
 ### Jimenez et al. 1995
 
-Jimenez, R. T., García, G. E., & Pearson, P. D. (1995). Three children, two languages, and strategic reading: Case studies in bilingual/monolingual reading. *American Educational Research Journal, 32*(1), 67-97. [https://journals.sagepub.com/home/aer](https://journals.sagepub.com/home/aer)
+Jimenez, R. T., García, G. E., & Pearson, P. D. (1995). Three children, two languages, and strategic reading: Case studies in bilingual/monolingual reading. *American Educational Research Journal, 32*(1), 67-97. [https://journals.sagepub.com/home/aer](https://journals.sagepub.com/home/aer). [doi:10.2307/1163214](https://doi.org/10.2307/1163214)
 
 `q2 · qualitative/case-study reading research · i? · no source text available to check; the entry prints no effect size · n=small (case-study design)` · `qualitative · r?`
 

@@ -84,4 +84,4 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 - Cohen, E. G., & Lotan, R. A. (2014). *Designing groupwork: Strategies for the heterogeneous classroom* (3rd ed.). Teachers College Press.
 - Johnson, D. W., & Johnson, R. T. (1989). *Cooperation and competition: Theory and research*. Interaction Book Company.
 - Webb, N. M. (2009). The teacher's role in promoting collaborative dialogue in the classroom. *British Journal of Educational Psychology, 79*(1), 1–28. [doi:10.1348/000709908x380772](https://doi.org/10.1348/000709908x380772)
-- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *POGIL: Process-Oriented Guided Inquiry Learning*. Oxford University Press.
+- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *POGIL: Process-Oriented Guided Inquiry Learning*. Oxford University Press. [doi:10.1021/bk-2008-0994](https://doi.org/10.1021/bk-2008-0994)

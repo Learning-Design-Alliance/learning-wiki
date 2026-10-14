@@ -31950,5 +31950,97 @@
  "technology-tool\tAI videos for simple or visualizable topics\tAI videos for complex topics": {
   "label": "AI videos for simple topics vs AI videos for complex topics",
   "treatment_is_a": true
+ },
+ "active-learning\tDeliberative Poll participation\tOther participants during the deliberative process": {
+  "label": "Deliberative Poll participation vs other participants",
+  "treatment_is_a": true
+ },
+ "active-learning\tDeliberative Poll participation\tPre-deliberation responses": {
+  "label": "Deliberative participation vs pre-deliberation",
+  "treatment_is_a": true
+ },
+ "active-learning\tJust-in-Time Teaching\ttraditional lecture": {
+  "label": "Just-in-Time Teaching vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tJust-in-Time teaching\ttraditional lecture": {
+  "label": "Just-in-Time Teaching vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive participation in interaction\tless active participation in interaction": {
+  "label": "More active participation vs less active participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning in small groups\tunspecified comparison": {
+  "label": "Cooperative learning in small groups vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberative Poll process\tnot stated": {
+  "label": "Deliberative process vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberative Poll process\tparticipants' responses before or earlier in the Poll": {
+  "label": "Deliberative process vs pre-deliberation",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberative participation\tresponses before or earlier in the Poll": {
+  "label": "Deliberative participation vs pre-deliberation",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberative process\tbefore deliberation": {
+  "label": "Deliberative process vs pre-deliberation",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline problem-based learning\tonline instructor-led instruction": {
+  "label": "Online problem-based learning vs online instructor-led instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\tlecture method": {
+  "label": "Problem-based learning vs lecture method",
+  "treatment_is_a": true
+ },
+ "active-learning\ttask-based conversational interaction\tcontrol condition": {
+  "label": "Task-based conversational interaction vs control condition",
+  "treatment_is_a": true
+ },
+ "active-learning\ttask-based conversational interaction\tcontrol group": {
+  "label": "Task-based conversational interaction vs control condition",
+  "treatment_is_a": true
+ },
+ "autonomy-support\t15-week extensive reading course\tpretest before extensive reading": {
+  "label": "extensive reading vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\t15-week extensive reading with learner book choice\tpre-extensive-reading baseline": {
+  "label": "learner-choice extensive reading vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\t15-week extensive reading with learner choice\tpretest before the extensive-reading course": {
+  "label": "learner-choice extensive reading vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner-controlled hypermedia\tsystem-controlled multimedia": {
+  "label": "learner-controlled vs system-controlled learning",
+  "treatment_is_a": true
+ },
+ "case-comparison\tPS-I with contrasting cases\tPS-I without contrasting cases": {
+  "label": "contrasting cases vs no contrasting cases",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tMDP-8 expectimax eight-exercise lookahead\tblocking": {
+  "label": "adaptive interleaving vs blocking",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tblocking\tMDP-1 expectimax one-exercise lookahead": {
+  "label": "adaptive interleaving vs blocking",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tdirect CT instruction with explanation, modeling, scaffolding, coaching, and discussion\timplicit CT instruction embedded without explicit emphasis": {
+  "label": "explicit vs implicit instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\tblocking\tmixing": {
+  "label": "interleaving vs blocking",
+  "treatment_is_a": false
  }
 }

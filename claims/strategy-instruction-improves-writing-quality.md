@@ -102,3 +102,4 @@ Open questions for future evidence entries include the durability of effects aft
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — prompts are a common delivery mechanism for SRL strategy instruction
 - [Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic.](skilled-writers-topic-familiarity-knowledge.md) — related
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related
+- [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](contract-yields-more-student-work.md) — related

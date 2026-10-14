@@ -68,6 +68,6 @@ In response to the last two criticisms, some accounts propose a **revised experi
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.
 - Baker, A., Jensen, P., & Kolb, D. (2002). *Conversational learning: An approach to knowledge creation*. Quorum Books.
-- Miettinen, R. (2000). The concept of experiential learning and John Dewey's theory of reflective thought and action. *International Journal of Lifelong Education, 19*(1), 54-72.
+- Miettinen, R. (2000). The concept of experiential learning and John Dewey's theory of reflective thought and action. *International Journal of Lifelong Education, 19*(1), 54-72. [doi:10.1080/026013700293458](https://doi.org/10.1080/026013700293458)
 - Yorks, L., & Kasl, E. (2002). Toward a theory and practice for whole-person learning: Reconceptualizing experience and the role of affect. *Adult Education Quarterly, 52*(3), 176-192.
 - Zhou, M., & Brown, D. (Eds.). (2015). Experiential learning theory. In *Educational learning theories* (2nd ed.). GALILEO Open Learning Materials.

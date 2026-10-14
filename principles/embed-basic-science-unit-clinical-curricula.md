@@ -18,7 +18,7 @@ sources:
 # Embed basic science and mechanisms of disease as a distinct unit in clinical curricula
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The principle holds that clinical training curricula should embed basic science and mechanisms of disease as their own unit, integrated with practicing clinical skills and society guidelines, so that learners can recognize cases as instances of underlying mechanisms and defend against scientifically invalid causal claims. The article uses the CREOG Educational Objectives, which embed "Basic Science/Mechanisms of Disease" as its own unit within the obstetrics curriculum, as its model, and argues training programs should enhance basic science education, especially given increasing reliance on care algorithms and AI-derived decision making.
@@ -40,8 +40,12 @@ The principle holds that clinical training curricula should embed basic science 
 - evaluating scientific validity of causal claims
 
 ### Claims
+
 - Basic Science Integration Diagnostic Reasoning [+M]
 - Basic Science Education Counters Misinformation [+M]
+- [Biomedical causal knowledge improves novice diagnostic accuracy on difficult cases with irrelevant findings](../claims/biomedical-causal-knowledge-improves-novice-diagnosis-irrelevant-findings.md) [+W] — attached 2026-10-14 from Woods et al. (2007), which proposed "Teach causal mechanisms alongside clinical features to prepare novices for difficult diagnoses"; tests this page's relationship.
+- [Biomedical causal knowledge improves novice diagnostic accuracy on cases using unfamiliar terminology](../claims/biomedical-causal-knowledge-improves-novice-diagnosis-unfamiliar-terminology.md) [+W] — attached 2026-10-14 from Woods et al. (2007), which proposed "Teach causal mechanisms alongside clinical features to prepare novices for difficult diagnoses"; tests this page's relationship.
+- [Advantage of causal knowledge on unfamiliar terminology persists one week after training](../claims/causal-knowledge-advantage-unfamiliar-terminology-persists-one-week.md) [+W] — attached 2026-10-14 from Woods et al. (2007), which proposed "Teach causal mechanisms alongside clinical features to prepare novices for difficult diagnoses"; tests this page's relationship.
 
 ## Related Principles
 

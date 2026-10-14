@@ -18,7 +18,7 @@ sources:
     rigour: "?"
   - id: siegel-et-al-1963
     resource: "https://psycnet.apa.org/journals/edu"
-    title: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [https://psycnet.apa.org/journals/edu](https://psycnet.apa.org/journals/edu)"
+    title: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [https://psycnet.apa.org/journals/edu](https://psycnet.apa.org/journals/edu). [doi:10.1037/h0049171](https://doi.org/10.1037/h0049171)"
     author: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H."
     q: 3
     i: 2
@@ -62,7 +62,7 @@ Reviewing over ninety studies comparing college teaching methods, this analysis 
 
 ### Siegel et al 1963
 
-Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [https://psycnet.apa.org/journals/edu](https://psycnet.apa.org/journals/edu)
+Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [https://psycnet.apa.org/journals/edu](https://psycnet.apa.org/journals/edu). [doi:10.1037/h0049171](https://doi.org/10.1037/h0049171)
 
 `q3 · peer-reviewed classroom observation study · i2 · large, statistically significant difference in active vs. passive thought time between conditions · n=moderate (college classroom samples)` · `causal · r?`
 

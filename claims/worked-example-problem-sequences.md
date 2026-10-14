@@ -66,3 +66,4 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 
 - [Identical pairs qualify an example-first final-test advantage](identical-example-problem-order-advantage-not-detected-at-final-test.md)
 - [Fading and principle prompts in probability learning](fading-and-principle-prompts-improve-probability-transfer.md)
+- [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) — reports the opposite

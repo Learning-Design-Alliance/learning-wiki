@@ -30,4 +30,4 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Dual coding theory (Paivio) as an account of visual facilitation of L2 lexical knowledge](dual-coding-theory-l2-lexical-application.md)
 
 ## Key Sources
-- Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

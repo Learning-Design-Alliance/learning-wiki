@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/individualizing-initial-knowledge-improves-prediction.md
+---
+
+# Revision history: [claims/individualizing-initial-knowledge-improves-prediction](../claims/individualizing-initial-knowledge-improves-prediction.md)
+
+### 2026-10-14 · ingest · process:wiki-ingest
+Ingested from pg-pardos-2010-modeling-individualization-in-a-bayesian-network (Modeling Individualization in a Bayesian Networks Implementation of Knowledge Tracing) via eval_harness.py + ingest_extractions.py

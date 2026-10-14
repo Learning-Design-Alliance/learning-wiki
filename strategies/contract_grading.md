@@ -63,6 +63,7 @@ Contract grading works by making expectations explicit and giving learners contr
 - Ungrading / Labor-Based Assessment — a radical variant that removes grades entirely during the term
 - Specification Grading (Nilson) — a structured commercial variant using token economies and binary rubrics
 - [Negotiate learning contracts at the start of term and allow test retakes until mastery](negotiate-contracts-allow-retakes.md)
+- [Handle fuzzy effort criteria as charitable yes/no binary requirements with periodic check-ins](fuzzy-criteria-as-charitable-yes-no-requirements.md)
 
 ## Examples
 - **Peter Elbow's contract grading** in composition courses (e.g., *Embracing Contraries*, 1986): students earn a B by completing all assigned writing and responding to peers; an A requires a negotiated extra project.

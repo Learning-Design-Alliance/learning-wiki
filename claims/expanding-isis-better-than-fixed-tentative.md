@@ -49,3 +49,4 @@ Meta-analytic comparison of expanding versus fixed ISI schedules, 22 accuracy co
 - [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-repetition-improves-retention.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [Students' academic outcomes tentatively benefit from teacher-focused classroom management programs](teacher-focused-programs-academic-outcomes-tentative.md) — related

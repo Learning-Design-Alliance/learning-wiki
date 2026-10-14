@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 51 claims (44 for, 6 mixed, 1 against) · 50 studies (13 review, 11 qualitative, 9 causal, 6 design, 5 associational, 5 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 50 report an effect size · 47 claims rest on one study
+> **Evidence** · 57 claims (49 for, 7 mixed, 1 against) · 51 studies (13 review, 11 qualitative, 9 causal, 6 design, 5 associational, 5 theoretical, 2 quant-synthesis), `q1`–`q4` · 1 of 51 report an effect size · 53 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -84,6 +84,12 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](../claims/competence-strongest-predictor-relatedness-null.md) [-M] — learners who differ on it differ in outcomes
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](../claims/genai-team-interaction-safety-and-reduction.md) [~W] — instruction changes it
 - [When connection between student and educator is minimised, as in anonymous grading, students report weaker relationships and perceive feedback as less beneficial](../claims/anonymous-grading-weakens-connection-and-feedback-benefit.md) [+M] — instruction changes it
+- [Associations with school belonging are generally stronger in rural than urban locations](../claims/belonging-effects-stronger-rural-than-urban.md) [~M] — instruction changes it
+- [Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging](../claims/contextual-themes-school-belonging.md) [+M] — instruction changes it
+- [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](../claims/individual-difference-themes-school-belonging.md) [+M] — instruction changes it
+- [Positive personal characteristics are among the strongest predictors of school belonging](../claims/personal-characteristics-strong-predictor-school-belonging.md) [+M] — instruction changes it
+- [Social support factors (parent, peer, teacher) are among the themes associated with adolescent school belonging](../claims/social-support-themes-school-belonging.md) [+M] — instruction changes it
+- [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.

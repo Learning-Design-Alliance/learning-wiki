@@ -50,6 +50,7 @@ The protocol argues that skill-based training programmes delivered alongside the
 
 - [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
 - [Use workshops and training sessions to familiarize students and educators with MALL and foster independence](../strategies/workshops-training-mall-familiarization.md)
+- [Design CT interventions using empirically valid instructional design principles and report student and teacher characteristics](../strategies/design-ct-interventions-with-valid-instructional-principles.md)
 
 ## Key Sources
 - Kapu H, Shetty Veekshitha S, Rajendran Rajalakshmi, Sekhar M Sonal, Kunhikatta Vijayanarayana, Unnikrishnan B, Khan Sohil, Gunning Tiffany K, Athan Eugene, Saha Sajal K, Thunga Girish. (2026). Exploring educational approaches and strategies for developing evidence synthesis skills among pharmacy students: a scoping review protocol. BMJ Open. https://doi.org/10.1136/bmjopen-2026-119283

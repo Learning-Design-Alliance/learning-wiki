@@ -66,6 +66,7 @@ Comparison is one of the most consistently supported learning strategies: contra
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — comparison across cases is the engine of analogical abstraction
 - [Case-Based Learning](case-based-learning.md) — extended case work; contrasting cases is the compressed, comparison-focused form
 - [Use a contrasting case study design to identify subtle leadership differences between schools with improving and non-improving achievement](contrasting-case-study-leadership-differences.md)
+- [When implementing PS-I, include contrasting cases or build the instruction phase on student solutions](include-contrasting-cases-or-build-instruction-on-student-solutions.md)
 
 ## Examples
 - **Rittle-Johnson & Star's algebra studies** — students compared two worked solutions to the same equation (e.g., substitution vs. elimination), improving procedural flexibility and conceptual knowledge relative to studying solutions sequentially.

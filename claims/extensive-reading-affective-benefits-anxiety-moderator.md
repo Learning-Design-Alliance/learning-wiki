@@ -74,3 +74,4 @@ The review cites Mardianti et al. (2021) for the contrast: difficult texts with 
 - [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — a narrower finding that bears on this claim
 - [Teachers valued leveled articles on shared topics as supporting a cohesive classroom experience across reading levels](leveled-articles-shared-topics-cohesion.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
+- [Extensive reading produced no measurable change in the perceived Practical Value of foreign-language reading (r = .09)](er-no-change-practical-value-attitude.md) — related

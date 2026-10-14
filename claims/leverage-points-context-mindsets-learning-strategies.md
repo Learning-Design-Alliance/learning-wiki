@@ -53,3 +53,4 @@ Interpretive summary recommendation from the review, grounded in its evaluation 
 - [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related
 - [The framework's literature review reports students' academic mindsets, learning strategies, perseverance, and behaviors were clearly and significantly related to school performance](noncognitive-factors-related-to-school-performance-farrington-2012.md) — related
 - [The Artifact captures learning experiences within and beyond the classroom, revealing learning habits and mindsets relevant to action-based pedagogy](artifact-captures-learning-in-action.md) — related
+- [The inclusion of developing and using models in K-12 science standards creates an opportunity to examine the role of modeling in science classrooms](ngss-modeling-practice-opportunity-for-educators.md) — related

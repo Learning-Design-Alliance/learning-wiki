@@ -17,7 +17,7 @@ sources:
 # Bayesian Knowledge Tracing (Two-State Hidden Markov Model)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 4 studies (2 causal, 1 review, 1 design), `q2`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 5 studies (2 causal, 2 design, 1 review), `q2`–`q3` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and Anderson, as a special case of the Hidden Markov Model with learning parameters (transition, forgetting) and performance parameters (guess, slip) plus an initial mastery probability. "BKT operates within a two-state student modeling framework: knowledge is either learned or unlearned, and there is no forgetting once a student has mastered the knowledge." Dynamic Bayesian knowledge tracing extends it to model hierarchies and relationships among knowledge concepts jointly.
@@ -46,6 +46,7 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - [No credible spacing or color cue effects on the BKT learning rate were observed in the perceptual-cue reanalysis](../claims/no-credible-cue-effects-learning-rate.md) [~W]
 - [In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two](../claims/problem-counts-by-knowledge-tracing-condition.md) [~W]
 - [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) [+W]
+- [Individualizing the initial knowledge parameter reliably improves prediction of real-world data](../claims/individualizing-initial-knowledge-improves-prediction.md) [+W] — attached 2026-10-14 from Pardos et al. (2010), which proposed "Individualized Bayesian knowledge tracing framework".
 
 ## Related Theories
 

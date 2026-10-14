@@ -18,7 +18,7 @@ sources:
 # Assess children's cognitive development both when performing alone and when assisted
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article reports Vygotsky's assessment principle that a true picture of cognitive development requires measuring both ability levels. It states that "to get a true assessment of a child's cognitive development it is necessary to assess their capabilities when performing alone and when assisted," because the level of potential development, what a child can do with a more competent individual's help, exceeds the actual developmental level of solo performance.

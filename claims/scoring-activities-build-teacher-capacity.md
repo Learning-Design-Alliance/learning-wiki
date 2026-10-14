@@ -45,3 +45,4 @@ The report offers this as an authors' argument for the educative value of human-
 ## Related Claims
 - [A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s](peer-coaching-supports-teacher-professional-development.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
+- [Developing professional learning communities appears to hold considerable promise for capacity building for sustainable improvement](plcs-hold-promise-for-capacity-building.md) — related

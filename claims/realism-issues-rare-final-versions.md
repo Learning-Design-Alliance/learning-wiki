@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: walkington-2025
-    resource: "https://arxiv.org/abs/2604.12066"
-    title: "Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. https://arxiv.org/abs/2604.12066"
+    resource: "https://doi.org/10.1007/978-3-032-29770-9_5"
+    title: "Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. https://arxiv.org/abs/2604.12066. [doi:10.1007/978-3-032-29770-9_5](https://doi.org/10.1007/978-3-032-29770-9_5)"
     author: Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Walkington 2025
 
-Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. https://arxiv.org/abs/2604.12066
+Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. https://arxiv.org/abs/2604.12066. [doi:10.1007/978-3-032-29770-9_5](https://doi.org/10.1007/978-3-032-29770-9_5)
 
 `q2 · i?` · `design · r2`
 

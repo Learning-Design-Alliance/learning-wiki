@@ -71,5 +71,5 @@ TBL operationalizes [Active Learning](../principles/active-learning.md) at scale
 ## Key Sources
 - Michaelsen, L. K., & Sweet, M. (2008). The essential elements of team-based learning. *New Directions for Teaching and Learning, 2008*(116), 7–27. [doi:10.1002/tl.330](https://doi.org/10.1002/tl.330)
 - Haidet, P., Levine, R. E., Parmelee, D. X., Crow, S., Kennedy, F., Kelly, P. A., Bender, L., Allen, H. W., Durrance, D., & Richards, B. F. (2012). Perspective: Guidelines for reporting team-based learning activities in the medical and health sciences education literature. *Academic Medicine, 87*(3), 292–299. [doi:10.1097/ACM.0b013e318244759e](https://doi.org/10.1097/ACM.0b013e318244759e)
-- Michaelsen, L. K., Knight, A. B., & Fink, L. D. (Eds.). (2002). *Team-based learning: A transformative use of small groups in college teaching.* Stylus Publishing.
+- Michaelsen, L. K., Knight, A. B., & Fink, L. D. (Eds.). (2002). *Team-based learning: A transformative use of small groups in college teaching.* Stylus Publishing. [doi:10.5040/9798216023364](https://doi.org/10.5040/9798216023364)
 - Sisk, R. J. (2011). Team-based learning: Systematic research review. *Journal of Nursing Education, 50*(12), 665–669. [doi:10.3928/01484834-20111017-01](https://doi.org/10.3928/01484834-20111017-01)

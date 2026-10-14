@@ -50,3 +50,4 @@ Theoretical argument from the article's section on Critical Questions Generation
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [Trained students use more diverse higher-order prompting strategies, including generating new questions absent among controls](trained-students-higher-order-prompting-strategies.md) — related
 - [Oral assessments are recommended as a strategy to maintain academic integrity against AI use](oral-assessments-academic-integrity-ai.md) — related
+- [Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer](implicit-strategies-inconclusive-domain-specific-only.md) — related

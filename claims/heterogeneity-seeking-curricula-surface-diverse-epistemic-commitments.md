@@ -54,3 +54,4 @@ This is a qualitative, non-experimental design study without a comparison condit
 - [The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools](ethic-of-care-found-in-three-female-principals.md) — related
 - [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related
 - [Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics](real-world-examples-aid-comprehension-and-relevance.md) — related
+- [Models can only be understood with respect to the aims and intentions of a cognitive agent, not solely in terms of representation](models-understood-via-agent-aims-and-intentions.md) — related

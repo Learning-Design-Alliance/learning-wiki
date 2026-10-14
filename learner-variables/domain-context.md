@@ -12,7 +12,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 38 claims (32 for, 5 mixed, 1 against) · 40 studies (11 qualitative, 10 review, 7 design, 5 causal, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 40 report an effect size · 34 claims rest on one study
+> **Evidence** · 39 claims (32 for, 6 mixed, 1 against) · 41 studies (11 review, 11 qualitative, 7 design, 5 causal, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 41 report an effect size · 35 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -71,6 +71,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications](../claims/ai-relevance-perceptions-abstract-versus-proximal.md) [+M] — instruction changes it
 - [The collective generative AI intervention's effect on relevance as identification with math persisted one week later through its immediate effect](../claims/collective-ai-relevance-effect-sustained-one-week.md) [+W] — instruction changes it
 - [The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition](../claims/individual-ai-condition-no-significant-relevance-effect.md) [-M] — instruction changes it
+- [Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer](../claims/implicit-strategies-inconclusive-domain-specific-only.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Prior knowledge — the domain-specific dimension it is most often confused with: this is setting, that is knowledge.

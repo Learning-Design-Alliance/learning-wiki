@@ -47,7 +47,8 @@ The article advises that "Practitioners might want to strongly consider aided sy
 - [Assess children's AAC system preferences as part of the AAC decision-making process](personalization.md)
 
 ## Examples
--
+
+- [Prefer PECS or speech-generating devices when selecting aided AAC approaches for individuals with ASD](../strategies/prefer-pecs-or-sgd-in-aided-aac-selection.md)
 
 ## Key Sources
 - Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374

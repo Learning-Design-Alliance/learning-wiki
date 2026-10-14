@@ -18,7 +18,7 @@ sources:
 # Social Interdependence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (7 for, 12 mixed, 1 against) · 17 studies (5 causal, 4 quant-synthesis, 4 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 17 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (8 for, 12 mixed, 1 against) · 18 studies (5 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 18 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +108,7 @@ Claims this page cited before it was rewritten, and neighbours found while rewri
 - [Cooperative learning has drawbacks including slow learners depending on fast achievers](../claims/cooperative-learning-versus-individual-endeavors.md) [~W] — an opinion essay (q1, no data); the dependence it names is the freeloading failure mode.
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](../claims/heterogeneous-teams-more-benefits-than-homogeneous.md) [~W] — a chapter's one-line citation of other research (q1); no study details.
 - [Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices](../claims/interdependence-modes-weakly-negatively-correlated.md) [~W] and [the specialisation–role interdependence relationship holds only where colleagues are seen as competing](../claims/specialization-role-interdependence-moderated-by-social-climate.md) [~W] — the same correlational study of 40 offices; organisational structure, not learning.
+- [Classroom research primarily supports the motivational perspective on cooperative learning effects](../claims/classroom-research-supports-motivational-perspective.md) [+W] — attached 2026-10-14 from Slavin (2014), which proposed "Design cooperative learning with group goals and individual accountability for group success".
 
 ## Objective and learner-valued goal
 

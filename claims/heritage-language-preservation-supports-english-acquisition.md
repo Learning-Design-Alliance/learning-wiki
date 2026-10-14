@@ -19,7 +19,7 @@ sources:
     rigour: "?"
   - id: kohnert-et-al-2005
     resource: "https://pubs.asha.org/journal/lshss"
-    title: "Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*(3), 251-263. [https://pubs.asha.org/journal/lshss](https://pubs.asha.org/journal/lshss)"
+    title: "Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*(3), 251-263. [https://pubs.asha.org/journal/lshss](https://pubs.asha.org/journal/lshss). [doi:10.1044/0161-1461(2005/025)](https://doi.org/10.1044/0161-1461(2005/025))"
     author: "Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L."
     q: 2
     i: "?"
@@ -63,7 +63,7 @@ This study found that prior vocabulary knowledge in one language produces measur
 
 ### Kohnert et al. 2005
 
-Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*(3), 251-263. [https://pubs.asha.org/journal/lshss](https://pubs.asha.org/journal/lshss)
+Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*(3), 251-263. [https://pubs.asha.org/journal/lshss](https://pubs.asha.org/journal/lshss). [doi:10.1044/0161-1461(2005/025)](https://doi.org/10.1044/0161-1461(2005/025))
 
 `q2 · clinical/applied study on bilingual language intervention · i? · no source text available to check; the entry prints no effect size · n=small-to-moderate (clinical caseload study)` · `causal · r?`
 

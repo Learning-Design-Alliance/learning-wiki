@@ -65,6 +65,7 @@ Learning contracts operationalize learner autonomy, and autonomy is a reliable l
 - [Goal-Setting](../elements/goal-setting.md) — the core skill contracts require and simultaneously develop
 - [Self-Assessment](../elements/self-assessment.md) — the evaluation mechanism that makes contracts formative rather than purely contractual
 - [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](evolving-criteria-feedback-conferences.md)
+- [Handle fuzzy effort criteria as charitable yes/no binary requirements with periodic check-ins](fuzzy-criteria-as-charitable-yes-no-requirements.md)
 
 ## Examples
 - **Knowles' andragogical practice** — Knowles used contracts as the organizing structure for graduate courses in adult education at Boston University and the Fielding Institute; students negotiated individualized objectives within a shared course competency framework (Knowles, 1986).
@@ -73,7 +74,7 @@ Learning contracts operationalize learner autonomy, and autonomy is a reliable l
 
 ## Key Sources
 - Knowles, M. S. (1986). *Using learning contracts: Practical approaches to individualizing and structuring learning*. Jossey-Bass.
-- Knowles, M. S., Holton, E. F., & Swanson, R. A. (2015). *The adult learner* (8th ed.). Routledge.
+- Knowles, M. S., Holton, E. F., & Swanson, R. A. (2015). *The adult learner* (8th ed.). Routledge. [doi:10.4324/9781315816951](https://doi.org/10.4324/9781315816951)
 - Brockett, R. G., & Hiemstra, R. (1991). *Self-direction in adult learning: Perspectives on theory, research, and practice*. Routledge.
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

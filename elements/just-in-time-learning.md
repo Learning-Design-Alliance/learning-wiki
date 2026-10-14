@@ -63,5 +63,5 @@ Just-in-time learning is the element in which information, guidance, or resource
 - A teacher provides a mini-lesson after a misconception appears during application.
 
 ## Key Sources
-- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press.
+- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press. [doi:10.17226/9853](https://doi.org/10.17226/9853)
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

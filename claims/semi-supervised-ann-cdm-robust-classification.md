@@ -47,3 +47,5 @@ The abstract reports experimental results from both a simulated study and a real
 - [Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy](tdcm-qmatrix-misspecification-hurts-classification.md) — related
 - [The prerequisite-violating knowledge-state pattern is primarily attributable to Q-matrix misspecification, and the original hierarchy shows superior predictive efficiency](qmatrix-misspecification-explains-hierarchy-violations.md) — related
 - [Model selection, not feedback condition, explains LLM diagnostic accuracy in three-way logic proof classification](model-selection-dominates-feedback-condition-diagnosis.md) — related
+- [A discrimination index can empirically validate Q-matrix specifications by identifying and replacing misspecified entries in the Q-matrix](discrimination-index-identifies-replaces-misspecified-q-matrix-entries.md) — related
+- [Q-matrix misspecification, if left unchecked, can have important practical implications](q-matrix-misspecification-practical-implications.md) — related

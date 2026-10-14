@@ -51,3 +51,4 @@ A qualitative study of 32 second- and third-year students in the teacher educati
 - [Micro-credential reflections push educators toward metacognition and self-evaluation](micro-credential-reflections-metacognition.md) — related
 - [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](critical-questions-competency-based-science-assessment.md) — related
 - [Critical thinking instruction transfers better when taught alongside academic content than as a standalone subject](critical-thinking-transfer-better-alongside-content.md) — related
+- [Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer](implicit-strategies-inconclusive-domain-specific-only.md) — related

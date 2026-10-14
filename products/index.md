@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1579 entries** · 0 stable · 0 in review · 1579 drafts
+**1581 entries** · 0 stable · 0 in review · 1581 drafts
 
 ---
 
@@ -535,6 +535,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [FORAP (Framework for Organizing Reusable and Adaptable PjBL Projects)](forap-framework-for-organizing-reusable-and-adaptable-pjbl-projects.md) - A framework developed by Suleiman et al.
 * [Forca Libras](forca-libras.md) - Forca Libras is an AI-powered computer-vision hangman game developed within the GAIA project to support Brazilian Sign Language learning for hearing students and Portuguese literacy for deaf students.
 * [Force and Motion Microworld (FMM)](force-and-motion-microworld-fmm.md) - A suite of three computer simulation programs developed by Tao et al.
+* [Force Concept Inventory (FCI)](force-concept-inventory-fci.md) - A standardized multiple-choice assessment developed by David Hestenes, Malcolm Wells, and Gregg Swackhamer to measure introductory students’ conceptual understanding of Newtonian mechanics.
 * [FoundationalASSIST dataset](foundationalassist-dataset.md) - FoundationalASSIST is a dataset of ASSISTments mathematics interactions containing complete question text, actual student responses, distractor selections, and Common Core knowledge-component alignments for developing and evaluating educational AI and knowledge-tracing models.
 * [Foundations for Young Adult Success](foundations-for-young-adult-success.md) - A UChicago Consortium framework that organizes developmental conditions and experiences supporting young people's successful transition to adulthood.
 * [Foundations for Young Adult Success: A Developmental Framework](foundations-for-young-adult-success-a-developmental-framework.md) - A conceptual framework developed by Nagaoka and colleagues at the University of Chicago Consortium on Chicago School Research that organizes the knowledge, skills, mindsets, strategies, and behaviors intended to support agency and success from childhood through young adulthood.
@@ -890,6 +891,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Mentira](mentira.md) - Mentira is a place-based mobile game developed by Holden and Sykes that teaches Spanish sociopragmatic language use through collaborative crime-mystery interactions and contextual corrective feedback.
 * [Mentor Tech](mentor-tech.md) - Mentor Tech is a Texas Tech University programme that supports underrepresented students through matched faculty mentoring, workshops, community connections, and scholarships.
 * [Menu of Measures](menu-of-measures.md) - A curated resource developed by Mathematica and a panel of mathematics-instruction and measurement researchers for Bill & Melinda Gates Foundation grantees, listing valid, reliable, and accessible measures of middle-grades mathematics outcomes.
+* [Meta-analytic dataset of 38 RAE studies across 14 sports and 16 countries](meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries.md) - A dataset assembled and reanalysed by Cobley et al.
 * [Metacognitive Awareness of Reading Strategies Inventory](metacognitive-awareness-of-reading-strategies-inventory.md) - MARSI is a self-report assessment developed by Mokhtari and Reichard to measure learners' awareness and use of global, problem-solving, and support reading strategies.
 * [Metacognitive Interview Form for Younger and Older Students](metacognitive-interview-form-for-younger-and-older-students.md) - A semi-structured interview assessment developed by the North Central Regional Educational Laboratory (NCREL) to measure younger and older students' metacognitive reading-strategy use before, during, and after reading.
 * [Metacognitive Interview Form for Younger Students](metacognitive-interview-form-for-younger-students.md) - An informal, semi-structured NCREL reading assessment interview that elicits younger students’ awareness and use of metacognitive strategies before, during, and after reading.

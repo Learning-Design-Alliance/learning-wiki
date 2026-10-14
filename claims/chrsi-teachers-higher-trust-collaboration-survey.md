@@ -56,3 +56,4 @@ Earlier Consortium survey research on CHSRI schools, cited in the report's intro
 - [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related
 - [Teachers in CHSRI small schools report significantly more supportive contexts for reform than similar teachers in other Chicago high schools](chsri-teachers-report-supportive-reform-context.md) — possibly the same claim (merge candidate)
 - [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — related
+- [Educational reform's progress depends on teachers' individual and collective capacity and its link with school-wide capacity for promoting pupils' learning](reform-progress-depends-on-teacher-and-school-capacity.md) — a broader claim this one bears on

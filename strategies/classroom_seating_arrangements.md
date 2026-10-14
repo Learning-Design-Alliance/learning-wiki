@@ -106,7 +106,7 @@ Seating arrangement acts as an environmental scaffold for the intended interacti
 - Marx, A., Fuhrer, U., & Hartig, T. (1999). Effects of classroom seating arrangements on children's question-asking. *Learning Environments Research, 2*(3), 249–263. [doi:10.1023/a:1009901922191](https://doi.org/10.1023/a:1009901922191)
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Hastings, N., & Schwieso, J. (1995). Tasks and tables: The effects of seating arrangements on task engagement in primary classrooms. *Educational Research, 37*(3), 279–292. [doi:10.1080/0013188950370306](https://doi.org/10.1080/0013188950370306)
-- McCorskey, J. C., & McVetta, R. W. (1978). Classroom seating arrangements: Instructional communication theory versus student preferences. *Communication Education, 27*(2), 99-111.
+- McCorskey, J. C., & McVetta, R. W. (1978). Classroom seating arrangements: Instructional communication theory versus student preferences. *Communication Education, 27*(2), 99-111. [doi:10.1080/03634527809378281](https://doi.org/10.1080/03634527809378281)
 - Harvey, E. J., & Kenyon, M. C. (2013). Classroom seating considerations for 21st century students and faculty. *Journal of Learning Spaces, 2*(1).
 - Rands, M. L., & Gansemer-Topf, A. M. (2017). The room itself is active: How classroom design impacts student engagement. *Journal of Learning Spaces, 6*(1).
 - Arduini-Van Hoose, N. (2020). Preventing management problems. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

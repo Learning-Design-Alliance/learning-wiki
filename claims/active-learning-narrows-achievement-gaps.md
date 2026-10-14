@@ -86,3 +86,4 @@ Both studies share a structure worth noting for design purposes: the achievement
 - [Effects of active learning on achievement gaps vary widely across studies, with a minority of studies showing larger benefits for non-minoritized students](active-learning-gap-effects-vary-across-studies.md) — related
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related
 - [Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
+- [Nature-based learning appears to work especially well for disadvantaged and disengaged students, potentially narrowing achievement gaps](nature-based-learning-benefits-disadvantaged-students.md) — related

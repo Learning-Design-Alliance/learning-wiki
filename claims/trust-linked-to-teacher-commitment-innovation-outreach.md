@@ -52,3 +52,4 @@ The article describes four outcome scales constructed from the elementary teache
 - [Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures](launch-nbct-cluster-schools-dramatic-effects.md) — related
 - [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related
 - [Teachers in CHSRI small schools report significantly more supportive contexts for reform than similar teachers in other Chicago high schools](chsri-teachers-report-supportive-reform-context.md) — a narrower finding that bears on this claim
+- [Educational reform's progress depends on teachers' individual and collective capacity and its link with school-wide capacity for promoting pupils' learning](reform-progress-depends-on-teacher-and-school-capacity.md) — a narrower finding that bears on this claim

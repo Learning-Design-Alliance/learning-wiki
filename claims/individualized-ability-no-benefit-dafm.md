@@ -45,3 +45,4 @@ Development-set prototyping on the INTRO-PERIM-AREA unit (438 students, 98,768 r
 ## Related Claims
 - [Fine-tuning the AFM model including its Q-matrix improves test-set prediction in four of five datasets and is the best model in eight of ten experiments](dafm-fine-tuned-improves-prediction-over-afm.md) — related
 - [Base AFM with its expert Q-matrix generalizes better than a ground-up learned Q-matrix only on the large Cognitive Tutor Bridge datasets](afm-beats-random-init-only-on-large-cogtutor-datasets.md) — related
+- [A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets](multi-skill-prior-strategy-best-prediction-error.md) — related

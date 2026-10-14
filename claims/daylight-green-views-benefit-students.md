@@ -46,3 +46,5 @@ The brief reports this from Li & Sullivan (2016), citing it alongside research o
 - [The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community](school-built-environment-positive-impact.md) — a broader claim this one bears on
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — related
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — possibly the same claim (merge candidate)
+- [Classroom views of greenery improve children's concentration compared with built views or windowless classrooms](green-classroom-views-boost-concentration.md) — possibly the same claim (merge candidate)
+- [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — related

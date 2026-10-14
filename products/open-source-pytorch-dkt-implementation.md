@@ -17,7 +17,7 @@ sources:
 # Open-source PyTorch DKT implementation
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 mixed) · 3 studies (2 causal, 1 associational), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 4 studies (2 causal, 2 associational), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 An open-source PyTorch implementation created by the article's authors for fitting Deep Knowledge Tracing to DataShop-format data and using it in online knowledge-tracing settings.
@@ -25,18 +25,20 @@ An open-source PyTorch implementation created by the article's authors for fitti
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Open-source PyTorch DKT implementation supporting online knowledge tracing with DataShop-format data**: The authors created their own DKT implementation using PyTorch's LSTM module to support online mastery learning. Based on prior work, "the model has 200 nodes in the hidden layer, uses a dropout of 0.4 during training, and uses a batch size of 5." It "supports the ability to ﬁt DKT to data presented in standard DataShop format" and provides "a simple interface for use in online knowledge tracing settings." Open-source code is available at the authors' GitLab repository. (Going Online: A Simulated Student Approach for Evaluating Knowledge Tracing in the Context)
+- **DKT released code and preprocessed data**: To facilitate research on deep knowledge tracing, the authors published their model code and preprocessed datasets on GitHub. The article states: "To facilitate research in DKTs we have published our code and relevant preprocessed data" at the repository chrispiech/DeepKnowledgeTracing. This release supports replication of the LSTM/RNN knowledge tracing results and reuse of the training pipeline in follow-up work. (Chris Piech et al. (2015))
 
 ### Claims
 - [DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression](../claims/dkt-long-term-information-and-faster-burn-in.md) [~M]
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](../claims/bkt-most-efficient-online-mastery-learning.md) [~M]
+- [Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks](../claims/dkt-outperforms-bkt-auc-benchmarks.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Qiao Zhang and Christopher MacLellan “Going Online: A simulated student approach for evaluating knowledge tracing in the context of mastery learning”. 2021. In: Proceedings of The 14th International Conference on Educational Data Mining (EDM21). International Educational Data Mining Society, 331-337. https://educationaldatamining.org/edm2021/
-
 <!-- merged 2026-10-10 from elements/pytorch-dkt-online-implementation ("Open-source PyTorch DKT implementation supporting online knowledge tracing with DataShop-format data"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Chris Piech, Jonathan Bassen, Jonathan Huang, Surya Ganguli, Mehran Sahami, Leonidas Guibas, Jascha Sohl-Dickstein. (2015). Deep Knowledge Tracing. https://github.com/chrispiech/DeepKnowledgeTracing
 
 # Open-source PyTorch DKT implementation supporting online knowledge tracing with DataShop-format data
 
