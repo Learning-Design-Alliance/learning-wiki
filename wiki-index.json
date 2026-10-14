@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":17908,
+"claim":17907,
 "design":719,
 "element":1080,
 "learner-variable":14,
@@ -109741,15 +109741,6 @@
 "path":"claims/pktp-transition-message-unclear-to-participants.md",
 "status":"draft",
 "title":"At the close of the first full year, PKTP's communication about the importance of transition was unclear to many teacher and parent participants",
-"type":"claim"
-},
-{
-"description":"All 32 NGLC schools set aside time for individual one-on-one academic support, most commonly tutoring, advising, and independent work time",
-"evidence_strength":"moderate",
-"id":"pl-all-schools-individual-support-time",
-"path":"claims/pl-all-schools-individual-support-time.md",
-"status":"draft",
-"title":"All 32 NGLC schools set aside time for individual one-on-one academic support, most commonly tutoring, advising, and independent work time",
 "type":"claim"
 },
 {
@@ -265316,7 +265307,6 @@
 "pktp-plc-supported-implementation":"pktp-plc-supported-implementation",
 "pktp-practice-implementation-grade-differences":"pktp-practice-implementation-grade-differences",
 "pktp-transition-message-unclear-to-participants":"pktp-transition-message-unclear-to-participants",
-"pl-all-schools-individual-support-time":"pl-all-schools-individual-support-time",
 "pl-district-schools-near-zero-vs-charter":"pl-district-schools-near-zero-vs-charter",
 "pl-effects-accumulate-third-year":"pl-effects-accumulate-third-year",
 "pl-effects-larger-elementary-nonsignificant-high-school":"pl-effects-larger-elementary-nonsignificant-high-school",
