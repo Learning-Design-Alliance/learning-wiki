@@ -38,8 +38,7 @@ ITSS is a web-based intelligent tutoring system for grades K–8 that teaches st
 - [ITSS significantly improves Grade 7 reading comprehension in rural and suburban schools (effect size +0.18)](../claims/itss-grade7-significant-reading-gain.md) [+W]
 - [ITSS significantly improves Grade 5 reading comprehension after 6 to 7 months of implementation (effect size +0.20)](../claims/itss-grade5-significant-reading-gain.md) [+W]
 - [ITSS qualifies for a Strong evidence rating based on multiple randomized studies with average effect sizes of +0.15 (elementary) and +0.18 (secondary)](../claims/itss-strong-evidence-rating.md) [+W]
-- [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](../claims/itss-grade4-positive-nonsignificant.md) [~W]
-- [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](../claims/itss-grade4-positive-nonsignificant.md) [+W]
+- [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](../claims/itss-grade4-positive-nonsignificant.md) [~W] — (also cited [+W])
 
 ## Related Products and Programmes
 -

@@ -37,13 +37,8 @@ Education RCTs often use pretest-posttest designs because including pretests imp
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](../claims/late-pretest-inclusion-can-bias-posttest-estimates.md) [+M]
 - [Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off](../claims/late-pretest-variance-bias-tradeoff.md) [+M]
 - [The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators](../claims/late-pretest-analyzed-for-several-estimators.md) [+W]
-- [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](../claims/late-pretest-inclusion-can-bias-posttest-estimates.md) [+W]
 - [In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data](../claims/late-pretest-estimators-typically-preferred.md) [+W]
-- [Including late pretest data in RCT analysis could bias post-test impact estimates when pretests are collected after random assignment](../claims/late-pretest-inclusion-can-bias-posttest-estimates.md) [+W]
-- [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](../claims/late-pretest-preference-conditional-on-slow-early-impact-growth.md) [+W]
-- [Including late pretest data in RCT analysis could bias post-test impact estimates when pretests are collected after random assignment](../claims/late-pretest-inclusion-can-bias-posttest-estimates.md) [+M]
-- [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](../claims/late-pretest-preference-conditional-on-slow-early-impact-growth.md) [~W]
-- [Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off](../claims/late-pretest-variance-bias-tradeoff.md) [+W]
+- [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](../claims/late-pretest-preference-conditional-on-slow-early-impact-growth.md) [+W] — (also cited [~W])
 - [Bias, not precision loss, drives the difference in proxy pre-test value-added estimates](../claims/proxy-pretest-difference-driven-by-bias-not-precision.md) [~W]
 
 ## Related Research Methods

@@ -38,15 +38,13 @@ This framework treats social-emotional learning constructs (academic growth mind
 - [Growth in self-management predicts 9th-grade off-track status above and beyond 6th-grade status on that construct](../claims/self-management-growth-predictive-beyond-status.md) [+M]
 - [Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74](../claims/sel-growth-construct-collinearity.md) [+M]
 - [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](../claims/sel-trajectories-relate-secondary-school-transition.md) [+M]
-- [Middle school social-emotional learning skills predict being off-track to graduate high school](../claims/sel-middle-school-predicts-off-track-graduation.md) [+W]
-- [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](../claims/sel-trajectories-relate-secondary-school-transition.md) [+W]
+- [Middle school social-emotional learning skills predict being off-track to graduate high school](../claims/sel-middle-school-predicts-off-track-graduation.md) [+M]
 - [Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status](../claims/self-management-growth-predicts-off-track-beyond-status.md) [+M]
 - [Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school](../claims/sel-trajectories-improve-off-track-identification.md) [+M]
 - [In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade](../claims/sel-status-more-frequently-significant-predictor-off-track.md) [+M]
 - [Whether students' SEL skills are stable over time, and whether initial level or change better flags later academic risk, was largely unknown before this study](../claims/sel-stability-and-predictive-value-largely-unknown.md) [+W]
 - [Successful transition from intermediate to secondary school depends on both academic preparation and social-emotional learning skills suited to a more independent environment](../claims/transition-depends-on-academic-and-sel-preparation.md) [+W]
 - [Successfully transitioning from intermediate school to secondary school is pivotal for students to remain on track to graduate](../claims/transition-pivotal-for-remaining-on-track.md) [+W]
-- [Middle school social-emotional learning skills predict being off-track to graduate high school](../claims/sel-middle-school-predicts-off-track-graduation.md) [+M]
 - [SEL-related constructs are strongly predictive of long-term academic achievement and attainment](../claims/sel-constructs-predict-long-term-achievement-attainment.md) [+M]
 
 ## Related Research Methods

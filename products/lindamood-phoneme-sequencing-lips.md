@@ -38,12 +38,11 @@ A branded phonological-awareness and decoding intervention developed by Lindamoo
 - [LiPS shows potentially positive effects on math: no statistically significant effect on the WJ–R Calculation subtest, but a positive effect size of 0.30 judged substantively important](../claims/lips-potentially-positive-math-calculation.md) [+W]
 - [LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance](../claims/lips-reading-fluency-potentially-positive.md) [+W]
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](../claims/lips-supplemental-followup-mixed-findings.md) [~W]
-- [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](../claims/torgesen-2010-positive-alphabetics-effects.md) [+W]
+- [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](../claims/torgesen-2010-positive-alphabetics-effects.md) [+M]
 - [In Gunn (1996), LiPS effects on word accuracy/fluency and phonemic decoding were negative and substantively important but not statistically significant](../claims/gunn-1996-negative-nonsignificant-alphabetics.md) [-W]
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](../claims/voyager-alphabetics-null-significance.md) [~W]
 - [LiPS has mixed effects on alphabetics for beginning readers: positive and statistically significant in one trial, negative and substantively important (but not significant) in another](../claims/lips-mixed-alphabetics-effects.md) [~W]
 - [LiPS has potentially positive effects on comprehension for beginning readers, based on one randomized trial showing a statistically significant positive effect on passage comprehension](../claims/lips-potentially-positive-comprehension-effects.md) [+W]
-- [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](../claims/torgesen-2010-positive-alphabetics-effects.md) [+M]
 - [Read, Write & Type!™ shows no statistically significant alphabetics advantages over the Auditory Discrimination in Depth® comparison](../claims/rwt-no-advantage-over-auditory-discrimination-in-depth.md) [~W]
 
 ## Related Products and Programmes

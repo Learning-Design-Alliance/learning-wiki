@@ -36,9 +36,7 @@ Edmentum Exact Path is a personalized K–12 learning platform that uses diagnos
 - [Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study](../claims/exact-path-math-effect-006-dcps.md) [+W]
 - [The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students](../claims/exact-path-study-diverse-sample.md) [+W]
 - [Exact Path Proficiency + Growth shows statistically significant positive ELA effects across Grades 6-8](../claims/exact-path-bundle-ela-significant-grades-6-8.md) [+W]
-- [Exact Path has a statistically significant positive effect on grade 6 ELA achievement (effect size +0.16)](../claims/exact-path-ela-effect-016.md) [+W]
 - [The supporting evidence for Exact Path is a single quasi-experimental study of nearly 10,000 diverse grade 6 students](../claims/exact-path-evidence-base-quasi-experimental-dcps.md) [+W]
-- [Exact Path has a statistically significant positive effect on grade 6 Mathematics achievement (effect size +0.06)](../claims/exact-path-math-effect-006-dcps.md) [+W]
 
 ## Related Products and Programmes
 -

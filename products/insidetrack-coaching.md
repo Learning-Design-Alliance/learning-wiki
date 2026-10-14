@@ -32,9 +32,6 @@ InsideTrack© Coaching is a postsecondary student-support programme run by Insid
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](../claims/insidetrack-coaching-no-discernible-attainment-effect.md) [-M]
 - [InsideTrack© Coaching has potentially positive effects on college credit accumulation and persistence, based on one RCT meeting WWC standards](../claims/insidetrack-coaching-potentially-positive-persistence.md) [+M]
 - [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](../claims/insidetrack-evidence-base-one-study-meets-wwc-standards.md) [~W]
-- [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](../claims/bettinger-baker-2014-rct-lottery-design.md) [~W]
-- [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](../claims/insidetrack-coaching-no-discernible-attainment-effect.md) [-W]
-- [InsideTrack© Coaching has potentially positive effects on college credit accumulation and persistence, based on one RCT meeting WWC standards](../claims/insidetrack-coaching-potentially-positive-persistence.md) [+W]
 
 ## Related Products and Programmes
 -

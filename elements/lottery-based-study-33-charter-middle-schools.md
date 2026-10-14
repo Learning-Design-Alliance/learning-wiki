@@ -41,7 +41,6 @@ The evidence base for this article is a lottery-based study of "a broad set of 3
 - [Charter middle school impacts were more positive for more disadvantaged schools and students and more negative for the more advantaged](../claims/charter-impacts-more-positive-for-disadvantaged-students.md) [+M]
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](../claims/charter-middle-school-impacts-varied-considerably.md) [+M]
 - [On average, charter middle schools' impacts on student achievement were negative but not statistically significant](../claims/charter-middle-schools-average-achievement-impacts-negative-nonsignificant.md) [+M]
-- [Both the offer of charter admission and actual attendance showed similarly negative, non-significant average achievement impacts](../claims/charter-middle-schools-average-achievement-impacts-negative-nonsignificant.md) [+M]
 
 ## Related Elements
 - 

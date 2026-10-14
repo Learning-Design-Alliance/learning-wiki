@@ -34,17 +34,14 @@ Elevate is a software-enabled continuous-improvement platform developed by PERTS
 - **Elevate learning conditions framework (Teacher Caring, Meaningful Work, Feedback for Growth)**: The Elevate framework organizes classroom experience into measurable learning conditions that predict academic outcomes. The report examines “three learning conditions—Teacher Caring, Meaningful Work, and Feedback for Growth,” rating students' agreement on Likert scales and compositing the scores. It posits that positive conditions support learning by enhancing motivation and by mitigating anxieties that divide attention and reduce the brain's capacity to process information, and that conditions function as early, actionable indicators of learning. (Gripshover et al. (2022))
 
 ### Claims
-- [Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term](../claims/condition-improvement-predicts-grade-improvement.md) [+W]
+- [Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term](../claims/condition-improvement-predicts-grade-improvement.md) [+M]
 - [Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not](../claims/four-plus-improvement-cycles-improve-conditions.md) [+W]
-- [Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students](../claims/learning-conditions-predict-grades-across-demographics.md) [+W]
+- [Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students](../claims/learning-conditions-predict-grades-across-demographics.md) [+M]
 - [Learning conditions worsen slightly but significantly over a school year absent intentional efforts to improve them](../claims/learning-conditions-worsen-over-school-year.md) [+W]
-- [Students rating learning conditions most positively are more than twice as likely to earn a B or better in math than students rating them most negatively](../claims/positive-learning-conditions-double-odds-b-or-better-math.md) [+W]
+- [Students rating learning conditions most positively are more than twice as likely to earn a B or better in math than students rating them most negatively](../claims/positive-learning-conditions-double-odds-b-or-better-math.md) [+M]
 - [Engaging students as partners in analyzing and discussing student experience data creates authentic engagement and signals responsiveness to students](../claims/students-as-partners-in-data-use.md) [+W]
 - [Educators need a shift in adult mindsets—from evaluative/accountability data use toward improvement-oriented use—for student experience data to improve practice](../claims/adult-mindset-shift-student-experience-data.md) [+W]
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](../claims/coherence-alignment-student-experience-supports.md) [+W]
-- [Students rating learning conditions most positively are more than twice as likely to earn a B or better in math than students rating them most negatively](../claims/positive-learning-conditions-double-odds-b-or-better-math.md) [+M]
-- [Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students](../claims/learning-conditions-predict-grades-across-demographics.md) [+M]
-- [Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term](../claims/condition-improvement-predicts-grade-improvement.md) [+M]
 
 ## Related Products and Programmes
 -

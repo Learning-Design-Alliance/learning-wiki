@@ -51,7 +51,7 @@ OpenSciEd is a freely available, Creative Commons–licensed middle-school scien
 - [Most field-test teachers report curriculum-based professional learning prepared them for distinctive OpenSciEd pedagogy, with mixed results on standards beliefs](../claims/pd-prepares-storyline-pedagogy-implementation.md) [+W]
 - [OpenSciEd classrooms showed greater science achievement growth than non-OpenSciEd classrooms in one district comparison](../claims/open-scied-greater-science-growth-single-district.md) [+W]
 - [No significant differences in science learning or attitudes between OpenSciEd and mySci eighth-grade classes in one small comparison](../claims/null-open-scied-vs-mysci-eighth-grade.md) [~W]
-- [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](../claims/openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) [~W]
+- [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](../claims/openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) [~M]
 - [Formative assessment practices coherent with OpenSciEd are constrained by grading expectations misaligned with formative goals and by the time cost of evaluating and giving feedback on three-dimensional tasks.](../claims/openscied-formative-assessment-feasibility-challenges.md) [~W]
 - [Teachers are able to support rich and participatory science discussions during OpenSciEd enactment, per detailed case studies of experienced teachers](../claims/openscied-rich-participatory-discussions.md) [+W]
 - [Students' sense of belonging predicts their contributions to classroom knowledge building at both student and teacher levels](../claims/belonging-predicts-knowledge-building-contributions.md) [+W]
@@ -60,7 +60,6 @@ OpenSciEd is a freely available, Creative Commons–licensed middle-school scien
 - [OpenSciEd grade 7 units align with some data-practice frameworks but are less aligned with digital tools, large data sets, and full data cycles](../claims/open-scied-units-data-practice-gaps.md) [~W]
 - [Students find OpenSciEd units relevant and coherent, with over 90% reporting relevance and 87% reporting the lesson ties to the bigger picture](../claims/openscied-student-relevance-coherence.md) [+M]
 - [OpenSciEd materials equitably support student participation and engagement across racial, gender, and linguistic groups, per field-test SEET and teacher-report data](../claims/openscied-equitable-participation-engagement.md) [+M]
-- [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](../claims/openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) [~M]
 
 ## Related Products and Programmes
 -

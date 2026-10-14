@@ -40,7 +40,6 @@ An implementation study, titled on the page under the associated project "Strate
 
 - [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](../claims/sdp-ep-year1-agencies-began-partnership.md) [+W]
-- [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
 
 ## Related Elements
 

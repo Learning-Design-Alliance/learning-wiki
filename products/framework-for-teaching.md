@@ -51,7 +51,6 @@ The Charlotte Danielson Framework for Teaching is a framework developed by Charl
 - [FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing](../claims/fft-pilot-ratings-concentrated-top-two-categories.md) [+M]
 - [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](../claims/fft-vam-correlations-positive-019-022.md) [+W]
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](../claims/pittsburgh-three-measures-differentiate-teacher-performance.md) [+M]
-- [Teachers with higher Framework for Teaching scores tended to make larger contributions to student achievement (value added)](../claims/framework-scores-relate-to-value-added.md) [+W]
 - [Principals in the pilot did not typically use all 22 rubric components when observing teachers](../claims/principals-used-subsets-of-rubric-components.md) [~W]
 - [Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools](../claims/pittsburgh-principal-practice-ratings-vary-across-schools.md) [~W]
 - [Fairness of overall observation scores may not be substantially compromised by principals using different sets of rubric components](../claims/component-subset-fairness-observation-scores.md) [~W]

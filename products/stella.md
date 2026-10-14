@@ -29,9 +29,8 @@ A yearlong professional-development program developed and run by BSCS Science Le
 
 ### Claims
 - [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](../claims/stella-potentially-positive-science-achievement.md) [+M]
-- [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](../claims/stella-comparison-pd-equivalent-implementation-ratings.md) [~W]
-- [The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations](../claims/stella-cluster-rct-taylor-2017.md) [+M]
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](../claims/stella-comparison-pd-equivalent-implementation-ratings.md) [~M]
+- [The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations](../claims/stella-cluster-rct-taylor-2017.md) [+M]
 
 ## Related Products and Programmes
 

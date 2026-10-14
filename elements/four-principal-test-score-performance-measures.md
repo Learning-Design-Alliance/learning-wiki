@@ -42,7 +42,6 @@ The report evaluates four principal performance measures based on student test s
 - [School value-added and adjusted school value-added provide at most a small amount of information for predicting principals' future contributions to student achievement](../claims/school-value-added-small-predictive-information-principals.md) [+W]
 - [School value-added and adjusted school value-added provide, at most, a small amount of information for predicting principals' contributions in the following year](../claims/value-added-measures-small-predictive-info-principal-impacts.md) [+W]
 - [Average achievement and adjusted average achievement provide no information for predicting principals' contributions to student achievement in the following year](../claims/average-achievement-measures-no-predictive-info-principal-impacts.md) [+W]
-- [Average achievement and adjusted average achievement measures provide no information for predicting principals' contributions to student achievement in the following year](../claims/average-achievement-measures-no-predictive-info-principal-impacts.md) [+W]
 
 ## Related Elements
 

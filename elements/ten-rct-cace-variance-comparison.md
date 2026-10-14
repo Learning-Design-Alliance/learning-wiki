@@ -39,7 +39,6 @@ An empirical analysis component of the report in which the authors "used data fr
 ## Claims
 
 - [CACE estimators based on correct variance formulas and commonly used simplified formulas yield very similar significance findings across 10 education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+W]
-- [Variance correction terms matter little for CACE significance findings in education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+W]
 
 ## Related Elements
 

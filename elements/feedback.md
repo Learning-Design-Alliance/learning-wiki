@@ -142,7 +142,6 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT](../claims/aida-preferred-24-7-context-specific-feedback.md) [+W]
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](../claims/automated-ai-assessment-high-impact-moderate-challenge.md) [+W]
 - [Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges](../claims/both-feedback-modalities-prompt-hard-evaluative-judgement.md) [+W]
-- [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](../claims/feedback-enhances-retrieval-practice.md) [+W]
 - [ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis](../claims/chatgpt-feedback-hallucination-undermines-trust.md) [~W]
 - [Students trust educator feedback more than AI-generated feedback: 90.5% versus 60.1% rated it somewhat or very trustworthy in an Australian survey](../claims/educator-feedback-trusted-more-than-ai-feedback.md) [~W]
 - [Feedback channel is a non-significant moderator of feedback effects](../claims/feedback-channel-non-significant-moderator.md) [~W]

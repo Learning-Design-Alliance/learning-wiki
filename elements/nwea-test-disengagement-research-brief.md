@@ -42,7 +42,6 @@ A 2019 NWEA research brief by Megan Kuhfeld and James Soland, categorized under 
 - [Student test disengagement may bias estimates of educational effectiveness based on observed test results](../claims/disengagement-undermines-score-inferences.md) [+W]
 - [Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss](../claims/disengagement-corrections-minimal-impact-effectiveness-estimates.md) [+W]
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](../claims/removing-disengaged-examinees-induces-bias.md) [+W]
-- [Test disengagement could undermine inferences drawn from observed achievement scores](../claims/disengagement-undermines-score-inferences.md) [+W]
 
 ## Related Elements
 

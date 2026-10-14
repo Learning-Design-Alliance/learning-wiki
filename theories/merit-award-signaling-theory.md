@@ -38,7 +38,6 @@ The article advances a signaling account of merit awards: although awards are in
 ### Claims
 
 - [Merit Award Winners Twice Likely To Exit School](../claims/merit-award-winners-increased-principal-exit.md) [+M]
-- [Merit award winners were nearly three times as likely to leave their school the following year (16.9% vs 5.9%), mostly leaving the district](../claims/merit-award-winners-increased-principal-exit.md) [+M]
 - [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](../claims/merit-award-modest-gains-near-threshold.md) [~M]
 
 ## Related Theories

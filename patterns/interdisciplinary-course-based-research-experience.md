@@ -56,7 +56,6 @@ A Course-Based Research Experience (CBRE) has a whole class work on authentic, o
 - Productive Disciplinary Engagement (Engle & Conant) as originally formulated assumes one set of disciplinary norms; this pattern requires extending it (as PSE) to contexts where norms genuinely conflict across the room
 
 ### Claims
-- [Course-based research experience boundary objects support disciplinary integration and authentic research networks](../claims/course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) [+M]
 
 ## Design
 

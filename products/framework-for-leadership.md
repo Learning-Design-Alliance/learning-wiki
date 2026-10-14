@@ -39,7 +39,6 @@ Pennsylvania's tool for evaluating the effectiveness of school principals and as
 - [School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories](../claims/ffl-practice-categories-correlated.md) [+W]
 - [Most FFL scores for specific leadership practices fell in the top two of four performance levels, indicating limited score variation](../claims/ffl-scores-concentrated-in-top-categories.md) [-W]
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](../claims/ffl-scores-not-associated-achievement-growth.md) [-W]
-- [Most school leaders received scores in the top two performance categories on FFL-measured practices](../claims/ffl-scores-concentrated-in-top-categories.md) [-W]
 - [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](../claims/more-evidence-needed-ffl-validity.md) [-W]
 - [The strongest FFL validity relationships are in the systems leadership and professional and community leadership domains](../claims/ffl-systems-and-community-leadership-domains-strongest.md) [+W]
 - [The study assessed rating stability for 2,424 principals and predictive validity for 123 principals using Pennsylvania statewide data](../claims/principal-measure-stability-2424-predictive-123-principals.md) [+W]

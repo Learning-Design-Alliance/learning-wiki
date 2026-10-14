@@ -41,8 +41,8 @@ Teach For America runs a nationwide alternate-route teacher-preparation and teac
 ### Claims
 - [Teaching by first- or second-year TFA corps members shows no significant effect on elementary-grade students' reading compared with non-TFA novice teachers](../claims/tfa-corps-no-significant-reading-effect-elementary.md) [~W]
 - [The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies](../claims/tfa-evidence-base-reduced-to-four-studies.md) [~W]
-- [Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading](../claims/tfa-experimental-studies-positive-math-no-reading-effect.md) [+W]
-- [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](../claims/tfa-small-positive-early-elementary-reading-not-math.md) [+W]
+- [Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading](../claims/tfa-experimental-studies-positive-math-no-reading-effect.md) [+W] — (also cited [~W])
+- [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](../claims/tfa-small-positive-early-elementary-reading-not-math.md) [+W] — (also cited [~W])
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](../claims/alt-cert-teachers-no-worse-student-achievement.md) [+W]
 - [In some cases, Teach For America and Teaching Fellows secondary math teachers are more effective than traditionally certified math teachers](../claims/tfa-teaching-fellows-math-teachers-sometimes-more-effective.md) [+W]
 - [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](../claims/tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) [+W]
@@ -56,8 +56,6 @@ Teach For America runs a nationwide alternate-route teacher-preparation and teac
 - [TFA teachers show potentially positive effects on science achievement, based on one study](../claims/tfa-potentially-positive-science-effects.md) [+W]
 - [This is the first large-scale experimental study of secondary math teachers from Teach For America](../claims/first-large-scale-experimental-study-tfa-math.md) [+W]
 - [TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools](../claims/tfa-first-two-years-beat-experienced-non-tfa.md) [+W]
-- [Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading](../claims/tfa-experimental-studies-positive-math-no-reading-effect.md) [~W]
-- [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](../claims/tfa-small-positive-early-elementary-reading-not-math.md) [~W]
 
 ## Related Products and Programmes
 

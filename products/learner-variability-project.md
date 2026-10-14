@@ -58,8 +58,8 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 - **Whole-child learner variability theory of change**: The Learner Variability Project's theory of change holds that synthesizing learning sciences research into factors critical to learner outcomes, connected across the whole child, generates a mental model for educators. As the article states, "Our theory of change proposes that by synthesizing the learning sciences research into factors critical to learner outcomes (see Figure 1) and showing how they are connected across the whole child, we can help generate a mental model for educators." Figure 4 depicts three steps: providing accessible tools and professional learning, shifting educator mindsets to recognize and leverage each student's strengths, and creating safe, supportive, personalized (Medha Tare et al. (2022))
 
 ### Claims
-- [A brief self-guided engagement with the LVN shifted most educators' perception of the importance of learner variability](../claims/lvn-brief-engagement-shifts-variability-perception.md) [+W]
-- [Educators reported increased confidence across all four pillars of the whole-child model after LVN use](../claims/lvn-confidence-gains-four-pillars.md) [+W]
+- [A brief self-guided engagement with the LVN shifted most educators' perception of the importance of learner variability](../claims/lvn-brief-engagement-shifts-variability-perception.md) [+M]
+- [Educators reported increased confidence across all four pillars of the whole-child model after LVN use](../claims/lvn-confidence-gains-four-pillars.md) [+M]
 - [Educators reported that LVN-selected strategies supported student engagement, content knowledge, confidence, and collaboration](../claims/lvn-strategies-support-engagement-and-knowledge.md) [+W]
 - [Educators reported the LVN strategy bank improved their understanding, use, and identification of strategies](../claims/lvn-strategy-bank-improves-practice.md) [+W]
 - [Educator-led peer professional development reinforced educators' own understanding and connected LVN to existing practice](../claims/peer-pd-reinforces-variability-understanding.md) [+W]
@@ -78,8 +78,6 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 - [Using at least one feature raised students' multiple choice question attempt rate to 89 percent and eliminated the drop on hard assignments, with a significant feature-use × difficulty interaction](../claims/readworks-feature-use-engagement-attempts.md) [+W]
 - [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](../claims/readworks-features-raise-teacher-assignment-ambitions.md) [+W]
 - [Teachers reacted unanimously positively to new audio supports on the ReadWorks platform and offered them to all students, not only struggling readers](../claims/teachers-positive-reactions-readworks-audio-supports.md) [+W]
-- [A brief self-guided engagement with the LVN shifted most educators' perception of the importance of learner variability](../claims/lvn-brief-engagement-shifts-variability-perception.md) [+M]
-- [Educators reported increased confidence across all four pillars of the whole-child model after LVN use](../claims/lvn-confidence-gains-four-pillars.md) [+M]
 
 ## Related Products and Programmes
 

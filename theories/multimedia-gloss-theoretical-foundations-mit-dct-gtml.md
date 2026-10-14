@@ -41,7 +41,6 @@ The article grounds multimedia glosses in three frameworks. Gardner's MIT differ
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](../claims/multimodal-glosses-improve-incidental-vocabulary-learning.md) [+W]
 - [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+M]
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
-- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
 
 ## Related Theories
 - 

@@ -53,7 +53,6 @@ Unit (a 3-day, 4-hours-per-day camp in the source study — one craft type per d
 
 ### Claims
 #### Supporting
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+M]
 #### Contradicting
 - (none yet linked)
 

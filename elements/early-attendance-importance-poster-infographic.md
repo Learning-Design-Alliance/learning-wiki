@@ -40,7 +40,6 @@ The article is a poster/infographic released by Regional Educational Laboratory 
 
 - [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](../claims/early-grades-chronic-absenteeism-risk-factors.md) [+W]
-- [Attendance in preschool and kindergarten is framed as important to young learners' school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 
 ## Related Elements
 

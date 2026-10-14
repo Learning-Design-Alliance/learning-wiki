@@ -33,7 +33,6 @@ The report uses a model-based approach in which observed scores are decomposed i
 - [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](../claims/spanish-foundational-skills-normality-assumption-met.md) [+W]
 - [The multivariate normality assumption of the norming model was judged met for all domains and grades, despite some tail deviations in Q-Q plots](../claims/normality-assumption-met-foundational-skills-norming.md) [+W]
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](../claims/true-score-correlations-above-090.md) [+W]
-- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](../claims/true-score-correlations-above-090.md) [+W]
 
 ## Related Research Methods
 -

@@ -40,20 +40,14 @@ A whole-school teacher evaluation, compensation, career-ladder, mentoring, and p
 - **TAP: The System for Teacher and Student Advancement**: TAP is a whole-school reform model Ascension Parish implemented in two sanctioned high-poverty schools. “The TAP system focuses on four interrelated elements to improve teachers’ instruction”: ongoing applied professional learning, instructionally focused accountability, multiple career paths, and performance-based compensation. Evaluations inform professional development, advancement, and pay, and educators participate in regular collaboration and self-reflection within the school day. (Sarah Almy et al. (2012))
 
 ### Claims
-- [Chicago TAP increased the amount of mentoring, promotion opportunities, and compensation in participating schools relative to non-TAP schools](../claims/chicago-tap-increased-mentoring-promotion-compensation.md) [+W]
-- [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](../claims/educators-receptive-to-feedback-and-compensation-strategies.md) [+W]
-- [Chicago TAP did not fully implement its performance-based pay or value-added components as intended](../claims/chicago-tap-incomplete-implementation-pay-value-added.md) [~W]
-- [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](../claims/chicago-tap-no-student-achievement-impact.md) [-W]
-- [Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools](../claims/tap-increases-reported-mentoring-support.md) [+W]
-- [TAP produced no measurable impacts on student test scores through March of the start-up year](../claims/tap-no-test-score-impact-year-one.md) [-W]
-- [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](../claims/tap-raises-teacher-retention-five-points.md) [+W]
-- [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](../claims/chicago-tap-no-student-achievement-impact.md) [-M]
-- [Teachers in Chicago TAP schools at the start of the program were about 20 percent more likely than teachers in comparison schools to remain in the same school three years later](../claims/chicago-tap-increased-teacher-retention.md) [+M]
 - [Chicago TAP increased the amount of mentoring, promotion opportunities, and compensation in participating schools relative to non-TAP schools](../claims/chicago-tap-increased-mentoring-promotion-compensation.md) [+M]
+- [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](../claims/educators-receptive-to-feedback-and-compensation-strategies.md) [+W]
 - [Chicago TAP did not fully implement its performance-based pay or value-added components as intended](../claims/chicago-tap-incomplete-implementation-pay-value-added.md) [~M]
+- [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](../claims/chicago-tap-no-student-achievement-impact.md) [-M]
 - [Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools](../claims/tap-increases-reported-mentoring-support.md) [+M]
-- [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](../claims/tap-raises-teacher-retention-five-points.md) [+M]
 - [TAP produced no measurable impacts on student test scores through March of the start-up year](../claims/tap-no-test-score-impact-year-one.md) [-M]
+- [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](../claims/tap-raises-teacher-retention-five-points.md) [+M]
+- [Teachers in Chicago TAP schools at the start of the program were about 20 percent more likely than teachers in comparison schools to remain in the same school three years later](../claims/chicago-tap-increased-teacher-retention.md) [+M]
 
 ## Related Products and Programmes
 -

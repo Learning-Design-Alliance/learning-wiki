@@ -32,9 +32,8 @@ A supplemental beginning-reading programme developed by Dr. Barbara Taylor that 
 ### Claims
 - [EIR® showed large alphabetics effect sizes and improvement indices of +29 to +42 percentile points in the one qualifying study](../claims/eir-alphabetics-effect-sizes-improvement-index.md) [+W]
 - [EIR® had a positive, substantively important but statistically non-significant effect on first-grade reading comprehension](../claims/eir-comprehension-substantively-important-ns.md) [+W]
-- [EIR® produced statistically significant positive effects on first-grade alphabetics outcomes (segmentation and blending, vowel sounds)](../claims/eir-significant-alphabetics-effects-grade1.md) [+W]
-- [The evidence base for EIR® is small: only one of seven reviewed studies met WWC evidence standards](../claims/eir-small-evidence-base-one-rct.md) [~W]
 - [EIR® produced statistically significant positive effects on first-grade alphabetics outcomes (segmentation and blending, vowel sounds)](../claims/eir-significant-alphabetics-effects-grade1.md) [+M]
+- [The evidence base for EIR® is small: only one of seven reviewed studies met WWC evidence standards](../claims/eir-small-evidence-base-one-rct.md) [~W]
 
 ## Related Products and Programmes
 -

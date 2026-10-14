@@ -39,10 +39,9 @@ The study recommends subgroup-specific actions based on how each group performs 
 
 ## Claims
 
-- [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](../claims/gpa-most-predictive-attainment-english-learners.md) [~W]
+- [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](../claims/gpa-most-predictive-attainment-english-learners.md) [~W] — (also cited [+W])
 - [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](../claims/long-term-ell-52-percent-graduation.md) [+W]
 - [Indicator performance differs across EL subgroups: former and late-arriving ELs had stronger ninth-grade GPAs and attendance than never ELs, while long-term ELs without IEPs had much lower GPAs](../claims/el-subgroup-indicator-distributions.md) [+W]
-- [GPAs are the most predictive single indicator of high school graduation, college enrollment, and degree completion for all English Learner groups, followed by attendance and course failure rates](../claims/gpa-most-predictive-attainment-english-learners.md) [+W]
 - [ELs with identified disabilities made slower progress toward English skills and had lower attendance, and were more likely to opt out of bilingual services](../claims/els-with-disabilities-slower-progress-lower-attendance.md) [+W]
 
 ## Related Strategies

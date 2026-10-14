@@ -39,8 +39,7 @@ A merit award program in which employers (the district) provide awards to school
 ## Claims
 
 - [The merit award program's incentives increased student achievement in Chicago schools](../claims/merit-award-incentives-increased-achievement.md) [+W]
-- [Principals who just exceeded a merit award threshold are over twice as likely to exit their school the next year than principals who fell just short](../claims/merit-award-winners-increased-principal-exit.md) [~W]
-- [Merit award winners were nearly three times as likely to leave their school the following year (16.9% vs 5.9%), mostly leaving the district](../claims/merit-award-winners-increased-principal-exit.md) [-W]
+- [Principals who just exceeded a merit award threshold are over twice as likely to exit their school the next year than principals who fell just short](../claims/merit-award-winners-increased-principal-exit.md) [~W] — (also cited [-W])
 - [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](../claims/merit-award-modest-gains-near-threshold.md) [+W]
 
 ## Related Elements

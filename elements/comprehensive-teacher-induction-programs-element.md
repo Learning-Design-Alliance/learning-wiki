@@ -44,7 +44,6 @@ The article describes comprehensive teacher induction as a support model for nov
 - [Comprehensive teacher induction produced no significant improvements in student achievement in year 1](../claims/comprehensive-induction-no-student-achievement-gains-first-year.md) [-W]
 - [Comprehensive teacher induction produced no significant improvements in classroom practices in year 1](../claims/comprehensive-induction-no-classroom-practice-gains-first-year.md) [-W]
 - [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](../claims/comprehensive-induction-no-retention-gain-first-year.md) [-W]
-- [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](../claims/comprehensive-induction-no-classroom-practice-gains-first-year.md) [-W]
 
 ## Related Elements
 

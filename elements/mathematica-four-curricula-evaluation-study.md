@@ -45,7 +45,6 @@ A large-scale, national study conducted by Mathematica Policy Research for the U
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+M]
 - [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+M]
 - [The curriculum evaluation was the second report from a multi-year (2005-2013) IES-funded study of mathematics curricula](../claims/ies-math-curricula-evaluation-second-report.md) [+M]
-- [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](../claims/four-curricula-two-year-elementary-math-study-design.md) [+M]
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](../claims/curriculum-choice-mattered-early-elementary-math.md) [+M]
 
 ## Related Elements

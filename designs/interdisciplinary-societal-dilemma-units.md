@@ -57,7 +57,6 @@ Interdisciplinary Societal Dilemmas (ISDs) — problems tied to students' lived 
 - Progressive, dialogic pedagogies bring disciplines structurally closer (all emphasize argumentation, inquiry, and high-quality talk), but deep differences in how each discipline instantiates argumentation and evidence remain a real implementation challenge, not fully resolved by shared pedagogy alone
 
 ### Claims
-- [Subtle teacher guidance, not imposition, enables interdisciplinary integration](../claims/subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) [+M]
 
 ## Design
 

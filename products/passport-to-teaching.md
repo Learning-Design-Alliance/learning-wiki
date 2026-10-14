@@ -33,12 +33,9 @@ The American Board for Certification of Teacher Excellence's Passport to Teachin
 - **Passport to Teaching program of the American Board for Certification of Teacher Excellence**: Passport to Teaching is a teacher certification credential developed by the American Board for Certification of Teacher Excellence, an alternative route into teaching. The article states that "Alternative routes to teaching have been promoted during the past decade because of concerns about teacher shortages and teacher quality." The credential is being evaluated for its effects on teacher performance as measured by student achievement. (Steven Glazerman (2006))
 
 ### Claims
-- [Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers](../claims/principals-cautious-assessment-abcte-program.md) [~W]
-- [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](../claims/principals-positive-assessment-abcte-certified-teachers.md) [+W]
-- [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](../claims/passport-to-teaching-evaluation-student-achievement.md) [~W]
-- [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](../claims/passport-to-teaching-evaluation-student-achievement.md) [+W]
-- [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](../claims/principals-positive-assessment-abcte-certified-teachers.md) [+M]
 - [Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers](../claims/principals-cautious-assessment-abcte-program.md) [~M]
+- [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](../claims/principals-positive-assessment-abcte-certified-teachers.md) [+M]
+- [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](../claims/passport-to-teaching-evaluation-student-achievement.md) [~W] — (also cited [+W])
 - [An evaluation study compares teachers trained through different routes to certification](../claims/evaluation-teachers-different-certification-routes.md) [~W]
 
 ## Related Products and Programmes

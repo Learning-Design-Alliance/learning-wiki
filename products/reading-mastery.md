@@ -34,12 +34,11 @@ Reading Mastery is SRA/McGraw-Hill's structured direct-instruction reading curri
 ### Claims
 - [The WWC-computed average effect size for Reading Mastery on ELL reading achievement is 0.76, corresponding to an improvement index of +28 percentile points](../claims/reading-mastery-domain-average-effect-size-076.md) [+M]
 - [One year after the intervention, Reading Mastery showed a statistically significant effect on word attack for English language learners, with positive but non-significant differences on other reading measures](../claims/reading-mastery-followup-word-attack-significant-ell.md) [+M]
-- [Supplemental Reading Mastery instruction showed substantively important immediate effects on four of five reading measures for English language learners, none statistically significant](../claims/reading-mastery-immediate-posttest-reading-outcomes-ell.md) [+M]
+- [Supplemental Reading Mastery instruction showed substantively important immediate effects on four of five reading measures for English language learners, none statistically significant](../claims/reading-mastery-immediate-posttest-reading-outcomes-ell.md) [+M] — (also cited [~M])
 - [The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners](../claims/reading-mastery-potentially-positive-effects-ell-reading.md) [+M]
 - [Reading Mastery shows no discernible effects on reading comprehension for adolescent learners, with an average improvement index of –7 percentile points](../claims/reading-mastery-no-discernible-comprehension-adolescents.md) [-W]
 - [Reading Mastery has potentially positive effects on reading fluency for adolescent learners, with a WWC improvement index of +19 percentile points](../claims/reading-mastery-potentially-positive-fluency-adolescents.md) [+M]
 - [The evidence base for Reading Mastery with adolescent learners is small: only 2 of 175 reviewed studies met WWC evidence standards](../claims/reading-mastery-small-evidence-base-adolescents.md) [~W]
-- [Supplemental Reading Mastery instruction showed substantively important immediate effects on four of five reading measures for English language learners, none statistically significant](../claims/reading-mastery-immediate-posttest-reading-outcomes-ell.md) [~M]
 
 ## Related Products and Programmes
 -

@@ -52,7 +52,6 @@ Unit (a single self-paced museum session, roughly 15 minutes in the source study
 
 ### Claims
 #### Supporting
-- [AI-mediated feedback in hands-on exhibits improves learning and engagement](../claims/ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) [+S]
 
 ## Design
 

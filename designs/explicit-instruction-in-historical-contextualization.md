@@ -49,7 +49,6 @@ Unit (a multi-week history course; tested as a 28-hour, 7-week sequence)
 
 ### Claims
 #### Supporting
-- [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](../claims/explicit-contextualization-instruction-improves-writing-procedure-not-scores.md) [~M]
 #### Contradicting
 - (see the same claim's null-result subclaim on contextualization scores specifically)
 

@@ -29,7 +29,6 @@ KIPP middle schools are public charter schools operated by the Knowledge Is Powe
 
 ### Claims
 - [KIPP middle schools produce significant achievement gains in reading, math, science, and social studies](../claims/kipp-middle-schools-positive-significant-achievement-effects.md) [+W]
-- [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](../claims/kipp-middle-schools-positive-significant-achievement-effects.md) [+W]
 - [The evaluation covers 43 KIPP middle schools across 13 states and the District of Columbia and is the most rigorous large-scale evaluation of KIPP charters to date](../claims/kipp-evaluation-43-schools-13-states.md) [+W]
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](../claims/kipp-middle-schools-positive-significant-math-reading-impacts.md) [+W]
 

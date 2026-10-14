@@ -29,13 +29,11 @@ A Digital Promise membership network that brings together school districts for c
 - **The League of Innovative Schools as an innovation intermediary and community of practice**: The report frames the League as an innovation intermediary, defined as "organizations or groups within organizations that work to enable innovation", which initiates, facilitates, and supports cross-sector collaborations to promote innovative practices in K-12 public schools. A logic model (Appendix A) lays out a theory of change in which convenings, working groups, study tours, and communications support produce immediate impacts (professional growth, expanded networks) and intermediate impacts (innovative learning opportunities for students, empowered teachers). The network is nurtured through biannual fall and spring meetings and working groups on topics such as competency-based education (Vina Vo (2017))
 
 ### Claims
-- [81.3 percent of surveyed League district leaders reported that League membership increased their capacity to innovate](../claims/league-membership-increased-capacity-innovate-81-percent.md) [+W]
+- [81.3 percent of surveyed League district leaders reported that League membership increased their capacity to innovate](../claims/league-membership-increased-capacity-innovate-81-percent.md) [+M]
 - [81.3 percent of surveyed leaders reported their students benefited from League membership](../claims/league-membership-students-benefited-81-percent.md) [+W]
-- [League district leaders rated professional development highly and reported extensive peer networking and best-practice sharing](../claims/league-professional-development-networking-ratings.md) [+W]
+- [League district leaders rated professional development highly and reported extensive peer networking and best-practice sharing](../claims/league-professional-development-networking-ratings.md) [+M]
 - [Longer League membership significantly predicted leaders' reported increases in capacity to innovate](../claims/league-tenure-predicts-innovation-capacity.md) [+W]
 - [Longer League membership significantly predicted leaders' reported increases in programs for students](../claims/league-tenure-predicts-student-programs.md) [+W]
-- [81.3 percent of surveyed League district leaders reported that League membership increased their capacity to innovate](../claims/league-membership-increased-capacity-innovate-81-percent.md) [+M]
-- [League district leaders rated professional development highly and reported extensive peer networking and best-practice sharing](../claims/league-professional-development-networking-ratings.md) [+M]
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](../claims/leaders-key-to-cross-sector-collaboration.md) [+W]
 
 ## Related Products and Programmes

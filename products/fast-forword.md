@@ -34,16 +34,14 @@ Fast ForWord Language is a computer-based language and reading intervention prog
 
 ### Claims
 - [The WWC improvement index is +31 percentile points for English language development and +3 percentile points for reading achievement](../claims/fast-forword-improvement-index-eld-reading.md) [+W]
-- [Fast ForWord Language shows no discernible effects on reading achievement of elementary school English language learners](../claims/fast-forword-language-no-discernible-reading-achievement-effects.md) [-W]
-- [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](../claims/fast-forword-language-potentially-positive-english-language-development.md) [+W]
+- [Fast ForWord Language shows no discernible effects on reading achievement of elementary school English language learners](../claims/fast-forword-language-no-discernible-reading-achievement-effects.md) [-W] — (also cited [~W])
+- [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](../claims/fast-forword-language-potentially-positive-english-language-development.md) [+W] — (also cited [~W])
 - [Both studies of Fast ForWord in the alphabetics domain showed indeterminate effects, with no statistically significant or substantively important effects](../claims/fast-forword-alphabetics-indeterminate.md) [~W]
 - [In the comprehension domain, one study of Fast ForWord showed statistically significant positive effects, two showed substantively important positive effects, and three showed indeterminate effects](../claims/fast-forword-comprehension-mixed-findings.md) [~W]
 - [Of 305 studies of Fast ForWord reviewed for adolescent learners, two met WWC evidence standards, six met standards with reservations, and 297 met neither](../claims/fast-forword-evidence-base-305-studies.md) [~W]
 - [The extent of evidence for Fast ForWord is small for alphabetics and reading fluency and medium to large for comprehension and general literacy achievement](../claims/fast-forword-extent-of-evidence-ratings.md) [~W]
 - [All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects](../claims/fast-forword-general-literacy-indeterminate.md) [~W]
 - [The WWC improvement indices for Fast ForWord average +2 (alphabetics), +17 (reading fluency), +8 (comprehension), and +3 (general literacy achievement) percentile points](../claims/fast-forword-improvement-indices-by-domain.md) [~W]
-- [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](../claims/fast-forword-language-potentially-positive-english-language-development.md) [~W]
-- [Fast ForWord Language shows no discernible effects on reading achievement of elementary school English language learners](../claims/fast-forword-language-no-discernible-reading-achievement-effects.md) [~W]
 - [Fast ForWord has no discernible effects on alphabetics and general literacy achievement and potentially positive effects on reading fluency and comprehension for adolescent learners](../claims/fast-forword-no-discernible-effects-alphabetics-general-literacy.md) [~W]
 
 ## Related Products and Programmes

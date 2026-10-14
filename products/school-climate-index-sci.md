@@ -24,7 +24,6 @@ A California Department of Education Safe and Supportive Schools indicator that 
 
 ### Claims
 - [Beating-the-odds schools have substantially more positive school climate than other California middle and high schools](../claims/bto-schools-higher-school-climate-percentile.md) [+M]
-- [Beating-the-odds California secondary schools have substantially more positive school climates than other secondary schools](../claims/bto-schools-higher-school-climate-percentile.md) [+M]
 
 ## Related Products and Programmes
 -

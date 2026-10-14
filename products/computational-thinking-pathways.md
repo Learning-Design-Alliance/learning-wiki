@@ -56,10 +56,9 @@ A Digital Promise framework of system-wide K–12 computational-thinking learnin
 - [Participating districts report large enrollment gaps in CS courses by income and gender](../claims/cs-enrollment-gaps-income-gender.md) [+W]
 - [Pilot districts report teacher knowledge and integration, not student demand, as their principal equity challenges](../claims/district-equity-challenges-teacher-capacity.md) [+W]
 - [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
-- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+W]
+- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+M]
 - [IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development](../claims/ipsd-competency-map-pilot-title-i-pd.md) [+W]
 - [IPSD set an equity goal of increasing computing opportunities in five Title I elementary schools to reach all students district-wide](../claims/ipsd-title-i-computing-equity-goal.md) [+W]
-- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+M]
 - [A district produced an inclusive computational thinking pathway document through a participatory, teacher-represented development process spanning multiple school years.](../claims/talladega-participatory-ct-pathway-development.md) [+W]
 - [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](../claims/talladega-disparities-persisted-despite-pathway.md) [-W]
 

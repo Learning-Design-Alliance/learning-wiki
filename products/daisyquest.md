@@ -39,16 +39,9 @@ DaisyQuest is a computer-assisted early-literacy software package developed to p
 - [DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures](../claims/daisyquest-kindergarten-significant-gains.md) [+M]
 - [DaisyQuest has positive effects on alphabetics skills in beginning readers, per WWC synthesis of four randomized controlled trials](../claims/daisyquest-positive-effects-alphabetics.md) [+M]
 - [DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers](../claims/daisyquest-versus-teacher-instruction-mixed.md) [+M]
-- [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](../claims/lonigan-2003-significant-four-of-eight-outcomes.md) [~M]
+- [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](../claims/lonigan-2003-significant-four-of-eight-outcomes.md) [~M] — (also cited [+M])
 - [The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating](../claims/wwc-positive-effects-rating-daisyquest.md) [+W]
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](../claims/daisyquest-positive-effects-phonological-processing.md) [+M]
-- [In Foster et al. (1994), DaisyQuest produced statistically significant positive effects on both phonological processing measures in 4- to 6-year-olds](../claims/daisyquest-child-care-significant-gains.md) [+M]
-- [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](../claims/lonigan-2003-significant-four-of-eight-outcomes.md) [+M]
-- [DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures](../claims/daisyquest-kindergarten-significant-gains.md) [+W]
-- [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](../claims/daisyquest-beats-math-software-alphabetics.md) [+W]
-- [DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders](../claims/daisyquest-beats-reading-software-phonological-awareness.md) [+W]
-- [DaisyQuest improved phonological awareness over regular schooling in a child-care facility randomized trial](../claims/daisyquest-child-care-significant-gains.md) [+W]
-- [DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers](../claims/daisyquest-versus-teacher-instruction-mixed.md) [+W]
 
 ## Related Products and Programmes
 

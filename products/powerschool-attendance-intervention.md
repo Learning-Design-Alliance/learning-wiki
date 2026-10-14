@@ -31,7 +31,6 @@ PowerSchool's attendance-intervention platform integrates attendance data into d
 - [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](../claims/powerschool-attendance-intervention-reduces-chronic-absenteeism.md) [+W]
 - [PowerSchool Attendance Intervention did not significantly increase in-seat attendance in the randomized trial](../claims/powerschool-in-seat-attendance-null-dc-rct.md) [-W]
 - [The PowerSchool Attendance Intervention did not significantly increase in-seat attendance in a randomized control trial](../claims/powerschool-attendance-intervention-in-seat-attendance-null.md) [-W]
-- [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](../claims/powerschool-attendance-intervention-reduces-chronic-absenteeism.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -43,7 +43,6 @@ Spaced repetition is the element in which key material is revisited at strategic
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Spaced Repetition Improves Retention](../claims/spaced-repetition-improves-retention.md) [+S]
-- [Distributed Practice Improves Retention](../claims/spaced-repetition-improves-retention.md) [+M]
 - [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+M]
 - [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+M]
 - [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+W]
@@ -59,7 +58,6 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
-- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spaced-repetition-improves-retention.md) [+W]
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](../claims/no-training-retention-interval-interaction.md) [~W]
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](../claims/ai-effect-duration-one-to-two-months-peak.md) [~W]
 

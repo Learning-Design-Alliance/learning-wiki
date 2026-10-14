@@ -31,10 +31,9 @@ Zearn Math is a nonprofit-developed online supplemental K–8 mathematics curric
 ### Claims
 - [Across three studies of Zearn Math the average effect size is +0.09, qualifying the program for a Strong evidence rating](../claims/zearn-average-effect-009-strong-rating.md) [+W]
 - [Louisiana students using Zearn Math with dedicated implementation support scored significantly higher on LEAP (effect size +0.20)](../claims/zearn-louisiana-leap-effect-020.md) [+M]
-- [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](../claims/zearn-pilot-no-significant-differences.md) [-W]
+- [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](../claims/zearn-pilot-no-significant-differences.md) [-W] — (also cited [~M])
 - [Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)](../claims/zearn-rct-nwea-map-effect-011.md) [+W]
 - [In the Texas RCT, Zearn Math effects on the Texas STAAR assessment were directionally positive but not statistically significant](../claims/zearn-rct-staar-not-significant.md) [~W]
-- [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](../claims/zearn-pilot-no-significant-differences.md) [~M]
 
 ## Related Products and Programmes
 -

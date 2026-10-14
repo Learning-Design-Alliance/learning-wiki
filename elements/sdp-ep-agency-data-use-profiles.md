@@ -44,7 +44,6 @@ A set of twelve agency profiles developed by Mathematica Policy Research, each s
 - [Agency data-use profiles were developed from fall and winter 2013–14 site visit interviews](../claims/profiles-from-site-visit-interviews-2013-14.md) [+W]
 - [Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting](../claims/agency-profiles-interview-data-practices.md) [+W]
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
-- [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
 
 ## Related Elements
 

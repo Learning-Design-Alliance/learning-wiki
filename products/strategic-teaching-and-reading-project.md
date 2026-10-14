@@ -39,7 +39,6 @@ A North Central Regional Educational Laboratory professional-development program
 - [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
 - [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [-W]
-- [The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons](../claims/strp-teachers-metacognitive-tools-before-during-after.md) [+W]
 - [The authors conclude that bilingual students can benefit from instruction in metacognitive strategy use](../claims/bilingual-students-benefit-metacognitive-strategy-instruction.md) [+W]
 
 ## Related Products and Programmes

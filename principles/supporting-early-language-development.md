@@ -50,7 +50,6 @@ Language develops fastest where children have real reason to communicate, hear v
 ## Claims
 
 - [Conversational turns predict language development better than word count alone](../claims/conversational-turns-predict-language-development.md) [+M]
-- [Back-and-forth conversational turns with adults are more critical to children's language development and brain physiology than sheer quantity of words heard](../claims/conversational-turns-predict-language-development.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — recasting and expansion are a form of scaffolding applied specifically to grammar

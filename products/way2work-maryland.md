@@ -38,17 +38,11 @@ A U.S. Department of Education Rehabilitation Services Administration-funded dem
 - [Most Way2Work Maryland participants (92 percent) had at least one work experience, 74 percent had at least two with one paid, and 44 percent had at least three with one paid](../claims/way2work-maryland-most-participants-multiple-work-experiences.md) [+W]
 - [Participants reported satisfaction with selected Way2Work Maryland service components](../claims/way2work-participant-satisfaction-service-components.md) [+W]
 - [Service use differed across local school systems in Way2Work Maryland](../claims/way2work-service-use-differences-across-school-systems.md) [~W]
-- [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](../claims/way2work-no-employment-expectation-effects.md) [-W]
-- [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](../claims/way2work-services-substitutes-for-existing-services.md) [~W]
-- [Way2Work Maryland increased vocational rehabilitation agency engagement, with almost all treatment group members using agency-provided work-based learning experiences](../claims/way2work-increased-vr-agency-engagement.md) [+W]
-- [Despite apparent strong implementation, Way2Work Maryland did not generate its intended effects; the report lists five possible reasons](../claims/way2work-implementation-good-effects-absent.md) [-W]
-- [Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment](../claims/way2work-high-school-completion-gain-no-postsecondary-effect.md) [~W]
-- [Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment](../claims/way2work-high-school-completion-gain-no-postsecondary-effect.md) [-M]
-- [Way2Work Maryland increased vocational rehabilitation agency engagement, with almost all treatment group members using agency-provided work-based learning experiences](../claims/way2work-increased-vr-agency-engagement.md) [+M]
-- [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](../claims/way2work-no-employment-expectation-effects.md) [-M]
+- [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](../claims/way2work-no-employment-expectation-effects.md) [-M] — (also cited [+M])
 - [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](../claims/way2work-services-substitutes-for-existing-services.md) [~M]
-- [Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment](../claims/way2work-high-school-completion-gain-no-postsecondary-effect.md) [+M]
-- [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](../claims/way2work-no-employment-expectation-effects.md) [+M]
+- [Way2Work Maryland increased vocational rehabilitation agency engagement, with almost all treatment group members using agency-provided work-based learning experiences](../claims/way2work-increased-vr-agency-engagement.md) [+M]
+- [Despite apparent strong implementation, Way2Work Maryland did not generate its intended effects; the report lists five possible reasons](../claims/way2work-implementation-good-effects-absent.md) [-W]
+- [Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment](../claims/way2work-high-school-completion-gain-no-postsecondary-effect.md) [~W] — (also cited [-M]); (also cited [+M])
 
 ## Related Products and Programmes
 -

@@ -35,14 +35,12 @@ A professional-development and coaching programme run by the eMINTS National Cen
 
 ### Claims
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](../claims/brandt-2013-significant-math-effect.md) [+M]
-- [Both included studies report high-fidelity implementation of eMINTS](../claims/emints-high-fidelity-implementation.md) [+W]
+- [Both included studies report high-fidelity implementation of eMINTS](../claims/emints-high-fidelity-implementation.md) [+W] — (also cited [~W])
 - [eMINTS shows no discernible effects on general literacy achievement](../claims/emints-no-discernible-literacy-effects.md) [-W]
 - [eMINTS has potentially positive effects on general mathematics achievement (improvement index +2 across two studies)](../claims/emints-potentially-positive-math-achievement.md) [+W]
 - [Martin et al. (2009) finds indeterminate effects of eMINTS on both mathematics and literacy achievement in grades 4–5](../claims/martin-2009-indeterminate-effects.md) [~W]
 - [eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study](../claims/emints-math-effect-015-strong.md) [+W]
 - [eMINTS shows no differences in reading outcomes compared with traditional control schools](../claims/emints-no-reading-differences.md) [~W]
-- [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](../claims/brandt-2013-significant-math-effect.md) [+W]
-- [Both included studies report high-fidelity implementation of eMINTS](../claims/emints-high-fidelity-implementation.md) [~W]
 
 ## Related Products and Programmes
 -

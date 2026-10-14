@@ -44,7 +44,6 @@ The report's central recommendation is 'a nationwide Marshall Plan for teaching,
 - [Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers](../claims/underprepared-teachers-leave-at-2-3-times-rate.md) [+W]
 - [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](../claims/teacher-turnover-16-percent-annual.md) [+W]
 - [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](../claims/us-teacher-turnover-15-percent-2021-22.md) [+W]
-- [Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave the profession than those with the most comprehensive preparation](../claims/underprepared-teachers-leave-at-2-3-times-rate.md) [+W]
 - [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](../claims/louisiana-teachers-of-color-working-conditions-turnover.md) [+W]
 
 ## Related Strategies

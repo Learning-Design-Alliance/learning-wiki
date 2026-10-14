@@ -51,7 +51,6 @@ Unit (an 8-week program in the source study; the session structure itself is reu
 
 ### Claims
 #### Supporting
-- [Embodied dance improvisation supports physics engagement and sense-making](../claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) [+M]
 
 ## Design
 

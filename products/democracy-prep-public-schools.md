@@ -36,12 +36,7 @@ A charter-school network operated by Democracy Prep that serves middle- and high
 - [Enrolling in Democracy Prep increases student voter registration rates by about 16 percentage points](../claims/democracy-prep-increases-voter-registration-16-points.md) [+M]
 - [Enrolling in Democracy Prep increases student voting rates in the 2016 election by about 12 percentage points](../claims/democracy-prep-increases-voting-rates-12-points.md) [+M]
 - [Civic-education-focused schooling can boost civic participation in adulthood](../claims/civic-focused-education-boosts-adult-participation.md) [+M]
-- [Democracy Prep charter schools increase students' voter-registration rates by about 16 percentage points](../claims/democracy-prep-increases-voter-registration-16-points.md) [+M]
-- [Democracy Prep charter schools increase students' voting rates by about 12 percentage points in the 2016 election](../claims/democracy-prep-increases-voting-rates-12-points.md) [+M]
 - [Democracy Prep charter schools boost student voting, according to the article's headline finding](../claims/democracy-prep-charter-schools-boost-student-voting.md) [+M]
-- [Civic-education-focused schooling can boost civic participation in adulthood](../claims/civic-focused-education-boosts-adult-participation.md) [+W]
-- [Democracy Prep charter schools increase students' voter-registration rates by about 16 percentage points](../claims/democracy-prep-increases-voter-registration-16-points.md) [+W]
-- [Democracy Prep charter schools increase students' voting rates by about 12 percentage points in the 2016 election](../claims/democracy-prep-increases-voting-rates-12-points.md) [+W]
 
 ## Related Products and Programmes
 -

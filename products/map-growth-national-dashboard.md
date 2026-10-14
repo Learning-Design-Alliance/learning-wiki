@@ -49,8 +49,6 @@ NWEA's dashboard software product that presents national student achievement and
 
 ### Claims
 - [MAP Growth data show U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with the largest 2025–2026 gains among historically underserved groups](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
 - [The 2025 MAP Growth Norms are based on national test samples from 2022–23 and 2023–24, and dashboard results are not comparable to reports using 2020 norms](../claims/2025-norms-based-on-2022-23-and-2023-24-samples.md) [~W]
 - [The MAP Growth National Dashboard draws on a sample of over seven million students in 20,000 schools, about one in four US public schools](../claims/dashboard-sample-seven-million-students-20000-schools.md) [+W]
 - [State-level dashboard results are reported only when at least 20% of students were tested across most grades and the sample contains at least 10 students](../claims/dashboard-state-inclusion-thresholds-20-percent-10-students.md) [~W]

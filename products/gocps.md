@@ -38,18 +38,16 @@ GoCPS is Chicago Public Schools' online universal-enrollment platform, operated 
 - [In points-based GoCPS programs, students were admitted strictly in order of application score within priority groups](../claims/gocps-points-admission-score-order.md) [+W]
 - [Top-ranked program choices differed by student background: low-performing students were nearly three times as likely as high-performing students to rank a charter program first, and IB programs were most popular among high-performing students](../claims/gocps-preferences-vary-by-student-background.md) [+W]
 - [Choice program demand varied widely: 19 percent of programs received more than 10 applications per seat while 8 percent received fewer applications than seats, with demand higher for Arts, CTE, points-based, and highly rated programs](../claims/gocps-program-demand-variation.md) [+W]
-- [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](../claims/gocps-platform-easy-but-extra-requirements-hard.md) [+W]
+- [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](../claims/gocps-platform-easy-but-extra-requirements-hard.md) [+W] — (also cited [~W])
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](../claims/gocps-enrollment-stable-after-implementation.md) [+W]
 - [Almost all CPS eighth-graders (92 percent) used the GoCPS platform to apply to high school in its first year](../claims/gocps-high-application-engagement-first-year.md) [+W]
 - [Students expected acceptance or rejection notifications from all schools they applied to, and the single-best-offer notification design produced confusion and frustration](../claims/notification-expectations-mismatch-gocps.md) [-W]
-- [Students overwhelmingly relied on GoCPS, CPS, and school websites to learn about potential high schools, but found websites out of date and lacking student-voice information](../claims/students-relied-on-online-sources-school-research.md) [-W]
+- [Students overwhelmingly relied on GoCPS, CPS, and school websites to learn about potential high schools, but found websites out of date and lacking student-voice information](../claims/students-relied-on-online-sources-school-research.md) [-W] — (also cited [~W])
 - [Confusion about the GoCPS true-preference ranking rationale was widespread among students, parents, and staff, and misinformation led some students into second-round applications](../claims/gocps-ranking-confusion-second-round.md) [-W]
 - [Many applicants failed to complete post-application admission requirements, with Black and Latino students least likely to complete them](../claims/gocps-post-application-requirement-noncompletion-gaps.md) [-W]
 - [Program demand varied widely: 21 percent of programs had more than ten times as many applications as seats, led by arts, CTE, and SEHS programs](../claims/gocps-program-demand-variation-arts-cte-sehs.md) [+W]
 - [Most GoCPS applicants received an offer from a preferred program: 51 percent from their top-ranked and 81 percent from a top-three ranked choice program](../claims/gocps-most-applicants-top-three-offers.md) [+W]
 - [Black students and students from the lowest-SES neighborhoods ranked more programs but were less likely to rank a high-accountability school first](../claims/gocps-subgroup-ranking-and-accountability-differences.md) [~W]
-- [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](../claims/gocps-platform-easy-but-extra-requirements-hard.md) [~W]
-- [Students overwhelmingly relied on GoCPS, CPS, and school websites to learn about potential high schools, but found websites out of date and lacking student-voice information](../claims/students-relied-on-online-sources-school-research.md) [~W]
 
 ## Related Products and Programmes
 -

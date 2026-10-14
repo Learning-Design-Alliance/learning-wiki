@@ -24,7 +24,6 @@ When a school of choice has more applicants than seats, its admissions lottery c
 
 ### Claims
 - [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](../claims/kipp-lottery-offer-rct-group-balance.md) [+M]
-- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](../claims/kipp-lottery-offer-rct-group-balance.md) [+M]
 
 ## Related Research Methods
 -

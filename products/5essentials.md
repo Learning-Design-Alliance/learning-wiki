@@ -78,10 +78,9 @@ A school-improvement measurement framework developed by the University of Chicag
 - [Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools](../claims/disadvantaged-schools-with-supports-improve-equally.md) [+W]
 - [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](../claims/parent-partnerships-and-climate-predict-teacher-staying.md) [+W]
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](../claims/work-environment-predicts-teacher-retention-chicago.md) [+W]
-- [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](../claims/organizational-gains-without-instructional-gains.md) [+W]
+- [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](../claims/organizational-gains-without-instructional-gains.md) [+W] — (also cited [~W])
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+W]
 - [Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families](../claims/family-voices-inform-all-essentials.md) [+W]
-- [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](../claims/organizational-gains-without-instructional-gains.md) [~W]
 - Press And Personalism Together Related Achievement Gains [+M]
 - Instructional Program Coherence Facilitates Improvement [+M]
 - [Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students](../claims/cps-decades-improvement-equitable-gains.md) [+M]

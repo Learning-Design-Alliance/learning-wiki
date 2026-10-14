@@ -32,9 +32,8 @@ Start Making a Reader Today (SMART®) is a low-cost Oregon school-based programm
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](../claims/smart-comprehension-nonsignificant-substantive-average.md) [+W]
 - [The evidence base for SMART® is a single small-extent RCT, capping the intervention rating at potentially positive effects](../claims/smart-evidence-base-single-small-rct.md) [+W]
 - [After one year of SMART® intervention, only the fluency outcome was statistically significant, while alphabetics and comprehension effects were not](../claims/smart-one-year-interim-mixed-significance.md) [+W]
-- [SMART® tutoring produced statistically significant positive effects on oral reading fluency on both first- and second-grade passages](../claims/smart-significant-oral-reading-fluency-effects.md) [+W]
-- [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](../claims/smart-significant-word-identification-effect.md) [+W]
 - [SMART® tutoring produced statistically significant positive effects on oral reading fluency on both first- and second-grade passages](../claims/smart-significant-oral-reading-fluency-effects.md) [+M]
+- [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](../claims/smart-significant-word-identification-effect.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -40,7 +40,6 @@ The Gates Foundation invested in two programs, the Strategic Data Project (SDP) 
 ## Claims
 
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
-- [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
 - [Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships](../claims/longer-partnership-greater-data-capacity.md) [+W]
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](../claims/sdp-ep-partnerships-enabled-new-data-use-practices.md) [+W]
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](../claims/similar-data-capacity-sdp-ep-agencies.md) [+W]

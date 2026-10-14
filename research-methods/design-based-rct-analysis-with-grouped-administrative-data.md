@@ -30,10 +30,7 @@ The article recommends analyzing RCTs with grouped administrative data "to help 
 ### Claims
 - [Asymptotic properties of design-based estimators using group-level averages match those using individual data](../claims/group-level-design-based-estimators-match-individual-data-asymptotically.md) [+M]
 - [Design effects from aggregation are tolerable with moderate numbers of groups and few covariates](../claims/aggregation-design-effects-tolerable-moderate-groups-few-covariates.md) [+M]
-- [Ecological inference methods for subgroup analyses yield large design effects](../claims/ecological-inference-subgroup-analyses-large-design-effects.md) [~M]
-- [Asymptotic properties of design-based estimators using group-level averages match those using individual data](../claims/group-level-design-based-estimators-match-individual-data-asymptotically.md) [+W]
-- [Design effects from aggregation are tolerable with moderate numbers of groups and few covariates](../claims/aggregation-design-effects-tolerable-moderate-groups-few-covariates.md) [+W]
-- [Ecological inference methods for subgroup analyses yield large design effects](../claims/ecological-inference-subgroup-analyses-large-design-effects.md) [+W]
+- [Ecological inference methods for subgroup analyses yield large design effects](../claims/ecological-inference-subgroup-analyses-large-design-effects.md) [~M] — (also cited [+W])
 - [Empirical examples using real-world education RCT data demonstrate the design-based grouped-data theory](../claims/empirical-examples-education-rct-data-demonstrate-theory.md) [+W]
 
 ## Related Research Methods
