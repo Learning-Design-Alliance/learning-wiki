@@ -43,5 +43,5 @@ Meta-analysis of four within-subjects design effects from two published journal 
 
 
 ## Related Claims
-- [Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions](modality-effect-moderated-by-pacing.md) — related
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](modality-effect-moderated-by-pacing.md) — related
 - [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](modality-effect-narration-over-text.md) — related

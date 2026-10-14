@@ -43,5 +43,5 @@ Implementation data tracked by Cignition in the randomized trial: treatment stud
 
 
 ## Related Claims
-- [Learner flow control over animations was rarely used and did not correlate with learning performance](flow-control-unused-no-learning-correlation.md) — related
+- [Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464](flow-control-unused-no-learning-correlation.md) — related
 - [Most Chicago public school students use technology infrequently and for a narrow range of low-level activities](cps-students-infrequent-narrow-technology-use.md) — related

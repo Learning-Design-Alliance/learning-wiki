@@ -57,12 +57,7 @@
     {
       "hub": "brief-intervention-empathic-discipline-cuts-suspensions",
       "question": "When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?",
-      "members": [
-        [
-          "empathic-mindset-teacher-intervention-lowers-suspensions",
-          "+"
-        ]
-      ]
+      "members": []
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "principle": "principles/concreteness-fading",
+  "note": "Mayer-gap helper (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. Thin: about six distinct studies. Finding 1 rests on Fyfe et al. (2014) and on McNeil & Fyfe (2012) reported second-hand by Antonides & Battista (2022); finding 2 on Carbonneau et al. (2013), which hub and first member share; finding 3 is four mechanisms from one review abstract, none tested. Review before applying.",
+  "findings": [
+    {
+      "hub": "manipulatives-require-connection-to-concept",
+      "question": "Does moving from concrete to iconic to abstract, with explicit links, beat starting abstract or staying concrete?",
+      "members": [
+        [
+          "fading-condition-outperformed-generic-and-concrete",
+          "+"
+        ],
+        [
+          "cube-tower-sequence-elaborated-cf-instantiation",
+          "+"
+        ],
+        [
+          "cube-reasoning-transfers-to-non-cube-permutation-tasks",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "manipulatives-improve-math-learning",
+      "question": "Does a concrete stage help at all over abstract symbols alone?",
+      "members": [
+        [
+          "physical-experience-enhances-science-learning",
+          "~"
+        ],
+        [
+          "abstract-concrete-representation-no-difference",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "fading-helps-interpret-abstract-symbols",
+      "question": "By what route is concreteness fading thought to work?",
+      "members": [
+        [
+          "fading-builds-memorable-images",
+          "+"
+        ],
+        [
+          "fading-provides-embodied-grounding",
+          "+"
+        ],
+        [
+          "fading-distills-generalizable-properties",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

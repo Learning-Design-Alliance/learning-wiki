@@ -12,14 +12,14 @@ generated:
 # Multimodal Presentation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 11 studies (7 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Multimodal presentation delivers content through two or more coordinated channels — most commonly spoken or written words combined with relevant images, diagrams, or animation. The goal is to engage both verbal and visual processing channels so learners can build integrated mental representations rather than translating words into images on their own.
 
 ## Design Implications
 
-Multimodal presentation rests on dual coding: information presented simultaneously in verbal and visual form can be processed in parallel by separate cognitive channels, producing richer representations than either modality alone [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is conditional, not automatic — the modalities must be coordinated and the visual must carry meaning. Decorative images that do not support the content add load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M], and poorly integrated media can overload working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
+Multimodal presentation rests on dual coding: information presented simultaneously in verbal and visual form can be processed in parallel by separate cognitive channels, producing richer representations than either modality alone [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is conditional, not automatic — the modalities must be coordinated and the visual must carry meaning. Decorative images that do not support the content add load without benefit [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+M], and poorly integrated media can overload working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
 
 ### Context
 #### Requirements
@@ -51,7 +51,7 @@ Multimodal presentation rests on dual coding: information presented simultaneous
 - Transfer to novel problems requiring an integrated mental model
 
 ### Instructions
-1. Identify the core content and ask what visual would depict its structure — if none exists, do not add one [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]
+1. Identify the core content and ask what visual would depict its structure — if none exists, do not add one [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+M]
 2. Choose narration for complex or transient content; choose on-screen text when learners must control pacing
 3. Present words and visuals simultaneously and spatially integrated, using signaling to guide attention
 4. Segment long animations and give learners control over pacing

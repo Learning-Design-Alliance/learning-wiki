@@ -44,9 +44,8 @@ Controlled experiments across six computer-based lesson domains comparing spoken
 
 ## Related Claims
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on
-- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
-- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — reports the opposite
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
+- [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — reports the opposite
 - [The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation](modality-effect-holds-middle-school-electricity.md) — a narrower finding that bears on this claim
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related
-- [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-spoken-text-visual-information.md) — possibly the same claim (merge candidate)
 - [Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer](contiguity-principles-mayer-2008.md) — related

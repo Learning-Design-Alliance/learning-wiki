@@ -64,6 +64,6 @@ Qualitative case study of teaching dialogues (Appendix B) finding that with exam
 ## Related Claims
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Instruction-tuning a student model on a single misconception overgeneralizes the error across problems and degrades correct-solving accuracy](student-model-misconception-overgeneralization-degrades-accuracy.md) — related
-- [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — a broader claim this one bears on
+- [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — a broader claim this one bears on
 - [Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone](multi-turn-teaching-beats-knowledge-point-exposure.md) — related
 - [Pass@1 is not a sufficient success metric for soft barriers because it conflates successful barriers with model generation failures](pass1-false-narrative-soft-barriers.md) — related

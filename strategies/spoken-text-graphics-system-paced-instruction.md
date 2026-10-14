@@ -17,7 +17,7 @@ sources:
 # Use audio-visual (spoken text with graphics) presentation for system-paced, high element interactivity instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q2`–`q3` · 2 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q2`–`q3` · 2 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The meta-analysis supports presenting textual information through an auditory mode while graphical information is presented visually, particularly when materials are system-paced and high in element interactivity. The author notes the strong observed effect under system-paced conditions "must be weighed against the additional cost of developing audio-visual instructional materials", and points to inexpensive implementation routes such as tape-recorded instructions and recorded comments in PowerPoint slideshows or Camstudio files stored on websites.
@@ -44,12 +44,11 @@ The meta-analysis supports presenting textual information through an auditory mo
 
 ## Claims
 
-- [Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions](../claims/modality-effect-moderated-by-pacing.md) [+M]
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](../claims/modality-effect-moderated-by-pacing.md) [+M]
 - [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](../claims/modality-effect-narration-over-text.md) [+M]
 - [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](../claims/modality-effect-within-subjects-d073.md) [+M]
-- [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](../claims/modality-effect-spoken-text-visual-information.md) [+M]
 - [Modality effect sizes differ across fields of study, with social science effects negative and science effects largest](../claims/modality-effect-field-of-study-moderator.md) [~M]
-- [The modality effect is particularly strong for students learning through virtual reality media](../claims/modality-effect-stronger-in-virtual-reality.md) [~M]
+- [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](../claims/modality-effect-stronger-in-virtual-reality.md) [~M]
 
 ## Related Strategies
 

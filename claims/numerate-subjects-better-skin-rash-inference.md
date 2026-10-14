@@ -15,12 +15,14 @@ sources:
     author: DAN M. KAHAN, ELLEN PETERS, ERICA CANTRELL DAWSON and PAUL SLOVIC
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Subjects highest in numeracy draw valid causal inferences from data better than less numerate subjects when the data are politically uncharged (skin rash treatment framing)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In an experiment presenting a difficult causal-inference problem as a skin rash treatment study, subjects highest in numeracy did substantially better than less numerate ones. [→ DAN M. KAHAN 2017](#dan-m-kahan-2017)
@@ -31,7 +33,7 @@ sources:
 
 DAN M. KAHAN, ELLEN PETERS, ERICA CANTRELL DAWSON and PAUL SLOVIC. (2017). Motivated numeracy and enlightened self-government. Behavioural Public Policy, Volume 1, Issue 1. https://doi.org/10.1017/bpp.2016.2
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The article's experiment presented subjects a difficult problem requiring valid causal inference from empirical data. In the politically uncharged skin rash treatment framing, the article reports highly numerate subjects "did substantially better than less numerate ones". No effect size is printed in the supplied text.
 

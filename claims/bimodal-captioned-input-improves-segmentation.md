@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: darcy-2018
-    resource: "http://languageinstinct.blogspot.com/2006/09/what-is-clt.html"
-    title: "Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html"
+    resource: "https://doi.org/10.5070/b5.35963"
+    title: "Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). [doi:10.5070/b5.35963](https://doi.org/10.5070/b5.35963)"
     author: Darcy, I.
     q: 1
     i: "?"
@@ -31,17 +31,16 @@ sources:
 
 ### Darcy 2018
 
-Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html
+Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). [doi:10.5070/b5.35963](https://doi.org/10.5070/b5.35963)
 
 `q1 · i?` · `theoretical · r3`
 
 The article attributes this finding to Charles and Trenkic (2015), saying the improvement "generalized to sentences and speakers whom the learners were not familiar with," suggesting a long-term effect on word-recognition ability from running speech.
 
-> "A relevant recent study by Charles and Trenkic (2015) demonstrated that learn- ers who were exposed to “bimodal input, ” that is, a video with cap- tions, improved their listening skills (as opposed to a control group)."
+> "A relevant recent study by Charles and Trenkic (2015) demonstrated that learners who were exposed to “bimodal input,” that is, a video with captions, improved their listening skills (as opposed to a control group)."
 
 ## Discussion
 
 
 ## Related Claims
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
-- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related

@@ -43,6 +43,8 @@ The review reports, citing Jeung, Chandler, and Sweller, an experiment comparing
 
 ## Related Claims
 
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](modality-effect-moderated-by-pacing.md) — the general claim this finding bears on, with the studies behind it
+
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — the general claim this finding bears on, with the studies behind it
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related

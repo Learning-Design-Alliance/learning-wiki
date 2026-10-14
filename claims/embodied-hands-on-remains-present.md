@@ -45,5 +45,5 @@ Thematic review finding across the included corpus: the review reports that sket
 ## Related Claims
 - [Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints](ai-generation-compresses-learning-processes.md) — related
 - [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](language-facilitator-verbal-channel-limit.md) — related
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle](workshop-iterative-ai-creation-process-cordtra.md) — related

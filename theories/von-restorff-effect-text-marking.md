@@ -12,7 +12,7 @@ generated:
 # The von Restorff effect in text marking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q3`–`q4` · 2 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q3`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 The von Restorff effect (also called the isolation effect) is the finding that an item that stands out from its surroundings — through distinctiveness in color, size, or form — is remembered better than items that blend in. Hedwig von Restorff first demonstrated the effect in 1933: when one item in a homogeneous list was made distinctive, recall for that item improved substantially. Applied to text marking, the effect explains how underlining and highlighting function: marked text is isolated against an unmarked background, and readers "tend to study and remember that information better than nonunderlined information."

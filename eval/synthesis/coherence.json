@@ -1,0 +1,128 @@
+{
+  "principle": "principles/coherence",
+  "note": "Mayer batch (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries, read in full. decorative-illustrations-do-not-improve-learning rests on the same three entries as seductive-details-effect (Sundararajan & Adesope 2020, Lenzner 2013, Gonzalez 2019); the Clinton 2017 claims are six measures of one study; the Noetel 2022 claims pool all multimedia principles, not coherence alone. synthesize_claim counts each study once. Review before applying.",
+  "findings": [
+    {
+      "hub": "coherence-principle-irrelevant-material-hurts-learning",
+      "question": "Does leaving out interesting but irrelevant material improve comprehension and transfer?",
+      "members": [
+        [
+          "seductive-details-effect",
+          "~"
+        ],
+        [
+          "decorative-images-distract-from-math-problems",
+          "+"
+        ],
+        [
+          "relevancy-of-emphasis-directs-attention",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-effect",
+      "question": "For whom does cutting extraneous material matter, and does it change with prior knowledge?",
+      "members": [
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-processing-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-modality-effect-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-prior-knowledge-interaction",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "-"
+        ],
+        [
+          "revisions-no-effect-time-with-lesson",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "design-principle-effects-moderated-by-pacing-and-complexity",
+      "question": "When does presentation design matter most: pacing and complexity?",
+      "members": [
+        [
+          "element-interactivity-moderates-contiguity-effect",
+          "+"
+        ],
+        [
+          "retention-transfer-scores-decrease-with-element-interactivity",
+          "+"
+        ],
+        [
+          "mental-effort-study-time-indicate-element-interactivity",
+          "~"
+        ],
+        [
+          "multimedia-design-principles-improve-learning-overall",
+          "+"
+        ],
+        [
+          "cognitive-overload-degrades-learning",
+          "+"
+        ],
+        [
+          "hypermedia-usability-problems-hinder-effectiveness",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

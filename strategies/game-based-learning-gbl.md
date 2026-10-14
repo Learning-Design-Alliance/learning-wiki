@@ -12,7 +12,7 @@ generated:
 # Game-Based Learning (GBL)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (2 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 9 studies (5 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size
 
 ## Description
 Game-based learning designs learning activities so that game characteristics — goals, rules, challenge, feedback, and often narrative — inhere within the learning activity itself. Games are used to reach specific learning objectives across knowledge, skills, and attitudes, whether as board games, role-plays, simulations, or digital games. GBL is distinct from [gamification](gamification.md), which applies game elements (points, badges, leaderboards) to non-game instruction without making the activity itself a game.
@@ -29,7 +29,7 @@ Learning in games is driven by cycles of decision, feedback, and adjustment; wel
 - Assessment that captures in-game decisions and artifacts, not just completion
 
 #### Constraints
-- Entertainment features that do not carry instructional content add extraneous load and can depress learning relative to simpler instruction [decorative or seductive details do not improve learning](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Entertainment features that do not carry instructional content add extraneous load and can depress learning relative to simpler instruction [decorative or seductive details do not improve learning](../claims/seductive-details-effect.md) [-M]
 - Poorly aligned mechanics teach the wrong thing: learners optimize for winning, not for the objective [-M]
 - High production-value games show only modest learning advantages over conventional instruction in meta-analyses, and gains shrink when comparison instruction is equally well designed [~S]
 - Time-intensive to design or even to select and integrate; a full game session can consume class time that direct instruction would cover more efficiently for declarative content [-M]

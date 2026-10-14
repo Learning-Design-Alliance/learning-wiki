@@ -71,9 +71,10 @@ The review reports, citing Tarmizi and Sweller, that Experiments 4 and 5 with an
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a broader claim this one bears on
 - [The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al. (1998) and Yeung et al. (1998) studies it cites](expertise-reversal-split-attention-redundancy-review.md) — related
-- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — a broader claim this one bears on
+- [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — a broader claim this one bears on
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a broader claim this one bears on

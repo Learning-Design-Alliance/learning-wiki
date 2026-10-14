@@ -39,9 +39,20 @@ The review attributes this to Kalyuga et al. (2000), experiments on using indust
 
 > "Specifically, when the same students became even more experienced after further intensive training in the domain, a substantial advantage of a diagram-only condition over a diagram with audio text condi- tion was obtained, reversing the results of the first experi- ment."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does narration stop helping, or start to hurt, as learners gain expertise?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **2 distinct studies** (1 review, 1 quant-synthesis), `q2`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kalyuga 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 · review · r2 | i? | this claim |
+| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2; i? | [Design principle effects are larger in system-paced and in complex media, and learner prio](design-principle-effects-moderated-by-pacing-and-complexity.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims
 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
-- [Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions](modality-effect-moderated-by-pacing.md) — related
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](modality-effect-moderated-by-pacing.md) — related

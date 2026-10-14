@@ -12,3 +12,8 @@ Evidence filled from Crossref-verified sources, read by an in-session agent (ful
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence copied from a verified near-duplicate (gap-fill)
+
+## Earlier history as claims/segmenting-effect-retention-transfer-meta-analysis
+
+### 2026-10-13 · ingest · process:wiki-ingest
+Ingested from syn-rey-2019-a-meta-analysis-of-the-segmenting (A Meta-analysis of the Segmenting Effect) via eval_harness.py + ingest_extractions.py

@@ -17,3 +17,8 @@ New claim ld-6: seductive details effect (Unit 6 ingest)
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence copied from a verified near-duplicate (gap-fill)
+
+## Earlier history as claims/decorative-illustrations-do-not-improve-learning
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)

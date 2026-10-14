@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 27 claims (19 for, 7 mixed, 1 against) · 32 studies (14 causal, 9 quant-synthesis, 6 review, 2 theoretical, 1 design), `q1`–`q4` · 8 of 32 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (18 for, 7 mixed, 1 against) · 32 studies (14 causal, 9 quant-synthesis, 6 review, 2 theoretical, 1 design), `q1`–`q4` · 8 of 32 report an effect size · 18 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -72,18 +72,18 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S] — example-based sequences reduce load compared to problem-only practice for novices; provides direct experimental evidence for the worked example effect as a CLT application
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — worked examples reduce unnecessary search load, freeing working memory for schema construction
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — expertise reversal: as schemas develop, the same guidance that reduced load for novices begins to impose redundancy load on more experienced learners
-- [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [+W]
+- [Redundancy Effect Impairs Learning](../claims/redundancy-principle.md) [+W]
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+M]
 - [Cognitive Load Management](../claims/cognitive-load-management.md) [+M]
 - [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
-- [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [+M]
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](../claims/redundancy-hurts-learning.md) [+M]
 - [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
 - [The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment](../claims/ai-feedback-reduces-cognitive-load-and-fear-of-failure.md) [+W] — attached 2026-10-11 from Nuhu et al. (2026), which proposed "Real-time AI feedback as digital scaffolds bridging feedback latency"; tests this page's relationship.
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](../claims/arpg-plus-load-composition-shift-and-overload-reduction.md) [+W] — attached 2026-10-12 from Ye et al. (2026), which proposed "Operationalizing cognitive load theory and ZPD into real-time coaching signals"; tests this page's relationship.
 - [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](../claims/minimally-guided-instruction-less-effective-than-strong-guidance.md) [+W] — attached 2026-10-13 from Kirschner et al. (2006), which proposed "Human cognitive architecture, expert-novice differences, and cognitive load as the explanatory framework for the superiority of guided instruction".
 - [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](../claims/guidance-advantage-recedes-with-high-prior-knowledge.md) [+W] — attached 2026-10-13 from Kirschner et al. (2006), which proposed "Human cognitive architecture, expert-novice differences, and cognitive load as the explanatory framework for the superiority of guided instruction"; tests this page's relationship.
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](../claims/segmenting-effect-retention-transfer-meta-analysis.md) [+W] — attached 2026-10-13 from Rey et al. (2019), which proposed "Explanatory accounts of the segmenting effect: designer-imposed chunking and structuring, more processing time, and individual pace adaptation".
+- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](../claims/segmenting-improves-multimedia-learning.md) [+W] — attached 2026-10-13 from Rey et al. (2019), which proposed "Explanatory accounts of the segmenting effect: designer-imposed chunking and structuring, more processing time, and individual pace adaptation".
 - [Segmentation reduces overall cognitive load during multimedia learning](../claims/segmenting-reduces-cognitive-load.md) [+W] — attached 2026-10-13 from Rey et al. (2019), which proposed "Explanatory accounts of the segmenting effect: designer-imposed chunking and structuring, more processing time, and individual pace adaptation"; tests this page's relationship.
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](../claims/germane-load-redistributive-function-reformulation.md) [~W]
 - [Directive feedback is associated with higher cognitive load than Socratic feedback, with no agent-type effects on learning experiences](../claims/directive-feedback-higher-cognitive-load.md) [~W]
@@ -92,7 +92,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](../claims/genai-training-comparable-load-marginal-intrinsic-increase.md) [~W]
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](../claims/split-attention-effect-in-worked-examples.md) [+W] — attached 2026-10-13 from Atkinson et al. (2000), which proposed "A three-factor causal framework organizes the factors that influence learning from worked examples"; tests this page's relationship.
 - [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](../claims/subgoal-labels-worked-examples-transfer.md) [+W] — attached 2026-10-13 from Atkinson et al. (2000), which proposed "A three-factor causal framework organizes the factors that influence learning from worked examples".
-- [Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions](../claims/modality-effect-moderated-by-pacing.md) [~W] — attached 2026-10-13 from Ginns (2005), which proposed "Cognitive load theory account of the modality effect via dual working-memory channels"; tests this page's relationship.
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](../claims/modality-effect-moderated-by-pacing.md) [~W] — attached 2026-10-13 from Ginns (2005), which proposed "Cognitive load theory account of the modality effect via dual working-memory channels"; tests this page's relationship.
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](../claims/element-interactivity-moderates-contiguity-effect.md) [+W] — attached 2026-10-13 from Ginns (2006), which proposed "Cognitive Load Theory account of split-attention costs"; tests this page's relationship.
 - [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](../claims/integration-of-related-elements-large-mean-effect.md) [+W] — attached 2026-10-13 from Ginns (2006), which proposed "Cognitive Load Theory account of split-attention costs".
 
@@ -158,7 +158,7 @@ Cognitive Load Theory is the short-form canonical target for CLT-informed instru
 #### Supporting
 
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md)
-- [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [+W]
+- [Redundancy Effect Impairs Learning](../claims/redundancy-principle.md) [+W]
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+M]
 - [Cognitive Load Management](../claims/cognitive-load-management.md) [+M]
 - [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]

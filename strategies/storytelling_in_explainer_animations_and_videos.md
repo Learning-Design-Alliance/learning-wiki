@@ -12,14 +12,14 @@ generated:
 # Storytelling in Explainer Animations and Videos
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 against) · 14 studies (6 causal, 5 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 5 of 14 report an effect size
+> **Evidence** · 5 claims (3 for, 2 against) · 17 studies (9 causal, 5 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 5 of 17 report an effect size
 
 ## Description
 This strategy embeds instructional content within a narrative structure — a character, problem, and resolution — delivered through animation or video. The video typically opens with a realistic situation the audience recognizes, introduces the concept as a means of resolving the situation, and closes with the outcome. Narrative context gives discrete facts a causal structure, which supports encoding and retrieval far better than isolated assertions.
 
 ## Design Implications
 
-Storytelling works because narratives induce *transportation* — absorption into a story world — which reduces counterarguing and increases elaboration of story-consistent content [Narrative transportation increases story-consistent beliefs and reduces counterarguing.](https://doi.org/10.1037/0022-3514.79.5.701) [+M]. However, the multimedia design matters as much as the story: narration and animation must be coordinated, and seductive but irrelevant detail (including emotionally engaging story elements unrelated to the learning goal) actively harms retention [Decorative illustrations and interesting-but-irrelevant details do not improve and can impair learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. The story must carry the concept, not merely decorate it.
+Storytelling works because narratives induce *transportation* — absorption into a story world — which reduces counterarguing and increases elaboration of story-consistent content [Narrative transportation increases story-consistent beliefs and reduces counterarguing.](https://doi.org/10.1037/0022-3514.79.5.701) [+M]. However, the multimedia design matters as much as the story: narration and animation must be coordinated, and seductive but irrelevant detail (including emotionally engaging story elements unrelated to the learning goal) actively harms retention [Decorative illustrations and interesting-but-irrelevant details do not improve and can impair learning.](../claims/seductive-details-effect.md) [-S]. The story must carry the concept, not merely decorate it.
 
 ### Context
 #### Requirements

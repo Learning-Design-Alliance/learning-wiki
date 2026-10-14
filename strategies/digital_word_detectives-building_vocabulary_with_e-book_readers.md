@@ -12,7 +12,7 @@ generated:
 # Digital Word Detectives — Building Vocabulary With E-Book Readers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies (5 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 4 of 15 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 18 studies (8 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size
 
 ## Description
 Digital Word Detectives positions learners as investigators of unfamiliar vocabulary while reading in an e-book reader (e.g., Kindle, Apple Books, Epic!, Unite for Literacy). Learners flag unknown words, use the reader's built-in dictionary, text-to-speech, and highlighting tools to look up meanings, and record findings in a personal "word detective notebook" (digital or paper). The strategy converts incidental word encounters into deliberate vocabulary learning by pairing wide reading with explicit word-investigation routines.
@@ -30,7 +30,7 @@ Vocabulary is acquired primarily through repeated encounters with words in meani
 
 #### Constraints
 - Instant dictionary lookup can become a crutch: learners who tap every unknown word without attempting contextual inference show weaker word-learning than those prompted to predict first [~M] — build a "predict, then check" step into the routine
-- Multimedia embellishment in enhanced e-books can distract from the text; decorative or extraneous illustrations do not improve learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S] — prefer congruent, word-supporting media
+- Multimedia embellishment in enhanced e-books can distract from the text; decorative or extraneous illustrations do not improve learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S] — prefer congruent, word-supporting media
 - Looking up a definition once produces shallow knowledge; without spaced revisits and generative use, detected words are quickly forgotten
 - Young or struggling readers may attend to device features (page-turning, animations) rather than words, degrading the reading experience relative to print [~M]
 

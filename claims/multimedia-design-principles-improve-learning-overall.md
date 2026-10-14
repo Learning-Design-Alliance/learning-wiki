@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles
-description: Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles
+title: "Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles"
+description: "Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles"
 id: multimedia-design-principles-improve-learning-overall
 status: draft
 generated:
@@ -27,13 +27,15 @@ sources:
     rigour: 3
 ---
 
-# Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles
+# Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2`–`q3` · `i1` small
 
+<!-- title before 2026-10-14: Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles -->
+
 ## Subclaims
-`q3 i1` Across the 11 largest reviews, multimedia design principles had a moderate, statistically significant average effect on learning (g = 0.38). [→ Noetel 2022](#noetel-2022)
+`q3 i1` Across the 11 largest reviews, multimedia design principles had a statistically significant average effect on learning of g = 0.38, which the authors call moderate (small on this wiki's scale). [→ Noetel 2022](#noetel-2022)
 `q2 i?` The specific design principle explained most of the variance in learning outcomes, with some principles much larger than others. [→ Noetel 2022 (2)](#noetel-2022-2)
 
 ## Evidence
@@ -61,12 +63,14 @@ Moderation analysis across 16 pooled effects found the design principle itself e
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How much do the design principles add, and when do they matter most?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q2`–`q3`, 2 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For which material and pacing is a primer most worth its time?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 causal), `q2`–`q4`, 3 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q2 / q3 · quant-synthesis · r3 | i1; i?; i2 | this claim; [Design principle effects are moderated by pacing and element interactivity, but not by lea](design-principle-effects-moderated-by-pacing-and-complexity.md) (qualifies); [Multimedia design interventions yield small average improvements in cognitive load managem](design-principles-improve-cognitive-load-management.md) (supports) |
-| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Pretraining principle: pre-lessons on names, locations, and characteristics of key compone](pretraining-principle-mayer-2008.md) (supports) |
+| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q2 / q3 / q4 · quant-synthesis · r3 | i1; i?; i2; i1 · small-to-moderate average effect, g=0.38 (g=0.70 for complex materials) | this claim; [Design principle effects are larger in system-paced and in complex media, and learner prio](design-principle-effects-moderated-by-pacing-and-complexity.md) (qualifies); [Multimedia design interventions yield small average improvements in cognitive load managem](design-principles-improve-cognitive-load-management.md) (supports); [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) (supports) |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 · large effect, median d = 0.85 | [Pretraining principle: pre-lessons on names, locations, and characteristics of key compone](pretraining-principle-mayer-2008.md) (supports) |
+| [Sweller 1988](https://doi.org/10.1207/s15516709cog1202_4) | q3 · causal · r? | i? | [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) (supports) |
+| [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q3 · quant-synthesis · r2 | i2 | [The learning benefit of increasing integration is substantially larger for high element in](element-interactivity-moderates-contiguity-effect.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

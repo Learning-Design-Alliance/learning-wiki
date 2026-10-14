@@ -41,8 +41,9 @@ Observation from the same two-student teaching experiment: in later sessions bot
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — the general claim this finding bears on, with the studies behind it
 - [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — related
 - [Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues](conceptual-factors-beyond-memory-underlie-sld-mdc-challenges.md) — related
 - [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](orienting-reflection-to-own-tracking-fosters-monitoring.md) — related

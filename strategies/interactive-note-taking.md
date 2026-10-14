@@ -12,7 +12,7 @@ generated:
 # Interactive Note Taking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 20 studies (9 quant-synthesis, 7 causal, 3 review, 1 theoretical), `q2`–`q4` · 8 of 20 report an effect size
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 23 studies (10 causal, 9 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 8 of 23 report an effect size
 
 ## Description
 Interactive note taking asks learners to do generative work on incoming content while recording it — summarizing, paraphrasing, questioning, diagramming, or connecting to prior knowledge — instead of copying it verbatim. The instructor structures this activity through prompts, templates, pauses for elaboration, or guided formats such as two-column notes. The core mechanism is that the note-taking act itself becomes a learning event, not just a storage event.
@@ -32,7 +32,7 @@ Note taking supports learning only when it induces generative processing; verbat
 - Verbatim transcription — especially typing lecture notes word-for-word — reduces conceptual learning relative to generative summarizing [~S]; laptop users transcribe more and summarize less
 - High element interactivity can overload learners: asking them to summarize dense, fast-paced content while also comprehending it degrades both [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S] — provide partial notes or pauses under heavy load
 - Unstructured "take notes" instructions leave novices unable to judge what is important, producing poor selections [~M]
-- Graphic organizers imposed without learner construction can become decorative busywork [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [~W]
+- Graphic organizers imposed without learner construction can become decorative busywork [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [~W]
 
 #### Implementation Variability
 - **Two-column (Cornell) notes** — cue column for questions, notes column for content, summary section at the bottom

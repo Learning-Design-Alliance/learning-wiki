@@ -41,10 +41,11 @@ Moderator analysis within the meta-analysis comparing effects from static (e.g. 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
-- [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
+- [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on

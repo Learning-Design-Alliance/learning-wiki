@@ -35,15 +35,14 @@ Steven C. Pan, Shana K. Carpenter. (2023). Prequestioning and Pretesting Effects
 
 `q3 · i?` · `review · r3`
 
-Narrative review of Carpenter and Toftness (2017), where six practice questions were interpolated among two-minute segments of a seven-minute Easter Island video; the review reports the experimental condition "exhibited better memory for directly tested information rela- tive to the control condition".
+Narrative review of Carpenter and Toftness (2017), where six practice questions were interpolated among two-minute segments of a seven-minute Easter Island video; the review reports the experimental condition "exhibited better memory for directly tested information relative to the control condition".
 
-> "On an immediate posttest, participants in the 1 3 Educational Psychology Review (2023) 35:97 Page 13 of 40 97 experimental condition exhibited better memory for directly tested information rela- tive to the control condition"
+> "On an immediate posttest, participants in the […] experimental condition exhibited better memory for directly tested information relative to the control condition"
 
 ## Discussion
 
 
 ## Related Claims
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — related
-- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](pretesting-enhances-memory-tested-text.md) — related
-- [Pretesting enhances learning](pretesting-enhances-learning.md) — a broader claim this one bears on
-- [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](feedback-timing-moderates-pretesting.md) — related
+- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](pretesting-enhances-learning.md) — related
+- [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related

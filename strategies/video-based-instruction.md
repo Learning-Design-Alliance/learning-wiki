@@ -12,7 +12,7 @@ generated:
 # Video Based Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 8 studies (3 causal, 2 review, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Video based instruction delivers content through recorded audiovisual segments — narrated slides, screencasts, demonstrations, or talking-head presentations — that learners watch before, during, or after other learning activities. It is carried out by producing or curating video segments, typically kept short and focused on a single concept, and embedding them within a larger sequence that includes practice and feedback.
@@ -24,7 +24,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 ### Context
 #### Requirements
 - Short, single-concept segments (ideally under 6 minutes) [Guo et al. found engagement drops sharply beyond six minutes.](https://doi.org/10.1145/2556288.2557205) [+M]
-- Narration aligned with visuals, avoiding redundant on-screen text that duplicates the narration [Redundant on-screen text duplicating narration impairs learning.](../claims/redundancy-effect-impairs-learning.md) [+S]
+- Narration aligned with visuals, avoiding redundant on-screen text that duplicates the narration [Redundant on-screen text duplicating narration impairs learning.](../claims/redundancy-principle.md) [+S]
 - Coherent visuals free of irrelevant decorative content [Irrelevant seductive details in multimedia materials reduce learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S]
 - A follow-on activity requiring application ([Practice](../elements/practice.md), [Annotating](../principles/annotating.md), or embedded questions)
 
@@ -40,7 +40,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 - Video as pre-class material in a flipped sequence, with class time for application
 
 ### Target Learners
-- Novices, who benefit from the controlled pacing and replayability of video [Multimedia design principles benefit learners with low prior knowledge most.](../claims/multimedia-principles-benefit-novices.md) [+M]
+- Novices, who benefit from the controlled pacing and replayability of video [Multimedia design principles benefit learners with low prior knowledge most.](../claims/expertise-reversal-effect.md) [+M]
 - Learners needing to revisit complex procedures — pause/rewind supports self-pacing [+M]
 - Less beneficial for advanced learners, who can often process text faster than video [~M]
 
@@ -51,7 +51,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 
 ### Instructions
 1. Identify the single concept or procedure each segment will cover; script narration to align with visuals ([Chunking](../principles/chunking.md))
-2. Record or curate the video applying multimedia principles: signaling, coherence, no redundant on-screen text [Redundant on-screen text duplicating narration impairs learning.](../claims/redundancy-effect-impairs-learning.md) [+S]
+2. Record or curate the video applying multimedia principles: signaling, coherence, no redundant on-screen text [Redundant on-screen text duplicating narration impairs learning.](../claims/redundancy-principle.md) [+S]
 3. Segment into short units with clear titles and advance organizers ([Advance Organizers](../elements/advance-organizers.md))
 4. Embed generative activities: embedded questions, note-taking prompts, or immediate [Practice](../elements/practice.md) [Video without generative processing yields weaker learning than video plus prompts or practice.](https://doi.org/10.1007/s10648-021-09650-1) [+S]
 5. Provide a mechanism for questions and feedback ([Check-In](../elements/check-in.md), discussion, or [Assessment for Learning](../principles/assessment-for-learning.md))

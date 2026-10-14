@@ -29,7 +29,7 @@ sources:
 # Sketchnoting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 11 claims (8 for, 3 against) · 20 studies (11 causal, 8 quant-synthesis, 1 review), `q2`–`q4` · 10 of 20 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (8 for, 3 against) · 23 studies (14 causal, 8 quant-synthesis, 1 review), `q2`–`q4` · 10 of 23 report an effect size · 4 claims rest on one study
 
 ## Description
 Sketchnoting is note-taking in which learners record ideas as a combination of small hand-drawn images, hand-lettered words, containers, arrows, and layout, rather than as running prose. The claim it rests on is not that learners have a visual style, and not that the notes are attractive: it is that deciding *what to draw* forces the learner to select the key idea, decide what it is like, and commit to a spatial relationship between ideas — three selections that verbatim transcription never requires. The artifact is a by-product; the selection is the learning.
@@ -50,7 +50,7 @@ The important caveat is that the evidence base is for *drawing to learn*, not fo
 
 #### Constraints
 - Drawing during live input competes for the same working memory the content needs; novices who draw while listening can lose both [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [-S]
-- Effort spent on visual polish is effort not spent on the content — decorative embellishment is extraneous processing wearing the costume of engagement [Decorative Illustrations Do Not Improve Learning](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Effort spent on visual polish is effort not spent on the content — decorative embellishment is extraneous processing wearing the costume of engagement [Decorative Illustrations Do Not Improve Learning](../claims/seductive-details-effect.md) [-S]
 - A learner-built visual whose structure does not fit the content's structure imposes load rather than reducing it [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](../claims/mismatched-graphic-organizers-increase-extraneous-load.md) [-M]
 - Slow relative to typing or writing; coverage per unit time falls, so it suits depth over breadth
 - Learners with fine-motor or visual impairments may find the modality itself a barrier rather than a support [-M]

@@ -43,5 +43,7 @@ Moderator analysis of type of testing within the meta-analysis; the article repo
 
 ## Related Claims
 
+- [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — the general claim this finding bears on, with the studies behind it
+
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on

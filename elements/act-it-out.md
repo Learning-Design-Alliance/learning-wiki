@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 12 studies (5 causal, 4 quant-synthesis, 2 theoretical, 1 review), `q1`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 15 studies (8 causal, 4 quant-synthesis, 2 theoretical, 1 review), `q1`–`q4` · 3 of 15 report an effect size
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -30,7 +30,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - Psychological safety — learners must be willing to perform in front of peers
 
 #### Constraints
-- Enactments that are fun but structurally unrelated to the content add cognitive load without learning benefit [Decorative or content-irrelevant activity does not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Enactments that are fun but structurally unrelated to the content add cognitive load without learning benefit [Decorative or content-irrelevant activity does not improve learning.](../claims/seductive-details-effect.md) [-M]
 - Less effective for abstract symbolic content with no natural embodied analogue; forced physical metaphors can implant misconceptions
 - Social anxiety and cultural norms around performance can block participation; not all learners engage through public performance
 - Time-intensive relative to the content covered; poorly suited to high-density factual coverage

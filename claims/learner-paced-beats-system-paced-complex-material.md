@@ -34,7 +34,8 @@ sources:
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
 <!-- deprecated title (2026-09-30, did not say it rests on one experiment): Learner Paced Beats System Paced Complex Material -->
 
-For complex material, allowing learners to control the pace of instruction (pause, replay, slow down) produces better learning than a fixed, system-controlled pace, because pacing control lets learners manage cognitive load.
+In one experiment with primary-school students, learner-paced animations (segmented, or with stop/play control) produced better performance than a fixed, system-paced animation on difficult, high-element-interactivity questions only; the proposed reason is that pacing control lets learners manage cognitive load. A meta-analysis of learner control in educational technology generally found an overall effect near zero (g = 0.05).
+<!-- deprecated (2026-10-14, stated as general without the one-experiment qualifier): For complex material, allowing learners to control the pace of instruction (pause, replay, slow down) produces better learning than a fixed, system-controlled pace, because pacing control lets learners manage cognitive load. -->
 
 ## Subclaims
 
@@ -63,13 +64,16 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does handing control to learners (pace, feedback, sequence) improve learning, and when?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (3 causal, 2 quant-synthesis), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Who should set the pauses, and do pause controls do the same job as designed segments?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **8 distinct studies** (4 causal, 3 quant-synthesis, 1 design), `q2`–`q3`, 3 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Hasler et al. 2007](https://doi.org/10.1002/acp.1345) | q3 · causal · r? | i? | this claim |
 | [Karich et al. 2014](https://doi.org/10.3102/0034654314526064) | q3 · quant-synthesis · r? | i0 · negligible overall effect, g=0.05 | this claim |
 | [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced s](segmenting-effects-confirmed-system-paced.md) (qualifies) |
+| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2; i? | [Design principle effects are larger in system-paced and in complex media, and learner prio](design-principle-effects-moderated-by-pacing-and-complexity.md) (qualifies) |
+| Guttormsen Schär 2007 | q2 · causal · r1 | i? | [Learner flow control over animations is rarely used, and the authors report no correlation](flow-control-unused-no-learning-correlation.md) (qualifies); [Animations appear to pacify learners: static-picture groups navigated far more actively th](animations-pacify-learners-navigation-imbalance.md) (qualifies) |
+| Toma 2000 | q2 · design · r2 | i? | [Students pause the video after a few sequences to consult a segment menu and judge workloa](students-pause-video-to-view-segment-menu.md) (qualifies) |
 | Rouse 1980 | q2 · causal · r1 | i? | [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use ](forced-pacing-eliminates-aiding-transfer.md) (qualifies) |
 | [Carter 2014](https://doi.org/10.3389/fpsyg.2014.01325) | q3 · causal · r1 | i3; i? | [Learners who could decide after a trial whether to receive knowledge of results (Self-Afte](self-controlled-kr-decided-after-trial-improves-motor-retention.md) (qualifies); [Learners who could decide after a trial whether to receive knowledge of results (Self-Afte](self-controlled-kr-decided-after-trial-improves-motor-transfer.md) (qualifies); [Having control over the knowledge-of-results decision only before a motor trial (Self-Befo](self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) (qualifies); [Learners who could decide after a trial whether to receive knowledge of results estimated ](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) (qualifies) |
 <!-- synthesis:end -->
@@ -96,15 +100,14 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](forced-pacing-eliminates-aiding-transfer.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — a broader claim this one bears on
-- [Learner flow control over animations was rarely used and did not correlate with learning performance](flow-control-unused-no-learning-correlation.md) — reports the opposite
+- [Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464](flow-control-unused-no-learning-correlation.md) — reports the opposite
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](students-pause-video-to-view-segment-menu.md) — related
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
 - [The Coach's hint budget was managed poorly: students split into early-spenders and savers, and within the Coach condition only those with a deliberate hint strategy scored higher](hint-budget-mismanaged-two-patterns.md) — related
 - [Step-by-step explanations revealed one at a time, plus removed code auto-insertion and copy buttons, encouraged deeper engagement with generated explanations](step-by-step-friction-deeper-engagement.md) — a narrower finding that bears on this claim
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — related
 - [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](segmenting-principle-mayer-2008.md) — related
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — related
 - [The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials](system-paced-moderates-verbal-redundancy.md) — related
-- [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
-- [Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions](modality-effect-moderated-by-pacing.md) — related
+- [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](modality-effect-moderated-by-pacing.md) — related

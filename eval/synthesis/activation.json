@@ -35,6 +35,10 @@
         [
           "organization-task-match-determines-benefit",
           "~"
+        ],
+        [
+          "prior-knowledge-activation-little-effect-on-retention",
+          "~"
         ]
       ]
     },
@@ -42,10 +46,6 @@
       "hub": "pretesting-enhances-learning",
       "question": "Does asking questions on the material before it is taught improve later learning of it?",
       "members": [
-        [
-          "pretesting-enhances-memory-tested-text",
-          "+"
-        ],
         [
           "pretesting-enhances-memory-tested-video",
           "+"

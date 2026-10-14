@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (17 for, 8 mixed) · 15 studies (6 quant-synthesis, 4 review, 3 causal, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 15 report an effect size · 23 claims rest on one study
+> **Evidence** · 25 claims (17 for, 8 mixed) · 17 studies (6 quant-synthesis, 5 causal, 4 review, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 17 report an effect size · 22 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -60,12 +60,12 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](../claims/retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) [~W]
 - [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [+W]
 - [Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students](../claims/retrieval-practice-benefits-persist-six-to-nine-months.md) [~W]
-- [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](../claims/feedback-timing-moderates-pretesting.md) [~W]
+- [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](../claims/feedback-timing-moderates-pretesting.md) [~W]
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](../claims/retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) [+W]
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](../claims/retrieval-practice-enhances-learning-applied-settings.md) [+W]
 - [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](../claims/retrieval-practice-implementation-case-newell.md) [+W]
 - [Repeated successful retrieval during learning predicted final recall in both experiments](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
-- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](../claims/pretesting-enhances-memory-tested-text.md) [+W]
+- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](../claims/pretesting-enhances-learning.md) [+W]
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](../claims/retrieval-practice-improves-final-inference-and-transfer-questions.md) [~W]
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]

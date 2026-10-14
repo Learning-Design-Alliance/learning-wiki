@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content
-description: Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content
+title: A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without
+description: "A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without"
 id: signaling-principle-increased-learning-outcomes
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content
+# A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+
+<!-- title before 2026-10-14: Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content -->
 
 ## Subclaims
 `q2 i?` Studies the article cites found increased learning outcomes for learners given multimedia with signaling compared to learners given multimedia without signaling, with learners spending time reading labeled text and studying illustrations. [→ Marjorie Ceballos 2022](#ceballos-nutta-2022)
@@ -37,7 +39,7 @@ Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instruct
 
 Narrative review of signaling studies (Jian, 2019; Lin et al., 2017; Mason et al., 2013) attributed by the article: signaling groups outperformed no-signaling groups, and "learners spent time reading labeled text and studying the illustrations" (Mason et al., 2013). No effect sizes printed.
 
-> "Studies on the signaling principle revealed increased learning outcomes for learners provided with multimedia that incorporated signaling (i.e., illustrations with labeled text) whe n compared to learners provided with multimedia that did not apply the signaling principle"
+> "Studies on the signaling principle revealed increased learning outcomes for learners provided with multimedia that incorporated signaling (i.e., illustrations with labeled text) when compared to learners provided with multimedia that did not apply the signaling principle"
 
 ## Discussion
 

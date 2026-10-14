@@ -48,5 +48,5 @@ Focus-group theme from the qualitative pilot; one participant suggested each cla
 - [Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty](simucase-learning-mode-perceived-beneficial.md) — related
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related
 - [Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course](simucase-increases-assessment-confidence.md) — related
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related

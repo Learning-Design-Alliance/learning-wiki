@@ -46,4 +46,4 @@ Questionnaire survey of 21 permanent English language teachers from Algerian uni
 - [Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load](minority-identify-three-load-types.md) — related
 - [Most surveyed teachers report accounting for learner prior knowledge and material complexity in instructional design](teachers-account-for-prior-knowledge-and-complexity.md) — related
 - [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) — related
-- [A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect](teachers-report-simultaneous-words-graphics-presentation.md) — related
+- [Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously](teachers-report-simultaneous-words-graphics-presentation.md) — related

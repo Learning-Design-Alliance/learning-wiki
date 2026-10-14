@@ -41,11 +41,12 @@ This narrative review attributes the expertise reversal effect to Kalyuga et al.
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — a narrower finding that bears on this claim
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a narrower finding that bears on this claim
 - [Cognitive Load Management](cognitive-load-management.md) — related

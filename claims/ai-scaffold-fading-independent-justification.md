@@ -47,7 +47,7 @@ Interview data on the module progression; teachers described a "live progression
 - [In an AI-guided PD program, rural teachers engaged with mathematical creativity, content knowledge, and PCK as interconnected forms of reasoning rather than isolated domains](ai-guided-pd-integrated-mc-ck-pck-engagement.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — a broader claim this one bears on
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](assessment-shift-task-articulation-over-text-quality.md) — related
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](scaffolded-task-progression-diagnostic-shift.md) — related

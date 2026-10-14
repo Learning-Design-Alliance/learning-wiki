@@ -1,0 +1,148 @@
+{
+  "principle": "principles/signaling",
+  "note": "2026-10-14. Groupings and directions by an agent from the claims' full pages; each hub's table is built from its members' evidence entries, verbatim codes. signaling-cueing-increases-learning restates the Noetel 2022 entry already on the hub.",
+  "findings": [
+    {
+      "hub": "signaling-improves-learning",
+      "question": "Do cues that highlight the essential material and its organisation improve learning, and by how much?",
+      "members": [
+        [
+          "signaling-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "signaling-principle-increased-learning-outcomes",
+          "+"
+        ],
+        [
+          "clear-structure-improves-learning",
+          "+"
+        ],
+        [
+          "signaling-effect-abstract-only",
+          "~"
+        ],
+        [
+          "spoken-versus-signaled-written-null",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-effect",
+      "question": "Do the cues still help learners who already know the material, or do they add load?",
+      "members": [
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-processing-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-modality-effect-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-prior-knowledge-interaction",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "-"
+        ],
+        [
+          "revisions-no-effect-time-with-lesson",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "relevancy-of-emphasis-directs-attention",
+      "question": "Does it matter what is cued, and what happens to attention to the rest?",
+      "members": [
+        [
+          "signalled-and-cued-object-change-most-detected",
+          "+"
+        ],
+        [
+          "cueing-outcompetes-signalling-alone-for-attention",
+          "+"
+        ],
+        [
+          "central-object-change-detection-low-without-cueing",
+          "+"
+        ],
+        [
+          "signalling-focuses-attention-reduces-change-detection-elsewhere",
+          "~"
+        ],
+        [
+          "enhancing-features-direct-attention-dual-language-e-books",
+          "+"
+        ],
+        [
+          "animation-phase-dependent-attention-to-print",
+          "~"
+        ],
+        [
+          "experimenter-underlining-effective-as-student-underlining",
+          "~"
+        ],
+        [
+          "highlighting-low-utility",
+          "-"
+        ],
+        [
+          "signaling-principle-mayer-2008",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -12,7 +12,7 @@ generated:
 # Augmented Reality (AR) in Classroom
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (1 for, 1 mixed, 1 against, 1 unmarked) · 11 studies (6 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 4 claims (1 for, 1 mixed, 1 against, 1 unmarked) · 14 studies (9 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 4 of 14 report an effect size
 
 ## Description
 Augmented reality overlays digital content — 3D models, annotations, audio, video — onto the learner's physical environment, typically via smartphone, tablet, or AR headset. In classrooms, AR is used to visualize phenomena that are otherwise invisible or inaccessible (molecular structures, anatomy, historical sites), to add interactive layers to physical materials such as textbooks and worksheets, and to support situated, inquiry-based activity. Unlike virtual reality, AR keeps learners grounded in the real environment, allowing digital and physical information to be manipulated together.
@@ -32,7 +32,7 @@ AR's learning benefit comes primarily from externalizing abstract or spatially c
 - Device and infrastructure inequity: schools without reliable hardware or bandwidth cannot implement AR equitably, and BYOD approaches disadvantage students without current devices
 - Novelty effects inflate short-term engagement measures; learning gains often shrink as novelty fades [Garzón & Acevedo, 2019](https://doi.org/10.1111/bjet.12794) [~M]
 - Interface manipulation (holding, aiming, navigating the device) consumes working memory that is unavailable for learning, particularly for younger learners [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
-- AR overlays that merely decorate content do not improve learning, mirroring the multimedia evidence on decorative illustrations [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- AR overlays that merely decorate content do not improve learning, mirroring the multimedia evidence on decorative illustrations [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Splitting attention between a physical object and a device screen can impose split-attention costs unless the overlay is spatially integrated with the referent [Wu et al., 2013](https://doi.org/10.1016/j.compedu.2012.11.012) [~M]
 
 #### Implementation Variability
@@ -54,7 +54,7 @@ AR's learning benefit comes primarily from externalizing abstract or spatially c
 - Not well suited to goals centered on text comprehension, discussion, or argumentation, where AR adds little beyond the underlying activity
 
 ### Instructions
-1. Identify a learning goal where visualization or manipulation genuinely adds value — typically spatial, structural, or process content; do not adopt AR for content that works as well in text or 2D [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+1. Identify a learning goal where visualization or manipulation genuinely adds value — typically spatial, structural, or process content; do not adopt AR for content that works as well in text or 2D [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 2. [Activate prior knowledge](../claims/activation-improves-learning.md) before the AR activity so students approach the overlay with a question to answer, not just a toy to explore
 3. Introduce the AR tool with a brief [demonstration](../elements/demonstration.md) of the interface itself, so device manipulation does not compete with content processing during the task [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 4. Structure the AR experience around an explicit task — prediction, comparison, labeling, or inquiry — rather than free exploration; pair with a [graphic organizer](../elements/graphic-organizers.md) or recording sheet to direct attention

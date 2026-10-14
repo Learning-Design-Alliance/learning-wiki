@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (12 for, 2 mixed) · 19 studies (9 causal, 5 quant-synthesis, 3 review, 1 design, 1 theoretical), `q1`–`q4` · 7 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (11 for, 2 mixed) · 21 studies (9 causal, 5 quant-synthesis, 4 review, 2 theoretical, 1 design), `q1`–`q4` · 8 of 21 report an effect size · 7 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -40,12 +40,11 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
 - [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
-- [Multimedia Principles Benefit Novices](../claims/multimedia-principles-benefit-novices.md) [+M]
+- [Multimedia Principles Benefit Novices](../claims/expertise-reversal-effect.md) [+M]
 - [Different media combinations significantly affect the recall and retention of information](../claims/media-combinations-affect-recall-and-retention.md) [+W]
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](../claims/enhancing-features-direct-attention-dual-language-e-books.md) [+W]
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](../claims/redundancy-principle.md) [+M]
-- [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [+M]
-- [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [+M]
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](../claims/redundancy-hurts-learning.md) [+M]
 - [Students and teachers responded positively to automatically generated textbook videos, finding explanations easier to follow than plain text](../claims/generated-textbook-videos-easier-to-follow-than-plain-text.md) [+W] — attached 2026-10-11 from Siddhanth Sridhar et al. (2026), which proposed "Dynamic Learning Solutions pipeline: PDF-to-video educational explanation system"; tests this page's relationship.
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](../claims/voice-media-outperform-picture-text-overall.md) [+W]
 - [Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats](../claims/outcome-constructs-test-formats-moderate-redundancy.md) [~W]

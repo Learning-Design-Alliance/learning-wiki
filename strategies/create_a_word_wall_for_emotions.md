@@ -12,14 +12,14 @@ generated:
 # Create a Word Wall for Emotions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 9 studies (6 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 1 of 9 report an effect size
 
 ## Description
 A word wall for emotions is a persistent classroom display of feelings words — typically organized by intensity, valence, or category — that students can consult to identify and label what they are experiencing. When a student is visibly upset or excited, the teacher directs them to the wall to select words that describe their state, then connects the label to a coping strategy or next step. The wall converts fleeting internal states into nameable, discussable content.
 
 ## Design Implications
 
-Emotion labeling is itself a regulatory act: putting feelings into words reduces amygdala reactivity and improves behavioral control — the affect-labeling effect. A visible wall lowers the working-memory and retrieval demands of this process — students do not need to generate vocabulary from scratch at the moment of dysregulation, when cognitive resources are most depleted [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The wall works best as a *used* tool embedded in routines, not as static decoration; decorative displays that are never referenced do not improve learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M].
+Emotion labeling is itself a regulatory act: putting feelings into words reduces amygdala reactivity and improves behavioral control — the affect-labeling effect. A visible wall lowers the working-memory and retrieval demands of this process — students do not need to generate vocabulary from scratch at the moment of dysregulation, when cognitive resources are most depleted [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The wall works best as a *used* tool embedded in routines, not as static decoration; decorative displays that are never referenced do not improve learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+M].
 
 ### Context
 #### Requirements

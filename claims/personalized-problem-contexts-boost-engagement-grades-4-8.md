@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests
-description: Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests
+title: "An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them"
+description: "An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them"
 id: personalized-problem-contexts-boost-engagement-grades-4-8
 status: draft
 generated:
@@ -19,13 +19,15 @@ sources:
     rigour: 1
 ---
 
-# Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests
+# An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
 
+<!-- title before 2026-10-14: Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests -->
+
 ## Subclaims
-`q1 i?` Presenting problems in personalized, familiar contexts leads students to engage more actively and perform better. [→ Preparing Problems for Classroom Instruction 2012](#preparing-problems-for-classroom-instruction-2012)
+`q1 i?` The guide asserts, without cited studies, that presenting problems in personalized, familiar contexts leads students to engage more actively and perform better. [→ Preparing Problems for Classroom Instruction 2012](#preparing-problems-for-classroom-instruction-2012)
 
 ## Evidence
 

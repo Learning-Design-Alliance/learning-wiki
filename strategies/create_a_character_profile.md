@@ -12,7 +12,7 @@ generated:
 # Create a Character Profile
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 18 studies (8 causal, 5 quant-synthesis, 4 review, 1 qualitative), `q2`–`q4` · 3 of 18 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 21 studies (11 causal, 5 quant-synthesis, 4 review, 1 qualitative), `q2`–`q4` · 3 of 21 report an effect size · 1 claim rests on one study
 
 ## Description
 Creating a character profile helps students form a deeper understanding of a book's characters. Learners compile evidence-based portraits of a character — lists of supporting adjectives, illustrations grounded in textual description, predictions about the character's future, or reflections on how the character makes them feel at a given point in the text. The profile format forces students to move from passive reading to active synthesis of textual evidence.
@@ -31,7 +31,7 @@ Character profiling converts reading comprehension into a generative task: stude
 #### Constraints
 - Profiles built on unsupported impressions rather than textual evidence can reinforce shallow or inaccurate character readings [-M] — require evidence citations for each trait claimed
 - Students with weak inferencing skills may produce superficial trait lists without scaffolding [Contingent scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [+M] — provide trait banks, sentence starters, or modeled examples first
-- Over-emphasis on illustration or decoration can displace analytical work; the visual should encode meaning, not merely decorate [Decorative illustrations that do not support the content do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]
+- Over-emphasis on illustration or decoration can displace analytical work; the visual should encode meaning, not merely decorate [Decorative illustrations that do not support the content do not improve learning.](../claims/seductive-details-effect.md) [+S]
 - Less effective for texts with flat or archetypal characters, where there is little to infer
 
 #### Implementation Variability

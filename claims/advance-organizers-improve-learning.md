@@ -84,7 +84,7 @@ Mayer responds to Barnes and Clawson's (1975) conclusion that organizers "do not
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do organizers given before or alongside the material help, and for whom?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **8 distinct studies** (4 quant-synthesis, 3 causal, 1 review), `q2`–`q4`, 5 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does other material given before the lesson (an organizer, an activation prompt) do the same job?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **9 distinct studies** (4 quant-synthesis, 4 causal, 1 review), `q2`–`q4`, 6 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -96,6 +96,7 @@ Mayer responds to Barnes and Clawson's (1975) conclusion that organizers "do not
 | [Stull & Mayer 2007](https://doi.org/10.1037/0022-0663.99.4.808) | q3 · causal · r? | i2 · transfer favoured provided organizers, d=0.24 (ns), 0.43, 0.84 | [Learner-constructed graphic organizers are not shown to outperform provided ones: the one ](learner-constructed-graphic-organizers-outperform-provided.md) (qualifies) |
 | [Schnotz & Baadte 2015](https://doi.org/10.3758/s13421-014-0490-2) | q3 · causal · r? | i2 · medium effect on schema-interference contrasts, d=0.51–0.54; smaller format-match interaction, η²=.03–.04 | [Recall from bar graphs is more accurate when the recall format matches the studied graph f](mismatched-graphic-organizers-increase-extraneous-load.md) (qualifies) |
 | Eylon 1979 | q2 · causal · r2 | i? | [A hierarchical organization facilitates tasks only when matched to the task domain: organi](organization-task-match-determines-benefit.md) (qualifies) |
+| Woloshyn 1992 | q3 · causal · r2 | i0 | [Prior-knowledge activation instructions before study had little effect on retention in Exp](prior-knowledge-activation-little-effect-on-retention.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

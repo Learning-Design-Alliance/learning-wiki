@@ -13,7 +13,7 @@ generated:
 # Pre-recorded Instructional Video
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 14 studies (6 quant-synthesis, 4 causal, 3 review, 1 theoretical), `q2`–`q4` · 5 of 14 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 17 studies (7 causal, 6 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 5 of 17 report an effect size
 
 ## Description
 Pre-recorded instructional video delivers [Direct Instruction](../elements/direct-instruction.md), [Demonstration](../elements/demonstration.md), or explanation asynchronously: the instructor records content in advance and publishes it through a hosting platform (e.g., YouTube, Canvas, Panopto). Learners can pause, rewind, and rewatch at will, and synchronous sessions can be repurposed for [Practice](../elements/practice.md) and interaction rather than one-way transmission.
@@ -37,7 +37,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - High production polish adds little and can even reduce engagement; talking-head plus slide formats often outperform studio productions [Elaborate production does not improve engagement or learning over simple formats.](https://doi.org/10.1145/2556325.2566239) [~M]
 - No real-time interaction: misconceptions go undetected until later assessment; pair with [Check-Ins](../elements/check-in.md) or synchronous sessions
 - Time investment in creation and re-recording when content changes; videos age quickly for fast-moving topics
-- Decorative visuals and extraneous motion add load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Decorative visuals and extraneous motion add load without benefit [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 - Production is time-consuming and requires technical skill; per-topic cost is only amortized across reuse
 - Not suitable for content that depends on live learner questions, emergent discussion, or rapid adaptation
 
@@ -128,7 +128,7 @@ Video is a multimedia channel: combining narration with relevant visuals can imp
 
 #### Constraints
 - Passive viewing without embedded questions or follow-up tasks produces shallow encoding and an illusion of fluency [Active learning improves exam performance relative to passive reception.](../claims/active-learning-improves-exam-performance.md) [-S]
-- High production polish adds time without adding learning; extraneous visual embellishment can actively reduce outcomes [Decorative illustrations do not improve learning and may distract.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- High production polish adds time without adding learning; extraneous visual embellishment can actively reduce outcomes [Decorative illustrations do not improve learning and may distract.](../claims/seductive-details-effect.md) [-M]
 - Production is time-consuming and requires technical skill; per-topic cost is only amortized across reuse
 - Not suitable for content that depends on live learner questions, emergent discussion, or rapid adaptation
 

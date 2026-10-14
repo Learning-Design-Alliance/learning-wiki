@@ -12,7 +12,7 @@ generated:
 # Relate Math to Learner Strengths
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 15 studies (7 causal, 4 review, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 18 studies (10 causal, 4 review, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 18 report an effect size
 
 ## Description
 This strategy connects mathematical concepts to learners' existing interests, hobbies, and areas of competence — sports statistics, music, design, gaming, finance — so that new math content arrives anchored in something the learner already knows and cares about. It is carried out by learning about learners, then selecting or adapting examples, problem contexts, and application tasks that draw on those strengths.
@@ -24,7 +24,7 @@ Connecting content to personal interest raises situational interest, which suppo
 ### Context
 #### Requirements
 - Systematic knowledge of learners' interests and strengths (interest surveys, [Check-Ins](../elements/check-in.md), conversations with families)
-- A repertoire of authentic contexts per math topic, so connections are genuine rather than decorative [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S] — a basketball skin on a routine worksheet problem does not create relevance
+- A repertoire of authentic contexts per math topic, so connections are genuine rather than decorative [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S] — a basketball skin on a routine worksheet problem does not create relevance
 - Willingness to let learners bring their own contexts ([Choice Boards](../elements/choice-boards.md), learner-generated problems)
 
 #### Constraints

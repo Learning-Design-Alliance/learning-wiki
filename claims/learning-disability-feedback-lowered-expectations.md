@@ -9,8 +9,9 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 sources:
-  - id: ld-results
-    title: ld-results
+  - id: tan-et-al-2026
+    resource: "https://doi.org/10.1145/3785022.3785113"
+    title: Tan et al. 2026
     q: 2
     i: "?"
     kind: causal
@@ -23,13 +24,13 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` For students identified as having a learning disability, generated feedback focused on word- and sentence-level remediation and relied on simplified vocabulary, positioning these students as needing simplification rather than substantive writing instruction. [→ ld-results](#ld-results)
+`q2 i?` For students identified as having a learning disability, generated feedback focused on word- and sentence-level remediation and relied on simplified vocabulary, positioning these students as needing simplification rather than substantive writing instruction. [→ Tan et al. 2026](#tan-et-al-2026)
 
 ## Evidence
 
-### ld-results
+### Tan et al. 2026
 
-Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. https://doi.org/10.1145/3785022.3785113
+Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. [doi:10.1145/3785022.3785113](https://doi.org/10.1145/3785022.3785113)
 
 `q2 · i?` · `causal · r2`
 

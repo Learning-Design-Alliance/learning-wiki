@@ -25,7 +25,7 @@ sources:
 # Classroom Design for Engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 3 against) · 14 studies (4 causal, 4 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 14 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (3 for, 3 against) · 17 studies (7 causal, 4 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Classroom design for engagement treats the room as an instructional variable rather than a container. It means auditing and adjusting the things a teacher can actually change — where daylight falls, how the air moves, how furniture is arranged, what is on the walls, and how much of the space belongs to the students — with the specific aim of removing what competes for attention and adding what makes participation physically easy. The design target is not a pleasant room; it is a room in which the intended interaction pattern is the path of least resistance.
@@ -34,7 +34,7 @@ Classroom design for engagement treats the room as an instructional variable rat
 
 Physical design accounts for a real but bounded share of learning: in the largest study of the question, classroom design factors explained roughly 16% of variation in pupils' progress over a year, with light, air, and temperature contributing about half of that [Classroom design affects learning progress.](../claims/classroom-design-affects-learning-progress.md) [+M]. Two implications follow. First, the effect is concentrated at the bad end — a stuffy, dim, noisy, overcrowded room measurably depresses learning, while further optimizing an already-adequate room buys little. Second, design is not a substitute for instruction: rooms rebuilt without changing how teaching happens reliably produce nothing [Learning Space Redesign Alone Insufficient](../claims/learning-space-redesign-alone-insufficient.md) [-M].
 
-The most commonly inverted finding concerns wall display. Visual stimulation is curvilinear rather than "more is better": heavily decorated classrooms reduce young children's on-task attention and learning relative to sparse ones [Decorative Illustrations Do Not Improve Learning](../claims/decorative-illustrations-do-not-improve-learning.md) [-S], while bare rooms also underperform. The design goal is purposeful display — what is on the wall should be currently in use — not maximal display.
+The most commonly inverted finding concerns wall display. Visual stimulation is curvilinear rather than "more is better": heavily decorated classrooms reduce young children's on-task attention and learning relative to sparse ones [Decorative Illustrations Do Not Improve Learning](../claims/seductive-details-effect.md) [-S], while bare rooms also underperform. The design goal is purposeful display — what is on the wall should be currently in use — not maximal display.
 
 ### Context
 #### Requirements

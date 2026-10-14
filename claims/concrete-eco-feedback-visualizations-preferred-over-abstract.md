@@ -45,5 +45,5 @@ Descriptive analysis of Likert attention, satisfaction, and preference ratings f
 
 ## Related Claims
 - [Interacting with an eco-feedback LLM interface surfaces gaps in students' understanding of digital sustainability and supports learning about the environmental impact of everyday LLM use](eco-feedback-interface-supports-sustainability-learning.md) — related
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Most participants expressed reluctance to adopt an eco-feedback LLM for regular use, with nearly two-thirds reporting some degree of unwillingness](low-stated-long-term-adoption-of-eco-feedback-llm.md) — related

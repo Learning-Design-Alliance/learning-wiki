@@ -35,7 +35,7 @@
           "+"
         ],
         [
-          "visual-channel-overload-hurts-visual-knowledge",
+          "voice-media-outperform-picture-text-overall",
           "+"
         ]
       ]
@@ -54,6 +54,18 @@
         ],
         [
           "mental-effort-study-time-indicate-element-interactivity",
+          "~"
+        ],
+        [
+          "multimedia-design-principles-improve-learning-overall",
+          "+"
+        ],
+        [
+          "cognitive-overload-degrades-learning",
+          "+"
+        ],
+        [
+          "hypermedia-usability-problems-hinder-effectiveness",
           "~"
         ]
       ]
@@ -85,15 +97,11 @@
       "question": "Should the same words be given both spoken and written, or other duplicate material be added?",
       "members": [
         [
-          "redundancy-effect-impairs-learning",
-          "+"
-        ],
-        [
           "verbal-redundancy-small-overall-effect",
           "-"
         ],
         [
-          "system-paced-moderates-verbal-redundancy",
+          "spoken-written-beats-spoken-only-not-written-only",
           "~"
         ],
         [
@@ -101,11 +109,27 @@
           "~"
         ],
         [
-          "images-animation-eliminate-redundancy-benefit",
+          "system-paced-moderates-verbal-redundancy",
           "~"
         ],
         [
           "segmentation-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "outcome-constructs-test-formats-moderate-redundancy",
+          "~"
+        ],
+        [
+          "captioning-second-language-videos-large-benefits",
+          "~"
+        ],
+        [
+          "redundancy-principle",
+          "+"
+        ],
+        [
+          "images-animation-eliminate-redundancy-benefit",
           "~"
         ],
         [
@@ -119,22 +143,6 @@
         [
           "redundancy-principle-mayer-2008",
           "+"
-        ],
-        [
-          "redundancy-principle",
-          "~"
-        ],
-        [
-          "spoken-written-beats-spoken-only-not-written-only",
-          "~"
-        ],
-        [
-          "outcome-constructs-test-formats-moderate-redundancy",
-          "~"
-        ],
-        [
-          "captioning-second-language-videos-large-benefits",
-          "~"
         ]
       ]
     },
@@ -142,6 +150,26 @@
       "hub": "expertise-reversal-effect",
       "question": "For whom: does support that helps novices stop helping as task-specific expertise grows?",
       "members": [
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-processing-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
         [
           "expertise-reversal-split-attention-redundancy-review",
           "+"
@@ -155,24 +183,12 @@
           "+"
         ],
         [
-          "expertise-reversal-limits-contiguity-benefits",
-          "+"
-        ],
-        [
           "expertise-reversal-prior-knowledge-interaction",
           "+"
         ],
         [
           "expertise-reversal-effect-compound",
           "+"
-        ],
-        [
-          "revised-visuals-processing-text-prior-knowledge-interaction",
-          "~"
-        ],
-        [
-          "revised-visuals-no-learning-effect",
-          "~"
         ],
         [
           "guidance-advantage-recedes-with-high-prior-knowledge",
@@ -193,6 +209,14 @@
         [
           "example-problem-sequences-reduce-cognitive-load",
           "+"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "-"
+        ],
+        [
+          "revisions-no-effect-time-with-lesson",
+          "~"
         ]
       ]
     },
@@ -202,6 +226,10 @@
       "members": [
         [
           "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "pretraining-principle-mayer-2008",
           "+"
         ]
       ]

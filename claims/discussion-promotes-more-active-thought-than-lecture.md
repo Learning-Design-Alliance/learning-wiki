@@ -84,7 +84,7 @@ Bligh's widely-cited synthesis organizes findings around four instructional obje
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Dubin and Taveggia 1968 | q2 · review · r? | i? | this claim |
-| Siegel et al 1963 | q3 · causal · r? | i2 · large, statistically significant difference in active vs. passive thought time between conditions | this claim |
+| [Siegel et al 1963](https://doi.org/10.1037/h0049171) | q3 · causal · r? | i2 · large, statistically significant difference in active vs. passive thought time between conditions | this claim |
 | Bligh 2000 | q2 · review · r? | i? | this claim |
 | [Freeman S 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r3 | i? | [Active learning gains are larger on concept inventories than on instructor-written course ](active-learning-gains-larger-concept-inventories.md) (qualifies) |
 | Moore 2011 | q2 · associational · r1 | i2 | [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (qualifies) |

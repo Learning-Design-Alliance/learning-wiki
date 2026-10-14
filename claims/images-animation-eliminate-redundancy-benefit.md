@@ -41,10 +41,11 @@ Moderator analysis of pictorial components: without images (g = 0.45) or animati
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — the general claim this finding bears on, with the studies behind it
 - [The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials](system-paced-moderates-verbal-redundancy.md) — related
-- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — reports the opposite
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — reports the opposite
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](segmentation-moderates-verbal-redundancy.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](verbal-redundancy-small-overall-effect.md) — a broader claim this one bears on

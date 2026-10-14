@@ -12,7 +12,7 @@ generated:
 # Multiple Writing Surfaces
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (3 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 9 studies (5 causal, 3 quant-synthesis, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Multiple writing surfaces involve providing learners with a variety of spaces where they can write and express their ideas — walls, tables, windows, portable whiteboards, or adhesive dry-erase films. The strategy makes writing a public, movable, and shared activity rather than a private one confined to notebooks, supporting brainstorming, collaborative problem-solving, and visible thinking. Because work is externalized on shared surfaces, it can be compared, annotated, revised, and discussed by the whole group.
@@ -30,7 +30,7 @@ Writable surfaces enact [Active Learning](../principles/active-learning.md) by c
 
 #### Constraints
 - Without a structured task, surface writing becomes decorative activity; engagement does not guarantee learning [Active learning improves exam performance and reduces failure rates.](../claims/active-learning-improves-exam-performance.md) [~S] — the effect comes from the cognitive work, not the furniture
-- Highly visual or cluttered wall displays can distract young learners and reduce attention to instruction [Visual environment, attention allocation, and learning in young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M] — surfaces near the teaching zone should be kept clear during direct instruction
+- Highly visual or cluttered wall displays can distract young learners and reduce attention to instruction [Visual environment, attention allocation, and learning in young children.](../claims/seductive-details-effect.md) [-M] — surfaces near the teaching zone should be kept clear during direct instruction
 - Group work on shared surfaces can allow unequal participation, with one writer dominating while others watch
 - Handwritten surface work is ephemeral; ideas lost to erasing can undermine learners who need a record for review
 - Cost and maintenance: dry-erase paint and films vary in durability; permanent-marker damage and ghosting are common failure modes

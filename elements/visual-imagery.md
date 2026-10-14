@@ -13,14 +13,14 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 14 studies (6 review, 5 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 17 studies (8 causal, 6 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size · 2 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
 
 ## Design Implications
 
-Imagery-based encoding improves recall and comprehension because information stored in both verbal and visual codes provides two retrieval routes instead of one [Imagery-based dual encoding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The effect depends on the image being *relevant to the content's structure*: images that merely decorate the page consume attention without adding referential connections [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Prompting learners to generate their own images ("picture what this paragraph describes") is often more effective than passive viewing, because generation forces active construction of the verbal–visual link.
+Imagery-based encoding improves recall and comprehension because information stored in both verbal and visual codes provides two retrieval routes instead of one [Imagery-based dual encoding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The effect depends on the image being *relevant to the content's structure*: images that merely decorate the page consume attention without adding referential connections [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+M]. Prompting learners to generate their own images ("picture what this paragraph describes") is often more effective than passive viewing, because generation forces active construction of the verbal–visual link.
 
 ### Context
 #### Requirements
@@ -32,7 +32,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - Imagery adds cognitive load when the content is already visually complex or the learner must hold too many image elements in working memory [Imagery instructions can overload working memory for high-element-interactivity material.](../claims/chunking-reduces-working-memory-load.md) [~M]
 - Less effective for abstract, non-visual content (formal logic, abstract syntax) where forced imagery produces misleading concrete analogs
 - Learners with limited relevant experience may generate inaccurate images that then interfere with correct understanding [~W]
-- Supplied images that are seductive but tangential reduce learning by diverting attention [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Supplied images that are seductive but tangential reduce learning by diverting attention [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 
 ### Target Learners
 - Novices reading narrative, descriptive, or process-oriented text, who benefit from concrete referents for unfamiliar verbal content [Imagery-based dual encoding improves recall.](../claims/dual-coding-improves-learning.md) [+S]

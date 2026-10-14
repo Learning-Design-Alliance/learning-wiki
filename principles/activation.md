@@ -18,7 +18,7 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (7 for, 8 mixed, 2 against) · 22 studies (9 causal, 6 quant-synthesis, 6 review, 1 associational), `q2`–`q4` · 7 of 22 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (6 for, 8 mixed, 2 against) · 22 studies (9 causal, 6 quant-synthesis, 6 review, 1 associational), `q2`–`q4` · 7 of 22 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -33,7 +33,7 @@ Ask for three facts when the brief omits them: **do learners hold relevant and a
 | If the brief says… | Then change… | Basis |
 |---|---|---|
 | Learners know little about the topic | Do not open with a free brainstorm of what they know; ask a few questions on the coming content instead | [Prior-knowledge activation had little effect on retention](../claims/prior-knowledge-activation-little-effect-on-retention.md) [-M]; [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+M] |
-| The material is expository text or video to be studied | Put a few pre-questions before the reading or between video segments, and expect the gain mainly on the questioned content | [Pretesting enhances memory for tested text](../claims/pretesting-enhances-memory-tested-text.md) [+M]; [Pretesting enhances memory for tested video](../claims/pretesting-enhances-memory-tested-video.md) [+M] |
+| The material is expository text or video to be studied | Put a few pre-questions before the reading or between video segments, and expect the gain mainly on the questioned content | [Pretesting enhances memory for tested text](../claims/pretesting-enhances-learning.md) [+M]; [Pretesting enhances memory for tested video](../claims/pretesting-enhances-memory-tested-video.md) [+M] |
 | The outcome covers content the pre-questions did not ask about | Do not count on pre-questions for it; benefits for untested content were inconsistent across experiments | [Effects on untested materials are inconsistent](../claims/pretesting-untested-materials-inconsistent.md) [~M] |
 | A multi-week course with a high-stakes exam | Give short ungraded pretests at the start of units on the content the exam will cover | [Classroom pretesting improves exam performance](../claims/classroom-pretesting-exam-gains.md) [+M] |
 | A voluntary online course (MOOC) where persistence matters | Keep any pretest short and optional, and tell learners it is not graded; pretests reduced persistence in one MOOC | [Pretesting can harm motivation](../claims/pretesting-can-harm-motivation.md) [-M] |
@@ -99,9 +99,11 @@ The expectation should weaken if comparable learners, prompts and aligned outcom
 The present evidence does not establish an optimal activation format or duration, a benefit for learners with little relevant knowledge, or durability beyond the tests the studies used.
 
 ## Related Principles
+
 - [Pre-Reading Questioning](pre-reading-questioning.md) — one of the most direct operationalizations of activation before reading or explanation
 - [Explicit Instruction](direct-instruction.md) — activation strengthens explicit teaching when prior knowledge is deliberately tied to new content rather than assumed
 - [Knowledge Organization](knowledge-organization.md) — activation helps learners fit new information into a meaningful structure
+- [Pretesting (Prequestions Before Study)](pretesting.md)
 
 ## Examples
 

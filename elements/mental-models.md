@@ -13,7 +13,7 @@ generated:
 # Mental Models
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (6 for, 2 mixed, 1 against) · 21 studies (8 causal, 6 quant-synthesis, 4 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (6 for, 2 mixed, 1 against) · 24 studies (11 causal, 6 quant-synthesis, 4 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 2 claims rest on one study
 
 ## Description
 A mental model is a learner's internal representation of how a system, process, or domain works — a runnable structure they can use to explain phenomena, predict outcomes, and simulate "what happens if…" scenarios. Instruction that targets mental models aims to build, refine, or repair these representations rather than only transmitting facts or procedures.
@@ -32,7 +32,7 @@ Instruction is more durable when it helps learners construct a coherent causal m
 #### Constraints
 - Learners' naive models are resistant to change; simply presenting the correct model rarely displaces misconceptions — prediction-then-feedback sequences are needed [~M]
 - Analogies used to build models can import unwanted structure from the source domain, creating new misconceptions [~M]
-- Rich visualizations can overload novices or be processed superficially as decorative detail [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Rich visualizations can overload novices or be processed superficially as decorative detail [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 - A model built from a single case or context tends to be oversimplified and misapplied; multiple varied cases are needed for robust models [Multiple varied cases support flexible knowledge under Cognitive Flexibility Theory.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 
 ### Target Learners

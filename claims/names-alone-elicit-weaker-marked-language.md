@@ -9,8 +9,9 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 sources:
-  - id: name-only
-    title: name-only
+  - id: tan-et-al-2026
+    resource: "https://doi.org/10.1145/3785022.3785113"
+    title: Tan et al. 2026
     q: 2
     i: "?"
     kind: causal
@@ -23,13 +24,13 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Feedback generated using racially and gendered names showed some identity-marked language — Black names were associated with higher concentrations of MBlack — but effects were smaller, less consistent, and often noisy relative to explicit prompts. [→ name-only](#name-only)
+`q2 i?` Feedback generated using racially and gendered names showed some identity-marked language — Black names were associated with higher concentrations of MBlack — but effects were smaller, less consistent, and often noisy relative to explicit prompts. [→ Tan et al. 2026](#tan-et-al-2026)
 
 ## Evidence
 
-### name-only
+### Tan et al. 2026
 
-Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. https://doi.org/10.1145/3785022.3785113
+Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. [doi:10.1145/3785022.3785113](https://doi.org/10.1145/3785022.3785113)
 
 `q2 · i?` · `causal · r2`
 

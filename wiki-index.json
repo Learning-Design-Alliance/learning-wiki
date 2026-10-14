@@ -6,10 +6,10 @@
 "learner-variable":14,
 "method":38,
 "pattern":113,
-"principle":309,
+"principle":318,
 "process":18,
 "product":1581,
-"research-method":428,
+"research-method":429,
 "strategy":5597,
 "theory":1372
 },
@@ -11688,6 +11688,15 @@
 "type":"claim"
 },
 {
+"description":"About 40% of literacy app descriptions give no target age, and 90% of those listing ages include preschoolers",
+"evidence_strength":"moderate",
+"id":"app-descriptions-missing-age-ranges",
+"path":"claims/app-descriptions-missing-age-ranges.md",
+"status":"draft",
+"title":"About 40% of literacy app descriptions give no target age, and 90% of those listing ages include preschoolers",
+"type":"claim"
+},
+{
 "description":"Intervention families had a larger proportion of science-related conversations than comparison families, most strongly after episode viewing (64% vs 32%)",
 "evidence_strength":"weak",
 "id":"app-higher-proportion-science-related-conversations",
@@ -11838,6 +11847,15 @@
 "path":"claims/apps-focus-cognitive-receptive-skills-lack-collaboration.md",
 "status":"draft",
 "title":"Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities",
+"type":"claim"
+},
+{
+"description":"Few literacy apps disclose educational-quality benchmarks: expert involvement (20-36%), guiding curriculum (29%), or research testing (24%)",
+"evidence_strength":"moderate",
+"id":"apps-rarely-disclose-quality-benchmarks",
+"path":"claims/apps-rarely-disclose-quality-benchmarks.md",
+"status":"draft",
+"title":"Few literacy apps disclose educational-quality benchmarks: expert involvement (20-36%), guiding curriculum (29%), or research testing (24%)",
 "type":"claim"
 },
 {
@@ -37748,20 +37766,12 @@
 "type":"claim"
 },
 {
-"description":"",
-"id":"decorative-illustrations-do-not-improve-learning",
-"path":"claims/decorative-illustrations-do-not-improve-learning.md",
-"status":"draft",
-"title":"Decorative Illustrations Do Not Improve Learning",
-"type":"claim"
-},
-{
-"description":"Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection",
+"description":"A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students",
 "evidence_strength":"weak",
 "id":"decorative-images-distract-from-math-problems",
 "path":"claims/decorative-images-distract-from-math-problems.md",
 "status":"draft",
-"title":"Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection",
+"title":"A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students",
 "type":"claim"
 },
 {
@@ -38937,12 +38947,12 @@
 "type":"claim"
 },
 {
-"description":"Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge",
+"description":"Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)",
 "evidence_strength":"moderate",
 "id":"design-principle-effects-moderated-by-pacing-and-complexity",
 "path":"claims/design-principle-effects-moderated-by-pacing-and-complexity.md",
 "status":"draft",
-"title":"Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge",
+"title":"Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)",
 "type":"claim"
 },
 {
@@ -51878,6 +51888,15 @@
 "type":"claim"
 },
 {
+"description":"Expert-awarded literacy apps cost $1-2 more than Top 50 paid apps, potentially perpetuating an app gap for lower-income families",
+"evidence_strength":"moderate",
+"id":"expert-awarded-apps-cost-more-app-gap",
+"path":"claims/expert-awarded-apps-cost-more-app-gap.md",
+"status":"draft",
+"title":"Expert-awarded literacy apps cost $1-2 more than Top 50 paid apps, potentially perpetuating an app gap for lower-income families",
+"type":"claim"
+},
+{
 "description":"Expert-elicited causal model is compatible with observed data but slightly less predictive than a data-learned Bayesian network",
 "evidence_strength":"moderate",
 "id":"expert-causal-model-vs-data-learned-bn-predictive-accuracy",
@@ -52130,7 +52149,7 @@
 "type":"claim"
 },
 {
-"aliases":["expertise-reversal-guidance-hurts-experts","expertise-reversal-effect-redundant-support-harms-experts"],
+"aliases":["expertise-reversal-guidance-hurts-experts","expertise-reversal-effect-redundant-support-harms-experts","multimedia-principles-benefit-novices"],
 "description":"",
 "evidence_strength":"moderate",
 "id":"expertise-reversal-effect",
@@ -52167,15 +52186,6 @@
 "type":"claim"
 },
 {
-"description":"Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant",
-"evidence_strength":"weak",
-"id":"expertise-reversal-limits-contiguity-benefits",
-"path":"claims/expertise-reversal-limits-contiguity-benefits.md",
-"status":"draft",
-"title":"Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant",
-"type":"claim"
-},
-{
 "description":"The review reports that the modality effect reverses with expertise: audio-visual presentations helped inexperienced learners, but after further training a diagram-only condition showed a substantial advantage",
 "evidence_strength":"weak",
 "id":"expertise-reversal-modality-effect-review",
@@ -52194,6 +52204,7 @@
 "type":"claim"
 },
 {
+"aliases":["expertise-reversal-limits-contiguity-benefits"],
 "description":"The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al.",
 "evidence_strength":"weak",
 "id":"expertise-reversal-split-attention-redundancy-review",
@@ -53381,15 +53392,6 @@
 "type":"claim"
 },
 {
-"description":"Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently",
-"evidence_strength":"weak",
-"id":"fading-advantages-beyond-sum",
-"path":"claims/fading-advantages-beyond-sum.md",
-"status":"draft",
-"title":"Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently",
-"type":"claim"
-},
-{
 "description":"Backward fading and principle prompts supported transfer in probability learning",
 "evidence_strength":"moderate",
 "id":"fading-and-principle-prompts-improve-probability-transfer",
@@ -53408,12 +53410,12 @@
 "type":"claim"
 },
 {
-"description":"The review reports that undergraduates in a fading condition performed significantly better than those in generic or concrete conditions",
+"description":"A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with concreteness fading outperformed those taught in generic or concrete conditions",
 "evidence_strength":"weak",
 "id":"fading-condition-outperformed-generic-and-concrete",
 "path":"claims/fading-condition-outperformed-generic-and-concrete.md",
 "status":"draft",
-"title":"The review reports that undergraduates in a fading condition performed significantly better than those in generic or concrete conditions",
+"title":"A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with concreteness fading outperformed those taught in generic or concrete conditions",
 "type":"claim"
 },
 {
@@ -54703,12 +54705,12 @@
 "type":"claim"
 },
 {
-"description":"Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials",
+"description":"A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours",
 "evidence_strength":"mixed",
 "id":"feedback-timing-moderates-pretesting",
 "path":"claims/feedback-timing-moderates-pretesting.md",
 "status":"draft",
-"title":"Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials",
+"title":"A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours",
 "type":"claim"
 },
 {
@@ -54898,6 +54900,15 @@
 "path":"claims/ferentino-vabs-c-socialization-significant-effect.md",
 "status":"draft",
 "title":"In Ferentino (1991), social skills training produced a large significant effect on teacher-rated Vineland Socialization but not on four other social-emotional measures",
+"type":"claim"
+},
+{
+"description":"Very few popular literacy apps are explicitly designed for joint media engagement: only two apps had co-use functions and fewer than 10% allowed sharing",
+"evidence_strength":"moderate",
+"id":"few-apps-support-joint-media-engagement",
+"path":"claims/few-apps-support-joint-media-engagement.md",
+"status":"draft",
+"title":"Very few popular literacy apps are explicitly designed for joint media engagement: only two apps had co-use functions and fewer than 10% allowed sharing",
 "type":"claim"
 },
 {
@@ -56894,12 +56905,12 @@
 "type":"claim"
 },
 {
-"description":"Learner flow control over animations was rarely used and did not correlate with learning performance",
+"description":"Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464",
 "evidence_strength":"weak",
 "id":"flow-control-unused-no-learning-correlation",
 "path":"claims/flow-control-unused-no-learning-correlation.md",
 "status":"draft",
-"title":"Learner flow control over animations was rarely used and did not correlate with learning performance",
+"title":"Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464",
 "type":"claim"
 },
 {
@@ -66703,15 +66714,6 @@
 "path":"claims/hands-on-genai-seminars-raise-critical-assessment.md",
 "status":"draft",
 "title":"Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs",
-"type":"claim"
-},
-{
-"description":"",
-"evidence_strength":"weak",
-"id":"hands-on-learning-improves-achievement",
-"path":"claims/hands-on-learning-improves-achievement.md",
-"status":"draft",
-"title":"Hands-on learning improves achievement",
 "type":"claim"
 },
 {
@@ -83672,6 +83674,15 @@
 "type":"claim"
 },
 {
+"description":"71% of literacy apps contain right/wrong-answer puzzle, game, or quiz activities, while awarded apps are more likely to include storybooks",
+"evidence_strength":"moderate",
+"id":"literacy-apps-dominated-by-quiz-activities",
+"path":"claims/literacy-apps-dominated-by-quiz-activities.md",
+"status":"draft",
+"title":"71% of literacy apps contain right/wrong-answer puzzle, game, or quiz activities, while awarded apps are more likely to include storybooks",
+"type":"claim"
+},
+{
 "aliases":["few-literacy-apps-mention-research-descriptions"],
 "description":"More than 70 percent of the 180 most popular literacy applications referenced no research in their design",
 "evidence_strength":"moderate",
@@ -88979,6 +88990,7 @@
 "type":"claim"
 },
 {
+"aliases":["hands-on-learning-improves-achievement"],
 "description":"",
 "id":"manipulatives-improve-math-learning",
 "path":"claims/manipulatives-improve-math-learning.md",
@@ -88987,12 +88999,12 @@
 "type":"claim"
 },
 {
-"aliases":["hands-on-without-conceptual-integration-insufficient"],
+"aliases":["hands-on-without-conceptual-integration-insufficient","fading-advantages-beyond-sum"],
 "description":"",
 "id":"manipulatives-require-connection-to-concept",
 "path":"claims/manipulatives-require-connection-to-concept.md",
 "status":"draft",
-"title":"Manipulatives Require Connection To Concept",
+"title":"A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent",
 "type":"claim"
 },
 {
@@ -94048,16 +94060,16 @@
 "type":"claim"
 },
 {
-"description":"Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions",
+"description":"Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions",
 "evidence_strength":"moderate",
 "id":"modality-effect-moderated-by-pacing",
 "path":"claims/modality-effect-moderated-by-pacing.md",
 "status":"draft",
-"title":"Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions",
+"title":"Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions",
 "type":"claim"
 },
 {
-"aliases":["modality-principle-narration-beats-on-screen-text","modality-principle-spoken-narration-beats-on-screen-text","modality-effect-audio-with-visuals-improves-learning","modality-effect-overall-audio-visual-advantage"],
+"aliases":["modality-principle-narration-beats-on-screen-text","modality-principle-spoken-narration-beats-on-screen-text","modality-effect-audio-with-visuals-improves-learning","modality-effect-overall-audio-visual-advantage","modality-effect-spoken-text-visual-information"],
 "description":"",
 "evidence_strength":"unrated",
 "id":"modality-effect-narration-over-text",
@@ -94067,21 +94079,12 @@
 "type":"claim"
 },
 {
-"description":"Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning",
-"evidence_strength":"moderate",
-"id":"modality-effect-spoken-text-visual-information",
-"path":"claims/modality-effect-spoken-text-visual-information.md",
-"status":"draft",
-"title":"Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning",
-"type":"claim"
-},
-{
-"description":"The modality effect is particularly strong for students learning through virtual reality media",
+"description":"In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes",
 "evidence_strength":"weak",
 "id":"modality-effect-stronger-in-virtual-reality",
 "path":"claims/modality-effect-stronger-in-virtual-reality.md",
 "status":"draft",
-"title":"The modality effect is particularly strong for students learning through virtual reality media",
+"title":"In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes",
 "type":"claim"
 },
 {
@@ -95867,12 +95870,12 @@
 "type":"claim"
 },
 {
-"description":"Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles",
+"description":"Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles",
 "evidence_strength":"moderate",
 "id":"multimedia-design-principles-improve-learning-overall",
 "path":"claims/multimedia-design-principles-improve-learning-overall.md",
 "status":"draft",
-"title":"Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles",
+"title":"Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles",
 "type":"claim"
 },
 {
@@ -95937,15 +95940,6 @@
 "path":"claims/multimedia-principle-words-and-pictures-outcomes.md",
 "status":"draft",
 "title":"Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally",
-"type":"claim"
-},
-{
-"description":"",
-"evidence_strength":"moderate",
-"id":"multimedia-principles-benefit-novices",
-"path":"claims/multimedia-principles-benefit-novices.md",
-"status":"draft",
-"title":"Multimedia Principles Benefit Novices",
 "type":"claim"
 },
 {
@@ -103795,6 +103789,15 @@
 "type":"claim"
 },
 {
+"description":"Changes in school organizational health may be a contextual mediator of PBIS effects on student performance",
+"evidence_strength":"weak",
+"id":"organizational-health-mediates-pbis-student-outcomes",
+"path":"claims/organizational-health-mediates-pbis-student-outcomes.md",
+"status":"draft",
+"title":"Changes in school organizational health may be a contextual mediator of PBIS effects on student performance",
+"type":"claim"
+},
+{
 "description":"At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs",
 "evidence_strength":"moderate",
 "id":"organizational-strategic-factors-associated-with-attitudes",
@@ -105363,6 +105366,15 @@
 "type":"claim"
 },
 {
+"description":"79% of literacy apps include adult-directed information, but few offer performance feedback (17%) or detail on educational content (14%)",
+"evidence_strength":"moderate",
+"id":"parent-directed-information-rarely-instructional",
+"path":"claims/parent-directed-information-rarely-instructional.md",
+"status":"draft",
+"title":"79% of literacy apps include adult-directed information, but few offer performance feedback (17%) or detail on educational content (14%)",
+"type":"claim"
+},
+{
 "description":"Evaluations of parent education initiatives using experiential methods found positive results for parents",
 "evidence_strength":"weak",
 "id":"parent-education-experiential-evaluations-positive",
@@ -106396,6 +106408,33 @@
 "path":"claims/pay-parity-policies-nonlea-teachers.md",
 "status":"draft",
 "title":"Alabama and New Jersey require and fund salary parity for non-LEA preschool teachers with LEA peers; New York City teachers achieved parity through unionizing",
+"type":"claim"
+},
+{
+"description":"PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model",
+"evidence_strength":"moderate",
+"id":"pbis-collegial-leadership-fidelity-model",
+"path":"claims/pbis-collegial-leadership-fidelity-model.md",
+"status":"draft",
+"title":"PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model",
+"type":"claim"
+},
+{
+"description":"PBIS improves staff-reported overall school organizational health, resource influence, staff affiliation, and academic emphasis over a 5-year randomized trial",
+"evidence_strength":"moderate",
+"id":"pbis-improves-organizational-health-dimensions",
+"path":"claims/pbis-improves-organizational-health-dimensions.md",
+"status":"draft",
+"title":"PBIS improves staff-reported overall school organizational health, resource influence, staff affiliation, and academic emphasis over a 5-year randomized trial",
+"type":"claim"
+},
+{
+"description":"Later-implementing PBIS schools showed the greatest organizational health improvements, while fast adopters started higher",
+"evidence_strength":"moderate",
+"id":"pbis-later-implementers-greatest-gains",
+"path":"claims/pbis-later-implementers-greatest-gains.md",
+"status":"draft",
+"title":"Later-implementing PBIS schools showed the greatest organizational health improvements, while fast adopters started higher",
 "type":"claim"
 },
 {
@@ -108607,12 +108646,12 @@
 "type":"claim"
 },
 {
-"description":"Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests",
+"description":"An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them",
 "evidence_strength":"weak",
 "id":"personalized-problem-contexts-boost-engagement-grades-4-8",
 "path":"claims/personalized-problem-contexts-boost-engagement-grades-4-8.md",
 "status":"draft",
-"title":"Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests",
+"title":"An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them",
 "type":"claim"
 },
 {
@@ -113067,22 +113106,13 @@
 "type":"claim"
 },
 {
-"aliases":["pretesting-improves-retention","retrieval-fails-without-encoding"],
+"aliases":["pretesting-improves-retention","retrieval-fails-without-encoding","pretesting-enhances-memory-tested-text"],
 "description":"",
 "evidence_strength":"weak",
 "id":"pretesting-enhances-learning",
 "path":"claims/pretesting-enhances-learning.md",
 "status":"draft",
 "title":"Pretesting enhances learning",
-"type":"claim"
-},
-{
-"description":"Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests",
-"evidence_strength":"moderate",
-"id":"pretesting-enhances-memory-tested-text",
-"path":"claims/pretesting-enhances-memory-tested-text.md",
-"status":"draft",
-"title":"Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests",
 "type":"claim"
 },
 {
@@ -121219,22 +121249,12 @@
 "type":"claim"
 },
 {
-"aliases":["redundancy-harms-learning","redundancy-hurts-multimedia-learning","redundancy-principle-hurts-learning","redundancy-principle-on-screen-text-hurts-learning","redundant-on-screen-text-hurts-learning"],
-"description":"",
-"evidence_strength":"weak",
-"id":"redundancy-effect-impairs-learning",
-"path":"claims/redundancy-effect-impairs-learning.md",
-"status":"draft",
-"title":"Redundancy Effect Impairs Learning",
-"type":"claim"
-},
-{
-"description":"The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation",
+"description":"In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation",
 "evidence_strength":"moderate",
 "id":"redundancy-effect-not-significant-middle-school",
 "path":"claims/redundancy-effect-not-significant-middle-school.md",
 "status":"draft",
-"title":"The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation",
+"title":"In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation",
 "type":"claim"
 },
 {
@@ -121243,10 +121263,11 @@
 "id":"redundancy-hurts-learning",
 "path":"claims/redundancy-hurts-learning.md",
 "status":"draft",
-"title":"Redundancy Hurts Learning",
+"title":"On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions",
 "type":"claim"
 },
 {
+"aliases":["redundancy-harms-learning","redundancy-hurts-multimedia-learning","redundancy-principle-hurts-learning","redundancy-principle-on-screen-text-hurts-learning","redundant-on-screen-text-hurts-learning","redundancy-effect-impairs-learning"],
 "description":"",
 "evidence_strength":"moderate",
 "id":"redundancy-principle",
@@ -129447,7 +129468,7 @@
 "type":"claim"
 },
 {
-"aliases":["seductive-details-harm-learning","seductive-details-distract-from-learning"],
+"aliases":["seductive-details-harm-learning","seductive-details-distract-from-learning","decorative-illustrations-do-not-improve-learning"],
 "description":"",
 "evidence_strength":"moderate",
 "id":"seductive-details-effect",
@@ -129538,12 +129559,12 @@
 "type":"claim"
 },
 {
-"description":"Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant",
+"description":"Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction",
 "evidence_strength":"mixed",
 "id":"segmentation-benefit-larger-for-adhd-group",
 "path":"claims/segmentation-benefit-larger-for-adhd-group.md",
 "status":"draft",
-"title":"Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant",
+"title":"Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction",
 "type":"claim"
 },
 {
@@ -129592,15 +129613,6 @@
 "type":"claim"
 },
 {
-"description":"Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects",
-"evidence_strength":"moderate",
-"id":"segmenting-effect-retention-transfer-meta-analysis",
-"path":"claims/segmenting-effect-retention-transfer-meta-analysis.md",
-"status":"draft",
-"title":"Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects",
-"type":"claim"
-},
-{
 "description":"The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation",
 "evidence_strength":"moderate",
 "id":"segmenting-effects-confirmed-system-paced",
@@ -129610,7 +129622,7 @@
 "type":"claim"
 },
 {
-"aliases":["segmenting-principle-improves-multimedia-learning"],
+"aliases":["segmenting-principle-improves-multimedia-learning","segmenting-effect-retention-transfer-meta-analysis"],
 "description":"",
 "id":"segmenting-improves-multimedia-learning",
 "path":"claims/segmenting-improves-multimedia-learning.md",
@@ -132546,15 +132558,6 @@
 "type":"claim"
 },
 {
-"description":"Signaling (cueing) increases learning and reduces cognitive load in multimedia",
-"evidence_strength":"moderate",
-"id":"signaling-cueing-increases-learning",
-"path":"claims/signaling-cueing-increases-learning.md",
-"status":"draft",
-"title":"Signaling (cueing) increases learning and reduces cognitive load in multimedia",
-"type":"claim"
-},
-{
 "description":"The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation",
 "evidence_strength":"mixed",
 "id":"signaling-effect-abstract-only",
@@ -132564,6 +132567,7 @@
 "type":"claim"
 },
 {
+"aliases":["signaling-cueing-increases-learning"],
 "description":"",
 "id":"signaling-improves-learning",
 "path":"claims/signaling-improves-learning.md",
@@ -132572,12 +132576,12 @@
 "type":"claim"
 },
 {
-"description":"Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content",
+"description":"A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without",
 "evidence_strength":"weak",
 "id":"signaling-principle-increased-learning-outcomes",
 "path":"claims/signaling-principle-increased-learning-outcomes.md",
 "status":"draft",
-"title":"Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content",
+"title":"A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without",
 "type":"claim"
 },
 {
@@ -132590,12 +132594,12 @@
 "type":"claim"
 },
 {
-"description":"The change on the object that was both signalled and visually cued was the most detected change (83.33%)",
+"description":"The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)",
 "evidence_strength":"weak",
 "id":"signalled-and-cued-object-change-most-detected",
 "path":"claims/signalled-and-cued-object-change-most-detected.md",
 "status":"draft",
-"title":"The change on the object that was both signalled and visually cued was the most detected change (83.33%)",
+"title":"The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)",
 "type":"claim"
 },
 {
@@ -147883,12 +147887,12 @@
 "type":"claim"
 },
 {
-"description":"A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect",
+"description":"Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously",
 "evidence_strength":"moderate",
 "id":"teachers-report-simultaneous-words-graphics-presentation",
 "path":"claims/teachers-report-simultaneous-words-graphics-presentation.md",
 "status":"draft",
-"title":"A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect",
+"title":"Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously",
 "type":"claim"
 },
 {
@@ -148774,12 +148778,12 @@
 "type":"claim"
 },
 {
-"description":"Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load",
+"description":"A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load",
 "evidence_strength":"weak",
 "id":"temporal-contiguity-lower-cognitive-load",
 "path":"claims/temporal-contiguity-lower-cognitive-load.md",
 "status":"draft",
-"title":"Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load",
+"title":"A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load",
 "type":"claim"
 },
 {
@@ -151890,6 +151894,15 @@
 "path":"claims/top-wanted-transition-supports.md",
 "status":"draft",
 "title":"HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions",
+"type":"claim"
+},
+{
+"description":"Only 17% of expert-awarded literacy apps also appear among app stores' Top 50 educational lists, so parents searching different sources encounter largely different apps",
+"evidence_strength":"moderate",
+"id":"top50-expert-awarded-app-overlap-17-percent",
+"path":"claims/top50-expert-awarded-app-overlap-17-percent.md",
+"status":"draft",
+"title":"Only 17% of expert-awarded literacy apps also appear among app stores' Top 50 educational lists, so parents searching different sources encounter largely different apps",
 "type":"claim"
 },
 {
@@ -157398,15 +157411,6 @@
 "type":"claim"
 },
 {
-"description":"Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)",
-"evidence_strength":"moderate",
-"id":"visual-channel-overload-hurts-visual-knowledge",
-"path":"claims/visual-channel-overload-hurts-visual-knowledge.md",
-"status":"draft",
-"title":"Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)",
-"type":"claim"
-},
-{
 "description":"Visual grounding in ParaTutor increased children's reasoning turns during math word problem tutoring compared to conventional and general LLM conditions",
 "evidence_strength":"moderate",
 "id":"visual-grounding-increases-child-reasoning-turns",
@@ -157676,6 +157680,7 @@
 "type":"claim"
 },
 {
+"aliases":["visual-channel-overload-hurts-visual-knowledge"],
 "description":"Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text",
 "evidence_strength":"moderate",
 "id":"voice-media-outperform-picture-text-overall",
@@ -177636,6 +177641,15 @@
 "type":"principle"
 },
 {
+"canonical":true,
+"description":"When learners study an explanation of something they do not yet understand, leaving out interesting but irrelevant words, pictures, sounds and music (seductive details) is expected to improve comprehension and transfer over the same explanation with them added; the wiki's claims test this, in a meta-analysis and many experiments, and record effects that range from large in one research programme to small or absent elsewhere, depending on the material, its pacing and complexity, and the learner's prior knowledge, working memory and attentional control.",
+"id":"coherence",
+"path":"principles/coherence.md",
+"status":"review",
+"title":"Coherence Principle",
+"type":"principle"
+},
+{
 "aliases":["collaboration-paramount-pedagogy-collectivity","learners-as-learning-resources-principle"],
 "canonical":true,
 "description":"For learners who can take part in the task, working jointly so that each member must engage with the others' reasoning is expected to raise individually measured understanding over working alone on the same task, for goals that gain from explaining and reconciling ideas; co-presence, equal participation or group satisfaction alone are not expected to show it.",
@@ -177735,6 +177749,15 @@
 "type":"principle"
 },
 {
+"canonical":true,
+"description":"When learners must come to understand an abstract symbol system or formal structure (an equation, a group property, a permutation formula), starting with a concrete model of it, moving through an iconic picture of the same model, and ending with the abstract notation, each step explicitly linked to the last, is expected to produce better learning and transfer than starting abstract or staying concrete; one experiment, reported second-hand, tests the full sequence here, a meta-analysis supports concrete materials over symbols alone, and the rest is a review's argument and one teaching experiment.",
+"id":"concreteness-fading",
+"path":"principles/concreteness-fading.md",
+"status":"review",
+"title":"Concreteness Fading",
+"type":"principle"
+},
+{
 "description":"The article recommends that group division in a peer-teaching flipped classroom account for learner background variables.",
 "id":"consider-background-in-ptfc-grouping",
 "path":"principles/consider-background-in-ptfc-grouping.md",
@@ -177766,6 +177789,15 @@
 "path":"principles/contextualize-abstract-content-older-learners.md",
 "status":"draft",
 "title":"Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language",
+"type":"principle"
+},
+{
+"canonical":true,
+"description":"When words and a picture explain one thing and neither makes sense without the other, placing each word next to the part of the picture it describes, and presenting narration at the same time as the animation it describes, is expected to improve learning over separated or successive presentation for learners new to the material; meta-analyses test this (spatial and temporal effects of similar size), with larger effects for complex material and system-paced media and a reversal reported for experienced learners.",
+"id":"contiguity",
+"path":"principles/contiguity.md",
+"status":"review",
+"title":"Contiguity Principle (Spatial and Temporal)",
 "type":"principle"
 },
 {
@@ -178823,6 +178855,15 @@
 "type":"principle"
 },
 {
+"canonical":true,
+"description":"When words explain a picture or animation that learners must look at as they hear or read them, presenting the words as speech rather than printed text is expected to improve learning, most of all in system-paced, complex lessons for novices; claims test this (two meta-analyses and a review of 17 experiments), and they report it vanishing when learners set the pace, in social-science content, and as learners gain expertise.",
+"id":"modality",
+"path":"principles/modality.md",
+"status":"review",
+"title":"Modality Principle",
+"type":"principle"
+},
+{
 "description":"The article recommends that instructors center class time on explaining how and why observable events happen using molecular-level entities, behaviors, and interactions, because students who were modeled causal mechan...",
 "id":"model-cmr-through-observable-phenomena",
 "path":"principles/model-cmr-through-observable-phenomena.md",
@@ -179168,6 +179209,24 @@
 "type":"principle"
 },
 {
+"canonical":true,
+"description":"When learners are about to study material they do not yet know, asking them to attempt questions on it first, even though most attempts will be wrong, and then letting the study, lesson or feedback supply the answers, is expected to improve later memory of the questioned content over studying for the same time without the questions; laboratory and classroom studies recorded in the wiki test this, with the gain bounded to the questioned content, dependent on the answer arriving (immediately, for arbitrary paired items) and offset in one online course by learners who stopped.",
+"id":"pretesting",
+"path":"principles/pretesting.md",
+"status":"review",
+"title":"Pretesting (Prequestions Before Study)",
+"type":"principle"
+},
+{
+"canonical":true,
+"description":"For learners new to a system or topic whose main lesson will use many unfamiliar parts or terms, a short primer giving the name, location and behaviour of each key component before that lesson is expected to improve transfer from it over the same lesson without a primer; claims in the wiki test this (Mayer's 5 of 5 experiments, median d = 0.85, and one VR experiment), bounded by prior knowledge, the complexity and pacing of the main lesson, and short lab tests.",
+"id":"pretraining",
+"path":"principles/pretraining.md",
+"status":"review",
+"title":"Pre-training Principle",
+"type":"principle"
+},
+{
 "description":"The paper recommends that all programs have at least two themes: a primary theme providing therapeutic relief for targeted conditions, arising from a needs analysis or participants' request, and a secondary theme of a...",
 "id":"primary-and-secondary-program-themes",
 "path":"principles/primary-and-secondary-program-themes.md",
@@ -179306,6 +179365,15 @@
 "type":"principle"
 },
 {
+"canonical":true,
+"description":"When a picture, diagram or animation is explained by narration, adding on-screen text that repeats the narration word for word is expected to lower transfer for novices, most in system-paced lessons; when no picture competes for the eyes, the same words spoken and written do no harm and help second-language, less fluent and low-prior-knowledge readers, and text that helps novices becomes redundant as expertise grows. Claims test this: Mayer's experiments, a meta-analysis of verbal redundancy, a 63-study review and a meta-meta-analysis, with boundary conditions for pictures, pacing, reader fluency, prior knowledge, outcome and age.",
+"id":"redundancy",
+"path":"principles/redundancy.md",
+"status":"review",
+"title":"Redundancy Principle",
+"type":"principle"
+},
+{
 "aliases":["reflective-practice","guided-prompts-and-faculty-involvement-encourage-integrative-reflection"],
 "canonical":true,
 "description":"For a learner who has just performed a task or acted in a practice setting, structured prompts to examine that performance against a stated criterion and commit to a change are expected to improve later performance more than unguided reflection, qualified by the learner's ability to judge their own work, access to feedback, and whether the planned change is acted on.",
@@ -179399,6 +179467,15 @@
 },
 {
 "canonical":true,
+"description":"When a lesson presents complex material as a continuous, transient stream (a narrated animation, a video, a live demonstration) to learners for whom its steps are new, presenting it in meaningful segments with a pause or a continue control between them is expected to improve retention and transfer over one continuous presentation, at the cost of more learning time; meta-analyses test this, and it holds when the system sets the pauses, matters more for complex than for simple material, and its relation to prior knowledge is mixed.",
+"id":"segmenting",
+"path":"principles/segmenting.md",
+"status":"review",
+"title":"Segmenting Principle",
+"type":"principle"
+},
+{
+"canonical":true,
 "description":"Brief values-affirmation activities in which learners reflect on personally important values reduce threat and defensive responses, protecting learning and performance in evaluative or stereotype-laden contexts.",
 "id":"self-affirmation",
 "path":"principles/self-affirmation.md",
@@ -179459,6 +179536,15 @@
 "path":"principles/sequencing.md",
 "status":"review",
 "title":"Sequencing",
+"type":"principle"
+},
+{
+"canonical":true,
+"description":"When learners study material whose essential elements and organisation they cannot yet pick out for themselves, adding cues that highlight those elements and how they connect (headings, an outline, highlighting, arrows, colour links between words and picture, spoken emphasis) is expected to improve learning over the same material without cues, by a small-to-medium amount in the meta-analyses the wiki records; the claims test this directly and report it weakening or reversing for learners who already know the material, and helping only for what is cued.",
+"id":"signaling",
+"path":"principles/signaling.md",
+"status":"review",
+"title":"Signaling Principle",
 "type":"principle"
 },
 {
@@ -194606,6 +194692,14 @@
 "type":"research-method"
 },
 {
+"description":"The article presents a heuristic contrasting two ways of understanding models in science.",
+"id":"models-of-versus-models-for-heuristic",
+"path":"research-methods/models-of-versus-models-for-heuristic.md",
+"status":"draft",
+"title":"Models of versus models for heuristic",
+"type":"research-method"
+},
+{
 "description":"A conceptual account of why conventional evaluation lags educational AI: the intervention \\\"may be better understood as a versioned configuration of technological capabilities, pedagogical functions and implementation practices at a particular point in time: a moving intervention rather than a fixed ",
 "id":"moving-intervention-framework-for-evaluating-educational-ai",
 "path":"research-methods/moving-intervention-framework-for-evaluating-educational-ai.md",
@@ -204724,6 +204818,14 @@
 "type":"strategy"
 },
 {
+"description":"Because information posted about apps is inconsistent and different sites promote different apps, the report advises that \\\"parents and educators need to do some extra legwork to identify quality language- and literacy...",
+"id":"cross-source-app-search-strategy",
+"path":"strategies/cross-source-app-search-strategy.md",
+"status":"draft",
+"title":"Parents and educators should search multiple sources — app stores, expert review sites, and producers' websites — when selecting literacy apps",
+"type":"strategy"
+},
+{
 "description":"Based on the Delphi findings and persona reflections, the article recommends actions assigned to policymakers (PM), researchers (RE), and practitioners (PR), organised under six goals including fostering knowledge exc...",
 "id":"cross-stakeholder-ai-education-action-recommendations",
 "path":"strategies/cross-stakeholder-ai-education-action-recommendations.md",
@@ -206567,6 +206669,7 @@
 "type":"strategy"
 },
 {
+"aliases":["reading_online_strategy-formulating_effective_search_queries"],
 "description":"Explicit teaching of how to select, combine, and refine search keywords — including synonyms, operators, and Boolean logic — alongside criteria for evaluating the credibility of retrieved sources.",
 "id":"direct_instruction-keyword_search",
 "path":"strategies/direct_instruction-keyword_search.md",
@@ -228227,14 +228330,6 @@
 "path":"strategies/reading_online_strategy-evaluating_online_information.md",
 "status":"review",
 "title":"Reading Online Strategy — Evaluating Online Information",
-"type":"strategy"
-},
-{
-"description":"This strategy focuses on teaching students how to formulate effective search queries to locate reliable information online.",
-"id":"reading_online_strategy-formulating_effective_search_queries",
-"path":"strategies/reading_online_strategy-formulating_effective_search_queries.md",
-"status":"review",
-"title":"Reading Online Strategy: Formulating Effective Search Queries",
 "type":"strategy"
 },
 {
@@ -253785,6 +253880,7 @@
 "apl-predicts-psychological-needs-satisfaction":"apl-predicts-psychological-needs-satisfaction",
 "apoyos-deseados-traduccion-competencias-tutoria":"apoyos-deseados-traduccion-competencias-tutoria",
 "app-child-initiated-science-conversations-higher":"app-child-initiated-science-conversations-higher",
+"app-descriptions-missing-age-ranges":"app-descriptions-missing-age-ranges",
 "app-higher-proportion-science-related-conversations":"app-higher-proportion-science-related-conversations",
 "app-no-child-science-knowledge-difference":"app-no-child-science-knowledge-difference",
 "app-promotes-question-and-check-talk-moves":"app-promotes-question-and-check-talk-moves",
@@ -253802,6 +253898,7 @@
 "approaching-markers-future-attainability":"approaching-markers-future-attainability",
 "appropriate-estimators-derived-for-each-causal-model":"appropriate-estimators-derived-for-each-causal-model",
 "apps-focus-cognitive-receptive-skills-lack-collaboration":"apps-focus-cognitive-receptive-skills-lack-collaboration",
+"apps-rarely-disclose-quality-benchmarks":"apps-rarely-disclose-quality-benchmarks",
 "aps-cis-case-management-no-evidence":"aps-cis-case-management-no-evidence",
 "aps-partnership-schools-mixed-effects":"aps-partnership-schools-mixed-effects",
 "aps-specialist-support-little-impact-evidence":"aps-specialist-support-little-impact-evidence",
@@ -256712,7 +256809,7 @@
 "declining-achievement-kindergarten-entry":"declining-achievement-kindergarten-entry",
 "declining-enrollment-early-distress-indicator":"declining-enrollment-early-distress-indicator",
 "deconstructing-modern-nature-metaphors-first-step":"deconstructing-modern-nature-metaphors-first-step",
-"decorative-illustrations-do-not-improve-learning":"decorative-illustrations-do-not-improve-learning",
+"decorative-illustrations-do-not-improve-learning":"seductive-details-effect",
 "decorative-images-distract-from-math-problems":"decorative-images-distract-from-math-problems",
 "decoupling-evaluation-from-grades-improves-feedback":"decoupling-evaluation-from-grades-improves-feedback",
 "decreased-absenteeism-schools-fidelity-phone-mentorship-texting":"decreased-absenteeism-schools-fidelity-phone-mentorship-texting",
@@ -258304,6 +258401,7 @@
 "expert-agreement-95-percent-data-literacy-construct":"expert-agreement-95-percent-data-literacy-construct",
 "expert-annotator-high-agreement":"expert-annotator-high-agreement",
 "expert-audit-most-physics-benchmark-rejections-are-benchmark-or-grader-errors":"expert-audit-most-physics-benchmark-rejections-are-benchmark-or-grader-errors",
+"expert-awarded-apps-cost-more-app-gap":"expert-awarded-apps-cost-more-app-gap",
 "expert-causal-model-vs-data-learned-bn-predictive-accuracy":"expert-causal-model-vs-data-learned-bn-predictive-accuracy",
 "expert-evaluation-pivot-outperforms-baseline":"expert-evaluation-pivot-outperforms-baseline",
 "expert-evaluation-realism-and-feedback-awareness":"expert-evaluation-realism-and-feedback-awareness",
@@ -258338,7 +258436,7 @@
 "expertise-reversal-fits-ati-patterns":"expertise-reversal-fits-ati-patterns",
 "expertise-reversal-guidance-hurts-experts":"expertise-reversal-effect",
 "expertise-reversal-isolated-elements-and-imagination-review":"expertise-reversal-isolated-elements-and-imagination-review",
-"expertise-reversal-limits-contiguity-benefits":"expertise-reversal-limits-contiguity-benefits",
+"expertise-reversal-limits-contiguity-benefits":"expertise-reversal-split-attention-redundancy-review",
 "expertise-reversal-modality-effect-review":"expertise-reversal-modality-effect-review",
 "expertise-reversal-prior-knowledge-interaction":"expertise-reversal-prior-knowledge-interaction",
 "expertise-reversal-split-attention-redundancy-review":"expertise-reversal-split-attention-redundancy-review",
@@ -258475,7 +258573,7 @@
 "faculty-uniform-ideal-learning-style":"faculty-uniform-ideal-learning-style",
 "faded-step-position-no-learning-outcome-effect":"faded-step-position-no-learning-outcome-effect",
 "faded-steps-hypothesized-trigger-self-explanations":"faded-steps-hypothesized-trigger-self-explanations",
-"fading-advantages-beyond-sum":"fading-advantages-beyond-sum",
+"fading-advantages-beyond-sum":"manipulatives-require-connection-to-concept",
 "fading-and-principle-prompts-improve-probability-transfer":"fading-and-principle-prompts-improve-probability-transfer",
 "fading-builds-memorable-images":"fading-builds-memorable-images",
 "fading-condition-outperformed-generic-and-concrete":"fading-condition-outperformed-generic-and-concrete",
@@ -258647,6 +258745,7 @@
 "females-broader-gains-career-interest-narrow-gap":"females-broader-gains-career-interest-narrow-gap",
 "females-more-ai-schoolwork-and-advice-use":"females-more-ai-schoolwork-and-advice-use",
 "ferentino-vabs-c-socialization-significant-effect":"ferentino-vabs-c-socialization-significant-effect",
+"few-apps-support-joint-media-engagement":"few-apps-support-joint-media-engagement",
 "few-business-schools-own-ai-policies":"few-business-schools-own-ai-policies",
 "few-countries-define-teacher-ai-competencies":"few-countries-define-teacher-ai-competencies",
 "few-demographic-differences-school-victimization":"few-demographic-differences-school-victimization",
@@ -259987,7 +260086,7 @@
 "hands-on-engagement-mentoring-peer-discussion-central":"hands-on-engagement-mentoring-peer-discussion-central",
 "hands-on-forms-different-feedback-sources":"hands-on-forms-different-feedback-sources",
 "hands-on-genai-seminars-raise-critical-assessment":"hands-on-genai-seminars-raise-critical-assessment",
-"hands-on-learning-improves-achievement":"hands-on-learning-improves-achievement",
+"hands-on-learning-improves-achievement":"manipulatives-improve-math-learning",
 "hands-on-without-conceptual-integration-insufficient":"manipulatives-require-connection-to-concept",
 "handwriting-intervention-type-equivalence":"handwriting-intervention-type-equivalence",
 "handwritten-notes-higher-achievement-than-typing":"handwritten-notes-higher-achievement-than-typing",
@@ -261902,6 +262001,7 @@
 "listening-then-deciding-situational-decision-making":"listening-then-deciding-situational-decision-making",
 "listening-time-not-significantly-related-to-exam-score":"listening-time-not-significantly-related-to-exam-score",
 "listening-transfer-to-other-language-skills":"listening-transfer-to-other-language-skills",
+"literacy-apps-dominated-by-quiz-activities":"literacy-apps-dominated-by-quiz-activities",
 "literacy-apps-lack-research-reference":"literacy-apps-lack-research-reference",
 "literacy-debt-incurred-deployers-paid-by-users":"literacy-debt-incurred-deployers-paid-by-users",
 "literacy-development-parallels-cognitive-stage-in-first-graders":"literacy-development-parallels-cognitive-stage-in-first-graders",
@@ -263077,7 +263177,7 @@
 "modality-effect-moderated-by-pacing":"modality-effect-moderated-by-pacing",
 "modality-effect-narration-over-text":"modality-effect-narration-over-text",
 "modality-effect-overall-audio-visual-advantage":"modality-effect-narration-over-text",
-"modality-effect-spoken-text-visual-information":"modality-effect-spoken-text-visual-information",
+"modality-effect-spoken-text-visual-information":"modality-effect-narration-over-text",
 "modality-effect-stronger-in-virtual-reality":"modality-effect-stronger-in-virtual-reality",
 "modality-effect-within-subjects-d073":"modality-effect-within-subjects-d073",
 "modality-moderates-courseware-experience":"modality-moderates-courseware-experience",
@@ -263289,7 +263389,7 @@
 "multimedia-principle":"multimedia-principle-improves-learning",
 "multimedia-principle-improves-learning":"multimedia-principle-improves-learning",
 "multimedia-principle-words-and-pictures-outcomes":"multimedia-principle-words-and-pictures-outcomes",
-"multimedia-principles-benefit-novices":"multimedia-principles-benefit-novices",
+"multimedia-principles-benefit-novices":"expertise-reversal-effect",
 "multimedia-words-plus-images-beat-words-alone":"multimedia-principle-improves-learning",
 "multimethod-approach-richer-portrayal-child-performance":"multimethod-approach-richer-portrayal-child-performance",
 "multimodal-culturally-grounded-assessment-supports-engagement-and-agency":"multimodal-culturally-grounded-assessment-supports-engagement-and-agency",
@@ -264173,6 +264273,7 @@
 "organizational-conditions-drive-minority-teacher-turnover":"organizational-conditions-drive-minority-teacher-turnover",
 "organizational-empowerment-enables-transfer":"organizational-empowerment-enables-transfer",
 "organizational-gains-without-instructional-gains":"organizational-gains-without-instructional-gains",
+"organizational-health-mediates-pbis-student-outcomes":"organizational-health-mediates-pbis-student-outcomes",
 "organizational-strategic-factors-associated-with-attitudes":"organizational-strategic-factors-associated-with-attitudes",
 "organizational-support-four-target-areas":"organizational-support-four-target-areas",
 "organizational-support-predicts-ai-literacy-and-self-efficacy":"organizational-support-predicts-ai-literacy-and-self-efficacy",
@@ -264350,6 +264451,7 @@
 "parent-child-newspaper-similarity-peaks-early-adolescence":"parent-child-newspaper-similarity-peaks-early-adolescence",
 "parent-coaching-outperforms-information-only":"parent-coaching-outperforms-information-only",
 "parent-compliance-versus-process-support":"parent-compliance-versus-process-support",
+"parent-directed-information-rarely-instructional":"parent-directed-information-rarely-instructional",
 "parent-education-experiential-evaluations-positive":"parent-education-experiential-evaluations-positive",
 "parent-facing-guidance-reduces-breakdowns":"parent-facing-guidance-reduces-breakdowns",
 "parent-factors-aac-abandonment":"parent-factors-aac-abandonment",
@@ -264466,7 +264568,10 @@
 "pax-gbg-reading-effect-019":"pax-gbg-reading-effect-019",
 "pay-for-performance-implementation-gap-bonus-unawareness":"pay-for-performance-implementation-gap-bonus-unawareness",
 "pay-parity-policies-nonlea-teachers":"pay-parity-policies-nonlea-teachers",
+"pbis-collegial-leadership-fidelity-model":"pbis-collegial-leadership-fidelity-model",
 "pbis-fidelity-conditions-no-difference-iss-single-oss":"pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions",
+"pbis-improves-organizational-health-dimensions":"pbis-improves-organizational-health-dimensions",
+"pbis-later-implementers-greatest-gains":"pbis-later-implementers-greatest-gains",
 "pbis-reduces-clinically-significant-behavior-problems":"pbis-reduces-externalizing-total-problems-ed-self-contained",
 "pbis-reduces-externalizing-total-problems-ed-self-contained":"pbis-reduces-externalizing-total-problems-ed-self-contained",
 "pbis-reduces-syndrome-scores-ed-students":"pbis-reduces-externalizing-total-problems-ed-self-contained",
@@ -265226,7 +265331,7 @@
 "pretesting-can-harm-motivation":"pretesting-can-harm-motivation",
 "pretesting-effect-grows-with-retention-interval":"pretesting-effect-grows-with-retention-interval",
 "pretesting-enhances-learning":"pretesting-enhances-learning",
-"pretesting-enhances-memory-tested-text":"pretesting-enhances-memory-tested-text",
+"pretesting-enhances-memory-tested-text":"pretesting-enhances-learning",
 "pretesting-enhances-memory-tested-video":"pretesting-enhances-memory-tested-video",
 "pretesting-improves-retention":"pretesting-enhances-learning",
 "pretesting-untested-materials-inconsistent":"pretesting-untested-materials-inconsistent",
@@ -266141,18 +266246,18 @@
 "reduced-density-precautions-safer-school-reopening":"reduced-density-precautions-safer-school-reopening",
 "reduced-summer-bridge-enrollment-after-closings":"reduced-summer-bridge-enrollment-after-closings",
 "redundancy-decreases-tests-feedback-null-fault-diagnosis":"redundancy-decreases-tests-feedback-null-fault-diagnosis",
-"redundancy-effect-impairs-learning":"redundancy-effect-impairs-learning",
+"redundancy-effect-impairs-learning":"redundancy-principle",
 "redundancy-effect-not-significant-middle-school":"redundancy-effect-not-significant-middle-school",
-"redundancy-harms-learning":"redundancy-effect-impairs-learning",
+"redundancy-harms-learning":"redundancy-principle",
 "redundancy-hurts-learning":"redundancy-hurts-learning",
-"redundancy-hurts-multimedia-learning":"redundancy-effect-impairs-learning",
+"redundancy-hurts-multimedia-learning":"redundancy-principle",
 "redundancy-principle":"redundancy-principle",
-"redundancy-principle-hurts-learning":"redundancy-effect-impairs-learning",
+"redundancy-principle-hurts-learning":"redundancy-principle",
 "redundancy-principle-mayer-2008":"redundancy-principle-mayer-2008",
-"redundancy-principle-on-screen-text-hurts-learning":"redundancy-effect-impairs-learning",
+"redundancy-principle-on-screen-text-hurts-learning":"redundancy-principle",
 "redundancy-unrelated-to-working-alliance":"redundancy-unrelated-to-working-alliance",
 "redundant-contexts-improve-semantic-representations":"redundant-contexts-improve-semantic-representations",
-"redundant-on-screen-text-hurts-learning":"redundancy-effect-impairs-learning",
+"redundant-on-screen-text-hurts-learning":"redundancy-principle",
 "redundant-text-no-effect-posterior-probability-lesson":"redundant-text-no-effect-posterior-probability-lesson",
 "redwood-city-family-engagement-gains-attendance-care":"redwood-city-family-engagement-gains-attendance-care",
 "reentry-without-mentors-greatest-fuller-progress":"reentry-without-mentors-greatest-fuller-progress",
@@ -267092,7 +267197,7 @@
 "segmentation-moderates-verbal-redundancy":"segmentation-moderates-verbal-redundancy",
 "segmentation-only-consistently-confirmed-outcome":"segmentation-only-consistently-confirmed-outcome",
 "segmentation-reduces-hesitations-adhd-participants":"segmentation-reduces-hesitations-adhd-participants",
-"segmenting-effect-retention-transfer-meta-analysis":"segmenting-effect-retention-transfer-meta-analysis",
+"segmenting-effect-retention-transfer-meta-analysis":"segmenting-improves-multimedia-learning",
 "segmenting-effects-confirmed-system-paced":"segmenting-effects-confirmed-system-paced",
 "segmenting-improves-multimedia-learning":"segmenting-improves-multimedia-learning",
 "segmenting-increases-learning-time":"segmenting-increases-learning-time",
@@ -267438,7 +267543,7 @@
 "sig-schools-adopt-three-improvement-practices":"sig-schools-adopt-three-improvement-practices",
 "sig-schools-integrating-pk3-strategies-improved-achievement":"sig-schools-integrating-pk3-strategies-improved-achievement",
 "sigcse-ts-hallucinations-increased-2025-2026":"sigcse-ts-hallucinations-increased-2025-2026",
-"signaling-cueing-increases-learning":"signaling-cueing-increases-learning",
+"signaling-cueing-increases-learning":"signaling-improves-learning",
 "signaling-effect-abstract-only":"signaling-effect-abstract-only",
 "signaling-improves-learning":"signaling-improves-learning",
 "signaling-principle-increased-learning-outcomes":"signaling-principle-increased-learning-outcomes",
@@ -269631,6 +269736,7 @@
 "top-tier-schools-improve-college-outcomes-selective-do-not":"top-tier-schools-improve-college-outcomes-selective-do-not",
 "top-value-added-teachers-higher-in-highest-poverty-schools":"top-value-added-teachers-higher-in-highest-poverty-schools",
 "top-wanted-transition-supports":"top-wanted-transition-supports",
+"top50-expert-awarded-app-overlap-17-percent":"top50-expert-awarded-app-overlap-17-percent",
 "topic-classification-null-affective-more-signal":"topic-classification-null-affective-more-signal",
 "topic-level-time-management-group-differences":"topic-level-time-management-group-differences",
 "topic-page-groundedness-gap-not-significant":"topic-page-groundedness-gap-not-significant",
@@ -270253,7 +270359,7 @@
 "vision-not-required-for-number-sense-bvi":"vision-not-required-for-number-sense-bvi",
 "vismatic-pilot-cohort-1880-events":"vismatic-pilot-cohort-1880-events",
 "vista-mathspace-significant-summer-math-gains":"vista-mathspace-significant-summer-math-gains",
-"visual-channel-overload-hurts-visual-knowledge":"visual-channel-overload-hurts-visual-knowledge",
+"visual-channel-overload-hurts-visual-knowledge":"voice-media-outperform-picture-text-overall",
 "visual-grounding-increases-child-reasoning-turns":"visual-grounding-increases-child-reasoning-turns",
 "visual-gru-outperforms-sensor-gru-attention-estimation":"visual-gru-outperforms-sensor-gru-attention-estimation",
 "visual-imagery-possible-without-visual-experience":"visual-imagery-possible-without-visual-experience",
@@ -272734,6 +272840,7 @@
 "cognitive-load-reduction":"cognitive-load-reduction",
 "cognitive-load-theory":"cognitive-load-theory",
 "cognitive-styles":"cognitive-styles",
+"coherence":"coherence",
 "collaboration-paramount-pedagogy-collectivity":"collaborative-learning",
 "collaborative-learning":"collaborative-learning",
 "combine-audio-visual-compensate-sensory-loss":"combine-audio-visual-compensate-sensory-loss",
@@ -272750,11 +272857,13 @@
 "complementary-delivery-modes-for-retrieval-tools":"complementary-delivery-modes-for-retrieval-tools",
 "comprehensible-input-communicative-reading-activities":"comprehensible-input-communicative-reading-activities",
 "comprehensible-training-benefits-all-workers":"comprehensible-training-benefits-all-workers",
+"concreteness-fading":"concreteness-fading",
 "consider-background-in-ptfc-grouping":"consider-background-in-ptfc-grouping",
 "considering-the-opposite":"considering-the-opposite",
 "constructivism":"constructivism",
 "constructivist-learning":"constructivism",
 "contextualize-abstract-content-older-learners":"contextualize-abstract-content-older-learners",
+"contiguity":"contiguity",
 "continuous-pupil-progress-individualized-structure":"personalization",
 "continuum-of-gifted-services":"continuum-of-gifted-services",
 "cooperative-learning":"cooperative-learning",
@@ -272932,6 +273041,7 @@
 "minimize-student-frustration-in-feedback":"minimize-student-frustration-in-feedback",
 "mixed-practice":"interleaving",
 "mnemonic-device":"mnemonic-device",
+"modality":"modality",
 "model-and-monitor-elaborative-interrogation-answer-quality":"elaborative-reasoning",
 "model-cmr-through-observable-phenomena":"model-cmr-through-observable-phenomena",
 "modeling":"modeling",
@@ -272989,6 +273099,8 @@
 "prefer-feedback-loops-over-feedback-systems":"prefer-feedback-loops-over-feedback-systems",
 "prepare-students-before-challenge-agent-engagement":"prepare-students-before-challenge-agent-engagement",
 "preschool-curricula-ef-tom-training":"preschool-curricula-ef-tom-training",
+"pretesting":"pretesting",
+"pretraining":"pretraining",
 "primary-and-secondary-program-themes":"primary-and-secondary-program-themes",
 "prior-knowledge-growth-point-new-knowledge":"prior-knowledge-growth-point-new-knowledge",
 "prioritize-kinesthetic-sense-and-whole-body-connectedness":"prioritize-kinesthetic-sense-and-whole-body-connectedness",
@@ -273014,6 +273126,7 @@
 "recommend-polya-style-instruction-for-verbal-problems":"explicit-instruction-math-strategies",
 "reduce-extraneous-optimize-intrinsic-increase-germane":"cognitive-load-management",
 "reduce-teacher-talk-increase-student-talk":"talking-and-writing-means-to-learning",
+"redundancy":"redundancy",
 "reflection":"reflection",
 "reflective-practice":"reflection",
 "relaxed-atmosphere-communicative-activities":"talking-and-writing-means-to-learning",
@@ -273033,6 +273146,7 @@
 "scaffolding-and-fading":"scaffolding-and-fading",
 "scaffolding-fading":"scaffolding-and-fading",
 "scale-srl-support-with-web-based-training-and-peer-feedback-groups":"self-regulated-learning",
+"segmenting":"segmenting",
 "self-affirmation":"self-affirmation",
 "self-directed-learning":"self-directed-learning",
 "self-explanation":"self-explanation",
@@ -273045,6 +273159,7 @@
 "sequential-noisy-estimation-principle":"adaptive-learning",
 "shared-whiteboard-dual-cohort-workspace":"digital-learning",
 "side-by-side-assessment-analysis-with-teachers":"validity-reliability-and-bias-in-classroom-assessment",
+"signaling":"signaling",
 "similar-item-positions-across-booklets":"standardized-test-fairness-and-bias",
 "simulations-immersive-virtual-environments":"simulations-immersive-virtual-environments",
 "simultaneous-desegregation-choice-improvement":"simultaneous-desegregation-choice-improvement",
@@ -274969,6 +275084,7 @@
 "messicks-seven-facets-of-validity":"messicks-seven-facets-of-validity",
 "metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat":"metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat",
 "model-based-multivariate-true-score-norming-procedure":"model-based-multivariate-true-score-norming-procedure",
+"models-of-versus-models-for-heuristic":"models-of-versus-models-for-heuristic",
 "moving-intervention-framework-for-evaluating-educational-ai":"moving-intervention-framework-for-evaluating-educational-ai",
 "multi-armed-randomized-trial-analysis":"multi-armed-randomized-trial-analysis",
 "multi-dimensional-fidelity-framework-for-llm-student-simulation":"multi-dimensional-fidelity-framework-for-llm-student-simulation",
@@ -276287,6 +276403,7 @@
 "cross-sector-expert-panels-during-data-disruptions":"cross-sector-expert-panels-during-data-disruptions",
 "cross-sector-strategies-reduce-retention":"cross-sector-strategies-reduce-retention",
 "cross-segment-cross-sector-promise-team":"cross-segment-cross-sector-promise-team",
+"cross-source-app-search-strategy":"cross-source-app-search-strategy",
 "cross-stakeholder-ai-education-action-recommendations":"cross-stakeholder-ai-education-action-recommendations",
 "cross-system-data-sharing-agreement-foster-care":"cross-system-data-sharing-agreement-foster-care",
 "csc-teacher-workshop-and-training-of-trainers":"csc-teacher-workshop-and-training-of-trainers",
@@ -279381,7 +279498,7 @@
 "reading_in_math_class":"reading_in_math_class",
 "reading_laterally":"reading_laterally",
 "reading_online_strategy-evaluating_online_information":"reading_online_strategy-evaluating_online_information",
-"reading_online_strategy-formulating_effective_search_queries":"reading_online_strategy-formulating_effective_search_queries",
+"reading_online_strategy-formulating_effective_search_queries":"direct_instruction-keyword_search",
 "real-context-action-tasks-engineering":"real-context-action-tasks-engineering",
 "real-nesting-data-analysis-activity":"real-nesting-data-analysis-activity",
 "real-time-scaffolding-generation-factual-loop":"real-time-scaffolding-generation-factual-loop",

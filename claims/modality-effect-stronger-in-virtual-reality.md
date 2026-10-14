@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The modality effect is particularly strong for students learning through virtual reality media
-description: The modality effect is particularly strong for students learning through virtual reality media
+title: "In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes"
+description: "In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes"
 id: modality-effect-stronger-in-virtual-reality
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# The modality effect is particularly strong for students learning through virtual reality media
+# In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+
+<!-- title before 2026-10-14: The modality effect is particularly strong for students learning through virtual reality media -->
 
 ## Subclaims
 `q3 i3` Larger effects were found in studies using virtual reality head-mounted displays than computer screens or audio-tapes, suggesting the modality effect may be particularly strong in virtual reality media. [→ Ginns 2005](#ginns-2005)
@@ -41,6 +43,7 @@ Pairwise moderator comparisons of presentation modality (audio-tape, computer sc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](modality-effect-moderated-by-pacing.md) — the general claim this finding bears on, with the studies behind it
 - [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](modality-effect-narration-over-text.md) — a broader claim this one bears on

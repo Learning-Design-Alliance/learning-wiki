@@ -68,3 +68,4 @@ Survey ratings among 26 families using Dive In. Most rated the Let's Talk About 
 - [Attrition in the station study was higher than expected, and partial-data families rated app components slightly lower than complete-data families](splash-bubbles-station-study-attrition-partial-data-lower-ratings.md) — related
 - [The usefulness of app components varied by child's age: conversation starters were too advanced for some younger children but helpful for older children](component-usefulness-varies-by-child-age.md) — related
 - [In an out-of-the-box evaluation, 60% of parents accessed video clips and 52% accessed activities without prompting or instruction](out-of-box-parents-accessed-clips-activities.md) — related
+- [79% of literacy apps include adult-directed information, but few offer performance feedback (17%) or detail on educational content (14%)](parent-directed-information-rarely-instructional.md) — related

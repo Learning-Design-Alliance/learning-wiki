@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: signaling-improves-learning
+aliases: [signaling-cueing-increases-learning]
 evidence_strength:
 sources:
   - id: noetel-et-al-2022
@@ -52,6 +53,12 @@ Signaling (cueing) — highlighting the essential elements of a lesson through v
 
 `q2 i?` In an eighth-grade field study, signals that link text to pictures helped learners with low prior knowledge but harmed learners with high prior knowledge, an expertise reversal of the signaling effect. [→ Richter et al. 2018](#richter-et-al-2018)
 
+`q4 i2` Signaling increased learning (g = 0.43) and reduced cognitive load (g = 0.25) across a large evidence base. [→ Noetel 2022](#noetel-et-al-2022)
+
+`q4 i1` Signaling also increased learning-relevant fixations (g = 0.39). [→ Noetel 2022 (2)](#noetel-et-al-2022)
+
+`q4 i0` Signaling increased motivation by a negligible amount (g = 0.13). [→ Noetel 2022 (2)](#noetel-et-al-2022)
+
 ## Evidence
 
 ### Noetel et al. 2022
@@ -61,6 +68,30 @@ Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., d
 `q4 · overview of systematic reviews with meta-meta-analysis` · `i2 · medium effect, g=0.43 for signaling` · `n=29 reviews (1,189 studies, 78,177 participants)` · `quant-synthesis · r?`
 
 This umbrella review pooled systematic reviews that compared multimedia lessons with and without a particular design feature. It found 5 reviews of signaling (cues such as arrows, highlighted text or a laser pointer). The largest of them (Schneider et al., 2018) reports that signaling increased learning (g = 0.43, 95% CI [0.35, 0.50], k = 209) and reduced cognitive load (g = 0.25, k = 27). The authors list signaling with captioning and contiguity as the principles with the largest benefits. Across all principles, they found no consistent expertise-reversal moderation by prior knowledge. Good design mattered more for complex materials and for system-paced lessons. The version read was the authors' CC-BY preprint on OSF (10.31234/osf.io/pynzr), not the published version of record.
+
+<!-- merged 2026-10-14 from signaling-cueing-increases-learning: that page's entry for this study, which differed from the one above, kept verbatim.
+### Noetel 2022 (2)
+
+Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. Review of Educational Research. https://doi.org/10.3102/00346543211052329
+
+`q3 · i1` · `quant-synthesis · r3`
+
+Secondary outcomes from the same review: signaling increased learning-relevant fixations (g = 0.39, k = 14) and motivation (g = 0.13, k = 13). Eye-tracking studies (Alemdag & Cagiltay, 2018) validated that signals helped learners focus on key details.
+
+> "Signaling increased learning-relevant fixations (g = 0.39, 95% CI [0.09, 0.68], k = 14; Schneider et al., 2018) and motivation (g = 0.13, 95% CI [0.04, 0.22], k = 13; Schneider et al., 2018)"
+-->
+
+<!-- merged 2026-10-14 from signaling-cueing-increases-learning: that page's entry for this study, which differed from the one above, kept verbatim.
+### Noetel 2022
+
+Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. Review of Educational Research. https://doi.org/10.3102/00346543211052329
+
+`q3 · i2` · `quant-synthesis · r3`
+
+Synthesis of five reviews of signaling (cues such as arrows or highlighted text); the largest review (Schneider et al., 2018) pooled 209 effect sizes showing increased learning (g = 0.43) and 27 showing reduced cognitive load (g = 0.25).
+
+> "Signaling has been extensively studied and was shown to increase learning (g = 0.43, 95% CI [0.35, 0.50], k = 209; Schneider et al., 2018) and reduce cognitive load (g = 0.25, 95% CI [0.04, 0.45], k = 27; Schneider et al., 2018)"
+-->
 
 ### Alpizar et al. 2020
 
@@ -78,6 +109,22 @@ Richter, J., Scheiter, K., & Eitel, A. (2018). Signaling text–picture relation
 
 Eighth graders learned from a digital multimedia textbook in one of two versions. The basic version had signals only within the text or within the pictures. The extended version added integration signals, such as color coding and deictic references, that link text to pictures. Learners with low prior knowledge learned better from the extended version. For learners with high prior knowledge, the added signals were detrimental and went with higher extraneous cognitive load. This qualifies the claim: signaling is not a benefit for every learner. (Abstract only was read.)
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do cues that highlight the essential material and its organisation improve learning, and by how much?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 4 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Noetel et al. 2022](https://doi.org/10.3102/00346543211052329) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.43 for signaling | this claim |
+| [Alpizar et al. 2020](https://doi.org/10.1007/s11423-020-09748-7) | q4 · quant-synthesis · r? | i1 · small-to-moderate effect, d=0.38; i1 · small effect, d=0.38 | this claim; [Clear Structure Improves Learning](clear-structure-improves-learning.md) (supports) |
+| [Richter et al. 2018](https://doi.org/10.1037/edu0000220) | q2 · causal · r? | i? | this claim |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i2 | [Signaling principle: highlighting essential words improves transfer from multimedia lesson](signaling-principle-mayer-2008.md) (supports) |
+| Ceballos & Nutta 2022 | q2 · review · r1 | i? | [A narrative review reports that the signaling studies it cites found higher learning outco](signaling-principle-increased-learning-outcomes.md) (supports) |
+| [Lorch & Lorch 1996](https://doi.org/10.1037/0022-0663.88.1.38) | q3 · causal · r? | i? | [Clear Structure Improves Learning](clear-structure-improves-learning.md) (supports) |
+| Kutbay 2020 | q2 · causal · r2 | i1; i? | [The signaling effect holds only for abstract animation representations: signaling signific](signaling-effect-abstract-only.md) (qualifies); [Spoken text modality does not significantly differ from signaled written text modality, or](spoken-versus-signaled-written-null.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Signaling is one of the most consistently supported principles in multimedia learning research, but its benefit is conditional rather than universal. The mechanism is attentional: cues guide limited working-memory resources toward content that matters, reducing the need for learners to search a complex display for the relevant information — closely related to how [chunking reduces working memory load](chunking-reduces-working-memory-load.md) and to the broader [cognitive load theory](../theories/cognitive-load-theory.md) account of resource allocation.
@@ -86,7 +133,7 @@ Signaling is one of the most consistently supported principles in multimedia lea
 
 **Design implications.** Effective signaling is selective and purposeful: use headings to segment and label structure, color or bolding to mark the one or two elements that carry the lesson's core idea, and arrows or gestures to connect related elements (e.g., a label to the part of a diagram it names). Cues that merely decorate, or that highlight large proportions of the material, function as additional extraneous load rather than guidance.
 
-**Open questions.** The evidence base for this claim page has not yet been populated with specific studies; meta-analytic estimates of signaling effects, the durability of benefits on delayed tests, and comparisons across cue types (color vs. arrows vs. typographic emphasis) still need to be documented before a strength rating can be assigned.
+**Open questions.** The page records two syntheses (Noetel et al. 2022; Alpizar et al. 2020) and one field study (Richter et al. 2018). The durability of benefits on delayed tests, and comparisons across cue types (color vs. arrows vs. typographic emphasis), are not yet documented on this page.
 
 ## Related Claims
 
@@ -96,7 +143,9 @@ Signaling is one of the most consistently supported principles in multimedia lea
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — both provide structural guidance about what matters in a lesson
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — headings and structural cues are a common signaling device that organizes attention across a whole lesson
 - [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](cueing-outcompetes-signalling-alone-for-attention.md) — a narrower finding that bears on this claim
-- [Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content](signaling-principle-increased-learning-outcomes.md) — a narrower finding that bears on this claim
-- [The change on the object that was both signalled and visually cued was the most detected change (83.33%)](signalled-and-cued-object-change-most-detected.md) — a narrower finding that bears on this claim
-- [Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — a broader claim this one bears on
-- [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-cueing-increases-learning.md) — possibly the same claim (merge candidate)
+- [A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without](signaling-principle-increased-learning-outcomes.md) — a narrower finding that bears on this claim
+- [The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)](signalled-and-cued-object-change-most-detected.md) — a narrower finding that bears on this claim
+- [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — a broader claim this one bears on
+- [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — related
+- [Cognitive Load Management](cognitive-load-management.md) — related
+- [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related

@@ -119,11 +119,11 @@ The study that introduced the scaffolding metaphor. Researchers observed 3-, 4-,
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What should adapt: the support given after a response, or only difficulty and order?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **20 distinct studies** (5 causal, 5 qualitative, 3 quant-synthesis, 3 associational, 2 review, 1 theoretical, 1 design), `q1`–`q4`, 3 of 20 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Must support be contingent on the learner's last response, rather than fixed?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **20 distinct studies** (5 causal, 5 qualitative, 3 quant-synthesis, 3 associational, 2 review, 1 theoretical, 1 design), `q1`–`q4`, 3 of 20 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Pratt and Savoy-Levine 1998](https://doi.org/10.1016/s0193-3973(99) | q3 · causal · r? | i? | this claim |
+| [Pratt and Savoy-Levine 1998](<https://doi.org/10.1016/s0193-3973(99)80041-0>) | q3 · causal · r? | i? | this claim |
 | [Chi et al. 2001](https://doi.org/10.1207/s15516709cog2504_1) | q2 · causal · r1 | i? | this claim |
 | [Swanson and Lussier 2001](https://doi.org/10.3102/00346543071002321) | q4 · quant-synthesis · r? | i? | this claim |
 | [van de Pol et al. 2010](https://doi.org/10.1007/s10648-010-9127-6) | q3 · review · r2 | i? | this claim |

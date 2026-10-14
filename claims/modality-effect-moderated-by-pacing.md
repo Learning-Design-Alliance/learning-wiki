@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions"
-description: "Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions"
+title: "Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions"
+description: "Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions"
 id: modality-effect-moderated-by-pacing
 status: draft
 generated:
@@ -19,13 +19,15 @@ sources:
     rigour: 2
 ---
 
-# Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions
+# Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 
+<!-- title before 2026-10-14: Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions -->
+
 ## Subclaims
-`q3 i3` System-paced studies showed substantially higher effect sizes (d = 0.93) than self-paced studies (d = -0.14), where the effect disappeared or reversed. [→ Ginns 2005](#ginns-2005)
+`q3 i3` System-paced studies showed substantially higher effect sizes (d = 0.93) than self-paced studies (d = -0.14, 95% CI -0.32 to 0.04), where the effect disappeared. [→ Ginns 2005](#ginns-2005)
 
 ## Evidence
 
@@ -38,6 +40,19 @@ Ginns, P. (2005). Meta-analysis of the modality effect. Learning and Instruction
 Random-effects moderator analysis of between-subjects effects comparing system-paced versus self-paced studies. The contrast was significant (zcontrast = 7.83, p < 0.001); system-paced "d = 0.93, 95% confidence interval 0.82 – 1.05" versus self-paced d = -0.14.
 
 > "Pacing of presentation was also a significant moderator, z contrast = 7.83, p < 0.001, indicating studies using system -paced materials had substantially higher effect sizes ( d = 0.93, 95% confidence interval 0.82 – 1.05) than those using self -paced materials ( d = -0.14, 95% confidence interval –0.32– 0.04)."
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When does the effect hold: pacing, complexity, field and medium?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 causal), `q2`–`q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ginns 2005](https://doi.org/10.1016/j.learninstruc.2005.07.001) | q3 · quant-synthesis · r2 | i3 | this claim; [Modality effect sizes differ across fields of study, with social science effects negative ](modality-effect-field-of-study-moderator.md) (qualifies); [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays ](modality-effect-stronger-in-virtual-reality.md) (qualifies) |
+| [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent probl](dual-mode-worked-example-presentation.md) (qualifies) |
+| [Hasler et al. 2007](https://doi.org/10.1002/acp.1345) | q3 · causal · r? | i? | [Letting learners pace instruction helped on complex material in one experiment, while lear](learner-paced-beats-system-paced-complex-material.md) (qualifies) |
+| [Karich et al. 2014](https://doi.org/10.3102/0034654314526064) | q3 · quant-synthesis · r? | i0 · negligible overall effect, g=0.05 | [Letting learners pace instruction helped on complex material in one experiment, while lear](learner-paced-beats-system-paced-complex-material.md) (qualifies) |
+<!-- synthesis:end -->
 
 ## Discussion
 

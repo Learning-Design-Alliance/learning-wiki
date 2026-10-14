@@ -12,14 +12,14 @@ generated:
 # Multiple Modalities for Perceiving Information
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 against) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (1 for, 2 against) · 11 studies (7 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Presenting information in more than one sensory format — text, audio, video, diagrams, animations, simulations, or interactive models — so learners can access content through the channel best suited to the material, the task, and their abilities. The goal is not decoration or preference-matching but complementary representation: each modality should carry part of the meaning or make the same meaning accessible in a different way.
 
 ## Design Implications
 
-Pairing words with relevant pictures or narration improves learning compared with words alone, because verbal and visual channels are processed separately and can share the load [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is conditional, however: modalities must be *complementary and integrated*, not redundant or competing. Presenting identical text on screen while narrating it, or adding decorative images, adds load without adding meaning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Poorly combined modalities can overload working memory and degrade learning [Cognitive overload degrades learning when demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [-S].
+Pairing words with relevant pictures or narration improves learning compared with words alone, because verbal and visual channels are processed separately and can share the load [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is conditional, however: modalities must be *complementary and integrated*, not redundant or competing. Presenting identical text on screen while narrating it, or adding decorative images, adds load without adding meaning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]. Poorly combined modalities can overload working memory and degrade learning [Cognitive overload degrades learning when demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [-S].
 
 ### Context
 #### Requirements

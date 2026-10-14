@@ -46,5 +46,5 @@ Correlational result from the math curricula study listed among practices consis
 - [Asking the class to agree with a student's answer and directing students to help one another are associated with higher math achievement](class-agreement-and-peer-help-higher-achievement.md) — related
 - [The study analyzed data from classrooms using math curricula to correlate instructional practices with student achievement, and its technical appendix documents the data, curricula, and methods.](math-curricula-study-practices-achievement-correlations-technical-appendix.md) — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Teachers dedicating more time to whole-class instruction is associated with increased student math achievement](more-whole-class-instruction-time-higher-math-achievement.md) — related

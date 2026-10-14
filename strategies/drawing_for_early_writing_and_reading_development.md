@@ -12,7 +12,7 @@ generated:
 # Drawing for Early Writing and Reading Development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q3` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (6 causal, 3 quant-synthesis, 2 review), `q2`–`q3` · 3 of 11 report an effect size
 
 ## Description
 Drawing serves as a "picture writing" pre-writing activity in which young children express ideas through illustration before attempting conventional text. Children draw a picture, talk about it, "write" about it to the best of their ability, and then "read" what they have written, with the instructor modeling correct writing underneath. This sequence helps children understand that pictures represent ideas that can be turned into words, connecting writing and reading before formal decoding and encoding are established.
@@ -31,7 +31,7 @@ Drawing functions as an external planning surface that offloads idea generation 
 #### Constraints
 - Requires the instructor to accept drawings regardless of artistic quality; evaluative responses to the artwork ("that doesn't look like a dog") suppress the idea-telling that drives the literacy connection
 - The instructor must steer children's retellings back to what is actually drawn — letting the story drift away from the picture severs the picture-to-word mapping the strategy depends on
-- Illustrations added to *already readable* text do not reliably improve learning and can distract [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [~M] — the benefit here is specific to pictures the child generates as composition, not pictures supplied as decoration
+- Illustrations added to *already readable* text do not reliably improve learning and can distract [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [~M] — the benefit here is specific to pictures the child generates as composition, not pictures supplied as decoration
 - May be challenging for children with sensory sensitivities to art materials; introduce incrementally
 
 #### Implementation Variability

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge
-description: Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge
+title: "Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)"
+description: "Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)"
 id: design-principle-effects-moderated-by-pacing-and-complexity
 status: draft
 generated:
@@ -35,10 +35,12 @@ sources:
     rigour: 3
 ---
 
-# Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge
+# Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r3` · `q3` · `i2` medium
+
+<!-- title before 2026-10-14: Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge -->
 
 ## Subclaims
 `q3 i2` Design principles were more important in system-paced media (g = 0.41) than learner-paced media (g = 0.27). [→ Noetel 2022](#noetel-2022)
@@ -80,25 +82,28 @@ Across 30 pooled effects, learner prior knowledge did not significantly moderate
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For which material and pacing does managing load matter most?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 causal), `q2`–`q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*When does presentation design matter most: pacing and complexity?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 review), `q2`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2; i? | this claim |
+| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q2 / q3 / q4 · quant-synthesis · r3 | i2; i?; i1; i1 · small-to-moderate average effect, g=0.38 (g=0.70 for complex materials) | this claim; [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest](multimedia-design-principles-improve-learning-overall.md) (supports); [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) (supports) |
 | [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q3 · quant-synthesis · r2 | i2 | [The learning benefit of increasing integration is substantially larger for high element in](element-interactivity-moderates-contiguity-effect.md) (supports) |
 | [Kala 2023](https://doi.org/10.36681/tused.2023.027) | q2 · causal · r2 | i? | [As the element interactivity level of thermodynamics topics increases, learning becomes mo](retention-transfer-scores-decrease-with-element-interactivity.md) (supports); [Mental effort and study time increase with a topic's element interactivity level, making t](mental-effort-study-time-indicate-element-interactivity.md) (qualifies) |
+| [Sweller 1988](https://doi.org/10.1207/s15516709cog1202_4) | q3 · causal · r? | i? | [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) (supports) |
+| [Scheiter 2007](https://doi.org/10.1007/s10648-007-9046-3) | q2 · review · r? | i? | [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstr](hypermedia-usability-problems-hinder-effectiveness.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
 
 ## Related Claims
 
-- [Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — the general claim this finding bears on, with the studies behind it
+- [The review reports that the modality effect reverses with expertise: audio-visual presentations helped inexperienced learners, but after further training a diagram-only condition showed a substantial advantage](expertise-reversal-modality-effect-review.md) — the general claim this finding bears on, with the studies behind it
+
+- [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — the general claim this finding bears on, with the studies behind it
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — reports the opposite
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — a narrower finding that bears on this claim
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a narrower finding that bears on this claim
-- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — reports the opposite
+- [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — reports the opposite
 - [Cognitive Load Management](cognitive-load-management.md) — related
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — related
-- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — a narrower finding that bears on this claim
+- [Redundancy Effect Impairs Learning](redundancy-principle.md) — a narrower finding that bears on this claim

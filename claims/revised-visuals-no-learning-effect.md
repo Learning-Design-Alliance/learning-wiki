@@ -14,7 +14,7 @@ sources:
     title: "Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984"
     author: "Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J."
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Condition did not affect post-lesson test scores, F(1, 56) = .00, p = .96, and there was no condition by prior knowledge interaction, F(2, 56) = .14, p = .87. [→ Clinton 2017](#clinton-2017)
@@ -34,7 +34,7 @@ sources:
 
 Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984
 
-`q3 · i3` · `causal · r2`
+`q3 · i?` · `causal · r2`
 
 ANOVA on post-lesson test scores (maximum 27 points) using data from all 62 participants. The null condition effect was not a test of equivalence; the prior knowledge difference ("Cohen's d = 1.30") was reported as validating the self-report measure.
 

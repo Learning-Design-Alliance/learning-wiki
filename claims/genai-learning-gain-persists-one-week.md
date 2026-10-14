@@ -14,7 +14,7 @@ sources:
     title: "Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849"
     author: Zara Contractor and Germán Reyes
     q: 4
-    i: "?"
+    i: 1
     kind: causal
     rigour: 3
 ---
@@ -22,11 +22,11 @@ sources:
 # One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 SD), short of statistical significance (p = 0.068)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q4`
+> **Evidence** · 1 study · causal `r3` · `q4` · `i1` small
 <!-- title before 2026-10-14: A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD) -->
 
 ## Subclaims
-`q4 i?` One week after the learning phase, with all students working without AI, the AI-allowed group still scores 3.9 pp (0.21 SD) higher on the knowledge test, about 54 percent of the Session One effect. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)
+`q4 i1` One week after the learning phase, with all students working without AI, the AI-allowed group still scores 3.9 pp (0.21 SD) higher on the knowledge test, about 54 percent of the Session One effect. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)
 
 ## Evidence
 
@@ -34,7 +34,7 @@ sources:
 
 Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849
 
-`q4 · i?` · `causal · r3`
+`q4 · causal experiment` · `i1 · small effect, 0.21 SD (not significant, p = 0.068)` · `causal · r3`
 
 Session Two of the same randomized experiment, approximately one week later (average gap 6.98 days), when all students complete a ten-item test and essay without AI or other resources. The article reports the standardized effect as 0.21 SD and notes the Session One and Session Two estimates are not statistically distinguishable (p= 0.321).
 

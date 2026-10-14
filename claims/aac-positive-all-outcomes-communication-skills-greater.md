@@ -15,12 +15,14 @@ sources:
     author: "Ganz, J. B., Earles-Vollrath, T. L., Heath, A. K., Parker, R. I., Rispoli, M. J., & Duran, J. B."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # AAC interventions showed positive effects on all targeted behavioral outcomes, with greater effects for communication skills than other skill categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3`
 
 ## Subclaims
 `q3 i?` AAC interventions had positive effects on all targeted behavioral outcomes. [→ Ganz 2012](#ganz-2012)
@@ -32,7 +34,7 @@ sources:
 
 Ganz, J. B., Earles-Vollrath, T. L., Heath, A. K., Parker, R. I., Rispoli, M. J., & Duran, J. B. (2012). A Meta-Analysis of Single Case Research Studies on Aided Augmentative and Alternative Communication Systems with Individuals with Autism Spectrum Disorders. J Autism Dev Disord 42, 60–74. https://doi.org/10.1007/s10803-011-1212-2
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Across the meta-analysis of 24 single-case studies, the article reports that "AAC interventions had positive effects on all of the targeted behavioral outcome," with effects "greater for communication skills than other categories of skills." No per-category effect sizes are printed in the available text.
 

@@ -49,4 +49,4 @@ Experiment 1's second finding: rather than position mattering, "individuals lear
 - [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](faded-steps-hypothesized-trigger-self-explanations.md) — related
 - [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](faded-step-position-no-learning-outcome-effect.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
-- [The review reports that undergraduates in a fading condition performed significantly better than those in generic or concrete conditions](fading-condition-outperformed-generic-and-concrete.md) — related
+- [A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with concreteness fading outperformed those taught in generic or concrete conditions](fading-condition-outperformed-generic-and-concrete.md) — related

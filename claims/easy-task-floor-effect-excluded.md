@@ -41,7 +41,8 @@ Preliminary analysis of the within-subjects study data revealed a significant fl
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Segmentation increases learning time](segmenting-increases-learning-time.md) — the general claim this finding bears on, with the studies behind it
 - [Task difficulty increases error counts, with significantly more errors on Medium and Hard tasks than Easy tasks](task-difficulty-increases-errors-scratch-videos.md) — related
 - [In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions](far-transfer-floor-effect-and-equal-time.md) — related

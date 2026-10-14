@@ -12,7 +12,7 @@ generated:
 # Alphabet Books
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 11 studies (4 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 14 studies (7 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 4 of 14 report an effect size
 
 ## Description
 Alphabet books involve students creating entries for each letter of the alphabet related to a specific topic, such as mathematics vocabulary. Each entry pairs a term with a student-authored definition, a graphic or symbolic representation, and a sentence or real-world connection. The format introduces students to a genre while requiring them to search, select, explain, and represent domain vocabulary — converting a reference exercise into generative learning.
@@ -29,7 +29,7 @@ Alphabet books work because they force retrieval and elaboration rather than pas
 - An audience or sharing structure ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)) so entries are written to communicate, not just to complete
 
 #### Constraints
-- Entries with illustrations that merely decorate the page — rather than represent the concept — do not add learning value and can distract [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Entries with illustrations that merely decorate the page — rather than represent the concept — do not add learning value and can distract [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Students with limited domain vocabulary may default to trivial words ("A is for add"), so a curated word bank or [Advance Organizers](../elements/advance-organizers.md) may be needed
 - The alphabetic structure is arbitrary to the content; it organizes retrieval but not conceptual relationships, so it should complement — not replace — conceptually organized tools like [Graphic Organizers](../elements/graphic-organizers.md)
 - Time-intensive; without a research and drafting phase, entries collapse into dictionary copying
@@ -53,7 +53,7 @@ Alphabet books work because they force retrieval and elaboration rather than pas
 ### Instructions
 1. Introduce the genre with a published alphabet book as a model, and preview the topic's key terms with [Assigned Readings](../elements/assigned-readings.md)
 2. Assign letters (individually, in pairs, or one per page) and have students search textbooks, notes, thesauruses, and domain dictionaries for candidate words
-3. For each entry, students write the term, a definition in their own words, a sentence using it, and a graphic representation or real-world connection — the representation must explain the concept, not decorate the page [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+3. For each entry, students write the term, a definition in their own words, a sentence using it, and a graphic representation or real-world connection — the representation must explain the concept, not decorate the page [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 4. Have peers review drafts for accuracy and clarity, then revise — peer feedback and revision deepen the elaboration [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 5. Compile, share, and use the finished book as a reference during later units
 

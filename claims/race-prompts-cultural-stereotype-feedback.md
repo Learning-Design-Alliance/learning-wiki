@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tan-et-al-2026
+    resource: "https://doi.org/10.1145/3785022.3785113"
     title: Tan et al. 2026
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### Tan et al. 2026
 
-Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. https://doi.org/10.1145/3785022.3785113
+Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. [doi:10.1145/3785022.3785113](https://doi.org/10.1145/3785022.3785113)
 
 `q2 · i?` · `causal · r2`
 

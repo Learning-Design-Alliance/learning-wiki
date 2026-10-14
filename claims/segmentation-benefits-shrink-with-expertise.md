@@ -24,7 +24,8 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=75 (37 segmented, 38 continuous)
 
-The learning benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into learner-paced segments) is largest for novices and diminishes — or reverses — as learner expertise increases.
+The benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into segments) is largest for novices and diminishes as learner expertise increases. In the one experiment recorded here the benefit was in learning efficiency (performance relative to mental effort), and it disappeared at higher prior knowledge rather than reversing.
+<!-- deprecated (2026-10-14, "or reverses" is not shown by the recorded study): The learning benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into learner-paced segments) is largest for novices and diminishes — or reverses — as learner expertise increases. -->
 
 The claim concerns dynamic, transient media (animation, video, narrated slides) where learners cannot otherwise control the pace of information delivery. It is the segmentation-specific instance of the broader [expertise reversal effect](../theories/expertise-reversal-effect.md).
 
@@ -51,7 +52,7 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 |---|---|---|---|
 | [Spanjers et al. 2011](https://doi.org/10.1016/j.chb.2010.05.011) | q3 · causal · r? | i? | this claim |
 | [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | [Learners with high prior knowledge benefit more from segmenting in retention performance t](prior-knowledge-moderates-segmenting-retention.md) (counts against) |
-| Veronica Pimenova 2026 | q3 · causal · r1 | i3; i? | [Segmentation yields a larger performance benefit for participants with ADHD than for those](segmentation-benefit-larger-for-adhd-group.md) (qualifies); [ADHD medication status shows no significant interaction with segmentation, though medicate](medication-status-segmentation-interaction-null.md) (qualifies) |
+| Veronica Pimenova 2026 | q3 · causal · r1 | i3; i? | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies); [ADHD medication status shows no significant interaction with segmentation, though medicate](medication-status-segmentation-interaction-null.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -64,7 +65,7 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 
 **Design implication.** Treat segmentation as a fading scaffold: begin with designer-imposed segments for novices encountering high-element-interactivity material, then progressively hand pacing control to learners — or lengthen segments — as diagnostic evidence of growing expertise accumulates. This mirrors the fading logic used for [worked examples](../elements/demonstration.md) in [cognitive load management](../principles/cognitive-load-management.md) more broadly.
 
-**Constraints.** Imposing segments on advanced learners can impose re-integration costs across boundaries and slow experienced learners who would otherwise move at their own pace [-M]. When the medium already supports full learner pacing (pause, scrub, replay), designer-imposed segmentation adds little for any expertise level [~M]. Coarse segmentation of low-element-interactivity content may fragment material without any compensating load reduction, making the expertise interaction moot [~W].
+**Constraints.** Imposing segments on advanced learners can impose re-integration costs across boundaries and slow experienced learners who would otherwise move at their own pace. When the medium already supports full learner pacing (pause, scrub, replay), designer-imposed segmentation adds little for any expertise level. Coarse segmentation of low-element-interactivity content may fragment material without any compensating load reduction, making the expertise interaction moot.
 
 **Open questions.** The expertise level at which segmentation benefits disappear likely varies by domain complexity and segment granularity. Fine-grained segmentation may retain value longer than coarse segmentation, but this has not been firmly established. Studies specifically testing segmentation × expertise interactions are scarcer than for worked examples, so confidence in the precise crossover point is limited.
 
@@ -83,8 +84,7 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — a broader claim this one bears on
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — a broader claim this one bears on
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — reports the opposite
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — related
 - [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](segmenting-principle-mayer-2008.md) — related
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — related
-- [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — reports the opposite
+- [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — reports the opposite
 - [The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours](psi-fidelity-time-span-interaction.md) — related

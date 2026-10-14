@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant
-description: Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant
+title: "Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction"
+description: "Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction"
 id: segmentation-benefit-larger-for-adhd-group
 status: draft
 generated:
@@ -27,10 +27,12 @@ sources:
     rigour: 2
 ---
 
-# Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant
+# Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i3` large
+
+<!-- title before 2026-10-14: Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant -->
 
 ## Subclaims
 `q3 i3` The error reduction under segmentation was large for the ADHD group (d=0.85) and medium for the control group (d=0.66), while the Seg×ADHD interaction was not significant (p=.232). [→ Veronica Pimenova 2026](#veronica-pimenova-2026)
@@ -64,6 +66,8 @@ Simple-effects table (Table 8) of segmentation benefit by group on hesitations: 
 - [Attention](../learner-variables/attention.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — the general claim this finding bears on, with the studies behind it
 
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — the general claim this finding bears on, with the studies behind it
 - [ADHD medication status shows no significant interaction with segmentation, though medicated participants made fewer hesitations](medication-status-segmentation-interaction-null.md) — related

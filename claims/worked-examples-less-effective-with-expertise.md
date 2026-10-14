@@ -93,4 +93,4 @@ The design implication is not to remove structure abruptly. It is to fade it as 
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — a broader claim this one bears on
-- [Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant](expertise-reversal-limits-contiguity-benefits.md) — a narrower finding that bears on this claim
+- [Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant](expertise-reversal-split-attention-redundancy-review.md) — a narrower finding that bears on this claim

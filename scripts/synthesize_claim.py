@@ -77,7 +77,9 @@ def entries(slug: str) -> list:
         i = re.search(r"\bi([0-3?])\b(?:\s*·\s*(?!\s*(?:causal|quant-synthesis|review|associational|qualitative|"
                       r"design|theoretical)\b|\s*n=|\s*r[1-3?]\b)([^·`]*))?", joined)
         kind = re.search(KINDS, joined)
-        doi = re.search(r"10\.\d{4,9}/[^\s)\]>]+", citation)
+        # A DOI may carry balanced parentheses (10.1016/s0959-4752(01)00011-5); stopping at the first ")"
+        # truncated it, and the table linked a DOI that does not resolve (2026-10-14).
+        doi = re.search(r"10\.\d{4,9}/(?:[^\s()\]>]|\([^\s()]*\))+", citation)
         out.append({"heading": heading, "citation": citation,
                     "doi": doi.group(0).rstrip(".,;").lower() if doi else None,
                     "q": q.group(0).strip() if q else "q?",
@@ -120,7 +122,8 @@ def table(hub: str, members: list, studies: dict, question: str) -> str:
         e = s["entry"]
         name = e["heading"]
         if e["doi"]:
-            name = f"[{name}](https://doi.org/{e['doi']})"
+            url = f"https://doi.org/{e['doi']}"
+            name = f"[{name}](<{url}>)" if "(" in url else f"[{name}]({url})"   # a bare ")" ends the link
         design = " / ".join(sorted(s["q"])) + (f" · {e['kind']}" if e["kind"] else "")
         effect = "; ".join(s["i"]).replace("|", "/")
         via = "; ".join(("this claim" if b == "hub" else f"[{title_of(c)[:90]}]({c}.md) ({BEARS[b]})")

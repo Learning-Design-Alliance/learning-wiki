@@ -46,6 +46,6 @@ Moderator analysis comparing the 13 temporal contiguity effects with the 37 spat
 - [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](integration-of-related-elements-large-mean-effect.md) — a broader claim this one bears on
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
-- [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
+- [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related

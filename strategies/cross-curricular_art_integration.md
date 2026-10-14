@@ -12,14 +12,14 @@ generated:
 # Cross-Curricular Art Integration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 11 studies (7 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Cross-curricular art integration embeds artistic production — drawing, painting, printmaking, songwriting, drama, or design — inside instruction in another discipline, so that the art activity requires learners to engage with the academic content rather than decorate it. Examples include leaf rubbings and botanical illustration for plant identification, gyotaku (fish print) painting in biology, and creating or analyzing historical propaganda posters and protest songs. The defining feature is bidirectionality: the art task is the vehicle for the content, not a reward appended to it.
 
 ## Design Implications
 
-Art integration works when the artistic task forces learners to represent, transform, or argue about the target content, which supports dual coding and generative processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. It fails when the art is decorative — a poster about a topic learners already understood adds production cost without learning benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Claims that arts instruction broadly raises achievement in other subjects are weakly supported; causal transfer from arts study to general academic gains has largely not survived rigorous review [~W], so integration should be justified by learning *within* the target subject, not by promised spillover.
+Art integration works when the artistic task forces learners to represent, transform, or argue about the target content, which supports dual coding and generative processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. It fails when the art is decorative — a poster about a topic learners already understood adds production cost without learning benefit [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+M]. Claims that arts instruction broadly raises achievement in other subjects are weakly supported; causal transfer from arts study to general academic gains has largely not survived rigorous review [~W], so integration should be justified by learning *within* the target subject, not by promised spillover.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Art integration works when the artistic task forces learners to represent, trans
 - Time: integrated projects typically take longer than direct instruction on the same content
 
 #### Constraints
-- Decorative or "fun" art tasks that do not require content reasoning add cognitive load and time without learning benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Decorative or "fun" art tasks that do not require content reasoning add cognitive load and time without learning benefit [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 - Learners with weak art skills may spend working memory on technique rather than content, degrading learning of the target subject [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]
 - Weak causal evidence that arts participation alone improves general academic achievement; integration is not a substitute for instruction in the target subject [~W]
 - Assessment is difficult: grading artistic quality can conflate skill with content understanding

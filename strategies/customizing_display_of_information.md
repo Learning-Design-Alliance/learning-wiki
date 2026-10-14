@@ -12,7 +12,7 @@ generated:
 # Customizing Display of Information
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (4 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (7 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 11 report an effect size
 
 ## Description
 Customizing the display of information means modifying how digital content appears — text size, font, line spacing, margins, color themes, and justification — to reduce reading effort and improve comprehension. Browser reading modes and e-reading apps strip away page clutter and let each reader tailor the visual presentation to their own needs, rather than forcing every learner through an identical interface.
@@ -29,7 +29,7 @@ Reading is a visual task constrained by working memory; poorly formatted display
 
 #### Constraints
 - Fixed-layout formats (PDF, scanned images) resist resizing and reflowing, making customization impossible [-M]
-- Over-customization can create new problems: exotic fonts, high-contrast color schemes, or frequent layout changes add visual novelty that must be processed [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [~M]
+- Over-customization can create new problems: exotic fonts, high-contrast color schemes, or frequent layout changes add visual novelty that must be processed [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [~M]
 - Effects on comprehension for typically developing readers are modest; the strongest benefits accrue to readers with specific visual or decoding difficulties [~M]
 - Customization options vary across platforms, so instructions tied to one tool may not transfer
 

@@ -22,7 +22,7 @@ sources:
 # Pre-reading Questioning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (6 for, 9 mixed, 2 against) · 25 studies (8 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 9 of 25 report an effect size · 8 claims rest on one study
+> **Evidence** · 16 claims (5 for, 9 mixed, 2 against) · 25 studies (8 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 9 of 25 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,11 +136,12 @@ The present evidence establishes no number of questions, no length of attempt, n
 
 ## Claims
 
-- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](../claims/pretesting-enhances-memory-tested-text.md) [+W]
+- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](../claims/pretesting-enhances-learning.md) [+W]
 - [The pretesting effect on text memory grows with retention interval, being largest at one week](../claims/pretesting-effect-grows-with-retention-interval.md) [+W]
 - [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~W]
 
 ## Related Principles
+
 - [Graphic Organizers](graphic-organizers.md) — graphic organizers can make pre-reading questions more visible and usable.
 - [Note-taking](note-taking.md) — pre-reading questions help determine what learners should attend to and record.
 - [Inquiry-based Learning](inquiry-based-learning.md) — question generation before reading can frame the text as evidence for inquiry.
@@ -148,6 +149,7 @@ The present evidence establishes no number of questions, no length of attempt, n
 - [Activation](activation.md) — the general model of making prior knowledge visible before instruction; a pre-reading question is one form of it
 - [Retrieval Practice](retrieval-practice.md) — retrieval of material already studied; pre-questions attempt material not yet studied, with different moderators
 - [Cognitive Activation](cognitive-activation.md) — tasks that require generating an explanation or prediction, which a higher-order pre-question asks for
+- [Pretesting (Prequestions Before Study)](pretesting.md)
 
 ## Examples
 - **Prediction and purpose prompts**: Learners answer a small set of questions before reading and revisit them afterward.

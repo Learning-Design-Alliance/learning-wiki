@@ -12,14 +12,14 @@ generated:
 # Visualizations and Mind Maps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 15 studies (6 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 15 report an effect size
+> **Evidence** · 6 claims (4 for, 2 mixed) · 18 studies (9 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size
 
 ## Description
 Visualizations and mind maps present information graphically — as concept maps, diagrams, timelines, flowcharts, or infographics — so that relationships among ideas are visible rather than buried in prose. A mind map radiates from a central concept with branching associations; concept maps and diagrams additionally label the *type* of relationship between nodes. The strategy can be enacted by providing learners a ready-made graphic or by having learners construct one themselves.
 
 ## Design Implications
 
-Visual representations exploit the capacity of the visual channel to carry information in parallel with verbal processing, improving recall when words and pictures are integrated [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+S]. Graphic organizers are most valuable for novices, who lack the schemas to impose structure on new material themselves [Graphic organizers support comprehension for learners with low prior knowledge.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]. However, visuals must carry the structure of the content; decorative images that do not map to the to-be-learned relations add load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M].
+Visual representations exploit the capacity of the visual channel to carry information in parallel with verbal processing, improving recall when words and pictures are integrated [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+S]. Graphic organizers are most valuable for novices, who lack the schemas to impose structure on new material themselves [Graphic organizers support comprehension for learners with low prior knowledge.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]. However, visuals must carry the structure of the content; decorative images that do not map to the to-be-learned relations add load without benefit [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+M].
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Visual representations exploit the capacity of the visual channel to carry infor
 #### Constraints
 - Provided organizers can encourage shallow copying; learners who construct their own graphic organizers often outperform those given one [Learner-constructed graphic organizers outperform provided ones.](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [~M]
 - Benefits shrink or reverse for high-knowledge learners, for whom the organizer restates what they already know [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
-- Overly dense or ornate visuals (3D effects, gratuitous icons) impose extraneous load and depress learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Overly dense or ornate visuals (3D effects, gratuitous icons) impose extraneous load and depress learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 - Mind maps' free-form radial structure suits brainstorming and association but poorly represents causal chains, procedures, or quantitative relations — use flowcharts or diagrams instead
 
 #### Implementation Variability

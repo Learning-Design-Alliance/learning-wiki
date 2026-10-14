@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The review reports that undergraduates in a fading condition performed significantly better than those in generic or concrete conditions
-description: The review reports that undergraduates in a fading condition performed significantly better than those in generic or concrete conditions
+title: "A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with concreteness fading outperformed those taught in generic or concrete conditions"
+description: "A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with concreteness fading outperformed those taught in generic or concrete conditions"
 id: fading-condition-outperformed-generic-and-concrete
 status: draft
 generated:
@@ -19,13 +19,15 @@ sources:
     rigour: 2
 ---
 
-# The review reports that undergraduates in a fading condition performed significantly better than those in generic or concrete conditions
+# A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with concreteness fading outperformed those taught in generic or concrete conditions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
 
+<!-- title before 2026-10-14: The review reports that undergraduates in a fading condition performed significantly better than those in generic or concrete conditions -->
+
 ## Subclaims
-`q2 i?` McNeil and Fyfe (2012), as reported by this article, found undergraduate students in a fading condition performed significantly better on learning and transfer of abelian group properties than students in generic or concrete conditions. [→ Joseph Antonides 2022](#joseph-antonides-2022)
+`q2 i?` McNeil and Fyfe (2012), as reported by this article, found undergraduate students in a fading condition performed significantly better on abelian group properties than students in generic or concrete conditions. [→ Joseph Antonides 2022](#joseph-antonides-2022)
 
 ## Evidence
 
@@ -43,6 +45,6 @@ This article reports, citing McNeil and Fyfe (2012), an experiment in which unde
 
 
 ## Related Claims
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
 - [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — related

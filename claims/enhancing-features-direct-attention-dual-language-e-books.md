@@ -60,8 +60,9 @@ Study 1 enhanced Mandarin condition: during animation children's "PLT to the tar
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — the general claim this finding bears on, with the studies behind it
 - [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](animation-phase-dependent-attention-to-print.md) — related
 - [Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books](comprehension-benefit-dual-language-only.md) — related
 - [Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)](dominant-language-attention-bias-dual-language-e-books.md) — related

@@ -67,7 +67,7 @@ Thematic analysis of the same 20 follow-up interviews; the article also reports 
 ## Related Claims
 - [The generative AI relevance intervention did not significantly increase students' interest in the math class](ai-relevance-intervention-no-interest-effect.md) — related
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition](individual-ai-condition-no-significant-relevance-effect.md) — related
 - [Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics](real-world-examples-aid-comprehension-and-relevance.md) — related
 - [Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns](switchable-ai-roles-neutrality-authority-tension.md) — related

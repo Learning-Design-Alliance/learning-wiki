@@ -12,14 +12,14 @@ generated:
 # Rich Library Complexity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (1 for, 1 mixed, 2 against) · 10 studies (5 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (1 for, 1 mixed, 2 against) · 13 studies (8 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 3 of 13 report an effect size
 
 ## Description
 Rich Library Complexity is a design strategy from [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) in which the learning environment provides a large, non-linear library of cases, examples, and representations of the domain rather than a single canonical treatment. Learners revisit the same concepts from multiple cases and perspectives — "criss-crossing the landscape" — so that knowledge is assembled as flexible, context-sensitive schemas rather than one oversimplified schema.
 
 ## Design Implications
 
-Complex, ill-structured domains (medicine, history, literary interpretation, management) resist single-schema instruction; presenting one simplified model produces knowledge that fails to transfer to new cases [Multiple cases and representations support flexible transfer in ill-structured domains.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. The library must therefore contain deliberately varied cases that share concepts in different configurations, with explicit links inviting learners to compare how the same idea plays out across contexts. Complexity is not decoration: extraneous media and tangential material degrade learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S], so richness must be *case variety*, not surface polish.
+Complex, ill-structured domains (medicine, history, literary interpretation, management) resist single-schema instruction; presenting one simplified model produces knowledge that fails to transfer to new cases [Multiple cases and representations support flexible transfer in ill-structured domains.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. The library must therefore contain deliberately varied cases that share concepts in different configurations, with explicit links inviting learners to compare how the same idea plays out across contexts. Complexity is not decoration: extraneous media and tangential material degrade learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S], so richness must be *case variety*, not surface polish.
 
 ### Context
 #### Requirements

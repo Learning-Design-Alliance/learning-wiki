@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**5597 entries** · 0 stable · 2159 in review · 3438 drafts
+**5597 entries** · 0 stable · 2158 in review · 3439 drafts
 
 ---
 
@@ -1617,7 +1617,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Reading in Math Class](reading_in_math_class.md) - Have students read articles from sources such as Math Horizons or Martin Gardner's Scientific American columns.
 * [Reading Laterally](reading_laterally.md) - Reading Laterally is the practice of verifying information by consulting multiple external sources to evaluate the credibility of a source before engaging deeply with it.
 * [Reading Online Strategy — Evaluating Online Information](reading_online_strategy-evaluating_online_information.md) - Teaching learners to actively evaluate the credibility, source, and evidence of online texts rather than reading them uncritically.
-* [Reading Online Strategy: Formulating Effective Search Queries](reading_online_strategy-formulating_effective_search_queries.md) - This strategy focuses on teaching students how to formulate effective search queries to locate reliable information online.
 * [Reading Workshop](reading-workshop.md) - A structured literacy block in which students read self-selected books at their own level while the teacher delivers brief explicit mini-lessons and confers individually.
 * [Reading Writing Connection](reading-writing-connection.md) - Integrating reading and writing instruction so each activity reinforces the other, exploiting their shared knowledge and processes.
 * [Real World Math Applications](real-world_math_applications.md) - Connecting math concepts to authentic real-world contexts and applications to enhance understanding, relevance, engagement, and transfer.
@@ -2250,4 +2249,4 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-3438 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
+3439 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.

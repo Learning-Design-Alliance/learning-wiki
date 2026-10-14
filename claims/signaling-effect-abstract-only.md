@@ -13,7 +13,7 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1255527"
     title: "Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527"
     author: "Kutbay, E. & Akpınar, Y."
-    q: 3
+    q: 2
     i: 1
     kind: causal
     rigour: 2
@@ -21,7 +21,7 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1255527"
     title: "Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527"
     author: "Kutbay, E. & Akpınar, Y."
-    q: 3
+    q: 2
     i: "?"
     kind: causal
     rigour: 2
@@ -30,11 +30,11 @@ sources:
 # The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
-`q3 i1` The signaled written text group with abstract animation (Sg-A) significantly outperformed the non-signaled written text group (W-A), d = .35. [→ Kutbay 2020](#kutbay-2020)
-`q3 i?` The signaled written text group with concrete animation (Sg-C) did not significantly outperform the non-signaled group (W-C). [→ Kutbay 2020 (2)](#kutbay-2020-2)
+`q2 i1` The signaled written text group with abstract animation (Sg-A) significantly outperformed the non-signaled written text group (W-A), d = .35. [→ Kutbay 2020](#kutbay-2020)
+`q2 i?` The signaled written text group with concrete animation (Sg-C) did not significantly outperform the non-signaled group (W-C). [→ Kutbay 2020 (2)](#kutbay-2020-2)
 
 ## Evidence
 
@@ -42,7 +42,7 @@ sources:
 
 Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527
 
-`q3 · i1` · `causal · r2`
+`q2 · i1` · `causal · r2`
 
 Independent-sample t-test in the quasi-experiment comparing signaled versus non-signaled written text with abstract animation. Signaling was significant: "t (184) = 2.32, p = .021; d = .35".
 
@@ -52,7 +52,7 @@ Independent-sample t-test in the quasi-experiment comparing signaled versus non-
 
 Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527
 
-`q3 · i?` · `causal · r2`
+`q2 · i?` · `causal · r2`
 
 Independent-sample t-test comparing signaled versus non-signaled written text with concrete animation. No significant difference was detected (p = .074); equivalence was not tested.
 
@@ -60,8 +60,9 @@ Independent-sample t-test comparing signaled versus non-signaled written text wi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Signaling Improves Learning](signaling-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](abstract-concrete-representation-no-difference.md) — related
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — a broader claim this one bears on
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related

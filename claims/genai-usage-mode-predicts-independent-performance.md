@@ -42,14 +42,19 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*When the support can do the task for the learner (AI assistants), does it cost independent performance?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **9 distinct studies** (3 theoretical, 3 causal, 1 design, 1 review, 1 associational), `q1`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*When the support can do the task for the learner (AI assistants), does it cost independent performance?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **14 distinct studies** (8 theoretical, 3 causal, 1 design, 1 review, 1 associational), `q1`–`q3`, 1 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Kuhn 2026 | q2 · theoretical · r3 | i? | this claim |
 | Grace Liu 2026 | q3 · causal · r2 | i2; i1 | [In a randomized experiment on fraction problems, participants who used an AI assistant sol](ai-assistance-impairs-unassisted-fraction-performance-exp1.md) (supports) |
 | Mahbub Ul Alam 2026 | q2 · design · r1 | i? | [High-school students given GPT-4 access solved more problems in the moment but performed w](gpt4-access-worse-after-removal-math.md) (supports) |
-| Marcus Kubsch 2026 | q2 · theoretical · r3 | i? | [Offloading work to AI costs learning: students given answers did well in practice but scor](gpt4-access-harms-learning-after-withdrawal.md) (supports) |
+| Mutlu Cukurova 2026 | q2 · theoretical · r3 | i? | [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance ](gpt4-access-harms-learning-after-withdrawal.md) (supports) |
+| [Aras Bozkurt 2026](https://doi.org/10.55982/openpraxis.18.1.1145) | q2 · theoretical · r2 | i? | [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance ](gpt4-access-harms-learning-after-withdrawal.md) (supports) |
+| [H. Chad Lane 2026](https://doi.org/10.1007/978-3-032-29791-4_38) | q2 · theoretical · r3 | i? | [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance ](gpt4-access-harms-learning-after-withdrawal.md) (supports) |
+| Mario Brcic 2026 | q2 · theoretical · r3 | i? | [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance ](gpt4-access-harms-learning-after-withdrawal.md) (supports) |
+| [Lin J and Al-Hada NM 2026](https://doi.org/10.3389/fpsyg.2026.1906070) | q2 · theoretical · r3 | i? | [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance ](gpt4-access-harms-learning-after-withdrawal.md) (supports) |
+| Marcus Kubsch 2026 | q2 · theoretical · r3 | i? | [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance ](gpt4-access-harms-learning-after-withdrawal.md) (supports) |
 | [Chen X 2026](https://doi.org/10.3389/fpsyg.2026.1906199) | q2 · causal · r2 | i? | [Open AI collaboration yielded the highest supported writing quality, while bounded AI supp](genai-supported-performance-independent-divergence.md) (supports) |
 | Steve Woollaston 2026 | q1 · review · r2 | i? | [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to foste](ai-scaffolding-fading-learned-helplessness.md) (supports) |
 | Suhyeon Lee 2026 | q2 · associational · r2 | i? | [LLM scaffolding level varies systematically across student request types and across assign](scaffolding-varies-by-request-and-assignment.md) (qualifies) |

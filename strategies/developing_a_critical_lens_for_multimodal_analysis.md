@@ -12,7 +12,7 @@ generated:
 # Developing a Critical Lens for Multimodal Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies (8 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 18 studies (11 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 1 claim rests on one study
 
 ## Description
 Students develop a critical lens for multimodal analysis by examining how different modes — image, written text, layout, color, sound — carry meaning individually and in combination. Instruction typically begins with simple media (e.g., a picture book) and structured discussion of how images and words convey, complement, or contradict each other's meanings, then expands across genres and media. The goal is to build a repertoire of exemplar structures that students can draw on in their own multimodal composition.
@@ -30,7 +30,7 @@ This strategy applies social-semiotic analysis to composition instruction: learn
 
 #### Constraints
 - Students with limited prior knowledge of multimodal composition may produce only surface-level observations without scaffolded vocabulary and modeling [~M]
-- Poorly chosen examples can backfire: decorative or irrelevant imagery teaches students that visuals are ornamental, undermining the analytic goal [Decorative illustrations do not improve learning and can distract from essential content.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Poorly chosen examples can backfire: decorative or irrelevant imagery teaches students that visuals are ornamental, undermining the analytic goal [Decorative illustrations do not improve learning and can distract from essential content.](../claims/seductive-details-effect.md) [-M]
 - Analysis without a follow-on composition task yields recognition knowledge that does not transfer to production; the exemplar collection must be connected to [practice](../elements/practice.md) [-M]
 - Highly open-ended analysis can overload novices; constraining the first analyses to one or two modes reduces unproductive search [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
 

@@ -43,6 +43,8 @@ GLMM interaction results for the ADHD subgroup (N=68 observations, hesitations o
 
 ## Related Claims
 
+- [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — the general claim this finding bears on, with the studies behind it
+
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — the general claim this finding bears on, with the studies behind it
-- [Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant](segmentation-benefit-larger-for-adhd-group.md) — related
+- [Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction](segmentation-benefit-larger-for-adhd-group.md) — related
 - [Segmented videos reduce hesitations for participants with ADHD by approximately 79% compared to non-segmented videos](segmentation-reduces-hesitations-adhd-participants.md) — related

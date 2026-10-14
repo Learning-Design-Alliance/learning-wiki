@@ -43,5 +43,7 @@ Exploratory affect modeling within the PFA-based logistic regression: confusion 
 
 ## Related Claims
 
+- [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — the general claim this finding bears on, with the studies behind it
+
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — the general claim this finding bears on, with the studies behind it
 - [Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty](unsuccessful-retrieval-smaller-benefit-than-successful.md) — related

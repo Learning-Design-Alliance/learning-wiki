@@ -122,6 +122,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
 
 ## Related Principles
+- [Concreteness Fading](concreteness-fading.md)
 - [Worked Examples](worked-examples.md) — often the first stage in a scaffolded sequence.
 - [Chunking](chunking.md) — breaking the task into units that can be individually scaffolded.
 - [Modeling](modeling.md) — a type of scaffold where expert performance is demonstrated.

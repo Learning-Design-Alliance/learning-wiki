@@ -46,5 +46,5 @@ The report's executive summary cites this as one example of findings discussed i
 ## Related Claims
 - [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — a broader claim this one bears on
 - [The review reports that simulation games support near transfer of knowledge but evidence for long-term or far transfer is less robust](simulation-near-transfer-robust-far-transfer-weak.md) — related
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — related

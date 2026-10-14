@@ -1,0 +1,156 @@
+{
+  "principle": "principles/redundancy",
+  "note": "Mayer batch (2026-10-14). Groupings and directions by an agent that read every member claim in full. Several members rest on one synthesis: Adesope & Nesbit (2012) behind seven verbal-redundancy claims, Trypke et al. (2023) behind two (redundancy-principle and redundancy-effect-impairs-learning are duplicates), Kalyuga et al. (2003)/(1998) behind the expertise members; synthesize_claim counts each once. Hubs redundancy-hurts-learning and expertise-reversal-effect are also hubs in the multimedia-learning, cognitive-load, adaptive-learning and direct-instruction specs with different member sets. Review before applying.",
+  "findings": [
+    {
+      "hub": "redundancy-principle",
+      "question": "When a picture or animation is narrated, does adding on-screen text that repeats the narration hurt learning?",
+      "members": [
+        [
+          "redundancy-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "images-animation-eliminate-redundancy-benefit",
+          "~"
+        ],
+        [
+          "redundancy-effect-not-significant-middle-school",
+          "~"
+        ],
+        [
+          "redundant-text-no-effect-posterior-probability-lesson",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "redundancy-hurts-learning",
+      "question": "Without a competing picture, do the same words spoken and written help or hurt, and for whom?",
+      "members": [
+        [
+          "verbal-redundancy-small-overall-effect",
+          "-"
+        ],
+        [
+          "spoken-written-beats-spoken-only-not-written-only",
+          "~"
+        ],
+        [
+          "reader-fluency-prior-knowledge-moderate-redundancy",
+          "~"
+        ],
+        [
+          "system-paced-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "segmentation-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "outcome-constructs-test-formats-moderate-redundancy",
+          "~"
+        ],
+        [
+          "captioning-second-language-videos-large-benefits",
+          "~"
+        ],
+        [
+          "redundancy-principle",
+          "+"
+        ],
+        [
+          "images-animation-eliminate-redundancy-benefit",
+          "~"
+        ],
+        [
+          "redundancy-effect-not-significant-middle-school",
+          "~"
+        ],
+        [
+          "redundant-text-no-effect-posterior-probability-lesson",
+          "~"
+        ],
+        [
+          "redundancy-principle-mayer-2008",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-effect",
+      "question": "Does text that helps novices become redundant for experienced learners?",
+      "members": [
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-processing-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-modality-effect-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-prior-knowledge-interaction",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "-"
+        ],
+        [
+          "revisions-no-effect-time-with-lesson",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

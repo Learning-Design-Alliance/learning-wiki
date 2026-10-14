@@ -43,7 +43,6 @@ Controlled experiments breaking a continuous narrated animation into learner-pac
 
 
 ## Related Claims
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — a broader claim this one bears on
+- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-improves-multimedia-learning.md) — a broader claim this one bears on
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
-- [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — a broader claim this one bears on
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related

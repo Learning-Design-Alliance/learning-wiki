@@ -12,7 +12,7 @@ generated:
 # Expertise Reversal Effect
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 review, 1 quant-synthesis), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The expertise reversal effect is the idea that instructional guidance that helps novices can become redundant or counterproductive as learner expertise increases.

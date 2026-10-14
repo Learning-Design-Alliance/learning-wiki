@@ -12,14 +12,14 @@ generated:
 # Personalized Math with Cultural Connections
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies (7 causal, 3 quant-synthesis), `q3`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 13 studies (10 causal, 3 quant-synthesis), `q2`–`q4` · 3 of 13 report an effect size
 
 ## Description
 This strategy anchors mathematical concepts in contexts drawn from students' interests, communities, and cultural practices — e.g., using hip-hop lyrics for ratio problems, local sports statistics for data analysis, or community budgeting for proportional reasoning. Personalization can be done by the teacher, co-designed with students, or generated adaptively by a system. The goal is to make abstract mathematics meaningful and accessible by connecting it to knowledge students already hold.
 
 ## Design Implications
 
-Relevant, interest-based contexts increase engagement and can improve performance, particularly for learners whose interest in the mathematics itself is still developing [Personalization to student interests improves performance and learning in math.](../claims/activation-improves-learning.md) [+M]. However, the connection must do cognitive work: a context that is merely decorative adds extraneous load without supporting the mathematics [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. The context should map structurally onto the target concept, not just dress it up.
+Relevant, interest-based contexts increase engagement and can improve performance, particularly for learners whose interest in the mathematics itself is still developing [Personalization to student interests improves performance and learning in math.](../claims/activation-improves-learning.md) [+M]. However, the connection must do cognitive work: a context that is merely decorative adds extraneous load without supporting the mathematics [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]. The context should map structurally onto the target concept, not just dress it up.
 
 ### Context
 #### Requirements

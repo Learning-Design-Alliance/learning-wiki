@@ -131,6 +131,26 @@
       "question": "When should support be withdrawn as the learner improves?",
       "members": [
         [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-processing-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
           "expertise-reversal-split-attention-redundancy-review",
           "+"
         ],
@@ -143,24 +163,12 @@
           "+"
         ],
         [
-          "expertise-reversal-limits-contiguity-benefits",
-          "+"
-        ],
-        [
           "expertise-reversal-prior-knowledge-interaction",
           "+"
         ],
         [
           "expertise-reversal-effect-compound",
           "+"
-        ],
-        [
-          "revised-visuals-processing-text-prior-knowledge-interaction",
-          "~"
-        ],
-        [
-          "revised-visuals-no-learning-effect",
-          "~"
         ],
         [
           "guidance-advantage-recedes-with-high-prior-knowledge",
@@ -181,6 +189,14 @@
         [
           "example-problem-sequences-reduce-cognitive-load",
           "+"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "-"
+        ],
+        [
+          "revisions-no-effect-time-with-lesson",
+          "~"
         ]
       ]
     },

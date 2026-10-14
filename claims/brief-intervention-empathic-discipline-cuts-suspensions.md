@@ -83,13 +83,13 @@ The report describes a randomized experiment in which middle school math teacher
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q3`–`q4`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?* This table gathers the studies behind this claim and the 0 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q3`–`q4`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Okonofua et al. 2016](https://doi.org/10.1073/pnas.1523698113) | q3 · causal · r? | i? | this claim |
 | [Okonofua et al. 2022](https://doi.org/10.1126/sciadv.abj0691) | q4 · causal · r3 | i? | this claim |
-| [Hernández 2022](https://doi.org/10.54300/165.102) | q3 · review · r2 | i? | [An empathy-enhancing intervention for teachers reduced suspension rates, especially for st](brief-intervention-empathic-discipline-cuts-suspensions.md) (supports) |
+| [Hernández 2022](https://doi.org/10.54300/165.102) | q3 · review · r2 | i? | this claim |
 <!-- synthesis:end -->
 
 ## Discussion

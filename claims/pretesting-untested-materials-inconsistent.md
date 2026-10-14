@@ -41,8 +41,9 @@ The review's synthesis of Richland et al. (2009) reports that untested-informati
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Question prompts improve learning](question-prompts-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](transfer-weakest-rearranged-untested-materials-worked-examples.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related

@@ -204,6 +204,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](../claims/testing-effect-generalizes-education-levels.md) [+W]
 
 ## Related Principles
+- [Pretesting (Prequestions Before Study)](pretesting.md)
 - [Spaced Learning](spaced-learning.md)
 - [Immediate Feedback](immediate-feedback.md)
 - [Desirable Difficulties Enhance Learning](../claims/desirable-difficulties-enhance-learning.md)

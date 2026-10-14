@@ -13,7 +13,7 @@ generated:
 # Cultivate Understanding and Respect Across Languages and Dialects
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 16 studies (10 causal, 5 quant-synthesis, 1 review), `q2`–`q4` · 4 of 16 report an effect size
+> **Evidence** · 6 claims (5 for, 1 against) · 19 studies (13 causal, 5 quant-synthesis, 1 review), `q2`–`q4` · 4 of 19 report an effect size
 
 ## Description
 This strategy makes content accessible across linguistic variation while positioning every learner's language repertoire as an asset. Instructors provide translations of key terms, pair language with visuals, gestures, and real-world examples, and explicitly treat dialectal and home-language variation as legitimate rather than deficient. The dual aim is comprehension of academic content and the development of respect for linguistic diversity.
@@ -36,7 +36,7 @@ Comprehension improves when verbal information is supported by nonverbal represe
 
 #### Constraints
 - Translation alone does not build proficiency; over-reliance can reduce learners' engagement with the target language [-W]
-- Visuals that are decorative rather than meaning-bearing add load without aiding comprehension [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Visuals that are decorative rather than meaning-bearing add load without aiding comprehension [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
 - Poorly framed "respect" activities can single out multilingual learners and backfire on belonging [~M]
 - Requires instructor time and, for less-commonly-taught languages, resources that may not exist
 - Inaccurate or literal translations can introduce misconceptions that are hard to detect and correct [-M]

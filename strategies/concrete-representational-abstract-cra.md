@@ -13,7 +13,7 @@ generated:
 # Concrete-Representational-Abstract (CRA)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 18 studies (7 causal, 5 quant-synthesis, 5 review, 1 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 21 studies (10 causal, 5 quant-synthesis, 5 review, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 1 claim rests on one study
 
 ## Description
 CRA is an instructional approach that uses concrete materials, visual representations, and abstract symbols to teach math concepts. Learners first manipulate concrete objects to understand a concept, then draw pictures representing the objects, and finally use abstract numbers and symbols. As instructors move through the sequence, abstract symbols should be used *in conjunction with* concrete materials and drawings — not after them — to promote association between symbolic notation and the underlying quantities. The approach descends from Bruner's enactive–iconic–symbolic sequence and is a staple of special education mathematics instruction.
@@ -55,7 +55,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - Keeping learners at the concrete phase too long can impede development of abstract reasoning; the sequence is a bridge, not a destination [~S]
 - Poorly designed manipulatives that do not map one-to-one onto the symbolic system (e.g., non-proportional materials for place value) produce confusion rather than insight [-M]
 - For learners with strong prior knowledge of the symbols, starting concrete is redundant and slows progress [~M]
-- Concrete materials that are perceptually rich but structurally misleading (e.g., brightly colored, distracting manipulatives) can divert attention from the target concept [Decorative illustrations do not improve learning and can reduce it.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Concrete materials that are perceptually rich but structurally misleading (e.g., brightly colored, distracting manipulatives) can divert attention from the target concept [Decorative illustrations do not improve learning and can reduce it.](../claims/seductive-details-effect.md) [-M]
 - Prolonged reliance on concrete objects without fading can bind understanding to specific materials and block transfer to symbols [~M]
 - Poorly chosen manipulatives (e.g., using the same color for ones and tens) can actively model the wrong structure [-M]
 - Poorly designed manipulatives (intrusive, novel, or richly decorated objects) can become the focus of attention and *increase* cognitive load rather than reduce it [~M]
@@ -262,7 +262,7 @@ CRA manages the transition from embodied understanding to symbolic fluency, redu
 - Keeping learners at the concrete phase too long can impede development of abstract reasoning; the sequence is a bridge, not a destination [~S]
 - Poorly designed manipulatives that do not map one-to-one onto the symbolic system (e.g., non-proportional materials for place value) produce confusion rather than insight [-M]
 - For learners with strong prior knowledge of the symbols, starting concrete is redundant and slows progress [~M]
-- Concrete materials that are perceptually rich but structurally misleading (e.g., brightly colored, distracting manipulatives) can divert attention from the target concept [Decorative illustrations do not improve learning and can reduce it.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Concrete materials that are perceptually rich but structurally misleading (e.g., brightly colored, distracting manipulatives) can divert attention from the target concept [Decorative illustrations do not improve learning and can reduce it.](../claims/seductive-details-effect.md) [-M]
 - Prolonged reliance on concrete objects without fading can bind understanding to specific materials and block transfer to symbols [~M]
 - Learners with strong prior knowledge of the abstract form may find the concrete stage redundant and demotivating [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 - Poorly chosen manipulatives (e.g., using the same color for ones and tens) can actively model the wrong structure [-M]
@@ -374,7 +374,7 @@ CRA sequencing manages the transition from embodied, perceptual understanding to
 - A planned transition point to abstract notation, with continued access to representations as a fallback ([Fading](../elements/fading.md))
 
 #### Constraints
-- Concrete materials that are perceptually rich but structurally misleading (e.g., brightly colored, distracting manipulatives) can divert attention from the target concept [Decorative illustrations do not improve learning and can reduce it.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Concrete materials that are perceptually rich but structurally misleading (e.g., brightly colored, distracting manipulatives) can divert attention from the target concept [Decorative illustrations do not improve learning and can reduce it.](../claims/seductive-details-effect.md) [-M]
 - Prolonged reliance on concrete objects without fading can bind understanding to specific materials and block transfer to symbols [~M]
 - Learners with strong prior knowledge of the abstract form may find the concrete stage redundant and demotivating [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 - Poorly chosen manipulatives (e.g., using the same color for ones and tens) can actively model the wrong structure [-M]

@@ -62,5 +62,5 @@ The authors' own scope limit on the decomposition: the components "do not direct
 
 
 ## Related Claims
-- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](visual-channel-overload-hurts-visual-knowledge.md) — related
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](voice-media-outperform-picture-text-overall.md) — related
 - [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — related

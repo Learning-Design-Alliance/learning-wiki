@@ -82,7 +82,7 @@ This narrative review builds its case on human cognitive architecture, expert–
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does explaining and modelling a new method beat leaving learners to discover it with little support?* This table gathers the studies behind this claim and the 16 narrower claims that bear on it: **13 distinct studies** (4 causal, 3 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4`, 2 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How much guidance do novices need inside a problem-centred design?* This table gathers the studies behind this claim and the 16 narrower claims that bear on it: **13 distinct studies** (4 causal, 3 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4`, 2 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -92,7 +92,7 @@ This narrative review builds its case on human cognitive architecture, expert–
 | [Chi 2018](https://doi.org/10.1111/cogs.12626) | q3 · design · r3 | i? | [Teachers had minimal success designing Constructive and Interactive activities after ICAP ](teachers-struggle-designing-interactive-activities.md) (qualifies) |
 | Higgin 2025 | q2 · qualitative · r2 | i? | [Gateway math students benefit from a balance of social, active learning and independent pr](balance-active-learning-independent-practice-gateway-math.md) (qualifies) |
 | [Sweller & Cooper 1985](https://doi.org/10.1207/s1532690xci0201_3) | q3 · causal · r? | i? | [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) (supports) |
-| [Pratt and Savoy-Levine 1998](https://doi.org/10.1016/s0193-3973(99) | q3 · causal · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| [Pratt and Savoy-Levine 1998](<https://doi.org/10.1016/s0193-3973(99)80041-0>) | q3 · causal · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
 | [Chi et al. 2001](https://doi.org/10.1207/s15516709cog2504_1) | q2 · causal · r1 | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
 | [Swanson and Lussier 2001](https://doi.org/10.3102/00346543071002321) | q4 · quant-synthesis · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
 | [van de Pol et al. 2010](https://doi.org/10.1007/s10648-010-9127-6) | q3 · review · r2 | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |

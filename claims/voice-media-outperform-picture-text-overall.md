@@ -3,6 +3,7 @@ type: claim
 title: Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text
 description: Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text
 id: voice-media-outperform-picture-text-overall
+aliases: [visual-channel-overload-hurts-visual-knowledge]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
+
 `q2 i?` Both the animation+voice and picture+voice settings resulted in better overall learning performance than the picture+text setting, which carried double load on the visual channel. [→ Guttormsen Schär 2007](#guttormsen-schar-2007)
+
+`q2 i?` Settings combining visual and auditory information produced better visual knowledge than picture+text, which loaded two visual sources onto one channel, supporting the expected negative effect of information channel overload. [→ Guttormsen Schär 2007](#guttormsen-schar-2007)
 
 ## Evidence
 
@@ -39,13 +43,30 @@ Experiment with 36 adults randomly assigned to animation+voice (AV), picture+voi
 
 > "As the table shows, both the multimedia settings AV and PV resulted in better learning performance than PT . There were no significant differences between the groups for media preference."
 
+<!-- merged 2026-10-14 from visual-channel-overload-hurts-visual-knowledge: that page's entry for this study, which differed from the one above, kept verbatim.
+### Guttormsen Schär 2007
+
+Guttormsen Schär, S., & Zimmermann, P. G. (2007). Investigating Means to Reduce Cognitive Load from Animations: Applying Differentiated Measures of Knowledge Representation. Journal of Research on Technology in Education, 40(1), 64–78. https://eric.ed.gov/?id=EJ826063
+
+`q2 · i?` · `causal · r1`
+
+Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 (AV), 9.94 (PV) and 6.79 (PT), with AV > PT (p = 0.022) and PV > PT (p = 0.029) in Table 5, replicating the authors' earlier findings on visual-channel overload.
+
+> "Media combinations without double load on one modality (i.e., visual & auditory combinations) resulted in better visual knowledge than when the visual channel was occupied with the processing of two visual information sources (i.e., text and picture)."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Media effects on learning are not homogeneous across knowledge categories](media-effects-vary-by-knowledge-category.md) — related
 - [No media effect for process knowledge: animation did not improve learning of dynamic content](no-media-effect-process-knowledge.md) — related
-- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](visual-channel-overload-hurts-visual-knowledge.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on
 - [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](voice-doubles-turns-and-questions-equal-engaged-time.md) — related
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
+- [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
+- [Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention](audiovisual-attention-decomposition-surrogate-indicators.md) — related

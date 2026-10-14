@@ -13,7 +13,7 @@ generated:
 # Hypertext Navigation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 9 studies (4 causal, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 1 of 9 report an effect size
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 12 studies (7 causal, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size
 
 ## Description
 Hypertext navigation presents content as a network of linked nodes — pages, sections, or media objects — that learners traverse in an order they choose, rather than as a fixed linear sequence. The learner controls both the path and the pace, constructing their own route through the material.
@@ -33,7 +33,7 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 - Novices with low prior knowledge learn less from freely navigated hypertext than from sequenced instruction; they lack the schema needed to judge which nodes are relevant [Expertise reverses the benefit of learner control.](../claims/expertise-reversal-effect.md) [~S]
 - Unstructured link networks increase disorientation and extraneous cognitive load, reducing comprehension relative to linear text [DeStefano & LeFevre's review of hypertext cognitive load.](https://doi.org/10.1016/j.chb.2006.05.019) [-M]
 - Excessive choice among nodes can produce shallow "skimming" behavior rather than sustained study
-- Decorative links and multimedia embellishments add navigation decisions without adding content [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
+- Decorative links and multimedia embellishments add navigation decisions without adding content [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-M]
 
 ### Target Learners
 - Learners with moderate-to-high prior knowledge, who can use their schemas to evaluate and sequence nodes productively [Expertise reverses the benefit of learner control.](../claims/expertise-reversal-effect.md) [~S]

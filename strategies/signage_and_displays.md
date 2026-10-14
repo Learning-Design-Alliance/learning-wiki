@@ -12,14 +12,14 @@ generated:
 # Signage and Displays
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 5 studies (4 causal, 1 quant-synthesis), `q3` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 8 studies (7 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 8 report an effect size
 
 ## Description
 Signage and displays are the persistent visual elements of a learning space: wall posters, anchor charts, rule lists, schedules, student work exhibits, and wayfinding signs. Effective displays orient learners to routines and content, signal belonging and shared norms, and make thinking visible — while avoiding the decorative overload that competes with instruction for attention.
 
 ## Design Implications
 
-The physical visual environment measurably affects learning: classrooms with excessive wall decoration reduce attention and learning in young children, particularly those who struggle to regulate attention [Highly decorated classrooms can reduce attention and learning, especially for young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Displays therefore work best when they are instructional rather than ornamental — anchor charts, current-unit content, and student work with process annotations — and when off-task decoration is culled regularly. Positive, asset-framed signage ("We show our thinking") outperforms prohibitive framing ("DO NOT talk") in signaling norms, consistent with evidence that environments communicating belonging and high expectations improve outcomes [Brief belonging interventions improve student outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M].
+The physical visual environment measurably affects learning: classrooms with excessive wall decoration reduce attention and learning in young children, particularly those who struggle to regulate attention [Highly decorated classrooms can reduce attention and learning, especially for young children.](../claims/seductive-details-effect.md) [-S]. Displays therefore work best when they are instructional rather than ornamental — anchor charts, current-unit content, and student work with process annotations — and when off-task decoration is culled regularly. Positive, asset-framed signage ("We show our thinking") outperforms prohibitive framing ("DO NOT talk") in signaling norms, consistent with evidence that environments communicating belonging and high expectations improve outcomes [Brief belonging interventions improve student outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ The physical visual environment measurably affects learning: classrooms with exc
 - A mechanism for rotating and retiring displays so walls do not become permanent wallpaper
 
 #### Constraints
-- Dense, colorful, or animated displays capture attention at the expense of the lesson, especially for young learners and learners with attention difficulties [Highly decorated classrooms can reduce attention and learning, especially for young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Dense, colorful, or animated displays capture attention at the expense of the lesson, especially for young learners and learners with attention difficulties [Highly decorated classrooms can reduce attention and learning, especially for young children.](../claims/seductive-details-effect.md) [-S]
 - Stale displays that no longer relate to current instruction become invisible at best and noise at worst
 - Elaborate commercial poster sets can crowd out student-generated work, sending the message that the room belongs to the teacher rather than the learners
 - Display maintenance requires ongoing time; neglected displays degrade the environment's credibility
@@ -41,7 +41,7 @@ The physical visual environment measurably affects learning: classrooms with exc
 - **Minimalist environments** — deliberately sparse walls during focused instruction, with displays introduced in a dedicated reference area
 
 ### Target Learners
-- Young learners, who are most susceptible to visual distraction from heavily decorated walls [Highly decorated classrooms can reduce attention and learning, especially for young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+- Young learners, who are most susceptible to visual distraction from heavily decorated walls [Highly decorated classrooms can reduce attention and learning, especially for young children.](../claims/seductive-details-effect.md) [-S]
 - Learners with attention difficulties, who benefit from a visually quiet instructional focus area
 - Newcomers and students at risk of marginalization, for whom inclusive displays signal membership [Brief belonging interventions improve student outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 
@@ -51,7 +51,7 @@ The physical visual environment measurably affects learning: classrooms with exc
 - Community and belonging: norms, shared identity, and celebration of collective work
 
 ### Instructions
-1. Audit existing walls; remove decorative material unrelated to current instruction [Highly decorated classrooms can reduce attention and learning, especially for young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
+1. Audit existing walls; remove decorative material unrelated to current instruction [Highly decorated classrooms can reduce attention and learning, especially for young children.](../claims/seductive-details-effect.md) [-S]
 2. Co-construct anchor charts with learners during instruction and post them where they will be used
 3. Display student work with process descriptions, rotating it regularly
 4. Frame all rules and norms positively and review them with learners ([Attention](../elements/attention.md) to framing)

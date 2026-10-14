@@ -44,5 +44,5 @@ Comparing total assessments (average of interesting, instructional, fun) for eac
 
 ## Related Claims
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
-- [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
+- [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — related
 - [Multimedia introductory activities are rated as more interesting and instructive than fun, while traditional activities are rated similarly on all three features](multimedia-activities-less-fun-than-instructive.md) — related

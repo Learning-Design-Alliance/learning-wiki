@@ -12,14 +12,14 @@ generated:
 # Calming Visual Input
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 11 studies (7 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 11 report an effect size
 
 ## Description
 Calming visual input is the deliberate management of the visual environment to reduce overstimulation and support attention and emotional regulation. Techniques include dimming or softening lighting, decluttering workspaces and walls, using visual dividers or study carrels, providing repetitive visual anchors (fish tanks, sensory bottles), and posting a clear visual picture schedule so the day's structure is predictable. The strategy treats the environment itself as an instructional variable: what learners see competes for the same attentional resources they need for learning.
 
 ## Design Implications
 
-Visual clutter and decorative displays measurably draw young learners' attention away from instruction and reduce learning gains [Visual environment, attention allocation, and learning in young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Because attention and working memory are limited, every unnecessary visual element imposes extraneous load that cannot be spent on the learning task [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. Calming visual input is therefore best understood as an application of [Cognitive Load Management](../principles/cognitive-load-management.md) applied to the physical environment rather than to materials.
+Visual clutter and decorative displays measurably draw young learners' attention away from instruction and reduce learning gains [Visual environment, attention allocation, and learning in young children.](../claims/seductive-details-effect.md) [+S]. Because attention and working memory are limited, every unnecessary visual element imposes extraneous load that cannot be spent on the learning task [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. Calming visual input is therefore best understood as an application of [Cognitive Load Management](../principles/cognitive-load-management.md) applied to the physical environment rather than to materials.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Visual clutter and decorative displays measurably draw young learners' attention
 
 ### Target Learners
 - Children with sensory sensitivities, autism spectrum profiles, or ADHD who are easily overwhelmed by busy environments [~M]
-- Young learners generally, whose attention allocation is especially captured by salient visual displays [Visual environment, attention allocation, and learning in young children.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]
+- Young learners generally, whose attention allocation is especially captured by salient visual displays [Visual environment, attention allocation, and learning in young children.](../claims/seductive-details-effect.md) [+S]
 - Learners with visual impairments require the opposite adjustments in some dimensions (contrast, lighting) and should not receive a blanket low-stimulation treatment [-M]
 
 ### Target Learning Goals
@@ -51,7 +51,7 @@ Visual clutter and decorative displays measurably draw young learners' attention
 
 ### Instructions
 1. Observe and record when overstimulation occurs (transitions, assemblies, free time) and what visual conditions accompany it; use a brief [Check-In](../elements/check-in.md) to gather the learner's own report.
-2. Reduce ambient clutter: store materials out of sight, pare wall displays to current, relevant content, and remove decorative material unrelated to instruction [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S].
+2. Reduce ambient clutter: store materials out of sight, pare wall displays to current, relevant content, and remove decorative material unrelated to instruction [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [+S].
 3. Adjust lighting — natural light where possible, dimmers or lamps instead of uniform overhead fluorescents — while verifying the learner can still see instructional materials clearly.
 4. Provide an individual workspace option ([Accommodations](../elements/accommodations.md)): study carrel, visual divider, or defined desk boundary in a low-traffic zone.
 5. Introduce a visual picture schedule: 3–6 chunked steps per segment, reviewed at transitions, so the day is predictable at a glance.

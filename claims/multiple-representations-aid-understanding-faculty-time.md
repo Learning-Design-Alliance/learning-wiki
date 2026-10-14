@@ -44,12 +44,12 @@ Secondary qualitative finding from the gateway math faculty and student study. T
 
 ## Related Claims
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](formative-feedback-constraints-gateway-math.md) — related
-- [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](decorative-images-distract-from-math-problems.md) — related
+- [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a narrower finding that bears on this claim
 - [The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities](multiplatform-activity-range-engaged-diverse-learners.md) — related
-- [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a narrower finding that bears on this claim
 - [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) — related
-- [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
+- [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related

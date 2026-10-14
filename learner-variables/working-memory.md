@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (22 for, 7 mixed, 3 against) · 34 studies (12 causal, 8 review, 5 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 2 of 34 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (21 for, 7 mixed, 3 against) · 34 studies (12 causal, 8 review, 5 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 3 of 34 report an effect size · 27 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -35,8 +35,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 ## Claims
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) [+S] — grouping into fewer, larger units is the central mechanism for effective capacity
 - [Split attention effect degrades learning](../claims/split-attention-effect-degrades-learning.md) [-S] — forcing integration of two separated sources spends capacity on the integration
-- [Redundancy effect impairs learning](../claims/redundancy-effect-impairs-learning.md) [-M] — duplicated information must be processed and reconciled before it can be discarded
-- [Presenting words as narration rather than on-screen text alongside graphics](../claims/modality-effect-narration-over-text.md) [+M] — splits input across channels instead of contending for the visual one
+- [Redundancy effect impairs learning](../claims/redundancy-principle.md) [-M] — duplicated information must be processed and reconciled before it can be discarded
+- [Presenting words as narration rather than on-screen text alongside graphics](../claims/modality-effect-narration-over-text.md) [+M] — splits input across channels instead of contending for the visual one; instruction changes it
 - [Segmentation benefits shrink with expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [~M] — the boundary condition — the same segmentation stops paying as schemas form
 - [Adaptive training produced substantial and sustained gains in working memory for children with poor working memory](../claims/adaptive-training-sustained-working-memory-gains.md) [+M] — instruction changes it
 - [Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor](../claims/childhood-poverty-impairs-adult-working-memory.md) [+M] — instruction changes it
@@ -61,7 +61,6 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](../claims/ai-interaction-training-slightly-increases-cognitive-load.md) [+W] — instruction changes it
 - [Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge](../claims/extraneous-load-predicts-lower-post-test.md) [+M] — learners who differ on it differ in outcomes
 - [The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment](../claims/ai-feedback-reduces-cognitive-load-and-fear-of-failure.md) [+W] — instruction changes it
-- [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](../claims/modality-effect-spoken-text-visual-information.md) [+M] — instruction changes it
 - [Segmentation reduces overall cognitive load during multimedia learning](../claims/segmenting-reduces-cognitive-load.md) [+M] — instruction changes it
 - [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](../claims/segmenting-effects-confirmed-system-paced.md) [+M] — instruction changes it
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](../claims/working-memory-mixed-moderator-interleaving.md) [~M] — an instructional effect differs with it

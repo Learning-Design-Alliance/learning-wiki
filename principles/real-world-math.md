@@ -71,7 +71,7 @@ Real-world math improves engagement and transfer when the mathematical structure
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners understand applied math more deeply when they justify why a model or method fits the real situation
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](../claims/real-world-relevance-gateway-math-procedural-instruction.md) [~W]
 - [Among the five lessons rated highly for both mathematical sense-making and student questioning and reasoning, contextualized story problems featured prominently](../claims/contextualized-story-problems-sense-making.md) [+W]
-- [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
 
 ## Related Principles
 

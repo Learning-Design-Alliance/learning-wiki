@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The change on the object that was both signalled and visually cued was the most detected change (83.33%)"
-description: "The change on the object that was both signalled and visually cued was the most detected change (83.33%)"
+title: "The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)"
+description: "The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)"
 id: signalled-and-cued-object-change-most-detected
 status: draft
 generated:
@@ -19,13 +19,15 @@ sources:
     rigour: 1
 ---
 
-# The change on the object that was both signalled and visually cued was the most detected change (83.33%)
+# The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 
+<!-- title before 2026-10-14: The change on the object that was both signalled and visually cued was the most detected change (83.33%) -->
+
 ## Subclaims
-`q2 i?` The change occurring on the object that used both signalling and visual cueing was detected by 10 of 12 participants (83.33%), the highest detection rate in the study. [→ Mutlu-Bayraktar 2018](#mutlu-bayraktar-2018)
+`q2 i?` The change occurring on the object being verbally described was detected by 10 of 12 participants (83.33%), the highest detection rate in the study. [→ Mutlu-Bayraktar 2018](#mutlu-bayraktar-2018)
 
 ## Evidence
 
@@ -42,6 +44,8 @@ Descriptive eye-tracking findings from the multimedia animation study: in the si
 ## Discussion
 
 ## Related Claims
+
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — the general claim this finding bears on, with the studies behind it
 
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Change in the most-focused central object was detected at a low rate (41.66%) unless it was signalled and cued](central-object-change-detection-low-without-cueing.md) — related

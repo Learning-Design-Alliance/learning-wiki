@@ -70,13 +70,14 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should component knowledge come before the whole task?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a primer on the key parts and terms before a complex lesson improve learning and transfer?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 causal, 2 review), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Delgado and Mayer 2024](https://doi.org/10.1111/jcal.13099) | q3 · causal · r? | i? | this claim |
 | Ceballos & Nutta 2022 | q2 · review · r1 | i? | this claim |
-| [Pollock et al. 2002](https://doi.org/10.1016/s0959-4752(01) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (supports) |
+| [Pollock et al. 2002](<https://doi.org/10.1016/s0959-4752(01)00016-0>) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (supports) |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 · large effect, median d = 0.85 | [Pretraining principle: pre-lessons on names, locations, and characteristics of key compone](pretraining-principle-mayer-2008.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -88,7 +89,7 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 **Design implications.** In practice, pretraining means a short, focused primer — names of components, key terms, or the main characteristics of a system — delivered before a simulation, animation, or complex explanation, not a lengthy preliminary unit. The primer should be minimal: content that merely duplicates the main instruction adds time without reducing load. Where the main instruction is already simple or the audience is expert, the pretraining segment can be cut or folded into the lesson itself.
 
 **Open questions.** The one primary study recorded above is a single VR experiment with no standardized effect size, and the other source reports pretraining studies second-hand;
-<!-- deprecated (2026-10-05, stale): **Open questions.** The one study recorded above is a single VR experiment read as an abstract, with no standardized effect size; --> the original multimedia pretraining experiments, and how widely the effect holds across domains, are not yet recorded here. Until then, this page should be treated as a theoretically motivated hypothesis rather than an empirically rated claim. Key open questions include whether pretraining benefits persist to delayed transfer tests, whether the effect holds in classroom settings (as opposed to controlled multimedia experiments), and how long the pretraining segment can be before it stops paying for itself in reduced load during the main instruction.
+<!-- deprecated (2026-10-05, stale): **Open questions.** The one study recorded above is a single VR experiment read as an abstract, with no standardized effect size; --> the original multimedia pretraining experiments are recorded only as Mayer's (2008) summary of five of them (median d = 0.85) on [Pretraining principle: pre-lessons on names, locations, and characteristics of key components improve transfer](pretraining-principle-mayer-2008.md), and how widely the effect holds across domains is not recorded here. Key open questions include whether pretraining benefits persist to delayed transfer tests, whether the effect holds in classroom settings (as opposed to controlled multimedia experiments), and how long the pretraining segment can be before it stops paying for itself in reduced load during the main instruction.
 
 ## Related Claims
 

@@ -16,7 +16,7 @@ sources:
 # Cognitive Load Theory: working-memory limits, human cognitive architecture, and three load types
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 4 studies (2 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 1 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 7 studies (5 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 1 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 The article presents Cognitive Load Theory as a psychological theory from cognitive science, originated by John Sweller in the late 1980s, explaining how the design of learning materials affects learning given limited working memory. It rests on three suppositions: working memory is limited in capacity and duration, long-term memory is effectively unlimited and stores knowledge as "schemas", and the load imposed during instruction can be adjusted. Instructions impose three kinds of load: intrinsic (inherent difficulty and element interactivity), extraneous (load from poor design or irrelevant material), and germane (beneficial load devoted to learning).
@@ -40,9 +40,9 @@ The article presents Cognitive Load Theory as a psychological theory from cognit
 - [Algerian university teachers of English lack sufficient knowledge of cognitive load theory](../claims/algerian-efl-teachers-lack-clt-knowledge.md) [+W]
 - [Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load](../claims/minority-identify-three-load-types.md) [+W]
 - [Most surveyed teachers report accounting for learner prior knowledge and material complexity in instructional design](../claims/teachers-account-for-prior-knowledge-and-complexity.md) [+W]
-- [A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect](../claims/teachers-report-simultaneous-words-graphics-presentation.md) [+W]
+- [Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously](../claims/teachers-report-simultaneous-words-graphics-presentation.md) [+W]
 - [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](../claims/teachers-use-clt-principles-despite-ignorance.md) [+W]
-- [Decorative Illustrations Do Not Improve Learning](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]
+- [Decorative Illustrations Do Not Improve Learning](../claims/seductive-details-effect.md) [+M]
 
 ## Related Theories
 

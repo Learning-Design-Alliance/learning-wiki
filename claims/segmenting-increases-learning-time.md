@@ -39,11 +39,23 @@ The meta-analysis reports that segmentation "increases learning time"; no magnit
 
 > "Segmentation also reduces the overall cognitive load and increases learning time."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What does segmenting cost, and where does it add little?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | this claim |
+| Veronica Pimenova 2026 | q3 · causal · r2 | i? | [Easy tasks showed a floor effect across all participants and were excluded from hypothesis](easy-task-floor-effect-excluded.md) (qualifies) |
+| [Adesope 2012](https://doi.org/10.1037/a0026147) | q3 · quant-synthesis · r3 | i2 | [Nonsegmented spoken–written presentations show a larger advantage over spoken-only present](segmentation-moderates-verbal-redundancy.md) (qualifies) |
+| Kazuki Kawamura 2025 | q2 · associational · r? | i? | [MOOC video engagement declines with video length, with median engagement under half the du](mooc-engagement-declines-with-video-length.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims
 
-- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — the general claim this finding bears on, with the studies behind it
+- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 
-- [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive Load Management](cognitive-load-management.md) — a broader claim this one bears on
