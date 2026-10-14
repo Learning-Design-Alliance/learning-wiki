@@ -98,8 +98,9 @@ The chapter reports Carpenter (2009), in which weak associates were assumed to o
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — the general claim this finding bears on, with the studies behind it
 - [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) — related
 - [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) — reports the opposite
 - [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) — related

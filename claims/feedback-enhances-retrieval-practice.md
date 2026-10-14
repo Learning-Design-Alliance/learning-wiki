@@ -74,6 +74,21 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 
 258 participants studied Luganda–English word pairs twice. They were then tested on each item several times, and the presence and type of feedback varied between participants. A final test followed one week later. Supplying the correct answer after an incorrect response improved performance during learning and raised final retention by 494%. Feedback after correct responses made little difference, either immediately or after a week, even when the learner was not confident in the response. This supports the page's boundary condition that feedback matters most after failed retrievals. (Coded from the abstract only; the full text could not be retrieved.)
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does feedback after retrieval add to the benefit?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (2 quant-synthesis, 2 causal, 2 review), `q2`–`q4`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Yang et al. 2021](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.537 with corrective feedback vs g=0.374 without | this claim |
+| [Pashler et al. 2005](https://doi.org/10.1037/0278-7393.31.1.3) | q3 · causal · r? | i? | this claim |
+| [Adesope 2017](https://doi.org/10.3102/0034654316689306) | q4 · quant-synthesis · r3 | i? | [Providing corrective feedback on practice tests does not significantly change the testing ](feedback-no-significant-moderation.md) (qualifies) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback f](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) (supports); [Taking initial multiple-choice tests without feedback can lead students to later produce t](multiple-choice-lures-can-be-learned-as-false-knowledge.md) (supports) |
+| [Metcalfe 2017](https://doi.org/10.1146/annurev-psych-010416-044022) | q2 · review · r? | i? | [High-confidence errors lead to better retention after correction than low-confidence error](high-confidence-errors-improve-retention.md) (supports) |
+| [Fazio & Marsh 2009](https://doi.org/10.3758/pbr.16.1.88) | q3 · causal · r? | i? | [High-confidence errors lead to better retention after correction than low-confidence error](high-confidence-errors-improve-retention.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Why feedback should help.** Retrieval attempts can produce errors or partial answers; without corrective information, learners may re-encode mistaken responses. Feedback after a retrieval attempt allows learners to confirm correct retrievals and repair incorrect ones, and the act of first attempting retrieval is thought to make subsequent feedback more deeply processed than feedback delivered without an attempt — the same "generation then correction" logic that underlies [Pretesting enhances learning from subsequent instruction.](pretesting-enhances-learning.md)

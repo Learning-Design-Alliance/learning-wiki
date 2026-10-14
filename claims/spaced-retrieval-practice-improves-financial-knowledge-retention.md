@@ -41,8 +41,9 @@ Field experiment with 175 Champlain College sophomores randomly assigned to spac
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Practice condition showed no significant association with self-reported financial behaviors about credit](practice-condition-no-effect-financial-behaviors.md) — related
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related
 - [Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ](spaced-beats-massed-and-control-financial-knowledge.md) — possibly the same claim (merge candidate)

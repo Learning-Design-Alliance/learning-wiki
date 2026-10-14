@@ -60,8 +60,9 @@ The chapter's own methodological argument: because restudy reexposes the whole s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Practice Improves Retention](retrieval-practice-improves-retention.md)
 - [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — a narrower finding that bears on this claim
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related

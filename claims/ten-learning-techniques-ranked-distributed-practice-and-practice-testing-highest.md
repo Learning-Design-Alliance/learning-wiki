@@ -49,6 +49,8 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 
 ## Related Claims
 
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
+
 - [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — related
 - [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) — the same synthesis
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the same synthesis

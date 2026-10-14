@@ -55,6 +55,23 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 > "Results from subset 1 indicated a strong benefit of spaced retrieval practice in comparison with massed retrieval practice ( g = 0.74)."
 -->
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How many practice tests, and how should they be scheduled?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **8 distinct studies** (4 quant-synthesis, 3 causal, 1 review), `q2`–`q4`, 5 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Latimier et al. 2021](https://doi.org/10.1007/s10648-020-09572-8) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.74; i0 | this claim; [Expanding and uniform spacing schedules of retrieval practice do not differ significantly ](expanding-versus-uniform-retrieval-no-difference.md) (qualifies) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Spaced retrieval practice produces better final retention than massed retrieval even thoug](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) (supports); [Expanding retrieval schedules have not shown consistent advantages over equally spaced or ](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) (qualifies) |
+| [Kang 2023](https://doi.org/10.1891/jfcp-2021-0032) | q3 · causal · r2 | i2 | [Spaced retrieval practice outperformed both massed retrieval practice and no-practice cont](spaced-beats-massed-and-control-financial-knowledge.md) (supports); [Spaced retrieval practice after a financial education workshop improves knowledge retentio](spaced-retrieval-practice-improves-financial-knowledge-retention.md) (supports) |
+| [Kim and Webb 2022](https://doi.org/10.1111/lang.12479) | q3 · quant-synthesis · r? | i? | [Expanding retrieval schedules have not shown consistent advantages over equally spaced or ](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) (qualifies) |
+| [Nakata 2015](https://doi.org/10.1017/s0272263114000825) | q3 · causal · r? | i? | [Expanding retrieval schedules have not shown consistent advantages over equally spaced or ](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) (qualifies) |
+| [Adesope 2017](https://doi.org/10.3102/0034654316689306) | q4 · quant-synthesis · r3 | i2 | [A single practice test produced a larger effect (g = 0.70) than two or more practice tests](single-practice-test-larger-effect.md) (qualifies) |
+| [Yang 2020](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r3 | i?; i0; i1 | [The classroom testing effect increases with the number of test repetitions on the same con](test-repetitions-positive-relationship-classroom.md) (supports); [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postcla](postclass-quizzes-and-longer-duration-larger-gains.md) (qualifies) |
+| Mahir Akgun and Sacip Toker 2026 | q3 · causal · r2 | i2 | [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance th](adaptive-retrieval-posttest-retention-advantage.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Why the combination matters.** Spacing and retrieval are two of the most robust effects in memory research, and they operate through complementary mechanisms: retrieval strengthens memory traces by making recall effortful (a desirable difficulty), while spacing forces retrieval to occur after partial forgetting, when reconstruction is most beneficial. Either technique alone helps — see [Testing effect: retrieval practice improves retention](retrieval-practice-improves-retention.md) and [Distributed practice improves retention](spaced-repetition-improves-retention.md) — but combining them, recalling material at increasing intervals, is the configuration most classroom applications target.

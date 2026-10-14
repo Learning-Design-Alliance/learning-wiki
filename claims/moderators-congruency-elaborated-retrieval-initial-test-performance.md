@@ -41,6 +41,7 @@ Moderator analyses across the 192-effect-size dataset examined conditions under 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — the general claim this finding bears on, with the studies behind it
 -

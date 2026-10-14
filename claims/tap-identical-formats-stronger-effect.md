@@ -41,8 +41,9 @@ Moderator analysis of transfer-appropriate processing (Table 2): identical forma
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — the general claim this finding bears on, with the studies behind it
 - [Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a significant difference between them](practice-tests-aid-retention-and-transfer.md) — related
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — possibly the same claim (merge candidate)
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related

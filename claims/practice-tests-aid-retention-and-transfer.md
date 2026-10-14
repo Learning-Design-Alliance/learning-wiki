@@ -41,7 +41,8 @@ Moderator analysis of outcome construct (Table 3): retention k = 243 (g = 0.63),
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats](outcome-constructs-test-formats-moderate-redundancy.md) — related
 - [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](tap-identical-formats-stronger-effect.md) — related

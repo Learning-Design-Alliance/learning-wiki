@@ -41,8 +41,9 @@ Meta-analytic moderator analysis of repeated testing on the same material; the r
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](postclass-quizzes-and-longer-duration-larger-gains.md) — related
 - [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](feedback-enhances-retrieval-practice.md) — related
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related

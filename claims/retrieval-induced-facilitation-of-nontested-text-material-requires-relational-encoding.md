@@ -79,8 +79,9 @@ The chapter reports Chan (2009), where randomizing sentence order disrupted rela
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) — related
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — related

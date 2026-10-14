@@ -41,8 +41,9 @@ Model-based analysis of retrieval practice data from a 2x2 between-subjects MTur
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — the general claim this finding bears on, with the studies behind it
 - [Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition](multiple-choice-higher-practice-performance-than-short-answer.md) — related
 - [Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty](unsuccessful-retrieval-smaller-benefit-than-successful.md) — related
 - [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related

@@ -72,6 +72,8 @@ A review of self-regulated learning covering the metacognitive illusions that go
 
 ## Related Claims
 
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
+
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — the strategy learners underestimate
 - [Spaced practice outperforms massed practice.](spaced-practice-improves-retention.md) — another effective schedule learners tend to avoid
 - [Learners' judgments of learning are often inaccurate.](fluent-illusions-mislead-self-assessment.md) — the general metacognitive mechanism

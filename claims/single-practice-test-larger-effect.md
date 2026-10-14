@@ -41,6 +41,7 @@ Moderator analysis of number of practice tests (Table 2): one test k = 165 (g = 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 -

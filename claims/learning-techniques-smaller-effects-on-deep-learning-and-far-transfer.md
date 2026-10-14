@@ -49,4 +49,6 @@ A course aiming at understanding or transfer cannot take the headline effects of
 
 ## Related Claims
 
+- [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
+
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related

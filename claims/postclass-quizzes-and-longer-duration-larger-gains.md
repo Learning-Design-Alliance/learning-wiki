@@ -60,8 +60,9 @@ Meta-analytic moderator analysis of treatment duration; the review reports benef
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](feedback-enhances-retrieval-practice.md) — related
 - [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](implementation-duration-community-moderators.md) — related
 - [The classroom testing effect increases with the number of test repetitions on the same content.](test-repetitions-positive-relationship-classroom.md) — related
