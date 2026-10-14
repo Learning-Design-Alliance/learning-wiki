@@ -10,3 +10,8 @@ Evidence filled from Crossref-verified sources, read by an in-session agent (ful
 
 ### 2026-09-25 · content · claude/unspecified
 Discussion no longer says the evidence is missing
+
+## Earlier history as claims/advance-organizers-improves-learning
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence copied from a verified near-duplicate (gap-fill)

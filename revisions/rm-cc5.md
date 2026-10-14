@@ -1,0 +1,12 @@
+---
+type: revisions
+page: ../products/rm-cc5.md
+---
+
+# Revision history: [products/rm-cc5](../products/rm-cc5.md)
+
+Recorded as theories/adaptive-blended-core-curriculum-program-theory-rm-cc5 before it was renamed, re-filed or merged.
+
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-725 (An Efficacy Study of a Digital Core Curriculum for Grade 5 Mathematics) via eval_harness.py + ingest_extractions.py

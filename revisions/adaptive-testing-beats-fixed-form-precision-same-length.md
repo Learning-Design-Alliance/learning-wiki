@@ -7,3 +7,8 @@ page: ../claims/adaptive-testing-beats-fixed-form-precision-same-length.md
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-7495 (MAP Growth technical report) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/adaptive-testing-precision-advantage
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-7561 (MAP Growth theory of action) via eval_harness.py + ingest_extractions.py

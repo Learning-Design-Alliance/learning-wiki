@@ -7,3 +7,8 @@ page: ../claims/llm-feedback-sentiment-tracks-scores.md
 
 ### 2026-10-12 · ingest · process:wiki-ingest
 Ingested from aied-llms-do-not-grade-essays-like-humans-2026 (LLMs Do Not Grade Essays Like Humans) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/shap-praise-raises-criticism-lowers-llm-scores
+
+### 2026-10-12 · ingest · process:wiki-ingest
+Ingested from aied-llms-do-not-grade-essays-like-humans-2026 (LLMs Do Not Grade Essays Like Humans) via eval_harness.py + ingest_extractions.py

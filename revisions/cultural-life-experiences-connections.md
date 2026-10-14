@@ -19,3 +19,8 @@ Added Epistemic Injustice theory and linked claim from Sedawi & Calabrese Barton
 
 ### 2026-08-29 · content · claude/unspecified
 Cross-linked embodied dance improvisation claim from Solomon et al. 2022
+
+## Earlier history as principles/culturally-responsive-adult-curriculum
+
+### 2026-09-25 · ingest · process:wiki-ingest
+Ingested from eric-ed536865 (Using the Pragmatic Progressive Philosophy in Adult Education) via eval_harness.py + ingest_extractions.py

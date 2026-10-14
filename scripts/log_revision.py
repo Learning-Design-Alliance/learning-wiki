@@ -81,12 +81,27 @@ def add_verified(page_path: Path, editor: str):
     page_path.write_text(f"---{fm}---{body}", encoding="utf-8")
 
 
+def card_path(page_type: str, slug: str) -> Path:
+    """The revision card of <page_type>/<slug>: revisions/<slug>.md, unless that card records
+    another page with the same slug in another kind (cognitive-load-management is a claim and a
+    principle), in which case revisions/<page_type>--<slug>.md. Keyed by slug alone, two such
+    pages used to share one card and interleave their histories (found 2026-10-13)."""
+    plain = WIKI_ROOT / "revisions" / f"{slug}.md"
+    if not plain.exists():
+        qualified = WIKI_ROOT / "revisions" / f"{page_type}--{slug}.md"
+        return qualified if qualified.exists() else plain
+    m = re.search(r"^page:\s*\.\./(\S+)\s*$", plain.read_text(encoding="utf-8"), re.M)
+    if m and m.group(1) != f"{page_type}/{slug}.md":
+        return WIKI_ROOT / "revisions" / f"{page_type}--{slug}.md"
+    return plain
+
+
 def append_revision_card(slug: str, page_type: str, editor: str, change_type: str, description: str):
-    """Create or append to revisions/{slug}.md."""
+    """Create or append to this page's card (card_path)."""
     revisions_dir = WIKI_ROOT / "revisions"
     revisions_dir.mkdir(exist_ok=True)
 
-    rev_path = revisions_dir / f"{slug}.md"
+    rev_path = card_path(page_type, slug)
     rel_link = ok.to_relative(f"/{page_type}/{slug}.md", "revisions")  # ../<page_type>/<slug>.md
 
     card = f"""
@@ -150,7 +165,7 @@ def main():
     append_wiki_log(page_type, slug, args.type, args.desc)
 
     print(f"Logged revision: {page_type}/{slug}")
-    print(f"  Revision card: revisions/{slug}.md")
+    print(f"  Revision card: {card_path(page_type, slug).relative_to(WIKI_ROOT)}")
     print(f"  Frontmatter updated: generated.by={ok.actor_for(args.by)}, generated.at={TODAY}")
     if args.verify:
         print(f"  verified entry added: by={ok.actor_for(args.by)}, at={TODAY}")

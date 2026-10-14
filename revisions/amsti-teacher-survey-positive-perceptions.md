@@ -7,3 +7,8 @@ page: ../claims/amsti-teacher-survey-positive-perceptions.md
 
 ### 2026-10-07 · ingest · process:wiki-ingest
 Ingested from hub-1533 (Alabama Math, Science, and Technology Initiative – Middle School Science) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/amsti-teacher-survey-engagement-active-learning
+
+### 2026-10-07 · ingest · process:wiki-ingest
+Ingested from hub-1620 (Alabama Math, Science, and Technology Initiative (AMSTI)) via eval_harness.py + ingest_extractions.py

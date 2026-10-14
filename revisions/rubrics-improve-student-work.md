@@ -7,3 +7,8 @@ page: ../claims/rubrics-improve-student-work.md
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence filled from Crossref-verified sources (gap-fill)
+
+## Earlier history as claims/rubrics-improve-student-work-quality
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence filled from Crossref-verified sources (gap-fill)

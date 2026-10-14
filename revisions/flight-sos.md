@@ -1,0 +1,12 @@
+---
+type: revisions
+page: ../products/flight-sos.md
+---
+
+# Revision history: [products/flight-sos](../products/flight-sos.md)
+
+Recorded as elements/flight-sos-interactive-video before it was renamed, re-filed or merged.
+
+
+### 2026-09-28 · ingest · process:wiki-ingest
+Ingested from eric-ed278252 (A Theory of Learning and Skill-Acquisition Applied to Interactive Video: Activities at the David O. McKay Institute, Brigham Young University.) via eval_harness.py + ingest_extractions.py

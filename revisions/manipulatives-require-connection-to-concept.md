@@ -7,3 +7,8 @@ page: ../claims/manipulatives-require-connection-to-concept.md
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence filled from Crossref-verified sources (gap-fill)
+
+## Earlier history as claims/hands-on-without-conceptual-integration-insufficient
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence filled from Crossref-verified sources (gap-fill)

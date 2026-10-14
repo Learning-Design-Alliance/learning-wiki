@@ -1,0 +1,12 @@
+---
+type: revisions
+page: ../products/teemss.md
+---
+
+# Revision history: [products/teemss](../products/teemss.md)
+
+Recorded as elements/teemss-probeware-handheld-curriculum before it was renamed, re-filed or merged.
+
+
+### 2026-10-07 · ingest · process:wiki-ingest
+Ingested from hub-131 (Technology Enhanced Elementary and Middle School Science (TEEMSS)) via eval_harness.py + ingest_extractions.py

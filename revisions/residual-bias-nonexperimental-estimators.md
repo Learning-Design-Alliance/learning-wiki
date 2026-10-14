@@ -7,3 +7,8 @@ page: ../claims/residual-bias-nonexperimental-estimators.md
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-5307 (Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/predictive-baseline-data-reduces-nonexperimental-bias
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-5359 (Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Bias in Nonexperimental Estimators) via eval_harness.py + ingest_extractions.py

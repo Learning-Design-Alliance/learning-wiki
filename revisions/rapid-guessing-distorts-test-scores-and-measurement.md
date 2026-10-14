@@ -7,3 +7,13 @@ page: ../claims/rapid-guessing-distorts-test-scores-and-measurement.md
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-7635 (The impact of test-taking disengagement on item content representation) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/rapid-guesses-in-scoring-distort-scores
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-7629 (A cessation of measurement: Identifying test taker disengagement using response time) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/rapid-guessing-negatively-distorts-scores
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-7696 (Rapid‐guessing behavior: Its identification, interpretation, and implications) via eval_harness.py + ingest_extractions.py

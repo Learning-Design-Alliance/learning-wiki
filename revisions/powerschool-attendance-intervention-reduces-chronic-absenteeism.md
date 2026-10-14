@@ -7,3 +7,8 @@ page: ../claims/powerschool-attendance-intervention-reduces-chronic-absenteeism.
 
 ### 2026-10-07 · ingest · process:wiki-ingest
 Ingested from hub-1512 (PowerSchool Attendance Intervention (Family Engagement)) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc
+
+### 2026-10-07 · ingest · process:wiki-ingest
+Ingested from hub-1606 (PowerSchool Attendance Intervention) via eval_harness.py + ingest_extractions.py

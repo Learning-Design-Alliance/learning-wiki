@@ -7,3 +7,8 @@ page: ../strategies/data-use-recommendations-for-state-district-system-developer
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-5342 (Developing a Coherent Plan for Effectively Using Data (In Focus Brief)) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as strategies/targeted-recommendations-promote-effective-data-use
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-2151 (Supporting Effective Data Use (In Focus Brief)) via eval_harness.py + ingest_extractions.py

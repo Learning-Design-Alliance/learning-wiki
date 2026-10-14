@@ -7,3 +7,8 @@ page: ../claims/intergenerational-ties-contribute-student-learning.md
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-5833 (Improving Chicago's Schools) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/intergenerational-ties-contribute-positively-student-learning
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-5832 (Improving Chicago's Schools) via eval_harness.py + ingest_extractions.py

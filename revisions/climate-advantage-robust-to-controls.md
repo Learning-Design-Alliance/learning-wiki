@@ -7,3 +7,8 @@ page: ../claims/climate-advantage-robust-to-controls.md
 
 ### 2026-10-10 · ingest · process:wiki-ingest
 Ingested from eric-ed559741 (A Climate for Academic Success: How School Climate Distinguishes Schools That Are Beating the Achievement Odds. Full Report) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/climate-gap-persists-with-controls
+
+### 2026-10-10 · ingest · process:wiki-ingest
+Ingested from eric-ed559745 (A Climate for Academic Success: How School Climate Distinguishes Schools That Are Beating the Achievement Odds. Report Summary) via eval_harness.py + ingest_extractions.py

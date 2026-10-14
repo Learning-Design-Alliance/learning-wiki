@@ -7,3 +7,8 @@ page: /principles/worked-examples.md
 
 ### 2026-04-06 · content · Claude
 Rewrote from CSV stub: added description, implications, claims (we-1–we-5), theory links, related principles, and key sources. Status: draft → review.
+
+## Earlier history as principles/match-worked-example-type-to-learner-prior-knowledge
+
+### 2026-09-24 · ingest · claude/unspecified
+Ingested from eric-ej1276025 (Cognitive Load in Solving Mathematics Problems) via eval_harness.py + ingest_extractions.py

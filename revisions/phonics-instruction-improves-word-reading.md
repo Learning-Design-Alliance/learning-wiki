@@ -1,9 +1,0 @@
----
-type: revisions
-page: ../claims/phonics-instruction-improves-word-reading.md
----
-
-# Revision history: [claims/phonics-instruction-improves-word-reading](../claims/systematic-phonics-improves-word-reading.md)
-
-### 2026-09-25 · ingest · claude/unspecified
-Evidence copied from a verified near-duplicate (gap-fill)

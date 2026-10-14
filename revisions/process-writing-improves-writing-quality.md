@@ -7,3 +7,8 @@ page: ../claims/process-writing-improves-writing-quality.md
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence filled from Crossref-verified sources (gap-fill)
+
+## Earlier history as claims/process-writing-instruction-improves-writing-quality
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence filled from Crossref-verified sources (gap-fill)

@@ -10,3 +10,8 @@ Ingested from U.S. Office of Educational Technology, "National Educational Techn
 
 ### 2026-08-29 · content · claude/unspecified
 Add concrete classroom tactics and alternative-assessment content (Unit 7 enrichment)
+
+## Earlier history as principles/diverse-exercise-types-learning-styles
+
+### 2026-09-28 · ingest · process:wiki-ingest
+Ingested from eric-ed296585 (Procedural and Declarative Knowledge in Vocabulary Learning: Communication and the Language Learner's Lexicon.) via eval_harness.py + ingest_extractions.py

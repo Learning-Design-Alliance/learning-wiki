@@ -7,3 +7,8 @@ page: ../claims/average-charter-schools-similar-to-nearby-traditional-public-sch
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-5268 (What's the Secret Ingredient? Searching for Policies and Practices that Make Charter Schools Successful) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/average-charter-similar-to-nearby-traditional-schools
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-5240 (What’s the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful) via eval_harness.py + ingest_extractions.py
