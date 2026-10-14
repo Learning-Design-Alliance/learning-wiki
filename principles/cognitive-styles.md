@@ -67,12 +67,12 @@ There are two distinct ways to use knowledge of a student's cognitive style (Pri
 ## Examples
 
 ## Key Sources
-- Witkin, H. A., Moore, C. A., Goodenough, D. R., & Cox, P. W. (1977). Field-dependent and field-independent cognitive styles and their educational implications. *Review of Educational Research, 47*(1), 1-64.
-- Zhang, L. F., & Sternberg, R. J. (2005). A threefold model of intellectual styles. *Educational Psychology Review, 17*(1), 1-53.
+- Witkin, H. A., Moore, C. A., Goodenough, D. R., & Cox, P. W. (1977). Field-dependent and field-independent cognitive styles and their educational implications. *Review of Educational Research, 47*(1), 1-64. [doi:10.3102/00346543047001001](https://doi.org/10.3102/00346543047001001)
+- Zhang, L. F., & Sternberg, R. J. (2005). A threefold model of intellectual styles. *Educational Psychology Review, 17*(1), 1-53. [doi:10.1007/s10648-005-1635-4](https://doi.org/10.1007/s10648-005-1635-4)
 - Zhang, L. F., & Sternberg, R. J. (2006). *The nature of intellectual styles*. Lawrence Erlbaum Associates.
 - Evans, J. St. B. T. (2004). *Rationality and reasoning*. Psychology Press.
 - Pritchard, A. (2005). *Ways of learning: Learning theories and learning styles in the classroom*. David Fulton Publishers.
-- Loo, R. (2004). Kolb's learning styles and learning preferences: Is there a linkage? *Educational Psychology, 24*(1), 99-108.
+- Loo, R. (2004). Kolb's learning styles and learning preferences: Is there a linkage? *Educational Psychology, 24*(1), 99-108. [doi:10.1080/0144341032000146476](https://doi.org/10.1080/0144341032000146476)
 - Stahl, S. A. (2002). Different strokes for different folks? A critique of learning styles. *American Educator, 26*(3), 29-49.
 - Arduini-Van Hoose, N. (2020). Learning differences. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322

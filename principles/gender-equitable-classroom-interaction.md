@@ -54,14 +54,14 @@ These are genuine average trends, not universal rules — there is wide individu
 ## Examples
 
 ## Key Sources
-- Hyde, J. S. (2005). The gender similarities hypothesis. *American Psychologist, 60*(6), 581-592.
+- Hyde, J. S. (2005). The gender similarities hypothesis. *American Psychologist, 60*(6), 581-592. [doi:10.1037/0003-066x.60.6.581](https://doi.org/10.1037/0003-066x.60.6.581)
 - Sadker, D. (2002). An educator's primer on the gender war. *Phi Delta Kappan, 84*(3), 235-244.
 - Tannen, D. (2001). *You just don't understand: Women and men in conversation*. Quill.
 - Measor, L., & Sykes, P. (1992). *Gender and schools*. Cassell.
-- Erden, F. T., & Wolfgang, C. H. (2004). An exploration of the differences in prekindergarten, kindergarten, and first grade teachers' beliefs related to discipline when dealing with male and female students. *Early Child Development and Care, 174*(1), 3-11.
-- Wilkinson, L. C., & Marrett, C. B. (Eds.). (1985). *Gender influences in classroom interaction*. Academic Press.
-- Basow, S. A., & Rubenfeld, K. (2003). "Troubles talk": Effects of gender and gender-typing. *Sex Roles, 48*(3-4), 183-187.
-- Myaskovsky, L., Unikel, E., & Dew, M. A. (2005). Effects of gender diversity on performance and interpersonal behavior in small work groups. *Sex Roles, 52*(9-10), 645-657.
+- Erden, F. T., & Wolfgang, C. H. (2004). An exploration of the differences in prekindergarten, kindergarten, and first grade teachers' beliefs related to discipline when dealing with male and female students. *Early Child Development and Care, 174*(1), 3-11. [doi:10.1080/0300443032000103098](https://doi.org/10.1080/0300443032000103098)
+- Wilkinson, L. C., & Marrett, C. B. (Eds.). (1985). *Gender influences in classroom interaction*. Academic Press. [doi:10.1016/c2013-0-11716-3](https://doi.org/10.1016/c2013-0-11716-3)
+- Basow, S. A., & Rubenfeld, K. (2003). "Troubles talk": Effects of gender and gender-typing. *Sex Roles, 48*(3-4), 183-187. [doi:10.1023/a:1022411623948](https://doi.org/10.1023/a:1022411623948)
+- Myaskovsky, L., Unikel, E., & Dew, M. A. (2005). Effects of gender diversity on performance and interpersonal behavior in small work groups. *Sex Roles, 52*(9-10), 645-657. [doi:10.1007/s11199-005-3732-8](https://doi.org/10.1007/s11199-005-3732-8)
 - Golombok, S., & Fivush, R. (1994). *Gender development*. Cambridge University Press.
 - Delamont, S. (1996). Gender divisions: The three R's — Rivalry, romance and rejection. In P. Woods (Ed.), *Contemporary issues in teaching and learning*. Routledge.
 - Arduini-Van Hoose, N. (2020). Gender differences in the classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

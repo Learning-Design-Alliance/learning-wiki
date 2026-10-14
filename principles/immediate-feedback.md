@@ -2,7 +2,7 @@
 type: principle
 id: immediate-feedback
 title: Immediate Feedback
-description: "For a learner practising a task where errors can be seen, correction before the next attempt is expected to stop errors being rehearsed, but whether immediate rather than delayed feedback improves delayed retention is not settled: the comparisons recorded here find no advantage or favour delay."
+description: "For a learner practising a task where errors can be seen, correction before the next attempt is expected to stop errors being rehearsed, but whether the timing matters, immediate rather than delayed feedback improving delayed retention, is not settled: the comparisons recorded here find no advantage or favour delay."
 canonical: true
 status: review
 generated:

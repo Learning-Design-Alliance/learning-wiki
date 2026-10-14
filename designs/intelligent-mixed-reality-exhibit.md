@@ -80,4 +80,4 @@ Unit (a single self-paced museum session, roughly 15 minutes in the source study
 ## Key Sources
 - Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R. (2022). Intelligent science exhibits: Transforming hands-on exhibits into mixed-reality learning experiences. *Journal of the Learning Sciences, 31*(3), 335-368. [https://doi.org/10.1080/10508406.2022.2032071](https://doi.org/10.1080/10508406.2022.2032071)
 - White, R., & Gunstone, R. (1992). *Probing Understanding*. Falmer Press.
-- de Jong, T., & Lazonder, A. W. (2014). The guided discovery learning principle. In R. E. Mayer (Ed.), *The Cambridge Handbook of Multimedia Learning*.
+- de Jong, T., & Lazonder, A. W. (2014). The guided discovery learning principle. In R. E. Mayer (Ed.), *The Cambridge Handbook of Multimedia Learning*. [doi:10.1017/cbo9781139547369.019](https://doi.org/10.1017/cbo9781139547369.019)

@@ -169,7 +169,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.
 - Popham, W. J. (2004). *America's "failing" schools: How parents and teachers can cope with No Child Left Behind*. RoutledgeFalmer.
-- Haertel, E. H., & Herman, J. L. (2005). A historical perspective on validity arguments for accountability testing. In J. L. Herman & E. H. Haertel (Eds.), *Uses and misuses of data for educational accountability and improvement* (pp. 1-34). National Society for the Study of Education.
+- Haertel, E. H., & Herman, J. L. (2005). A historical perspective on validity arguments for accountability testing. In J. L. Herman & E. H. Haertel (Eds.), *Uses and misuses of data for educational accountability and improvement* (pp. 1-34). National Society for the Study of Education. [doi:10.1111/j.1744-7984.2005.00023.x](https://doi.org/10.1111/j.1744-7984.2005.00023.x)
 - Arduini-Van Hoose, N. (2020). Standardized tests. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.

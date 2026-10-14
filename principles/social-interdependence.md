@@ -141,8 +141,8 @@ Group product quality, individual achievement at the end of a unit, delayed rete
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365-379. [https://doi.org/10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Johnson, D. W., & Johnson, R. T. (1998). *Learning together and alone: Cooperative, competitive, and individualistic learning* (5th ed.). Allyn & Bacon.
-- Smith, K. A., Sheppard, S. D., Johnson, D. W., & Johnson, R. T. (2005). Pedagogies of engagement: Classroom-based practices. *Journal of Engineering Education, 94*(1), 87-101.
-- Cohen, E. G., Brody, C. M., & Sapon-Shevin, M. (Eds.). (2004). *Teaching cooperative learning: The challenge for teacher education*. SUNY Press.
+- Smith, K. A., Sheppard, S. D., Johnson, D. W., & Johnson, R. T. (2005). Pedagogies of engagement: Classroom-based practices. *Journal of Engineering Education, 94*(1), 87-101. [doi:10.1002/j.2168-9830.2005.tb00831.x](https://doi.org/10.1002/j.2168-9830.2005.tb00831.x)
+- Cohen, E. G., Brody, C. M., & Sapon-Shevin, M. (Eds.). (2004). *Teaching cooperative learning: The challenge for teacher education*. SUNY Press. [doi:10.1353/book4767](https://doi.org/10.1353/book4767)
 - Arduini-Van Hoose, N. (2020). Cooperative learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.

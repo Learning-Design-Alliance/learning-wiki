@@ -159,7 +159,7 @@ What the observer can describe, what they can explain, their confidence, their o
 - Strategy recipes: [Preparation activities for shadowing](../strategies/prep_activities_for_shadowing.md), [Structured observation protocol](../strategies/structured_observation_protocol.md), [Peer observation](../strategies/peer-observation.md), [Peer observation and feedback](../strategies/peer-observation-and-feedback.md), [Lesson study](../strategies/lesson-study.md) and [Video-based feedback cycle for teacher teams](../strategies/video-based-feedback-cycle-for-teacher-teams.md); the element [Observation](../elements/observation.md); and the [Cognitive Apprenticeship pattern](../patterns/cognitive-apprenticeship.md), which opens with observation and modelling.
 
 ## Key Sources
-- Hendry, G. D., & Oliver, G. R. (2012). Seeing is believing: The benefits of peer observation. *Journal of University Teaching & Learning Practice, 9*(1).
+- Hendry, G. D., & Oliver, G. R. (2012). Seeing is believing: The benefits of peer observation. *Journal of University Teaching & Learning Practice, 9*(1). [doi:10.53761/1.9.1.7](https://doi.org/10.53761/1.9.1.7)
 - Tenenberg, J. (2016). Learning through observing peers in practice. *Studies in Higher Education, 41*(4), 756-773. [https://doi.org/10.1080/03075079.2014.950954](https://doi.org/10.1080/03075079.2014.950954)
 - Mader, F. H., Mader, D., & Alexander, E. C. (2017). Job shadowing experiences as a teaching tool: A new twist on a tried and true technique. *Atlantic Marketing Journal, 5*(3).
 

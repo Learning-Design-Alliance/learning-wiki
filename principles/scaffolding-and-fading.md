@@ -145,7 +145,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 - Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
-- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*.
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*. [doi:10.5840/thinking19888129](https://doi.org/10.5840/thinking19888129)
 - Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. *American Educator, 15*(3), 6–11, 38–46.
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The former body, kept verbatim:

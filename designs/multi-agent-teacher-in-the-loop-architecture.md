@@ -48,4 +48,4 @@ The article introduces a multi-agent, teacher-in-the-loop architecture for conte
 -
 
 ## Key Sources
-- Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation.
+- Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. [doi:10.1007/978-3-032-29770-9_5](https://doi.org/10.1007/978-3-032-29770-9_5)

@@ -145,7 +145,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - Clark, R. C., Nguyen, F., & Sweller, J. (2006). *Efficiency in learning*. Pfeiffer.
 - Diep, A. N., Zhu, C., Cocquyt, C., De Greef, M., Vo, M. H., & Vanwing, T. (2019). Adult learners' needs in online and blended learning. *Australian Journal of Adult Learning, 59*(2), 223-253.
 - Palis, A. G., & Quiros, P. A. (2014). Adult learning principles and presentation pearls. *Middle East African Journal of Ophthalmology, 21*(2), 114-122. [doi:10.4103/0974-9233.129748](https://doi.org/10.4103/0974-9233.129748)
-- Miraldi, L. B., & Miraldi, P. N. (2018). Best practices in slide design. In *The handbook of communication training*.
+- Miraldi, L. B., & Miraldi, P. N. (2018). Best practices in slide design. In *The handbook of communication training*. [doi:10.4324/9781315185859-13](https://doi.org/10.4324/9781315185859-13)
 - Mutlu-Bayraktar, D. & Bayram, S. (2018). Effects of cueing and signaling on change blindness in multimedia learning environment. World Journal on Educational Technology: Current Issues, 11(1), 128–139. https://eric.ed.gov/?id=EJ1205386
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the previous body, verbatim.

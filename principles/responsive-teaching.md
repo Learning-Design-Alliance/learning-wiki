@@ -93,5 +93,5 @@ Responsive teaching operationalizes formative assessment as a moment-to-moment p
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Carpenter, T. P., Fennema, E., Peterson, P. L., Chiang, C. P., & Loef, M. (1989). Using knowledge of children's mathematics thinking in classroom teaching: An experimental study. *American Educational Research Journal, 26*(4), 499–531. [doi:10.3102/00028312026004499](https://doi.org/10.3102/00028312026004499)
-- Robertson, A. D., Scherr, R. E., & Hammer, D. (Eds.). (2016). *Responsive teaching in science and mathematics*. Routledge.
+- Robertson, A. D., Scherr, R. E., & Hammer, D. (Eds.). (2016). *Responsive teaching in science and mathematics*. Routledge. [doi:10.4324/9781315689302](https://doi.org/10.4324/9781315689302)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

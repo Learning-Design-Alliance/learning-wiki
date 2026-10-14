@@ -150,10 +150,10 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](../strategies/reflection-tables-journals-debates-cultivate-ai-intuition.md)
 
 ## Key Sources
-- Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2).
+- Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2). [doi:10.1515/rpp-2015-0040](https://doi.org/10.1515/rpp-2015-0040)
 - Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [doi:10.1002/ace.7](https://doi.org/10.1002/ace.7)
 - Zeivots, S. (2016). Emotional highs in adult experiential learning. *Australian Journal of Adult Learning, 56*(3), 353-373.
-- Knowles, M. S., Holton, E. F., & Swanson, R. A. (2015). *The adult learner* (8th ed.).
+- Knowles, M. S., Holton, E. F., & Swanson, R. A. (2015). *The adult learner* (8th ed.). [doi:10.4324/9781315816951](https://doi.org/10.4324/9781315816951)
 - Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.

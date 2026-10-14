@@ -68,7 +68,7 @@ Assigning a grade is rarely a single, self-evident calculation — it bundles se
 
 ## Key Sources
 - Popham, W. J. (2005). *Classroom assessment: What teachers need to know* (4th ed.). Allyn & Bacon.
-- Cross, L. H., & Frary, R. B. (1999). Hodgepodge grading: Endorsed by students and teachers alike. *Applied Measurement in Education, 12*(1), 53-72.
+- Cross, L. H., & Frary, R. B. (1999). Hodgepodge grading: Endorsed by students and teachers alike. *Applied Measurement in Education, 12*(1), 53-72. [doi:10.1207/s15324818ame1201_4](https://doi.org/10.1207/s15324818ame1201_4)
 - Bishop, J. H. (1999). Are national exit examinations important for educational efficiency? *Swedish Economic Policy Review, 6*(2), 349-401.
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.
 - Arduini-Van Hoose, N. (2020). Grading and reporting. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

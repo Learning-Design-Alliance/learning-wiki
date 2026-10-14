@@ -68,7 +68,7 @@ Constructivism implies that learning strengthens when learners have to make sens
 - In literature, students generate an interpretation of a passage, test it against textual evidence, and then refine it in response to alternative readings.
 
 ## Key Sources
-- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press.
+- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press. [doi:10.17226/9853](https://doi.org/10.17226/9853)
 - Fosnot, C. T. (2013). *Constructivism: Theory, perspectives, and practice* (2nd ed.). Teachers College Press.
 
 <!-- merged 2026-10-02 from principles/constructivist-learning ("Constructivist Learning"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

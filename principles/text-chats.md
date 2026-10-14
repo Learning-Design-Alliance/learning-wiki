@@ -81,6 +81,6 @@ Text chats are useful when they create a lower-stakes written channel for learne
 
 ## Key Sources
 - Heafner, T., & Plaisance, M. (2014). Exploring synchronous text chat in remotely delivered early field experiences. *Journal of Interactive Learning Research, 25*(3), 327-352.
-- Lin, H. (2015). A meta-synthesis of empirical research on the effectiveness of computer-mediated communication in SLA. *Language Learning & Technology, 19*(2), 85-117.
+- Lin, H. (2015). A meta-synthesis of empirical research on the effectiveness of computer-mediated communication in SLA. *Language Learning & Technology, 19*(2), 85-117. [doi:10.64152/10125/44419](https://doi.org/10.64152/10125/44419)
 - Payne, J. S., & Whitney, P. J. (2002). Developing L2 oral proficiency through synchronous CMC: Output, working memory, and interlanguage development. *CALICO Journal, 20*(1), 7-32. [https://doi.org/10.1558/cj.v20i1.7-32](https://doi.org/10.1558/cj.v20i1.7-32)
-- Tare, M., Golonka, E. M., Vatz, K., Bonilla, C. L., Crooks, C., & Strong, R. (2014). Effects of interactive chat versus independent writing on L2 learning. *Language Learning & Technology, 18*(3), 208-227.
+- Tare, M., Golonka, E. M., Vatz, K., Bonilla, C. L., Crooks, C., & Strong, R. (2014). Effects of interactive chat versus independent writing on L2 learning. *Language Learning & Technology, 18*(3), 208-227. [doi:10.64152/10125/44391](https://doi.org/10.64152/10125/44391)

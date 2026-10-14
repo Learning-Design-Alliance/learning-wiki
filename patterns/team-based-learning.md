@@ -141,7 +141,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 
 ## Key Sources
 - Michaelsen, L. K., & Sweet, M. (2008). The essential elements of team-based learning. *New Directions for Teaching and Learning, 2008*(116), 7–27. [doi:10.1002/tl.330](https://doi.org/10.1002/tl.330)
-- Michaelsen, L. K., Knight, A. B., & Fink, L. D. (Eds.). (2002). *Team-based learning: A transformative use of small groups in college teaching*. Stylus Publishing.
+- Michaelsen, L. K., Knight, A. B., & Fink, L. D. (Eds.). (2002). *Team-based learning: A transformative use of small groups in college teaching*. Stylus Publishing. [doi:10.5040/9798216023364](https://doi.org/10.5040/9798216023364)
 - Parmelee, D., Michaelsen, L. K., Cook, S., & Hudes, P. (2012). Team-based learning: A practical guide. *Medical Teacher, 34*(5), e275–e287. [doi:10.3109/0142159x.2012.651179](https://doi.org/10.3109/0142159x.2012.651179)
 - Haidet, P., Levine, R. E., Parmelee, D. X., Crow, S., Kennedy, F., Kelly, P. A., Brienza, R., Schneider, V., & Richards, B. F. (2012). Perspective: Guidelines for reporting team-based learning activities in the medical and health sciences education literature. *Academic Medicine, 87*(3), 292–299. [doi:10.1097/acm.0b013e318244759e](https://doi.org/10.1097/acm.0b013e318244759e)
 - Michaelsen, L. K. (2004). Getting started with team-based learning. In L. K. Michaelsen, A. B. Knight, & L. D. Fink (Eds.), *Team-based learning: A transformative use of small groups in college teaching* (pp. 27-50). Stylus Publishing.

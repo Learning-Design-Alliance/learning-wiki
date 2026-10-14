@@ -129,7 +129,7 @@ This pattern is scoped to structured adversarial argument on a question that adm
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2), 183-190.
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2).
 - Healey, R. L. (2012). The power of debate. *Journal of Geography in Higher Education, 36*(2), 239-257. [doi:10.1080/03098265.2011.619522](https://doi.org/10.1080/03098265.2011.619522)
-- Chikeleze, M., Johnson, I., & Gibson, T. (2018). Let's argue. *Journal of Leadership Education, 17*(2).
+- Chikeleze, M., Johnson, I., & Gibson, T. (2018). Let's argue. *Journal of Leadership Education, 17*(2). [doi:10.12806/v17/i2/a4](https://doi.org/10.12806/v17/i2/a4)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the body it replaced, kept verbatim.
 

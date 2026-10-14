@@ -117,4 +117,4 @@ The pattern can work reasonably well for broad content coverage and for learners
 ## Key Sources
 - Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass.
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415. [https://doi.org/10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
-- Wieman, C. (2017). *Improving how universities teach science: Lessons from the science education initiative*. Harvard University Press.
+- Wieman, C. (2017). *Improving how universities teach science: Lessons from the science education initiative*. Harvard University Press. [doi:10.4159/9780674978911](https://doi.org/10.4159/9780674978911)

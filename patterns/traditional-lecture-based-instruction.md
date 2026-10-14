@@ -48,5 +48,5 @@ Lecture's effectiveness depends heavily on which of four common instructional ob
 ## Key Sources
 - Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass.
 - Dubin, R., & Taveggia, T. C. (1968). *The teaching-learning paradox: A comparative analysis of college teaching methods*. Center for the Advanced Study of Educational Administration, University of Oregon.
-- Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155.
+- Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [doi:10.1037/h0049171](https://doi.org/10.1037/h0049171)
 - Arduini-Van Hoose, N. (2020). Direct instruction: Lecture. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

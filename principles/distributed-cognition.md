@@ -79,5 +79,5 @@ Distributed cognition matters when successful performance depends on how learner
 **Studio or lab collaboration** — Different learners, tools, and artifacts each carry part of the cognitive work, and success depends on how well those pieces fit together.
 
 ## Key Sources
-- Hutchins, E. (1995). *Cognition in the wild*. MIT Press.
+- Hutchins, E. (1995). *Cognition in the wild*. MIT Press. [doi:10.7551/mitpress/1881.001.0001](https://doi.org/10.7551/mitpress/1881.001.0001)
 - Salomon, G. (Ed.). (1993). *Distributed cognitions*. Cambridge University Press.

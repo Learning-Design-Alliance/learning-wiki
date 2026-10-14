@@ -110,5 +110,5 @@ The canonical enumeration of the ten steps is in van Merriënboer and Kirschner'
 
 ## Key Sources
 - Frerejean, J., van Merriënboer, J. J. G., Kirschner, P. A., Roex, A., Aertgeerts, B., & Marcellis, M. *Designing Instruction for Complex Learning.* Ch. 24 in *Design for Learning*. EdTech Books. [https://edtechbooks.org/id/complex_learning](https://edtechbooks.org/id/complex_learning)
-- van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning: A systematic approach to four-component instructional design* (3rd ed.). Routledge.
+- van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning: A systematic approach to four-component instructional design* (3rd ed.). Routledge. [doi:10.4324/9781315113210](https://doi.org/10.4324/9781315113210)
 - Frerejean, J., van Merriënboer, J. J. G., Kirschner, P. A., Roex, A., Aertgeerts, B., & Marcellis, M. (2019). Designing instruction for complex learning: 4C/ID in higher education. *European Journal of Education, 54*(4), 513–524. [https://doi.org/10.1111/ejed.12363](https://doi.org/10.1111/ejed.12363)

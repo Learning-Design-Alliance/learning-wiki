@@ -117,9 +117,9 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - Particularly useful when instructors want both conceptual reasoning and process-skill development.
 
 ## Key Sources
-- Moog, R. S., & Spencer, J. N. (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series.
-- Purkayastha, S., Guntu, M., Ravindran, R., & Surapaneni, A. K. (2019). Learning gains of process-oriented guided inquiry learning in an online course setting. *Proceedings of the European Conference on E-Learning*, 495-504.
-- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series.
+- Moog, R. S., & Spencer, J. N. (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series. [doi:10.1021/bk-2008-0994](https://doi.org/10.1021/bk-2008-0994)
+- Purkayastha, S., Guntu, M., Ravindran, R., & Surapaneni, A. K. (2019). Learning gains of process-oriented guided inquiry learning in an online course setting. *Proceedings of the European Conference on E-Learning*, 495-504. [doi:10.34190/eel.19.124](https://doi.org/10.34190/eel.19.124)
+- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series. [doi:10.1021/bk-2008-0994](https://doi.org/10.1021/bk-2008-0994)
 
 <!-- merged 2026-10-02 from patterns/pogil ("POGIL"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 

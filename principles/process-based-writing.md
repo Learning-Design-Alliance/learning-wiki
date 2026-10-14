@@ -184,7 +184,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.
-- Wei, Z., Shang, H., & Briody, P. (2012). The relationship between English writing ability levels and EFL learners' metacognitive behaviour in the writing process. *International Journal of Academic Research in Progressive Education and Development, 1*(4), 154-180.
+- Wei, Z., Shang, H., & Briody, P. (2012). The relationship between English writing ability levels and EFL learners' metacognitive behaviour in the writing process. *International Journal of Academic Research in Progressive Education and Development, 1*(4), 154-180. [doi:10.6007/ijarped/v1-i4/12012](https://doi.org/10.6007/ijarped/v1-i4/12012)
 - Fernandez, R., Peyton, J. K., & Schaetzel, K. (2017). A survey of writing instruction in adult ESL programs: Are teaching practices meeting adult learner needs? *COABE Journal, 6*(2), 5.
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7
 

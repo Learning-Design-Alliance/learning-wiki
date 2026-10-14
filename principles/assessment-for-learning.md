@@ -126,7 +126,7 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 - Hawe, E., & Dixon, H. (2017). Assessment for learning: A catalyst for student self-regulation. *Assessment & Evaluation in Higher Education, 42*(8), 1181-1192. [https://doi.org/10.1080/02602938.2016.1236360](https://doi.org/10.1080/02602938.2016.1236360)
 - Dweck, C. S. (2000). *Self-theories: Their role in motivation, personality, and development*. Psychology Press.
 - Harlen, W. (2006). On the relationship between assessment for formative and summative purposes. In J. Gardner (Ed.), *Assessment and learning* (pp. 103-117). Sage.
-- Patrick, H., Anderman, L. H., Ryan, A. M., Edelin, K. C., & Midgley, C. (2001). Teachers' communication of goal orientations in four fifth-grade classrooms. *The Elementary School Journal, 102*(1), 35-58.
+- Patrick, H., Anderman, L. H., Ryan, A. M., Edelin, K. C., & Midgley, C. (2001). Teachers' communication of goal orientations in four fifth-grade classrooms. *The Elementary School Journal, 102*(1), 35-58. [doi:10.1086/499692](https://doi.org/10.1086/499692)
 - Arduini-Van Hoose, N. (2020). Teacher's purpose and belief. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Mustafa Metin. (2022). Comparing Effects of Two Different Explicit–Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge. Journal of Science Learning, 5(1), 165-175. https://doi.org/10.17509/jsl.v5i1.33190
 

@@ -145,22 +145,22 @@ Response quality during questioning, accuracy of the teacher's judgement, partic
 
 ## Key Sources
 - Cazden, C. B. (2001). *Classroom discourse: The language of teaching and learning* (2nd ed.). Heinemann.
-- Tharp, R. G. (1989). Psychocultural variables and constants: Effects on teaching and learning in schools. *American Psychologist, 44*(2), 349-359.
-- Dillon, D. (1989). Showing them that I want them to learn and that I care about who they are: A microethnography of the social organization of a secondary low-track English-reading classroom. *American Educational Research Journal, 26*(2), 227-259.
+- Tharp, R. G. (1989). Psychocultural variables and constants: Effects on teaching and learning in schools. *American Psychologist, 44*(2), 349-359. [doi:10.1037//0003-066x.44.2.349](https://doi.org/10.1037//0003-066x.44.2.349)
+- Dillon, D. (1989). Showing them that I want them to learn and that I care about who they are: A microethnography of the social organization of a secondary low-track English-reading classroom. *American Educational Research Journal, 26*(2), 227-259. [doi:10.3102/00028312026002227](https://doi.org/10.3102/00028312026002227)
 - Bowers, C. A., & Flinders, D. J. (1990). *Responsive teaching: An ecological approach to classroom patterns of language, culture, and thought*. Teachers College Press.
-- Rogers, R., Malancharuvil-Berkes, E., Mosley, M., Hui, D., & Joseph, G. O. (2005). Critical discourse analysis in education: A review of the literature. *Review of Educational Research, 75*(3), 365-416.
-- Minami, M. (2002). *Culture-specific language styles: The development of oral narrative and literacy*. Multilingual Matters.
+- Rogers, R., Malancharuvil-Berkes, E., Mosley, M., Hui, D., & Joseph, G. O. (2005). Critical discourse analysis in education: A review of the literature. *Review of Educational Research, 75*(3), 365-416. [doi:10.3102/00346543075003365](https://doi.org/10.3102/00346543075003365)
+- Minami, M. (2002). *Culture-specific language styles: The development of oral narrative and literacy*. Multilingual Matters. [doi:10.21832/9781853595752](https://doi.org/10.21832/9781853595752)
 - Torres-Guzman, M. E. (1998). Language, culture, and literacy in Puerto Rican communities. In B. Perez (Ed.), *Sociocultural contexts of language and literacy* (pp. 63-86). Erlbaum.
-- Beaulieu, C. (2004). Intercultural study of personal space: A case study. *Journal of Applied Social Psychology, 34*(4), 794-805.
-- Tharp, R. G., & Gallimore, R. (1989). *Rousing minds to life: Teaching, learning, and schooling in social context*. Cambridge University Press.
-- Macbeth, D. (2003). Hugh Mehan's *Learning Lessons* reconsidered: On the differences between the naturalistic and critical analysis of classroom discourse. *American Educational Research Journal, 40*(1), 239-280.
+- Beaulieu, C. (2004). Intercultural study of personal space: A case study. *Journal of Applied Social Psychology, 34*(4), 794-805. [doi:10.1111/j.1559-1816.2004.tb02571.x](https://doi.org/10.1111/j.1559-1816.2004.tb02571.x)
+- Tharp, R. G., & Gallimore, R. (1989). *Rousing minds to life: Teaching, learning, and schooling in social context*. Cambridge University Press. [doi:10.1017/cbo9781139173698](https://doi.org/10.1017/cbo9781139173698)
+- Macbeth, D. (2003). Hugh Mehan's *Learning Lessons* reconsidered: On the differences between the naturalistic and critical analysis of classroom discourse. *American Educational Research Journal, 40*(1), 239-280. [doi:10.3102/00028312040001239](https://doi.org/10.3102/00028312040001239)
 - Rogoff, B. (2003). *The cultural nature of human development*. Oxford University Press.
 - Greenfield, P. M. (1994). Independence and interdependence as developmental scripts: Explicit and implicit. In P. M. Greenfield & R. R. Cocking (Eds.), *Cross-cultural roots of minority child development* (pp. 1-40). Erlbaum.
-- Greenfield, P. M., Keller, H., Fuligni, A., & Maynard, A. (2003). Cultural pathways through universal development. *Annual Review of Psychology, 54*, 461-490.
+- Greenfield, P. M., Keller, H., Fuligni, A., & Maynard, A. (2003). Cultural pathways through universal development. *Annual Review of Psychology, 54*, 461-490. [doi:10.1146/annurev.psych.54.101601.145221](https://doi.org/10.1146/annurev.psych.54.101601.145221)
 - Johnson, D. W., & Johnson, R. T. (1998). *Cooperative learning and social interdependence theory*. University of Minnesota.
 - Cohen, E. G. (2004). *Designing groupwork: Strategies for the heterogeneous classroom* (3rd ed.). Teachers College Press.
-- Mehan, H. (1979). *Learning lessons: Social organization in the classroom*. Harvard University Press.
-- Ogbu, J. U., & Davis, A. (2003). *Black American students in an affluent suburb: A study of academic disengagement*. Erlbaum.
+- Mehan, H. (1979). *Learning lessons: Social organization in the classroom*. Harvard University Press. [doi:10.4159/harvard.9780674420106](https://doi.org/10.4159/harvard.9780674420106)
+- Ogbu, J. U., & Davis, A. (2003). *Black American students in an affluent suburb: A study of academic disengagement*. Erlbaum. [doi:10.4324/9781410607188](https://doi.org/10.4324/9781410607188)
 - Carter, P. L. (2005). *Keepin' it real: School success beyond black and white*. Oxford University Press.
 - Banks, J. A. (2009). *Teaching strategies for ethnic studies* (8th ed.). Allyn & Bacon.
 - Arduini-Van Hoose, N. (2020). Cultural differences in the classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

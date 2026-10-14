@@ -143,7 +143,7 @@ Assisted success during practice, unaided immediate performance, delayed retenti
 - National Research Council. (2012). *Improving adult literacy instruction: Supporting learning and motivation*. National Academies Press. [https://doi.org/10.17226/13468](https://doi.org/10.17226/13468)
 - Numrich, C., & Kennedy, A. S. (2017). Providing guided practice in discourse synthesis. *TESOL Journal, 8*(1), 28-43. [https://doi.org/10.1002/tesj.258](https://doi.org/10.1002/tesj.258)
 - Massengill, D. (2004). The impact of using guided reading to teach low-literate adults. *Journal of Adolescent & Adult Literacy, 47*(7), 588-602.
-- Hua, Y., Morgan, B. S., Kaldenberg, E. R., & Goo, M. (2012). Cognitive strategy instruction for functional mathematical skill: Effects for young adults with intellectual disability. *Education and Training in Autism and Developmental Disabilities, 47*(3), 345-358.
+- Hua, Y., Morgan, B. S., Kaldenberg, E. R., & Goo, M. (2012). Cognitive strategy instruction for functional mathematical skill: Effects for young adults with intellectual disability. *Education and Training in Autism and Developmental Disabilities, 47*(3), 345-358. [doi:10.1177/215416471204700309](https://doi.org/10.1177/215416471204700309)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 

@@ -165,8 +165,8 @@ Achievement on the grouped task, delayed retention, participation, belonging and
 ## Key Sources
 - Burris, C. C., Heubert, J. P., & Levin, H. M. (2006). Accelerating mathematics achievement using heterogeneous grouping. *American Educational Research Journal, 43*(1), 137-154. [doi:10.3102/00028312043001105](https://doi.org/10.3102/00028312043001105)
 - Castle, S., Deniz, C. B., & Tortora, M. (2005). Flexible grouping and student learning in a high-needs school. *Education and Urban Society, 37*(2), 139-150. [doi:10.1177/0013124504270787](https://doi.org/10.1177/0013124504270787)
-- Bedford, L., Wiebe, M., & Tschida, M. (2008). Flexible grouping in the higher education learning environment. *Transformative Dialogues, 1*(3).
-- Colón, G., Zgliczynski, T., & Maheady, L. (2022). Using flexible grouping. In *High leverage practices for inclusive classrooms*.
+- Bedford, L., Wiebe, M., & Tschida, M. (2008). Flexible grouping in the higher education learning environment. *Transformative Dialogues, 1*(3). [doi:10.59236/td2008vol1iss3639](https://doi.org/10.59236/td2008vol1iss3639)
+- Colón, G., Zgliczynski, T., & Maheady, L. (2022). Using flexible grouping. In *High leverage practices for inclusive classrooms*. [doi:10.4324/9781003148609-23](https://doi.org/10.4324/9781003148609-23)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description

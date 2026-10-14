@@ -162,8 +162,8 @@ This pattern is scoped to repeated loops of experience, prompted debrief, stated
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.
 - Kolb, A. Y., & Kolb, D. A. (2005). Learning styles and learning spaces: Enhancing experiential learning in higher education. *Academy of Management Learning & Education, 4*(2), 193–212. [doi:10.5465/amle.2005.17268566](https://doi.org/10.5465/amle.2005.17268566)
-- Bergsteiner, H., Avery, G. C., & Neumann, R. (2010). Kolb's experiential learning model: Critique from a modelling perspective. *Studies in Continuing Education, 32*(1), 29–46.
-- Miettinen, R. (2000). The concept of experiential learning and John Dewey's theory of reflective thought and action. *International Journal of Lifelong Education, 19*(1), 54–72.
+- Bergsteiner, H., Avery, G. C., & Neumann, R. (2010). Kolb's experiential learning model: Critique from a modelling perspective. *Studies in Continuing Education, 32*(1), 29–46. [doi:10.1080/01580370903534355](https://doi.org/10.1080/01580370903534355)
+- Miettinen, R. (2000). The concept of experiential learning and John Dewey's theory of reflective thought and action. *International Journal of Lifelong Education, 19*(1), 54–72. [doi:10.1080/026013700293458](https://doi.org/10.1080/026013700293458)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 

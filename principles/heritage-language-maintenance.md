@@ -64,8 +64,8 @@ Most children worldwide grow up bilingual or multilingual; the United States is 
 
 ## Key Sources
 - Hansen, L., Umeda, Y., & McKinney, M. (2002). Ragged interlanguage morphology and orders of acquisition issues. *Journal of Multilingual and Multicultural Development, 23*(1-2), 6-20.
-- Jimenez, R. T., Garcia, G. E., & Pearson, P. D. (1995). Three children, two languages, and strategic reading: Case studies in bilingual/monolingual reading. *American Educational Research Journal, 32*(1), 67-97.
+- Jimenez, R. T., Garcia, G. E., & Pearson, P. D. (1995). Three children, two languages, and strategic reading: Case studies in bilingual/monolingual reading. *American Educational Research Journal, 32*(1), 67-97. [doi:10.2307/1163214](https://doi.org/10.2307/1163214)
 - Francis, N. (2006). Bilingual competence and bilingual proficiency in children. In J. Kroll & A. De Groot (Eds.), *Handbook of bilingualism* (pp. 137-163). Oxford University Press.
-- Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*, 251-263.
+- Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*, 251-263. [doi:10.1044/0161-1461(2005/025)](https://doi.org/10.1044/0161-1461(2005/025))
 - Meyers-Sutton, C. (2005). Multilingualism. In J. L. Berko Gleason (Ed.), *The development of language* (pp. 407-444). Allyn & Bacon.
 - Arduini-Van Hoose, N. (2020). Language development. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

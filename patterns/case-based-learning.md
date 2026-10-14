@@ -108,9 +108,9 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 
 ## Key Sources
 - Herreid, C. F. (2011). *Case study teaching*. NSTA Press.
-- Kaddoura, M. A. (2011). Critical thinking skills of nursing students in lecture-based teaching and case-based learning. *International Journal for the Scholarship of Teaching and Learning, 5*(2).
+- Kaddoura, M. A. (2011). Critical thinking skills of nursing students in lecture-based teaching and case-based learning. *International Journal for the Scholarship of Teaching and Learning, 5*(2). [doi:10.20429/ijsotl.2011.050220](https://doi.org/10.20429/ijsotl.2011.050220)
 - Hoffer, E. R. (2020). Case-based teaching: Using stories for engagement and inclusion. *International Journal on Social and Educational Sciences, 2*(2), 75-80.
-- Vinney, L., Friberg, J. C., & Smyers, M. (2019). Case-based perspective-taking as a mechanism to improve metacognition and higher-level thinking. *Journal of the Scholarship of Teaching and Learning, 19*(3), 91-104.
+- Vinney, L., Friberg, J. C., & Smyers, M. (2019). Case-based perspective-taking as a mechanism to improve metacognition and higher-level thinking. *Journal of the Scholarship of Teaching and Learning, 19*(3), 91-104. [doi:10.14434/josotl.v19i2.24006](https://doi.org/10.14434/josotl.v19i2.24006)
 - Ellet, W. (2007). *The case study handbook: How to read, discuss, and write persuasively about cases*.
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
