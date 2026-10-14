@@ -41,8 +41,11 @@ Table II reports average normalized gains for students in the authors' courses o
 
 ## Discussion
 
-
 ## Related Claims
+
+- [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — the general claim this finding bears on, with the studies behind it
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
 - [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](explicit-reasoning-instruction-preliminary-large-gains.md) — related
 - [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — related

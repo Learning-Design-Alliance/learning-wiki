@@ -56,8 +56,9 @@ Cycle-level comparisons of feedback actionability and comprehension. Actionabili
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [AI-teacher diagnostic agreement was higher in the Diagnostic Review class and varied by issue type, with local language issues best diagnosed](ai-teacher-agreement-issue-type-variation.md) — related
 - [Feedback comprehension showed the strongest bivariate association with revision quality, and indirect associations through actionability and comprehension remained positive after adjustment](comprehension-strongest-link-revision-quality.md) — related
 - [Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revision quality, and self-assessment accuracy, but not for actionability](group-cycle-interactions-formative-outcomes.md) — related

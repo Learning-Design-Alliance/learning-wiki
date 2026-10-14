@@ -41,6 +41,7 @@ Survey comparison of two belief-based items between platform users (n = 19) and 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-motor-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](ai-helper-usability-obstacles.md) — related

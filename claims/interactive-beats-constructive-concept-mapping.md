@@ -45,6 +45,8 @@ The article reports, citing prior ICAP papers, a study comparing concept-mapping
 The only entry is Chi et al.'s (2018) one-sentence summary of a prior study they cite; its design, sample, outcome and effect size are not given, so the Interactive-over-Constructive comparison rests here on a second-hand report. The cited primary study has not been identified or read for this page.
 
 ## Related Claims
+
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — related

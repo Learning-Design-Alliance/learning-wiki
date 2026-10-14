@@ -41,8 +41,9 @@ Secondary qualitative finding from the gateway math study. The report states "st
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](formative-feedback-constraints-gateway-math.md) — related
 - [Social engagement in gateway math courses builds confidence and deepens understanding, dependent on faculty fostering a supportive learning environment](social-engagement-builds-confidence-gateway-math.md) — related
 - [Well-designed courseware enhances efficiency, supports independent student navigation, and lets faculty focus on teaching rather than technical challenges](courseware-efficiency-usability-gateway-math.md) — related

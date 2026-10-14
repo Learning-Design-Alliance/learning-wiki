@@ -41,6 +41,20 @@ Stockard, J., Wood, T. W., Coughlin, C., & Rasplica Khoury, C. (2018). The Effec
 
 Quantitative mixed models pooled literature from 1966–2016 on curricula built on Engelmann's Direct Instruction model (explicit, scripted, teacher-led sequences with modeling, guided and independent practice), covering reading, math, language, spelling and other academic subjects as well as ability measures, affective outcomes, and teacher/parent views. Every estimated effect was positive and statistically significant except affective-outcome metaregressions; effects were "educationally significant, moderate to large when using the traditional psychological benchmarks," held up during maintenance, and grew larger with more program exposure.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does adopting a scripted Direct Instruction programme raise achievement in schools, and what does it depend on?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (2 causal, 1 quant-synthesis, 1 qualitative, 1 review), `q1`–`q4`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Stockard et al. 2018](https://doi.org/10.3102/0034654317751919) | q4 · quant-synthesis · r? | i? | this claim |
+| Mosley 1997 | q1 / q2 · causal · r1 | i? | [Prior research reviewed in the article reports higher basic-skills achievement for Direct ](prior-research-direct-instruction-higher-achievement.md) (supports); [The author concludes, citing Englemann, that students must be taught in the Direct Instruc](direct-instruction-two-years-before-significant-difference.md) (qualifies); [Sixth-grade students taught with Direct Instruction showed no statistically significant di](direct-instruction-no-significant-reading-difference-sixth-grade.md) (counts against) |
+| Bruce Thompson 2006 | q2 · causal · r1 | i? | [Direct Instruction schools' ratings rose significantly only when the program was fully sup](direct-instruction-gains-depend-on-implementation-support.md) (qualifies) |
+| [Tricia A. Zucker 2021](https://doi.org/10.1080/10409289.2020.1839288) | q2 · qualitative · r? | i? | [Teachers adhered less to scaffolding than to fully scripted curriculum components across t](scaffolding-lower-adherence-than-scripted-components.md) (qualifies) |
+| Gall 1994 | q2 · review · r2 | i? | [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of ](itip-lacks-empirical-evidence-achievement.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Novice–expert boundary.** The strongest support for direct instruction concerns learners with low prior knowledge, who lack the schemas to benefit from unguided exploration [+S]. As expertise grows, the advantage shrinks and can reverse [~S] — the same expertise-reversal dynamic documented for [worked examples](../elements/demonstration.md) and captured in the [expertise reversal effect](../theories/expertise-reversal-effect.md). Direct instruction should therefore be treated as a starting point that fades, not a permanent default.

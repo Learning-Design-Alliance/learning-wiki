@@ -39,6 +39,18 @@ Pearson correlation analysis of pedagogical items with civic competence outcome 
 
 > "The pedagogical practices with the strongest relationships to civic competence were exploration of diversity (r = .552) and a syllabus that clearly connects service work to course content ( r = .569)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which course features go with better outcomes: an explicit link to course concepts, diversity, structured reflection?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 associational, 1 causal, 1 qualitative), `q1`–`q2`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Stokamer 2013 | q2 · associational · r1 | i3 · r = .569 (i3 under r bins); i2 | this claim; [Exploration of diversity is associated with all civic competence outcomes in community-bas](diversity-enhances-all-civic-competence-outcomes.md) (supports) |
+| [Sturgill 2014](https://doi.org/10.20343/teachlearninqu.2.1.81) | q2 · causal · r1 | i? | [Guided written reflection yields more analytic and integrative paragraphs than free reflec](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) (supports) |
+| [Engeström & Käyhkö 2021](https://doi.org/10.1080/10508406.2021.1908296) | q1 · qualitative · r2 | i0 · no quantified effect; interpretive finding | [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 One correlational analysis of a five-year course-evaluation dataset is recorded. "Strongest" means strongest among the pedagogical items in that dataset, and only narrowly: exploration of diversity correlated at r = .552 against the syllabus item's .569. A correlation does not show that writing such a syllabus raises civic competence. (Impact code corrected 2026-10-05 from `i2`: r = .569 is i3 under r bins.)

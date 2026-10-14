@@ -31,13 +31,31 @@ sources:
 # Chunking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 10 studies (4 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 design), `q1`–`q4` · 2 of 10 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (7 for, 6 mixed) · 12 studies (5 causal, 3 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 3 of 12 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
 For a learner who cannot yet treat the elements of a particular task as familiar units (a **novice on that task**, not necessarily in the wider domain), on material **high in element interactivity** or presented transiently (narrated animation, video, a long run of directions), presenting the material in **meaningful units with boundaries at conceptual breaks**, and then deliberately recombining those units, is expected to ease processing during study and may improve **immediate performance** or **near transfer**, compared with the same material presented as one continuous or ungrouped stream. What counts as one unit is not a property of the material: it depends on what the learner already holds as a chunk, so the same grouping can be necessary for one learner and redundant for another. Whether the gain survives to **delayed retention**, and whether it shows in performance or only in reported effort, has to be stated for each design. The wiki holds no claim that tests designer-grouped (as distinct from time-segmented) static material against ungrouped material; the instructional evidence below is mostly about segmenting transient media, plus one weak study of study-outline length.
 
 This page owns the narrower question inside load management: **what size a unit is, where its boundaries fall, and how units are recombined**. [Cognitive Load Theory](cognitive-load-theory.md) states the general relationship that removing avoidable processing helps task-specific novices on high-element-interactivity material, and treats segmentation as one of several load-reducing techniques; its expertise qualification applies here and is not restated. No chunking pattern exists; strategies that apply this relationship include [Chunking Content](../strategies/chunking-content.md) and [chunked animations with pauses](../strategies/chunked-animations-with-pauses.md), and [Keep chunking study outlines short](chunking.md) is a narrower principle from one study.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **is the material transient (video, narrated animation, a live lecture) or static text?**, **who controls the pace, the system or the learner?**, and **how much do these learners already know about this task?**
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The content is a narrated animation or explainer video | Break it into segments at conceptual breaks, with a pause or a "continue" button between them | [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M]; [Learner-paced segments improved transfer](../claims/segmenting-principle-mayer-2008.md) [+M] |
+| Recorded lectures for `online-self-paced` study | Split long recordings into several shorter videos, each on one idea | [Long recorded lectures impeded focus](../claims/long-recorded-lectures-impeded-focus.md) [+W]; [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M] |
+| The pace is set by the system (a broadcast, a live lecture, autoplay video) | Segment it; the segmenting effects were confirmed for system-paced segmentation | [Segmenting effects confirmed for system-paced segmentation](../claims/segmenting-effects-confirmed-system-paced.md) [+M] |
+| The plan is to give learners stop/play controls instead of designed segments | Design the segments as well; in one experiment the stop/play buttons were rarely used, and learner control in general showed almost no effect | [Learner pacing helped on complex material; learner control in general showed almost no effect](../claims/learner-paced-beats-system-paced-complex-material.md) [~M] |
+| Session time is tight | Budget extra time for segmented material; segmenting lengthens learning time | [Segmentation increases learning time](../claims/segmenting-increases-learning-time.md) [~M] |
+| The material is simple, with few elements to relate | Expect little from segmenting it; spend the effort elsewhere. The gains reported are for complex material | [Learner pacing helped on complex material only](../claims/learner-paced-beats-system-paced-complex-material.md) [~M] |
+| Learners already know the topic well | Keep segments for retention, but offer longer units or a skip option and check with a changed problem; the evidence on prior knowledge points both ways | [High prior knowledge benefited more on retention](../claims/prior-knowledge-moderates-segmenting-retention.md) [~M]; [Segmentation's efficiency advantage disappeared at higher prior knowledge](../claims/segmentation-benefits-shrink-with-expertise.md) [~M] |
+| Learners include people with ADHD or attention difficulties | Segment instructional videos; in one study segmented videos cut hesitations sharply for participants with ADHD | [Segmented videos reduce hesitations for participants with ADHD](../claims/segmentation-reduces-hesitations-adhd-participants.md) [+W] |
+| Learners study from a printed text with a study outline | Keep the outline short | [Short chunking study outlines beat long ones](../claims/short-cso-improves-test-performance.md) [+W] |
+| Learners must memorise a list (terms, steps, codes) | Group the items into a few groups that mean something to these learners, rather than one long list | [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) [+W] |
+| The goal is the whole task, not each unit | After the units, add a task that uses them together, and check that whole performance at a delay | untested proposal |
 
 ## Observation, state and explanation
 
@@ -62,6 +80,15 @@ These rows are proposals, untested with learners. The probes can shift confidenc
 - [Short chunking study outlines produce higher test performance than long chunking study outlines](../claims/short-cso-improves-test-performance.md) [+W]: the only recorded comparison of unit size in a study aid. Two general-psychology classes used short or long outlines for three chapters each, order counterbalanced, quasi-experimental; short outlines scored higher on a 40-item multiple-choice immediate posttest (t(51) = 2.73, means 1.50 points apart). Conference paper, rigour r1, not yet checked against its sources. It does not show what made the long outline worse (length, added definitions, or study time).
 
 Keep learners, material, unit size, pacing control, comparator, outcome and horizon with each result when transporting it. Efficiency, effort and performance are different outcomes; a non-significant difference is not equivalence; and none of these results says what unit size suits an individual learner.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/chunking.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does breaking transient material (animation, video, narration) into segments improve learning over a continuous presentation? [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]: 4 distinct studies.
+- For whom: does the benefit depend on prior knowledge or learner characteristics? [Segmentation Benefits Shrink With Expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [~M]: 3 distinct studies.
+- Who should control the pace: the system or the learner? [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~S]: 5 distinct studies.
+- How large should a unit be, and does grouping static material help? [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]: 4 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Kept 2026-10-02 (maintainer's decision of 2026-10-01): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

@@ -59,6 +59,22 @@ Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example stud
 
 Across a field experiment and two laboratory experiments, the authors compared a gradual transition from complete examples to increasingly incomplete examples and independent problems with static example–problem arrangements. Their results favored fading at least for **near transfer**; learning-phase errors played a role in mediating the effect, and removing the last worked-out steps first was more favorable than removing the first steps first. This is a report of three experiments, not one experiment with 71 participants, and it does not establish a universal far-transfer or fading-rate effect.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should support be withdrawn, and in what order?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **7 distinct studies** (4 causal, 1 review, 1 qualitative, 1 quant-synthesis), `q2`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [van de Pol et al. 2010](https://doi.org/10.1007/s10648-010-9127-6) | q3 · review · r2 | i? | this claim |
+| [Renkl et al. 2002](https://doi.org/10.1080/00220970209599510) | q3 · causal · r? | i? | this claim |
+| [Renkl 2004](https://doi.org/10.1023/b:truc.0000021815.74806.f6) | q2 · causal · r? | i? | [Successively fading out worked solution steps is effective for facilitating the transition](fading-worked-steps-facilitates-example-to-problem-transition.md) (supports); [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) (supports); [Fading is associated with fewer unproductive learning events, which the authors link to be](fading-fewer-unproductive-learning-events.md) (supports); [The position of faded worked solution steps did not influence learning outcomes in Experim](faded-step-position-no-learning-outcome-effect.md) (qualifies); [No effect of fading on productive learning events including self-explanations was found in](fading-no-effect-productive-learning-events.md) (qualifies) |
+| [Atkinson, Renkl & Merrill 2003](https://doi.org/10.1037/0022-0663.95.4.774) | q3 · causal · r? | i? | [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) (supports) |
+| [Ali Bicer 2026](https://doi.org/10.1007/s11858-026-01816-1) | q2 · qualitative · r3 | i? | [Progressive scaffold fading moved teachers from guided participation toward independent ju](ai-scaffold-fading-independent-justification.md) (supports) |
+| [Groff 2011](https://doi.org/10.1901/jaba.2011.44-949) | q2 · causal · r1 | i1 | [Cup-drinking performance was poor during early fading steps and improved only near the ter](early-fading-steps-poor-cup-probes.md) (qualifies) |
+| [Belland 2017](https://doi.org/10.3102/0034654316670999) | q3 · quant-synthesis · r? | i? | [Scaffolding's effect did not vary by customization (fading/adding), change logic, or scope](scaffolding-design-features-no-moderation.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 This is sometimes called the "completion effect" in cognitive load literature. However, fading must be carefully timed; removing support too early can cause cognitive overload.
 

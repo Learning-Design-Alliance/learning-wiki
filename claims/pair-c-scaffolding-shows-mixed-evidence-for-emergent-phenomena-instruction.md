@@ -47,6 +47,8 @@ Pre-service teachers learned natural selection using NetLogo agent-based simulat
 This is a single-domain (natural selection), single-population (pre-service teachers, not K-12 students) quasi-experiment with a modest sample (n=50). Only the near-transfer result cleared conventional statistical significance; the deep-understanding and misconception-reduction results are trends, not confirmed effects, and should not be reported as "PAIR-C significantly improves deep understanding" without that qualification. The complete absence of far transfer in both groups suggests that naming and contrasting the five dimensions within one domain is not, by itself, sufficient for learners to recognize the same causal structure in an unfamiliar emergent phenomenon — the authors suggest explicit cross-domain analogical comparison (per Jacobson et al., 2020) may be needed for that. Persistence of gains beyond the immediate posttest was not measured.
 
 ## Related Claims
+
+- [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — PAIR-C is a form of dimension-targeted, contingent scaffolding aimed at learners' specific misconceptions
 - [Analogical Reasoning Improves Transfer](analogical-reasoning-improves-transfer.md) — related
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related

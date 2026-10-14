@@ -43,6 +43,8 @@ Experiment 1 randomized 78 university students in a 2×2 design. Tasks taught pr
 
 ## Related Claims
 
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — the general claim this finding bears on, with the studies behind it
+
 - [Four-arm novice circuit contrast](worked-example-problem-sequences.md)
 - [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](faded-step-position-no-learning-outcome-effect.md) — related
 - [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](fading-worked-steps-facilitates-example-to-problem-transition.md) — a broader claim this one bears on

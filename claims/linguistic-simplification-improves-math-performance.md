@@ -37,6 +37,19 @@ The article reports, citing Abedi and Lord (2001), that "linguistic simplificati
 
 > "Abedi and Lord (2001) found that linguistic simplification of math word problems resulted in improved performance, particularly among English language learners and students from low-socioeconomic back-grounds."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does simplifying or adjusting the wording help, and does it last?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (1 theoretical, 1 design, 1 review, 1 causal), `q2`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [anchor-lang](https://doi.org/10.51388/20.500.12265/206) | q2 · theoretical · r2 | i? | this claim |
+| [Arifani 2016](https://doi.org/10.5539/ies.v9n2p111) | q2 · design · r3 | i? | [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the sec](simplification-and-glossary-supported-second-cycle-gains.md) (supports) |
+| Ellis 1991 | q2 · review · r3 | i? | [Interactionally modified input aids comprehension but shows no advantage for retention amo](interactionally-modified-input-aids-comprehension-not-retention.md) (qualifies); [Interactionally adjusted and premodified input yield statistically comparable comprehensio](negotiation-benefit-limited-lower-ability-learners.md) (qualifies) |
+| Gagne 1981 | q2 · causal · r? | i0 | [Passage cohesion showed no effect on delayed recall; means showed greater recall from less](cohesion-no-effect-delayed-recall.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -41,8 +41,9 @@ Crossover RCT in an undergraduate physics course: students took a pre-test, expe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [The AI-tutoring advantage holds across prior-ability and scientific-attitude subpopulations](ai-tutor-advantage-holds-subpopulations.md) — related
 - [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related
 - [Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)](ai-tutor-regression-large-effect-size.md) — possibly the same claim (merge candidate)

@@ -78,6 +78,23 @@ Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Suppo
 
 Stefanou and colleagues propose that classroom autonomy support takes at least three forms: organisational (a decision-making role in classroom management), procedural (choices such as which media to use to present ideas) and cognitive (opportunities to evaluate work against a self-referent standard). They illustrate the proposal with vignettes of teachers rather than a review of evidence, and suggest the forms have different outcomes: organisational support may encourage well-being and comfort with how the classroom runs, procedural support initial engagement, and cognitive support a more enduring investment in deep-level thinking. The abstract makes these suggestions as a proposition, not as findings.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (3 review, 2 theoretical, 1 quant-synthesis, 1 causal, 1 associational), `q1`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ryan Deci 2000](https://doi.org/10.1037/0003-066x.55.1.68) | q2 · review · r? | i? | this claim |
+| [Deci Koestner Ryan 1999](https://doi.org/10.1037/0033-2909.125.6.627) | q4 · quant-synthesis · r2 | i2 · medium effect, d = -0.4 | this claim |
+| [Stefanou et al 2004](https://doi.org/10.1207/s15326985ep3902_2) | q1 · theoretical · r2 | i? | this claim |
+| Jennifer D. Moss 2017 | q1 · theoretical · r2 | i? | [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students ](autonomy-support-versus-controlling-teaching.md) (supports) |
+| Digital Promise and the Institute for Applied Neuroscience 2019 | q2 · review · r1 | i? | [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper process](interest-autonomy-purpose-boost-motivation.md) (supports) |
+| [Yu S 2026](https://doi.org/10.3389/fpsyg.2026.1937845) | q3 · causal · r3 | i? | [Instructional approach operates indirectly through autonomy and competence, while task typ](differentiated-mediation-autonomy-competence.md) (supports) |
+| [Li 2026](https://doi.org/10.3389/fpsyg.2026.1871022) | q3 · associational · r2 | i? | [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) (qualifies) |
+| [Hansol Lee 2026](https://doi.org/10.1186/s40561-026-00461-1) | q2 · review · r3 | i? | [Teacher support in AI-based instruction is effective only when balanced with students' aut](teacher-support-benefits-conditional-on-autonomy-balance.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Autonomy support does not mean unlimited freedom. The research consistently shows that autonomy works best when paired with structure: clear goals, transparent standards, and sufficient support for learners to choose well. For novices especially, premature autonomy can produce anxiety rather than motivation — see [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md). The design implication is bounded choice: vary the path while holding the destination stable.

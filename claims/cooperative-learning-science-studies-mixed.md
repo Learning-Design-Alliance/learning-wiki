@@ -79,8 +79,9 @@ Sherman (1989) compared Group Investigation with individual work in two approxim
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](cooperative-conceptual-change-chemistry-misconceptions.md) — related
 - [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — reports the opposite
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related

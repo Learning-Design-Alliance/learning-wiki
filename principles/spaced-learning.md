@@ -59,7 +59,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (18 for, 9 mixed, 1 unmarked) · 25 studies (14 causal, 5 quant-synthesis, 5 review, 1 theoretical), `q2`–`q4` · 7 of 25 report an effect size · 23 claims rest on one study
+> **Evidence** · 34 claims (22 for, 11 mixed, 1 unmarked) · 28 studies (15 causal, 7 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 27 claims rest on one study
 
 ## Description
 
@@ -96,6 +96,34 @@ If six of ten words are recalled today, that is a sample response, not a calibra
 A word-pair experiment separated total retrieval spacing from its relative arrangement: after first correct recall, repeated retrievals with intervening trials improved one-week recall relative to massed retrieval. At matched total nominal spacing, expanding, equal and contracting arrangements did not differ detectably: [absolute versus relative spacing observation](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md). The full source was checked. This does not establish equivalence or an advantage for expanding gaps, a universal calendar gap, or conversational use. Retain total practice, corrective feedback, initial learning criterion, actual gaps and final-test horizon when comparing schedules.
 
 An equal schedule may be selected for practical reasons while this exact comparison remains unresolved; do not predict a gain from changing only equal to expanding gaps on this evidence. Calendar timing and the dose needed for a particular learner remain local questions. Lower practice fluency can coexist with better delayed performance, but difficulty alone does not identify the cause or predict the outcome.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/spaced-learning.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does spreading study or practice over sessions improve later retention more than massing the same amount of it? [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]: 12 distinct studies.
+- How long should the gap between sessions be, given when the knowledge is needed? [The optimal interstudy interval increases as the retention interval increases](../claims/optimal-isi-increases-with-retention-interval.md) [+M]: 5 distinct studies.
+- Should the gaps expand, stay equal, or contract? [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) [~M]: 4 distinct studies.
+- In a flashcard or review system, how many new items should enter and how should reviews be shared out? [Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.](../claims/leitner-queue-network-phase-transition-in-learning-rate.md) [~M]: 1 distinct studies.
+- Will learners space their study on their own? [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [~S]: 4 distinct studies.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **how long until the knowledge is needed** (the test, the exam, the job), **how many sessions the learners will have**, and **whether each return to the material can be a recall attempt rather than a reread**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The goal is retention of facts, terms, vocabulary or procedures over weeks or a course | Split the same total study time into several sessions on different days instead of one block; when comparing schedules, hold total practice constant | [Spaced practice improves retention](../claims/spaced-practice-improves-retention.md) [+S]; [Spaced repetition improves retention](../claims/spaced-repetition-improves-retention.md) [+M] |
+| The test or use that matters is weeks or months away | Lengthen the gap between study and review as the delay grows; in one classroom simulation a review eight days after the lecture beat one after a day on a test five weeks later. Do not treat any single gap as universal | [The optimal gap grows with the retention interval](../claims/optimal-isi-increases-with-retention-interval.md) [+M]; [Eight-day review beat one-day review](../claims/eight-day-review-improves-five-week-science-test-versus-one-day-review.md) [+M] |
+| The test is the same day or the next morning | Short within-day gaps still beat massing, but expect a smaller gain; add a later check if retention beyond the test matters | [The spacing benefit holds at very short retention intervals](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+M] |
+| The programme runs a year or more (a language course, a certificate) | Revisit each item on a schedule matched to when it will next be used; do not stretch gaps to many months just because the calendar allows it | [One review argues spreading over years can be worse than over months](../claims/distributed-practice-limits-l2.md) [~W] |
+| Each return to the material can be a quiz or recall prompt | Make the spaced sessions retrieval with feedback, not rereading | [Spaced retrieval improves retention](../claims/spaced-retrieval-improves-retention.md) [+M]; [Spaced beat massed retrieval and no practice on financial knowledge](../claims/spaced-beats-massed-and-control-financial-knowledge.md) [+M] |
+| The brief asks for expanding intervals (1, 3, 7 days…) | Use equal gaps if they are simpler to run; at matched total spacing, expanding schedules have not reliably beaten equal ones. Spend the design effort on total spacing | [Total spacing mattered, relative schedule did not](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) [~M]; [Expanding and uniform schedules do not differ](../claims/expanding-versus-uniform-retrieval-no-difference.md) [~M] |
+| A single workshop or one-off session | Add at least one later review: short spaced quizzes after the session. A credit workshop followed by spaced quizzes retained more at about five months than massed quizzes or none | [Spaced retrieval after a financial workshop improved retention at five months](../claims/spaced-retrieval-practice-improves-financial-knowledge-retention.md) [+M] |
+| Learners study on their own (`online-self-paced`, revision before exams) | Schedule the review sessions in the course (dated releases, reminders); left alone, learners mass their study and judge massing to work better | [Learners misjudge spacing benefits](../claims/learners-misjudge-spacing-benefits.md) [~M] |
+| Practice scores drop when sessions are spread out | Keep the gaps; judge the schedule on a delayed test, not on practice accuracy | [Spaced retrieval wins at the final test despite lower initial recall](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+M] |
+| The goal is application or understanding, not only recall of the items | Use new or rephrased questions on the same concepts in the reviews; the classroom spacing gain extended to rephrased application questions, less firmly than to facts | [Eight-day review beat one-day review](../claims/eight-day-review-improves-five-week-science-test-versus-one-day-review.md) [+M]; [The spaced benefit reflects transfer, not item memorisation](../claims/spaced-practice-benefit-reflects-transfer-not-item-memorization.md) [+W] |
+| The skill is a complex task or a motor skill rather than verbal recall | Still space practice, but expect a smaller benefit than for verbal material | [Spaced repetition improves retention](../claims/spaced-repetition-improves-retention.md) [~M] |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
@@ -419,3 +447,15 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](../claims/no-training-retention-interval-interaction.md) [~W]
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](../claims/retention-interval-by-levels-of-thinking-interaction-not-significant.md) [~W]
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+W]
+
+## Key Sources
+
+- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+- Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)
+- Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. *Journal of Applied Psychology, 84*(5), 795–805. [doi:10.1037/0021-9010.84.5.795](https://doi.org/10.1037/0021-9010.84.5.795)
+- Karpicke, J. D., & Bauernschmidt, A. (2011). Spaced retrieval: Absolute spacing enhances learning regardless of relative spacing. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 37*(5), 1250–1257. [doi:10.1037/a0023436](https://doi.org/10.1037/a0023436)
+- Kapler, I. V., Weston, T., & Wiseheart, M. (2015). Spacing in a simulated undergraduate classroom: Long-term benefits for factual and higher-level learning. *Learning and Instruction, 36*, 38–45. [doi:10.1016/j.learninstruc.2014.11.001](https://doi.org/10.1016/j.learninstruc.2014.11.001)
+- Latimier, A., Peyre, H., & Ramus, F. (2021). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. *Educational Psychology Review, 33*(3), 959–987. [doi:10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)
+- Kang, S. H. K., Eglington, L. G., Schuetze, B. A., Lu, X., Hinterstoisser, T. M., & Huaco, J. (2023). Using Cognitive Science and Technology to Enhance Financial Education: The Effect of Spaced Retrieval Practice. Journal of Financial Counseling and Planning, 34(1), 20–31. https://doi.org/10.1891/JFCP-2021-0032
+- Kornell, N., & Bjork, R. A. (2008). Learning Concepts and Categories: Is Spacing the “Enemy of Induction”? *Psychological Science, 19*(6), 585–592. [doi:10.1111/j.1467-9280.2008.02127.x](https://doi.org/10.1111/j.1467-9280.2008.02127.x)
+- Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)

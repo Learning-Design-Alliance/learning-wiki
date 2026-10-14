@@ -56,8 +56,9 @@ ANCOVA on post-test scores (20 items) with pre-test as covariate in the same 120
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — related
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — related
 - [Shortest remediation paths respecting attribute prerequisites are shorter than random and full-coverage baseline paths](remediation-path-efficiency-baselines.md) — related

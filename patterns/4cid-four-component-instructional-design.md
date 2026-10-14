@@ -25,7 +25,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 14 studies (5 causal, 3 review, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 14 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (8 for, 4 mixed) · 15 studies (6 causal, 3 review, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 15 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
@@ -68,6 +68,22 @@ A request to "use 4C/ID" or to "teach the skill" does not supply these inputs. A
 - **Removing support as expertise grows.** [Worked-example guidance becomes less effective as expertise increases](../claims/worked-examples-less-effective-with-expertise.md) [~M]: two reviews, abstract only and not settled, argue that full guidance becomes redundant and should be faded toward independent problem solving. It qualifies keeping high support across task classes; it gives no threshold.
 
 Do not combine these into a predicted effect for the whole pattern. They differ in learners (children, secondary and college students, trainees), task, comparator and outcome, and none measured delayed whole-task performance in a workplace.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **the simplest whole task a learner can attempt**, **which routines must become automatic and which may be looked up**, **whether real or simulated whole tasks are possible**, and **the transfer horizon that will judge the programme**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The goal is transfer of a complex skill to varied situations | Organise the programme around whole tasks in classes from simple to complex, with varied tasks within each class | [Whole-task practice improves transfer (design argument)](../claims/whole-task-performance-improves-transfer.md) [+W]; [Varied tasks of one type enable transfer](../claims/task-variety-enables-transfer-same-task-type.md) [+W] |
+| Learners are complete novices and the task has many interacting elements | Start with brief practice on isolated elements, then move to the whole task | [Part-task practice reduces load for novices](../claims/part-task-practice-reduces-load-for-novices.md) [+M] |
+| Within a task class | Fade support from worked examples to completion tasks to independent tasks | [Fading support promotes transfer of responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] |
+| Learners in one class differ in prior knowledge | Give lower-prior-knowledge learners full worked examples longer, and move higher-prior-knowledge learners to completion tasks sooner | [Lower-prior-knowledge learners do better with full worked examples](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [~M] |
+| Learners arrive experienced in the skill | Start in a later task class or with less support; full guidance becomes redundant | [Worked-example guidance becomes less effective with expertise](../claims/worked-examples-less-effective-with-expertise.md) [~M] |
+| A tutor or adaptive system can watch the attempts | Adjust support to the last response: more after a failure, less after a success | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [+M] |
+| A short professional workshop judged by a knowledge test | Do not expect a knowledge-test gain over a lecture; judge the design on a whole-task performance check (for example an OSCE), and power the comparison | [No knowledge difference between lecture and 4C/ID](../claims/no-knowledge-difference-lecture-vs-4cid-consent-training.md) [~M]; [4C/ID's OSCE advantage was not significant](../claims/osce-advantage-4cid-not-significant.md) [~M] |
+| Learners are learning to program or troubleshoot | Sequence task classes from completing to fixing to building; diagnostic reasoning appeared as tasks moved on | [Scaffolded task progression shifts novices toward diagnosis](../claims/scaffolded-task-progression-diagnostic-shift.md) [+W] |
+| One routine is slow or error-prone inside otherwise sound whole-task work | Add short part-task practice or a job aid for that routine only | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

@@ -1,0 +1,146 @@
+{
+  "principle": "principles/problem-based-learning",
+  "note": "Group 5 helper (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. Problem-first (productive failure) claims are left to the productive-failure page and are not grouped here; the Alfieri et al. (2011) discovery claims are grouped in the inquiry spec. Review before applying.",
+  "findings": [
+    {
+      "hub": "pbl-overall-effect-modest-large-heterogeneity",
+      "question": "Does PBL as a curriculum format raise achievement over conventional instruction, and how reliably?",
+      "members": [
+        [
+          "massive-range-pbl-outcome-effect-sizes",
+          "~"
+        ],
+        [
+          "publication-bias-pbl-tutor-meta-analysis",
+          "~"
+        ],
+        [
+          "tutor-background-meta-regression-not-predictive",
+          "~"
+        ],
+        [
+          "pbl-large-positive-effect-academic-achievement",
+          "+"
+        ],
+        [
+          "ai-pbl-higher-posttest-academic-achievement",
+          "+"
+        ],
+        [
+          "pbl-evidence-base-equivocal",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "pbl-null-basic-knowledge-positive-transfer",
+      "question": "For which outcomes: basic knowledge, application and transfer, or professional skills?",
+      "members": [
+        [
+          "problem-based-larger-knowledge-gains",
+          "~"
+        ],
+        [
+          "simulation-larger-application-gains",
+          "~"
+        ],
+        [
+          "simulation-larger-overall-il-gains",
+          "~"
+        ],
+        [
+          "problem-based-principal-preparation-self-efficacy",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "minimal-guidance-less-effective-for-novices",
+      "question": "How much guidance do novices need inside a problem-centred design?",
+      "members": [
+        [
+          "teachers-struggle-designing-interactive-activities",
+          "~"
+        ],
+        [
+          "balance-active-learning-independent-practice-gateway-math",
+          "~"
+        ],
+        [
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
+          "+"
+        ],
+        [
+          "minimally-guided-approaches-ignore-cognitive-architecture",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "explicit-instruction-beats-unassisted-discovery",
+          "+"
+        ],
+        [
+          "guided-discovery-outperforms-pure-discovery",
+          "+"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "recent-design-models-support-guidance-during-instruction",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "~"
+        ],
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "explicit-instruction-context-dependent-synthesis",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "pbl-attitudes-valuing-interdependence-self",
+      "question": "What do learners say they learn about collaboration from PBL?",
+      "members": [
+        [
+          "pbl-skills-interpersonal-problem-solving-group",
+          "+"
+        ],
+        [
+          "pbl-students-positive-views-interviews",
+          "+"
+        ],
+        [
+          "minimal-reference-higher-level-processing-benefits",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

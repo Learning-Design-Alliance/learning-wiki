@@ -78,6 +78,20 @@ Schroeder, N. L., & Cenkci, A. T. (2020). Do measures of cognitive load explain 
 
 A systematic review of 41 comparisons from split-attention studies that also measured cognitive load, testing whether integrated designs work by lowering extraneous load. Measures of cognitive load largely did not support that explanation, and integrated designs did not reliably change any cognitive load measure compared with spatially separated designs. The authors propose that integration may instead help learners allocate germane resources to integrative processing. This leaves the learning benefit standing but qualifies the claim's mechanism, and supports this page's warning that load ratings and learning outcomes can come apart.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should related text and pictures be integrated rather than separated?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (3 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Schroeder and Cenkci 2018](https://doi.org/10.1007/s10648-018-9435-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.63; i2 · medium-to-large effect, g=0.63 | this claim; [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) (supports) |
+| [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q3 / q4 · quant-synthesis · r? | i? | this claim; [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) (qualifies) |
+| [Schroeder and Cenkci 2020](https://doi.org/10.1037/edu0000372) | q3 · review · r? | i? | this claim |
+| Ceballos & Nutta 2022 | q2 · theoretical · r2 | i? | [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) (supports); [Temporal contiguity (concurrent narration and animation) is associated with facilitated un](temporal-contiguity-lower-cognitive-load.md) (supports) |
+| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2 | [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 This claim is the central practical prediction of [Cognitive Load Theory](../theories/cognitive-load-theory.md): because working memory is severely limited, instructional designs that impose unnecessary processing (split attention, redundant material, irrelevant graphics or narration) leave fewer resources for schema construction, and removing that load should improve learning [~M]. The claim is scoped to *extraneous* load reduction — reducing the inherent complexity of the content itself (intrinsic load) can strip out essential learning challenges rather than support them. Designers should therefore manage intrinsic load (e.g., via [chunking](../principles/chunking.md) or sequencing simple-to-complex) rather than simply minimize it.

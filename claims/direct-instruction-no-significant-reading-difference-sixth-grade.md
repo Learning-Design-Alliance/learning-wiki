@@ -41,7 +41,8 @@ Post-test control group study at Arna W. Bontemps Public School, Chicago: 30 Dir
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
 - [The author concludes, citing Englemann, that students must be taught in the Direct Instruction program for at least two years before a significant difference on achievement scores appears](direct-instruction-two-years-before-significant-difference.md) — related

@@ -1,0 +1,110 @@
+{
+  "principle": "principles/inquiry-based-learning",
+  "note": "Group 5 helper (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries, including the six claims ingested from Lazonder & Harmsen (2016) on 2026-10-13. The Alfieri et al. (2011) discovery claims sit here, not in the problem-based-learning spec, which uses the near-duplicate minimal-guidance-less-effective-for-novices as its own hub. Review before applying.",
+  "findings": [
+    {
+      "hub": "inquiry-based-teaching-improves-science-achievement",
+      "question": "Does inquiry-based teaching raise science achievement over the usual instruction?",
+      "members": [
+        [
+          "furtak-metaanalysis-37-studies-inquiry-positive",
+          "+"
+        ],
+        [
+          "inquiry-based-lab-learning-improves-ct",
+          "+"
+        ],
+        [
+          "scripted-personal-inquiry-associated-with-inquiry-knowledge-gains",
+          "+"
+        ],
+        [
+          "ai-assisted-inquiry-largest-decision-making-gains-climate",
+          "~"
+        ],
+        [
+          "amsti-inquiry-science-higher-reading-achievement",
+          "~"
+        ],
+        [
+          "deeper-learning-math-inquiry-reduces-disparities",
+          "~"
+        ],
+        [
+          "inquiry-benefits-low-income-equity-tension",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "guidance-improves-inquiry-learning-outcomes",
+      "question": "Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?",
+      "members": [
+        [
+          "guidance-improves-inquiry-performance-success",
+          "+"
+        ],
+        [
+          "guidance-improves-inquiry-learning-activities",
+          "+"
+        ],
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
+          "teacher-guided-inquiry-larger-effects",
+          "+"
+        ],
+        [
+          "teacher-guided-inquiry-outperforms-student-led",
+          "+"
+        ],
+        [
+          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "guided-discovery-outperforms-pure-discovery",
+      "question": "Should novices be left to discover the target content without support?",
+      "members": [
+        [
+          "explicit-instruction-beats-unassisted-discovery",
+          "+"
+        ],
+        [
+          "enhanced-discovery-beats-other-instruction",
+          "+"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "+"
+        ],
+        [
+          "guided-discovery-outperformed-both-extremes",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "age-moderates-discovery-effects",
+      "question": "For whom, in which domain and on which measure does the cost of unassisted discovery (and the benefit of enhanced discovery) change?",
+      "members": [
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -66,6 +66,8 @@ Fourth- and fifth-grade students (N=74) learned decimal magnitude in a brief tut
 <!-- deprecated (2026-10-05, stated as a finding with no basis in the entries): Erroneous examples are most effective for learners with at least some prior knowledge; they can be confusing or lead to cognitive overload for absolute novices. -->
 
 ## Related Claims
+
+- [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — the general claim this finding bears on, with the studies behind it
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md)
 - [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — related

@@ -49,6 +49,8 @@ Sinha, T. (2022). Enriching problem-solving followed by instruction with explana
 The paper's most important methodological caution is built into its own framing: correlations between emotion incidence and posttest scores are not causal evidence that manipulating emotion would change learning, even though the scaffolding conditions themselves were randomized. The context-dependent reversal of the disgust/contempt-outcome relationship across conditions is the paper's most novel and best-supported finding, and argues against treating any emotion as uniformly facilitative or debilitating for learning. Self-report data (PANAS, state curiosity, cognitive dissonance) converges with the automated coding in ordering the three conditions, which increases confidence that the facial-coding measure is capturing something real rather than an artifact of the classifier.
 
 ## Related Claims
+
+- [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related

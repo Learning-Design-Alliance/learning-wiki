@@ -60,6 +60,9 @@ Q-test moderator analyses in the same meta-analysis examined whether between-stu
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — the general claim this finding bears on, with the studies behind it
+
+- [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 -

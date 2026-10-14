@@ -41,6 +41,7 @@ Narrative review synthesis of spacing research. The review states it focuses on 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](retrieval-practice-enhances-learning-applied-settings.md) — related

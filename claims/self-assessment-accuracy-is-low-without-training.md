@@ -59,6 +59,25 @@ Falchikov, N., & Boud, D. (1989). Student self-assessment in higher education: A
 
 A meta-analysis of 51 quantitative studies comparing students' self-assessed marks with teachers' marks in higher education. Correspondence between the two was not uniformly high: it was closer in better-designed studies than in poorly designed ones, closer for students in advanced courses than in introductory courses, and closer in science than in other fields of study — i.e., raw self-assessment accuracy varies widely and cannot be assumed without attention to design and learner experience. Read at abstract level only (full text is paywalled/JSTOR-gated); no pooled correlation or effect-size statistic appears in the abstract, so no quantitative `i` code beyond `i?` can be supported from what was read.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can learners' own monitoring be trusted, and can it be trained?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **10 distinct studies** (5 causal, 3 quant-synthesis, 1 associational, 1 review), `q2`–`q4`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kostons et al. 2012](https://doi.org/10.1016/j.learninstruc.2011.08.004) | q3 · causal · r? | i2 · medium effect, ηp²=.10 | this claim |
+| [Falchikov & Boud 1989](https://doi.org/10.2307/1170205) | q4 · quant-synthesis · r? | i? | this claim |
+| [Zell & Krizan 2014](https://doi.org/10.1177/1745691613518075) | q4 · quant-synthesis · r? | i2 · medium, mean r=.29 (SD=.11), individual meta-analytic effects .09–.63 | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (supports) |
+| [Hacker et al. 2000](https://doi.org/10.1037/0022-0663.92.1.160) | q2 · associational · r? | i? | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (supports) |
+| [Carpenter et al. 2013](https://doi.org/10.3758/s13423-013-0442-z) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (supports) |
+| [Rhodes & Castel 2008](https://doi.org/10.1037/a0013684) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (supports) |
+| [Dai 2026](https://doi.org/10.3389/fpsyg.2026.1829268) | q3 · causal · r2 | i? | [APCA improved self-assessment accuracy and reduced overconfidence, and the combined interv](apca-improves-self-assessment-accuracy-overconfidence.md) (supports) |
+| Fernandes 2026 | q3 · causal · r2 | i? | [No trace format supported calibrated self-evaluation: perceived-achieved correlations were](no-trace-format-supported-calibrated-self-evaluation.md) (supports) |
+| [Panadero et al. 2017](https://doi.org/10.1016/j.edurev.2017.08.004) | q4 · quant-synthesis · r? | i1 · small effect on Learning SRL, d=0.23; medium/non-significant on the other two SRL measures; large on self-efficacy, d=0.73 | [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) (qualifies) |
+| [Fusco 2025](https://doi.org/10.51388/20.500.12265/252) | q3 · review · r1 | i? | [Peer and self-assessment both show significant effects on academic performance with no sig](peer-self-assessment-improve-performance-equally.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Direction of the bias.** The dominant finding in the self-assessment literature is overestimation: low performers lack the domain knowledge to recognize their own errors, a pattern closely related to the Dunning–Kruger effect. Weaker students show the largest miscalibration, while stronger students are sometimes slightly *under*confident. This means raw self-assessment data cannot be treated as a valid proxy for achievement, especially in early stages of learning.
@@ -74,6 +93,8 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 **Open questions.** Two studies are recorded: one randomized experiment in which secondary students trained with modeling examples self-assessed more accurately than untrained students (Kostons et al. 2012, n = 80), and one meta-analysis of 51 higher-education studies, read at abstract level, which found student–teacher agreement inconsistent and closer in advanced courses and better-designed studies but reports no pooled accuracy estimate there (Falchikov & Boud 1989). Still missing: a pooled estimate of how low untrained accuracy is, and replications of the training effect beyond one experiment. <!-- deprecated (2026-10-05, stale: entries had been added): The evidence base for this claim still needs to be populated with primary studies — particularly meta-analytic estimates of self-assessment accuracy and intervention studies comparing trained versus untrained self-assessment. Until then, the claim should be treated as a well-established qualitative pattern rather than a quantified effect. -->
 
 ## Related Claims
+
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — feedback-rich assessment cycles are the context in which self-assessment accuracy develops
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — accurate self-monitoring is a core component of self-regulation

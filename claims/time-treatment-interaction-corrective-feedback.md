@@ -41,8 +41,9 @@ Two-way repeated measures ANOVA on total grammaticality judgment scores with tim
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — the general claim this finding bears on, with the studies behind it
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](explicit-teaching-effective-but-not-durable.md) — related
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](metalinguistic-recasts-effective-immediate-wh-questions.md) — a narrower finding that bears on this claim
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — a narrower finding that bears on this claim

@@ -60,8 +60,9 @@ Descriptive statistics from the CoI Survey cognitive presence subscale (n = 32).
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — the general claim this finding bears on, with the studies behind it
 - [Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course](co-regulation-stronger-presence-relationships-than-self-regulation.md) — related
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](cognitive-presence-highest-least-variable-online-cbi.md) — related
 - [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](mba-students-experience-courses-as-coi.md) — related

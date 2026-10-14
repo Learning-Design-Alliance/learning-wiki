@@ -41,8 +41,9 @@ Thematic analysis of semi-structured interviews with 17 volunteering experimenta
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [CCCT participation improved prospective teachers' co-regulation situations (g = 0.512)](ccct-improved-co-regulation.md) — related
 - [CCCT participation improved prospective teachers' attitudes towards cooperativeness (g = 0.751)](ccct-improved-cooperativeness-attitudes.md) — related
 - [Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)](ccct-outperformed-lecture-achievement.md) — related

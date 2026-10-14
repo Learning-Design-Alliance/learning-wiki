@@ -41,6 +41,28 @@ Panadero, E., Jonsson, A., & Botella, J. (2017). Effects of self-assessment on s
 
 Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental and quasi-experimental studies of self-assessment interventions in K-12 and higher-education classrooms. For the "Learning SRL" outcome — measures of strategy use such as planning, monitoring and self-regulatory strategy deployment — 12 effect sizes from 369 students produced a combined effect of d=0.23, 95% CI [0.08, 0.39], a small but statistically significant positive effect. A second meta-analysis on "Negative SRL" (self-regulatory behaviors detrimental to learning, e.g. procrastination) found d=−0.65 (k=6, n=347; CI crossed zero), meaning self-assessment reduced these behaviors; a third on SRL measured qualitatively found d=0.43 (k=3, n=338; CI crossed zero, underpowered). A separate meta-analysis of 27 effect sizes on self-efficacy found a larger effect, d=0.73, 95% CI [0.39, 1.08], moderated by gender (larger for girls) and by whether the self-assessment intervention included a monitoring component.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should learners assess their own work, and can their self-ratings be trusted?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **13 distinct studies** (7 causal, 3 quant-synthesis, 1 associational, 1 review, 1 theoretical), `q2`–`q4`, 3 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Panadero et al. 2017](https://doi.org/10.1016/j.edurev.2017.08.004) | q4 · quant-synthesis · r? | i1 · small effect on Learning SRL, d=0.23; medium/non-significant on the other two SRL measures; large on self-efficacy, d=0.73 | this claim |
+| [Kostons et al. 2012](https://doi.org/10.1016/j.learninstruc.2011.08.004) | q3 · causal · r? | i2 · medium effect, ηp²=.10 | [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) (qualifies) |
+| [Falchikov & Boud 1989](https://doi.org/10.2307/1170205) | q4 · quant-synthesis · r? | i? | [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) (qualifies) |
+| [Zell & Krizan 2014](https://doi.org/10.1177/1745691613518075) | q4 · quant-synthesis · r? | i2 · medium, mean r=.29 (SD=.11), individual meta-analytic effects .09–.63 | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (qualifies) |
+| [Hacker et al. 2000](https://doi.org/10.1037/0022-0663.92.1.160) | q2 · associational · r? | i? | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (qualifies) |
+| [Carpenter et al. 2013](https://doi.org/10.3758/s13423-013-0442-z) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (qualifies) |
+| [Rhodes & Castel 2008](https://doi.org/10.1037/a0013684) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (qualifies) |
+| [Andrade et al. 2010](https://doi.org/10.1080/09695941003696172) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
+| [Panadero & Romero 2014](https://doi.org/10.1080/0969594x.2013.877872) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
+| [Dai 2026](https://doi.org/10.3389/fpsyg.2026.1829268) | q3 · causal · r2 | i? | [APCA improved self-assessment accuracy and reduced overconfidence, and the combined interv](apca-improves-self-assessment-accuracy-overconfidence.md) (qualifies) |
+| Mohammad Amanlou 2026 | q2 · causal · r2 | i? | [Guided-LLM students showed the strongest self-assessment calibration, with the highest wel](guided-llm-self-assessment-calibration-alignment.md) (qualifies) |
+| [Zimmerman 2002](https://doi.org/10.1207/s15430421tip4102_2) | q3 · review · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
+| [Butler & Winne 1995](https://doi.org/10.3102/00346543065003245) | q3 · theoretical · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Self-assessment is theorized to support self-regulated learning by making performance standards explicit and by generating feedback that learners can act on without waiting for an external evaluator. It connects closely to [assessment for learning](../principles/assessment-for-learning.md), in which assessment information is used formatively rather than only to certify achievement. In self-regulated learning terms, self-assessment feeds the monitoring and reflection phases: learners who can accurately judge where their work stands relative to a standard are better positioned to set appropriate goals, select strategies, and persist or redirect effort — see [self-regulated learning](../theories/self-regulated-learning.md).

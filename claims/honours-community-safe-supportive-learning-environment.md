@@ -41,8 +41,9 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — the general claim this finding bears on, with the studies behind it
 - [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [A minority of honours community members feel the community is too closed, hindering knowledge growth](honours-community-closedness-hinders-knowledge-growth.md) — related

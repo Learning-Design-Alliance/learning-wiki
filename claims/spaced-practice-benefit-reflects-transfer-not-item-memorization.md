@@ -41,7 +41,8 @@ Authors' interpretation in the Discussion of the field experiment's knowledge re
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related

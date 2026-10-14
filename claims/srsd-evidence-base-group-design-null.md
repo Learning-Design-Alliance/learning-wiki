@@ -41,7 +41,8 @@ The WWC research summary screening of two eligible group design studies and 14 e
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [SRSD had potentially positive effects on writing achievement for students with a specific learning disability, with 88% of single-case experiments showing positive effects](srsd-potentially-positive-writing-achievement-sld.md) — related
 - [Single-case design evidence for SRSD on math achievement does not reach the WWC threshold for inclusion in effectiveness ratings](srsd-math-evidence-below-threshold.md) — related

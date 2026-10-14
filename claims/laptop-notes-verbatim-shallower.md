@@ -60,6 +60,18 @@ Morehead, K., Dunlosky, J., & Rawson, K. A. (2019). How Much Mightier Is the Pen
 
 A direct replication of Mueller and Oppenheimer (2014) that added an eWriter group and a no-notes group across two experiments. Test performance did not consistently differ between longhand, laptop, eWriter, or even the no-notes group; group differences shrank further once students were allowed to study their own notes before testing. A meta-analysis combining the direct replications found only small, non-significant effects favoring longhand. The authors conclude that, given this and other available evidence, it is premature to say one note-taking method is superior for learning.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the medium of the notes (handwritten or typed) change what is learned?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 theoretical), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Mueller Oppenheimer 2014](https://doi.org/10.1177/0956797614524581) | q3 · causal · r? | i? | this claim |
+| [Morehead Dunlosky Rawson 2019](https://doi.org/10.1007/s10648-019-09468-2) | q3 · causal · r? | i? | this claim |
+| [Craig Wright 2026](https://doi.org/10.1007/s40979-026-00234-w) | q2 · theoretical · r3 | i1 | [Handwritten note-taking yields higher achievement than typing, grounding a learning-outcom](handwritten-notes-higher-achievement-than-typing.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism, not hardware.** The claim is about *how* notes are taken, not the device itself. Verbatim transcription is the hypothesized mediator: when note-taking becomes capture rather than synthesis, the generative processing that benefits memory and comprehension is lost. This aligns with the broader finding that [annotating improves learning](../claims/annotating-improves-learning.md) when annotation requires transformation of material rather than passive marking. Handwriting's slower pace acts as a natural constraint that forces selection and paraphrase, consistent with [chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — summarizing notes forces chunking, while verbatim transcription does not.

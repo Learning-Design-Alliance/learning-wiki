@@ -29,7 +29,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (10 for, 10 mixed, 1 against) · 20 studies (7 quant-synthesis, 4 causal, 3 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 6 of 20 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (13 for, 12 mixed, 1 against) · 23 studies (7 quant-synthesis, 5 causal, 3 review, 2 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 22 claims rest on one study
 
 ## Description and scope
 
@@ -76,6 +76,23 @@ A request to "make sure students master the material" does not specify these. As
 - **Whether the check means what the criterion says.** [Criterion-referenced tests need construct validation](../claims/criterion-referenced-tests-need-construct-validation.md) [~W] is a theoretical argument (checked by the judge on full text) that a criterion-referenced test's tasks must be shown empirically to reflect the competence of interest. The gate is only as good as that evidence.
 
 Do not combine these into one strength, rank the syntheses by effect labels while their comparators differ, or read "positive effects" as a size. A precise abstention names the missing comparison, instrument or horizon and how to obtain it.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **the unit criterion and how it is checked**, **group-paced or self-paced progression**, **the limit on attempts or time per unit**, and **the delay at which the earlier capability will be rechecked**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| A course of cumulative units, with the course examination as the outcome | Use the full loop: unit check, corrective work, parallel recheck, then advance | [Mastery learning improves outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]; [Group-based mastery positive in every included study](../claims/group-mastery-positive-achievement-all-studies.md) [+M] |
+| Choosing the cut score | Set a high standard for each unit; record it and tell learners | [Effects vary with standard, pacing and test type](../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) [~M] |
+| College course, self-paced (`online-self-paced` or Keller-style) | Add deadlines or pacing checkpoints, because self-paced mastery courses lose more students | [Self-paced mastery programmes reduce course completion](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M] |
+| Group-paced class with a teacher | Keep the class together and run correction and enrichment in a shared loop; attrition was lower in group-based mastery classes | [Mastery improves engagement and lowers attrition](../claims/mastery-improves-engagement-attrition.md) [+W] |
+| Software will gate progress (adaptive or practice platform) | Expect a gain against large-group teaching but not against human tutoring; check the gate on outcomes outside the platform | [Adaptive learning improves outcomes](../claims/adaptive-learning-improves-outcomes.md) [~M]; [Mastery platform longitudinal positive effects](../claims/mastery-platform-longitudinal-positive-effects.md) [+W] |
+| Learners may need many attempts on a unit | Set an attempt limit and change the correction after a failed recheck instead of repeating the same task; record any gap left at the limit | [eSpark learners rarely reached 80% after three attempts](../claims/espark-post-quiz-mastery-failure-rate.md) [~W]; [Socratic condition needed twice the attempts](../claims/socratic-more-attempts-many-never-reach-mastery.md) [~W] |
+| Retention after the course matters | Recheck each earlier unit at the start of the next one and again weeks later | [Gains persist at follow-up](../claims/mastery-learning-gains-persist-at-follow-up.md) [+M]; [Group-based mastery improves retention](../claims/mastery-improves-retention.md) [+M] |
+| Learners' attitudes or attrition are a concern | Mastery classes rated the instruction and the subject more favourably; tell learners what the criterion is and why | [Mastery learning improves attitudes](../claims/mastery-learning-improves-attitudes-toward-instruction.md) [+M]; [Positive affective effects](../claims/mastery-positive-affective-effects.md) [+M] |
+| The check will be a quiz written by the teacher | Write a parallel form for rechecks that changes surface details and at least one relevant condition | [Criterion-referenced tests need construct validation](../claims/criterion-referenced-tests-need-construct-validation.md) [~W] |
+| A district pacing calendar fixes when topics are taught | Agree in advance how far the loop may extend a unit, and what gap is carried forward when time runs out | [Pacing calendars seen as impediments to mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W] |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

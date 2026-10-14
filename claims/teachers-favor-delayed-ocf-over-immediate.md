@@ -41,8 +41,9 @@ In the timing analysis of the six-teacher interview study, "The overall triodes 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-motor-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice](listening-first-outperforms-intensive-oral-practice.md) — related
 - [Teachers' attitudes towards oral corrective feedback are guided mainly by considerations of students' feelings, which override cognitive and other components](student-feelings-guide-ocf-attitudes.md) — related
 - [The teacher was the principal provider of oral corrective feedback, with peer and self-correction rarely proactively promoted](teacher-is-principal-ocf-provider.md) — related

@@ -41,7 +41,8 @@ Qualitative interview study of 22 teachers; the report states Forms supports rea
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations](forms-differentiated-instruction-uses.md) — a narrower finding that bears on this claim
 - [Teachers reported increased student engagement when using Forms instead of paper-based assessments and surveys](forms-engagement-versus-paper.md) — related

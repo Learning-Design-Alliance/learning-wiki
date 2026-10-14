@@ -41,8 +41,9 @@ Moderator analysis grouping studies by subject area in the meta-analysis; the pr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](mastery-learning-effects-larger-for-lower-aptitude-students.md) — the general claim this finding bears on, with the studies behind it
 - [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](group-mastery-positive-achievement-all-studies.md) — related
 - [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](mastery-effects-larger-elementary.md) — related
 - [Up to about 35 IE sessions moderated the decline of report card marks in language-based subjects, but IE did not affect mathematics grades](ie-sessions-moderate-decline-in-language-marks-not-math.md) — related

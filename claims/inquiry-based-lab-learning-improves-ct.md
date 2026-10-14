@@ -41,6 +41,7 @@ Narrative review section on biological sciences and CT, reporting (citing [36]) 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it
 -

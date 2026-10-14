@@ -39,12 +39,13 @@ The primer defines stereotype threat as a psychological phenomenon in which "stu
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
 - [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - [Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor](childhood-poverty-impairs-adult-working-memory.md) — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years](values-affirmation-long-term-benefits-black-students.md) — related

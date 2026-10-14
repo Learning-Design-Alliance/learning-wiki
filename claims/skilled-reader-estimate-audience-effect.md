@@ -39,6 +39,17 @@ Theoretical argument in the paper: decision-making criteria for writing must be 
 
 > "successful writing is impossible:maless the would, be writer first becomes a sufficientlyskiliful reader' to be able to estimate the effect of his or her own texts on a prospective Audience"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What must a learner be able to do to write for a reader, and can the audience's knowledge be used to set the task?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 theoretical, 1 qualitative), `q1`–`q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| de Beaugrande 1977 | q1 · theoretical · r2 | i? | this claim; [The prior knowledge of the intended audience determines a text's information density, rate](audience-prior-knowledge-determines-information-density.md) (supports) |
+| Yu-Ling You; Shih-Guey Joe 2001 | q2 · qualitative · r2 | i? | [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether t](skilled-writers-audience-awareness.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

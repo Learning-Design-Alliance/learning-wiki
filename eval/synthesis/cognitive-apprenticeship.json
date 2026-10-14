@@ -1,0 +1,84 @@
+{
+  "principle": "patterns/cognitive-apprenticeship",
+  "note": "Drafted 2026-10-14 by an agent (g6). No principle page in this topic, so the pattern is named. The coaching, fading and expertise questions are left to the scaffolding and direct-instruction specs, whose hubs (contingent-scaffolding-improves-learning, fading-support-promotes-transfer-of-responsibility, expertise-reversal-effect) the pattern already cites. Thin: the whole-approach hub is a second-hand review report, and the one direct comparison is a small null quasi-experiment. Review before applying.",
+  "findings": [
+    {
+      "hub": "ca-methods-more-effective-than-traditional-writing-college",
+      "question": "Does the whole cognitive-apprenticeship approach beat traditional instruction?",
+      "members": [
+        [
+          "cognitive-apprenticeship-no-significant-exam-differences-technical-math",
+          "-"
+        ],
+        [
+          "cognitive-apprenticeship-attitude-anxiety-confidence-effects",
+          "~"
+        ],
+        [
+          "web-based-ca-instructor-time-burden",
+          "~"
+        ],
+        [
+          "scaffolded-task-progression-diagnostic-shift",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "reciprocal-teaching-improves-reading-comprehension",
+      "question": "Does modelling strategies and handing the lead to learners improve reading comprehension, and on which measures?",
+      "members": [
+        [
+          "reciprocal-teaching-raises-reading-comprehension-poor-readers",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "worked-examples-with-practice-improve-transfer",
+      "question": "Should modelling come before the learner's first attempts?",
+      "members": [
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "worked-examples-improve-math-performance",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "+"
+        ],
+        [
+          "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game",
+          "+"
+        ],
+        [
+          "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game",
+          "+"
+        ],
+        [
+          "worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game",
+          "+"
+        ],
+        [
+          "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps",
+          "~"
+        ],
+        [
+          "solved-problems-improve-algebra-achievement",
+          "~"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

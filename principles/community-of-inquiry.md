@@ -18,7 +18,7 @@ sources:
 # Community of Inquiry
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (5 for, 5 mixed, 2 against) · 18 studies (5 causal, 3 quant-synthesis, 3 review, 3 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 1 of 18 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (5 for, 8 mixed, 1 against) · 19 studies (5 causal, 3 quant-synthesis, 3 review, 3 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 1 of 19 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -38,6 +38,23 @@ The page's earlier guidance, kept as a concrete default a designer can act on an
 4. **Facilitate towards resolution, not only participation.** Plan prompts that push from exploring sources to integrating and testing ideas, and a synthesis step that asks the group to state and check a resolution. In the MBA survey, facilitation and resolution-phase items were the ones rated below 4.0; whether planned facilitation would raise them, or learning, is untested.
 5. **Use a synchronous or instructor channel where correction matters.** In one study of second-language discussion boards, the board produced no corrective feedback at all, against text chat and video (see below). An asynchronous forum alone may not surface errors.
 6. **Judge the design on each learner's own understanding** of the target, on an individual task at the horizon the objective sets, not on post counts or presence ratings. Interaction counts correlated with posttest scores in one online group study, which says nothing about whether more posting causes learning.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **whether discussion is synchronous or asynchronous**, **how much facilitator time is available**, and **what individual task will show each learner's understanding at the end**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Discussion is on an asynchronous board and accuracy matters (for example second-language use) | Add a synchronous channel, text chat or video, where errors get corrected; the board produced no corrective feedback | [Discussion boards generated no negative feedback](../claims/discussion-board-no-negative-feedback-synchrony-required.md) [~W] |
+| The goal includes learners regulating their own and each other's work in an online case course | Build in social presence early (introductions, replying to named peers); it was the presence most associated with self-reported regulation, an association only | [Social presence most associated with metacognition](../claims/social-presence-strongest-metacognition-association-cbi.md) [~W]; [Co-regulation relates more strongly to the presences](../claims/co-regulation-stronger-presence-relationships-than-self-regulation.md) [+W] |
+| Facilitator time is limited | Put it first into clear organisation (topics, instructions, due dates), the teaching-presence items rated highest, then into facilitation | [Uneven presence profile in an online MBA](../claims/coi-presence-uneven-profile-mba.md) [~W] |
+| Threads explore ideas but never reach a conclusion | Add prompts that ask the group to integrate, test and state a resolution; resolution items were rated lowest | [Uneven presence profile in an online MBA](../claims/coi-presence-uneven-profile-mba.md) [~W] |
+| Online small groups will be given roles or group rewards to raise achievement | Use them to organise the discussion, not as the means of raising achievement, and check each learner's posttest | [Structuring interdependence did not change achievement online](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [~M] |
+| Success will be judged by number of posts | Judge on an individual task instead; more interactions went with higher posttest scores, which may reflect stronger learners posting more | [Interaction counts correlated with posttest scores](../claims/interaction-quantity-correlates-posttest-online-groups.md) [~W] |
+| The course includes online laboratory exercises | Have the instructor present online during the lab with prompts before, during and after that direct attention to key steps | [Online labs judged better with instructor scaffolds](../claims/online-labs-better-with-instructor-scaffolds.md) [+W] |
+| Learners are working professionals (for example MBA students) | Make each member's professional expertise visible early; these learners judged peers by what they could contribute, not only by warmth | [Peer monitoring goes beyond social presence](../claims/peer-monitoring-exceeds-social-presence.md) [~W] |
+| Learners may use generative AI to write their posts | Ask for posts that respond to named peers and to the learner's own experience, and keep instructor contact human | [Over-reliance on generative AI risks presence and skills](../claims/gai-overreliance-risks-presence-and-skills.md) [-W] |
+| A cohort must form a community in a fully online unit | Schedule recurring synchronous sessions, such as fortnightly web conferences with open discussion | [Fortnightly web conferences supported community formation](../claims/web-conferences-support-online-community.md) [+W] |
 
 ## Observation, state and explanation
 

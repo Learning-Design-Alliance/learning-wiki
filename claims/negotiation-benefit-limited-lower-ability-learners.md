@@ -41,8 +41,9 @@ The review reports Pica's (1989) follow-up comparing interactionally generated i
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](linguistic-simplification-improves-math-performance.md) — the general claim this finding bears on, with the studies behind it
 - [The quality rather than the quantity of interactional modifications predicts comprehensible input](interaction-quality-over-quantity.md) — related
 - [Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners](interactionally-modified-input-aids-comprehension-not-retention.md) — related
 - [In college groups, negotiation of meaning made no difference to comprehensible input obtained in the match task](college-no-comprehensible-input-difference.md) — related

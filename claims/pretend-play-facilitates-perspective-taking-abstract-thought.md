@@ -59,8 +59,9 @@ The review reports, citing Jenkins and Astington, a longitudinal study in which 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
 - [False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills](false-belief-training-no-language-effect.md) — related
 - [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — related
 - [Pretend play and divergent problem solving show a reciprocal relationship, with cooperative play broadly and thematic play specifically influential](pretend-play-divergent-problem-solving-reciprocal.md) — related

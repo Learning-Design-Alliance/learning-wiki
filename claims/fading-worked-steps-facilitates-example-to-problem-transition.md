@@ -39,6 +39,17 @@ The article's abstract states the central finding of the two computer-based expe
 
 > "In order to facilitate the transition fromlearning from worked examples in earlier stagesof skill acquisition to problem solving inlater stages, it is effective to successivelyfade out worked solution steps – in comparisonto the traditional method of employingexample-problem pairs"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How should learners move from studying examples to solving problems alone?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (2 causal), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Renkl 2004](https://doi.org/10.1023/b:truc.0000021815.74806.f6) | q2 · causal · r? | i? | this claim; [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) (supports); [The position of faded worked solution steps did not influence learning outcomes in Experim](faded-step-position-no-learning-outcome-effect.md) (qualifies); [Faded steps were hypothesized to trigger specific self-explanation activities, tested via ](faded-steps-hypothesized-trigger-self-explanations.md) (qualifies) |
+| [Atkinson, Renkl & Merrill 2003](https://doi.org/10.1037/0022-0663.95.4.774) | q3 · causal · r? | i? | [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

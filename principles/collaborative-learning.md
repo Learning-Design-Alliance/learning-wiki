@@ -18,13 +18,31 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (7 for, 9 mixed) · 23 studies (5 causal, 5 quant-synthesis, 4 qualitative, 3 review, 3 design, 2 associational, 1 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 12 claims rest on one study
+> **Evidence** · 22 claims (9 for, 12 mixed, 1 against) · 29 studies (7 causal, 6 quant-synthesis, 4 associational, 4 qualitative, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 4 of 29 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
 For learners who can already take part in the target task, and for goals that gain from explaining, comparing and reconciling ideas (concepts, principles and complex skills more than verbal associations), working jointly on a task, so that each member has to engage with and respond to the others' reasoning, is expected to raise individually measured understanding compared with working alone on the same task. Co-presence is not this relationship. The expectation attaches to what the joint work makes learners do, and it is weakened by three things: an individual measure that the group product stands in for, equal or enthusiastic participation that does not change each member's own understanding, and a delayed check on which shared understanding has not held. The synthesis evidence comes from school and undergraduate classrooms, on general or course achievement, at the end of multi-week programmes. It does not forecast a single session, an adult workplace team, an online group or a particular learner.
 
 [Cooperative learning](cooperative-learning.md) sits inside this relationship. It is its most structured form, in which positive interdependence and individual accountability are built in, and its conditional model concerns that structure against individualistic and competitive arrangements. This page owns the broader question of when joint work of any structure changes what each learner can do, and what to observe when it does not. The [collaborative learning pattern](../patterns/collaborative-learning.md) describes a reusable design. It has not yet been rewritten against this model.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **is the target each member's own understanding, a shared product, or collaboration itself?**, **is the group work synchronous in a room or asynchronous online?**, and **is this one session or recurring work over several weeks?**
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The goal is understanding of concepts or principles, in a school or undergraduate course running several weeks | Put small-group work on tasks that need explaining and comparing alongside instruction, rather than instruction alone; expect a programme-level gain, not one for every learner | [Collaborative learning improves outcomes](../claims/collaborative-learning-improves-outcomes.md) [+M]; [Small-group learning improves undergraduate STEM achievement](../claims/small-group-learning-improves-stem-achievement.md) [+M] |
+| The target is each member's understanding at a later test | After the group task, ask each member alone for the explanation, straight away and again later, on changed wording; do not let the group's answer stand for it | [Co-construction needs personal construction for stable change](../claims/personal-construction-required-stable-conceptual-change.md) [~W]; [Equal, mutual engagement did not ensure change](../claims/high-equality-mutuality-not-sufficient-conceptual-change.md) [~W] |
+| The goal is a written text | Have learners plan, draft or revise together; then set an individual piece to see whether the gain carries to each writer | [Collaborative writing improves text quality](../claims/collaborative-writing-improves-text-quality.md) [+M] |
+| Success will be judged by learners' satisfaction or their report that the group worked well | Add an individual knowledge check; read the self-report as an observation of the group's process only | [Aligned problem perceptions predict self-reported, not measured, outcomes](../claims/homogeneous-problem-perceptions-predict-regulation-success.md) [~M] |
+| The setting is `online-self-paced` or asynchronous online groups | Plan the interaction explicitly (shared task, deadlines for responding to each other); do not expect a role or reward scheme alone to raise achievement | [Structuring interdependence did not change achievement online](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [~M]; [Students rated collaboration worse online](../claims/collaboration-interest-belonging-worse-online.md) [~W] |
+| Groups of four or five share limited equipment or one hands-on procedure | Use groups of three or four, or rotate who does each step, so every member does every step | [Large groups limited individual participation](../claims/large-group-size-limited-participation-confidence.md) [~W] |
+| Learners have generative AI tools available during the group work | Bound how the AI may be used and check each member's independent work without it; open use was associated with offloading and lower later higher-order thinking | [Open collaboration with AI, offloading and lower independent thinking](../claims/offloading-mediation-lower-independent-hot.md) [-W] |
+| The task is open-ended or ill-defined, with young adolescents | Start with a well-defined subtask and familiar materials, so that influence in the group rests on reasons rather than on who dominates | [Well-defined tasks support shared creative influence](../claims/well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) [~W] |
+| The task is building a concept map or similar diagram | Have learners build it with a partner rather than alone | [Concept mapping with a peer beat mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W] |
+| Second-language learners of mixed proficiency do speaking tasks in pairs | Pair a stronger with a weaker speaker for tasks meant to produce negotiation of meaning; this is evidence about talk, not about later proficiency | [Mixed-proficiency dyads negotiate meaning more](../claims/mixed-dyads-negotiate-more-than-matched.md) [~W] |
+| The brief allows only one short session | Keep the joint task to one question with an individual answer before and after; do not expect the multi-week effect | untested proposal |
 
 ## Observation, state and explanation
 
@@ -50,6 +68,14 @@ These rows are proposals and have not been tested with learners. A single probe 
 - [Equal, mutual engagement and individual change](../claims/high-equality-mutuality-not-sufficient-conceptual-change.md) [~M]: from the same study, in two dyads whose on-task engagement was high in equality and mutuality, one student changed substantially and the other did not. Two case dyads, with no effect size, and not yet checked against its source. It predicts that balanced participation is not a sufficient observation of each member's learning.
 
 Keep each study's learners, task, comparator, setting, duration and outcome when transporting these observations. A pooled d is a programme-level average, not a learner's probability of benefit. Self-reported learning and objectively measured knowledge are different outcomes and should not be read for each other.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/collaborative-learning.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does working jointly on a task raise achievement over working alone or instruction without group work? [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]: 20 distinct studies.
+- Does what the group achieves together show what each member has learned? [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](../claims/personal-construction-required-stable-conceptual-change.md) [~M]: 3 distinct studies.
+- What makes joint work fail: the task, group size and composition, or how members take part? [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]: 12 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

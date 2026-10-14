@@ -58,6 +58,21 @@ Cross-study synthesis of norm development. The review states that "productive no
 
 > "Several studies conclude d that productive norms develop over time (Borko et al., 2008; Brantlinger et al., 2011; Gee & Whaley, 2016; Hauge & Norenes, 2009; Lesseig, 2015; Slavit et al., 2011)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What conditions make a community productive: norms, trust, leadership, active participation?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **6 distinct studies** (3 qualitative, 1 review, 1 associational, 1 design), `q1`–`q2`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Harvey 2022 | q2 · review · r2 | i? | this claim; [PLC with an appointed teacher leader were more productive than groups with no appointed le](teacher-leader-more-productive-plc.md) (supports) |
+| [Prytula 2012](https://doi.org/10.5539/ies.v5n4p112) | q2 · qualitative · r3 | i? | [Disagreements within a PLC can catalyze teacher learning rather than impede it](plc-disagreements-catalyze-learning.md) (supports) |
+| Irving 2013 | q2 · qualitative · r3 | i? | [The quality of inter-group interactions shifted from brief, superficial exchanges to long,](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) (supports) |
+| [Wabike 2021](https://doi.org/10.5296/jei.v7i2.18814) | q2 · associational · r1 | i?; i1 | [Active participation in a community has a more significant impact on learning than mere me](active-participation-beats-mere-membership-for-learning.md) (supports); [Honours community members perceive a safe and supportive environment that facilitates expl](honours-community-safe-supportive-learning-environment.md) (supports) |
+| Pittaway 2014 | q1 / q2 · design · r2 | i? | [Online learning communities do not simply emerge; they must be designed for and scaffolded](online-communities-must-be-designed-and-scaffolded.md) (supports); [Fortnightly web conferences with open-ended discussion supported students' academic and so](web-conferences-support-online-community.md) (supports) |
+| Murphy 2009 | q2 · qualitative · r2 | i? | [Creating community and interacting with students online required deliberate, planned effor](online-community-requires-conscious-effort.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

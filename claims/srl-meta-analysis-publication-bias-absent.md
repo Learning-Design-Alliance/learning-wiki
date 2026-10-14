@@ -41,8 +41,9 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — possibly the same claim (merge candidate)
 - Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings — related

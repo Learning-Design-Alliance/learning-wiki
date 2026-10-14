@@ -73,6 +73,22 @@ Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on per
 
 A meta-analysis of feedback interventions on task performance in laboratory and field settings, not only in education. On average, feedback improved performance (d = .41), but more than a third of the interventions reduced performance, and sampling error or whether the feedback was positive or negative did not explain this. The authors' feedback intervention theory, tested with moderator analyses, proposes that feedback becomes less effective as it pulls the learner's attention away from the task and toward the self. This is a strong qualification of the general claim.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What should the feedback after a check say, and who or what should give it?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (2 quant-synthesis, 2 associational, 2 causal, 1 theoretical), `q1`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Wisniewski et al. 2020](https://doi.org/10.3389/fpsyg.2019.03087) | q4 · quant-synthesis · r2 | i2 · medium effect, d=0.48; i3 · very large effect for high-information feedback, d=0.99 | this claim; [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) (qualifies) |
+| [Kluger & DeNisi 1996](https://doi.org/10.1037/0033-2909.119.2.254) | q4 · quant-synthesis · r2 | i2 · medium effect, d=.41; i2 · medium average effect, d=.41 | this claim; [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) (qualifies) |
+| [Mendonça PC 2026](https://doi.org/10.3389/feduc.2026.1934069) | q3 · associational · r1 | i? | [Perceived usefulness of response-level LLM feedback is most strongly associated with actio](usefulness-associated-actionability-accuracy.md) (qualifies) |
+| [Grion 2026](https://doi.org/10.1080/02602938.2026.2697962) | q3 · causal · r2 | i? | [Project performance improved significantly from pre- to post-feedback across all three fee](ai-teacher-feedback-equal-project-performance-gains.md) (qualifies) |
+| [Ates 2026](https://doi.org/10.1186/s41239-026-00614-9) | q4 · causal · r3 | i1 | [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedbac](genai-feedback-design-argument-quality-gain.md) (qualifies); [Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfe](agentic-designs-delayed-ai-free-transfer.md) (qualifies) |
+| Hasnain Heickal and Andrew Lan 2026 | q3 · associational · r2 | i? | [Immediate post-feedback improvement is near zero on average and does not differ significan](baseline-post-feedback-gains-near-zero-no-condition-differences.md) (qualifies) |
+| [Venetsanos 2026](https://doi.org/10.3390/aieduc2030026) | q1 · theoretical · r2 | i? | [High-level feedback on reasoning and synthesis should remain a human responsibility for th](high-level-feedback-remains-human-responsibility.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Feedback is not uniformly beneficial.** The broad claim hides substantial failure modes. Feedback that merely reports right or wrong without explaining why [~M], feedback delivered at a moment when the learner can no longer act on it [-M], and feedback that redirects attention to the self rather than the task [-M] have all been associated with null or negative effects in the wider literature. The claim should therefore be read as conditional: feedback improves learning when it gives the learner usable information they did not already have [+S]. Where feedback functions only as praise or reward, its effects are better explained by [behaviorism](../theories/behaviorism.md) than by information processing — and such effects rarely transfer to learning outcomes [-M].

@@ -41,7 +41,8 @@ Two-group randomized pretest–posttest trial with 54 seventh- and eighth-grade 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [The problem-based group achieved significantly larger content-knowledge gains, while the simulation group made no knowledge gains](problem-based-larger-knowledge-gains.md) — related
 - [The participatory simulation group achieved significantly larger application gains than the problem-based group](simulation-larger-application-gains.md) — related

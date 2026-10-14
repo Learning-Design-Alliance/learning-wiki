@@ -41,8 +41,9 @@ The report cites the IES evaluation of Alabama's Math, Science, and Technology I
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-positive-perceptions.md) — related
 - [AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05](amsti-math-problem-solving-effect-0-05.md) — related
 - [AMSTI qualifies for the Promising evidence rating based on one study of 9343 students](amsti-promising-evidence-rating.md) — related

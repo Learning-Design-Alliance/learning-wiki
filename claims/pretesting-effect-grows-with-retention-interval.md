@@ -41,8 +41,9 @@ The review's account of Kliegl et al. (2022), which tested text-passage pretesti
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Pretesting enhances learning](pretesting-enhances-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — a broader claim this one bears on
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on

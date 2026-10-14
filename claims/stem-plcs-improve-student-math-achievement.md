@@ -60,8 +60,9 @@ Expert practitioner panel testimony from the synthesis, drawing on unpublished l
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](stem-plc-math-student-learning-existence-proof.md) — the general claim this finding bears on, with the studies behind it
 - [Existing STEM PLC research is methodologically weak by Standards of Evidence review, with no studies rated adequate, but collectively builds a supportive case for valued PLC effects](stem-plc-research-methodological-rigor-weak.md) — reports the opposite
 - [STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it](stem-plcs-deepen-teacher-content-knowledge.md) — related
 - [Published policy statements and expert advice universally recommend STEM PLCs, with cautions against superficial definition and implementation](stem-plcs-universally-recommended.md) — related

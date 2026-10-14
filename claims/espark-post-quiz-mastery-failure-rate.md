@@ -41,8 +41,9 @@ Analysis of eSpark log data on 2078 completed quests from September 10 to May 6.
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](mastery-learning-did-not-slow-pace-or-scope.md) — the general claim this finding bears on, with the studies behind it
 - [Using the ePSRL Management System shows no significant difference in mean assessment results or mean attempts per quiz between users and non-users](epsrl-no-difference-assessment-results-quiz-attempts.md) — related
 - [In CPS ninth-grade math sections using mastery-based or weekly grading, those categories determined nearly all of the final grade; otherwise assessments carried the highest weight, with a median of 60 percent exceeding the CPS/CTU 50 percent recommendation](cps-gradebook-category-weights-assessments-dominate.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related

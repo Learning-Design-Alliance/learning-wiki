@@ -60,8 +60,9 @@ Focus group vignette in which teachers described difficulty fitting OpenSciEd wo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers find Ecree's feedback less useful when it does not align with their typical content sequence and grading standards](ecree-feedback-less-useful-when-misaligned.md) — related
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
 - [Sesame Street is presented as a model of research-based educational media whose curriculum-plus-formative-and-summative-research model drove measurable impact](sesame-street-research-model-example.md) — related

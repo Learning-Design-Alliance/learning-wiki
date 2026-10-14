@@ -41,8 +41,9 @@ The review reports a randomized controlled trial with 86 K-12 students evaluatin
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages](agentic-ai-evidence-strongest-tutoring-srl-coaching.md) — a broader claim this one bears on
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](journaling-system-improves-srl-all-groups.md) — related
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related

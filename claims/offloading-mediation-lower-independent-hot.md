@@ -39,8 +39,9 @@ Exploratory associative decomposition within the 112 AI-exposed students, adjust
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — the general claim this finding bears on, with the studies behind it
 - [Bounded AI support outperformed open collaboration on all four Week 8 independent no-AI outcomes, though exact wild-cluster p values sat at the 0.050–0.063 boundary](bounded-beats-open-week8-independent-outcomes.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Open collaboration involved more prompts, greater text incorporation, less self-generated text, and deeper idea and reasoning offloading than bounded support](open-collaboration-process-intensity-profile.md) — related

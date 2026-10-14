@@ -60,7 +60,8 @@ The article's Question 2 summary ranks the four treatments by post-test benefit 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — the general claim this finding bears on, with the studies behind it
 - [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — related
 - [Only the Standard two-week-interval treatment showed a statistically significant improvement over the Baseline treatment](standard-two-week-spacing-significant-over-baseline.md) — possibly the same claim (merge candidate)

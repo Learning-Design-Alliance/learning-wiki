@@ -1,0 +1,238 @@
+{
+  "principle": "principles/formative-assessment",
+  "note": "Group 2 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries; review before applying. Covers principles/formative-assessment, patterns/formative-assessment, principles/assessment-for-learning and principles/check-ins. Hubs feedback-improves-learning and contingent-scaffolding-improves-learning are general claims other principles (feedback, scaffolding) may also want as hubs; check no other spec uses them before applying.",
+  "findings": [
+    {
+      "hub": "assessment-for-learning-improves-achievement",
+      "question": "Does using assessment evidence during instruction raise achievement compared with the usual teaching?",
+      "members": [
+        [
+          "formative-assessment-produces-substantial-learning-gains-cited",
+          "+"
+        ],
+        [
+          "teacher-feedback-moves-learning-forward",
+          "+"
+        ],
+        [
+          "hattie-high-effect-size-instructional-factors",
+          "+"
+        ],
+        [
+          "retention-and-downtracking-undermine-achievement",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks",
+          "+"
+        ],
+        [
+          "formative-assessment-la-positive-effects",
+          "+"
+        ],
+        [
+          "diagnostic-review-larger-writing-gains",
+          "+"
+        ],
+        [
+          "diagnostic-review-higher-process-indicators",
+          "+"
+        ],
+        [
+          "group-cycle-interactions-formative-outcomes",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "feedback-improves-learning",
+      "question": "What should the feedback after a check say, and who or what should give it?",
+      "members": [
+        [
+          "feedback-most-effective-at-task-and-process-levels",
+          "~"
+        ],
+        [
+          "usefulness-associated-actionability-accuracy",
+          "~"
+        ],
+        [
+          "ai-teacher-feedback-equal-project-performance-gains",
+          "~"
+        ],
+        [
+          "genai-feedback-design-argument-quality-gain",
+          "~"
+        ],
+        [
+          "agentic-designs-delayed-ai-free-transfer",
+          "~"
+        ],
+        [
+          "baseline-post-feedback-gains-near-zero-no-condition-differences",
+          "~"
+        ],
+        [
+          "high-level-feedback-remains-human-responsibility",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "self-assessment-improves-self-regulated-learning",
+      "question": "Should learners assess their own work, and can their self-ratings be trusted?",
+      "members": [
+        [
+          "self-assessment-accuracy-is-low-without-training",
+          "~"
+        ],
+        [
+          "prior-knowledge-needed-for-accurate-self-assessment",
+          "~"
+        ],
+        [
+          "fluent-illusions-mislead-self-assessment",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ],
+        [
+          "apca-improves-self-assessment-accuracy-overconfidence",
+          "~"
+        ],
+        [
+          "guided-llm-self-assessment-calibration-alignment",
+          "~"
+        ],
+        [
+          "self-monitoring-improves-self-regulation",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-assessment-improves-performance",
+      "question": "Should learners assess each other's work, and does it need a rubric or script?",
+      "members": [
+        [
+          "peer-assessment-structured-criteria-improve-learning",
+          "~"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "contingent-scaffolding-improves-learning",
+      "question": "Does adjusting instruction to each response help, and what do teachers do with the evidence?",
+      "members": [
+        [
+          "tefa-formative-information-changed-lessons",
+          "+"
+        ],
+        [
+          "forms-realtime-formative-assessment-uses",
+          "~"
+        ],
+        [
+          "immediate-adaptive-test-results-enable-differentiation",
+          "+"
+        ],
+        [
+          "equity-focus-drives-formative-assessment",
+          "~"
+        ],
+        [
+          "contingent-tutor-metacognitive-demand-matches-withholding-tutor",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-surrenders-full-answer-least",
+          "+"
+        ],
+        [
+          "perceived-load-unchanged-under-contingent-tutor",
+          "~"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "~"
+        ],
+        [
+          "blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion",
+          "+"
+        ],
+        [
+          "student-uptake-of-support-predicts-small-group-answer-accuracy",
+          "~"
+        ],
+        [
+          "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states",
+          "~"
+        ],
+        [
+          "scaffolding-balance-confusion-versus-critical-thinking",
+          "~"
+        ],
+        [
+          "questioning-benefit-decays-with-impasse-depth",
+          "+"
+        ],
+        [
+          "repeating-scripted-question-lowers-recovery",
+          "+"
+        ],
+        [
+          "student-context-personalization-improves-tutor-metrics",
+          "+"
+        ],
+        [
+          "feedback-most-effective-at-task-and-process-levels",
+          "+"
+        ],
+        [
+          "ai-tutor-pace-adaptation-strengthened-engagement",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "formative-assessment-implementation-barriers",
+      "question": "What stops formative assessment working in practice: stakes, grading, time and class size?",
+      "members": [
+        [
+          "openscied-formative-assessment-feasibility-challenges",
+          "+"
+        ],
+        [
+          "formative-feedback-constraints-gateway-math",
+          "+"
+        ],
+        [
+          "ai-formative-assessment-capacity-demand",
+          "+"
+        ],
+        [
+          "low-stress-tbl-higher-isat-scores",
+          "~"
+        ],
+        [
+          "automated-ai-assessment-high-impact-moderate-challenge",
+          "~"
+        ],
+        [
+          "stakeholder-feedback-llm-formative-assessment",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,8 +41,9 @@ Attitude results from the four-condition experiment (Table 2, item significant a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
 - [In one study of undergraduate business majors in asynchronous online small groups, learners with high affiliation motive agreed more than low-affiliation learners with six of twelve attitude statements about group work](high-affiliation-motive-favorable-group-attitudes.md) — related
 - [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
 - [Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior](interdependence-type-shifts-interaction-nature.md) — related

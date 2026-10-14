@@ -41,7 +41,8 @@ A theoretical claim in the paper's discussion of early writing decisions: once a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](skilled-reader-estimate-audience-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related

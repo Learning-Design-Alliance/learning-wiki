@@ -39,7 +39,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (6 for, 4 mixed, 1 unmarked) · 18 studies (4 causal, 4 review, 3 quant-synthesis, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 18 report an effect size · 7 claims rest on one study
+> **Evidence** · 24 claims (9 for, 14 mixed, 1 unmarked) · 35 studies (11 quant-synthesis, 9 causal, 6 review, 3 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 13 of 35 report an effect size · 14 claims rest on one study
 
 ## Description
 
@@ -76,6 +76,35 @@ For repeated force-only explanations, ask how acceleration changes when mass var
 Kingston and Nash's corrected synthesis reports a science mean of 0.19 with 95% CI 0.06–0.31 across 17 effects; the erratum supersedes the original 0.09 science estimate: [assessment-for-learning observation and comparison frame](../claims/assessment-for-learning-improves-achievement.md). It also removes an inappropriate comparison between two formative approaches. The synthesis supports a bounded program-level expectation and a need for better research; it cannot forecast this learner's response, distinguish these diagnostic branches or establish next-week transfer.
 
 Before comparing another synthesis or applying an effect-size label, record assignment and baseline comparability, learner/context characteristics, exact treatment and control, outcome alignment and independence, score-range/standardization constraints, horizon and uncertainty. Preserve **unknown** fields. A correction removes one known error; it does not establish that all included estimates are comparable. Report raw magnitude alongside a justified context-sensitive interpretation; do not rank interventions or infer individual probabilities from these pooled values. The formative loop's causal pathway remains a hypothesis to test against subsequent responses.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/formative-assessment.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does using assessment evidence during instruction raise achievement compared with the usual teaching? [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [~S]: 10 distinct studies.
+- What should the feedback after a check say, and who or what should give it? [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [~S]: 7 distinct studies.
+- Should learners assess their own work, and can their self-ratings be trusted? [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [~M]: 13 distinct studies.
+- Should learners assess each other's work, and does it need a rubric or script? [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [~M]: 2 distinct studies.
+- Does adjusting instruction to each response help, and what do teachers do with the evidence? [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]: 20 distinct studies.
+- What stops formative assessment working in practice: stakes, grading, time and class size? [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](../claims/formative-assessment-implementation-barriers.md) [~M]: 7 distinct studies.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **what decision each check is meant to inform**, **how often the check-and-adjust cycle can run (within a lesson, within or between units)**, and **who will read the evidence: the teacher, the learner, peers or software**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| School classes (`pre-k-12`), with achievement on unit tests as the goal | Run the elicit–interpret–adjust cycle within or between units, not only at the end of a course, and plan for a small gain | [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+M] |
+| The check will produce only right/wrong scores or a grade | Add information about the task and how to improve it to what goes back to the learner; a verdict or praise alone carries little | [Feedback improves learning, varying with its information](../claims/feedback-improves-learning.md) [+M]; [Feedback works best at task and process levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [~M] |
+| The responses that count will be learners' ratings of their own understanding, and the learners are new to the domain | Do not treat the self-rating as the evidence; pair it with a short aligned task, and show a worked model of self-assessment before relying on it | [Self-assessment accuracy is low without training](../claims/self-assessment-accuracy-is-low-without-training.md) [~M]; [Prior knowledge needed for accurate self-assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M] |
+| Learners should take part in judging their own work | Share the criteria or rubric before the attempt and have learners self-assess a draft they can still revise; expect a small effect on strategy use, and watch for added stress | [Self-assessment improves self-regulated learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]; [Rubric-referenced self-assessment improved work](../claims/rubrics-improve-student-work.md) [~M] |
+| A large class with one teacher, and written work | Add peer review so that each learner gets more feedback than the teacher alone can give; a fixed script is optional | [Peer assessment improves performance](../claims/peer-assessment-improves-performance.md) [+M]; [Structured criteria are not shown to improve peer assessment](../claims/peer-assessment-structured-criteria-improve-learning.md) [~M] |
+| One-to-one tutoring or small groups | Adjust the help after each response: less after success, more after failure, rather than a fixed level of support | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [+M] |
+| The checks will carry marks, or grading rules reward only final scores | Keep the elicitation ungraded and separate from the grade, so that partial understanding can show | [Formative assessment implementation barriers](../claims/formative-assessment-implementation-barriers.md) [~W]; [OpenSciEd grading expectations constrain formative practice](../claims/openscied-formative-assessment-feasibility-challenges.md) [~W] |
+| Software or AI will score drafts (for example, essays) | Use the scoring as a diagnosis that the teacher reviews with the learner before revision, and keep feedback on reasoning and synthesis with a person | [Diagnostic review gave larger writing gains](../claims/diagnostic-review-larger-writing-gains.md) [+W]; [High-level feedback should remain human](../claims/high-level-feedback-remains-human-responsibility.md) [~W] |
+| The goal is retention over weeks | Make the check a recall attempt and follow it with the correct answer; recheck after a delay | [Retrieval practice improves retention](../claims/retrieval-practice-improves-retention.md) [+M] |
+| `online-self-paced`, with no teacher reading responses | Build the checks into the materials with automatic feedback, and give learners a next action for each result | [Formative-assessment-based learning analytics show positive effects](../claims/formative-assessment-la-positive-effects.md) [+W] |
+| Learners stay silent or guess on checks | Offer a private, low-stakes response channel and compare its answers with the public ones before deciding what the silence means | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
@@ -221,3 +250,14 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 - [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](../claims/usefulness-associated-actionability-accuracy.md) [~W]
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](../claims/automated-ai-assessment-high-impact-moderate-challenge.md) [+W]
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](../claims/high-level-feedback-remains-human-responsibility.md) [~W]
+
+## Key Sources
+
+- Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
+- Kingston, N., & Nash, B. (2011). Formative assessment: A meta-analysis and a call for research. *Educational Measurement: Issues and Practice, 30*(4), 28–37. [doi:10.1111/j.1745-3992.2011.00220.x](https://doi.org/10.1111/j.1745-3992.2011.00220.x)
+- Lee, H., Chung, H. Q., Zhang, Y., Abedi, J., & Warschauer, M. (2020). The effectiveness and features of formative assessment in US K-12 education: A systematic review. *Applied Measurement in Education, 33*(2), 124–140. [doi:10.1080/08957347.2020.1732383](https://doi.org/10.1080/08957347.2020.1732383)
+- Pratt, M. W., & Savoy-Levine, K. M. (1998). Contingent tutoring of long-division skills in fourth and fifth graders: Experimental tests of some hypotheses about scaffolding. *Journal of Applied Developmental Psychology, 19*(2), 287–304. [doi:10.1016/s0193-3973(99)80041-0](https://doi.org/10.1016/s0193-3973(99)80041-0)
+- van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [doi:10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
+- Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–252. [https://doi.org/10.1037/0022-0663.91.2.241](https://doi.org/10.1037/0022-0663.91.2.241)
+- Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)
+- Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)

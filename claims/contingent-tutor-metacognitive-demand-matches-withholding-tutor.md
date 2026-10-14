@@ -60,8 +60,9 @@ Forced-choice comparative attributions collected once after all three tasks from
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [A contingent tutor surrendered the full answer in one session in sixteen, against one in six for the question-only tutor](contingent-scaffolding-surrenders-full-answer-least.md) — related
 - [Frustration under the contingent tutor sat between the answer-on-request assistant and the question-only tutor](contingent-tutor-frustration-between-baselines.md) — related
 - [Contingent tutoring held delegation at the level of an answer-on-request assistant while delivering more artifacts, one decision at a time](contingent-tutor-delegation-held-delivery-rose.md) — related

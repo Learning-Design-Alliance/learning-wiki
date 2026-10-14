@@ -41,11 +41,12 @@ Formative interview finding on feedback timing: a participant stated "Do not int
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-motor-retention.md) — the general claim this finding bears on, with the studies behind it
 - [A formative study with 12 clinical-year medical students produced four design-oriented themes for AI-SP consultation practice](formative-study-four-design-themes-ai-sp.md) — related
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
 - [In an evaluative study, medical learners interpreted MedEasy as a connected consultation environment and used its components together to judge case coherence](learners-interpret-medeasy-connected-environment.md) — related

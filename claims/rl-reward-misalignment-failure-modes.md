@@ -41,8 +41,9 @@ The chapter identifies three failure scenarios as analytical risks, citing prior
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — the general claim this finding bears on, with the studies behind it
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](rl-sequencing-beats-fixed-oral-curriculum.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related

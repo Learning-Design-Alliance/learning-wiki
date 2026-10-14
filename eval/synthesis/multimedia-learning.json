@@ -1,0 +1,240 @@
+{
+  "principle": "principles/multimedia-learning",
+  "note": "Batch g7 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries, including the claims ingested 2026-10-13 from Ginns (2005), Ginns (2006), Noetel et al. (2022) and Adesope & Nesbit (2012). Several hubs and members rest on the same syntheses (Ginns 2006 behind seven contiguity claims; Adesope & Nesbit behind eight redundancy claims); synthesize_claim counts each once. Signaling claims are grouped in the clear-structure spec, not here. The Mayer (2008) principle claims are one research programme's review. Review before applying.",
+  "findings": [
+    {
+      "hub": "multimedia-principle-improves-learning",
+      "question": "Do words with a relevant picture beat words alone?",
+      "members": [
+        [
+          "multimedia-principle-words-and-pictures-outcomes",
+          "+"
+        ],
+        [
+          "multiple-representations-improve-learning",
+          "+"
+        ],
+        [
+          "generative-processing-principles-mayer-2008",
+          "+"
+        ],
+        [
+          "media-combinations-affect-recall-and-retention",
+          "+"
+        ],
+        [
+          "all-treatments-produced-significant-gains",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "multimedia-design-principles-improve-learning-overall",
+      "question": "How much do the design principles add, and when do they matter most?",
+      "members": [
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "~"
+        ],
+        [
+          "design-principles-improve-cognitive-load-management",
+          "+"
+        ],
+        [
+          "pretraining-principle-mayer-2008",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "split-attention-effect-degrades-learning",
+      "question": "Should words sit next to, and arrive with, the picture they describe?",
+      "members": [
+        [
+          "contiguity-spatial-temporal-large-learning-benefits",
+          "+"
+        ],
+        [
+          "integration-of-related-elements-large-mean-effect",
+          "+"
+        ],
+        [
+          "contiguity-principles-mayer-2008",
+          "+"
+        ],
+        [
+          "temporal-contiguity-lower-cognitive-load",
+          "+"
+        ],
+        [
+          "element-interactivity-moderates-contiguity-effect",
+          "~"
+        ],
+        [
+          "static-dynamic-presentation-no-moderation",
+          "~"
+        ],
+        [
+          "spatial-temporal-contiguity-equivalent-magnitudes",
+          "~"
+        ],
+        [
+          "testing-format-moderates-contiguity-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-limits-contiguity-benefits",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "modality-effect-narration-over-text",
+      "question": "Should the words be spoken or printed?",
+      "members": [
+        [
+          "modality-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "modality-effect-spoken-text-visual-information",
+          "+"
+        ],
+        [
+          "modality-effect-within-subjects-d073",
+          "+"
+        ],
+        [
+          "modality-effect-holds-middle-school-electricity",
+          "+"
+        ],
+        [
+          "voice-media-outperform-picture-text-overall",
+          "+"
+        ],
+        [
+          "modality-effect-moderated-by-pacing",
+          "~"
+        ],
+        [
+          "modality-effect-field-of-study-moderator",
+          "~"
+        ],
+        [
+          "modality-effect-stronger-in-virtual-reality",
+          "~"
+        ],
+        [
+          "spoken-versus-signaled-written-null",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "redundancy-hurts-learning",
+      "question": "Does presenting the same words twice (spoken and written) hurt or help, and for whom?",
+      "members": [
+        [
+          "redundancy-effect-impairs-learning",
+          "+"
+        ],
+        [
+          "verbal-redundancy-small-overall-effect",
+          "-"
+        ],
+        [
+          "system-paced-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "reader-fluency-prior-knowledge-moderate-redundancy",
+          "~"
+        ],
+        [
+          "images-animation-eliminate-redundancy-benefit",
+          "~"
+        ],
+        [
+          "segmentation-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "redundancy-effect-not-significant-middle-school",
+          "~"
+        ],
+        [
+          "redundant-text-no-effect-posterior-probability-lesson",
+          "~"
+        ],
+        [
+          "redundancy-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "redundancy-principle",
+          "~"
+        ],
+        [
+          "spoken-written-beats-spoken-only-not-written-only",
+          "~"
+        ],
+        [
+          "outcome-constructs-test-formats-moderate-redundancy",
+          "~"
+        ],
+        [
+          "captioning-second-language-videos-large-benefits",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "coherence-principle-irrelevant-material-hurts-learning",
+      "question": "Should interesting but unneeded material be cut?",
+      "members": [
+        [
+          "seductive-details-effect",
+          "~"
+        ],
+        [
+          "decorative-images-distract-from-math-problems",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "segmenting-effect-retention-transfer-meta-analysis",
+      "question": "Should continuous presentations be segmented, and does learner control of pace help?",
+      "members": [
+        [
+          "segmenting-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "+"
+        ],
+        [
+          "segmenting-increases-learning-time",
+          "~"
+        ],
+        [
+          "prior-knowledge-moderates-segmenting-retention",
+          "~"
+        ],
+        [
+          "segmentation-benefits-shrink-with-expertise",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,8 +41,9 @@ Meta-analysis of 15 studies (5,519 participants) from Scopus, IEEE Explore, and 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [SRL interventions combining metacognitive, cognitive, and motivational components were most frequent and, per the authors, had the greatest impact](mixed-srl-strategy-interventions-greatest-impact.md) — related
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — related
 - [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — related

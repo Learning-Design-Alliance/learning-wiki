@@ -41,11 +41,12 @@ OLS regression on the classroom study's post-test scores with cognitive-load que
 
 ## Discussion
 
-
 ## Learner Variables
 - [Working Memory](../learner-variables/working-memory.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related
 - [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way](lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) — related

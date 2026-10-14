@@ -41,8 +41,9 @@ Authors' discussion interpretation of the null main effect, citing treatment-con
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](mastery-learning-did-not-slow-pace-or-scope.md) — the general claim this finding bears on, with the studies behind it
 - [A null study finding can have multiple possible causes and requires interpretation before it informs decisions](null-findings-require-interpretation-of-causes.md) — a broader claim this one bears on
 - [Assigning schools to use RM-CC5 as their core Grade 5 mathematics curriculum for a full year did not significantly change state assessment achievement compared with business-as-usual schools](rm-cc5-core-curriculum-null-achievement-effect.md) — related
 - [Treatment students substantively engaged with RM-CC5 across the school year and all treatment schools met the program's implementation intensity benchmarks, though engagement varied widely between schools and students](rm-cc5-student-engagement-implementation-fidelity.md) — related

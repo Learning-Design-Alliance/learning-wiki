@@ -39,6 +39,24 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 
 > "participants with AI access who used it primarily to obtain direct solutions (61%) showed declining independent performance relative to their own pretest, whereas those who used it for hints and clarification (27%) showed improved performance."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When the support can do the task for the learner (AI assistants), does it cost independent performance?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **9 distinct studies** (3 theoretical, 3 causal, 1 design, 1 review, 1 associational), `q1`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Kuhn 2026 | q2 · theoretical · r3 | i? | this claim |
+| Grace Liu 2026 | q3 · causal · r2 | i2; i1 | [In a randomized experiment on fraction problems, participants who used an AI assistant sol](ai-assistance-impairs-unassisted-fraction-performance-exp1.md) (supports) |
+| Mahbub Ul Alam 2026 | q2 · design · r1 | i? | [High-school students given GPT-4 access solved more problems in the moment but performed w](gpt4-access-worse-after-removal-math.md) (supports) |
+| Marcus Kubsch 2026 | q2 · theoretical · r3 | i? | [Offloading work to AI costs learning: students given answers did well in practice but scor](offloading-to-ai-costs-learning.md) (supports) |
+| [Chen X 2026](https://doi.org/10.3389/fpsyg.2026.1906199) | q2 · causal · r2 | i? | [Open AI collaboration yielded the highest supported writing quality, while bounded AI supp](genai-supported-performance-independent-divergence.md) (supports) |
+| Steve Woollaston 2026 | q1 · review · r2 | i? | [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to foste](ai-scaffolding-fading-learned-helplessness.md) (supports) |
+| Suhyeon Lee 2026 | q2 · associational · r2 | i? | [LLM scaffolding level varies systematically across student request types and across assign](scaffolding-varies-by-request-and-assignment.md) (qualifies) |
+| [Gao X 2026](https://doi.org/10.3389/fpsyg.2026.1887565) | q3 · causal · r2 | i? | [Immediate unsupported application on a new passage showed no material-condition effect and](no-short-term-dependence-cost-unsupported-application.md) (qualifies) |
+| [S P 2026](https://doi.org/10.3389/fdpys.2026.1835258) | q1 · theoretical · r2 | i? | [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynami](ai-scaffolding-developmental-impact-conditional.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -40,6 +40,17 @@ Rosenshine, B., & Meister, C. (1994). Reciprocal Teaching: A Review of the Resea
 
 This review synthesizes sixteen quantitative studies of reciprocal teaching — a dialogue-based routine teaching students to summarize, question, clarify, and predict as they read — drawn from published journal articles and unpublished dissertations. Effects favored reciprocal teaching overall, but the size of the effect depended heavily on the outcome measure: a median effect size of .32 when comprehension was assessed with standardized, norm-referenced tests, versus a much larger .88 when assessed with tests the experimenters themselves developed (which tend to align more closely with the taught strategies). The review also discusses which of the four strategies were most helpful and how instructional quality moderated outcomes.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does modelling strategies and handing the lead to learners improve reading comprehension, and on which measures?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Rosenshine and Meister 1994](https://doi.org/10.3102/00346543064004479) | q3 · quant-synthesis · r? | i1 · small effect, median d=.32 on standardized tests (d=.88 on experimenter-developed tests) | this claim |
+| Emmanuel Imiere 2019 | q2 · review · r1 | i? | [The review reports reciprocal teaching of reading, an approach exemplifying cognitive appr](reciprocal-teaching-raises-reading-comprehension-poor-readers.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The mechanism is usually attributed to two components working together: explicit strategy instruction (the four routines give learners concrete comprehension moves) and scaffolded social practice (students articulate their thinking, receive feedback, and gradually assume the teacher's role) [+M]. This places reciprocal teaching at the intersection of [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the strategies reduce unguided comprehension effort — and [Self-Regulated Learning](../theories/self-regulated-learning.md), since learners monitor and repair their own understanding while reading [+M]. The gradual handover of the discussion-leader role is an application of scaffolding and fading, consistent with [Cognitive Apprenticeship](../theories/cognitive-apprenticeship.md): modeling, coaching, then independent student-led practice.

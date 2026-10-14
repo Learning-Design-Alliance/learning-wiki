@@ -81,6 +81,26 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 
 > "Most of the studies found positive effects on learner performance."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching and prompting self-regulation improve achievement over ordinary instruction?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **11 distinct studies** (5 quant-synthesis, 4 review, 1 causal, 1 theoretical), `q2`–`q4`, 5 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Dignath & Büttner 2008](https://doi.org/10.1007/s11409-008-9029-x) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, average ES = 0.69 | this claim; [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) (supports); [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) (supports) |
+| [Dent & Koenka 2016](https://doi.org/10.1007/s10648-015-9320-8) | q3 · quant-synthesis · r? | i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies) | this claim; [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) (supports); [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) (supports) |
+| [Wong et al. 2019](https://doi.org/10.1080/10447318.2018.1543084) | q3 · review · r3 | i? | this claim |
+| [Ergen 2017](https://doi.org/10.14689/ejer.2017.69.4) | q3 · quant-synthesis · r2 | i3; i? | [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achi](srl-strategies-large-effect-academic-achievement.md) (supports); [Publication-bias checks indicate the pooled effect is unlikely to result from publication ](srl-meta-analysis-publication-bias-absent.md) (supports) |
+| [Guntur 2024](https://doi.org/10.24059/olj.v28i3.4025) | q2 / q3 · quant-synthesis · r2 | i2; i? | [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes i](srl-interventions-moderate-effect-online-blended.md) (supports); [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random ](srl-effect-sizes-heterogeneous-random-effects.md) (qualifies); [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) (supports) |
+| [de Boer et al. 2018](https://doi.org/10.1016/j.edurev.2018.03.002) | q4 · quant-synthesis · r? | i2 · medium effect, Hedges' g=0.50 (posttest), g=0.63 (follow-up) | [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) (supports) |
+| [Adimora et al. 2017](https://doi.org/10.18844/prosoc.v3i3.1582) | q2 · causal · r1 | i? | [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) (supports) |
+| [Zimmerman 2002](https://doi.org/10.1207/s15430421tip4102_2) | q3 · review · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
+| [Butler & Winne 1995](https://doi.org/10.3102/00346543065003245) | q3 · theoretical · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
+| Abdul Gafoor. K. 2016 | q2 · review · r1 | i? | [Short-term self-regulatory strategy training, including within regular mathematics lessons](short-srl-strategy-training-enhances-math-performance.md) (supports) |
+| Self-Regulated Strategy Development: WWC Intervention Report 2017 | q2 · review · r3 | i? | [SRSD had potentially positive effects on writing achievement for students with a specific ](srsd-potentially-positive-writing-achievement-sld.md) (supports); [No SRSD study met WWC group design standards; 10 of 14 eligible single-case design studies](srsd-evidence-base-group-design-null.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Self-regulated learning (SRL) is not a single technique but a cycle of forethought (goal setting, strategic planning), performance (self-monitoring, self-control), and self-reflection (self-evaluation, adaptive adjustment). The claim covers both (a) correlations between learners' existing self-regulatory skill and achievement, and (b) causal effects of explicitly training or scaffolding SRL strategies. These are distinct claims with distinct evidence bases: correlational studies cannot rule out that stronger students self-regulate more, while training studies vary widely in dosage, duration, and whether strategies are taught generically or embedded in a specific domain.

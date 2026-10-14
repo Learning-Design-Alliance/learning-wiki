@@ -41,8 +41,9 @@ Quasi-experimental matched-comparison analysis of 2,855 treatment students in gr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](stem-plc-math-student-learning-existence-proof.md) — the general claim this finding bears on, with the studies behind it
 - [Across the full sample, students receiving the ASSISTments intervention performed comparably to their virtual comparison peers on end-of-year MAP Growth](assistments-full-sample-no-significant-effect.md) — possibly the same claim (merge candidate)
 - [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](treatment-sample-rural-middle-schools-assistments.md) — related
 - [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related

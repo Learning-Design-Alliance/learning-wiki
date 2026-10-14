@@ -79,8 +79,9 @@ The review reports Yang and Lu's (2021) finding that reading time predicted lear
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [LA usage in K–12 mathematics has a generally positive effect on student learning, with high-performing students benefiting most](la-positive-effect-high-performers-benefit-most-k12-math.md) — a broader claim this one bears on
 - [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](multiple-scaffolds-dls-achievement-srl.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related

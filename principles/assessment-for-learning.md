@@ -27,13 +27,30 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 24 studies (7 causal, 6 quant-synthesis, 4 theoretical, 3 review, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 24 report an effect size · 12 claims rest on one study
+> **Evidence** · 25 claims (13 for, 11 mixed, 1 against) · 32 studies (12 causal, 7 quant-synthesis, 5 review, 4 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
 Assessment for learning concerns **who uses assessment evidence during instruction, against what criteria, and under what stakes**. For learners working towards a capability they have not yet reached (in `pre-k-12` or `postsecondary` settings; the evidence below does not report expertise), a response elicited before the outcome is judged is expected to support later performance on that capability only when three conditions hold: the learner and the teacher share the criteria the response is read against; the response is produced under conditions that make revealing partial understanding safe; and a revision, regrouping or reteaching step can follow before the summative judgement. The expected change is in `general-achievement` and, where learners judge their own work, in self-regulated strategy use and `assessment-accuracy`, at the horizon of the next aligned task or unit; the wiki holds no evidence for a longer horizon.
 
 The converted [formative assessment principle](formative-assessment.md) and its [pattern](../patterns/formative-assessment.md) model the narrower teacher-side loop inside this relationship: a response is read against rival hypotheses and a contingent next action is chosen, then reobserved. This page owns what surrounds that loop: whether learners themselves can read the evidence (self-assessment against criteria, and how well calibrated it is), and whether the purpose and stakes of the checkpoint let the evidence be honest. Use the formative assessment pattern as the reusable policy; no separate assessment-for-learning pattern exists.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **whether the evidence will be graded or counted**, **whether learners see the criteria before they attempt the task**, and **whether there is a revision step before the outcome is judged**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| School classes (`pre-k-12`), with achievement as the goal | Gather evidence during the unit and use it before the unit test; expect a small overall gain, larger where learners self-assess | [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+M] |
+| Learners will judge their own work against criteria | Show the criteria with an exemplar before the attempt, have learners self-assess a draft, then revise | [Self-assessment improves self-regulated learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]; [Rubric-referenced self-assessment improved work](../claims/rubrics-improve-student-work.md) [~M] |
+| Learners are novices, or the tasks are unfamiliar | Train self-assessment with modelling examples before relying on it, and check self-ratings against scored work | [Self-assessment accuracy is low without training](../claims/self-assessment-accuracy-is-low-without-training.md) [~M]; [Prior knowledge needed for accurate self-assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M] |
+| Assessment evidence will carry marks or be high-stakes | Separate the formative evidence from the grade and lower the stakes on in-class checks; the one comparison in the wiki is confounded | [Low-stress team-based learning format scored higher](../claims/low-stress-tbl-higher-isat-scores.md) [~W]; [Formative assessment implementation barriers](../claims/formative-assessment-implementation-barriers.md) [~W] |
+| Peers can review each other's work | Add peer assessment; its effect is about the same as self-assessment and does not depend on a fixed rubric | [Peer and self-assessment improve performance equally](../claims/peer-self-assessment-improve-performance-equally.md) [+W]; [Peer assessment improves performance](../claims/peer-assessment-improves-performance.md) [+M] |
+| The course has repeated drafts (writing, projects) | Schedule a diagnose–revise step in each cycle and judge the outcome after revision | [Diagnostic review gave larger writing gains](../claims/diagnostic-review-larger-writing-gains.md) [+W]; [Group-by-cycle interactions for formative outcomes](../claims/group-cycle-interactions-formative-outcomes.md) [~M] |
+| Pre-service teachers learning concepts such as the nature of science | Embed formative checks with reflection in the explicit instruction, and recheck four weeks later | [Formative assessment with explicit-reflective instruction gave higher post-test scores](../claims/formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) [+W]; [Higher retention four weeks later](../claims/formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) [+W] |
+| Feedback will come from AI rather than the teacher | AI feedback can match teacher feedback on a group project; prefer prompts that ask learners to reflect over handing them corrections | [AI and teacher feedback gave equal project gains](../claims/ai-teacher-feedback-equal-project-performance-gains.md) [~M]; [Reflective feedback beat direct GenAI feedback on delayed transfer](../claims/agentic-designs-delayed-ai-free-transfer.md) [~M] |
+| English learners | Use the same cycle, with criteria and feedback in language the learners can act on | [Teacher feedback moves learning forward](../claims/teacher-feedback-moves-learning-forward.md) [+W] |
+| Competitive or norm-graded classroom culture | Make self-ratings private and ungraded, and compare them with an ungraded task before drawing conclusions | untested proposal |
 
 ## Observation, state and explanation
 

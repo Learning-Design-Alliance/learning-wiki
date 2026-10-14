@@ -41,7 +41,8 @@ Qualitative descriptive analysis of a two open-ended-question questionnaire admi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](teacher-modeling-internalizes-reading-strategies.md) — related
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related

@@ -39,6 +39,7 @@ Narrative review attribution, not this review's own synthesis: the review report
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 -

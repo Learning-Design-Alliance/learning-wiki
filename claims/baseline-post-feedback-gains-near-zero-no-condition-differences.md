@@ -41,8 +41,9 @@ Descriptive and regression analysis of Δ pass rate over valid submission transi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Prompting-based student simulators maintain artificially high pass rates (~80%) from the first submission step, while fine-tuned models track real students' low-start, sharp-increase trajectories](prompted-simulators-artificially-high-pass-rates.md) — related
 - [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](chatgpt-teachable-agent-fewer-submission-attempts.md) — related
 - [Valid test case feedback improves correctness without reducing subsequent submission counts](valid-test-cases-not-fewer-submissions.md) — related

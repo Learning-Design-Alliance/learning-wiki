@@ -41,8 +41,9 @@ Subgroup analysis of the same QED using the partially nested model on the low-pe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](stem-plc-math-student-learning-existence-proof.md) — the general claim this finding bears on, with the studies behind it
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — possibly the same claim (merge candidate)
 - [Achievement-quartile analysis shows the intervention was most effective for students in the 2nd quartile (25th–50th percentiles) of baseline achievement](assistments-quartile-q2-most-effective.md) — related
 - [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](treatment-sample-rural-middle-schools-assistments.md) — related

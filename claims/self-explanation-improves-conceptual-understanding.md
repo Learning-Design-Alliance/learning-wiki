@@ -150,6 +150,10 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 
 ## Related Claims
 
+- [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
+
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — the general claim this finding bears on, with the studies behind it
+
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — related

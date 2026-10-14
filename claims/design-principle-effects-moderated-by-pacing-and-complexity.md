@@ -77,10 +77,23 @@ Across 30 pooled effects, learner prior knowledge did not significantly moderate
 
 > "The prior knowledge of the learner did not moderate effects (NPooledEffects = 30, R22 = 0.14, p = 0.14)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*For which material and pacing does managing load matter most?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 causal), `q2`–`q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2; i? | this claim |
+| [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q3 · quant-synthesis · r2 | i2 | [The learning benefit of increasing integration is substantially larger for high element in](element-interactivity-moderates-contiguity-effect.md) (supports) |
+| [Kala 2023](https://doi.org/10.36681/tused.2023.027) | q2 · causal · r2 | i? | [As the element interactivity level of thermodynamics topics increases, learning becomes mo](retention-transfer-scores-decrease-with-element-interactivity.md) (supports); [Mental effort and study time increase with a topic's element interactivity level, making t](mental-effort-study-time-indicate-element-interactivity.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — the general claim this finding bears on, with the studies behind it
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — reports the opposite
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — a narrower finding that bears on this claim
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related

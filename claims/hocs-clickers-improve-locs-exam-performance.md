@@ -39,6 +39,17 @@ Counterbalanced quasi-experiment over two semesters of a nonmajors Human Biology
 
 > "HOCS clicker questions contributed to better performance on LOCS exam questions than did LOCS clicker questions (M LCL = 72% versus MHCL = 76%; t [52] = 4.25, P < 0.001, Cohen’s d = 0.47)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which questions to discuss: recall-level or higher-order?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (1 causal, 1 associational), `q2`–`q3`, 2 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Deborah K. Anderson 2023](https://doi.org/10.1128/jmbe.00151-22) | q3 · causal · r2 | i2; i? | this claim; [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) (qualifies); [Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of ](semester-cohort-difference-hocs-exams.md) (qualifies); [Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam perform](students-perceive-clicker-levels-equally-helpful.md) (qualifies) |
+| Moore 2011 | q2 · associational · r1 | i2 | [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

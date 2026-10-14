@@ -46,5 +46,7 @@ Experiment 1 text-type analysis: significant text-type main effects on free and 
 One experiment is recorded. The entry prints F tests and post-hoc comparisons but no effect size, so the size of the advantage is not established (an earlier `i1` code had no printed effect size behind it). The 14-day recognition test showed a text-type main effect; the advantage reported for refutational text at that delay is over inverted refutational text; no advantage over traditional text is reported at 14 days.
 
 ## Related Claims
+
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests](belief-consistent-facts-better-recognized.md) — related
 - [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](external-evidence-can-refute-computational-models-of-particle-interactions.md) — related

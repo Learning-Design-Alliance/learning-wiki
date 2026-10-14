@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (18 for, 11 mixed) · 29 studies (10 causal, 8 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 9 of 29 report an effect size · 22 claims rest on one study
+> **Evidence** · 32 claims (20 for, 11 mixed, 1 against) · 32 studies (13 causal, 8 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -48,6 +48,25 @@ For a learner whose current capacity on **the particular task** is limited (a `n
 The relationship has two edges. Too much simultaneous demand for this learner is expected to impede learning; but **less effort is not the objective**. Conditions that slow performance during learning (retrieval, spacing, interleaving, problem-solving before instruction) can improve `delayed-retention`, `conceptual-understanding` or transfer, and support that helps at the start can become redundant later. Managing load therefore means deciding, for a stated outcome and horizon, which demand to remove, which to defer and which to keep.
 
 [Cognitive Load Theory](cognitive-load-theory.md), the converted sibling principle, holds the narrower model that sits inside this one: for task-specific novices on high-element-interactivity material, removing avoidable processing (integrated sources, segmented transient media, isolated elements, full examples) improves immediate performance or efficiency, a relationship that weakens with expertise. This page adds the sequence-level decisions around that lever: when to defer intrinsic demand, when to restore effortful processing, and how to tell which a response calls for. Working-memory limits and schema construction are the explanatory hypotheses of the [theory](../theories/cognitive-load-theory.md) and of the [expertise reversal effect](../theories/expertise-reversal-effect.md); they are not observations. The [4C/ID pattern](../patterns/4cid-four-component-instructional-design.md) is a reusable whole-task policy that applies both; its response-dependent branches remain proposals.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **how much do these learners know about this particular task?**, **how many elements must be handled together?**, **is the outcome immediate performance, transfer or retention at a delay?**, and **the learners' age and language of instruction**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| A new topic with many unfamiliar parts or terms (equipment, anatomy, a system) | Start with a short primer that names the parts and what they do, then the main lesson | [A pretraining primer improved knowledge and transfer](../claims/pretraining-improves-transfer.md) [+M] |
+| A complex whole task that novices cannot yet coordinate | Teach the interacting parts in isolation first, then combine them in the whole task | [Isolated parts first helped novices on complex tasks](../claims/part-task-practice-reduces-load-for-novices.md) [+M] |
+| Transient media (video, narrated animation) carry the content | Segment it at conceptual breaks; allow extra time | [Segmenting and worked examples improved learning, with qualifications](../claims/cognitive-load-management.md) [+M]; [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M] |
+| Novices learning a structured problem type (mathematics, science procedures) | Begin with worked examples before unaided problems | [Worked examples improve mathematics performance](../claims/worked-examples-improve-math-performance.md) [+M] |
+| Learners are progressing, or are experienced on the task | Withdraw guidance step by step and check with an unsupported changed problem before removing it entirely | [Guidance that helps novices can become redundant as expertise grows](../claims/expertise-reversal-effect.md) [~M] |
+| The outcome is retention at a delay (an exam weeks away) | Once the material is understood, reintroduce effort: spaced practice and retrieval quizzes, even though practice gets harder | [Effortful conditions can improve delayed retention](../claims/desirable-difficulties-enhance-learning.md) [~M] |
+| The goal is conceptual understanding, with secondary or older students | Consider a problem-solving attempt before instruction, always followed by the instruction | [Problem-solving before instruction improved conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) [~M] |
+| Learners are in grades 2–5, or the skill is domain-general | Teach first, then practise; the problem-first advantage reversed for these groups | [Problem-solving before instruction improved conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) [-M] |
+| The material is word lists or vocabulary | Present items blocked by category rather than interleaved; interleaving hurt for words | [Effortful conditions can improve delayed retention](../claims/desirable-difficulties-enhance-learning.md) [~M] |
+| Instruction is in the learners' second language | Give explanations in the first language or bilingually where possible | [Foreign-language AI explanations impose a double burden](../claims/double-burden-language-of-ai-instruction.md) [~W] |
+| Child learners writing a target form in a second language | Keep the task simple while the form is new; written production fell as task complexity rose | [Higher task complexity went with lower written production](../claims/task-complexity-negatively-related-child-written-production.md) [-W] |
+| Learners are older adults (55+) | Slow the pace and avoid fast, competitive drills; do not lower expectations of what they can learn | [Fast drills disadvantage older learners](../claims/rote-drills-disadvantage-older-learners.md) [~W]; [Learning ability does not decline with age in healthy adults](../claims/learning-ability-does-not-decline-with-age.md) [+W] |
 
 ## Observation, state and explanation
 
@@ -95,7 +114,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Older Beginner Esl Outcome Gains](../claims/older-beginner-esl-outcome-gains.md) [+M]
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](../claims/rote-drills-disadvantage-older-learners.md) [+W]
 - [Learning ability does not decline with age in healthy older adults](../claims/learning-ability-does-not-decline-with-age.md) [~W]
-- [No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children](../claims/no-evidence-older-adults-cannot-learn-language.md) [~W]
+- [Healthy older adults can learn another language, by one digest's account](../claims/no-evidence-older-adults-cannot-learn-language.md) [~W] — the absence is the source's, not the literature's: Grognet (1997), a practitioner digest that cites no studies, asserts that research does not show older adults cannot learn another language, and adds that adults need more deliberate effort than children; no study recorded in this wiki tests the point.
 
 ## Objective and learner-valued goal
 
@@ -327,7 +346,7 @@ Because older adults tend to process information more slowly and may have declin
 - [Older Beginner Esl Outcome Gains](../claims/older-beginner-esl-outcome-gains.md) [+M]
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](../claims/rote-drills-disadvantage-older-learners.md) [+W]
 - [Learning ability does not decline with age in healthy older adults](../claims/learning-ability-does-not-decline-with-age.md) [~W]
-- [No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children](../claims/no-evidence-older-adults-cannot-learn-language.md) [~W]
+- [Healthy older adults can learn another language, by one digest's account](../claims/no-evidence-older-adults-cannot-learn-language.md) [~W] — the absence is the source's, not the literature's: Grognet (1997), a practitioner digest that cites no studies, asserts that research does not show older adults cannot learn another language, and adds that adults need more deliberate effort than children; no study recorded in this wiki tests the point.
 
 ## Related Principles
 

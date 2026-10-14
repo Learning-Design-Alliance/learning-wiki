@@ -41,6 +41,18 @@ Graham, S., & Sandmel, K. (2011). The Process Writing Approach: A Meta-analysis.
 
 The authors meta-analyzed 29 experimental and quasi-experimental studies of students in grades 1–12 to test whether process writing instruction improves writing quality and motivation to write. For students in general education classes, process instruction produced a statistically significant but relatively modest gain in overall writing quality (average weighted effect size = 0.34), unrelated to grade, measure reliability, professional development, genre assessed, or study quality. It did **not** significantly improve students' motivation to write, nor did it enhance the quality of struggling writers' compositions — a boundary condition directly relevant to this claim's scope.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do time for revision and explicit criteria condition the gain?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q2`–`q4`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Graham and Sandmel 2011](https://doi.org/10.1080/00220671.2010.488703) | q4 · quant-synthesis · r? | i1 · small-to-modest effect, ES=0.34 | this claim |
+| [Andrade et al. 2010](https://doi.org/10.1080/09695941003696172) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
+| [Panadero & Romero 2014](https://doi.org/10.1080/0969594x.2013.877872) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **What the recorded meta-analysis qualifies.** Graham & Sandmel (2011) found a small overall effect on writing quality (ES = 0.34) and no significant improvement in writing motivation or in the composition quality of struggling writers, so the claim holds for typical writers more than for those who most need help.

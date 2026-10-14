@@ -41,8 +41,9 @@ The report's narrative review of in-service learning describes networks and prof
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — the general claim this finding bears on, with the studies behind it
 - [Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices](leader-training-residency-facilitated-practice-sharing-but-implementation-lagged.md) — related
 - [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](principals-lack-authentic-job-embedded-learning.md) — related
 - [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](face-collaborative-fostered-collaborative-leadership-behaviors.md) — related

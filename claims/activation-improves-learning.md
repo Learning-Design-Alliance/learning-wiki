@@ -82,6 +82,20 @@ Brand, C., Loibl, K., & Rummel, N. (2025). Prior knowledge activation as prepara
 
 Secondary-school students studied worked solution attempts on mean absolute deviation before explicit instruction, in a vicarious-failure design. The solution attempts covered either a high or a low share of the concept's components. After controlling for prior knowledge, mathematical ability and self-concept, the two conditions did not differ in conceptual knowledge. A Bayes factor weakly favoured no difference (BF01 = 2.36 for the cleaned sample, 4.26 for the full sample). In exploratory analyses, the knowledge students activated showed up in an intermediate test, and that intermediate knowledge was positively related to learning after instruction. The authors conclude that activating some relevant knowledge can be enough to prepare students. The study compares two amounts of activation and has no no-activation control, so it speaks to how much to activate, not to whether activation helps.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does an activity that surfaces prior knowledge before instruction improve learning compared with starting directly?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (3 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Luiten et al. 1980](https://doi.org/10.3102/00028312017002211) | q3 · quant-synthesis · r? | i? | this claim |
+| [Kostons and van der Werf 2015](https://doi.org/10.1111/bjep.12069) | q3 · causal · r? | i? | this claim |
+| [Brand et al. 2025](https://doi.org/10.1007/s11251-025-09727-6) | q3 · causal · r2 | i0 · no significant difference, ηp²=0.014 (cleaned sample), 0.004 (full sample) | this claim |
+| Woloshyn 1992 | q3 · causal · r2 | i0 | [Prior-knowledge activation instructions before study had little effect on retention in Exp](prior-knowledge-activation-little-effect-on-retention.md) (counts against) |
+| [Jinhee Kim 2026](https://doi.org/10.1007/s11423-026-10655-6) | q2 · qualitative · r? | i? | [Adult learners perceive AI-generated warm-up activities as activating prior knowledge for ](ai-warmups-activate-prior-knowledge-solution-generation.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Activation is typically explained through schema theory: new information is stored and retrieved more effectively when it can be connected to existing knowledge structures [+M]. Activities such as brainstorming, pre-questions, analogies, and advance organizers serve this function — see [Advance organizers improve learning](advance-organizers-improve-learning.md) and [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md). In cognitive load terms, activation reduces the extraneous processing required to situate new material, complementing broader [cognitive load management](../principles/cognitive-load-management.md) approaches.

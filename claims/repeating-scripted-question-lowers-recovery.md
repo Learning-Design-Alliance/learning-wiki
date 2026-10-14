@@ -41,8 +41,9 @@ Model 2 two-turn sequence analysis (Table 5) on impasse episodes, adjusted for d
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Student impasses in LLM chemistry tutoring concentrate in the relevant-concepts planning phase, and impasse type depends strongly on problem-solving practice](impasses-concentrate-relevant-concepts-practice.md) — related
 - [The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial](questioning-benefit-decays-with-impasse-depth.md) — a broader claim this one bears on
 - [Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply](recovery-declines-with-impasse-depth.md) — related

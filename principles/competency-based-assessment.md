@@ -23,7 +23,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (9 for, 12 mixed, 1 against) · 25 studies (7 causal, 4 review, 4 design, 4 theoretical, 3 associational, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 2 of 25 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (7 for, 18 mixed, 1 against) · 28 studies (7 causal, 5 design, 5 theoretical, 4 review, 4 associational, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 3 of 28 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -42,6 +42,23 @@ The page's earlier guidance, kept as a concrete default a designer can act on an
 5. **Calibrate assessors and check their agreement before relying on a judgement.** Use a shared rubric, score common samples together, and look at the spread between assessors on the same work. Evidence: two studies show assessors on one rubric can differ substantially; neither tests calibration as a remedy.
 6. **Allow reassessment after correction, on a comparable but changed task**, so a judgement reflects capability rather than timing. Evidence: the mastery-learning synthesis (see Evidence) supports the correct-and-recheck loop at programme level; the gate's own model is on [Mastery Learning](mastery-learning.md).
 7. **Record what the judgement does not cover**: the aids allowed, the attempt number, the assessor, and the horizon. A "demonstrated" today is not evidence of `delayed-retention` or of performance in the learner's later setting. Untested here; from the earlier page.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **what the judgement decides (feedback, progression, a credential)**, **how many assessors score each performance**, **how the threshold will be set**, and **whether reassessment is allowed**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Several assessors will score the same kind of performance | Calibrate them on common samples and check their spread before relying on a judgement; raters on one scale differed in severity | [Raters differed in severity](../claims/raters-differed-severity-mfrm.md) [~M]; [Engineering rubric scorers differed by 1.2 of 9 points](../claims/engineering-rubric-low-scoring-reliability.md) [-W] |
+| A panel will set the pass threshold | Use a cut-score method that resists one deviant rating, and record the method | [Mean-classification cut-score method more robust to outliers](../claims/mean-classification-cut-score-method-robust.md) [~W] |
+| AI will score responses | Write the required conditions into the rubric explicitly, keep human review of borderline and high-stakes decisions, and check agreement with human scorers | [Explicit rubric conditions reduced AI disagreement](../claims/explicit-rubric-conditions-reduce-ai-disagreement.md) [~W]; [AI not yet best practice for competency assessment](../claims/ai-not-best-practice-competency-based-assessment.md) [~W] |
+| Learners should improve, not only be certified | Share the criteria with an exemplar before the attempt and have learners self-assess a draft against them | [Rubric-referenced self-assessment improved work](../claims/rubrics-improve-student-work.md) [~M] |
+| The judgement controls progression to the next unit | Allow reassessment after correction on a comparable but changed task | [Mastery learning improves outcomes](../claims/mastery-learning-improves-outcomes.md) [+M] |
+| A test places learners into levels | Check measurement precision at the cut scores that matter, not only overall reliability | [Placement test precision declines above the 40th percentile](../claims/cmi-ela-test-precision-declines-above-40th-percentile.md) [~W] |
+| The test was built by picking items that spread learners out | Choose items that represent the competency domain, not those that discriminate best between learners | [Statistical item selection conflicts with criterion-referenced definitions](../claims/statistical-item-selection-conflicts-criterion-referenced-definition.md) [~W]; [Criterion-referenced tests need construct validation](../claims/criterion-referenced-tests-need-construct-validation.md) [~W] |
+| Checks must be short | Use an adaptive mastery test; in one military-training simulation it shortened tests by 30–81% with the same decision for 96% of trainees | [Adaptive mastery testing reduces length and preserves decisions](../claims/adaptive-mastery-testing-reduces-length-preserves-decisions.md) [~W] |
+| Learners whose capability is still emerging (young children, early stages) | Add an assisted attempt beside the unassisted one, and record what help made the difference | [Static assessment misses developing functions](../claims/static-assessment-misses-emerging-functions.md) [~W] |
+| Graduation or certification will rest on performance assessments | Give learners more than one occasion to demonstrate each competency, and record the conditions of each | [Performance assessments expand opportunities to demonstrate mastery](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [~W] |
 
 ## Observation, state and explanation
 

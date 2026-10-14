@@ -58,6 +58,18 @@ A synthesis of eight major meta-analyses of PBL since 1992, reported by the arti
 
 > "Strobel and van Barneveld (2009) concluded that even though PBL could result in slight underperformance on standardized tests of basic knowledge in the shorter term, it was more effective when it came to long-term retention and performance improvement."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the advantage of explicit instruction last beyond the end of instruction?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 theoretical, 1 associational, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q2 / q3 · theoretical · r3 | i? | this claim; [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) (qualifies) |
+| Clark 2010 | q2 · associational · r2 | i? | [Direct instruction on forces produces a significant positive effect on Newton's Third Law ](instruction-positive-effect-peaks-then-diminishes.md) (supports) |
+| Raafat Gabriel 2009 | q2 · review · r2 | i? | [Explicit teaching is more effective for EFL copular be learning but its effect is not dura](explicit-teaching-effective-but-not-durable.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

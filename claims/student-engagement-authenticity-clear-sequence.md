@@ -41,8 +41,9 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures](clear-variable-coordinate-beats-unclear.md) — the general claim this finding bears on, with the studies behind it
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related
 - [Respondents identified five main areas of benefit from the redesigned principal preparation policy, including more rigorous selection and a more extensive competency-based internship](illinois-principal-preparation-five-benefit-areas.md) — related
 - [When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like](contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) — related

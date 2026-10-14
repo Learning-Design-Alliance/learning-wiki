@@ -41,8 +41,9 @@ Theoretical argument within the paper's anatomy of autonomy, based on the author
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — the general claim this finding bears on, with the studies behind it
 - [Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system](orthographic-autonomy-requires-instruction.md) — related
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
 - [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — a broader claim this one bears on

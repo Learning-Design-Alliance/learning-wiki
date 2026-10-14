@@ -42,8 +42,9 @@ The article reports, citing Manning and Manning (1984), a pretest-posttest study
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee](cl-not-magic-wand-for-er-motivation.md) — related
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related
 - [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](posttest-omnibus-anova-semantic-mapping-conditions.md) — related

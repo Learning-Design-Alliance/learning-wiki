@@ -60,8 +60,9 @@ The review attributes to Liu et al. (2026) randomised controlled trials with N=1
 
 ## Discussion
 
-
 ## Related Claims
+
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Heavy reliance on generative AI can undermine learning: students with GPT-4 access performed better on practice problems but worse on exams once the tool was removed](gpt4-access-harms-learning-after-withdrawal.md) — possibly the same claim (merge candidate)
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — a broader claim this one bears on
 - [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt-access-supported-practice-poorer-unaided-test.md) — possibly the same claim (merge candidate)

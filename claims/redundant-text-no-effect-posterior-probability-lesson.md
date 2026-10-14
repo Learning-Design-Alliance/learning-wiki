@@ -41,8 +41,9 @@ Mixed-effects model comparing diagram-with-redundant-text and diagram-without-re
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Diagrams improved posttest accuracy only in the read-twice condition, not in the questioning conditions](diagrams-help-posttest-only-read-twice-condition.md) — related
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-effect.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related

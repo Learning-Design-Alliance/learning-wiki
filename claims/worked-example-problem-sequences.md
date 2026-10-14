@@ -42,6 +42,18 @@ van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-
 
 Test ANCOVA: F(3,91)=9.00, partial η²=.23; training effort: F(3,91)=7.78, partial η²=.20. Bonferroni contrasts supported the stated ordering. These are omnibus effects, not pairwise standardized gains or individual probabilities. Randomization does not ensure exact baseline equivalence; differential exclusions and narrow, instruction-aligned tests constrain interpretation.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should the example come before or after the practice problem?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | this claim |
+| [van Gog 2011](https://doi.org/10.1016/j.compedu.2011.03.019) | q3 · causal · r? | i? | [Identical example–problem pairs showed an early order advantage but no detected final-test](identical-example-problem-order-advantage-not-detected-at-final-test.md) (qualifies) |
+| [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | [Alternating example-practice pairs produce faster and more accurate near-transfer solution](alternating-example-problem-pairs.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The comparison supports a bounded example-first choice for similar initial tasks. It does not test an adaptive fading policy, a mandatory alternation rule, delayed retention, live repair safety or open-ended creativity. Mental effort is an observed report; schema acquisition is an explanation, not a direct measurement. No learner-valued goal mechanism was measured.
@@ -49,6 +61,8 @@ The comparison supports a bounded example-first choice for similar initial tasks
 Do not conflate example→problem pairs with completion problems: the latter omit solution steps within a task. Do not substitute this study's task count, timing or test threshold as universal requirements. A short diagnostic attempt before instruction is also distinct from a sustained problem-first learning design.
 
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 
 - [Identical pairs qualify an example-first final-test advantage](identical-example-problem-order-advantage-not-detected-at-final-test.md)
 - [Fading and principle prompts in probability learning](fading-and-principle-prompts-improve-probability-transfer.md)

@@ -42,8 +42,9 @@ Systematic review (WWC Adolescent Literacy protocol, Version 2.0) computing impr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [WWC finds CIRC has potentially positive effects on general literacy achievement for adolescent learners (average improvement index +2 percentile points)](circ-potentially-positive-general-literacy-achievement.md) — related
 - [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
 - [READ 180® has positive effects on reading comprehension for adolescent readers in grades 4–12](read-180-positive-effects-comprehension-adolescents.md) — related

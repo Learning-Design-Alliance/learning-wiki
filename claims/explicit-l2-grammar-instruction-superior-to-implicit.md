@@ -99,6 +99,22 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 
 > "The results indicate larger effect sizes for explicit over implicit instruction for simple and complex features."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*In second-language teaching, explicit rules and strategies or implicit exposure?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (4 quant-synthesis, 2 review, 1 causal), `q2`–`q3`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Aydinbek C 2022](https://doi.org/10.5897/err2022.4230) | q2 · review · r2 | i? | this claim; [Explicit teaching of grammar rules enhances their learning, and rules are learned faster a](explicit-rules-learned-faster-in-communicative-tasks.md) (qualifies) |
+| [Norris & Ortega 2000](https://doi.org/10.1111/0023-8333.00136) | q3 · quant-synthesis · r2 | i? | this claim |
+| [Goo et al. 2015](https://doi.org/10.1075/sibil.48.18goo) | q3 · quant-synthesis · r? | i? | this claim |
+| [Spada & Tomita 2010](https://doi.org/10.1111/j.1467-9922.2010.00562.x) | q3 · quant-synthesis · r? | i? | this claim; [Explicit grammar teaching outperforms implicit teaching; one review found the advantage on](explicit-teaching-complex-rules-only-advantage.md) (supports) |
+| Raafat Gabriel 2009 | q2 · review · r2 | i? | [Explicit grammar teaching outperforms implicit teaching; one review found the advantage on](explicit-teaching-complex-rules-only-advantage.md) (supports); [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruc](rule-oriented-explicit-outperforms-implicit.md) (supports) |
+| [Stahl Fairbanks 1986](https://doi.org/10.3102/00346543056001072) | q3 · quant-synthesis · r? | i? | [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outco](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) (qualifies) |
+| Üstündağ-Algın 2025 | q2 · causal · r1 | i? | [Explicit instruction of four reading comprehension strategies with short stories yields hi](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) (supports); [All experimental group EFL students expressed positive perspectives on explicit instructio](efl-students-positive-views-explicit-strategy-instruction.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

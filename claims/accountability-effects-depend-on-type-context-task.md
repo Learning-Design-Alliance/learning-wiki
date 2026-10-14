@@ -41,7 +41,8 @@ A synthesis claim drawn from the behavioral science literature on accountability
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
 - [Behavioral science research shows accountability comes in many forms that activate different mechanisms](accountability-many-forms-different-mechanisms.md) — a broader claim this one bears on
 - [Outcome-based accountability is only one of multiple forms of accountability, each invoking distinct motivational mechanisms](outcome-accountability-one-of-multiple-forms.md) — related

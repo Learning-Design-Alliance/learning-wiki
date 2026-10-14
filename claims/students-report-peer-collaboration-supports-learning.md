@@ -41,8 +41,9 @@ Focus-group findings on Learning and Engagement. One 11th-grade student said "wo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
 - [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — related

@@ -41,8 +41,9 @@ Moderator analysis of education population (traditional, low-income, underrepres
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — a broader claim this one bears on

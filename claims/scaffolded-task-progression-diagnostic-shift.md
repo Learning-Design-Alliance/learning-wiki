@@ -41,8 +41,9 @@ Thematic analysis of interviews and video recordings across the three task types
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](ca-methods-more-effective-than-traditional-writing-college.md) — the general claim this finding bears on, with the studies behind it
 - [Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design](ai-scaffold-fading-independent-justification.md) — related
 - [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related

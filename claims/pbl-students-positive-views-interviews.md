@@ -41,6 +41,7 @@ Qualitative component of two included PBL studies (Çoban, 2004; Kaçar, 2012): 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — the general claim this finding bears on, with the studies behind it
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related

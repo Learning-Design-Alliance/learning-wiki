@@ -41,8 +41,9 @@ Random-effects meta-analysis of five PBL studies; pooled ES 1.560 (95% CI 0.768�
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — the general claim this finding bears on, with the studies behind it
 - [Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values](di-medium-positive-effect-academic-achievement.md) — related
 - [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](heterogeneity-random-effects-model-problem-solving-meta-analysis.md) — related
 - [Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)](cbl-large-positive-effect-academic-achievement.md) — related

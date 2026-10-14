@@ -60,6 +60,7 @@ The review reports that Catrambone's series of studies 'consistently documented 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — the general claim this finding bears on, with the studies behind it
 -

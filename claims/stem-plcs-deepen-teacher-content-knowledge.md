@@ -41,8 +41,9 @@ Knowledge synthesis of empirical studies and expert advice on STEM PLCs. The syn
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — the general claim this finding bears on, with the studies behind it
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](stem-plc-teacher-knowledge-attitude-gains.md) — a broader claim this one bears on
 - [Students of teachers in STEM learning communities learn mathematics better, but published evidence covers only mathematics and remains emerging](stem-plcs-improve-student-math-achievement.md) — related
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related

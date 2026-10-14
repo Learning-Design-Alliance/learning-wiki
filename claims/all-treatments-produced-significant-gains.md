@@ -41,8 +41,9 @@ Paired t-tests on pre/post achievement for each of the ten multimedia conditions
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](abstract-concrete-representation-no-difference.md) — related
 - [Video-based treatment produces significant macrostructure gains over five weeks, with a significant Group x Test interaction](video-treatment-significant-macs-pre-post-gain.md) — related
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related

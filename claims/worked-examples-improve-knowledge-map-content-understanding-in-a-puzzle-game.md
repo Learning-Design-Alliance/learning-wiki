@@ -41,8 +41,9 @@ Randomized two-group experiment (72 undergraduate or graduate students) with the
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Worked Example Gains In A Puzzle Game Remain Small Relative To Expert Knowledge Maps](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md)
 - [Worked Examples Reduce Novice Search](worked-examples-reduce-novice-search.md)
 - [Game-based learning improved pharmacy students' literature searching course scores in one reported study](game-based-learning-improves-literature-searching-scores-pharmacy.md) — related

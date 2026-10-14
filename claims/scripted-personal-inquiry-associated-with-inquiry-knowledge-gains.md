@@ -49,6 +49,8 @@ The [Scripted Personally Meaningful Inquiry](../patterns/scripted-personally-mea
 This is design-based research reporting on toolkit feasibility and one confounded quantitative comparison, not a controlled efficacy trial, and the authors are explicit and repeated in cautioning against causal interpretation: "we cannot conclude with certainty that the improvement for the intervention group was due only to the effects of the intervention," and "there are no straightforward conclusions as to whether scripted inquiry learning changed the young people's inquiry skills and attitudes to science." The strongest, most confidently-supported finding is feasibility: the toolkit and pattern successfully supported inquiry activity spanning classroom, home, and field settings with only minor technical friction. The inquiry-accuracy gain and the sustainability-attitude reports are both directionally positive but should be read as suggestive rather than established.
 
 ## Related Claims
+
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](ci-cycle-metric-guided-solution-quarry-problem.md) — related
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — related

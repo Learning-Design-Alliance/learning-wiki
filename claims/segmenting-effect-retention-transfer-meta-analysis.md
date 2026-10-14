@@ -39,6 +39,19 @@ Meta-analysis of the segmenting effect covering "56 investigations including 88 
 
 > "This meta-analysis contains 56 investigations including 88 pairwise comparisons and reveals a significant segmenting effect with small to medium effects for retention and transfer performance."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should continuous presentations be segmented, and does learner control of pace help?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | this claim; [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced s](segmenting-effects-confirmed-system-paced.md) (supports); [Segmentation increases learning time](segmenting-increases-learning-time.md) (qualifies); [Learners with high prior knowledge benefit more from segmenting in retention performance t](prior-knowledge-moderates-segmenting-retention.md) (qualifies) |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Segmenting principle: learner-paced segments of narrated animation improve transfer over c](segmenting-principle-mayer-2008.md) (supports) |
+| [Spanjers et al. 2011](https://doi.org/10.1016/j.chb.2010.05.011) | q3 · causal · r? | i? | [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) (qualifies) |
+| Guttormsen Schär 2007 | q2 · causal · r1 | i? | [Learner flow control over animations was rarely used and did not correlate with learning p](flow-control-unused-no-learning-correlation.md) (qualifies); [Animations appear to pacify learners: static-picture groups navigated far more actively th](animations-pacify-learners-navigation-imbalance.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

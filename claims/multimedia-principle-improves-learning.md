@@ -60,6 +60,23 @@ Lively, C. J., Snook, B., Luther, K., Mccardle, M. I., & House, J. C. (2023). A 
 
 Adults (Experiment 1, N=207) and youth (Experiment 2, N=193) were each randomly shown one of eight presentations of youth interrogation rights, crossing whether an animation, an audio narration, and an on-screen caption (text) were present, then answered open-ended recall questions. Any condition that included words (caption and/or audio) produced far higher comprehension than a no-information baseline (d's around 2.0–2.9) or than animation-with-no-words (d=1.39–1.72). But the six word-containing conditions — including caption-only ("words alone") — scored about the same as each other: adding the animation to caption-only text produced no reliable gain (Cohen's d=−0.07, 95% CI [−0.62, 0.48] for Experiment 1; a comparable near-zero difference in Experiment 2). The authors explicitly note this departs from the multimedia principle's usual prediction that dual-channel (words+picture) presentations outperform single-channel ones. The abstract reports that in both experiments the animation-plus-caption presentation produced the highest comprehension; its advantage over caption alone was the small, unreliable difference above.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do words with a relevant picture beat words alone?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (5 causal, 2 review, 1 theoretical), `q2`–`q3`, 5 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Seufert et al. 2025](https://doi.org/10.3389/fpsyg.2025.1480935) | q3 · causal · r2 | i2 · medium-to-large effect, η²=.09–.14 | this claim |
+| [Lively et al. 2023](https://doi.org/10.1177/00938548221093283) | q3 · causal · r2 | i0 · negligible effect for animation on top of a text/audio channel; d=−0.07 [−0.62, 0.48] (caption alone vs. animation+caption) | this claim |
+| Ceballos & Nutta 2022 | q2 · review · r2 | i? | [Presenting words together with instructionally relevant pictures (multimedia principle) is](multimedia-principle-words-and-pictures-outcomes.md) (supports) |
+| [Hahn and Klein 2025](https://doi.org/10.3389/fpsyg.2025.1544764) | q2 · causal · r1 | i2 · medium effect, d=0.40 | [Multiple representations improve learning](multiple-representations-improve-learning.md) (supports) |
+| [Rau 2017](https://doi.org/10.1007/s10648-016-9365-3) | q2 · review · r? | i? | [Multiple representations improve learning](multiple-representations-improve-learning.md) (supports) |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · theoretical · r3 | i3 | [Generative processing principles: words with pictures and conversational-style words impro](generative-processing-principles-mayer-2008.md) (supports) |
+| Alty 2002 | q3 · causal · r? | i? | [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) (supports) |
+| Kutbay 2020 | q3 · causal · r2 | i3 | [All ten multimedia treatment conditions produced significant pre-to-post achievement gains](all-treatments-produced-significant-gains.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The multimedia principle is a cornerstone claim of Mayer's cognitive theory of multimedia learning, grounded in the assumption that working memory has separate visual and verbal processing channels and that coordinating both yields richer mental models than either channel alone. It sits within the broader framework of [Cognitive Load Theory](../theories/cognitive-load-theory.md) and is closely related to [Dual Coding Theory](../theories/dual-coding-theory.md), which likewise predicts a benefit from combining verbal and visual codes.

@@ -79,8 +79,9 @@ The authors' summary of the eight-session descriptive analysis, contrasting with
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — the general claim this finding bears on, with the studies behind it
 - [As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease](retention-transfer-scores-decrease-with-element-interactivity.md) — related
 - [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](chatgpt-flatter-mental-effort-trajectory.md) — related

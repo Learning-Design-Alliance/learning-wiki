@@ -80,6 +80,19 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 
 > "finding out what student's learning styles are or which "intelligences" they have and then matching instructional methods to them, has absolutely no effect on their learning"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What should the adaptation be based on: responses, or learner styles and preferences?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **4 distinct studies** (2 review, 2 causal), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Pashler et al. 2008](https://doi.org/10.1111/j.1539-6053.2009.01038.x) | q3 · review · r3 | i? | this claim |
+| [Rogowsky et al. 2020](https://doi.org/10.3389/fpsyg.2020.00164) | q3 · causal · r2 | i? | this claim |
+| Peariso 2008 | q2 · review · r1 | i? | this claim |
+| Alty 2002 | q3 · causal · r? | i? | [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The meshing hypothesis.** The claim at issue is the "meshing hypothesis": that presenting visual learners with visual formats and verbal learners with verbal formats improves outcomes. Studies that have directly tested meshing — assigning learners to matched versus mismatched formats based on a style inventory — consistently fail to find the predicted interaction [-S], and several find the opposite pattern (e.g., self-identified verbalizers sometimes learn *better* from visual presentations) [~M]. No published study using a sound experimental design has supported meshing [X].

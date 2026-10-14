@@ -1,0 +1,86 @@
+{
+  "principle": "principles/cognitive-disequilibrium",
+  "note": "Group 5 helper (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. Several members rest on one study each (Tao & Gunstone 1997; Snyder & Feldman 1975), so the tables will show fewer distinct studies than members. Review before applying. high-confidence-errors-improve-retention is left out because eval/synthesis/retrieval-practice.json already groups it.",
+  "findings": [
+    {
+      "hub": "cognitive-disequilibrium-motivates-conceptual-change",
+      "question": "Does conflict-based instruction improve conceptual learning more than standard exposition?",
+      "members": [
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "+"
+        ],
+        [
+          "force-motion-conceptions-difficult-to-change",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "misconceptions-interfere-with-new-learning",
+      "question": "Does naming and refuting the misconception help?",
+      "members": [
+        [
+          "refutational-text-order-enhances-retention",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-improves-misbelief-items-pretest-posttest",
+          "~"
+        ],
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-conflicts-conditional-on-reflection",
+      "question": "When does a conflict fail to change the learner's model?",
+      "members": [
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ],
+        [
+          "high-equality-mutuality-not-sufficient-conceptual-change",
+          "~"
+        ],
+        [
+          "personal-construction-required-stable-conceptual-change",
+          "~"
+        ],
+        [
+          "emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently",
+          "~"
+        ],
+        [
+          "confusion-amplifies-negative-effect-of-incorrect-trials",
+          "~"
+        ],
+        [
+          "scaffolding-balance-confusion-versus-critical-thinking",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "one-step-advance-regardless-of-discrepancy-size",
+      "question": "How far beyond the learner's current level should the discrepancy be?",
+      "members": [
+        [
+          "external-disequilibrium-shapes-internal-mixture-changes",
+          "~"
+        ],
+        [
+          "high-mixture-increases-regressive-changes",
+          "~"
+        ],
+        [
+          "limited-transfer-from-discrepant-training",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

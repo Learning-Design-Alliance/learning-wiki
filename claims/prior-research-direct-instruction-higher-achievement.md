@@ -41,6 +41,7 @@ The review reports dissenting positions attributed to Spector (1995) and Morgan 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Spector argues that beginning reading instruction should be designed to facilitate the acquisition of phonemic awareness](spector-phonemic-awareness-reading-instruction.md) — related

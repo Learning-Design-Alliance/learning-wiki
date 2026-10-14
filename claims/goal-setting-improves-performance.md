@@ -70,6 +70,8 @@ A systematic review and random-effects meta-analysis of randomized controlled tr
 
 ## Related Claims
 
+- [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — the general claim this finding bears on, with the studies behind it
+
 - [Assessment for Learning Improves Achievement](assessment-for-learning-improves-achievement.md) — feedback on progress is a key moderator of goal-setting effects.
 - [Autonomy Supports Intrinsic Motivation](autonomy-supports-intrinsic-motivation.md) — self-set goals may be more motivating than assigned ones.
 - [Adaptive Learning Improves Outcomes](adaptive-learning-improves-outcomes.md) — adaptive systems operationalize "appropriately difficult" goals by tuning challenge to the learner.

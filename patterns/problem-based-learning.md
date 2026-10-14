@@ -25,7 +25,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 16 claims (4 for, 11 mixed, 1 against) · 21 studies (7 causal, 4 quant-synthesis, 4 review, 4 theoretical, 2 qualitative), `q1`–`q4` · 2 of 21 report an effect size · 11 claims rest on one study
+> **Evidence** · 23 claims (5 for, 16 mixed, 2 against) · 22 studies (8 causal, 4 quant-synthesis, 4 review, 4 theoretical, 2 qualitative), `q1`–`q4` · 3 of 22 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -71,6 +71,25 @@ A request for "more engaging, real-world learning" does not specify these inputs
 - **Case-based formats.** [Case-based learning](../claims/case-based-learning-improves-exam-performance.md) [~M] raised exam scores in one non-randomized biology cohort, while a systematic review in health professional education found the evidence on learning inconclusive and noted that gains may come from group work. Do not expect a case or problem format alone to carry the effect.
 
 Do not rank these results against one another: their comparators (instruction-first, explicit instruction, fixed support, lecture and reading) and outcomes differ. A precise abstention names the missing comparison, outcome or observation and the next way to resolve it.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **can learners generate partial solutions to the problem from what they already know?**, **how much time is there (one session or several)?**, **who facilitates, and how many groups each?**, and **which outcomes will be assessed (knowledge, procedure, transfer)?**
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Learners are novices on the content the problem needs | At step 2, teach the content first or alongside (short explanation, worked example) and use the problem to apply it | [Minimal guidance is less effective for novices](../claims/minimal-guidance-less-effective-for-novices.md) [-M] |
+| Learners can generate several partial solutions and the goal is conceptual | Run a short problem-first phase, have groups make their solutions visible, then build step 4's instruction on those solutions | [Problem-first improves conceptual learning when instruction follows](../claims/productive-failure-improves-conceptual-learning.md) [+M]; [Larger effects when instruction builds on student solutions](../claims/pf-fidelity-predicts-psi-effect-size.md) [+M] |
+| The facilitator wants to hint learners toward the method during the problem phase | Do not steer toward the canonical method before step 4; guidance raised solution quality but not later learning | [Guidance during initial problem solving does not improve learning from instruction](../claims/initial-guidance-does-not-improve-learning-from-instruction.md) [~M] |
+| Fluent execution of a procedure is part of the objective | Add targeted procedural practice after the consolidation; problem-first gave no procedural advantage | [PS-I shows no pooled benefit for procedural knowledge](../claims/psi-procedural-knowledge-null-pooled-effect.md) [~M] |
+| Learners are roughly 7–11 years old | Reverse the order: teach first, then pose the problem as application | [PS-I effects are negative for 2nd–5th graders](../claims/psi-effect-increases-with-grade-level.md) [-M] |
+| Only one short session is available | Keep the problem phase short and the design simple, or teach first; do not cram the full sequence into a few hours | [The fidelity benefit reverses for very short interventions](../claims/psi-fidelity-time-span-interaction.md) [~M] |
+| The assessment is a basic-knowledge exam | Add explicit review and practice of the facts the exam covers; do not count on the problem work to carry them | [PBL: null or negative on basic knowledge](../claims/pbl-null-basic-knowledge-positive-transfer.md) [~M] |
+| Facilitators are not content experts | Give each facilitator the model solution, the target concept and a consolidation script; content background alone did not predict learning | [Tutor background did not predict learning](../claims/tutor-background-meta-regression-not-predictive.md) [~M] |
+| Learners work alone (`online-self-paced`) | Replace the facilitator with support that rises after a failed attempt (a hint, then a worked step) and falls after success, and show typical solutions before the consolidation | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [+M] (one-to-one tutoring); the self-paced version is an untested proposal |
+| One facilitator for many groups | Collect solutions from a sample of groups and build the consolidation on the three or four most common | untested proposal |
+| Group products will be the main evidence of learning | Add the individual reobservation at step 5 and record who contributed what; a group product does not show what each member can do | untested proposal |
+| The brief adds AI tools to the problem phase and expects higher scores | Treat the AI support as part of the configuration to be evaluated; the one comparison recorded set AI-supported PBL against lecture, so it cannot separate the AI from the PBL | [AI-supported PBL scored higher than lecture in robotics programming](../claims/ai-pbl-higher-posttest-academic-achievement.md) [~W] |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

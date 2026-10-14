@@ -39,6 +39,18 @@ Quasi-experimental comparison within two sections of a junior/senior-level Behav
 
 > "We found that students performed significantly higher (p < 0.0001, see Figure 4A) on the team RAT, in comparison to the individual portion; students scored 24.9% higher on the team portion."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the team readiness test raise scores above the individual one?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (1 design, 1 causal, 1 associational), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Peterson 2015 | q2 · design · r2 | i? | this claim; [Both course sections show the same team-over-individual RAT trend despite a significant di](rat-section-difference-same-trend.md) (supports); [After the TBL module, students were better prepared to design and implement independent fi](tbl-module-prepares-independent-projects.md) (qualifies) |
+| [Cynthia J. Miller 2015](https://doi.org/10.5430/wje.v5n4p1) | q2 · causal · r1 | i? | [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) (supports) |
+| [Bell 2022](https://doi.org/10.29333/iji.2022.15142a) | q1 · associational · r1 | i? | [Students' IRAT scores were consistently poorer than their TRAT scores, suggesting team col](trat-scores-exceed-irat-scores.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

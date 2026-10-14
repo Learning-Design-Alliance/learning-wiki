@@ -59,6 +59,23 @@ Minner, D. D., Levy, A. J., & Century, J. (2010). Inquiry‐based science instru
 
 This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing the impact of inquiry-based science instruction on K–12 student outcomes, using a conceptual framework to define "inquiry-based" instruction and a mixed-methods analysis of numerical and text data. It found a clear, positive trend favoring inquiry-based instructional practices — particularly instruction emphasizing active student thinking and drawing conclusions from data — over more passive instructional strategies, for building conceptual understanding. No overall quantitative effect size across studies is reported.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does inquiry-based teaching raise science achievement over the usual instruction?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **8 distinct studies** (3 review, 2 design, 1 quant-synthesis, 1 causal, 1 associational), `q2`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Furtak et al. 2012](https://doi.org/10.3102/0034654312457206) | q4 · quant-synthesis · r? | i2 · medium effect, g = 0.5 | this claim |
+| [Minner et al. 2010](https://doi.org/10.1002/tea.20347) | q3 · review · r? | i? | this claim |
+| Roschelle 2021 | q2 / q3 · review · r2 | i? | [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect mod](furtak-metaanalysis-37-studies-inquiry-positive.md) (supports); [Inquiry activities can be especially beneficial for students in low-income schools, yet re](inquiry-benefits-low-income-equity-tension.md) (qualifies) |
+| [Papaneophytou 2025](https://doi.org/10.3390/higheredu4020024) | q2 · review · r2 | i? | [Inquiry-based learning strategies in laboratory courses are reported to significantly impr](inquiry-based-lab-learning-improves-ct.md) (supports) |
+| [Sharples et al. 2015](https://doi.org/10.1080/10508406.2014.944642) | q2 · design · r2 | i? | [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accura](scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) (supports) |
+| [Dimitrios Gousopoulos 2026](https://doi.org/10.62225/2583049x.2026.6.3.6516) | q3 · causal · r? | i? | [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditiona](ai-assisted-inquiry-largest-decision-making-gains-climate.md) (qualifies) |
+| Equal Access to Content Instruction for English Learners: An Example from Science 2012 | q2 · design · r1 | i? | [Hands-on, inquiry-based science and math instruction with higher-order thinking was associ](amsti-inquiry-science-higher-reading-achievement.md) (qualifies) |
+| [Hernández 2022](https://doi.org/10.54300/165.102) | q2 · associational · r? | i? | [Deeper-learning inquiry strategies in low-income mathematics classes reduced linguistic, e](deeper-learning-math-inquiry-reduces-disparities.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Guidance is the critical moderator.** The literature consistently distinguishes guided from unguided inquiry. Fully minimally guided discovery tends to underperform explicit instruction for novices because unguided search overwhelms working memory [-S] — a core prediction of [Cognitive Load Theory](../theories/cognitive-load-theory.md) and the [expertise reversal effect](../theories/expertise-reversal-effect.md). Scaffolded inquiry, in which teachers provide question frameworks, structured procedures, and feedback while students do the investigative work, shows positive effects [+M]; pure discovery shows weak or negative ones [-M]. Structured models such as the [5E learning cycle](../patterns/5e-learning-cycle.md) operationalize this guided form, as do [cognitive apprenticeship](../patterns/cognitive-apprenticeship.md) approaches that model and scaffold investigative practice before fading support.

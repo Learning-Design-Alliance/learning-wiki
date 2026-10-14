@@ -1,0 +1,84 @@
+{
+  "principle": "principles/immediate-feedback",
+  "note": "Group 2 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries; review before applying. Most members rest on one study or on a review's second-hand report; the hubs were chosen as the broadest claim that states an answer, not because the answer is settled. feedback-enhances-retrieval-practice and high-confidence-errors-improve-retention are already in eval/synthesis/retrieval-practice.json and are deliberately left out here.",
+  "findings": [
+    {
+      "hub": "feedback-timing-moderates-pretesting",
+      "question": "Should corrective feedback come immediately after a response, or can it wait?",
+      "members": [
+        [
+          "feedback-after-multiple-choice-tests-halves-lure-intrusions",
+          "~"
+        ],
+        [
+          "incidental-vocabulary-retention-problems",
+          "~"
+        ],
+        [
+          "knowledge-of-results-no-effect-achievement-test-dimensionality",
+          "~"
+        ],
+        [
+          "timely-feedback-improves-homework-learning",
+          "+"
+        ],
+        [
+          "its-improve-learning-outcomes-with-actionable-feedback",
+          "+"
+        ],
+        [
+          "immediate-elaborated-feedback-improves-programming-learning",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "corrective-feedback-effect-on-l2-development-is-significant-and-durable",
+      "question": "Does an advantage seen straight after correction last to a delayed test, and does that depend on the form of the correction?",
+      "members": [
+        [
+          "cf-facilitates-l2-grammar-explicit-implicit-durability",
+          "~"
+        ],
+        [
+          "metalinguistic-recasts-effective-immediate-wh-questions",
+          "+"
+        ],
+        [
+          "metalinguistic-beats-recasts-immediate-not-delayed",
+          "~"
+        ],
+        [
+          "recasts-more-enduring-than-metalinguistic-feedback",
+          "~"
+        ],
+        [
+          "time-treatment-interaction-corrective-feedback",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "self-controlled-kr-decided-after-trial-improves-motor-retention",
+      "question": "Who should decide when feedback arrives, and does the setting (in front of peers, mid-performance) matter?",
+      "members": [
+        [
+          "teachers-favor-delayed-ocf-over-immediate",
+          "~"
+        ],
+        [
+          "feedback-timing-post-session-debrief-preference",
+          "~"
+        ],
+        [
+          "users-value-immediate-ai-feedback-more-than-nonusers",
+          "~"
+        ],
+        [
+          "aida-preferred-24-7-context-specific-feedback",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

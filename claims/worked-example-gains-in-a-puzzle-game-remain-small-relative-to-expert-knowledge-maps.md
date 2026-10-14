@@ -41,8 +41,9 @@ Comparison, in the SafeCracker worked example experiment, of the treatment group
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Worked Examples Improve Knowledge Map Content Understanding In A Puzzle Game](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md)
 - [In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance](trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) — related
 - [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related

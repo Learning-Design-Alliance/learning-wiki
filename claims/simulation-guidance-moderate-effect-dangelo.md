@@ -41,6 +41,9 @@ Narrative review reporting the D'Angelo et al. (2014) meta-analysis: supplementi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — the general claim this finding bears on, with the studies behind it
+
+- [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 -

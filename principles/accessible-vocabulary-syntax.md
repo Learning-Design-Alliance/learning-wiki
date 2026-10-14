@@ -42,6 +42,24 @@ The page's earlier guidance, kept here as a concrete default a designer can act 
 5. **Use supports that bridge, then withdraw them.** Glossaries, sentence frames and simplified versions open the task. Move back to the authentic wording on a planned schedule, checking each learner on unsupported items before removing a support. Withdrawing supports is modelled in [Scaffolding and Fading](scaffolding-and-fading.md).
 6. **Judge the design on the authentic wording**, at the horizon the objective sets. A gain on simplified items alone is not the outcome.
 
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **which language the objective itself includes** (terms and text forms learners must eventually read as printed), **the learners' proficiency in the language of instruction**, and **whether comprehension must last or only open the task now**. No claim in the wiki compares simplified with original wording at constant content, so the simplification rows are weakly grounded.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The material depends on a set of disciplinary terms | Teach those words explicitly, a few at a time, with examples and non-examples, and test comprehension on texts that use them; expect little gain on standardized reading tests | [Vocabulary instruction improves comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M] |
+| Learners with reading difficulties | Prioritize explicit teaching of the target words; the gains on custom measures were largest for this group | [Vocabulary instruction improves comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M] |
+| A content text (science, say) must be read as written | Add embedded aids alongside the original text (a running commentary on key concepts and terms, questions), instead of rewriting it | [Embedded aids improved reading comprehension](../claims/embedded-aids-improve-reading-comprehension.md) [+W] |
+| English learners or low-SES learners face mathematics word problems | Simplify the non-mathematical wording (sentence length, nested clauses, unfamiliar everyday words) and keep the mathematics unchanged | [Linguistic simplification can improve math performance](../claims/linguistic-simplification-improves-math-performance.md) [+W] |
+| Word problems use contexts unfamiliar to the learners | Reword them into familiar contexts, or clarify the unfamiliar words before problem solving | [Unfamiliar contexts and vocabulary distract from the mathematics](../claims/unfamiliar-contexts-distract-from-mathematics.md) [+W] |
+| Beginning second-language learners, live teaching | Adjust language in response to what learners show they do not understand, rather than only pre-simplifying; expect a gain in comprehension now, not in retention of the structures | [Interactionally modified input aids comprehension but not retention](../claims/interactionally-modified-input-aids-comprehension-not-retention.md) [~M]; [Negotiation benefited lower-ability learners](../claims/negotiation-benefit-limited-lower-ability-learners.md) [~M] |
+| Learners must read research articles or other authentic texts beyond their level | Give a simplified version and a glossary of unfamiliar terms first, then return to the original | [Simplification and glossaries preceded second-cycle gains](../claims/simplification-and-glossary-supported-second-cycle-gains.md) [+W]; untested proposal for the return to the original |
+| The plan is to make a passage more cohesive so it will be remembered | Build the learners' knowledge of the topic first; cohesion did not help delayed recall, familiarity with the topic did | [Passage cohesion showed no effect on delayed recall](../claims/cohesion-no-effect-delayed-recall.md) [-M] |
+| Workplace training for learners with limited technical English | Teach the technical terms and written forms the job uses, alongside the skill | [Minimal technical English limits workplace training](../claims/minimal-technical-english-limits-training.md) [+W] |
+| Unclear whether a failure comes from the language or the concept | Give the same items as written and with non-target wording simplified, and compare the scores before deciding | untested proposal |
+| Supports (glossaries, simplified versions) are in place and the target is the authentic text | Withdraw them on a planned schedule, checking each learner on unsupported authentic items first | untested proposal; see [Scaffolding and Fading](scaffolding-and-fading.md) |
+
 ## Observation, state and explanation
 
 What can be observed is a response to a particular text or prompt under stated conditions: a wrong answer, a non-answer, a request for help, a slow or silent reading, a correct answer when the item is read aloud or rephrased. "The language was the barrier" is an inferred state, and so is "the learner lacks the concept". Prior knowledge of the topic, reading fluency, proficiency in the language of instruction and willingness to speak all produce similar surface responses. Record the text, the response mode and every rephrasing or gloss given.
@@ -69,6 +87,13 @@ No claim in the wiki tests this relationship as stated: none compares a text sim
 Taken together: explicit teaching of target words has the strongest evidence and helps text that uses those words; language adjustment helps immediate comprehension in L2 settings with no shown retention advantage; and prior knowledge may matter more than surface wording. Learners, settings and outcomes differ across these claims, so do not rank them by effect label.
 
 How far each may be carried: the two input claims are spoken-interaction studies with beginning L2 learners, so they bear on making language comprehensible in the moment, not on rewriting written items; the cohesion claim is one study of passage recall, and it is not evidence against removing nested or ambiguous wording from a task. None of them argues for leaving avoidable wording barriers in place. The default design above rests on them only where it says so.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/accessible-vocabulary-syntax.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does teaching the essential terms improve comprehension, and of which texts? [Vocabulary Instruction Improves Comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+S]: 5 distinct studies.
+- Does simplifying or adjusting the wording help, and does it last? [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](../claims/linguistic-simplification-improves-math-performance.md) [+M]: 4 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

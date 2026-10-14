@@ -39,6 +39,18 @@ Dunn-Sidak multiple comparison tests in the Results section of the 2x3 factorial
 
 > "the Clear/Var./Coord. concept group achieved significantly better than students who receivedan unclear presentation with the same concept structure (Unclear/Var./Coord.).This achievement difference held true on the definition (p<.0l), identification of examples of the concept taught (p<.0l)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a clearly presented lesson beat an unclear one, and when does clarity matter most?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **3 distinct studies** (2 qualitative, 1 causal), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Snyder 1991 | q3 · causal · r2 | i2; i1; i? | this claim; [Each positive clarity move (keys, links, framing, focusing, examples) correlates positivel](positive-clarity-moves-correlate-achievement.md) (supports); [Under unclear presentation, a more complex concept structure lessens students' ability to ](unclear-presentation-complex-structure-penalty.md) (supports); [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear](clarity-less-relevant-simpler-structures.md) (qualifies); [Students accurately perceive differences between clear and unclear lessons regardless of c](students-perceive-lesson-clarity.md) (qualifies) |
+| clarity-1 | q2 · qualitative · r? | i? | [Definitions, checkpoints, and staged pacing improved conceptual clarity for novice program](checkpoints-and-definitions-improved-clarity.md) (supports) |
+| Suleiman 2026 | q2 · qualitative · r1 | i? | [Students responded most positively to projects that felt authentic and were organized in a](student-engagement-authenticity-clear-sequence.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

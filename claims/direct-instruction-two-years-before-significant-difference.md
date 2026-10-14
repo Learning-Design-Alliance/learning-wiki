@@ -41,6 +41,7 @@ Author's concluding interpretation, offered as an explanation of the study's nul
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Sixth-grade students taught with Direct Instruction showed no statistically significant difference in ITBS reading scores compared with students taught in the regular classroom](direct-instruction-no-significant-reading-difference-sixth-grade.md) — related

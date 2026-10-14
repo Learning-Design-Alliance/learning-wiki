@@ -59,6 +59,18 @@ Okonofua, J. A., Goyer, J. P., Lindsay, C. A., Haugabrook, J., & Walton, G. M. (
 
 Middle-school math teachers were randomized to a 45–70-minute online empathic-mindset exercise or an active control exercise, and their students' suspensions were tracked for the school year and the following year. The preregistered main effect was small and marginal. In the full eligible sample (173 teachers, 13,210 students), 17.3% of students with treated teachers were suspended against 20.4% of control students (P = 0.051, two-tailed). Among the 66 randomized teachers and their 5,822 students alone, b = 0.024 and P = 0.130. The larger effects were for groups at high risk of suspension. Among Black and Hispanic students, suspensions fell from 26.5% to 20.8%, which narrowed the racial disparity from 10.6 to 5.9 percentage points. Among previously suspended students they fell from 56.1% to 49.6%. The effect on students with two or more prior suspensions was not significant. In a subsample followed into the next year, the reduction held when students had different teachers (16.7% vs 20.9%).
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q3`–`q4`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Okonofua et al. 2016](https://doi.org/10.1073/pnas.1523698113) | q3 · causal · r? | i? | this claim |
+| [Okonofua et al. 2022](https://doi.org/10.1126/sciadv.abj0691) | q4 · causal · r3 | i? | this claim |
+| [Hernández 2022](https://doi.org/10.54300/165.102) | q3 · review · r2 | i? | [An empathy-enhancing intervention for teachers reduced suspension rates, especially for st](empathic-mindset-teacher-intervention-lowers-suspensions.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The proposed pathway is a shift in teachers' "mindsets" about conflict: when misbehavior is framed as a developmental moment to be met with empathic dialogue rather than a violation to be punished, teachers report fewer punitive responses, and students perceive their teachers as more respectful [+W]. Because the intervention is brief and self-administered, its appeal is scalability — a few minutes of online reading and writing exercises, rather than extended professional development. This places it in the same family as [belonging interventions](belonging-interventions-improve-outcomes.md): brief, theory-of-change-driven social-psychological exercises that target a specific, context-bound belief rather than a general disposition. It also connects to broader work on [building empathy](../principles/building-empathy.md) as a lever for changing interpersonal dynamics in classrooms.

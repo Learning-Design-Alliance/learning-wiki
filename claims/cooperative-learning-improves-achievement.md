@@ -63,6 +63,25 @@ A search identified 164 studies (194 independent effect sizes) testing eight nam
 
 Both studies converge on direction (cooperative > competitive/individualistic for achievement) but the two available numeric anchors — d≈0.70–0.91 for Learning Together specifically — should not be read as the effect size for "cooperative learning" generically; Roseth et al. (2008), the larger and peer-reviewed meta-analysis, is the better-powered source for the overall claim but its magnitude could not be verified from the text read here.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **10 distinct studies** (5 quant-synthesis, 2 review, 2 design, 1 causal), `q1`–`q4`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Roseth et al. 2008](https://doi.org/10.1037/0033-2909.134.2.223) | q4 · quant-synthesis · r? | i? | this claim |
+| Johnson, Johnson & Stanne 2000 | q2 · quant-synthesis · r? | i3 · large effect, weighted d=0.91 (vs. individualistic) | this claim |
+| [Öztürk 2023](https://doi.org/10.29329/epasr.2023.600.13) | q3 · quant-synthesis · r2 | i2 | [Cooperative learning models have a moderate average effect on student learning outcomes ac](cooperative-learning-moderate-overall-effect-second-order.md) (supports) |
+| Blosser 1993 | q2 / q3 · review · r2 | i? | [Cooperative learning produces significantly greater achievement than traditional instructi](cooperative-learning-achievement-synthesis-slavin.md) (supports); [In secondary-school research, cooperative learning beat frontal teaching in 68% of compari](secondary-cooperative-learning-newmann-thompson.md) (supports); [Three practitioner digests report, second-hand, Johnson and Johnson's finding that coopera](cooperative-learning-higher-achievement-than-competitive-individualistic.md) (supports); [Cooperative biology instruction raised achievement and improved perceived classroom atmosp](lazarowitz-cooperative-biology-achievement.md) (supports); [Science-classroom studies of cooperative learning show mixed results, with several null or](cooperative-learning-science-studies-mixed.md) (qualifies) |
+| Daniels 1996 | q2 · design · r1 | i? | [Three practitioner digests report, second-hand, Johnson and Johnson's finding that coopera](cooperative-learning-higher-achievement-than-competitive-individualistic.md) (supports) |
+| Kluge 1999 | q2 · review · r2 | i? | [Three practitioner digests report, second-hand, Johnson and Johnson's finding that coopera](cooperative-learning-higher-achievement-than-competitive-individualistic.md) (supports); [Research in language classes suggested cooperative learning was better than whole-class in](cooperative-learning-language-class-outcomes.md) (supports) |
+| Rood 1998 | q1 · design · r1 | i? | [Cooperation compared with individualistic efforts typically results in higher achievement,](cooperation-versus-individualistic-effort-outcomes.md) (supports) |
+| Cooperative Integrated Reading and Composition® 2010 | q2 · quant-synthesis · r1 | i? | [WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects](circ-potentially-positive-comprehension-adolescent-learners.md) (supports) |
+| [Dietrichson 2021](https://doi.org/10.1002/cl2.1152) | q3 · quant-synthesis · r3 | i? | [In adjusted meta-regressions, peer-assisted and small-group instruction outperform compute](peer-small-group-outperform-other-methods.md) (supports) |
+| alternate-contrast | q3 · causal · r3 | i? | [The cooperative learning component's added benefit over direct instruction alone with CIRC](circ-cooperative-component-benefit-unconfirmed.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The claim is best read as conditional on design quality. The classic cooperative-learning literature identifies five mediating conditions — positive interdependence, individual accountability, promotive interaction, social skills, and group processing — and effects are consistently larger when at least interdependence and accountability are present than when students are merely seated in groups [~M]. Without individual accountability, groups are vulnerable to free-riding and status-based participation inequalities, which can erase or reverse achievement gains for lower-status members [-M].

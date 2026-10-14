@@ -1,0 +1,106 @@
+{
+  "principle": "principles/chunking",
+  "note": "Drafted 2026-10-14 by an agent from the claims' titles and evidence entries. Most instructional evidence is about segmenting transient multimedia; Rey et al. (2019) stands behind six claims and is one study. The LLM lesson-decomposition claims (three-segment-..., five-segment-..., feedback-improves-three-or-more-segments) are about prompting a model, not learners, and are left out. Review before applying.",
+  "findings": [
+    {
+      "hub": "segmenting-improves-multimedia-learning",
+      "question": "Does breaking transient material (animation, video, narration) into segments improve learning over a continuous presentation?",
+      "members": [
+        [
+          "segmenting-effect-retention-transfer-meta-analysis",
+          "+"
+        ],
+        [
+          "segmenting-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "segmenting-reduces-cognitive-load",
+          "+"
+        ],
+        [
+          "segmenting-increases-learning-time",
+          "~"
+        ],
+        [
+          "segmentation-reduces-hesitations-adhd-participants",
+          "+"
+        ],
+        [
+          "long-recorded-lectures-impeded-focus",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "segmentation-benefits-shrink-with-expertise",
+      "question": "For whom: does the benefit depend on prior knowledge or learner characteristics?",
+      "members": [
+        [
+          "prior-knowledge-moderates-segmenting-retention",
+          "-"
+        ],
+        [
+          "segmentation-benefit-larger-for-adhd-group",
+          "~"
+        ],
+        [
+          "medication-status-segmentation-interaction-null",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learner-paced-beats-system-paced-complex-material",
+      "question": "Who should control the pace: the system or the learner?",
+      "members": [
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "~"
+        ],
+        [
+          "forced-pacing-eliminates-aiding-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-retention",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "chunking-reduces-working-memory-load",
+      "question": "How large should a unit be, and does grouping static material help?",
+      "members": [
+        [
+          "short-cso-improves-test-performance",
+          "+"
+        ],
+        [
+          "chunking-method-high-retention",
+          "~"
+        ],
+        [
+          "cpc-correlation-nonsignificant-chunking",
+          "~"
+        ],
+        [
+          "cpc-difference-delayed-posttest-only",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

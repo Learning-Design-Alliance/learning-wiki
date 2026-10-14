@@ -64,6 +64,8 @@ An ANOVA on time spent in paper-based training and computer-based learning found
 This page records two separate results from one experiment (Reisslein, Atkinson & Reisslein 2004, 51 participants, four help-format conditions). First, far transfer: means were low in all four conditions (for example 1.04 and 1.00 of 12), so that measure could not discriminate between the help formats, and the study says nothing about which format supports far transfer. Second, instructional time: an ANOVA found no significant difference between conditions, which makes unequal time an unlikely explanation for the format effects on other measures, though a non-significant difference in a sample this size does not show the times were equal.
 
 ## Related Claims
+
+- [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](textual-prompts-better-near-transfer-than-pictorial.md) — the general claim this finding bears on, with the studies behind it
 - [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training](limited-transfer-from-discrepant-training.md) — related
 - [Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level](discrepant-training-facilitates-map-drawing-advance.md) — related
 - [Easy tasks showed a floor effect across all participants and were excluded from hypothesis testing](easy-task-floor-effect-excluded.md) — related

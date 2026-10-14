@@ -31,7 +31,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (7 for, 16 mixed, 1 against) · 29 studies (8 review, 5 causal, 5 qualitative, 5 theoretical, 3 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 4 of 29 report an effect size · 18 claims rest on one study
+> **Evidence** · 27 claims (7 for, 19 mixed, 1 against) · 33 studies (11 review, 6 causal, 5 qualitative, 5 theoretical, 3 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 4 of 33 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -60,6 +60,24 @@ This is the page's earlier guidance, kept as a concrete default that a designer 
 
 How far each neighbouring claim may be carried: the reward meta-analyses are mostly laboratory studies of already-interesting tasks. The feedback-timing study used a slider-positioning task with university volunteers. The learner-control synthesis covers educational technology in general. The connectivist report is second-hand and describes open online courses. None of them tests a classroom autonomy-support programme.
 
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **which outcome counts** (voluntary engagement and persistence, or learning on a stated measure), **how much the learners already know about the task**, and **what incentives are already in place** (grades, points, prizes). Most rows rest on one study or a disputed meta-analytic literature, so treat them as defaults to check, not settled findings.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| The goal is sustained voluntary engagement or persistence with the subject | Offer choices that change how the objective is reached (topic, medium, order), give a reason for required work, and use informational rather than controlling language | [Autonomy support increases intrinsic motivation and engagement](../claims/autonomy-supports-intrinsic-motivation.md) [+M]; [Autonomy-supportive versus controlling teaching](../claims/autonomy-support-versus-controlling-teaching.md) [+W] |
+| The plan uses points, prizes or other tangible rewards for doing a task learners already find interesting | Drop rewards for merely doing the task; keep feedback about competence, which did not undermine engagement | [Expected tangible rewards reduce later free-choice engagement](../claims/rewards-undermine-intrinsic-motivation.md) [~M] |
+| Praise is part of the routine (children, after success) | Praise the effort or strategy used, not the learner's intelligence | [Praise for intelligence undermines motivation after failure](../claims/feedback-praise-reduces-learning.md) [~M]; [Intelligence praise against effort praise](../claims/intelligence-praise-versus-effort-praise-effects.md) [~M] |
+| The goal is achievement, and the plan is to give learners control of the software or sequence | Do not expect control in general to raise achievement; if any control is given, give control of pace on complex, high element-interactivity material | [Learner pacing helped on complex material; learner control in general showed almost no effect](../claims/learner-paced-beats-system-paced-complex-material.md) [~M] |
+| Learners can ask for feedback or hints during practice | Let them ask after they have seen how an attempt went, not decide in advance; check whether this carries over from the motor task it was found on | [Deciding on feedback after the trial improved motor retention](../claims/self-controlled-kr-decided-after-trial-improves-motor-retention.md) [~M]; [Deciding only before the trial showed no benefit](../claims/self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) [~M] |
+| An open, self-directed course with little structure (`online-self-paced`, MOOC-style) | Keep the choice of topic or project, but supply a plan, milestones and a few vetted options; teach planning as in [Self-Regulated Learning](self-regulated-learning.md) | [Not all students in connectivist courses could direct their own learning](../claims/connectivist-courses-student-agency-problems.md) [~M] |
+| Learners are new to the task (`novice`) and the brief asks for wide choice | Offer two or three options that target the same objective, model how to choose, and widen the options as unsupported performance improves | untested proposal; bounded by [connectivist courses](../claims/connectivist-courses-student-agency-problems.md) [~M] |
+| Group work where learners might pick partners, roles or start times | Share the decision: the teacher forms groups and learners choose roles, and collaboration starts when learners signal they are ready | [Teachers and students favoured shared over full student control](../claims/claim-shared-control-roles-and-content.md) [~M]; [Collaboration starting when students signal readiness was preferred](../claims/claim-collab-starts-when-students-ready.md) [~M] |
+| Use of a tool (an AI writing assistant, a platform) is mandated and monitored | Explain why the tool helps and leave learners room in how they use it; a mandate alone showed no link to deep revision | [External mandate showed no direct relationship with deep revision](../claims/external-mandate-no-direct-effect-deep-revision.md) [~M] |
+| A teacher is present in an AI-based or technology-rich lesson | Use the teacher's support for motivation, and leave learners some unsupported problem solving | [Teacher support benefits depend on balance with student autonomy](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~M] |
+| Success will be judged by satisfaction or enjoyment surveys | Add a learning measure at the stated horizon; enjoyment of a choice does not show that learning improved | untested proposal |
+
 ## Observation, state and explanation
 
 What can be observed is behaviour under stated conditions: whether a learner starts or returns to a task when nothing requires it, what they choose when given options, how long they persist, what they say about why they are doing the work, and how they respond to a reason or an incentive. "Feels autonomous", "is intrinsically motivated" and "is controlled" are inferred states. A questionnaire score of perceived autonomy is a self-report, not a measure of the state. Compliance also looks like engagement. Record what options were offered, what was said about why, what incentives were in place, and what the learner could already do.
@@ -86,6 +104,15 @@ No claim in the wiki tests the full relationship as stated. None compares an aut
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](../claims/choice-autonomy-rarely-tested-in-retention-programs.md) [~W]: a narrative review reports, second-hand, that in college learning communities the one study with random, no-choice assignment showed no persistence or achievement gains, while voluntary programmes showed some. The review adds that autonomy was rarely a tested variable. Not yet checked against its sources. Voluntary participation also selects who takes part, so the contrast cannot separate choice from self-selection. It shows the evidence gap more than an effect.
 
 Taken together: controlling incentives can reduce voluntary engagement with interesting tasks, though the size is disputed. Learner control in general does not raise achievement. In two experiments, specific, well-timed control helped: pacing on complex material, and feedback chosen after an attempt. Unstructured self-direction can demotivate some learners. Learners, tasks and outcomes differ across these claims, so do not rank them by effect label. A nonsignificant difference is not evidence of no effect.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/autonomy.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching? [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]: 8 distinct studies.
+- Do rewards and praise undermine voluntary engagement? [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [~S]: 8 distinct studies.
+- Does handing control to learners (pace, feedback, sequence) improve learning, and when? [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~S]: 5 distinct studies.
+- How much choice, for whom: what happens when self-direction is wide open? [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](../claims/connectivist-courses-student-agency-problems.md) [~M]: 4 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

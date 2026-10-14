@@ -41,8 +41,9 @@ HLM analysis linking teacher survey reports of interactive instruction to ITBS a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Didactic instruction is negatively associated with one-year achievement gains in reading and mathematics](didactic-instruction-negative-achievement-gains.md) — related
 - [Frequent instructional review is negatively associated with one-year achievement gains](instructional-review-negative-achievement-gains.md) — related
 - [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-assignments-greater-itbs-gains.md) — related

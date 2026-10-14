@@ -53,6 +53,8 @@ In an extended student-class experiment comparing text-only, voice, diagram, and
 
 ## Related Claims
 
+- [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Coherence principle: irrelevant material hurts learning](../claims/coherence-principle-irrelevant-material-hurts-learning.md) — presentation design, not learner preference, drives multimedia outcomes
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — overload explains why text-only formats disadvantage sensing learners
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — a design lever that can offset learner differences in media presentations

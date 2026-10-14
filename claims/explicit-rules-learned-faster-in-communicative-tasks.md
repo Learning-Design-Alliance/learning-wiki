@@ -41,8 +41,9 @@ In the Results and Discussion the review answers its first research question aff
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — related
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — related

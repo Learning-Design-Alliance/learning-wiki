@@ -1,0 +1,246 @@
+{
+  "principle": "principles/adaptive-learning",
+  "note": "Batch g7 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. The first question mixes whole-system comparisons (tutoring systems against conventional instruction) with the few tests of adaptation against the same content in a fixed sequence (Sibley et al. 2026, Feng & Huang 2026, Tithi et al. 2026); the table will not separate them, so the page's wording must. The diagnosis question gathers component-reliability claims from research-methods pages (knowledge-tracing calibration, leakage, AUC); they are model-accuracy findings with no learner outcome. contingent-scaffolding-improves-learning, expertise-reversal-effect and fading-support-promotes-transfer-of-responsibility may also be chosen as hubs by the scaffolding batch; resolve a clash by keeping one. Review before applying.",
+  "findings": [
+    {
+      "hub": "adaptive-learning-improves-outcomes",
+      "question": "Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?",
+      "members": [
+        [
+          "personalized-paths-experiment-outcomes",
+          "+"
+        ],
+        [
+          "personalized-paths-lower-cognitive-load",
+          "+"
+        ],
+        [
+          "adaptive-icap-scaffolding-improves-posttest-logic-tutor",
+          "+"
+        ],
+        [
+          "woot-math-rct-adaptivity-significant-effects",
+          "+"
+        ],
+        [
+          "ai-adaptive-learning-medium-large-effects-reviewed",
+          "+"
+        ],
+        [
+          "adaptive-learning-gains-15-25-percent",
+          "+"
+        ],
+        [
+          "rl-adaptive-system-grade-engagement-gains",
+          "+"
+        ],
+        [
+          "adaptive-ai-stem-deep-learning-gains-sixth-grade",
+          "+"
+        ],
+        [
+          "task-difficulty-adaptation-no-learning-benefit-second-grade",
+          "-"
+        ],
+        [
+          "non-adaptive-condition-higher-mastery-probabilities",
+          "-"
+        ],
+        [
+          "adaptive-its-no-difference-cognitive-load-enjoyment",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "contingent-scaffolding-improves-learning",
+      "question": "What should adapt: the support given after a response, or only difficulty and order?",
+      "members": [
+        [
+          "tefa-formative-information-changed-lessons",
+          "+"
+        ],
+        [
+          "forms-realtime-formative-assessment-uses",
+          "~"
+        ],
+        [
+          "immediate-adaptive-test-results-enable-differentiation",
+          "+"
+        ],
+        [
+          "equity-focus-drives-formative-assessment",
+          "~"
+        ],
+        [
+          "contingent-tutor-metacognitive-demand-matches-withholding-tutor",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-surrenders-full-answer-least",
+          "+"
+        ],
+        [
+          "perceived-load-unchanged-under-contingent-tutor",
+          "~"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "~"
+        ],
+        [
+          "blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion",
+          "+"
+        ],
+        [
+          "student-uptake-of-support-predicts-small-group-answer-accuracy",
+          "~"
+        ],
+        [
+          "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states",
+          "~"
+        ],
+        [
+          "scaffolding-balance-confusion-versus-critical-thinking",
+          "~"
+        ],
+        [
+          "questioning-benefit-decays-with-impasse-depth",
+          "+"
+        ],
+        [
+          "repeating-scripted-question-lowers-recovery",
+          "+"
+        ],
+        [
+          "student-context-personalization-improves-tutor-metrics",
+          "+"
+        ],
+        [
+          "feedback-most-effective-at-task-and-process-levels",
+          "+"
+        ],
+        [
+          "ai-tutor-pace-adaptation-strengthened-engagement",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-effect",
+      "question": "When should support be withdrawn as the learner improves?",
+      "members": [
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-modality-effect-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-limits-contiguity-benefits",
+          "+"
+        ],
+        [
+          "expertise-reversal-prior-knowledge-interaction",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "+"
+        ],
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "learning-styles-matching-does-not-improve-learning",
+      "question": "What should the adaptation be based on: responses, or learner styles and preferences?",
+      "members": [
+        [
+          "intuitive-learners-outperform-sensing-learners",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learner-models-miscalibrated-outside-data-interval",
+      "question": "Can the system's diagnosis of the learner be trusted?",
+      "members": [
+        [
+          "genai-tutors-struggle-infer-student-knowledge",
+          "+"
+        ],
+        [
+          "pkt-temporal-causality-violation-inflates-performance",
+          "+"
+        ],
+        [
+          "transformer-kt-first-place-edm-cup-2023",
+          "~"
+        ],
+        [
+          "dynemb-tracks-knowledge-without-skill-tags",
+          "~"
+        ],
+        [
+          "responsible-dkt-temporal-reliability",
+          "~"
+        ],
+        [
+          "tsdr-improves-calibration-acc-rmse",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "personalized-learning-effects-vary-with-fidelity",
+      "question": "What makes an adaptive design fail in practice?",
+      "members": [
+        [
+          "adult-ed-minimal-learner-data-use",
+          "+"
+        ],
+        [
+          "rl-reward-misalignment-failure-modes",
+          "+"
+        ],
+        [
+          "constraints-selectively-affect-inefficient-strategies",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

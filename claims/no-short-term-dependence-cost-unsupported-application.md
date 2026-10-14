@@ -39,8 +39,9 @@ Two-way ANOVA (Table 7) on immediate unsupported application — an unseen acade
 
 ## Discussion
 
-
 ## Related Claims
+
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — the general claim this finding bears on, with the studies behind it
 - [EAP task performance showed the same directional pattern as reading comprehension but with a weaker Proficiency × Material interaction](eap-task-performance-weaker-interaction.md) — related
 - [The Proficiency × Material interaction on reading comprehension was significant, indicating heterogeneous material effects across proficiency strata](proficiency-material-interaction-reading-comprehension.md) — reports the opposite
 - [Differentiated-AI materials exceeded unified-AI materials on reading comprehension within each proficiency stratum, most strongly for high-proficiency learners (d = 1.40)](within-stratum-differentiated-advantage-reading-comprehension.md) — related

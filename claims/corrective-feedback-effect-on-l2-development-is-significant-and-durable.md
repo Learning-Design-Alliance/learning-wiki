@@ -62,6 +62,19 @@ Meta-analysis of 33 primary studies of corrective feedback in second language ac
 
 > "there was a medium overall effect for corrective feedback and the effect was maintained over time"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does an advantage seen straight after correction last to a delayed test, and does that depend on the form of the correction?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 causal), `q2`–`q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Lyster & Saito 2010](https://doi.org/10.1017/s0272263109990520) | q3 · quant-synthesis · r2 | i2 · medium effect, d=0.74 (between-group) | this claim |
+| [Li 2010](https://doi.org/10.1111/j.1467-9922.2010.00561.x) | q3 · quant-synthesis · r? | i? | this claim; [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay wh](recasts-more-enduring-than-metalinguistic-feedback.md) (qualifies) |
+| Yousefi 2021 | q2 · review · r2 | i2; i? | [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronge](cf-facilitates-l2-grammar-explicit-implicit-durability.md) (qualifies) |
+| [Ehsan Rassaei 2011](https://doi.org/10.5539/elt.v4n2p97) | q2 · causal · r2 | i? | [Metalinguistic feedback and recasts, but not clarification requests, significantly improve](metalinguistic-recasts-effective-immediate-wh-questions.md) (supports); [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not](metalinguistic-beats-recasts-immediate-not-delayed.md) (qualifies); [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay wh](recasts-more-enduring-than-metalinguistic-feedback.md) (qualifies); [Corrective feedback treatment and time interact significantly in shaping wh-question learn](time-treatment-interaction-corrective-feedback.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Both syntheses find the effect of corrective feedback durable, and they overlap in time and topic, so some primary studies are probably in both; the abstract of Li (2010) does not list its studies, so the overlap could not be checked. They disagree on treatment length: Li (2010) reports larger effects for shorter treatments, while Lyster and Saito (2010), in classrooms only, found long treatments larger than short-to-medium ones and not distinguishable from brief ones. On setting they also differ: Li found larger effects in foreign-language contexts, Lyster and Saito found setting not to be a contributing factor. Lyster and Saito's age result (younger learners benefit more) is a caution for designs aimed at adults, who were a minority of their pooled learners.

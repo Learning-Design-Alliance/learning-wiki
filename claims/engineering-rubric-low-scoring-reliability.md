@@ -45,6 +45,8 @@ Analysis of summative assessment scores in which six scorers rated six teams usi
 The one entry is a single class at Maui Community College: six scorers, six teams, one inquiry lab. No reliability coefficient (such as an ICC or kappa) is reported; the figure is a mean standard deviation across scorers, and "may not have been a reliable test" is the authors' own reading of it. Whether the rubric, the scorers' training or the small number of teams is responsible cannot be told from this, and nothing here generalises to engineering rubrics as such.
 
 ## Related Claims
+
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [A Wheatstone bridge inquiry lab accomplished many of its learning goals and students seemed to enjoy it](circuit-design-inquiry-accomplished-learning-goals.md) — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) — related

@@ -41,11 +41,12 @@ Secondary finding from the multiple regression analyses for both regular and irr
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts](procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md) — related
 - [Procedural memory shows no association with irregular past tense learning under any CF type](procedural-memory-null-irregular-past-tense.md) — related
 - [Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts](declarative-memory-predicts-irregular-past-ugjt-recasts.md) — related

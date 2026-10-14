@@ -41,8 +41,9 @@ Moderator analysis of presentational features: system-paced studies (k = 24) sho
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Redundancy Hurts Learning](redundancy-hurts-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) — related
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](segmentation-moderates-verbal-redundancy.md) — related
 - [Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations](spoken-written-beats-spoken-only-not-written-only.md) — related

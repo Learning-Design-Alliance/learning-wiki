@@ -1,0 +1,46 @@
+{
+  "principle": "principles/accessible-vocabulary-syntax",
+  "note": "Batch g7 (2026-10-14), topic structure-and-language (split into this spec and clear-structure.json, one per principle page). Groupings and directions by an agent from the claims' titles and evidence entries. Thin: no claim in the wiki compares simplified with original wording at constant content in a controlled study; the simplification hub is a second-hand report (Abedi & Lord 2001 via Wei et al. 2024). The two input claims are second-hand reports of L2 spoken-interaction studies. Review before applying.",
+  "findings": [
+    {
+      "hub": "vocabulary-instruction-improves-comprehension",
+      "question": "Does teaching the essential terms improve comprehension, and of which texts?",
+      "members": [
+        [
+          "embedded-aids-improve-reading-comprehension",
+          "+"
+        ],
+        [
+          "unfamiliar-contexts-distract-from-mathematics",
+          "+"
+        ],
+        [
+          "minimal-technical-english-limits-training",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "linguistic-simplification-improves-math-performance",
+      "question": "Does simplifying or adjusting the wording help, and does it last?",
+      "members": [
+        [
+          "simplification-and-glossary-supported-second-cycle-gains",
+          "+"
+        ],
+        [
+          "interactionally-modified-input-aids-comprehension-not-retention",
+          "~"
+        ],
+        [
+          "negotiation-benefit-limited-lower-ability-learners",
+          "~"
+        ],
+        [
+          "cohesion-no-effect-delayed-recall",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

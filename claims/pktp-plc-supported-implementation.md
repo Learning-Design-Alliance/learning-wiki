@@ -41,8 +41,9 @@ Developmental evaluation of PKTP's first full year (2016-17) across 18 classroom
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — the general claim this finding bears on, with the studies behind it
 - [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](pktp-family-activities-built-informal-relationships.md) — related
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related

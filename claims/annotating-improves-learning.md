@@ -62,6 +62,18 @@ Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2
 
 A long review that asks, for each of ten study techniques, whether its benefits hold up across different learning conditions, types of student, materials and tests. Highlighting (or underlining) was one of five techniques rated low utility, along with summarization, the keyword mnemonic, imagery use for text learning and rereading. Practice testing and distributed practice were rated high utility. This counts against the claim for unguided highlighting in particular. It does not test more elaborative annotation. Read from the Crossref-deposited abstract only.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 review), `q2`–`q4`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ponce et al. 2022](https://doi.org/10.1007/s10648-021-09654-1) | q4 · quant-synthesis · r? | i1 · small effect, 0.36 on memory; 0.20 on comprehension | this claim |
+| [Dunlosky et al. 2013](https://doi.org/10.1177/1529100612453266) | q2 / q3 · review · r2 | i? | this claim; [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) (counts against); [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive](five-techniques-low-utility.md) (counts against) |
+| [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i2 · medium effect, overall d = 0.56; 0.85 distributed practice, 0.74 practice testing | [Across ten learning techniques, distributed practice and practice testing have the largest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Annotating is a generative activity: it forces selection of important information and connection of it to prior knowledge, consistent with generative theories of learning. It also produces an external record that supports later review and retrieval practice. Annotation quality likely matters more than quantity — superficial highlighting without elaboration can create an illusion of fluency, and re-reading highlighted text is among the weaker study strategies in the learning-techniques literature.

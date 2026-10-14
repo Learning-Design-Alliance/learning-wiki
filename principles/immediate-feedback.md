@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (5 for, 8 mixed) · 20 studies (6 review, 5 causal, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 9 claims rest on one study
+> **Evidence** · 20 claims (8 for, 12 mixed) · 28 studies (9 review, 7 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -48,6 +48,25 @@ The page's earlier guidance, kept as a concrete default a designer can act on an
 8. **Consider letting the learner ask for feedback after an attempt.** In one motor-skill laboratory study, learners who decided after a trial whether to see their result retained the skill better than those who decided before it. Evidence: [self-controlled knowledge of results decided after the trial](../claims/self-controlled-kr-decided-after-trial-improves-motor-retention.md) [~M]; carry no further than simple motor tasks until tested elsewhere.
 
 How far each neighbouring claim may be carried: the multiple-choice and retrieval claims are about `verbal-association` and fact learning, mostly in laboratories and classrooms of university students; the vocabulary-timing claim is one study reported in a review; the knowledge-of-results claim is one laboratory motor task. None tests timing for procedural skills in school mathematics, clinical simulation or writing.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **what kind of material or skill is practised (word pairs, facts, prose, a second language, a motor or clinical skill)**, **whether the learner will attempt the same or a similar item again before feedback would arrive**, and **whether correction would happen in front of peers or mid-performance**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Multiple-choice practice or quizzes | Always give the correct answer; immediately after each item or at the end of the set both work | [Feedback after multiple-choice tests halves lure intrusions](../claims/feedback-after-multiple-choice-tests-halves-lure-intrusions.md) [~M] |
+| Pretests on paired associates, such as vocabulary pairs | Show the correct answer right after each pretest item; delaying it removed the benefit | [Feedback timing moderates pretesting](../claims/feedback-timing-moderates-pretesting.md) [~M] |
+| Pretests on trivia facts or other material richer in meaning than word pairs | Feedback can wait until the end of the set or a later session; with trivia facts the benefit held with delays up to 24 hours | [Feedback timing moderates pretesting](../claims/feedback-timing-moderates-pretesting.md) [~M] |
+| Second-language vocabulary learned from reading | Consider delayed rather than immediate feedback; the one reported comparison favoured delay | [Incidental vocabulary retention and feedback timing](../claims/incidental-vocabulary-retention-problems.md) [~W] |
+| Oral correction of second-language errors in class | Correct errors (it helps, and the benefit lasts to delayed tests); hold correction to the end of the activity or give it privately where public correction would embarrass | [Corrective feedback effect on L2 development is durable](../claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) [+M]; [Teachers favour delayed oral correction](../claims/teachers-favor-delayed-ocf-over-immediate.md) [~W] |
+| The outcome is a delayed second-language test, not the next lesson | Do not choose the correction type on the immediate post-test: explicit correction leads there, implicit correction (recasts) holds up as well or better later | [Explicit feedback stronger immediately, implicit better maintained](../claims/cf-facilitates-l2-grammar-explicit-implicit-durability.md) [~W]; [Recast gains held while metalinguistic gains declined](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [~M] |
+| Homework or practice sets learners complete alone | Return scored feedback before the next set, so that errors are not practised; automated scoring makes this feasible | [Timely feedback improves homework learning](../claims/timely-feedback-improves-homework-learning.md) [+W] |
+| A tutoring system or programming exercises | Give immediate, elaborated feedback that says what to change at each step | [Tutoring systems improve outcomes with immediate actionable feedback](../claims/its-improve-learning-outcomes-with-actionable-feedback.md) [+W]; [Immediate elaborated feedback improved programming learning](../claims/immediate-elaborated-feedback-improves-programming-learning.md) [+W] |
+| A simple motor skill practised in trials | Let the learner decide after each trial whether to see the result, rather than fixing the schedule | [Self-controlled feedback decided after the trial improves retention](../claims/self-controlled-kr-decided-after-trial-improves-motor-retention.md) [~M] |
+| A whole performance, such as a simulated clinical consultation | Debrief after the performance instead of interrupting it; interrupt only for errors that would otherwise be repeated or cause harm | [Participants preferred post-session debriefing](../claims/feedback-timing-post-session-debrief-preference.md) [~W] |
+| Computer-administered tests used to measure achievement | Showing results item by item does not change the scores; decide on it for learning reasons, not measurement ones | [Immediate knowledge of results has no effect on achievement estimates](../claims/knowledge-of-results-no-effect-achievement-test-dimensionality.md) [~W] |
+| Writing or projects, with feedback on drafts | Choose the timing locally and record it; no claim in the wiki compares immediate with delayed feedback on drafts | untested proposal |
 
 ## Observation, state and explanation
 
@@ -74,6 +93,14 @@ No claim in the wiki tests the page's original statement, that immediate feedbac
 - [Instructors favored delayed over immediate oral corrective feedback, believing immediate correction intimidates students](../claims/teachers-favor-delayed-ocf-over-immediate.md) [~W]: a `qualitative` interview study of six EFL teachers; most corrected at the end of class rather than interrupting, and only one used immediate oral correction. It records a practical constraint (public correction and its affective cost), not a learning outcome. Not yet checked.
 
 Taken together: feedback after an error, especially in multiple-choice and recall practice, has the strongest evidence here; the timing comparisons that exist find no advantage for immediacy, or an advantage for delay, each in one reported study; and learner choice and public setting may matter alongside timing. Learners, tasks and outcomes differ across these claims, so do not rank them by effect label. A nonsignificant difference between immediate and delayed feedback is not equivalence.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/feedback-timing.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Should corrective feedback come immediately after a response, or can it wait? [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](../claims/feedback-timing-moderates-pretesting.md) [~M]: 7 distinct studies.
+- Does an advantage seen straight after correction last to a delayed test, and does that depend on the form of the correction? [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](../claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) [~S]: 4 distinct studies.
+- Who should decide when feedback arrives, and does the setting (in front of peers, mid-performance) matter? [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.](../claims/self-controlled-kr-decided-after-trial-improves-motor-retention.md) [~M]: 5 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

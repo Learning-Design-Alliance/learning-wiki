@@ -40,11 +40,23 @@ Quasi-experimental comparison of two cohorts: 161 medical students (6 TBLs, 966 
 
 > "However, the revised, low-stress format had significantly higher scores on the iSAT (n=119-161, p <.05)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*High-stakes or low-stress readiness tests?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **1 distinct studies** (1 causal), `q2`, 0 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Cynthia J. Miller 2015](https://doi.org/10.5430/wje.v5n4p1) | q2 · causal · r1 | i? | this claim; [Dental students in a revised low-stress TBL format reported lower stress and frustration t](low-stress-tbl-lower-stress-frustration.md) (supports); [Dental students in a revised low-stress TBL format rated its effectiveness for learning mo](low-stress-tbl-higher-perceived-effectiveness.md) (supports); [Medical students in the high-stakes TBL format perceive questions as more difficult and le](high-stakes-tbl-questions-seen-harder-less-fair.md) (supports); [Dental students in a revised TBL format and medical students in the original format perfor](tbl-formats-similar-irat-trat-performance.md) (qualifies); [The two TBL formats show no significant differences in perceived team communication, contr](tbl-team-dynamics-no-format-differences.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The comparison is between two non-randomised cohorts, medical students in the original format and dental students in the revised one, so format is confounded with programme, cohort, the number of TBL sessions (six against two pilot sessions) and team size; the difference cannot be attributed to the format alone.
 
 ## Related Claims
+
+- [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — the general claim this finding bears on, with the studies behind it
 - [Medical students in the high-stakes TBL format perceive questions as more difficult and less fair than dental students in the revised format](high-stakes-tbl-questions-seen-harder-less-fair.md) — related
 - [Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts](tbl-formats-similar-irat-trat-performance.md) — related
 - [Dental students in a revised low-stress TBL format reported lower stress and frustration than medical students in the original format, in a non-randomised comparison of two cohorts](low-stress-tbl-lower-stress-frustration.md) — related

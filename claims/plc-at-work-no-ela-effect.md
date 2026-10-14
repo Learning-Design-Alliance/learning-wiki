@@ -41,6 +41,7 @@ The same Arkansas quasi-experimental study of over 2,500 students in 12 PLC at W
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](stem-plc-math-student-learning-existence-proof.md) — the general claim this finding bears on, with the studies behind it
 - [PLC at Work has a statistically significant positive effect on state-administered ACT Aspire math achievement scores (effect size = +0.08) after less than two years of implementation](plc-at-work-significant-math-effect.md) — related

@@ -78,6 +78,8 @@ A review of experiments comparing human tutoring, several classes of computer tu
 
 ## Related Claims
 
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Feedback improves learning.](feedback-improves-learning.md) — feedback is one of the two proposed active ingredients of tutoring
 - [Mastery learning improves outcomes.](mastery-learning-improves-outcomes.md) — mastery learning was combined with tutoring in Bloom's original two-sigma work
 - [Adaptive learning improves outcomes.](adaptive-learning-improves-outcomes.md) — machine-adaptive systems attempt to replicate the contingency of human tutoring

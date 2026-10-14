@@ -41,10 +41,11 @@ Narrative review attribution: the review reports, citing Hooshyar et al. [125], 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](feedback-timing-moderates-pretesting.md) — the general claim this finding bears on, with the studies behind it
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — a broader claim this one bears on
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — related

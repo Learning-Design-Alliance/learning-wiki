@@ -60,11 +60,12 @@ Same SIMS and interview data: the article reports apprenticeship students "gaine
 
 ## Discussion
 
-
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](ca-methods-more-effective-than-traditional-writing-college.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher-by-method interaction was significant on the standardized MPE posttest, with control-group performance dependent on the teacher](teacher-method-interaction-significant-mpe-posttest.md) — related
 - [Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathematics](cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) — related
 - [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related

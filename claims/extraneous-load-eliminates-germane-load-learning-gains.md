@@ -62,8 +62,9 @@ In the near-transfer problem category, no significant "increase was found in the
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) — related
 - [There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases](two-types-of-germane-load-related-to-intrinsic-load.md) — related
 - [Rootless Podman isolation maintained containment with no observed privilege escalation or cross-identity contamination under classroom load](rootless-podman-containment-no-violations.md) — related

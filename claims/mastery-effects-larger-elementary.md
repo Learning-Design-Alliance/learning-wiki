@@ -41,6 +41,7 @@ Moderator analysis grouping the achievement studies by grade level (elementary, 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](mastery-learning-effects-larger-for-lower-aptitude-students.md) — the general claim this finding bears on, with the studies behind it
 - [Mastery learning effects are smaller in science than in mathematics, social studies, and language arts, contrary to theory, partly due to grade-level confounding](mastery-science-smaller-effects.md) — related

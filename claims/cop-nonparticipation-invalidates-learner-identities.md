@@ -41,7 +41,8 @@ Analytical critique of Lave and Wenger's (1991) Community of Practice model as a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — the general claim this finding bears on, with the studies behind it
 - [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](sociocultural-sla-demonizes-socially-resistant-learners.md) — related
 - [The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations](gll-metanarrative-persists-sociocultural-theory.md) — related

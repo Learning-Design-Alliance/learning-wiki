@@ -41,8 +41,9 @@ The abstract reports the temporal coherence analysis comparing Responsible-DKT w
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](learner-models-miscalibrated-outside-data-interval.md) — the general claim this finding bears on, with the studies behind it
 - [The neural-symbolic architecture enables empirical evaluation of embedded pedagogical rules, showing that repeated-incorrect (non-mastery) patterns play a stronger role in prediction updates](non-mastery-rules-stronger-prediction-role.md) — related
 - [Responsible-DKT outperforms a neural-symbolic baseline without knowledge injection and a fully data-driven PyTorch DKT in predictive accuracy across training ratios and sequence lengths](responsible-dkt-outperforms-baselines-predictive-accuracy.md) — related
 - [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](injection-strategy-architecture-sensitive.md) — related

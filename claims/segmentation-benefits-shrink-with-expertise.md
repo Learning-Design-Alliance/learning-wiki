@@ -42,6 +42,18 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 
 76 Dutch secondary-education students (one excluded for missing data) were randomly assigned to study eight animated, narrated worked-out examples on probability calculation, presented either as one continuous stream per example or divided into 5–7 segments with 2-second pauses. Regression models with prior knowledge (centered), condition, and their interaction predicted near- and far-transfer efficiency (performance combined with invested mental effort). The prior-knowledge × condition interaction was significant for both near (β = −0.35, p = .04) and far transfer efficiency (β = −0.34, p = .05): at one SD below the mean (lower prior knowledge), segmented examples were significantly more efficient than continuous ones (near β = 0.39, p = .01; far β = 0.33, p = .03), but at one SD above the mean (higher prior knowledge) this difference had disappeared (near β = −0.05, p = .72; far β = −0.10, p = .51), driven mainly by continuous-condition mental effort dropping sharply with rising prior knowledge while segmented-condition effort stayed flat. No significant interaction was found on raw transfer performance alone, only on mental effort and the composite efficiency measure.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*For whom: does the benefit depend on prior knowledge or learner characteristics?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Spanjers et al. 2011](https://doi.org/10.1016/j.chb.2010.05.011) | q3 · causal · r? | i? | this claim |
+| [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | [Learners with high prior knowledge benefit more from segmenting in retention performance t](prior-knowledge-moderates-segmenting-retention.md) (counts against) |
+| Veronica Pimenova 2026 | q3 · causal · r1 | i3; i? | [Segmentation yields a larger performance benefit for participants with ADHD than for those](segmentation-benefit-larger-for-adhd-group.md) (qualifies); [ADHD medication status shows no significant interaction with segmentation, though medicate](medication-status-segmentation-interaction-null.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **What the recorded study shows.** Spanjers et al. (2011) found the benefit of segmentation on instructional efficiency (performance relative to mental effort), not on test performance alone, and found it disappearing at high prior knowledge rather than reversing. A full reversal, continuous animation beating segmented animation for more expert learners, is left by the authors as an open question.

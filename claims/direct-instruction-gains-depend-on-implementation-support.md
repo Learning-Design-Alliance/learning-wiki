@@ -60,7 +60,8 @@ Same ratings analysis comparing the 10 fully-supported Direct Instruction school
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Simulation estimates that regression-to-the-mean selection bias inflates apparent Target Teach improvement by about .03 per year, leaving a smaller but still significant gain](selection-bias-simulation-inflates-target-teach-gain.md) — related
 - [SAGE class-size reduction schools showed no statistically significant change in poverty-adjusted effectiveness ratings](sage-schools-no-significant-rating-change.md) — related

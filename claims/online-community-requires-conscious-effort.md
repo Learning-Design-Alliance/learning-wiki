@@ -41,8 +41,9 @@ In the Findings (Community section) of the interview study, e-teachers reported 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — the general claim this finding bears on, with the studies behind it
 - [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
 - [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related

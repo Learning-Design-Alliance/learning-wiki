@@ -41,7 +41,8 @@ Frequency analysis across the 88 active learning conditions coded in the systema
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Most active learning comparison studies differ on more than one course feature, limiting attribution of effects to single features](most-comparisons-differ-on-multiple-features.md) — the general claim this finding bears on, with the studies behind it
 - [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](active-learning-courses-retain-lecture-component.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related

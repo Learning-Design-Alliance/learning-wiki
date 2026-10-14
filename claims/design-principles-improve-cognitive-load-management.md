@@ -60,8 +60,9 @@ The article reports that "a small number of primary studies found large effects"
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](verbal-redundancy-small-overall-effect.md) — related
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — related

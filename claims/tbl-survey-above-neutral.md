@@ -41,8 +41,9 @@ End-of-semester survey using an instrument established by Mennenga (2010) with t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
 - [After the TBL module, students were better prepared to design and implement independent final research projects](tbl-module-prepares-independent-projects.md) — related
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related

@@ -41,8 +41,9 @@ The report describes a qualitative analysis of prompts issued to a GenAI system 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Volume of offloading masks differences between offloading processes that become visible when profiling what is offloaded](offloading-volume-masks-content-differences.md) — related
 - [Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship](volume-based-offloading-profiles-prior-knowledge-authorship.md) — related

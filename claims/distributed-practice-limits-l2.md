@@ -66,6 +66,8 @@ This meta-analysis pooled 98 effect sizes from 48 second-language experiments (3
 Kim and Webb's (2022) meta-analysis supports the benefit of spacing for L2 learning, and found longer spacing better than shorter on delayed posttests; it does not test the limit this claim's title asserts, which still rests on one narrative review's reading of two studies.
 
 ## Related Claims
+
+- [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — the general claim this finding bears on, with the studies behind it
 - [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — a broader claim this one bears on
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on

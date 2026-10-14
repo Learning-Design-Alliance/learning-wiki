@@ -59,6 +59,23 @@ Blewitt, C., Fuller-Tyszkiewicz, M., Nolan, A., Bergmeier, H., Vicary, D., Huang
 
 A systematic review of experimental and quasi-experimental studies of universal SEL curricula delivered to children aged 2 to 6 in centre-based early childhood education and care. Sixty-three studies went into multilevel random-effects meta-analyses. Compared with controls, children in the programmes improved in social competence (d = 0.30, 95% CI 0.18–0.42), emotional competence (d = 0.54, 95% CI 0.22–0.86) and behavioural self-regulation (d = 0.28). Their early learning skills improved by less (d = 0.18). The size of the effect depended on who led the intervention, the type of assessment, the informant, the child's age and study quality.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do sustained, structured programmes produce social-emotional gains, and do they last?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **8 distinct studies** (3 quant-synthesis, 3 review, 2 causal), `q2`–`q4`, 5 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Durlak et al. 2011](https://doi.org/10.1111/j.1467-8624.2010.01564.x) | q4 · quant-synthesis · r3 | i2 · medium effect, ES=0.57 on SEL skills | this claim |
+| [Blewitt et al. 2018](https://doi.org/10.1001/jamanetworkopen.2018.5727) | q4 · quant-synthesis · r? | i2 · social competence d=0.30, emotional competence d=0.54 | this claim |
+| [Taylor et al. 2017](https://doi.org/10.1111/cdev.12864) | q4 · quant-synthesis · r? | i? | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports) |
+| [Bierman et al. 2026](https://doi.org/10.1037/amp0001765) | q3 · causal · r2 | i1 · small-to-moderate effect, d=.21 to .33 | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports) |
+| [Greenberg 2023](https://doi.org/10.54300/928.269) | q3 · review · r2 | i1 | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports) |
+| Fronius 2019 | q2 · review · r3 | i? | [A two-year quasi-experimental study in Hong Kong found full-implementation restorative who](rwsa-hong-kong-less-bullying-empathy-gains.md) (supports) |
+| Building Decision Skills 2006 | q2 · causal · r? | i3 | [Building Decision Skills plus service learning significantly improved twelfth-graders' eth](bds-improves-ethical-perspective.md) (supports) |
+| Bergen 2002 | q2 · review · r2 | i? | [High-quality pretend play is an important facilitator of perspective taking and later abst](pretend-play-facilitates-perspective-taking-abstract-thought.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope of the claim.** This claim concerns gains in social-emotional *skills* specifically, not downstream academic or behavioral outcomes, which are treated separately in the literature. Skill gains are the most consistently reported proximal outcome of SEL programs [+S]; effects on achievement and conduct are typically smaller and more variable [~M], plausibly because they are mediated by the skill gains claimed here.

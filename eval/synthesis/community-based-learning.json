@@ -1,0 +1,76 @@
+{
+  "principle": "principles/community-based-learning",
+  "note": "Group g4 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries; review before applying. All evidence is associational, second-hand, quasi-experimental with self-selection, or a single case; outcomes are civic attitudes, self-reports and reflection quality, not content learning. cbl-large-positive-effect-academic-achievement is creativity-based learning and cbl-lessons-more-deeper-learning-opportunities-than-typical is challenge-based learning; both left out as off-topic despite the 'cbl' slug.",
+  "findings": [
+    {
+      "hub": "service-learning-improves-civic-and-personal-outcomes",
+      "question": "Does community-based or service learning change civic commitment, attitudes and self-reported growth?",
+      "members": [
+        [
+          "service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment",
+          "+"
+        ],
+        [
+          "experiencing-civic-community-fosters-commitment",
+          "+"
+        ],
+        [
+          "bds-service-learning-potentially-positive-kav",
+          "+"
+        ],
+        [
+          "bds-curriculum-adds-beyond-service-learning-alone",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "syllabus-service-content-connection-strongest-pedagogical-relationship",
+      "question": "Which course features go with better outcomes: an explicit link to course concepts, diversity, structured reflection?",
+      "members": [
+        [
+          "diversity-enhances-all-civic-competence-outcomes",
+          "+"
+        ],
+        [
+          "guided-reflection-yields-more-higher-order-paragraphs-than-free",
+          "+"
+        ],
+        [
+          "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "positive-relationships-increase-civic-engagement-intention",
+      "question": "How much do relationships with mentors, professors and community partners matter?",
+      "members": [
+        [
+          "peer-mentoring-increases-civic-action-service-learning",
+          "+"
+        ],
+        [
+          "slam-relationship-quality-correlates-civic-action",
+          "+"
+        ],
+        [
+          "professor-relationship-quality-civic-engagement-bidirectional",
+          "+"
+        ],
+        [
+          "community-partner-conflict-negatively-correlates-social-justice",
+          "~"
+        ],
+        [
+          "csl-co-planning-gives-community-partners-voice-in-project",
+          "~"
+        ],
+        [
+          "planetary-health-course-three-key-lessons",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

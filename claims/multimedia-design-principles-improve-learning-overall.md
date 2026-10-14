@@ -58,6 +58,17 @@ Moderation analysis across 16 pooled effects found the design principle itself e
 
 > "The specific design principle explained most of the variance in learning outcomes (NPooledEffects = 16, R22 = 1.00, p < 0.001). As shown in Figure 3, some design principles had much larger effects than others"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How much do the design principles add, and when do they matter most?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q2`–`q3`, 2 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q2 / q3 · quant-synthesis · r3 | i1; i?; i2 | this claim; [Design principle effects are moderated by pacing and element interactivity, but not by lea](design-principle-effects-moderated-by-pacing-and-complexity.md) (qualifies); [Multimedia design interventions yield small average improvements in cognitive load managem](design-principles-improve-cognitive-load-management.md) (supports) |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Pretraining principle: pre-lessons on names, locations, and characteristics of key compone](pretraining-principle-mayer-2008.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

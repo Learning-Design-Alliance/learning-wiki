@@ -41,8 +41,9 @@ Quasi-experiment with 51 Ukrainian second-year ESL students in one experimental 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Audio lessons training vocabulary from L1 to L2 yield better L1-to-L2 translation than traditional L2-to-L1 training](l1-to-l2-audio-training-improves-translation.md) — related
 - [Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone](lwpa-outperforms-traditional-vocabulary-learning.md) — related
 - [The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian](svas-advantage-across-test-rubrics.md) — a narrower finding that bears on this claim

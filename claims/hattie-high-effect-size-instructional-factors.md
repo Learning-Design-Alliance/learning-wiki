@@ -41,6 +41,7 @@ The brief reports Hattie's meta-analytical synthesis of "hundreds of studies," w
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related

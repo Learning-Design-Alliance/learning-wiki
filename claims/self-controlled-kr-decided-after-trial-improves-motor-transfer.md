@@ -60,8 +60,9 @@ Post hoc analyses of transfer AE in the same experiment: Self-After and Self-Bot
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - [Self Controlled Kr Decided After Trial Improves Motor Retention](self-controlled-kr-decided-after-trial-improves-motor-retention.md)
 - [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) — related
 - [Learning should be assessed with retention and transfer tests rather than current practice performance](retention-transfer-tests-define-learning.md) — related

@@ -39,6 +39,17 @@ Qualitative analysis of written reflections (journals, two assignments) from 122
 
 > "Attitudes identified as necessary for collaborative learning were valuing others' perspectives, interdependence, and learning about self."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What do learners say they learn about collaboration from PBL?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (1 qualitative, 1 quant-synthesis), `q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Murray-Harvey 2013 | q2 · qualitative · r3 | i? | this claim; [Students characterised the skills needed for collaborative group work as interpersonal (so](pbl-skills-interpersonal-problem-solving-group.md) (supports); [Students made minimal reference to higher-level cognitive or metacognitive processing bene](minimal-reference-higher-level-processing-benefits.md) (qualifies) |
+| [Şenel Elaldı 2016](https://doi.org/10.11114/jets.v4i1.1097) | q2 · quant-synthesis · r2 | i? | [Students in PBL experimental groups reported positive views of problem-based learning in q](pbl-students-positive-views-interviews.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

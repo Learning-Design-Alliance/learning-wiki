@@ -39,8 +39,9 @@ Standardised OLS regression on student-level ratings (n = 144) with Johnson's re
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Intention to use consolidated LLM reports is associated with motivation and personalisation](intention-to-use-associated-motivation-personalisation.md) — related
 - [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) — related
 - [Feedback comprehension showed the strongest bivariate association with revision quality, and indirect associations through actionability and comprehension remained positive after adjustment](comprehension-strongest-link-revision-quality.md) — related

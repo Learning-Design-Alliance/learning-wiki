@@ -41,8 +41,9 @@ The authors' experimental observation reported in the model-training section: su
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](learner-models-miscalibrated-outside-data-interval.md) — the general claim this finding bears on, with the studies behind it
 - [The survey reports, citing Pu and Becker, that removing students' repeated interactions on the same exercises reduced AKT's performance to close to that of DKVMN.](attentive-knowledge-tracing-benefits-from-repeated-interactions.md) — related
 - [Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits](embedding-pretraining-beats-end-to-end-training-dynemb.md) — related
 - [DynEmb outperforms BMF and DKT baselines in future response prediction across five tutoring datasets, with AUC improvement up to 5.43% in the New User setting](dynemb-outperforms-dkt-and-bmf-baselines.md) — related

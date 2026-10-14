@@ -41,6 +41,7 @@ Ranking data from Challenge 2 in the mixed-method PSD study. The article states 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — the general claim this finding bears on, with the studies behind it
 - [During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.](claim-shared-control-roles-and-content.md) — related

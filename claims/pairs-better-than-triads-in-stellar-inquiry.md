@@ -41,8 +41,9 @@ This is the authors' experiential observation from teaching the inquiry twice (U
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — a broader claim this one bears on
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related

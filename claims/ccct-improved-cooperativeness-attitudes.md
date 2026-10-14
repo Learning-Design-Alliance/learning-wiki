@@ -41,8 +41,9 @@ Paired samples t-test on the cooperativeness scale within the experimental CCCT 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [CCCT participation improved prospective teachers' co-regulation situations (g = 0.512)](ccct-improved-co-regulation.md) — related
 - [Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)](ccct-outperformed-lecture-achievement.md) — related
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](ccct-qualitative-strengths-challenges.md) — related

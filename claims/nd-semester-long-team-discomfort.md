@@ -39,6 +39,16 @@ Survey distributions of comfort with collaboration frequency show ND students "f
 
 > "ND students felt sub- stantially less comfortable with semester-long teams. 50% of ND students reported feeling some level of discomfort compared to 22% of NT students."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Permanent teams: who finds them hard, and how should teams be formed and run?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **1 distinct studies** (1 associational), `q1`–`q2`, 0 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Cynthia Zastudil 2026](https://doi.org/10.1145/3803400.3809386) | q1 / q2 · associational · r1 | i? | this claim; [Neurodivergent students prefer teams of 3–5 students while neurotypical students most pref](nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) (qualifies); [Neurodivergent computing students feel most comfortable with student-formed teams, then in](nd-comfort-order-team-formation-collaborative-learning.md) (qualifies); [Neurodivergent students feel most comfortable in teams with defined roles rather than no s](nd-prefer-defined-team-roles.md) (qualifies); [Neurodivergent students' comfort is highest for fully structured assignments and lowest fo](nd-comfort-highest-fully-structured-assignments.md) (qualifies); [ND and NT students both prefer some instructor involvement and in-person collaboration ove](nd-nt-prefer-some-instructor-involvement-in-person.md) (qualifies); [Neurodivergent students cope with collaborative active learning discomfort by self-selecti](nd-coping-self-selected-roles-self-disclosure.md) (qualifies); [When coping methods fail, neurodivergent students report avoiding socialization and course](nd-coping-failure-avoidance-public-presentations.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

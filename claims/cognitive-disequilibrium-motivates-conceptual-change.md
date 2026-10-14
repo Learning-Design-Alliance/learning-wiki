@@ -81,6 +81,20 @@ Lehman, B., D'Mello, S., Strain, A., Mills, C., Gross, M., Dobbins, A., Wallace,
 
 Thirty-two undergraduates took part in eight computer-based "trialogues" about research-methods case studies with an animated tutor agent and an animated student agent. The researchers induced disequilibrium by having the agents disagree or state false information, then asking the learner to decide between them. The contradictions increased self-reported confusion, but on their own they did not improve posttest scores (p = 1.00). In a follow-up analysis that split cases by how confused learners reported being (a median split), learners scored higher after contradictions only in the high-confusion cases. Disequilibrium helped only when it was actually experienced, and the study gave no scaffolding to help learners resolve it.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does conflict-based instruction improve conceptual learning more than standard exposition?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 1 causal, 1 review, 1 design), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Pacaci et al. 2024](https://doi.org/10.1002/tea.21887) | q4 · quant-synthesis · r? | i3 · large effect, g=1.10 (adjusted g=0.93) | this claim |
+| [Guzzetti et al. 1993](https://doi.org/10.2307/747886) | q3 · quant-synthesis · r? | i? | this claim |
+| [Lehman et al. 2013](https://doi.org/10.3233/jai-130025) | q3 · causal · r1 | i? | this claim |
+| Blosser 1993 | q2 / q3 · review · r3 | i? | [Conceptual change strategies in cooperative groups reduced misconceptions in community col](cooperative-conceptual-change-chemistry-misconceptions.md) (supports) |
+| Tao 1997 | q2 · design · r2 | i? | [Alternative conceptions in force and motion were very difficult to change: of 14 students,](force-motion-conceptions-difficult-to-change.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The claim rests on a Piagetian account of learning: existing schemas are stable until perturbed, and it is the discomfort of disequilibrium — not the conflicting information alone — that drives accommodation. This places the claim within [constructivism](../theories/constructivism.md) and connects it to the [cognitive disequilibrium](../principles/cognitive-disequilibrium.md) principle as a design lever: instruction must first surface the learner's prior conception, then present a conflict it cannot explain. Classic conceptual-change designs operationalize this as a "predict–observe–explain" sequence, where learners commit to a prediction before seeing disconfirming evidence.
@@ -92,6 +106,8 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 **Open questions.** The strength of this claim depends on how "conceptual change" is measured: self-reported satisfaction of curiosity, post-test performance, and durable restructuring of misconceptions are different outcomes, and evidence supporting the claim in one does not automatically support it in others. <!-- deprecated (2026-10-05, stale): Studies still need to be added to establish the evidence base for this page. --> Three studies are recorded above: two meta-analyses of conflict-based instruction (Pacaci et al. 2024 and Guzzetti et al. 1993, both read from abstracts), which measure learning outcomes rather than disequilibrium itself, and one small within-subjects experiment (Lehman et al. 2013) in which staged contradictions helped only when learners reported being confused. None measures durable restructuring of misconceptions, and none isolates disequilibrium as the mechanism.
 
 ## Related Claims
+
+- [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](cooperative-conceptual-change-chemistry-misconceptions.md) — the general claim this finding bears on, with the studies behind it
 
 - [Activation improves learning.](activation-improves-learning.md) — activating prior conceptions is the precondition for creating a productive conflict with them
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — disequilibrium that exceeds working-memory capacity tips from motivating to overwhelming

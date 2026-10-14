@@ -23,7 +23,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (18 for, 18 mixed) · 31 studies (16 causal, 7 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 31 report an effect size · 29 claims rest on one study
+> **Evidence** · 38 claims (18 for, 20 mixed) · 34 studies (17 causal, 9 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 34 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -73,6 +73,18 @@ These are proposals and have not been tested with learners as diagnostic branche
 - [Segmenting and prior knowledge](../claims/segmentation-benefits-shrink-with-expertise.md) [~M]: a randomized experiment with 75 Dutch secondary students studying narrated animated worked examples in probability found segmented examples more efficient (equal transfer, lower effort) for lower prior knowledge, with the advantage gone at higher prior knowledge; no interaction on transfer performance alone, and no effect size beyond regression coefficients. Not yet checked against its source. It is one study of one support, not a general expertise-reversal estimate for pictures.
 
 Retain learners, assignment, materials, pacing, comparator, instrument and horizon when transporting these observations. Do not rank them by effect label: an η² from a two-group lab study, a pooled g from a meta-analysis and a regression β answer different questions.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/multimedia-learning.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Do words with a relevant picture beat words alone? [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]: 8 distinct studies.
+- How much do the design principles add, and when do they matter most? [Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles](../claims/multimedia-design-principles-improve-learning-overall.md) [~M]: 2 distinct studies.
+- Should words sit next to, and arrive with, the picture they describe? [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+S]: 5 distinct studies.
+- Should the words be spoken or printed? [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [~S]: 7 distinct studies.
+- Does presenting the same words twice (spoken and written) hurt or help, and for whom? [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [~S]: 7 distinct studies.
+- Should interesting but unneeded material be cut? [Coherence Principle Irrelevant Material Hurts Learning](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S]: 10 distinct studies.
+- Should continuous presentations be segmented, and does learner control of pace help? [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](../claims/segmenting-effect-retention-transfer-meta-analysis.md) [+M]: 4 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

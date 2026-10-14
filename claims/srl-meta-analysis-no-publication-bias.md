@@ -41,8 +41,9 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — possibly the same claim (merge candidate)

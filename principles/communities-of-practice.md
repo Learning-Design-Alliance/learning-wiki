@@ -18,7 +18,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (15 for, 3 mixed, 1 against) · 21 studies (5 review, 4 causal, 3 quant-synthesis, 3 qualitative, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 2 of 21 report an effect size · 16 claims rest on one study
+> **Evidence** · 27 claims (19 for, 7 mixed, 1 against) · 27 studies (6 causal, 6 qualitative, 5 review, 3 quant-synthesis, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 2 of 27 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -37,6 +37,23 @@ The page's earlier guidance, kept as a concrete default a designer can act on an
 5. **Ask for reasoning, not only resources.** Prompt members to articulate and compare how they solved a problem, and to apply, test and revise ideas in their own practice. Untested here; from the earlier page.
 6. **Make non-central participation legitimate.** Decide in advance what a valued contribution from someone who stays peripheral looks like, so the community does not read every member who does not move to the centre as failing. Argued, not tested (see the limiting claim below).
 7. **Observe the outcome you intended, and the ones you did not.** Record changes in practice and understanding against the community's stated aim, since the two often diverge.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **who the members are and what practice they share**, **how long the community will run and how often it meets**, and **whether the outcome sought is changed practice, members' knowledge, or their students' achievement**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Members are mathematics or science teachers and the aim is changed teaching | Meet regularly over a term or more around students' work and thinking; record changes in practice as descriptions, since the reviews report them without comparison groups | [STEM PLC participation shifts instruction toward student reasoning](../claims/stem-plc-instructional-practice-shifts.md) [+W]; [PLC participation changed teachers' norms, understanding and practice](../claims/plc-participation-changes-teacher-norms-understanding-practice.md) [+W] |
+| The aim is a rise in students' test scores | Expect small or no measured effects within two years, possibly only in mathematics or for lower-attaining students; plan to measure students, not only teachers | [PLC at Work: +0.08 in mathematics](../claims/plc-at-work-significant-math-effect.md) [~W]; [vPLC with ASSISTments: no significant overall effect](../claims/vplc-assistments-no-significant-overall-effect.md) [~W] |
+| The group has no designated leader | Appoint a teacher leader to plan sessions, keep the focus and deepen discussion | [PLCs with a teacher leader were more productive](../claims/teacher-leader-more-productive-plc.md) [+W] |
+| The group is new and the brief wants members to critique each other's practice | Set and state trust norms first (criticism is of practices, not people), then introduce critique | [Trust norms are prerequisites for critical inquiry](../claims/plc-norms-three-categories-trust-prerequisite.md) [+W] |
+| Members disagree about practice | Keep the disagreement on the agenda and ask each side for its reasons rather than adjourning to avoid conflict | [Disagreements within a PLC can catalyse learning](../claims/plc-disagreements-catalyze-learning.md) [+W] |
+| The community meets only once or for a few weeks | Do not expect the norms the reviews describe; use a fixed protocol for the sessions and treat outcomes as provisional | [Productive norms develop over time](../claims/plc-norms-three-categories-trust-prerequisite.md) [~W] |
+| The community is online or members are dispersed | Plan the interaction deliberately: scheduled synchronous sessions with open discussion, and tasks that require contribution | [Online communities must be designed and scaffolded](../claims/online-communities-must-be-designed-and-scaffolded.md) [+W]; [Fortnightly web conferences supported community formation](../claims/web-conferences-support-online-community.md) [+W] |
+| A small rural school, with too few teachers for same-subject groups | Check bandwidth before planning cross-school online groups, and pair teachers with same-subject colleagues elsewhere where cross-subject groups leave them isolated | [Small rural staffs forced cross-subject PLCs](../claims/small-rural-staffs-cross-subject-plcs-isolation.md) [~W]; [Distance and bandwidth derailed cross-school PLC plans](../claims/rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) [~W] |
+| The community has a stated object (a curriculum, a routine) | Observe what members actually change, including unintended outcomes, rather than assuming it matches the object | [PLC outcomes often do not match the stated object](../claims/plc-object-outcome-mismatch.md) [~W] |
+| Learners, such as language learners, may stay at the edge of the community | Decide in advance what a valued peripheral contribution looks like, so non-central members are not read as failing | [Nonparticipation can invalidate learner identities](../claims/cop-nonparticipation-invalidates-learner-identities.md) [-W] |
 
 ## Observation, state and explanation
 
@@ -64,6 +81,16 @@ No claim in the wiki tests this relationship as stated: none compares learners w
 - [Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities](../claims/cop-nonparticipation-invalidates-learner-identities.md) [-W]: a theoretical critique (`argument`, `theoretical · r2`, `q1`) of the model as applied in second-language acquisition, arguing that its newcomer/oldtimer binary limits the identities available, and that learners who may not, cannot or choose not to move toward the centre are negatively interpreted. No data. It bears on how a designer reads non-central participation, not on whether communities produce learning.
 
 Taken together: the wiki's evidence describes what members of established communities report changing, that productive norms take time and rest on trust, and that outcomes often differ from aims; it does not predict an effect size, a horizon at which change appears, or that a community outperforms other professional learning. How far each may be carried: the three review claims are mathematics teachers in professional learning communities, so they transport to other teacher communities more readily than to students or to online networks; the laboratory case is one physics course; the survey is one honours community's perceptions. None is evidence about online communities of practice in particular, which the page's key source (a systematic review of adult learning in online communities of practice) concerns but which no claim page yet records.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/communities.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does taking part in a professional learning community change teachers' knowledge and practice? [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](../claims/plc-participation-changes-teacher-norms-understanding-practice.md) [+M]: 7 distinct studies.
+- Does teachers' community participation reach their students' achievement? [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](../claims/stem-plc-math-student-learning-existence-proof.md) [+M]: 4 distinct studies.
+- What conditions make a community productive: norms, trust, leadership, active participation? [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](../claims/plc-norms-three-categories-trust-prerequisite.md) [~M]: 6 distinct studies.
+- What goes wrong: outcomes that differ from aims, excluded members, and communities that cannot form? [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](../claims/plc-object-outcome-mismatch.md) [~M]: 5 distinct studies.
+- In an online community of inquiry, which presences go with learners' regulation and learning? [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](../claims/social-presence-strongest-metacognition-association-cbi.md) [~M]: 4 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

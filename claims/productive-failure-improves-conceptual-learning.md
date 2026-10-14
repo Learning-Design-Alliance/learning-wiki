@@ -62,6 +62,19 @@ Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5
 
 Two randomized controlled studies compared teaching a new math concept first with having students solve problems first, even if they failed, and then teaching it. Both orders produced high procedural knowledge. The problem-solving-first students showed significantly greater conceptual understanding and transfer to novel problems. In the second study, students who studied their peers' failed attempts before instruction beat the instruction-first group, but not the students who had solved the problems themselves. How many solutions students generated predicted their learning outcomes. Only the abstract was read, so this entry gives no effect sizes or sample sizes.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Teach the method first, or let learners attempt problems before instruction?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 theoretical, 1 quant-synthesis, 1 causal), `q2`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Sinha & Kapur 2021](https://doi.org/10.3102/00346543211019105) | q4 · quant-synthesis · r? | i1 · small effect, g=0.36 | this claim |
+| [Kapur 2014](https://doi.org/10.1111/cogs.12107) | q3 · causal · r? | i? | this claim |
+| [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | [Solving novel problems before instruction improves conceptual understanding and transfer b](problem-solving-before-instruction-boosts-conceptual-transfer.md) (supports); [Guidance during initial problem solving does not translate into better learning from subse](initial-guidance-does-not-improve-learning-from-instruction.md) (supports) |
+| Mario Brcic 2026 | q2 · theoretical · r2 | i1 | [Productive failure, problem-solving before instruction, shows a measured benefit of about ](productive-failure-problem-solving-before-instruction-effect.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Productive failure is typically implemented as an [invention](../elements/invention.md) or problem-solving phase followed by consolidation instruction. The proposed mechanisms are that early exploration activates prior knowledge and reveals gaps, that learners notice deep features of the problem when comparing their own (often flawed) solutions to canonical ones, and that the contrast between their attempts and the expert solution prepares them to encode the canonical method — consistent with [activation](activation-improves-learning.md) and [cognitive disequilibrium](cognitive-disequilibrium-motivates-conceptual-change.md) accounts of conceptual change. The exploration phase also imposes high demands during generation, which is tolerable only because the consolidation phase — not the exploration — carries the instructional load, in line with [cognitive load theory](../theories/cognitive-load-theory.md).

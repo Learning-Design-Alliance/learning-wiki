@@ -83,6 +83,10 @@ Two further open questions for the evidence base: (1) durability — most rubric
 
 ## Related Claims
 
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
+
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — rubrics are a core tool for making assessment formative
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — rubrics are one way of making task structure and expectations explicit
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related: a criteria checklist for evaluating web sources; it does not compare checklists with rubrics <!-- deprecated (2026-10-05, misapplied): a boundary case: simple checklists do not deliver the same benefit as designed rubrics -->

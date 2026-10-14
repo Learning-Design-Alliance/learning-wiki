@@ -22,11 +22,30 @@ sources:
 # Peer Discussion
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 15 studies (6 quant-synthesis, 4 causal, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 15 report an effect size · 2 claims rest on one study
+> **Evidence** · 18 claims (7 for, 11 mixed) · 29 studies (8 causal, 8 quant-synthesis, 8 review, 3 associational, 2 theoretical), `q2`–`q4` · 8 of 29 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
 When a learner has committed an individual answer to a conceptual question (`concept` or `principle` knowledge) and then discusses the reasoning behind the answers with peers, a later independent answer to a **new, isomorphic question** may improve, not only the revote on the question discussed. The evidence linked here comes from postsecondary `classroom` settings and an `immediate` within-class horizon. The relationship is conditional on a question that actually divides the group, discussion that exchanges reasoning rather than answers, group dynamics that let the reasoning be heard, and, in the one comparison recorded, instructor explanation following the discussion. It does not say that talk in general deepens understanding, and it does not forecast delayed retention or far transfer. The [Peer Instruction pattern](../patterns/peer-instruction.md) specifies a reusable question → individual vote → peer discussion → revote → explanation policy; its response-dependent branches remain proposals.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **does the question have one defensible answer or several**, **will an instructor explanation follow the discussion**, and **what individual outcome will show learning, and when**.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| A conceptual question with one defensible answer, in a postsecondary class | Collect an individual answer first, then discussion of reasoning, a revote, and an individual answer to a new isomorphic question | [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M] |
+| The class mixes weak and strong performers | Follow the discussion with instructor explanation rather than choosing one; in the recorded comparison the combination helped weak, medium and strong performers more than either alone | [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M] |
+| The exam includes application or analysis items | Pose higher-order questions for discussion, not only recall; in one course they also raised scores on recall-level exam items | [Higher-order clicker questions improve lower-order exam performance](../claims/hocs-clickers-improve-locs-exam-performance.md) [+M] |
+| Learners' ratings will be used to choose question types | Do not choose by ratings; students rated recall and higher-order questions equally helpful although exam results differed | [Students perceive both levels as equally helpful](../claims/students-perceive-clicker-levels-equally-helpful.md) [~W] |
+| The lowest-performing students, or students who miss class, need support | Add a short take-home written explanation of the discussed question; in one course in-class participation showed no benefit for the lowest quartile, while explanation quality predicted exam success in every quartile | [Clicker participation does not help the lowest quartile](../claims/any-clicker-pattern-beats-absence-except-lowest-quartile.md) [~W]; [Homework explanation quality predicts exam performance](../claims/homework-explanation-quality-predicts-exam-performance.md) [+W] |
+| Most of the class switches to the right answer on the revote | Do not count the switch as learning; check with a new question answered alone, since only students correct on both votes did better on related exam items | [Correct-correct pattern predicts higher exam performance](../claims/correct-correct-clicker-pattern-higher-exam-performance.md) [~W] |
+| Groups are likely to be led by one confident member | Give roles or a turn rule so every member states a reason and responds to the others; who controls the talk matters more than how much there is | [Poor group leadership undermined discussion](../claims/cooperative-conceptual-change-chemistry-misconceptions.md) [~W]; [Interactive engagement requires constructive turn taking](../claims/interactive-requires-constructive-turn-taking.md) [~W] |
+| The aim is comprehension of a text, in a school classroom | Use a structured discussion approach with modelled discourse moves; more student talk on its own did not produce comprehension gains | [Some discussion approaches improve comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [~M] |
+| The question is built to provoke disagreement | Make sure the disagreement is resolved afterwards; staged contradictions raised learning only for learners who reported being confused | [Conflict-based instruction improves conceptual learning, with limits](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [~M] |
+| Discussion will run over many weeks as group work that counts for grades | Base any group reward on each member's individual learning | [Group rewards with individual accountability](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [~M]; [Collaborative learning improves outcomes](../claims/collaborative-learning-improves-outcomes.md) [+M] |
+| Many learners rarely speak or need time to formulate an answer | Protect a silent pause, or a written answer, before anyone speaks | [Longer wait time goes with higher-level responses](../claims/increasing-wait-time-improves-response-quality.md) [+W] |
+| The objective is information transmission rather than revising a misconception | Explain directly; reserve discussion for questions where reasoning differs | [Discussion promotes more active thinking; lecture is no worse for information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [~W] |
 
 ## Observation, state and explanation
 
@@ -51,6 +70,18 @@ These rows are proposals, untested with learners. A single discriminating probe 
 - [Quizzing without discussion](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+W]: a review chapter reports clicker and paper quizzes improving classroom exams in middle school and college. This is a rival account of the individual-vote step: some of what is attributed to discussion may come from answering at all. Second-hand, not yet checked against its sources.
 
 Keep assignment, learner population, question type, instructor follow-up, outcome instrument and horizon attached when transporting these results. A normalized gain and a d are not interchangeable, and a nonsignificant difference between two conditions does not establish that they are equivalent.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/peer-discussion.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does discussing a committed answer with peers improve a later individual answer on a new question? [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]: 4 distinct studies.
+- How much comes from answering the question at all, before any discussion? [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+M]: 2 distinct studies.
+- Which questions to discuss: recall-level or higher-order? [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](../claims/hocs-clickers-improve-locs-exam-performance.md) [~M]: 2 distinct studies.
+- What should follow the in-class discussion? [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](../claims/homework-explanation-quality-predicts-exam-performance.md) [~M]: 1 distinct studies.
+- What makes a discussion fail to revise understanding? [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](../claims/cooperative-conceptual-change-chemistry-misconceptions.md) [~M]: 7 distinct studies.
+- Does small-group work beat working alone, and how should groups be set up? [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]: 20 distinct studies.
+- How do learners receive vote-and-discuss routines? [Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material](../claims/clickers-perceived-learning-benefit.md) [~M]: 2 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

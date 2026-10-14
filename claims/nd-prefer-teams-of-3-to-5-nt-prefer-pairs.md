@@ -41,8 +41,9 @@ Survey distributions of comfort ratings by team size show a divergence between g
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - [Neurodivergent computing students feel most comfortable with student-formed teams, then instructor-assigned teams, and lastly randomly-assigned teams](nd-comfort-order-team-formation-collaborative-learning.md) — related
 - [When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations](nd-coping-failure-avoidance-public-presentations.md) — related
 - [50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students](nd-semester-long-team-discomfort.md) — related

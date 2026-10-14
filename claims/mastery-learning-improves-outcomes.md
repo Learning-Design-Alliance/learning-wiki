@@ -44,6 +44,22 @@ This meta-analysis pooled 108 controlled evaluations of mastery learning program
 
 <!-- deprecated (2026-10-13, written from the abstract only; replaced after reading the full text): This meta-analysis pooled 108 controlled evaluations of mastery learning programs at the college, high-school and upper-elementary levels. It reports that mastery programs had positive effects on examination performance, that the effects appear stronger for the weaker students in a class and vary with the mastery procedures used, the studies' designs and course content, that mastery programs have positive effects on attitudes toward course content and instruction but may increase student time on instructional tasks, and that self-paced mastery programs often reduce completion rates in college classes. Only the abstract was available for this entry; the full JSTOR text could not be retrieved (returned a bot-challenge page), so no pooled *d* or confidence interval is asserted here — see Discussion's existing note that a numeric effect size is still needed. -->
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 2 associational, 2 causal), `q2`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i2 · medium effect, mean ES = 0.52 SD (SE 0.033) across 103 studies of examination performance | this claim |
+| Guskey 1985 | q3 · quant-synthesis · r2 | i? | [Group-based mastery learning programs yield positive achievement effects in every included](group-mastery-positive-achievement-all-studies.md) (supports) |
+| Waddington 1995 | q2 · quant-synthesis · r1 | i2 | [Meta-analysis of U.S. elementary mathematics mastery learning studies yields a weighted me](mastery-learning-meta-analysis-d-078.md) (supports) |
+| [Weatherholtz 2024](https://doi.org/10.1007/978-3-031-72315-5_32) | q2 · associational · r2 | i? | [Longitudinal within-student analysis of a mathematics mastery learning platform replicates](mastery-platform-longitudinal-positive-effects.md) (supports) |
+| Bonczar 1983 | q2 · associational · r1 | i? | [Mastery learning sections show higher earned credit rates than comparable non-mastery sect](mastery-learning-higher-earned-credit-rates.md) (supports) |
+| [Pane et al. 2017](https://doi.org/10.7249/rr2042) | q2 · causal · r2 | i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.) | [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) (qualifies) |
+| Person 2016 | q2 · causal · r1 | i? | [Gatekeeper course completion rates were slightly lower for CBE participants than for compa](cbe-gatekeeper-completion-lower-than-comparison.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope and mechanism.** Mastery learning restructures the relationship between time and achievement: instead of fixing instructional time and accepting a distribution of outcomes, it fixes the outcome standard and lets time and support vary. This aligns with [Competency-Based Learning](../patterns/competency-based-learning.md) and [Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md), which operationalize the same principle with technology-mediated pacing and assessment.

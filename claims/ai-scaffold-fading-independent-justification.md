@@ -41,8 +41,9 @@ Interview data on the module progression; teachers described a "live progression
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — the general claim this finding bears on, with the studies behind it
 - [In an AI-guided PD program, rural teachers engaged with mathematical creativity, content knowledge, and PCK as interconnected forms of reasoning rather than isolated domains](ai-guided-pd-integrated-mc-ck-pck-engagement.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — a broader claim this one bears on

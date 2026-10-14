@@ -40,6 +40,18 @@ Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., & Schneider, M. (2022)
 
 A meta-analysis of 8,776 effect sizes examined the relationship between domain-specific prior knowledge (measured at Time 1) and knowledge outcomes measured later, across studies spanning many ages, domains and designs. Two distinct relationships were separated: the stability of individual differences (correlation between pretest and posttest knowledge scores) was high, r+ = .534 — learners who know more at the start tend to know more at the end, supporting the claim that new learning builds on and is strongly predicted by prior knowledge. But the predictive power of prior knowledge for *normalized learning gains* (how much a learner improves, controlling for starting point) was low and centered near zero, r+ = -.059, with a large 95% prediction interval of [-.688, .621] — meaning the direction and size of prior knowledge's effect on gains varies enormously across contexts, sometimes helping and sometimes hurting. The authors argue this variability falsifies both "knowledge is power" and "the effect of prior knowledge is negligible" as general statements, and calls for research on the conditions (moderators) under which prior knowledge helps, hurts, or does nothing — directly supporting this page's Discussion section on expertise reversal, moderators and boundary conditions rather than a single uniform effect.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does knowing more beforehand mean learning more from the instruction?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 associational, 1 quant-synthesis), `q2`–`q4`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Simonsmeier et al. 2022](https://doi.org/10.1080/00461520.2021.1939700) | q4 · quant-synthesis · r3 | i3 · large stability correlation, r=.534; near-zero for normalized gains, r=-.059 | this claim |
+| Ye Mao 2018 | q2 · associational · r1 | i3 | [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) (supports) |
+| [Yusuke Sato 2023](https://doi.org/10.52598/jpll/5/1/4) | q2 · associational · r2 | i? | [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 This claim is one of the most robust premises in educational psychology, but its strength is also its boundary condition: because prior knowledge acts as a filter and scaffold, learners with different starting points respond differently to the same instruction. The same instructional treatment is rarely optimal across the prior-knowledge distribution [~S].

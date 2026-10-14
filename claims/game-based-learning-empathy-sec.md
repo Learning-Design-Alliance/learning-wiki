@@ -41,8 +41,9 @@ The review reports this second-hand from Mukund et al. (2022) within the C2 'Rel
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — the general claim this finding bears on, with the studies behind it
 - [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](mindfulness-positive-school-climate-outcomes.md) — related
 - [Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — related
 - [Some SSWs hold deficit-based racial attitudes, conflating structural constraints with immigrant cultural values and misreading trauma responses](ssws-deficit-racial-attitudes.md) — related

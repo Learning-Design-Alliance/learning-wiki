@@ -41,8 +41,9 @@ In the regression over explicit compliance rates from the 28-student MetaTutor s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [More fixations on the learning content after an add-subgoal prompt are associated with higher learning gains, suggesting complying with that prompt may not be effective](add-subgoal-prompt-compliance-may-not-help-learning.md) — reports the opposite
 - [No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page prompts relates to learning gains](no-learning-effect-for-metacognitive-monitoring-prompts.md) — related
 - [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](review-notes-compliance-predicts-learning-gains.md) — related

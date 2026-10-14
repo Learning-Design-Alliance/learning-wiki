@@ -41,6 +41,7 @@ Sensitivity analyses of the examination-score dataset across four categories of 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](meta-analysis-variation-from-methodological-choices.md) — related

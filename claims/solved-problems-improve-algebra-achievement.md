@@ -60,8 +60,9 @@ Within the same four-study body of evidence for Recommendation 1, one study comp
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Alternative-strategy practices are most effective for improving procedural flexibility, with weaker evidence for conceptual and procedural knowledge](alternative-strategies-most-effective-for-procedural-flexibility.md) — related
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — a broader claim this one bears on
 - [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — a broader claim this one bears on

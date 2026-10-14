@@ -60,8 +60,9 @@ The review reports this null/unfavorable pilot; it also reports that ChatGPT and
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — related
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related

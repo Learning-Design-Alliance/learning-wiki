@@ -41,11 +41,12 @@ The authors' interpretation of cognitive science research as applied in the bump
 
 ## Discussion
 
-
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — a broader claim this one bears on
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related

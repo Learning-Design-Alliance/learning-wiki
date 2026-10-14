@@ -1,0 +1,80 @@
+{
+  "principle": "principles/authentic-audiences-purposes",
+  "note": "Batch g8 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. Most members rest on one study at q1-q2; the only comparisons of audience as such are the two within-subject writing studies on the first hub. Hubs 4 and 5 (peer response; revision and criteria) are conditions the page names, not tests of audience. Review before applying.",
+  "findings": [
+    {
+      "hub": "authentic-audiences-improve-student-work",
+      "question": "Does writing or presenting for a real reader beyond the teacher-as-grader improve the product?",
+      "members": [
+        [
+          "public-capstone-epportfolio-showcase-audience-effect",
+          "+"
+        ],
+        [
+          "community-presentation-created-accountability-pressure",
+          "+"
+        ],
+        [
+          "public-vs-private-reflection-mixed",
+          "~"
+        ],
+        [
+          "personal-connection-to-data-supports-critical-data-literacy-stance-taking",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "skilled-reader-estimate-audience-effect",
+      "question": "What must a learner be able to do to write for a reader, and can the audience's knowledge be used to set the task?",
+      "members": [
+        [
+          "skilled-writers-audience-awareness",
+          "+"
+        ],
+        [
+          "audience-prior-knowledge-determines-information-density",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "project-based-learning-improves-achievement",
+      "question": "Does a real-world purpose (a project, a community need, a live event) improve learning beyond the product?",
+      "members": [
+        [
+          "service-learning-improves-civic-and-personal-outcomes",
+          "+"
+        ],
+        [
+          "spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-feedback-improves-writing",
+      "question": "Does a responding audience of peers improve later drafts?",
+      "members": [
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "process-writing-improves-writing-quality",
+      "question": "Do time for revision and explicit criteria condition the gain?",
+      "members": [
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

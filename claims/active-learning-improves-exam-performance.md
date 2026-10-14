@@ -59,6 +59,20 @@ Theobald, E. J., Hill, M. J., Tran, E., Agrawal, S., Arroyo, E. N., Behling, S.,
 
 A meta-analysis of published and unpublished STEM course comparisons in which the same instructor taught with both traditional lecturing and active learning, looking at students from underrepresented minority and low-income groups against their classmates. On identical or equivalent exams, the gap was −0.62 SD under lecturing and −0.42 SD under active learning, a 33% reduction; gaps in passing rates narrowed by 45% (26 studies, 44,606 students). The results varied widely between studies, and only classes that used high-intensity active learning (a larger share of class time in activities) narrowed the gaps. This qualifies the claim: the benefit on exams is not uniform and depends on how much active learning is actually done.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does replacing part of lecture with active learning raise exam scores and pass rates?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 1 theoretical, 1 associational, 1 causal), `q2`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Freeman et al. 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r2 | i2 · medium effect, 0.47 SD; i2; i? | this claim; [Active learning raises undergraduate STEM examination and concept-inventory performance by](active-learning-raises-stem-exam-performance-047-sd.md) (supports); [Students in traditional lecture STEM courses are 1.5 times more likely to fail than studen](lecturing-increases-stem-failure-rates.md) (supports); [The active-learning advantage is robust to publication bias and to variation in methodolog](active-learning-effect-robust-bias-and-rigor.md) (supports); [Active learning's performance benefits hold across all STEM disciplines](active-learning-benefits-hold-across-stem-disciplines.md) (supports) |
+| [Theobald et al. 2020](https://doi.org/10.1073/pnas.1916903117) | q3 · quant-synthesis · r3 | i1 · small effect, exam gap narrowed by 0.20 SD (−0.62 to −0.42) | this claim |
+| Finkelstein 2026 | q2 · theoretical · r2 | i? | [Actively engaging learning environments show demonstratively higher learning gains than tr](active-engagement-higher-learning-gains-than-lecture.md) (supports) |
+| Julia B. Smith 2001 | q2 · associational · r2 | i? | [Interactive instruction is positively associated with one-year achievement gains in readin](interactive-instruction-positive-achievement-gains-chicago.md) (supports) |
+| [Kestin 2025](https://doi.org/10.1038/s41598-025-97652-6) | q3 · causal · r2 | i? | [Students learn more with a research-based AI tutor than with in-class active learning on i](ai-tutor-beats-active-learning-post-test.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope of the claim.** "Active learning" here refers to instructional designs that engage students in doing things and thinking about what they are doing during class — solving problems, discussing cases, answering questions, working in groups — rather than passively receiving content. The claim concerns exam performance, not attitudes or self-reported engagement, which can diverge from measured learning gains.

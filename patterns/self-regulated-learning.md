@@ -20,7 +20,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (10 for, 11 mixed) · 18 studies (5 quant-synthesis, 4 review, 4 theoretical, 3 causal, 2 associational), `q1`–`q4` · 6 of 18 report an effect size · 17 claims rest on one study
+> **Evidence** · 27 claims (14 for, 13 mixed) · 26 studies (8 causal, 6 quant-synthesis, 5 theoretical, 4 review, 3 associational), `q1`–`q4` · 8 of 26 report an effect size · 20 claims rest on one study
 
 ## Description and scope
 
@@ -63,6 +63,24 @@ A request to "make learners more independent" does not specify these inputs. Ask
 - In the same trial, [training plus a diary](../claims/web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) [~M] raised SRL knowledge, self-reported planning and metacognition, and self-efficacy, but not mathematics scores (checked by the judge: all 2 entries pass, full text); across groups the [overall mathematics score missed significance while a score on self-chosen chapters did not](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~M] (checked by the judge: all 2 entries pass, full text). Choose the outcome instrument before choosing the configuration: a broad test may not register what learners chose to regulate.
 
 Do not rank these configurations by their effect labels: the comparators, learners, outcomes and horizons differ, and the 0.69 and 0.40 figures are not on one outcome.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **the setting** (taught classroom, or `online-self-paced` with no instructor), **the learners' prior knowledge of this content**, and **the outcome and horizon that count**. Each row changes one step of the sequence above.
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| `online-self-paced`, no instructor to model the steps | Deliver step 2 as a short web-based training on the regulation steps, and pair it with a daily diary; do not run the diary alone | [Training plus a diary raised SRL knowledge and self-efficacy](../claims/web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) [~M]; [A diary alone gave no significant gains](../claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) [~M] |
+| A cohort that can work in small groups | Add peer-feedback groups to step 3, where learners comment on each other's plans and diaries | [Peer feedback groups added self-motivation, volition and reflection gains](../claims/peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) [+M] |
+| A computer-based environment that can check what learners do with a prompt | In step 3, prefer prompts that ask for a product (revise your summary, review your notes, set a subgoal) and check the product; prompts that only move learners through pages showed no link to learning | [Review-notes prompt compliance predicts gains](../claims/review-notes-compliance-predicts-learning-gains.md) [+W]; [Four explicit SRL prompts showed no learning effect](../claims/no-learning-effect-for-four-explicit-srl-prompts.md) [~W] |
+| Learners have low prior knowledge of the content | In step 1, run the content probe first; in step 2, model self-assessment on a worked example before asking learners to rate themselves | [Self-assessment accuracy is low without training](../claims/self-assessment-accuracy-is-low-without-training.md) [~M]; [Prior knowledge is needed for accurate self-assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M] |
+| Learners are acquiring a new procedure | In step 1, have learners plan around process goals (the strategy steps), and move to outcome goals once the steps are secure | [Process goals outperform outcome goals for novices](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] |
+| Learners rate their work after rereading or after a fluent explanation | Ask for the self-rating after a retrieval attempt or after scoring an exemplar, not straight after study; fluent presentation raises confidence without raising learning | [Fluent illusions mislead self-assessment](../claims/fluent-illusions-mislead-self-assessment.md) [~M] |
+| The outcome is a broad end-of-course test over a few weeks | In step 5, score the learner's chosen focus areas and the broad test separately, and keep a behaviour trace beside any questionnaire | [Overall mathematics score marginal, focus score significant](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~M] |
+| Learners use a generative AI assistant during the task | Add a step-3 prompt before learners accept AI output (confidence, how would you check it), and feedback on their own AI use | [Reflection reduces acceptance of incorrect AI advice](../claims/reflection-reduces-incorrect-ai-advice-acceptance.md) [+M]; [Metacognitive feedback reduces answer offloading](../claims/metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) [+M] |
+| The AI tool shows its reasoning traces to learners | Do not treat reading the traces as self-evaluation; keep a scored check against which learners compare their own rating | [No trace format supported calibrated self-evaluation](../claims/no-trace-format-supported-calibrated-self-evaluation.md) [~W] |
+| The unit is long and prompts would run throughout | In step 5, remove one prompt type at a time and reobserve; repeated prompts may become routine rather than build a habit | [Repeated reflective prompts may habituate](../claims/reflective-scaffolding-habituation-deskilling.md) [~W]; untested proposal for the order of removal |
+| A single session, not a unit | Keep steps 1 and 3 only (a plan, a prediction, feedback on the gap); skip fading, which needs repeated observation | untested proposal |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

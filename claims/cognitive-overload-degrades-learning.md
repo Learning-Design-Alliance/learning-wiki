@@ -59,6 +59,23 @@ Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. 
 
 The founding cognitive load paper. It argues that conventional problem solving by means–ends analysis takes up a relatively large amount of cognitive processing capacity, leaving that capacity unavailable for schema acquisition, and so it is an ineffective way to learn. A computational model and experimental evidence are offered in support. Only the abstract was read here, so the experiments' samples and effect sizes are not recorded.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does removing avoidable processing from a presentation improve learning?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **8 distinct studies** (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q4`, 4 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Noetel et al. 2022](https://doi.org/10.3102/00346543211052329) | q2 / q3 / q4 · quant-synthesis · r2 | i1 · small-to-moderate average effect, g=0.38 (g=0.70 for complex materials); i1; i2 | this claim; [Multimedia design interventions yield small average improvements in cognitive load managem](design-principles-improve-cognitive-load-management.md) (qualifies) |
+| [Sweller 1988](https://doi.org/10.1207/s15516709cog1202_4) | q3 · causal · r? | i? | this claim |
+| [Rey et al. 2019](https://doi.org/10.1007/s10648-018-9456-4) | q4 · quant-synthesis · r? | i? | [Cognitive Load Management](cognitive-load-management.md) (supports) |
+| [Barbieri et al. 2023](https://doi.org/10.1007/s10648-023-09745-1) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.48 | [Cognitive Load Management](cognitive-load-management.md) (supports) |
+| [Kala 2023](https://doi.org/10.36681/tused.2023.027) | q3 · causal · r1 | i3; i?; i2 | [A CLT-based instructional design yields significantly higher retention and transfer scores](clt-instructional-design-raises-retention-transfer-thermodynamics.md) (supports); [The CLT-based design produced higher effective learning scores at retention and transfer, ](clt-design-effective-learning-retention-transfer.md) (supports); [No significant difference between groups on the thermodynamics achievement post-test or co](no-group-difference-tat-posttest-cls.md) (qualifies) |
+| Rania Abdelghani 2026 | q2 · associational · r2 | i? | [Higher extraneous cognitive load predicted lower post-test scores after controlling for pr](extraneous-load-predicts-lower-post-test.md) (supports) |
+| Miwa et al. 2017 | q2 · causal · r1 | i0 | [Under high extraneous load (hint presentation and L and rL condition), no test-score incre](extraneous-load-eliminates-germane-load-learning-gains.md) (supports) |
+| Guttormsen Schär 2007 | q2 · causal · r1 | i? | [Avoiding double load on the visual channel improves visual knowledge (channel-overload eff](visual-channel-overload-hurts-visual-knowledge.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Working memory can hold and process only a small number of elements at once. When intrinsic element interactivity (complexity of the material), extraneous load (poor presentation, irrelevant material), or both push total demand past that capacity, learners cannot construct or automate schemas, and performance degrades. This is the central prediction of [Cognitive Load Theory](../theories/cognitive-load-theory.md) and the theoretical basis for the related principle that [reducing cognitive load improves learning](cognitive-load-reduction-improves-learning.md).

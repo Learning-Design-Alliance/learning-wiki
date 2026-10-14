@@ -60,8 +60,9 @@ The review reports, citing Lee and Pulido (2017), that vocabulary growth from pa
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](feedback-timing-moderates-pretesting.md) — the general claim this finding bears on, with the studies behind it
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
 - [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) — reports the opposite
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related

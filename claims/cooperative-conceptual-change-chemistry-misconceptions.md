@@ -58,10 +58,29 @@ Reported second-hand: Blosser's bulletin summarizes Basili and Sanford's (1991) 
 
 > "poor group leaders prevented effective discussion by rushing through questions and imposing their views of the purpose of the task"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What makes a discussion fail to revise understanding?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 1 review, 1 causal, 1 theoretical, 1 design), `q2`–`q4`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Blosser 1993 | q2 / q3 · review · r3 | i? | this claim |
+| [Pacaci et al. 2024](https://doi.org/10.1002/tea.21887) | q4 · quant-synthesis · r? | i3 · large effect, g=1.10 (adjusted g=0.93) | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (qualifies) |
+| [Guzzetti et al. 1993](https://doi.org/10.2307/747886) | q3 · quant-synthesis · r? | i? | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (qualifies) |
+| [Lehman et al. 2013](https://doi.org/10.3233/jai-130025) | q3 · causal · r1 | i? | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (qualifies) |
+| [Michelene T. H. Chi & Ruth Wylie 2014](https://doi.org/10.1080/00461520.2014.965823) | q2 · theoretical · r3 | i? | [Interactive engagement requires both partners' utterances to be primarily constructive and](interactive-requires-constructive-turn-taking.md) (qualifies) |
+| [Murphy et al. 2009](https://doi.org/10.1037/a0015576) | q4 · quant-synthesis · r? | i? | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
+| [Murphy et al. 2018](https://doi.org/10.3102/0002831218771303) | q2 · design · r2 | i3 · large effect on basic comprehension, d=1.25; small-to-medium on high-level comprehension, d=0.35 | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
 - [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — related
 - [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related

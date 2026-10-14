@@ -41,8 +41,9 @@ Eye-tracking findings for the central-object scene: five of 12 participants (41.
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Clear Structure Improves Learning](clear-structure-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The change on the object that was both signalled and visually cued was the most detected change (83.33%)](signalled-and-cued-object-change-most-detected.md) — related
 - [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](cueing-outcompetes-signalling-alone-for-attention.md) — related
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related

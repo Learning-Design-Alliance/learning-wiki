@@ -41,6 +41,9 @@ The article cites Kittel's (1957) three-condition experiment on logic problems, 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — the general claim this finding bears on, with the studies behind it
+
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — the general claim this finding bears on, with the studies behind it
 -

@@ -19,11 +19,28 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (9 for, 9 mixed) · 22 studies (9 causal, 6 quant-synthesis, 4 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 22 report an effect size · 12 claims rest on one study
+> **Evidence** · 26 claims (13 for, 13 mixed) · 30 studies (11 quant-synthesis, 9 causal, 5 review, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 30 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
 For a learner whose response shows no working method for a structured target (a procedure, concept or principle with a defined correct performance), explicit explanation and modelling followed by guided practice with checks and feedback is expected to produce better near-term performance on that target than leaving the learner to discover it with little support. The relationship is qualified by four things the evidence names: how much the learner already knows about this task (guidance that helps a `novice` can become redundant for an `advanced` learner), the outcome sought (procedural performance and conceptual understanding or transfer do not behave alike), the learner's age, and the horizon at which the outcome is checked. "Direct" means explicit and guided, not lecture without learner activity. The [Direct Instruction pattern](../patterns/direct-instruction.md) specifies a reusable design policy; its local diagnostic branches remain proposals.
+
+## Fitting the design to a situation
+
+Ask for four facts when the brief omits them: **can the learners begin a representative task before instruction?**, **is the goal a procedure, or understanding and transfer?**, **how old are the learners?**, and **when will the outcome that matters be checked?**
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Learners are new to the target and cannot start a representative item | Explain and model the method, then guide practice with checks and feedback; do not leave them to find the method unaided | [Minimal guidance is less effective for novices](../claims/minimal-guidance-less-effective-for-novices.md) [+S]; [Explicit instruction beats unassisted discovery](../claims/explicit-instruction-beats-unassisted-discovery.md) [+M] |
+| The brief asks for inquiry or discovery learning | Keep it, but guide it: feedback, worked examples, prompts and teacher-led steps inside the inquiry. The evidence favours guided discovery as much as explicit teaching, and favours neither over the other | [Teacher-guided inquiry outperforms student-led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+S]; [Enhanced discovery beats other instruction](../claims/enhanced-discovery-beats-other-instruction.md) [~M] |
+| The goal is conceptual understanding or transfer, and the learners are secondary-school age or older | Consider a short, designed problem attempt before the explanation, then teach the canonical method | [Productive failure improves conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) [~S] |
+| The goal is a procedure, or the learners are in the early primary grades | Teach first; a problem-first phase showed no gain for procedures and reversed for second to fifth graders | [Productive failure improves conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) [+S] |
+| Some learners already succeed unaided and can say why | Shorten or skip the explanation for them and move to varied independent practice; full guidance can become redundant | [Expertise reversal effect](../claims/expertise-reversal-effect.md) [~S]; [Guidance advantage recedes with high prior knowledge](../claims/guidance-advantage-recedes-with-high-prior-knowledge.md) [~M] |
+| Learners are adolescents | Avoid unassisted discovery in particular; adolescents lost most from it in the meta-analysis's age moderator | [Age moderates discovery effects](../claims/age-moderates-discovery-effects.md) [+M] |
+| Learners are adults and the brief values exploration | Guided discovery with feedback is a defensible alternative to explicit teaching; adults gained most from enhanced discovery | [Age moderates discovery effects](../claims/age-moderates-discovery-effects.md) [~M] |
+| The outcome is judged weeks or months after teaching | Add practice and review after the lesson and check at the delay; an end-of-instruction peak can fall back toward the starting level | [Instruction effect peaks then diminishes](../claims/instruction-positive-effect-peaks-then-diminishes.md) [~M]; [Direct instruction's advantages do not persist](../claims/direct-instruction-advantages-vanish-long-term.md) [~M] |
+| The target is second-language grammar | Teach the rule explicitly, then have learners use it in communicative tasks | [Explicit L2 grammar instruction is superior to implicit](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]; [Rules are learned faster when used in communicative tasks](../claims/explicit-rules-learned-faster-in-communicative-tasks.md) [+M] |
+| Class time is mostly lecture | Build learner activity (attempts, checks, discussion) into the explanation; explicit does not mean lecture alone | [Active learning improves exam performance](../claims/active-learning-improves-exam-performance.md) [+M] |
 
 ## Observation, state and explanation
 
@@ -48,6 +65,18 @@ These rows are proposals for local observation, untested with learners. A probe 
 - [Engelmann's Direct Instruction curricula](../claims/direct-instruction-improves-outcomes.md) [+M]: a meta-analysis of 328 studies found positive, significant effects on academic outcomes in reading, mathematics, language and spelling, maintained over time and larger with more exposure. Read from its abstract, not yet checked against its source, with no pooled effect size and no comparator stated. It concerns one family of scripted curricula and does not show that explicit teaching in general beats discovery.
 
 Retain learners, comparator, outcome, horizon and assignment when transporting these results. Syntheses pooled over unlike comparators do not forecast an individual learner's response, and none of these entries tests the full lesson sequence (explain, model, guided practice, checks, independent practice) against the same sequence with one phase removed.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/direct-instruction.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does explaining and modelling a new method beat leaving learners to discover it with little support? [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]: 13 distinct studies.
+- If inquiry or discovery is chosen, how much should the teacher or system guide it? [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+S]: 5 distinct studies.
+- Teach the method first, or let learners attempt problems before instruction? [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]: 4 distinct studies.
+- How long should full explanation and guidance continue as learners gain expertise? [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]: 13 distinct studies.
+- Does the advantage of explicit instruction last beyond the end of instruction? [Direct instruction's advantages do not persist over the longer term](../claims/direct-instruction-advantages-vanish-long-term.md) [~M]: 3 distinct studies.
+- Does adopting a scripted Direct Instruction programme raise achievement in schools, and what does it depend on? [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](../claims/direct-instruction-improves-outcomes.md) [+M]: 5 distinct studies.
+- In second-language teaching, explicit rules and strategies or implicit exposure? [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [~S]: 7 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

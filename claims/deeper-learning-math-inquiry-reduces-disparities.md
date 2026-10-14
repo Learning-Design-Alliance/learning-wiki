@@ -41,6 +41,7 @@ A study cited in the Promoting Understanding, Voice, and Responsibility section.
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [A schoolwide literacy initiative based on deeper learning rapidly and sustainably raised achievement at a large low-income high school](bhs-literacy-initiative-raised-achievement.md) — related

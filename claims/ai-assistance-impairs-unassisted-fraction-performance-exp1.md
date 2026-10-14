@@ -60,8 +60,9 @@ Same RCT; skipping was a deliberate decision not to engage since there was no pe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Experiment 2 replicates the unassisted-performance impairment with a pretest-based exclusion, but the aggregate skip-rate difference does not reach significance](ai-assistance-impairs-performance-replication-exp2.md) — related
 - [AI assistance impairs unassisted performance and persistence in reading comprehension, replicating the fraction-task effects in a second domain](ai-assistance-impairs-reading-comprehension-exp3.md) — a narrower finding that bears on this claim
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related

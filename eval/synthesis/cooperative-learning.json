@@ -1,0 +1,134 @@
+{
+  "principle": "principles/cooperative-learning",
+  "note": "Group g4 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries; review before applying. Kept disjoint from collaborative-learning.json and communities.json: no claim appears in more than one of the three specs. Many members rest on Blosser (1993), a two-page digest reporting other reviews second-hand; the table will collapse them to one study row.",
+  "findings": [
+    {
+      "hub": "cooperative-learning-improves-achievement",
+      "question": "Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?",
+      "members": [
+        [
+          "cooperative-learning-moderate-overall-effect-second-order",
+          "+"
+        ],
+        [
+          "cooperative-learning-achievement-synthesis-slavin",
+          "+"
+        ],
+        [
+          "secondary-cooperative-learning-newmann-thompson",
+          "+"
+        ],
+        [
+          "cooperative-learning-higher-achievement-than-competitive-individualistic",
+          "+"
+        ],
+        [
+          "cooperation-versus-individualistic-effort-outcomes",
+          "+"
+        ],
+        [
+          "lazarowitz-cooperative-biology-achievement",
+          "+"
+        ],
+        [
+          "cooperative-learning-language-class-outcomes",
+          "+"
+        ],
+        [
+          "circ-potentially-positive-comprehension-adolescent-learners",
+          "+"
+        ],
+        [
+          "peer-small-group-outperform-other-methods",
+          "+"
+        ],
+        [
+          "cooperative-learning-science-studies-mixed",
+          "~"
+        ],
+        [
+          "circ-cooperative-component-benefit-unconfirmed",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cooperative-learning-nonsignificant-moderators",
+      "question": "Does the effect differ by setting, outcome or learner?",
+      "members": [
+        [
+          "cooperative-learning-location-moderator",
+          "~"
+        ],
+        [
+          "cooperative-learning-gifted-students",
+          "~"
+        ],
+        [
+          "ccct-improved-cooperativeness-attitudes",
+          "~"
+        ],
+        [
+          "ccct-qualitative-strengths-challenges",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cooperative-learning-group-rewards-and-individual-accountability",
+      "question": "Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?",
+      "members": [
+        [
+          "tbl-survey-above-neutral",
+          "~"
+        ],
+        [
+          "group-membership-alone-does-not-produce-cooperation",
+          "+"
+        ],
+        [
+          "accountability-effects-depend-on-type-context-task",
+          "~"
+        ],
+        [
+          "interdependence-type-no-achievement-effect-asynchronous",
+          "~"
+        ],
+        [
+          "interdependence-type-shifts-interaction-nature",
+          "~"
+        ],
+        [
+          "reward-interdependence-benefit-attitudes",
+          "~"
+        ],
+        [
+          "structured-interdependence-contribution-obligation-attitude",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-tutoring-improves-achievement",
+      "question": "Does structured peer tutoring, a paired form of cooperative work, raise achievement, and does its structure matter?",
+      "members": [
+        [
+          "structured-peer-tutoring-outperforms-unstructured",
+          "+"
+        ],
+        [
+          "peer-tutoring-response-groups-positive-eld-effects",
+          "+"
+        ],
+        [
+          "cross-level-peer-tutoring-null-oral-proficiency",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

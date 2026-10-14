@@ -60,8 +60,9 @@ Ranking results from Challenge 4 on collaboration content. The article reports t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — the general claim this finding bears on, with the studies behind it
 
 - [Both teachers and students preferred collaboration to begin when students signaled readiness rather than giving students full control over timing.](claim-collab-starts-when-students-ready.md) — related
 - [After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.](claim-post-pairing-progress-and-data-informed-pairing.md) — related

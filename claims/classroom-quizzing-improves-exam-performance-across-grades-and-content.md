@@ -96,6 +96,17 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 
 > "Lindsey et al.’s quizzing system enhanced student performance on end-of-semester exam in a middle school foreign language course."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How much comes from answering the question at all, before any discussion?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **2 distinct studies** (1 review, 1 associational), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | this claim |
+| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Any clicker participation outperforms absence on exam questions, but the lowest quartile s](any-clicker-pattern-beats-absence-except-lowest-quartile.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims

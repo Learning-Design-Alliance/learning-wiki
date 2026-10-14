@@ -81,6 +81,22 @@ Fantuzzo, J. W., King, J. A., & Heller, L. R. (1992). Effects of reciprocal peer
 
 Sixty-four 4th and 5th graders at high risk of academic failure were randomly selected from a pool of 80. They were randomly assigned to one of four conditions: structured peer tutoring plus group reward, reward only, structure only, or neither. Students who received both components made the most accurate maths computations. Slavin (1996) describes the reward as depending on the sum of the dyad's daily quiz scores, which makes it a group reward based on individual learning. He reports ES = +1.42 for reward plus structure against control, with reward alone well ahead of structure alone. Those figures come from his secondary account, not from the primary article.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **7 distinct studies** (2 causal, 2 design, 1 review, 1 quant-synthesis, 1 theoretical), `q1`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Slavin 1996](https://doi.org/10.1006/ceps.1996.0004) | q2 · review · r3 | i1 · small effect, median ES=+.32 with group goals and individual accountability vs +.07 without | this claim |
+| [Rohrbeck et al. 2003](https://doi.org/10.1037/0022-0663.95.2.240) | q3 · quant-synthesis · r? | i1 · small effect overall, weighted d=0.33 (95% CI 0.29–0.37) | this claim |
+| [Fantuzzo et al. 1992](https://doi.org/10.1037/0022-0663.84.3.331) | q3 · causal · r? | i? | this claim |
+| Peterson 2015 | q2 · design · r2 | i? | [Students report significantly higher accountability, preference for TBL, satisfaction, and](tbl-survey-above-neutral.md) (qualifies) |
+| You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners 1993 | q1 · design · r1 | i? | [Being placed in a group does not by itself produce cooperation; structure must be present ](group-membership-alone-does-not-produce-cooperation.md) (supports) |
+| Brian P. Gill 2015 | q2 · theoretical · r2 | i? | [Accountability can produce positive or negative effects depending on type, decision contex](accountability-effects-depend-on-type-context-task.md) (qualifies) |
+| Brewer 2003 | q3 · causal · r2 | i? | [Structuring positive interdependence (role, reward, or both) did not affect posttest achie](interdependence-type-no-achievement-effect-asynchronous.md) (qualifies); [Type of interdependence shifts the nature of interactions: no-structure groups show the mo](interdependence-type-shifts-interaction-nature.md) (qualifies); [In one experiment with undergraduate business majors in asynchronous online small groups, ](reward-interdependence-benefit-attitudes.md) (qualifies); [All three structured interdependence conditions produce higher agreement that team members](structured-interdependence-contribution-obligation-attitude.md) (qualifies); [Higher numbers of interactions are associated with higher posttest scores in asynchronous ](interaction-quantity-correlates-posttest-online-groups.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Why the combination matters.** Group rewards alone can motivate helping, but without individual accountability they permit free-riding and diffusion of responsibility — stronger members do the work while weaker members disengage [-M]. Individual accountability alone can fragment a group into parallel individual work, undermining the peer explanation, elaboration, and help-giving that drive [collaborative learning](../patterns/collaborative-learning.md)'s benefits [~M]. The two conditions are complementary: group rewards create an incentive to help teammates, and individual accountability ensures that helping targets each member's learning rather than mere task completion. This pairing is central to Slavin's cooperative learning methods (e.g., Student Teams-Achievement Divisions, Teams-Games-Tournament), in which team scores are computed from individual quiz improvements.

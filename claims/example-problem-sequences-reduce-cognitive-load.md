@@ -85,6 +85,8 @@ This page exists because multiple principle and index pages reference `[Example-
 
 ## Related Claims
 
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
+
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md)
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — a narrower finding that bears on this claim

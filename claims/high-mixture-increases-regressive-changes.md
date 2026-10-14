@@ -60,7 +60,8 @@ Analysis of variance on the ratio of total changes (plus and minus) to total res
 
 ## Discussion
 
-
 ## Related Claims
+
+- [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](one-step-advance-regardless-of-discrepancy-size.md) — the general claim this finding bears on, with the studies behind it
 - [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](external-disequilibrium-shapes-internal-mixture-changes.md) — related
 - [Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement](level-mixture-predicts-modal-level-advance.md) — related

@@ -59,6 +59,23 @@ Wekerle, C., Daumiller, M., Janke, S., Dickhäuser, O., Dresel, M., & Kollar, I.
 
 87 university teachers reported which of the four ICAP-mode learning activities (passive, active, constructive, interactive) their students engaged in during a session, and students in those same sessions rated their perceived learning, situational interest, and joy; the two were linked through multilevel modelling. Only the interactive mode was associated with significantly better perceived learning than the other modes, and only the passive mode was associated with significantly lower joy — the constructive mode was not shown to outperform the active or passive modes on any outcome. The authors conclude that their data support the "end points" of the ICAP continuum (passive lowest, interactive highest) but do not confirm the specific constructive-over-active-over-passive ordering in authentic, technology-enhanced classroom settings, which qualifies the generality of this claim.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (2 associational, 2 quant-synthesis, 1 theoretical, 1 review, 1 design, 1 causal), `q1`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Chi and Wylie 2014](https://doi.org/10.1080/00461520.2014.965823) | q2 / q3 · theoretical · r3 | i? | this claim; [The ICAP hypothesis predicts that learning increases as engagement moves from passive to a](icap-hypothesis-learning-increases-i-cap.md) (supports); [Interactive engagement requires both partners' utterances to be primarily constructive and](interactive-requires-constructive-turn-taking.md) (qualifies) |
+| [Wekerle et al. 2024](https://doi.org/10.1038/s41598-024-66069-y) | q2 · associational · r2 | i? | this claim |
+| A Hingle 2024 | q1 · review · r2 | i? | [The largest learning gain in the ICAP hierarchy occurs when moving from the Active to the ](active-to-constructive-largest-leap.md) (supports) |
+| [Chi 2018](https://doi.org/10.1111/cogs.12626) | q2 · design · r2 | i? | [An ICAP theory article reports, second-hand and without describing the design, a study in ](interactive-beats-constructive-concept-mapping.md) (supports) |
+| [Chi et al. 1989](https://doi.org/10.1207/s15516709cog1302_1) | q2 · associational · r1 | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [Rittle-Johnson 2017](https://doi.org/10.1007/s11858-017-0834-z) | q3 · quant-synthesis · r? | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [Bisra et al. 2018](https://doi.org/10.1007/s10648-018-9434-x) | q4 · quant-synthesis · r? | i2 · medium effect, g=.55 | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [Chi et al. 1994](https://doi.org/10.1207/s15516709cog1803_3) | q2 · causal · r1 | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The core intuition behind this claim is that quality of engagement matters more than quantity of behavioral activity. A learner who is physically active — highlighting, copying, manipulating materials — may still be processing shallowly, while a learner who must generate an explanation, prediction, or self-constructed product is forced to make their understanding explicit and confront gaps in it. Generation imposes self-explanation and inference, which are the mechanisms most plausibly responsible for the constructive advantage.

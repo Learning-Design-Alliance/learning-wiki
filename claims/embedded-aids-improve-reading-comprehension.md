@@ -41,8 +41,9 @@ Quasi-experimental study of science material with approximately 200 tenth grader
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.](embedded-aids-are-acceptable-to-students-and-teachers.md) — related
 - [Using embedded aids required students to take about 7% longer, on average, to complete an assigned chapter, and comprehension scores reflected this additional effort.](embedded-aids-increase-reading-time-modestly.md) — a narrower finding that bears on this claim
 - [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) — related

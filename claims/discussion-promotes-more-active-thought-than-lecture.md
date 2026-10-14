@@ -76,11 +76,28 @@ Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass.
 
 Bligh's widely-cited synthesis organizes findings around four instructional objectives — acquiring information, promoting thought, changing attitudes/beliefs, and teaching behavioral skills — concluding lecture performs adequately only for the first. For promoting thought specifically, Bligh attributes lecture's weakness to the listener's inherently passive role, which leaves little room for the more demanding cognitive work (applying, analyzing, generating) that discussion, problem sets, and questioning practice make possible; for attitude change, group discussion's power partly reflects social conformity effects within the group (Asch, 1951), which a lecture audience, lacking real group interaction, cannot produce; and for behavioral skills, lecture (even with demonstration) provides relevant knowledge but no practice opportunity, so a combination of lecture and practice consistently outperforms lecture alone.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which outcomes move: information recall, concept understanding, general reasoning, or learners' sense of having learned?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (2 review, 1 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Dubin and Taveggia 1968 | q2 · review · r? | i? | this claim |
+| Siegel et al 1963 | q3 · causal · r? | i2 · large, statistically significant difference in active vs. passive thought time between conditions | this claim |
+| Bligh 2000 | q2 · review · r? | i? | this claim |
+| [Freeman S 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r3 | i? | [Active learning gains are larger on concept inventories than on instructor-written course ](active-learning-gains-larger-concept-inventories.md) (qualifies) |
+| Moore 2011 | q2 · associational · r1 | i2 | [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (qualifies) |
+| Favero 2025 | q2 · theoretical · r2 | i? | [Students in active learning environments learned more but felt they learned less, mistakin](active-learning-felt-learning-paradox.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The core interpretive point is that "is lecture effective?" is the wrong question — effectiveness depends entirely on which of the four objectives (information, thought, attitude, skill) is actually being targeted. Lecture remains a reasonable choice when the goal really is information transmission, but a course that also wants students to think critically, shift attitudes, or build practical skill needs methods beyond lecture for those specific goals, since lecture alone has not been shown effective for any of the other three. This directly informs course-design choices among [Active Learning](../principles/active-learning.md), discussion-based methods, and [Traditional Lecture-Based Instruction](../patterns/traditional-lecture-based-instruction.md) — the choice should track the specific objective at hand rather than defaulting to one format for an entire course.
 
 ## Related Claims
+
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — a related, more recent body of evidence on when moving away from pure lecture format matters most
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related

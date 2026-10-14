@@ -40,6 +40,19 @@ Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017)
 
 RAND matched students in NGLC schools implementing PL practices (adaptive software, data-driven grouping, flexible pacing, competency-based progression) to virtual comparison groups built from national norm-referenced test data, and also surveyed teachers/students on the extent to which PL practices were actually delivered. Overall one-year effects were small (+0.09 SD math, statistically significant; +0.07 SD reading, not significant). Effects differed by how much PL was implemented: charter schools, which reported implementing PL practices more fully, showed effects near +0.10 SD in both subjects, while district schools — which implemented PL to a lesser reported extent — showed about half that effect in math and a near-zero effect in reading. Schools with two years of exposure showed larger cumulative gains than schools in their first year, which the authors read as PL systems "requir[ing] some experience before operating at their fullest potential." The report is explicit that the implementation-effect link rests on self-reported survey data, a small district-school subsample (9 of 40 schools), and cannot rule out confounds, so it frames the relationship as suggestive, not confirmed.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What makes an adaptive design fail in practice?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (1 causal, 1 associational, 1 review, 1 design), `q1`–`q2`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Pane et al. 2017](https://doi.org/10.7249/rr2042) | q2 · causal · r2 | i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.) | this claim |
+| Constantakis 2016 | q2 · associational · r1 | i? | [Adult education programs used product-generated learner data minimally, mostly tracking us](adult-ed-minimal-learner-data-use.md) (supports) |
+| Tripathi 2026 | q1 · review · r2 | i? | [RL policies risk three failure modes when reward signals are poorly specified: reward hack](rl-reward-misalignment-failure-modes.md) (supports) |
+| Haley Noh 2026 | q2 · design · r2 | i? | [System constraints have minimal effect on already-efficient task-selection strategies whil](constraints-selectively-affect-inefficient-strategies.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Fidelity as a moderator.** Implementation research consistently distinguishes efficacy (ideal conditions) from effectiveness (typical conditions). Personalized learning programs are especially fidelity-sensitive because they bundle multiple components — adaptive technology, data-driven grouping, learner agency, revised teacher roles — and partial implementation can capture the cost of the program without its benefit. A school that adopts an adaptive platform but retains whole-class pacing, for example, may realize little of the intended differentiation [-M].
@@ -55,6 +68,8 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 <!-- deprecated (2026-10-05, stale: entries had been added): **Open questions.** Because this page currently has no catalogued evidence entries, the specific magnitude of fidelity effects for personalized learning is not yet established in this wiki. -->
 
 ## Related Claims
+
+- [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — the technology-mediated subset of personalization, where dosage and usage patterns are key fidelity variables
 - [Blended learning improves outcomes](blended-learning-improves-outcomes.md) — another multi-component model whose effects hinge on how the blend is actually enacted

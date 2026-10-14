@@ -41,7 +41,8 @@ This is the handbook's preface argument, a conceptual distinction drawn from dic
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
 - [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](adult-literacy-programs-violate-adult-learning-principles.md) — related
 - [Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners](cohort-support-improves-adult-persistence.md) — related

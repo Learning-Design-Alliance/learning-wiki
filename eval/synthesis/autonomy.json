@@ -1,0 +1,98 @@
+{
+  "principle": "principles/autonomy",
+  "note": "Batch g7 (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. Thin topic: most members rest on one study, several are second-hand or design studies of preferences. The learner-control question mixes one educational-technology meta-analysis with a laboratory motor-learning experiment (four claims, one study). Review before applying.",
+  "findings": [
+    {
+      "hub": "autonomy-supports-intrinsic-motivation",
+      "question": "Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?",
+      "members": [
+        [
+          "autonomy-support-versus-controlling-teaching",
+          "+"
+        ],
+        [
+          "interest-autonomy-purpose-boost-motivation",
+          "+"
+        ],
+        [
+          "differentiated-mediation-autonomy-competence",
+          "+"
+        ],
+        [
+          "external-mandate-no-direct-effect-deep-revision",
+          "~"
+        ],
+        [
+          "teacher-support-benefits-conditional-on-autonomy-balance",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "rewards-undermine-intrinsic-motivation",
+      "question": "Do rewards and praise undermine voluntary engagement?",
+      "members": [
+        [
+          "feedback-praise-reduces-learning",
+          "~"
+        ],
+        [
+          "intelligence-praise-versus-effort-praise-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learner-paced-beats-system-paced-complex-material",
+      "question": "Does handing control to learners (pace, feedback, sequence) improve learning, and when?",
+      "members": [
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "~"
+        ],
+        [
+          "forced-pacing-eliminates-aiding-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-retention",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "connectivist-courses-student-agency-problems",
+      "question": "How much choice, for whom: what happens when self-direction is wide open?",
+      "members": [
+        [
+          "claim-shared-control-roles-and-content",
+          "+"
+        ],
+        [
+          "claim-collab-starts-when-students-ready",
+          "+"
+        ],
+        [
+          "choice-autonomy-rarely-tested-in-retention-programs",
+          "~"
+        ],
+        [
+          "autonomy-at-one-level-may-inhibit-another",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

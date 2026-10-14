@@ -60,6 +60,20 @@ Karich, A. C., Burns, M. K., & Maki, K. E. (2014). Updated Meta-Analysis of Lear
 
 This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving students control over their own learning within educational technology generally — including but not limited to pacing. Across 18 studies yielding 29 effects, the overall benefit of learner control was almost zero (g = 0.05) and stayed near zero across most characteristics of control and instructional context, though moderate effects appeared for social-studies/history courses and comprehensive technology programs. This qualifies the wiki claim: outside material specifically screened for high complexity, "letting learners control the experience" does not reliably help, so the claim's benefit should be read as conditional on complexity/element interactivity rather than a general property of learner control.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does handing control to learners (pace, feedback, sequence) improve learning, and when?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (3 causal, 2 quant-synthesis), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Hasler et al. 2007](https://doi.org/10.1002/acp.1345) | q3 · causal · r? | i? | this claim |
+| [Karich et al. 2014](https://doi.org/10.3102/0034654314526064) | q3 · quant-synthesis · r? | i0 · negligible overall effect, g=0.05 | this claim |
+| [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced s](segmenting-effects-confirmed-system-paced.md) (qualifies) |
+| Rouse 1980 | q2 · causal · r1 | i? | [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use ](forced-pacing-eliminates-aiding-transfer.md) (qualifies) |
+| [Carter 2014](https://doi.org/10.3389/fpsyg.2014.01325) | q3 · causal · r1 | i3; i? | [Learners who could decide after a trial whether to receive knowledge of results (Self-Afte](self-controlled-kr-decided-after-trial-improves-motor-retention.md) (qualifies); [Learners who could decide after a trial whether to receive knowledge of results (Self-Afte](self-controlled-kr-decided-after-trial-improves-motor-transfer.md) (qualifies); [Having control over the knowledge-of-results decision only before a motor trial (Self-Befo](self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) (qualifies); [Learners who could decide after a trial whether to receive knowledge of results estimated ](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The claim rests on cognitive load reasoning: complex material imposes high element interactivity, and a system-paced presentation forces learners to process new information before they have consolidated prior segments. Learner pacing — pausing, replaying, or stepping through segments — allows load to be managed segment by segment, consistent with [Cognitive Load Theory](../theories/cognitive-load-theory.md) and [cognitive load management](../principles/cognitive-load-management.md). This connects to the broader claim that [cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md).
@@ -71,6 +85,8 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 **Open questions.** The evidence recorded above supports only the complexity-conditional version: in one experiment learner pacing helped on difficult questions, while a meta-analysis of learner control in general found an effect near zero (g = 0.05). Key moderators to document when evidence is added include learner expertise (potential expertise-reversal dynamics, cf. [expertise reversal effect](../theories/expertise-reversal-effect.md)), material complexity, and whether pacing control is scaffolded (e.g., with prompts to pause and self-explain) or left entirely to the learner. A further open question is whether the advantage holds in classroom settings with time pressure, where system pacing may be unavoidable and learner pacing may trade off against coverage.
 
 ## Related Claims
+
+- [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) — the general claim this finding bears on, with the studies behind it
 
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — the load-reduction mechanism that learner pacing is hypothesized to support
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — segmenting content is the design-side partner to learner pacing control

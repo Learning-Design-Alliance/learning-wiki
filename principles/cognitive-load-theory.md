@@ -23,11 +23,28 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 8 mixed) · 19 studies (11 causal, 3 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 3 of 19 report an effect size · 11 claims rest on one study
+> **Evidence** · 25 claims (11 for, 14 mixed) · 25 studies (13 causal, 6 review, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 5 of 25 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
 For a learner who is a **novice on the particular task** (not in the wider domain) and who meets material **high in element interactivity** (elements that must be processed together), presentations and sequences that remove avoidable processing (integrated rather than split sources, segmented transient media, isolated interacting elements before the whole, full rather than completion examples) are expected to improve immediate performance, near transfer or instructional efficiency, compared with the unreduced version of the same material. The relationship weakens, disappears or may reverse as the learner's **task-specific** expertise grows, and it is expected to matter little for low-element-interactivity material. Which outcome changes (performance, effort, efficiency) and at what horizon (immediate, delayed) differs between the studies below and must be stated for each design. Working-memory overload and schema construction are the explanatory hypotheses of [Cognitive Load Theory](../theories/cognitive-load-theory.md) and the [expertise reversal effect](../theories/expertise-reversal-effect.md); they are not observations. The [4C/ID pattern](../patterns/4cid-four-component-instructional-design.md) is a reusable whole-task policy that applies this relationship; its response-dependent branches remain proposals.
+
+## Fitting the design to a situation
+
+Ask for three facts when the brief omits them: **how much do these learners already know about this particular task?**, **how many elements must they handle together (simple or complex material)?**, and **how is it presented: text and diagrams, narration, video, and who sets the pace?**
+
+| If the brief says… | Then change… | Basis |
+|---|---|---|
+| Text and diagrams refer to each other (labelled figures, worked solutions with a diagram) | Place each label or explanation on or next to the part it describes; present narration at the same time as the animation it explains | [Reducing split attention improves learning](../claims/cognitive-load-reduction-improves-learning.md) [+S]; [Integrating text and diagrams beats separating them](../claims/split-attention-effect-degrades-learning.md) [+M] |
+| The material is complex, with many interacting elements | Apply the load-reducing design principles first here; their effect was largest for complex material | [Reducing extraneous load improved learning, more for complex material](../claims/cognitive-overload-degrades-learning.md) [+M]; [Integration helps more for high element interactivity](../claims/element-interactivity-moderates-contiguity-effect.md) [+M] |
+| The material is simple, or learners control the pace (a website, a document) | Expect a smaller gain from redesign; reported effects were smaller for simple and for learner-paced media | [Design principle effects moderated by pacing and complexity](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M] |
+| Narration plus the same words on screen, alongside pictures or animation | Drop the verbatim on-screen text; with images or animation, adding it gave no benefit | [With images or animation, verbal redundancy does not help](../claims/images-animation-eliminate-redundancy-benefit.md) [~M] |
+| Learners are second-language or less fluent readers, and the material is text without pictures | Keep spoken and written text together (narration with captions); the benefit was larger for these readers | [Spoken–written advantages are larger for L2 and nonfluent readers](../claims/reader-fluency-prior-knowledge-moderate-redundancy.md) [+M] |
+| The instruction is in a language the learners are still learning | Give explanations in the learners' first language or bilingually where possible | [Foreign-language AI explanations impose a double burden](../claims/double-burden-language-of-ai-instruction.md) [~W] |
+| Learners are experienced on this task | Remove explanatory text from diagrams and other guidance that repeats what they know; check with an unsupported task | [Guidance that helps novices can become redundant as expertise grows](../claims/expertise-reversal-effect.md) [~M]; [Split-attention benefit reverses into redundancy for experienced learners](../claims/expertise-reversal-split-attention-redundancy-review.md) [~M] |
+| Learners are novices on a multi-step procedure | Use full worked examples rather than completion problems at first | [Lower-prior-knowledge learners did better with full than completion examples](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [+M] |
+| A complex whole task that novices cannot yet coordinate | Teach the interacting parts separately first, then the whole task | [Isolated parts first helped novices on complex tasks](../claims/part-task-practice-reduces-load-for-novices.md) [+M] |
+| Success will be judged by learners' effort or load ratings | Measure performance and transfer as well; load ratings moved little even where design changes improved learning | [Design interventions yield small improvements in load measures](../claims/design-principles-improve-cognitive-load-management.md) [~M] |
 
 ## Observation, state and explanation
 
@@ -52,6 +69,17 @@ These rows are proposals, untested with learners. The probes can shift confidenc
 - [Lower-prior-knowledge learners did better with full than completion examples](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [~M]: a factorial experiment with college students on simultaneous equations; lower-prior-knowledge learners scored higher after full-worked examples (t(1,26) = 1.98, p = .05), while higher-prior-knowledge learners' advantage for completion examples was not significant (p = .22) and equivalence was not tested. Judge-checked against the full text; immediate posttest, no effect size printed.
 
 Keep learners, task, comparator, outcome and horizon with each result when transporting it. Efficiency, effort and performance are different outcomes; a non-significant difference is not equivalence; and the pooled values do not forecast an individual learner's response or rank these load-reducing techniques against each other.
+
+## The evidence by question
+
+Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/cognitive-load.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
+
+- Does removing avoidable processing from a presentation improve learning? [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [+S]: 8 distinct studies.
+- For which material and pacing does managing load matter most? [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [~M]: 3 distinct studies.
+- Should related text and pictures be integrated rather than separated? [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [~S]: 5 distinct studies.
+- Should the same words be given both spoken and written, or other duplicate material be added? [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [~S]: 7 distinct studies.
+- For whom: does support that helps novices stop helping as task-specific expertise grows? [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]: 13 distinct studies.
+- Should component knowledge come before the whole task? [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [~S]: 3 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
