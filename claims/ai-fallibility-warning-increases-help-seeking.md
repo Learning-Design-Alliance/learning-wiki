@@ -52,3 +52,4 @@ Classroom experiment at a secondary school in Tokyo with 252 seventh-grade stude
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — related
+- [Students receiving personalized problems engaged in less gaming-the-system behavior within the tutoring environment](personalization-reduces-gaming-behavior.md) — related

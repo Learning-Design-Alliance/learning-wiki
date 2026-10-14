@@ -46,3 +46,4 @@ WWC synthesis of two RCTs (46 kindergarteners in Oregon; about 198 students in g
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
 - [First Step to Success shows no discernible effects on reading achievement/literacy](first-step-success-no-reading-effects.md) — related
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
+- [Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk](lpa-four-baseline-risk-classes.md) — related

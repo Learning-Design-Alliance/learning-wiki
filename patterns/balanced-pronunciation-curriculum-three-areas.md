@@ -52,4 +52,4 @@ The article proposes that a pronunciation curriculum balance three areas — sup
 -
 
 ## Key Sources
-- Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html
+- Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html. [doi:10.5070/b5.35963](https://doi.org/10.5070/b5.35963)

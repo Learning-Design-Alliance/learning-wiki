@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":17869,
+"claim":17909,
 "design":719,
 "element":1080,
 "learner-variable":14,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1581,
 "research-method":429,
-"strategy":5597,
+"strategy":5599,
 "theory":1372
 },
 "kinds":[
@@ -18716,6 +18716,15 @@
 "type":"claim"
 },
 {
+"description":"Bullying and peer rejection typically increase as children approach middle school",
+"evidence_strength":"moderate",
+"id":"bullying-rejection-increase-approaching-middle-school",
+"path":"claims/bullying-rejection-increase-approaching-middle-school.md",
+"status":"draft",
+"title":"Bullying and peer rejection typically increase as children approach middle school",
+"type":"claim"
+},
+{
 "description":"Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes",
 "evidence_strength":"weak",
 "id":"bundling-interventions-stronger-effects",
@@ -29276,6 +29285,15 @@
 "type":"claim"
 },
 {
+"description":"Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints",
+"evidence_strength":"moderate",
+"id":"competency-progression-limited-grade-level-emphasis",
+"path":"claims/competency-progression-limited-grade-level-emphasis.md",
+"status":"draft",
+"title":"Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints",
+"type":"claim"
+},
+{
 "description":"An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems",
 "evidence_strength":"weak",
 "id":"competency-workshop-effective-diffusion-strategy",
@@ -32708,6 +32726,15 @@
 "path":"claims/covariate-effects-pretest-attendance-eb-gains.md",
 "status":"draft",
 "title":"Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes",
+"type":"claim"
+},
+{
+"description":"Demographic covariates were significantly associated with latent class membership",
+"evidence_strength":"moderate",
+"id":"covariates-associated-latent-class-membership",
+"path":"claims/covariates-associated-latent-class-membership.md",
+"status":"draft",
+"title":"Demographic covariates were significantly associated with latent class membership",
 "type":"claim"
 },
 {
@@ -87801,6 +87828,15 @@
 "type":"claim"
 },
 {
+"description":"Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk",
+"evidence_strength":"moderate",
+"id":"lpa-four-baseline-risk-classes",
+"path":"claims/lpa-four-baseline-risk-classes.md",
+"status":"draft",
+"title":"Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk",
+"type":"claim"
+},
+{
 "description":"Logistic Regression and linear-kernel SVM achieve the highest accuracy (99%) among five classifiers predicting student withdrawal/cancellation at SISTC",
 "evidence_strength":"moderate",
 "id":"lr-linear-svm-highest-accuracy-dropout-prediction",
@@ -108565,6 +108601,51 @@
 "type":"claim"
 },
 {
+"description":"Personalization improved accuracy on easy knowledge components in Unit 6",
+"evidence_strength":"moderate",
+"id":"personalization-improves-easy-kc-accuracy-algebra-its",
+"path":"claims/personalization-improves-easy-kc-accuracy-algebra-its.md",
+"status":"draft",
+"title":"Personalization improved accuracy on easy knowledge components in Unit 6",
+"type":"claim"
+},
+{
+"description":"Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit",
+"evidence_strength":"moderate",
+"id":"personalization-improves-hard-kc-accuracy-algebra-its",
+"path":"claims/personalization-improves-hard-kc-accuracy-algebra-its.md",
+"status":"draft",
+"title":"Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit",
+"type":"claim"
+},
+{
+"description":"Students receiving personalized problems engaged in less gaming-the-system behavior within the tutoring environment",
+"evidence_strength":"moderate",
+"id":"personalization-reduces-gaming-behavior",
+"path":"claims/personalization-reduces-gaming-behavior.md",
+"status":"draft",
+"title":"Students receiving personalized problems engaged in less gaming-the-system behavior within the tutoring environment",
+"type":"claim"
+},
+{
+"description":"Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal",
+"evidence_strength":"moderate",
+"id":"personalization-reduces-solution-time-efficiency",
+"path":"claims/personalization-reduces-solution-time-efficiency.md",
+"status":"draft",
+"title":"Personalization reduced problem-solving time on hard knowledge components during the intervention and accelerated future learning after removal",
+"type":"claim"
+},
+{
+"description":"Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra",
+"evidence_strength":"moderate",
+"id":"personalization-struggling-students-moderation",
+"path":"claims/personalization-struggling-students-moderation.md",
+"status":"draft",
+"title":"Personalization had a very large positive impact on expression-writing accuracy for students struggling with algebra",
+"type":"claim"
+},
+{
 "description":"Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations",
 "evidence_strength":"weak",
 "id":"personalized-analogies-more-engaging-memorable",
@@ -109660,6 +109741,69 @@
 "path":"claims/pktp-transition-message-unclear-to-participants.md",
 "status":"draft",
 "title":"At the close of the first full year, PKTP's communication about the importance of transition was unclear to many teacher and parent participants",
+"type":"claim"
+},
+{
+"description":"All 32 NGLC schools set aside time for individual one-on-one academic support, most commonly tutoring, advising, and independent work time",
+"evidence_strength":"moderate",
+"id":"pl-all-schools-individual-support-time",
+"path":"claims/pl-all-schools-individual-support-time.md",
+"status":"draft",
+"title":"All 32 NGLC schools set aside time for individual one-on-one academic support, most commonly tutoring, advising, and independent work time",
+"type":"claim"
+},
+{
+"description":"District schools in the aggregate showed near-zero effects, significantly lower than charter schools in the same grades, but the district sample was small",
+"evidence_strength":"weak",
+"id":"pl-district-schools-near-zero-vs-charter",
+"path":"claims/pl-district-schools-near-zero-vs-charter.md",
+"status":"draft",
+"title":"District schools in the aggregate showed near-zero effects, significantly lower than charter schools in the same grades, but the district sample was small",
+"type":"claim"
+},
+{
+"description":"Achievement effects accumulated over a third year in schools implementing personalized learning since 2012 or earlier, though not purely additively",
+"evidence_strength":"moderate",
+"id":"pl-effects-accumulate-third-year",
+"path":"claims/pl-effects-accumulate-third-year.md",
+"status":"draft",
+"title":"Achievement effects accumulated over a third year in schools implementing personalized learning since 2012 or earlier, though not purely additively",
+"type":"claim"
+},
+{
+"description":"Personalized learning effects tended to be larger in elementary grades and were not statistically significant in high school grades",
+"evidence_strength":"moderate",
+"id":"pl-effects-larger-elementary-nonsignificant-high-school",
+"path":"claims/pl-effects-larger-elementary-nonsignificant-high-school.md",
+"status":"draft",
+"title":"Personalized learning effects tended to be larger in elementary grades and were not statistically significant in high school grades",
+"type":"claim"
+},
+{
+"description":"Students with the lowest baseline achievement showed the greatest growth relative to comparison peers, particularly in mathematics",
+"evidence_strength":"moderate",
+"id":"pl-lowest-baseline-students-greatest-growth",
+"path":"claims/pl-lowest-baseline-students-greatest-growth.md",
+"status":"draft",
+"title":"Students with the lowest baseline achievement showed the greatest growth relative to comparison peers, particularly in mathematics",
+"type":"claim"
+},
+{
+"description":"Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing",
+"evidence_strength":"moderate",
+"id":"pl-student-choice-limited-teacher-driven",
+"path":"claims/pl-student-choice-limited-teacher-driven.md",
+"status":"draft",
+"title":"Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing",
+"type":"claim"
+},
+{
+"description":"Students in personalized learning schools made significantly greater mathematics and reading gains over two years than matched comparison students (effect sizes 0.27 mathematics, 0.19 reading)",
+"evidence_strength":"moderate",
+"id":"pl-two-year-gains-math-reading-effect-sizes",
+"path":"claims/pl-two-year-gains-math-reading-effect-sizes.md",
+"status":"draft",
+"title":"Students in personalized learning schools made significantly greater mathematics and reading gains over two years than matched comparison students (effect sizes 0.27 mathematics, 0.19 reading)",
 "type":"claim"
 },
 {
@@ -143844,6 +143988,213 @@
 "type":"claim"
 },
 {
+"description":"The SWPBIS effect on the responding-to-behavioral-violations subscale was significant only when comparing Year 1 and Year 4",
+"evidence_strength":"mixed",
+"id":"swpbis-behavioral-violations-subscale-mixed",
+"path":"claims/swpbis-behavioral-violations-subscale-mixed.md",
+"status":"draft",
+"title":"The SWPBIS effect on the responding-to-behavioral-violations subscale was significant only when comparing Year 1 and Year 4",
+"type":"claim"
+},
+{
+"description":"Effects of SWPBIS on peer rejection are strongest among children first exposed at a younger age",
+"evidence_strength":"moderate",
+"id":"swpbis-earlier-exposure-stronger-rejection-effect",
+"path":"claims/swpbis-earlier-exposure-stronger-rejection-effect.md",
+"status":"draft",
+"title":"Effects of SWPBIS on peer rejection are strongest among children first exposed at a younger age",
+"type":"claim"
+},
+{
+"description":"Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children",
+"evidence_strength":"moderate",
+"id":"swpbis-effects-greatest-at-risk-high-risk-children",
+"path":"claims/swpbis-effects-greatest-at-risk-high-risk-children.md",
+"status":"draft",
+"title":"Children's baseline risk profile moderated the effects of SWPBIS, with the greatest effects among at-risk and high-risk children",
+"type":"claim"
+},
+{
+"description":"SWPBIS schools achieved and maintained high implementation fidelity during the trial",
+"evidence_strength":"moderate",
+"id":"swpbis-high-fidelity-implementation",
+"path":"claims/swpbis-high-fidelity-implementation.md",
+"status":"draft",
+"title":"SWPBIS schools achieved and maintained high implementation fidelity during the trial",
+"type":"claim"
+},
+{
+"description":"SWPBIS improves emotion regulation among elementary school children",
+"evidence_strength":"moderate",
+"id":"swpbis-improves-emotion-regulation",
+"path":"claims/swpbis-improves-emotion-regulation.md",
+"status":"draft",
+"title":"SWPBIS improves emotion regulation among elementary school children",
+"type":"claim"
+},
+{
+"description":"SWPBIS improves prosocial behavior among elementary school children",
+"evidence_strength":"moderate",
+"id":"swpbis-improves-prosocial-behavior",
+"path":"claims/swpbis-improves-prosocial-behavior.md",
+"status":"draft",
+"title":"SWPBIS improves prosocial behavior among elementary school children",
+"type":"claim"
+},
+{
+"description":"SWPBIS main effects on bullying and rejection are robust across sex, special education status, and ethnicity",
+"evidence_strength":"weak",
+"id":"swpbis-main-effects-robust-across-demographics",
+"path":"claims/swpbis-main-effects-robust-across-demographics.md",
+"status":"draft",
+"title":"SWPBIS main effects on bullying and rejection are robust across sex, special education status, and ethnicity",
+"type":"claim"
+},
+{
+"description":"SWPBIS does not significantly reduce out-of-school suspensions in this trial",
+"evidence_strength":"moderate",
+"id":"swpbis-no-effect-suspensions",
+"path":"claims/swpbis-no-effect-suspensions.md",
+"status":"draft",
+"title":"SWPBIS does not significantly reduce out-of-school suspensions in this trial",
+"type":"claim"
+},
+{
+"description":"SWPBIS training showed no significant effect on third- and fifth-grade math and reading achievement gains",
+"evidence_strength":"weak",
+"id":"swpbis-no-significant-achievement-effect",
+"path":"claims/swpbis-no-significant-achievement-effect.md",
+"status":"draft",
+"title":"SWPBIS training showed no significant effect on third- and fifth-grade math and reading achievement gains",
+"type":"claim"
+},
+{
+"description":"The percentage of SWPBIS-school students with an office discipline referral declined significantly over the trial",
+"evidence_strength":"moderate",
+"id":"swpbis-reduced-odr-percentage",
+"path":"claims/swpbis-reduced-odr-percentage.md",
+"status":"draft",
+"title":"The percentage of SWPBIS-school students with an office discipline referral declined significantly over the trial",
+"type":"claim"
+},
+{
+"description":"Suspension rates declined significantly over time in SWPBIS schools but not comparison schools",
+"evidence_strength":"moderate",
+"id":"swpbis-reduced-suspensions-not-comparisons",
+"path":"claims/swpbis-reduced-suspensions-not-comparisons.md",
+"status":"draft",
+"title":"Suspension rates declined significantly over time in SWPBIS schools but not comparison schools",
+"type":"claim"
+},
+{
+"description":"SWPBIS reduces concentration problems among elementary school children",
+"evidence_strength":"moderate",
+"id":"swpbis-reduces-concentration-problems",
+"path":"claims/swpbis-reduces-concentration-problems.md",
+"status":"draft",
+"title":"SWPBIS reduces concentration problems among elementary school children",
+"type":"claim"
+},
+{
+"description":"SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children",
+"evidence_strength":"moderate",
+"id":"swpbis-reduces-counseling-services",
+"path":"claims/swpbis-reduces-counseling-services.md",
+"status":"draft",
+"title":"SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children",
+"type":"claim"
+},
+{
+"description":"SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years",
+"evidence_strength":"moderate",
+"id":"swpbis-reduces-disruptive-behavior",
+"path":"claims/swpbis-reduces-disruptive-behavior.md",
+"status":"draft",
+"title":"SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years",
+"type":"claim"
+},
+{
+"description":"Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously",
+"evidence_strength":"weak",
+"id":"swpbis-reduces-grade-retention-skilled",
+"path":"claims/swpbis-reduces-grade-retention-skilled.md",
+"status":"draft",
+"title":"Socially-emotionally skilled children in SWPBIS schools were less likely to have been held back a grade, with a large effect size the authors interpret cautiously",
+"type":"claim"
+},
+{
+"description":"SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary school",
+"evidence_strength":"moderate",
+"id":"swpbis-reduces-growth-peer-rejection",
+"path":"claims/swpbis-reduces-growth-peer-rejection.md",
+"status":"draft",
+"title":"SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary school",
+"type":"claim"
+},
+{
+"description":"SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school",
+"evidence_strength":"moderate",
+"id":"swpbis-reduces-growth-teacher-reported-bullying",
+"path":"claims/swpbis-reduces-growth-teacher-reported-bullying.md",
+"status":"draft",
+"title":"SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school",
+"type":"claim"
+},
+{
+"description":"SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers",
+"evidence_strength":"moderate",
+"id":"swpbis-reduces-odr-at-risk-high-risk",
+"path":"claims/swpbis-reduces-odr-at-risk-high-risk.md",
+"status":"draft",
+"title":"SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers",
+"type":"claim"
+},
+{
+"description":"SWPBIS reduces the odds of receiving an office discipline referral",
+"evidence_strength":"moderate",
+"id":"swpbis-reduces-office-discipline-referrals",
+"path":"claims/swpbis-reduces-office-discipline-referrals.md",
+"status":"draft",
+"title":"SWPBIS reduces the odds of receiving an office discipline referral",
+"type":"claim"
+},
+{
+"description":"At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools",
+"evidence_strength":"moderate",
+"id":"swpbis-reduces-special-education-referral-at-risk",
+"path":"claims/swpbis-reduces-special-education-referral-at-risk.md",
+"status":"draft",
+"title":"At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools",
+"type":"claim"
+},
+{
+"description":"SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten",
+"evidence_strength":"moderate",
+"id":"swpbis-strongest-kindergarten-exposure",
+"path":"claims/swpbis-strongest-kindergarten-exposure.md",
+"status":"draft",
+"title":"SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten",
+"type":"claim"
+},
+{
+"description":"Schools trained in SWPBIS implement the model with high, sustained fidelity on the School-Wide Evaluation Tool",
+"evidence_strength":"strong",
+"id":"swpbis-training-high-fidelity-set",
+"path":"claims/swpbis-training-high-fidelity-set.md",
+"status":"draft",
+"title":"Schools trained in SWPBIS implement the model with high, sustained fidelity on the School-Wide Evaluation Tool",
+"type":"claim"
+},
+{
+"description":"SWPBIS training significantly improved staff-reported implementation fidelity on all four EBS subscales",
+"evidence_strength":"strong",
+"id":"swpbis-training-improved-ebs-staff-reports",
+"path":"claims/swpbis-training-improved-ebs-staff-reports.md",
+"status":"draft",
+"title":"SWPBIS training significantly improved staff-reported implementation fidelity on all four EBS subscales",
+"type":"claim"
+},
+{
 "description":"After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school",
 "evidence_strength":"weak",
 "id":"swprd-converged-bullying-perceptions",
@@ -147668,6 +148019,15 @@
 "path":"claims/teachers-need-further-tpe-training.md",
 "status":"draft",
 "title":"About 45% of teachers still report needing further TPE-related training despite year-over-year improvement",
+"type":"claim"
+},
+{
+"description":"Teachers had abundant student data but most needed help translating data into instructional steps",
+"evidence_strength":"moderate",
+"id":"teachers-need-help-translating-data-to-instruction",
+"path":"claims/teachers-need-help-translating-data-to-instruction.md",
+"status":"draft",
+"title":"Teachers had abundant student data but most needed help translating data into instructional steps",
 "type":"claim"
 },
 {
@@ -199798,6 +200158,14 @@
 "type":"strategy"
 },
 {
+"description":"The article indicates that sustainability of SWPBIS depends on \\\"strong leadership at the school and district levels, onsite and ongoing coaching to support high quality implementation, evidence that SWPBIS can be impl...",
+"id":"booster-training-and-coaching-sustain-swpbis",
+"path":"strategies/booster-training-and-coaching-sustain-swpbis.md",
+"status":"draft",
+"title":"Sustain whole-school reform through annual booster training and ongoing coaching",
+"type":"strategy"
+},
+{
 "description":"The article proposes an incremental methodology in which a minimal deterministic baseline is deployed in production and its logged questions, annotated post-hoc, become the training and evaluation resources for subseq...",
 "id":"bootstrapping-baseline-annotated-corpus",
 "path":"strategies/bootstrapping-baseline-annotated-corpus.md",
@@ -231160,6 +231528,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends that, given demonstrated variation in SWPBIS responsiveness, \\\"school personnel should screen for and carefully monitor c hildren at risk for nonresponse and target nonresponders for more i ntens...",
+"id":"screen-and-target-swpbis-nonresponders",
+"path":"strategies/screen-and-target-swpbis-nonresponders.md",
+"status":"draft",
+"title":"Screen for and monitor children at risk of nonresponse to universal SWPBIS and target nonresponders for more intensive tiered interventions",
+"type":"strategy"
+},
+{
 "description":"Because fitting the general polytomous testlet model is time-consuming, the report recommends first applying relatively simple methods to detect local dependence and measure the magnitude of the testlet effect.",
 "id":"screen-local-dependence-before-testlet-modeling",
 "path":"strategies/screen-local-dependence-before-testlet-modeling.md",
@@ -254667,6 +255043,7 @@
 "bullock-rct-null-reading-fluency-dibels":"bullock-rct-null-reading-fluency-dibels",
 "bullying-fear-reduction-raises-graduation-rates":"bullying-fear-reduction-raises-graduation-rates",
 "bullying-reduction-effects-larger-for-prior-victimized-students":"bullying-reduction-effects-larger-for-prior-victimized-students",
+"bullying-rejection-increase-approaching-middle-school":"bullying-rejection-increase-approaching-middle-school",
 "bundling-interventions-stronger-effects":"bundling-interventions-stronger-effects",
 "bureaucracy-levels-dilemma-icel-equality-reciprocity":"bureaucracy-levels-dilemma-icel-equality-reciprocity",
 "bus-driver-shortage-severe-or-desperate":"bus-driver-shortage-severe-or-desperate",
@@ -255853,6 +256230,7 @@
 "competency-benefits-depend-on-other-competencies":"competency-benefits-depend-on-other-competencies",
 "competency-focused-internships-improved-experience":"competency-focused-internships-improved-experience",
 "competency-model-as-banking-model":"competency-model-as-banking-model",
+"competency-progression-limited-grade-level-emphasis":"competency-progression-limited-grade-level-emphasis",
 "competency-workshop-effective-diffusion-strategy":"competency-workshop-effective-diffusion-strategy",
 "competing-time-priorities-dominant-barrier-language-curriculum":"competing-time-priorities-dominant-barrier-language-curriculum",
 "competitive-grading-pits-students-against-each-other":"competitive-grading-pits-students-against-each-other",
@@ -256242,6 +256620,7 @@
 "coursework-hours-vary-by-route-and-state":"coursework-hours-vary-by-route-and-state",
 "coursework-while-teaching-lower-math":"coursework-while-teaching-lower-math",
 "covariate-effects-pretest-attendance-eb-gains":"covariate-effects-pretest-attendance-eb-gains",
+"covariates-associated-latent-class-membership":"covariates-associated-latent-class-membership",
 "covid-2020-21-achievement-compared-pre-pandemic":"covid-2020-21-achievement-compared-pre-pandemic",
 "covid-2020-21-average-gains-most-grades":"covid-2020-21-average-gains-most-grades",
 "covid-2020-21-diminished-gains-latter-half-year":"covid-2020-21-diminished-gains-latter-half-year",
@@ -262464,6 +262843,7 @@
 "lowest-income-unmet-need-72-percent-of-income":"lowest-income-unmet-need-72-percent-of-income",
 "lowest-performing-middle-school-readers-falling-further-behind":"lowest-performing-middle-school-readers-falling-further-behind",
 "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools":"lowest-scoring-teachers-overrepresented-in-highest-poverty-schools",
+"lpa-four-baseline-risk-classes":"lpa-four-baseline-risk-classes",
 "lr-linear-svm-highest-accuracy-dropout-prediction":"lr-linear-svm-highest-accuracy-dropout-prediction",
 "lre-curriculum-growth-since-1975":"lre-curriculum-growth-since-1975",
 "lre-interactive-methods-student-interest":"lre-interactive-methods-student-interest",
@@ -264814,6 +265194,11 @@
 "personalism-plus-academic-press-elevates-engagement":"personalism-plus-academic-press-elevates-engagement",
 "personalism-plus-press-toward-academic-work-achievement":"personalism-plus-press-toward-academic-work-achievement",
 "personalism-press-combined-engagement":"personalism-press-combined-engagement",
+"personalization-improves-easy-kc-accuracy-algebra-its":"personalization-improves-easy-kc-accuracy-algebra-its",
+"personalization-improves-hard-kc-accuracy-algebra-its":"personalization-improves-hard-kc-accuracy-algebra-its",
+"personalization-reduces-gaming-behavior":"personalization-reduces-gaming-behavior",
+"personalization-reduces-solution-time-efficiency":"personalization-reduces-solution-time-efficiency",
+"personalization-struggling-students-moderation":"personalization-struggling-students-moderation",
 "personalized-analogies-more-engaging-memorable":"personalized-analogies-more-engaging-memorable",
 "personalized-ap-message-increases-exam-taking-and-passing":"personalized-ap-message-increases-exam-taking-and-passing",
 "personalized-ap-message-increases-participation-49-points":"ability-signal-increases-ap-participation-49-points",
@@ -264939,6 +265324,13 @@
 "pktp-plc-supported-implementation":"pktp-plc-supported-implementation",
 "pktp-practice-implementation-grade-differences":"pktp-practice-implementation-grade-differences",
 "pktp-transition-message-unclear-to-participants":"pktp-transition-message-unclear-to-participants",
+"pl-all-schools-individual-support-time":"pl-all-schools-individual-support-time",
+"pl-district-schools-near-zero-vs-charter":"pl-district-schools-near-zero-vs-charter",
+"pl-effects-accumulate-third-year":"pl-effects-accumulate-third-year",
+"pl-effects-larger-elementary-nonsignificant-high-school":"pl-effects-larger-elementary-nonsignificant-high-school",
+"pl-lowest-baseline-students-greatest-growth":"pl-lowest-baseline-students-greatest-growth",
+"pl-student-choice-limited-teacher-driven":"pl-student-choice-limited-teacher-driven",
+"pl-two-year-gains-math-reading-effect-sizes":"pl-two-year-gains-math-reading-effect-sizes",
 "pl4-el-students-comparable-to-peers":"pl4-el-students-comparable-to-peers",
 "pla-benefits-low-engagement":"pla-benefits-low-engagement",
 "placebo-effect-of-ai-perceived-capabilities":"placebo-effect-of-ai-perceived-capabilities",
@@ -268819,6 +269211,29 @@
 "swell-teacher-self-efficacy-short-term-outcomes":"swell-teacher-self-efficacy-short-term-outcomes",
 "switchable-ai-roles-neutrality-authority-tension":"switchable-ai-roles-neutrality-authority-tension",
 "swot-applied-superficially-episodically-in-schools":"swot-applied-superficially-episodically-in-schools",
+"swpbis-behavioral-violations-subscale-mixed":"swpbis-behavioral-violations-subscale-mixed",
+"swpbis-earlier-exposure-stronger-rejection-effect":"swpbis-earlier-exposure-stronger-rejection-effect",
+"swpbis-effects-greatest-at-risk-high-risk-children":"swpbis-effects-greatest-at-risk-high-risk-children",
+"swpbis-high-fidelity-implementation":"swpbis-high-fidelity-implementation",
+"swpbis-improves-emotion-regulation":"swpbis-improves-emotion-regulation",
+"swpbis-improves-prosocial-behavior":"swpbis-improves-prosocial-behavior",
+"swpbis-main-effects-robust-across-demographics":"swpbis-main-effects-robust-across-demographics",
+"swpbis-no-effect-suspensions":"swpbis-no-effect-suspensions",
+"swpbis-no-significant-achievement-effect":"swpbis-no-significant-achievement-effect",
+"swpbis-reduced-odr-percentage":"swpbis-reduced-odr-percentage",
+"swpbis-reduced-suspensions-not-comparisons":"swpbis-reduced-suspensions-not-comparisons",
+"swpbis-reduces-concentration-problems":"swpbis-reduces-concentration-problems",
+"swpbis-reduces-counseling-services":"swpbis-reduces-counseling-services",
+"swpbis-reduces-disruptive-behavior":"swpbis-reduces-disruptive-behavior",
+"swpbis-reduces-grade-retention-skilled":"swpbis-reduces-grade-retention-skilled",
+"swpbis-reduces-growth-peer-rejection":"swpbis-reduces-growth-peer-rejection",
+"swpbis-reduces-growth-teacher-reported-bullying":"swpbis-reduces-growth-teacher-reported-bullying",
+"swpbis-reduces-odr-at-risk-high-risk":"swpbis-reduces-odr-at-risk-high-risk",
+"swpbis-reduces-office-discipline-referrals":"swpbis-reduces-office-discipline-referrals",
+"swpbis-reduces-special-education-referral-at-risk":"swpbis-reduces-special-education-referral-at-risk",
+"swpbis-strongest-kindergarten-exposure":"swpbis-strongest-kindergarten-exposure",
+"swpbis-training-high-fidelity-set":"swpbis-training-high-fidelity-set",
+"swpbis-training-improved-ebs-staff-reports":"swpbis-training-improved-ebs-staff-reports",
 "swprd-converged-bullying-perceptions":"swprd-converged-bullying-perceptions",
 "sycophancy-limits-genai-pushback":"sycophancy-limits-genai-pushback",
 "sycophancy-via-correct-flip-not-verbal-agreement":"sycophancy-via-correct-flip-not-verbal-agreement",
@@ -269253,6 +269668,7 @@
 "teachers-more-productive-than-nonproductive-adaptations":"teachers-more-productive-than-nonproductive-adaptations",
 "teachers-need-curriculum-specific-professional-development":"teachers-need-curriculum-specific-professional-development",
 "teachers-need-further-tpe-training":"teachers-need-further-tpe-training",
+"teachers-need-help-translating-data-to-instruction":"teachers-need-help-translating-data-to-instruction",
 "teachers-need-multiple-supports-integrate-new-assessments":"teachers-need-multiple-supports-integrate-new-assessments",
 "teachers-need-support-after-weather-disruptions":"teachers-need-support-after-weather-disruptions",
 "teachers-need-tailored-support-time-ecree-integration":"teachers-need-tailored-support-time-ecree-integration",
@@ -275739,6 +276155,7 @@
 "book_talks":"book_talks",
 "bookmatch-scaffolding_independent_book_selection":"bookmatch-scaffolding_independent_book_selection",
 "boolean_operators":"boolean_operators",
+"booster-training-and-coaching-sustain-swpbis":"booster-training-and-coaching-sustain-swpbis",
 "bootstrapping-baseline-annotated-corpus":"bootstrapping-baseline-annotated-corpus",
 "bottom-up-codesign-top-down-sponsorship-genai-embedding":"bottom-up-codesign-top-down-sponsorship-genai-embedding",
 "bottom-up-procurement-planning-strategy":"bottom-up-procurement-planning-strategy",
@@ -279881,6 +280298,7 @@
 "science_through_inquiry":"science_through_inquiry",
 "scmd-research-deep-structure-whole-system":"scmd-research-deep-structure-whole-system",
 "scoe-blended-grant-and-reimbursement-financing":"scoe-blended-grant-and-reimbursement-financing",
+"screen-and-target-swpbis-nonresponders":"screen-and-target-swpbis-nonresponders",
 "screen-local-dependence-before-testlet-modeling":"screen-local-dependence-before-testlet-modeling",
 "screen-materials-for-activating-content":"screen-materials-for-activating-content",
 "screen_readers":"screen_readers",

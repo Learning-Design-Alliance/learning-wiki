@@ -64,3 +64,4 @@ The review's conclusion over the 12 included studies, most of which were randomi
 - [Manualized COMP programs and other classroom management approaches do not differ significantly in effectiveness](comp-no-different-from-other-classroom-management.md) — a narrower finding that bears on this claim
 - [Effect sizes across classroom management studies are homogeneous, with no significant moderator variability](homogeneous-effect-sizes-classroom-management.md) — related
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — a narrower finding that bears on this claim
+- [SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years](swpbis-reduces-disruptive-behavior.md) — related
