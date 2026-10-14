@@ -19,7 +19,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (15 for, 1 mixed, 3 against) · 18 studies (6 causal, 4 theoretical, 3 review, 3 associational, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 18 report an effect size · 17 claims rest on one study
+> **Evidence** · 21 claims (10 for, 9 mixed, 2 against) · 20 studies (6 causal, 4 review, 4 associational, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 20 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 

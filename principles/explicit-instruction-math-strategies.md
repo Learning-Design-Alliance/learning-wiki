@@ -31,7 +31,7 @@ sources:
 # Explicit Instruction: Math Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 13 studies (6 causal, 3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 13 report an effect size · 4 claims rest on one study
+> **Evidence** · 17 claims (13 for, 4 mixed) · 22 studies (11 causal, 5 review, 4 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 22 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 

@@ -22,7 +22,7 @@ sources:
 # Discussing Race
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 14 studies (4 causal, 3 quant-synthesis, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 1 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 15 claims (7 for, 8 mixed) · 24 studies (7 causal, 5 quant-synthesis, 5 qualitative, 3 review, 3 theoretical, 1 associational), `q1`–`q4` · 2 of 24 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 

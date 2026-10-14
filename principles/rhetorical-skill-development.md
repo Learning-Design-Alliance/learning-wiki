@@ -27,7 +27,7 @@ sources:
 # Rhetorical Skill Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (4 for, 3 unmarked) · 11 studies (4 theoretical, 2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 13 claims (9 for, 4 mixed) · 19 studies (6 causal, 5 quant-synthesis, 4 theoretical, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 19 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 

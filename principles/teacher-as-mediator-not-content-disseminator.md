@@ -47,7 +47,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (22 for, 1 mixed, 1 against) · 15 studies (7 theoretical, 5 qualitative, 3 review), `q1`–`q2` · 0 of 15 report an effect size · 24 claims rest on one study
+> **Evidence** · 34 claims (27 for, 6 mixed, 1 against) · 33 studies (9 quant-synthesis, 7 review, 7 theoretical, 6 qualitative, 3 causal, 1 associational), `q1`–`q4` · 4 of 33 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 

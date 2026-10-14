@@ -15,7 +15,7 @@ grain_size: course
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (1 mixed, 4 against) · 7 studies (2 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q3` · 3 of 7 report an effect size · 4 claims rest on one study
+> **Evidence** · 16 claims (1 for, 9 mixed, 6 against) · 16 studies (4 review, 3 causal, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 5 of 16 report an effect size · 14 claims rest on one study
 
 ## Description and scope
 

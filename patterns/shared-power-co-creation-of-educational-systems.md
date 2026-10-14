@@ -22,7 +22,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (8 for, 1 against, 1 unmarked) · 9 studies (7 qualitative, 1 review, 1 design), `q1`–`q2` · 1 of 9 report an effect size · 10 claims rest on one study
+> **Evidence** · 21 claims (12 for, 8 mixed, 1 against) · 17 studies (12 qualitative, 2 design, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 1 of 17 report an effect size · 21 claims rest on one study
 
 ## Description and scope
 

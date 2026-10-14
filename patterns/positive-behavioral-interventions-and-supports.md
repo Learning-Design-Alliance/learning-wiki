@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 8 claims (6 for, 2 against) · 11 studies (5 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 5 claims rest on one study
+> **Evidence** · 24 claims (17 for, 5 mixed, 2 against) · 25 studies (9 causal, 6 quant-synthesis, 5 review, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 7 of 25 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 

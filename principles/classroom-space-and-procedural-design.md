@@ -13,7 +13,7 @@ generated:
 # Classroom Space and Procedural Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies (4 qualitative, 2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 0 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 16 claims (9 for, 7 mixed) · 24 studies (5 causal, 5 review, 5 qualitative, 3 quant-synthesis, 3 associational, 3 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 

@@ -23,7 +23,7 @@ sources:
 # Character Education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies (3 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 22 claims (14 for, 7 mixed, 1 against) · 10 studies (4 theoretical, 3 quant-synthesis, 2 causal, 1 associational), `q1`–`q4` · 3 of 10 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 

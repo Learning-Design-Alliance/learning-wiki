@@ -19,7 +19,7 @@ sources:
 # Disciplinary Literacy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (7 for) · 11 studies (6 causal, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 17 claims (9 for, 8 mixed) · 23 studies (12 causal, 4 theoretical, 3 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 4 of 23 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 

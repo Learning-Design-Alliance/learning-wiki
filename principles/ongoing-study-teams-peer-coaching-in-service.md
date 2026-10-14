@@ -23,7 +23,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (13 for, 3 mixed) · 13 studies (4 associational, 3 qualitative, 2 review, 2 design, 1 causal, 1 quant-synthesis), `q1`–`q2` · 1 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 31 claims (19 for, 12 mixed) · 19 studies (5 review, 5 associational, 3 qualitative, 3 design, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 19 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 

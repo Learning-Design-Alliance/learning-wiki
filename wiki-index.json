@@ -177102,7 +177102,7 @@
 },
 {
 "canonical":true,
-"description":"PBIS is a school-wide framework that teaches and reinforces expected behavior through tiered prevention rather than reactive punishment.",
+"description":"For a whole school, teaching three to five positively stated expectations in every setting, acknowledging them specifically, reviewing disaggregated discipline data monthly and adding daily small-group and then function-based individual support for students who do not respond is expected to reduce referrals and exclusions; one quasi-experimental claim compares PBIS schools with matched schools and found fewer out-of-school suspensions only where all three tiers ran with fidelity, and no claim here tests the universal tier alone against usual practice.",
 "grain_size":"program, school",
 "id":"positive-behavioral-interventions-and-supports",
 "path":"patterns/positive-behavioral-interventions-and-supports.md",
@@ -177236,10 +177236,10 @@
 {
 "aliases":["differentiated-activity-structures-for-inclusive-participation"],
 "canonical":true,
-"description":"The brief characterizes rightful presence by \\\"a fundamental shift in power\\\" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of...",
+"description":"For a group present in an educational decision process but structurally unable to exercise its decisions, giving it a body with written decision standing, meetings redesigned around its language and agenda, facilitation handed over across the cycle and a report-back on every recommendation is expected to sustain its participation and change what is decided where outreach and interpretation alone do not; one before/after case in this wiki tests a version of this, and the rest is participants' accounts.",
 "id":"shared-power-co-creation-of-educational-systems",
 "path":"patterns/shared-power-co-creation-of-educational-systems.md",
-"status":"draft",
+"status":"review",
 "title":"Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices",
 "type":"pattern"
 },
@@ -177340,7 +177340,7 @@
 },
 {
 "canonical":true,
-"description":"Traditional Lecture-Based Instruction is the short-form canonical target for designs centered on lecture, assigned study, and subsequent discussion or assessment.",
+"description":"A lecture-centered course (lecture, assigned study, then discussion or assessment) is expected to serve information objectives about as well as other methods but to underperform discussion and active-learning courses for thought, attitude and skill objectives and on exams and pass rates; claims test lecture only as a comparator, and the segmented sequence here is untested.",
 "grain_size":"course",
 "id":"traditional-lecture-based-instruction",
 "path":"patterns/traditional-lecture-based-instruction.md",
@@ -177641,10 +177641,10 @@
 {
 "aliases":["character-education-promotes-civic-competence","indirect-moral-education-through-school-life"],
 "canonical":true,
-"description":"Character education integrates ethical understanding, emotional/caring responses, and concrete moral action, typically operating schoolwide through democratic practice, relationship-building, and service rather than through rule recitation alone.",
+"description":"For school-age and university learners, making ethical understanding, caring response and moral action part of everyday school life (shared conflict-resolution routines, class meetings, service tied to reflection, moral problems in specific situations across subjects) is expected to change behaviour and civic commitment more than a separate civic or moral course or rule recitation; WWC reviews test three branded programmes against usual practice, finding behaviour effects more often than attitude or achievement effects, but no claim tests the integrated form against a separate course.",
 "id":"character-education",
 "path":"principles/character-education.md",
-"status":"draft",
+"status":"review",
 "title":"Character Education",
 "type":"principle"
 },
@@ -177669,10 +177669,10 @@
 },
 {
 "canonical":true,
-"description":"Preventing management problems before they start depends on how classroom space is arranged, whether procedures (conventional, efficiency-focused) are distinguished from rules (moral, responsibility-focused), how difficulty is sequenced, how much structure is given, and how transitions are handled.",
+"description":"For a group sharing a classroom, a room arranged for visibility with moderate displays, taught procedures kept separate from a few positively stated rules, tasks pitched at moderate difficulty with structure that fades, and prepared transitions are expected to reduce disruption and lost time compared with improvising them; no claim tests these moves directly, and the nearest test is a meta-analysis of universal classroom management programmes against usual practice.",
 "id":"classroom-space-and-procedural-design",
 "path":"principles/classroom-space-and-procedural-design.md",
-"status":"draft",
+"status":"review",
 "title":"Classroom Space and Procedural Design",
 "type":"principle"
 },
@@ -178071,7 +178071,7 @@
 {
 "aliases":["recognize-imagination-in-learning-and-knowing"],
 "canonical":true,
-"description":"Disciplinary literacy teaches learners to read, write, and reason in the ways that are specific to a discipline — how historians source documents, how scientists evaluate evidence, how mathematicians justify claims — rather than applying generic comprehension strategies to all texts.",
+"description":"For adolescents who read adequately in general but meet a discipline's texts as novices, a semester or more of instruction that names, models and has them practise the discipline's own reading and reasoning moves on its own texts is expected to improve comprehension of new texts in that discipline and the practised kind of disciplinary thinking; two studies test this against usual or textbook instruction, none against generic strategy instruction, and the one writing measure showed no gain.",
 "id":"disciplinary-literacy",
 "path":"principles/disciplinary-literacy.md",
 "status":"review",
@@ -178080,7 +178080,7 @@
 },
 {
 "canonical":true,
-"description":"Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable.",
+"description":"For learners studying a topic in which race shapes outcomes or experience, naming race explicitly around a shared text, case or data set, under agreed norms with optional disclosure and a closing debrief, is expected to yield more specific, better-evidenced analysis than neutral treatment or unstructured talk without raising risk for learners in the minority; no claim in the wiki tests this.",
 "id":"discussing-race",
 "path":"principles/discussing-race.md",
 "status":"review",
@@ -178231,10 +178231,10 @@
 {
 "aliases":["implement-research-based-pedagogy-not-untested-theories"],
 "canonical":true,
-"description":"Teaching should be grounded in evidence rather than personal impression or ideology, because personal inquiry is systematically vulnerable to confirmation bias; the scientific method guards against this through systematic empiricism, empirically answerable questions, and public, self-correcting knowledge.",
+"description":"For a teacher, designer or purchaser choosing an approach for other people's learners, writing the belief as a claim some result could refute, seeking a comparison that could have come out otherwise and the case against it, and adopting as a recorded local trial where no comparison exists, is expected to select approaches that do more for learners than choosing by impression, popularity or philosophy; no claim in the wiki tests this for practitioners' own decisions, and one school-reform evaluation tests a school-level version with mixed results.",
 "id":"evidence-based-teaching-and-scientific-reasoning",
 "path":"principles/evidence-based-teaching-and-scientific-reasoning.md",
-"status":"draft",
+"status":"review",
 "title":"Evidence-Based Teaching and Scientific Reasoning",
 "type":"principle"
 },
@@ -178285,7 +178285,7 @@
 },
 {
 "canonical":true,
-"description":"Teaching learners how to effectively search the internet is critical for helping them learn how to find accurate and relevant information and aids in developing information literacy.",
+"description":"For a novice searcher who types whole questions and stops at the first results, explicit modelling of a routine for turning a question into terms, building and revising queries and checking results, practised on real inquiry questions with feedback on the queries, is expected to find more relevant sources with less abandonment than unguided exploration, though no claim in the wiki tests search instruction directly.",
 "id":"explicit-instruction-internet-search",
 "path":"principles/explicit-instruction-internet-search.md",
 "status":"review",
@@ -178295,7 +178295,7 @@
 {
 "aliases":["recommend-polya-style-instruction-for-verbal-problems"],
 "canonical":true,
-"description":"Direct instruction in math strategies may support some adult learners once conceptual understanding is in place.",
+"description":"For a learner who can compute but not yet choose a method for word or non-routine problems, explicitly modelling when and why a strategy fits, comparing methods side by side and guiding justified choice are expected to build flexible, accurate problem solving, though no claim in the wiki tests strategy instruction against its absence.",
 "id":"explicit-instruction-math-strategies",
 "path":"principles/explicit-instruction-math-strategies.md",
 "status":"review",
@@ -179073,10 +179073,10 @@
 {
 "aliases":["literacy-coaches-job-embedded-support"],
 "canonical":true,
-"description":"Drawing on Licklider's 1997 review of adult learning theory, the digest argues that self-directness, including self-learning from experience in natural settings, is an important component of adult learning.",
+"description":"For in-service teachers whose practice does not change after occasional large-group sessions, adding ongoing school-based structures (study teams, peer coaching, a school-based coach) with protected time, an instructional focus and non-evaluative participation is expected to change observed classroom practice more than the sessions alone; no claim in this wiki tests that comparison, and the nearest evidence (a coaching meta-analysis) favours pairing coaching with group training rather than replacing it.",
 "id":"ongoing-study-teams-peer-coaching-in-service",
 "path":"principles/ongoing-study-teams-peer-coaching-in-service.md",
-"status":"draft",
+"status":"review",
 "title":"Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions",
 "type":"principle"
 },
@@ -179184,7 +179184,7 @@
 {
 "aliases":["assess-child-preference-in-aac-decision-making","continuous-pupil-progress-individualized-structure"],
 "canonical":true,
-"description":"Personalization adapts content, pacing, difficulty, or context to individual learners' prior knowledge, needs, or interests rather than delivering a uniform experience to all.",
+"description":"Where learners sharing one goal differ in prior knowledge, interests, access needs or preferred means, tailoring support, pace, problem contexts and means to each learner while the goal and criterion stay common is expected to raise engagement and, where tailoring rests on a diagnosis of responses, aligned achievement, though no claim in the wiki tests personalization as a whole against uniform instruction and tailoring to learning styles is contradicted.",
 "id":"personalization",
 "path":"principles/personalization.md",
 "status":"review",
@@ -179487,7 +179487,7 @@
 {
 "aliases":["teach-rhetorical-choices-not-tools","flexible-congruence-context-appropriateness","style-as-consequential-choice-not-prescription"],
 "canonical":true,
-"description":"Rhetorical skill development is the principle of helping learners craft arguments, communicate persuasively, respond to audiences, and use language strategically for effect.",
+"description":"For a learner who presents ideas the same way to every reader, teaching rhetorical moves as choices made for a stated audience, purpose and situation, with explicit criteria for evidence and for answering the other side, practice across contrasting situations, process goals first and learners saying why a move works, is expected to produce better arguments and better-fitted texts or talk than teaching fixed forms or style rules; no claim here tests that comparison, though argument practice, writing strategy instruction, real audiences and peer feedback are each tested.",
 "id":"rhetorical-skill-development",
 "path":"principles/rhetorical-skill-development.md",
 "status":"review",
@@ -179856,10 +179856,10 @@
 {
 "aliases":["dual-teacher-role-acquisition-and-learning","teacher-as-facilitator-constructivist-classroom","teacher-as-facilitator-for-discovery","writing-teacher-as-facilitator-not-lecturer","teacher-as-designer-guider-consultant","provide-experiences-not-direct-teaching-sla"],
 "canonical":true,
-"description":"Drawing on MLE theory, the article recommends that teachers reconceive their role: the mediator guides rather than dominates the learning process, engaging students in expressing and internalizing their understanding.",
+"description":"For learners working toward understanding they can use, a teacher who states the goal, organizes a task learners act on, questions and helps contingently while they work, and has them explain and transfer what they understood is expected to yield more engagement and usable understanding than presenting the content, provided novices still get explicit guidance; no claim in the wiki tests the teacher's role directly, only neighbouring comparisons (active learning against lecture, teacher-led against student-led inquiry).",
 "id":"teacher-as-mediator-not-content-disseminator",
 "path":"principles/teacher-as-mediator-not-content-disseminator.md",
-"status":"draft",
+"status":"review",
 "title":"Educators should act as mediators and facilitators of learning rather than content disseminators",
 "type":"principle"
 },
@@ -179891,10 +179891,10 @@
 {
 "aliases":["physical-world-augments-simulation-learning","vr-radiation-training-complementary-to-hands-on"],
 "canonical":true,
-"description":"Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology.",
+"description":"When a tool could do part of a task the learner must learn to do unaided, using it so the learner still does that part (attempt first; hints, questions and feedback rather than solutions; simulation or VR beside hands-on practice, not instead of it) is expected to give better performance once the tool is removed than letting it take the part over; single studies of generative AI with adults test this, two randomised studies limit it, and no claim tests complement against replacement for simulation or VR.",
 "id":"technology-augments-not-supplants-processes",
 "path":"principles/technology-augments-not-supplants-processes.md",
-"status":"draft",
+"status":"review",
 "title":"Technology should augment, not supplant, learning processes in student-centered environments",
 "type":"principle"
 },
