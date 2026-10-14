@@ -159,7 +159,10 @@ def merge_sources(kfm: str, ffm: str) -> str:
     return kfm.rstrip("\n") + "\nsources:\n" + "\n".join(new) + ("\n" if kfm.endswith("\n") else "")
 
 
-def merge(kind: str, keep: str, fold: str, apply: bool) -> str:
+DUPLICATE = "a duplicate of this page"
+
+
+def merge(kind: str, keep: str, fold: str, apply: bool, note: str = DUPLICATE) -> str:
     # <fold> may name another kind (`patterns/cognitive-load-theory` folded into a theory):
     # a misfiled page whose right kind already has the page. No alias can cross kinds, so
     # its links are repointed and its slug is not recorded on <keep>.
@@ -179,7 +182,7 @@ def merge(kind: str, keep: str, fold: str, apply: bool) -> str:
     kept = re.sub(r"^\s*---\s*\n", "", fbody).strip()
     kept = kept.replace("<!--", "<!- -").replace("-->", "- ->")
     body = (body.rstrip() + f"\n\n<!-- merged {datetime.date.today().isoformat()} from {fold_kind}/{fold} (\"{fold_title}\"), "
-            f"{'misfiled as a ' + fold_kind[:-1] + ' and' if cross else ''} a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.\n\n{kept}\n-->\n")
+            f"{'misfiled as a ' + fold_kind[:-1] + ' and ' if cross and note == DUPLICATE else ''}{note}: its body as it stood. Its bullets this page lacked were added above.\n\n{kept}\n-->\n")
     fm = merge_sources(kfm, ffm)
     for a in ([] if cross else pid.read_aliases(ffm)):
         fm = pid.add_alias(fm, a)
@@ -235,13 +238,16 @@ def main() -> None:
     ap.add_argument("slugs", nargs="*", help="keep fold [keep fold ...]")
     ap.add_argument("--pairs", type=Path, help="file of keep<TAB>fold lines")
     ap.add_argument("--apply", action="store_true")
+    ap.add_argument("--note", default=DUPLICATE,
+                    help="why <fold> joined <keep>, written into the merged block (default: a duplicate). "
+                         "A thin page folded by upgrade_worklist.py says so.")
     a = ap.parse_args()
     pairs = list(zip(a.slugs[::2], a.slugs[1::2]))
     if a.pairs:
         pairs += [tuple(x.strip() for x in l.split("\t")[:2]) for l in a.pairs.read_text().splitlines()
                   if l.strip() and not l.startswith("#")]
     for keep, fold in pairs:
-        print(merge(a.kind, keep, fold, a.apply))
+        print(merge(a.kind, keep, fold, a.apply, a.note))
     if a.apply and pairs:
         subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "build_indexes.py")], cwd=WIKI_ROOT,
                        capture_output=True)

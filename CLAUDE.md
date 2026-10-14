@@ -236,6 +236,15 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 **Principle and pattern pages** (conditional-model format, `principle-pattern-authoring.md`;
 waves 1–7 in `eval/page-triage/`):
 
+- **Every principle and pattern page is brought up in one loop** (maintainer, 2026-10-14; they are what a
+  course design names). `scripts/upgrade_worklist.py` gives each page its step: **search** (a canonical
+  page on two studies or fewer: unlinked wiki claims via `link_pages.py --pages ... --claims-only --verify`,
+  then `find_page_syntheses.py`, which names published work and keeps only what Crossref confirms, and a
+  batch on its queue), **fold** (still thin after the search: into the parent `choose_fold_parent.py`
+  finds, two models agreeing or a third settling, with `merge_pages.py`; maintainer: placeholders "that
+  haven't really held up to the research"), **convert** (three studies or more: the conditional format
+  below), **fragment** (not canonical: folds into its canonical page) and **reread** (converted, with more
+  than ten unread further-evidence bullets). Do not convert a thin page instead of folding it.
 - Where no claim tests the page's relationship, keep a **labelled default design** with doses
   and a progression across sessions; a rewrite that leaves only caveats loses.
 - `## Fitting the design to a situation` rows: take the brief's own categories, routine and
