@@ -5,6 +5,18 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-14 (evening) — conversion wave 8 and its claim cleanup
+
+- **15 principles and patterns converted** (`eval/page-triage/wave-8.md`), the first wave taken from
+  `upgrade_worklist.py`'s convert step. No claim tests 9 of them as a whole; 6 are partly tested. Pages that had
+  just absorbed folded thin pages turned each folded recommendation into a step or a row.
+- **Brief test:** new pages won 75 of 120 blind pairs (sparse 44–16, complete 31–29). Seven reworked pages won 33
+  of 56 on re-test. New lessons, now general rules on those pages: run the brief's own assessment as given (keep a
+  rubric's tool-use criterion and add an unaided check beside it); fit a short session (one product revised once,
+  minutes that add up); add no test the brief did not ask for; use the learners' observed error as a compared case.
+- **Claim cleanup:** 16 retitles, 15 merges, recodes to the printed statistic, Kosmyna et al. 2025 on six pages.
+- **Next:** wave 9 from `python3 scripts/upgrade_worklist.py --step convert` (60 left), then the 212 fragments.
+
 ## 2026-10-14 (later) — thin principles and patterns: searched, then folded or deleted
 
 The maintainer asked for every principle and pattern page to be brought up, since a course design names them,

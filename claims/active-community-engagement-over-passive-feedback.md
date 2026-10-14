@@ -44,7 +44,7 @@ Qualitative interview study with CAC steering committee members (January–April
 
 ## Related Claims
 - [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related
-- [Resolving a participation double-bind requires redesigning activity structures, not just adding outreach](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — related
+- [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — related
 - [District officials and CBO leaders viewed the WSS Framework development process as a novel, replicable approach to community-engaged policymaking](wss-codesign-seen-novel-replicable-policymaking.md) — related
 - [Cross-sector committee members report that an organizing intermediary's structure made collaboration generative and productive](intermediary-structure-supports-cross-sector-codesign.md) — related
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related

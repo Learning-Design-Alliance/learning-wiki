@@ -35,7 +35,7 @@ sources:
 
 `q2 · i3` · `causal · r1`
 
-Independent samples t-test comparing post-test achievement of the experimental CCCT group (n = 31) and lecture-based control group (n = 36) in a quasi-experimental pre-test/post-test design. The CCCT group "outperformed the control group", p = 0.001, g = 0.839.
+Independent samples t-test comparing post-test achievement of the experimental CCCT group (n = 31) and lecture-based control group (n = 36) in a quasi-experimental pre-test/post-test design. The CCCT group "outperformed the control group", p = 0.001, g = 0.839. The authors call this a moderate effect; it is coded `i3` because this wiki's scale puts d ≥ 0.8 in the large band.
 
 > "the experimental group ( X = 51.45, SD = 6.08) outperformed the control group ( X = 43.89, SD = 10.76). This difference was not only evident in the higher mean scores of the experimental group but was also found to be statistically significant (p = 0.001). Moreover, the analysis indicated a moderate effect size (g = 0.839)"
 

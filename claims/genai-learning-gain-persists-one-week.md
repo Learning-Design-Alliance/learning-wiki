@@ -1,6 +1,6 @@
 ---
 type: claim
-title: A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)
+title: "One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 SD), short of statistical significance (p = 0.068)"
 description: A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)
 id: genai-learning-gain-persists-one-week
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)
+# One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 SD), short of statistical significance (p = 0.068)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4`
+<!-- title before 2026-10-14: A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD) -->
 
 ## Subclaims
 `q4 i?` One week after the learning phase, with all students working without AI, the AI-allowed group still scores 3.9 pp (0.21 SD) higher on the knowledge test, about 54 percent of the Session One effect. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)
@@ -46,8 +47,7 @@ Session Two of the same randomized experiment, approximately one week later (ave
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
 - [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — reports the opposite
-- [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt-access-supported-practice-poorer-unaided-test.md) — related
-- [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — reports the opposite
+- [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays](genai-outcomes-differ-by-use-type.md) — related
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — related

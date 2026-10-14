@@ -54,9 +54,11 @@ Learners who compare two or more cases that differ on key features — side by s
 
 `q3 i?` Seventh-graders who compared alternative algebra solution methods side by side gained more procedural knowledge and flexibility than peers who reflected on the same methods one at a time, but gained no more conceptual knowledge. [→ Rittle-Johnson & Star 2007](#rittle-johnson-star-2007)
 
+<!-- merged duplicate subclaims 2026-10-14: these repeat the first two subclaims above, kept verbatim.
 `q4 i2` Across 57 experiments (336 tests), case-comparison activities produced greater learning than sequential, single-case or nonanalogous case study, traditional instruction and controls (d = .50); benefits were larger when learners were asked to find similarities, when the principle was given after the comparison, for perceptual content, and on immediate tests. [→ Alfieri et al. 2013](#alfieri-et-al-2013)
 
 `q3 i?` Undergraduates who compared two negotiation cases side by side were more than twice as likely to transfer the underlying principle to a new negotiation as those who studied the same two cases separately (48% vs 19%), showing that comparison, not exposure to multiple cases, drives schema abstraction. [→ Gentner et al. 2003](#gentner-et-al-2003)
+-->
 
 ## Evidence
 

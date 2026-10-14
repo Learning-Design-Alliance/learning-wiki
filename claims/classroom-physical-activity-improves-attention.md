@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Classroom Physical Activity Improves Attention
+title: "Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,12 +28,13 @@ sources:
     rigour: 2
 ---
 
-# Classroom Physical Activity Improves Attention
+# Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 review `r2` · `q3` · `i2` medium
+<!-- title before 2026-10-14: Classroom Physical Activity Improves Attention -->
 
-Brief bouts of physical activity integrated into classroom instruction — movement breaks, active lessons, standing or walking tasks — produce short-term improvements in students' [attention](../elements/attention.md) and on-task behavior.
+Brief bouts of physical activity integrated into classroom instruction — movement breaks, active lessons, standing or walking tasks — produce short-term improvements in students' on-task behavior; the reviews below do not show consistent gains on [attention](../elements/attention.md) measured by cognitive tests.
 
 ## Subclaims
 
@@ -69,7 +70,7 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 
 **Classroom integration.** Movement breaks work best as a deliberate part of [clear lesson structure](../principles/clear-structure.md) — a predictable transition between segments — rather than as unstructured downtime. Embedding movement into content itself (active lessons where students move to demonstrate or retrieve material) may combine the attentional reset with [active learning](../principles/active-learning.md) benefits, though the two mechanisms should not be conflated.
 
-**Open questions.** Whether repeated daily activity breaks produce cumulative gains in attention or achievement, and how effects vary by subject area and task type, remain under-studied. This page needs primary evidence entries before its strength rating can be set.
+**Open questions.** Whether repeated daily activity breaks produce cumulative gains in attention or achievement, and how effects vary by subject area and task type, remain under-studied. The two reviews recorded here cover mostly acute effects in primary-school children; neither establishes a gain on attention tests that generalises across doses.
 
 ## Related Claims
 

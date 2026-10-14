@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty
+title: One policy report argues that rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding activities, especially in schools serving learners of color and those experiencing poverty
 description: Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty
 id: pacing-guides-force-teacher-centered-lessons
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty
+# One policy report argues that rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding activities, especially in schools serving learners of color and those experiencing poverty
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+<!-- title before 2026-10-14: Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty -->
 
 ## Subclaims
 `q1 i?` Pacing guides that are too tight and inflexible lead teachers to rely on teacher-centered lessons rather than learner-centered activities that nurture understanding, and teachers of learners of color and those in poverty are more likely to drop cognitively demanding activities. [→ Brizard 2023](#brizard-2023)

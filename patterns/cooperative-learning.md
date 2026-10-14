@@ -25,7 +25,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (12 for, 10 mixed) · 22 studies (12 quant-synthesis, 3 review, 3 design, 2 causal, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 22 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (12 for, 10 mixed) · 23 studies (12 quant-synthesis, 3 review, 3 design, 2 causal, 2 theoretical, 1 associational), `q1`–`q4` · 10 of 23 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 

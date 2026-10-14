@@ -49,7 +49,7 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 | Kuhn 2026 | q2 · theoretical · r3 | i? | this claim |
 | Grace Liu 2026 | q3 · causal · r2 | i2; i1 | [In a randomized experiment on fraction problems, participants who used an AI assistant sol](ai-assistance-impairs-unassisted-fraction-performance-exp1.md) (supports) |
 | Mahbub Ul Alam 2026 | q2 · design · r1 | i? | [High-school students given GPT-4 access solved more problems in the moment but performed w](gpt4-access-worse-after-removal-math.md) (supports) |
-| Marcus Kubsch 2026 | q2 · theoretical · r3 | i? | [Offloading work to AI costs learning: students given answers did well in practice but scor](offloading-to-ai-costs-learning.md) (supports) |
+| Marcus Kubsch 2026 | q2 · theoretical · r3 | i? | [Offloading work to AI costs learning: students given answers did well in practice but scor](gpt4-access-harms-learning-after-withdrawal.md) (supports) |
 | [Chen X 2026](https://doi.org/10.3389/fpsyg.2026.1906199) | q2 · causal · r2 | i? | [Open AI collaboration yielded the highest supported writing quality, while bounded AI supp](genai-supported-performance-independent-divergence.md) (supports) |
 | Steve Woollaston 2026 | q1 · review · r2 | i? | [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to foste](ai-scaffolding-fading-learned-helplessness.md) (supports) |
 | Suhyeon Lee 2026 | q2 · associational · r2 | i? | [LLM scaffolding level varies systematically across student request types and across assign](scaffolding-varies-by-request-and-assignment.md) (qualifies) |

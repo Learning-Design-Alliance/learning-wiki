@@ -17,24 +17,16 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 2
-  - id: lemisko-2004-2
-    resource: "https://www.quasar.ualberta.ca/css"
-    title: "Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css"
-    author: Lemisko, L.S.
-    q: 1
-    i: "?"
-    kind: theoretical
-    rigour: 2
 ---
 
 # Because past events cannot be observed, historians must necessarily use imagination to reconstruct the past, and the resulting picture is legitimate rather than fictional when constrained by evidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Collingwood claims historians must use imagination to reconstruct past events because those events can no longer be observed. [→ Lemisko 2004](#lemisko-2004)
-`q1 i?` The historian's imagined picture differs from a novel's because it must be localized in real space and time and related to evidence from sources. [→ Lemisko 2004 (2)](#lemisko-2004-2)
+`q1 i?` The historian's imagined picture differs from a novel's because it must be localized in real space and time and related to evidence from sources. [→ Lemisko 2004](#lemisko-2004)
 
 ## Evidence
 
@@ -48,15 +40,9 @@ Theoretical argument from Collingwood reported in the paper: past actions really
 
 > "Because we cannot observe human events that have already taken place, he argued that we must imagine them."
 
-### Lemisko 2004 (2)
+<!-- merged duplicate entry 2026-10-14: The paper reports Collingwood's distinction between novelist and historian: both construct coherent narratives imaginatively, but the historian's construction is bound by two constraints the novelist may ignore — real spatio-temporal location and evidential support from sources. Without a demonstrable link to evidence, the picture is assumed to be fantasy.
 
-Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
-
-`q1 · i?` · `theoretical · r2`
-
-The paper reports Collingwood's distinction between novelist and historian: both construct coherent narratives imaginatively, but the historian's construction is bound by two constraints the novelist may ignore — real spatio-temporal location and evidential support from sources. Without a demonstrable link to evidence, the picture is assumed to be fantasy.
-
-> "The historian's picture must be localized in a space and time that has actually existed and it must be related to the evidence which the historian gathers from sources."
+> "The historian's picture must be localized in a space and time that has actually existed and it must be related to the evidence which the historian gathers from sources." -->
 
 ## Discussion
 

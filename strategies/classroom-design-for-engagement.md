@@ -67,7 +67,7 @@ The most commonly inverted finding concerns wall display. Visual stimulation is 
 - Least applicable where learners rotate through many rooms and no single space accumulates enough exposure to matter
 
 ### Target Learning Goals
-- Sustained attention and on-task behaviour during instruction [Classroom Physical Activity Improves Attention](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Sustained attention and on-task behaviour during instruction [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Participation: making it physically easy to speak, be heard, and see the person speaking
 - Belonging and ownership of the learning space, which the symbolic side of design carries
 - Indirectly, achievement in reading, writing, and mathematics, via the naturalness factors [Classroom design affects learning progress.](../claims/classroom-design-affects-learning-progress.md) [+M]

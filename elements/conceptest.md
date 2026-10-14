@@ -13,7 +13,7 @@ generated:
 # ConcepTest
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (4 quant-synthesis, 1 causal, 1 associational), `q3`–`q4` · 3 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 7 studies (4 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 A ConcepTest is a short multiple-choice (or short-answer) question focused on a single concept — typically one where learners hold predictable misconceptions — posed to the whole class. Learners commit to an answer individually (often via clicker or show of hands), discuss with neighbors, revote, and then the instructor resolves the result. Developed by Eric Mazur in Harvard's physics course, it is the question engine of [Peer Instruction](../patterns/peer-instruction.md).

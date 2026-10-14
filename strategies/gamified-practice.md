@@ -12,7 +12,7 @@ generated:
 # Gamified Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies (6 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q4` · 5 of 10 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 11 studies (6 quant-synthesis, 2 causal, 2 theoretical, 1 review), `q1`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Gamified practice embeds game design elements — points, badges, levels, leaderboards, streaks, narrative, or challenge structures — into practice activities that would otherwise be plain drills or exercises. The goal is not to replace practice but to sustain the repeated, effortful engagement that practice requires, while providing rapid feedback and progressively calibrated difficulty.

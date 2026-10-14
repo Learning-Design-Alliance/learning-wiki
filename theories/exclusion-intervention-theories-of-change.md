@@ -15,7 +15,7 @@ sources:
 # Individual- and school-level theories of change for exclusion-reduction interventions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 8 studies (6 quant-synthesis, 2 causal), `q2`–`q4` · 2 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 9 studies (6 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 2 of 9 report an effect size · 6 claims rest on one study
 
 ## Description
 The review organises how exclusion-reduction interventions might work through two levels of change. At the school level, interventions may target the "school climate", "creating a school climate that promotes supportive relationships and encourages positive behaviour". At the individual level, interventions may directly change students' disruptive, violent, or aggressive behaviour or target risk factors such as truancy, for example using anger management or cognitive behavioural therapy techniques. The review notes that primary evaluations rarely report theoretical foundations; the previous review categorised most interventions as based on a cognitive behavioural framework or ecological systems theory.

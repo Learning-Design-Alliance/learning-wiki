@@ -35,10 +35,6 @@ Learners who study worked examples before or interleaved with practice problems 
 `q3 i?` Sequences that begin with a worked example produce higher test performance than problems only for novices; problem–example pairs do not outperform problems only. [→ van Gog et al. 2011](#van-gog-et-al-2011)
 <!-- deprecated (2026-09-30): `q3 i?` Example-based sequences produce better transfer performance than problem-only practice for novices. [→ van Gog et al. 2011](#van-gog-et-al-2011) -->
 
-`q3 i?` Sequences that begin with a worked example (examples only, or example–problem pairs) produce lower invested mental effort than problems only for novices; problem–example pairs do not. [→ van Gog 2011](#van-gog-et-al-2011)
-
-`q3 i?` Sequences that begin with a worked example produce higher test performance than problems only for novices; problem–example pairs do not outperform problems only. [→ van Gog 2011](#van-gog-et-al-2011)
-
 ## Evidence
 
 Primary evidence link: https://doi.org/10.1016/j.cedpsych.2010.10.004
@@ -67,11 +63,13 @@ Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example�
 
 ## Discussion
 
-This page exists because multiple principle and index pages reference `[Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md)`. The fuller treatment of the same claim is in [Example–problem sequences reduce cognitive load and improve learning outcomes](example-problem-sequences-reduce-cognitive-load.md).
+This page combines two earlier pages on the same claim, `worked-examples-example-problem-sequences` and `example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes`, which now resolve to it as aliases.
 
+<!-- merged duplicate 2026-10-14: these two paragraphs repeat the Expertise reversal and Single-study limitation paragraphs below.
 *Merged from “Example–problem sequences reduce cognitive load and improve learning outcomes” (worked-examples-example-problem-sequences):* **Expertise reversal.** The benefit of worked examples diminishes as learner expertise grows. For more advanced learners, example-based sequences can become redundant or counterproductive — see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md). Designers should fade examples and shift toward independent problem-solving as competence develops.
 
 **Single-study limitation.** Both subclaims currently rest on one experiment with 96 analyzed participants in a single domain. Replication in other domains and with larger samples would substantially strengthen confidence.
+-->
 
 *Merged from “Example–problem sequences reduce cognitive load and improve learning outcomes” (example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes):* **Mechanism.** The claim sits within [Cognitive Load Theory](../theories/cognitive-load-theory.md): problem-only practice forces novices to search solution paths, consuming working memory that could otherwise build schemas. Studying worked examples first or interleaved with problems offloads that search, consistent with the broader finding that [cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) and that [chunking reduces working memory load](chunking-reduces-working-memory-load.md).
 

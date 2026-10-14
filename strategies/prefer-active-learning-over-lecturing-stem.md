@@ -17,7 +17,7 @@ sources:
 # Adopt active learning as the default in regular undergraduate STEM classrooms and shift research away from lecturing controls
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (8 for) · 2 studies (2 quant-synthesis), `q4` · 1 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 3 studies (2 quant-synthesis, 1 theoretical), `q2`–`q4` · 2 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 Based on the meta-analytic evidence, the authors recommend abandoning traditional lecturing in favor of active learning in regular STEM classrooms, and they question "the continued use of traditional lecturing as a control in research studies." They propose second-generation research using educational psychology and cognitive science to test which type of active learning best suits particular topics or student populations, and combining in-class innovations with required out-of-class exercises.
@@ -44,7 +44,7 @@ Based on the meta-analytic evidence, the authors recommend abandoning traditiona
 - [Active learning's performance benefits hold across all STEM disciplines](../claims/active-learning-benefits-hold-across-stem-disciplines.md) [+M]
 - [The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies](../claims/active-learning-effect-robust-bias-and-rigor.md) [+M]
 - [Active learning gains are larger on concept inventories than on instructor-written course examinations](../claims/active-learning-gains-larger-concept-inventories.md) [+M]
-- [Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing](../claims/active-learning-raises-stem-exam-performance-047-sd.md) [+M]
+- [Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing](../claims/active-learning-improves-exam-performance.md) [+M]
 - [Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students](../claims/active-learning-strongest-small-classes.md) [+M]
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](../claims/lecturing-increases-stem-failure-rates.md) [+M]
 - [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](../claims/active-learning-narrows-passing-rate-gap-45-percent.md) [+M]

@@ -29,7 +29,7 @@ grain_size: unit, course
 # Experiential Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (8 for, 7 mixed, 3 against) · 36 studies (15 quant-synthesis, 11 causal, 6 review, 2 qualitative, 2 design), `q1`–`q4` · 13 of 36 report an effect size · 8 claims rest on one study
+> **Evidence** · 18 claims (8 for, 7 mixed, 3 against) · 37 studies (15 quant-synthesis, 11 causal, 6 review, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 37 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 

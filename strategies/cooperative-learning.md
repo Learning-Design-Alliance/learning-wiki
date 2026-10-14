@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies (7 quant-synthesis, 3 review, 2 causal, 1 associational), `q2`–`q4` · 7 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 14 studies (7 quant-synthesis, 3 review, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 14 report an effect size
 
 ## Description
 Cooperative learning organizes students into small groups that work toward a shared goal, structured so that success requires every member to contribute. Its defining conditions — positive interdependence (the task cannot be completed alone) and individual accountability (each member's learning is separately assessed) — distinguish it from mere seating arrangements or unstructured group work. Classic implementations such as Johnson & Johnson's cooperative goal structures, Slavin's Student Teams-Achievement Divisions (STAD), and Aronson's Jigsaw classroom operationalize these conditions in different ways.

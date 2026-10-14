@@ -44,5 +44,5 @@ Self-report from coached DLP teachers on improvement in their self-selected clas
 
 ## Related Claims
 - [Teachers who find coaching valuable spend more time and meet more frequently with their coaches](coaching-time-frequency-linked-to-perceived-value.md) — related
-- [Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation](coaching-partnership-voluntary-non-evaluative.md) — related
+- [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](coaching-partnership-voluntary-non-evaluative.md) — related
 - [In a National Staff Development Council survey, over 90 percent of teachers reported recent PD but only 59 percent found content-related PD useful](nsdc-pd-usefulness-survey.md) — related

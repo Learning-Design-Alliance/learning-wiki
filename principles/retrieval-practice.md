@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (26 for, 28 mixed, 1 against, 1 unmarked) · 26 studies (9 quant-synthesis, 7 causal, 6 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 26 report an effect size · 50 claims rest on one study
+> **Evidence** · 56 claims (26 for, 28 mixed, 1 against, 1 unmarked) · 31 studies (9 quant-synthesis, 7 causal, 6 review, 6 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 10 of 31 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,7 +198,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](../claims/semantic-association-moderates-pretesting.md) [~W]
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](../claims/retrieval-effort-support-testing-effect.md) [~M]
 - [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](../claims/feedback-enhances-retrieval-practice.md) [+W]
-- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/offloading-to-ai-costs-learning.md) [+W]
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/gpt4-access-harms-learning-after-withdrawal.md) [+W]
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](../claims/mixed-effects-across-experiments-criterion-failures.md) [~W]
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+W]
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](../claims/testing-effect-generalizes-education-levels.md) [+W]

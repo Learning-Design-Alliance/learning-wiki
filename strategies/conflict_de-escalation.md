@@ -12,7 +12,7 @@ generated:
 # Conflict De Escalation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (5 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 8 studies (5 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Conflict de-escalation is the deliberate use of calm tone, active listening, validation, and lowered demands to reduce the emotional intensity of a confrontation before attempting to resolve it. In learning environments it is carried out by the instructor (or trained peers) through early recognition of escalation cues, non-threatening body language, and offering the agitated party choice and face-saving exits rather than ultimatums.

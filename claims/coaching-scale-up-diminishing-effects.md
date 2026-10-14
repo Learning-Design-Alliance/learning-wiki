@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
 
 ## Subclaims
-`q3 i?` Graphical analysis by deciles of teacher sample size shows a clear negative relationship between program size and program effects for both instruction and achievement. [→ Kraft 2018](#kraft-2018)
+`q2 i?` Graphical analysis by deciles of teacher sample size shows a clear negative relationship between program size and program effects for both instruction and achievement. [→ Kraft 2018](#kraft-2018)
 
 ## Evidence
 

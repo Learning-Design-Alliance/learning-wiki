@@ -9,8 +9,8 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 sources:
-  - id: race-results
-    title: race-results
+  - id: tan-et-al-2026
+    title: Tan et al. 2026
     q: 2
     i: "?"
     kind: causal
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Feedback for Black-prompted essays invoked collective identity, systemic contexts, and social change; Hispanic-prompted feedback emphasized English corrections and cultural frames; Asian-prompted feedback emphasized education, respect, and academic English; White-prompted feedback focused on argument structure and evidence. [→ race-results](#race-results)
+`q2 i?` Feedback for Black-prompted essays invoked collective identity, systemic contexts, and social change; Hispanic-prompted feedback emphasized English corrections and cultural frames; Asian-prompted feedback emphasized education, respect, and academic English; White-prompted feedback focused on argument structure and evidence. [→ Tan et al. 2026](#tan-et-al-2026)
 
 ## Evidence
 
-### race-results
+### Tan et al. 2026
 
 Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. https://doi.org/10.1145/3785022.3785113
 

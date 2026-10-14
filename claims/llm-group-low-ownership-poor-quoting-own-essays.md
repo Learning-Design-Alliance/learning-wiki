@@ -9,9 +9,9 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 sources:
-  - id: nataliya-kosmyna-2009
+  - id: nataliya-kosmyna-2025
     resource: "https://arxiv.org/abs/2506.08872"
-    title: "Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes. (2009). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. Preprint, under review. https://arxiv.org/abs/2506.08872"
+    title: "Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. Preprint, under review. https://arxiv.org/abs/2506.08872"
     author: Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes
     q: 2
     i: "?"
@@ -25,14 +25,14 @@ sources:
 > **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Reported ownership of essays was lowest in the LLM group, with Search Engine strong but lesser than Brain-only. [→ Nataliya Kosmyna 2009](#nataliya-kosmyna-2009)
-`q2 i?` The LLM group was impaired in quoting from essays they had written just minutes prior. [→ Nataliya Kosmyna 2009](#nataliya-kosmyna-2009)
+`q2 i?` Reported ownership of essays was lowest in the LLM group, with Search Engine strong but lesser than Brain-only. [→ Nataliya Kosmyna 2025](#nataliya-kosmyna-2025)
+`q2 i?` The LLM group was impaired in quoting from essays they had written just minutes prior. [→ Nataliya Kosmyna 2025](#nataliya-kosmyna-2025)
 
 ## Evidence
 
-### Nataliya Kosmyna 2009
+### Nataliya Kosmyna 2025
 
-Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes. (2009). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. Preprint, under review. https://arxiv.org/abs/2506.08872
+Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. Preprint, under review. https://arxiv.org/abs/2506.08872
 
 `q2 · i?` · `causal · r1`
 

@@ -12,7 +12,7 @@ generated:
 # Guided Discovery with Word Sorting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 15 studies (5 quant-synthesis, 4 causal, 4 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size
+> **Evidence** · 5 claims (5 for) · 16 studies (5 quant-synthesis, 4 causal, 4 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 16 report an effect size
 
 ## Description
 Students sort word cards by spelling pattern under teacher questioning that directs attention to critical features, inducing the rule themselves rather than receiving it stated upfront. For example, sorting *page, cage, badge, edge, bridge* reveals the –ge/–dge convention: /j/ after a short vowel is spelled –dge, after a long vowel or consonant –ge. The teacher's questions ("What do you notice about the letter before the g?") scaffold the discovery without giving the answer away.

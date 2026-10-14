@@ -48,4 +48,3 @@ Individual-participant-data meta-analysis of examination scores from 15 studies 
 - [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
-- [Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing](active-learning-raises-stem-exam-performance-047-sd.md) — related

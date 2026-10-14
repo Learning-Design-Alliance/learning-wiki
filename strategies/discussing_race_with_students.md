@@ -62,7 +62,7 @@ Race talk triggers strong emotions and identity threat that can shut down produc
 
 ## Claims
 
-- [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](../claims/colorblindness-blocks-distribution-discussion.md) [+W]
+- [Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](../claims/colorblindness-blocks-distribution-discussion.md) [+W]
 
 ## Related Strategies
 

@@ -26,7 +26,7 @@ sources:
 
 ## Subclaims
 `q3 i?` Coaching programs show large positive effects on teachers' instructional practice and a meaningful positive impact on student achievement per the first meta-analysis of causal coaching studies. [→ Tina Ehsanipour & Florencia Gomez Zaccarelli 2017](#tina-ehsanipour-florencia-gomez-zaccarelli-2017)
-`q2 i?` Coached teachers perceived themselves as more confident but were not assessed as more effective than uncoached teachers in one contrasting study. [→ Tina Ehsanipour & Florencia Gomez Zaccarelli 2017](#tina-ehsanipour-florencia-gomez-zaccarelli-2017)
+`q3 i?` Coached teachers perceived themselves as more confident but were not assessed as more effective than uncoached teachers in one contrasting study. [→ Tina Ehsanipour & Florencia Gomez Zaccarelli 2017](#tina-ehsanipour-florencia-gomez-zaccarelli-2017)
 
 ## Evidence
 

@@ -22,7 +22,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (9 for, 4 mixed) · 24 studies (8 causal, 7 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 7 claims rest on one study
+> **Evidence** · 12 claims (8 for, 4 mixed) · 24 studies (8 causal, 7 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -101,7 +101,7 @@ An immediate change in a rating, a delayed change in attitude, more accurate inf
 
 ## Claims
 
-- [An empathy-enhancing intervention for teachers reduced suspension rates, especially for students of color](../claims/empathic-mindset-teacher-intervention-lowers-suspensions.md) [+W]
+- [An empathy-enhancing intervention for teachers reduced suspension rates, especially for students of color](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+W]
 - [Personas developed without care and empathy can create stereotypes](../claims/personas-risk-stereotypes-without-empathy.md) [~W]
 
 ## Related Principles

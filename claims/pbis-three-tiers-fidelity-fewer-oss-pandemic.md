@@ -3,6 +3,7 @@ type: claim
 title: Schools implementing all three PBIS tiers with fidelity had significantly fewer students with OSS, fewer days missed from OSS, and fewer OSS incidents than matched non-PBIS schools during 2020–21
 description: Schools implementing all three PBIS tiers with fidelity had significantly fewer students with OSS, fewer days missed from OSS, and fewer OSS incidents than matched non-PBIS schools during 2020–21
 id: pbis-three-tiers-fidelity-fewer-oss-pandemic
+aliases: [tier3-intensive-supports-drove-exclusion-reduction]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
+
 `q2 i2` Schools implementing Tiers 1, 2, and 3 with fidelity had statistically significantly lower OSS, days missed from OSS, and OSS incidents than PSM comparison schools, with IRRs of 0.50, 0.45, and 0.41 and effect sizes d = -0.71, -0.65, and -0.84. [→ Gage 2025](#gage-2025)
+
+`q1 i?` The authors interpret that implementation of intensive supports with fidelity, rather than targeted Tier 2 supports alone, was what mattered for reducing disciplinary exclusions. [→ Gage 2025](#gage-2025)
 
 ## Evidence
 
@@ -39,12 +43,24 @@ Negative binomial GLMM treatment-effect models on 2020–21 CRDC data comparing 
 
 > "The IRRs were 0.50, 0.45, and 0.41 for OSS, days missed from OSS, and OSS incidents, respectively."
 
+<!-- merged 2026-10-14 from tier3-intensive-supports-drove-exclusion-reduction: that page's entry for this study, which differed from the one above, kept verbatim.
+### Gage 2025
+
+Gage, N. A., Grasley-Boy, N. M., MacSuga-Gage, A. S., & Ulrich, T. G. (2025). Implementing Positive Behavior Interventions and Supports During the COVID-19 Pandemic: Three Tiers of Prevention and Intervention as Protective Factors. WestEd. https://eric.ed.gov/?id=ED673553
+
+`q1 · i?` · `causal · r2`
+
+Authors' interpretation in the Discussion, not a separately tested contrast: the null result for the Tiers 1 and 2 fidelity group alongside significant effects for the three-tier group leads them to conclude "it was the implementation of intensive supports with fidelity that really mattered."
+
+> "Since there was no effect for schools implementing Tiers 1 and 2 with fidelity, it appears that it was the implementation of intensive supports with fidelity that really mattered."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Students in MTSS-coached schools had significantly fewer days absent in both implementation years](mtss-coaching-fewer-days-absent.md) — related
 - [Students in MTSS-coached schools were significantly less likely to have at least one behavior incident](mtss-coaching-lower-likelihood-behavior-incident.md) — related
-- [No significant differences in in-school suspensions or students with only one OSS emerged across the four PBIS fidelity conditions during 2020–21](pbis-fidelity-conditions-no-difference-iss-single-oss.md) — related
-- [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related
-- [Because schools implementing Tiers 1 and 2 with fidelity showed no effect, the authors attribute the reduction in exclusions to fidelity-implemented intensive (Tier 3) supports](tier3-intensive-supports-drove-exclusion-reduction.md) — related
+- [No significant differences in in-school suspensions or students with only one OSS emerged across the four PBIS fidelity conditions during 2020–21](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related

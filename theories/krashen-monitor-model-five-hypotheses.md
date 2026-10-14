@@ -41,7 +41,7 @@ The article presents Krashen's theory of second language acquisition as an expla
 
 - [Comprehensible input in natural language contexts is presented as essential to second language acquisition](../claims/comprehensible-input-essential-l2-acquisition.md) [+W]
 - [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](../claims/affective-variables-facilitate-l2-acquisition.md) [+W]
-- [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
+- [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
 - [Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition](../claims/morpheme-order-similarity-across-l1-backgrounds.md) [+W]
 
 ## Related Theories

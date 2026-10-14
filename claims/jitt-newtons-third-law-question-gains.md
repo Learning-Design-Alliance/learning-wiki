@@ -45,4 +45,4 @@ Sub-analysis of the same 222-student, five-semester FCI pretest/post-test compar
 ## Related Claims
 - [The authors conclude that students in Just-in-Time Teaching courses better understand Newton's Third Law after instruction than students in traditional lecture courses](jitt-better-newtons-third-law-understanding.md) — a broader claim this one bears on
 - [Introductory physics students taught with Just-in-Time Teaching showed larger overall Force Concept Inventory gains (37.6%±2.0%) than students in traditional lecture courses (17.9%±2.5%)](jitt-larger-fci-gains-than-lecture.md) — related
-- [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](active-engagement-higher-learning-gains-than-lecture.md) — a broader claim this one bears on
+- [Actively engaging learning environments show higher learning gains than one-way lecture environments, according to a National Academies consensus study cited in one article](active-learning-improves-exam-performance.md) — a broader claim this one bears on

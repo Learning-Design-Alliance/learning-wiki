@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks
+title: On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems
 description: Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks
 id: verbal-problem-scores-resistant-to-forgetting
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks
+# On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+<!-- title before 2026-10-14: Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks -->
 
 ## Subclaims
 `q2 i?` On the problem solution criterion, retention test means were significantly larger than posttest means, driven by gains on the three more complex problems. [→ Bassler 1972](#bassler-1972)

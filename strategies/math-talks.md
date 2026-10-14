@@ -13,7 +13,7 @@ generated:
 # Math Talks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (6 quant-synthesis, 1 review), `q2`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (6 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Math talks are structured conversations focused on mathematical reasoning and problem-solving strategies. A facilitator poses a problem — often one with multiple solution paths — and learners explain their thinking aloud, compare strategies, and work toward shared precision in mathematical language. The instructor's role shifts from delivering procedures to eliciting, probing, and connecting student ideas, which also yields real-time evidence of comprehension.

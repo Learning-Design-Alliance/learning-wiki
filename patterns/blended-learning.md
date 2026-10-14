@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 11 studies (4 quant-synthesis, 4 associational, 1 causal, 1 qualitative, 1 design), `q2`–`q4` · 4 of 11 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (6 for, 6 mixed) · 12 studies (4 quant-synthesis, 4 associational, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 

@@ -13,7 +13,7 @@ generated:
 # Spark Engagement with Student-Generated Questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 16 studies (7 quant-synthesis, 4 causal, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 16 report an effect size
+> **Evidence** · 6 claims (6 for) · 17 studies (7 quant-synthesis, 4 causal, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 17 report an effect size
 
 ## Description
 Students formulate their own questions about a topic and pursue investigations to answer them, rather than responding only to teacher-posed prompts. The strategy converts curiosity into an instructional engine: question generation precedes and drives inquiry, giving students ownership over both the direction and the purpose of their learning.

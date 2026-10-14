@@ -102,7 +102,7 @@ A review synthesising the classroom-environment literature into two channels. **
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — the necessary counterweight: design effects do not materialise without matching changes to teaching
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — the same attention cost that makes over-decorated classrooms underperform
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the mechanism behind the stimulation factor's upper bound
-- [Classroom Physical Activity Improves Attention](classroom-physical-activity-improves-attention.md) — a separate route by which what happens in the room affects learning
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — a separate route by which what happens in the room affects learning
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a plausible mechanism for the ownership and flexibility components of individualisation
 - [Equipment suppliers criticize DBPH procurement practices, including price-only awards and insufficient quality specifications](price-only-procurement-criticized-by-suppliers.md) — related
 - [Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes](student-characteristics-affect-observation-results-more-in-ela-than-math.md) — related

@@ -38,7 +38,7 @@ The Polya Method (PM) is a heuristic instructional strategy derived from Polya's
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks](../claims/verbal-problem-scores-resistant-to-forgetting.md) [+W]
+- [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](../claims/verbal-problem-scores-resistant-to-forgetting.md) [+W]
 - [Polya and Dahmus methods do not differ on the problem solution criterion](../claims/no-treatment-difference-problem-solution-criterion.md) [~W]
 - [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](../claims/polya-method-beats-dahmus-on-equation-criterion.md) [+W]
 

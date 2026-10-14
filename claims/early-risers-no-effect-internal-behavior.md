@@ -45,7 +45,7 @@ Randomized effectiveness study in two neighborhood family centers and 10 element
 ## Related Claims
 - [Early Risers shows no discernible effects on external behavior for children at risk of emotional disturbance classification](early-risers-no-effect-external-behavior.md) — related
 - [FBA-based interventions show potentially positive effects on school engagement for children identified with or at risk for an emotional disturbance](fba-potentially-positive-school-engagement.md) — related
-- [The percentage of students with ED meeting clinically significant problem-behavior criteria declined significantly from pre- to post-test](pbis-reduces-clinically-significant-behavior-problems.md) — related
+- [The percentage of students with ED meeting clinically significant problem-behavior criteria declined significantly from pre- to post-test](pbis-reduces-externalizing-total-problems-ed-self-contained.md) — related
 - [Early Risers has potentially positive effects on academic performance, driven by a significant Academic Achievement Composite effect in one of two studies](early-risers-potentially-positive-academic-performance.md) — related
 - [Early Risers has potentially positive effects on social outcomes, driven by a significant Social Skills Composite effect in one of two studies](early-risers-potentially-positive-social-outcomes.md) — related
 - [After two years of implementation, Early Risers showed a statistically significant positive effect on the Academic Competence Composite in the 2001 supplemental findings](early-risers-two-year-academic-competence-significant.md) — related

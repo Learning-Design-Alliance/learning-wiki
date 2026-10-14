@@ -35,9 +35,9 @@ Emily Zohar, Paul Bloom & Michael Inzlicht. (2026). Against frictionless AI. Com
 
 `q2 · i?` · `theoretical · r3`
 
-Theoretical argument in the comment's timing section. The authors argue that for people in later stages of life "AI f u n c t i o n sa sas u p p l e m e n tr a t h e rt h a nas u b s t i t u t e," while younger learners need to struggle, reason, and revise before benefiting from shortcuts. No new data are reported.
+Theoretical argument in the comment's timing section. The authors argue that for people in later stages of life "AI functions as a supplement rather than a substitute," while younger learners need to struggle, reason, and revise before benefiting from shortcuts. No new data are reported.
 
-> "For them, AI f u n c t i o n sa sas u p p l e m e n tr a t h e rt h a nas u b s t i t u t e .B yc o n t r a s t ,i n d i v i d u a l s in earlier developmental stages risk bypassing the very experiences that build these foundational skills."
+> "For them, AI functions as a supplement rather than a substitute. By contrast, individuals in earlier developmental stages risk bypassing the very experiences that build these foundational skills."
 
 ## Discussion
 

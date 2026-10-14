@@ -49,6 +49,6 @@ Meta-analysis of the 43 included studies comparing effect sizes across language 
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](instruction-little-effect-on-route-of-acquisition.md) — related
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — related
-- [Repetitive drill and grammar-focused instruction are ineffective teaching devices for language acquisition](repetitive-drill-grammar-focus-ineffective.md) — related
+- [A 1982 bilingual-education teacher-training packet (teacher edition) asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective teaching devices](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
 - [Linguistic comprehension instruction shows no clear immediate effect on generalized reading comprehension outcomes](linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect.md) — related
 - [Linguistic comprehension instruction shows a small immediate effect on generalized linguistic comprehension outcomes](linguistic-comprehension-instruction-small-immediate-generalized-effect.md) — a broader claim this one bears on

@@ -12,7 +12,7 @@ generated:
 # Interactive Note Taking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 19 studies (9 quant-synthesis, 7 causal, 3 review), `q2`–`q4` · 8 of 19 report an effect size
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 20 studies (9 quant-synthesis, 7 causal, 3 review, 1 theoretical), `q2`–`q4` · 8 of 20 report an effect size
 
 ## Description
 Interactive note taking asks learners to do generative work on incoming content while recording it — summarizing, paraphrasing, questioning, diagramming, or connecting to prior knowledge — instead of copying it verbatim. The instructor structures this activity through prompts, templates, pauses for elaboration, or guided formats such as two-column notes. The core mechanism is that the note-taking act itself becomes a learning event, not just a storage event.

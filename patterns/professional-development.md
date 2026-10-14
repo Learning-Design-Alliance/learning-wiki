@@ -21,7 +21,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 38 claims (23 for, 11 mixed, 4 against) · 34 studies (9 review, 9 qualitative, 6 quant-synthesis, 5 causal, 2 design, 2 theoretical, 1 associational), `q1`–`q4` · 7 of 34 report an effect size · 33 claims rest on one study
+> **Evidence** · 38 claims (23 for, 11 mixed, 4 against) · 35 studies (9 review, 9 qualitative, 6 quant-synthesis, 5 causal, 3 theoretical, 2 design, 1 associational), `q1`–`q4` · 7 of 35 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -136,7 +136,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [+W]
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](../claims/iterative-follow-up-supports-lasting-change.md) [+W]
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
-- [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](../claims/sustained-coaching-contact-hours.md) [+W]
+- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours](../claims/sustained-coaching-contact-hours.md) [+W]
 - [District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed](../claims/district-leaders-active-role-coaching-success.md) [~W]
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](../claims/ai-effect-duration-one-to-two-months-peak.md) [~W]
 - [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](../claims/external-coaching-accountability-idea-generation.md) [+W]
