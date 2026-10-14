@@ -679,6 +679,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#fitting-the-design-to-a-situation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fitting the design to a situation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#observation-state-and-explanation" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -805,10 +816,73 @@
 <h1 id="scaffolding-and-fading">Scaffolding and Fading<a class="headerlink" href="#scaffolding-and-fading" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Principle</strong> · <a href="../">All principles</a>
-<strong>Evidence</strong> · 24 claims (13 for, 10 mixed, 1 against) · 25 studies (10 causal, 4 review, 4 theoretical, 2 quant-synthesis, 2 associational, 2 qualitative, 1 design), <code>q1</code>–<code>q4</code> · 3 of 25 report an effect size · 19 claims rest on one study</p>
+<strong>Evidence</strong> · 26 claims (14 for, 11 mixed, 1 against) · 27 studies (12 causal, 4 review, 4 theoretical, 2 quant-synthesis, 2 associational, 2 qualitative, 1 design), <code>q1</code>–<code>q4</code> · 3 of 27 report an effect size · 20 claims rest on one study</p>
 </blockquote>
 <h2 id="conditional-relationship">Conditional relationship<a class="headerlink" href="#conditional-relationship" title="Permanent link">&para;</a></h2>
 <p>A learner who cannot yet complete a task alone, but can complete it with help, may develop more independent performance when help is <strong>contingent</strong> and then <strong>withdrawn</strong>. Contingent means the tutor or system raises support after a failed attempt and lowers it after a success. The expected change is in later unassisted performance on the target task (<code>immediate-performance</code>, <code>delayed-retention</code>, <code>near-transfer</code>), not in assisted performance during the lesson. The learner's task-specific starting response bounds the relationship (<code>novice</code> for this task, not for the domain), as do the knowledge type (<code>procedure</code> and <code>complex-skill</code> in the studies below), the setting (most evidence is one-to-one tutoring or <code>lab</code>, little is <code>classroom</code>), how support ends, and the horizon. Withdrawing support too early or too late is a hypothesis about failure, not an established threshold. The <a href="../../patterns/cognitive-apprenticeship/">cognitive apprenticeship pattern</a> is a reusable policy built on this relationship; its diagnostic branches are untested proposals.</p>
+<h2 id="fitting-the-design-to-a-situation">Fitting the design to a situation<a class="headerlink" href="#fitting-the-design-to-a-situation" title="Permanent link">&para;</a></h2>
+<p>Ask for three facts when the brief omits them: <strong>who adjusts the support (a tutor, a teacher with a group, software, an AI tutor)</strong>, <strong>whether the target is unassisted performance and at what horizon</strong>, and <strong>whether near or far transfer is wanted</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>One-to-one tutoring or an adaptive system</td>
+<td>Make support contingent: start with the least help that might do, raise it after a failed attempt, lower it after a success</td>
+<td><a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning</a> [+M]</td>
+</tr>
+<tr>
+<td>An AI tutor will give the support</td>
+<td>Have it escalate and fade on what the learner does, holding back the full answer; this kept learners doing the thinking</td>
+<td><a href="../../claims/contingent-tutor-metacognitive-demand-matches-withholding-tutor/">A contingent AI tutor keeps metacognitive demand</a> [+M]; <a href="../../claims/contingent-scaffolding-surrenders-full-answer-least/">The contingent tutor surrendered the answer least</a> [+M]</td>
+</tr>
+<tr>
+<td>Learners can use an AI assistant that gives answers</td>
+<td>Bound it to hints, and schedule regular checks with no AI; answers given in practice lowered later unassisted performance</td>
+<td><a href="../../claims/ai-assistance-impairs-unassisted-fraction-performance-exp1/">AI assistance impairs unassisted performance</a> [-M]; <a href="../../claims/genai-supported-performance-independent-divergence/">Supported and independent performance diverge</a> [~M]</td>
+</tr>
+<tr>
+<td>Learners move from worked examples to problem solving</td>
+<td>Fade worked steps over a series of problems, from complete example to incomplete to independent, instead of fixed example–problem pairs</td>
+<td><a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes transfer of responsibility</a> [+M]; <a href="../../claims/fading-worked-steps-facilitates-example-to-problem-transition/">Fading worked steps eases the example-to-problem transition</a> [+M]</td>
+</tr>
+<tr>
+<td>The question is which steps to fade first</td>
+<td>Removing the last steps first is one tested option; in another experiment the position did not matter, so either is defensible</td>
+<td><a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes transfer of responsibility</a> [+M]; <a href="../../claims/faded-step-position-no-learning-outcome-effect/">Faded step position had no effect</a> [~M]</td>
+</tr>
+<tr>
+<td>Transfer to new problems is the goal</td>
+<td>Pair backward fading with prompts asking learners to name the principle each step uses</td>
+<td><a href="../../claims/fading-and-principle-prompts-improve-probability-transfer/">Backward fading and principle prompts improve transfer</a> [+M]</td>
+</tr>
+<tr>
+<td>A teacher supports several small groups at once</td>
+<td>Before withdrawing support, ask a learner to do or explain the next step; learners who applied support rather than copying it gave more accurate later answers</td>
+<td><a href="../../claims/student-uptake-of-support-predicts-small-group-answer-accuracy/">Uptake of support predicts answer accuracy</a> [~W]</td>
+</tr>
+<tr>
+<td>Computer-based STEM scaffolds, and building a fading mechanism is costly</td>
+<td>Fixed scaffolds may serve as well; the meta-analytic effect did not differ by whether scaffolds faded. Check unassisted performance before investing</td>
+<td><a href="../../claims/scaffolding-improves-learning/">Scaffolding improves learning</a> [~M]</td>
+</tr>
+<tr>
+<td>A learner succeeds only at the support level last given</td>
+<td>Hold that level on a changed case and lower it one step at a time; no fading threshold is established</td>
+<td>untested proposal</td>
+</tr>
+<tr>
+<td>A learner keeps using support they no longer need</td>
+<td>Make the support optional and record whether accuracy changes; guidance can become redundant as expertise grows</td>
+<td><a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective with expertise</a> [~M]</td>
+</tr>
+</tbody>
+</table>
 <h2 id="observation-state-and-explanation">Observation, state and explanation<a class="headerlink" href="#observation-state-and-explanation" title="Permanent link">&para;</a></h2>
 <p>What can be observed is a response under stated conditions: a step attempted, the help requested or given (record its level), whether the learner applied, copied or ignored that help, and what they did next without it. "Within reach with support" and "has internalised the skill" are inferred states. The same response fits several states. Assisted success shows what the learner can do with <em>this</em> help; it does not show what they can do once it is gone. Copying a hint and applying it can produce the same answer.</p>
 <table>

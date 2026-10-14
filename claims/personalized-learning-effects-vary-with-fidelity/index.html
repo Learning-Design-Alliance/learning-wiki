@@ -43,6 +43,47 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <p>Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., &amp; Pane, J. D. (2017). <em>Informing progress: Insights on personalized learning implementation and effects</em>. RAND Corporation. <a href="https://doi.org/10.7249/rr2042">doi:10.7249/rr2042</a></p>
 <p><code>q2 · quasi-experiment with matched virtual comparison groups</code> · <code>i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.)</code> · <code>n=~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15</code> · <code>causal · r2</code></p>
 <p>RAND matched students in NGLC schools implementing PL practices (adaptive software, data-driven grouping, flexible pacing, competency-based progression) to virtual comparison groups built from national norm-referenced test data, and also surveyed teachers/students on the extent to which PL practices were actually delivered. Overall one-year effects were small (+0.09 SD math, statistically significant; +0.07 SD reading, not significant). Effects differed by how much PL was implemented: charter schools, which reported implementing PL practices more fully, showed effects near +0.10 SD in both subjects, while district schools — which implemented PL to a lesser reported extent — showed about half that effect in math and a near-zero effect in reading. Schools with two years of exposure showed larger cumulative gains than schools in their first year, which the authors read as PL systems "requir[ing] some experience before operating at their fullest potential." The report is explicit that the implementation-effect link rests on self-reported survey data, a small district-school subsample (9 of 40 schools), and cannot rule out confounds, so it frames the relationship as suggestive, not confirmed.</p>
+<h2 id="studies-bearing-on-this-claim">Studies bearing on this claim<a class="headerlink" href="#studies-bearing-on-this-claim" title="Permanent link">&para;</a></h2>
+<!-- synthesis:start -->
+<p><em>What makes an adaptive design fail in practice?</em> This table gathers the studies behind this claim and the 3 narrower claims that bear on it: <strong>4 distinct studies</strong> (1 causal, 1 associational, 1 review, 1 design), <code>q1</code>–<code>q2</code>, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by <code>scripts/synthesize_claim.py</code> from <code>eval/synthesis/</code>; a row that looks wrong is fixed on the claim it comes from.</p>
+<table>
+<thead>
+<tr>
+<th>Study</th>
+<th>Design</th>
+<th>Effect as recorded</th>
+<th>Bears on this claim through</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://doi.org/10.7249/rr2042">Pane et al. 2017</a></td>
+<td>q2 · causal · r2</td>
+<td>i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.)</td>
+<td>this claim</td>
+</tr>
+<tr>
+<td>Constantakis 2016</td>
+<td>q2 · associational · r1</td>
+<td>i?</td>
+<td><a href="../adult-ed-minimal-learner-data-use/">Adult education programs used product-generated learner data minimally, mostly tracking us</a> (supports)</td>
+</tr>
+<tr>
+<td>Tripathi 2026</td>
+<td>q1 · review · r2</td>
+<td>i?</td>
+<td><a href="../rl-reward-misalignment-failure-modes/">RL policies risk three failure modes when reward signals are poorly specified: reward hack</a> (supports)</td>
+</tr>
+<tr>
+<td>Haley Noh 2026</td>
+<td>q2 · design · r2</td>
+<td>i?</td>
+<td><a href="../constraints-selectively-affect-inefficient-strategies/">System constraints have minimal effect on already-efficient task-selection strategies whil</a> (qualifies)</td>
+</tr>
+</tbody>
+</table>
+<!-- synthesis:end -->
+
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Fidelity as a moderator.</strong> Implementation research consistently distinguishes efficacy (ideal conditions) from effectiveness (typical conditions). Personalized learning programs are especially fidelity-sensitive because they bundle multiple components — adaptive technology, data-driven grouping, learner agency, revised teacher roles — and partial implementation can capture the cost of the program without its benefit. A school that adopts an adaptive platform but retains whole-class pacing, for example, may realize little of the intended differentiation [-M].</p>
 <p><strong>What fidelity means here.</strong> Fidelity has multiple dimensions: adherence (delivering the components as designed), dosage (sufficient time on the intervention), quality (skill of delivery), and learner responsiveness. For technology-mediated personalization, dosage and teacher use of the generated data are often the weakest links — dashboards that no one acts on do not personalize anything. This connects to the broader finding that <a href="../adaptive-learning-improves-outcomes/">adaptive learning improves outcomes</a> only when usage is sustained and the system's recommendations are actually enacted [~M].</p>
@@ -53,7 +94,12 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 
 <h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../adaptive-learning-improves-outcomes/">Adaptive learning improves outcomes</a> — the technology-mediated subset of personalization, where dosage and usage patterns are key fidelity variables</li>
+<li>
+<p><a href="../mastery-learning-improves-outcomes/">Mastery Learning Improves Outcomes</a> — the general claim this finding bears on, with the studies behind it</p>
+</li>
+<li>
+<p><a href="../adaptive-learning-improves-outcomes/">Adaptive learning improves outcomes</a> — the technology-mediated subset of personalization, where dosage and usage patterns are key fidelity variables</p>
+</li>
 <li><a href="../blended-learning-improves-outcomes/">Blended learning improves outcomes</a> — another multi-component model whose effects hinge on how the blend is actually enacted</li>
 <li><a href="../../patterns/competency-based-learning/">Competency-based learning</a> — a personalization approach that requires substantial restructuring of pacing and assessment to implement faithfully</li>
 <li><a href="../../theories/cognitive-load-theory/">Cognitive load theory</a> — a design lens for judging whether a personalized sequence is well-formed, independent of delivery fidelity</li>
