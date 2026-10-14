@@ -1984,6 +1984,15 @@ Almond (2003), not from the 60-page primary, and its page says so.
 
 ## Known open work
 
+- **Held for the maintainer (2026-10-14), from the gap-paper review.** Two borderline descriptive-context
+  claims, kept until the maintainer reads them: `claims/pl-student-choice-limited-teacher-driven` (Pane et al.
+  2015: student choice did not happen without deliberate support) and
+  `claims/covariates-associated-latent-class-membership` (Bradshaw et al. 2015: demographic predictors of a
+  teacher-rated risk class). Also: Bradshaw 2015's `lpa-four-baseline-risk-classes` and
+  `covariates-associated-latent-class-membership` are coded `causal` but are descriptive or associational
+  analyses (kind not changed by a cleanup). The clear case, `pl-all-schools-individual-support-time`, was
+  removed (`eval/removed/pages.ndjson`).
+
 - **Sweep existing pages onto the current conventions and schemas.** Most of the ~3,900
   content pages predate some of: `INCLUSION.md`'s q1 coding for argument and opinion, `i: null`
   (not `i0`) for "no effect size reported", the evidence header line, per-citation `[±~][SMW]`
