@@ -156,6 +156,9 @@ def apply() -> None:
     print(f"merging {len(pairs_out)} pair(s) -> {tsv}", flush=True)
     subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "merge_claims.py"), "--apply", "--pairs", str(tsv)],
                    cwd=WIKI_ROOT, check=True)
+    # A page that cited both claims now lists the kept one twice in a section.
+    subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "dedupe_claim_bullets.py"), "--apply"],
+                   cwd=WIKI_ROOT, check=True)
 
 
 def main() -> None:
