@@ -1,6 +1,7 @@
 ---
 type: principle
 id: culturally-responsive-classroom-norms
+aliases: [gender-equitable-classroom-interaction]
 title: Culturally Responsive Classroom Norms
 description: "For learners whose home or community norms of talk, questioning, competition, time and conduct differ from the classroom's, widening the classroom's norms (longer wait time, private or all-student response, cooperative options, conventions taught explicitly) and reading a departure from a norm as a possible difference of convention before judging ability or defiance is expected to make questioning show more of what learners know and to raise participation and reduce disciplinary exclusion; no claim here tests this, though claims test wait time, cooperative structures and empathic discipline in general populations."
 canonical: true
@@ -13,7 +14,7 @@ generated:
 # Culturally Responsive Classroom Norms
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (9 for, 5 mixed, 1 against) · 22 studies (7 causal, 7 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 7 claims rest on one study
+> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 23 studies (7 causal, 7 quant-synthesis, 5 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +111,8 @@ Learners, settings and outcomes differ across these claims (school and college s
 The earlier page cited one claim, [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](../claims/increasing-wait-time-improves-response-quality.md) [+M], which is now part of the model above. No other claim it cited is left to place. Its other support was the theory link to [Social Interdependence](social-interdependence.md) and the sources in Key Sources, none of which has a claim page here.
 - [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](../claims/sociocultural-sla-demonizes-socially-resistant-learners.md) [+W] — attached 2026-10-07 from Chen (2016), which proposed "Resist equating the sociocultural framework in SLA with legitimizing only particular methods of participation".
 - [Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)](../claims/reticent-students-academically-superior-duff.md) [+W] — attached 2026-10-07 from Chen (2016), which proposed "Resist equating the sociocultural framework in SLA with legitimizing only particular methods of participation".
+- [Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space](../claims/two-gendered-classroom-cultures.md) [+W]
+- [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](../claims/pragmatic-values-counteract-democratic-values.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -132,7 +135,6 @@ Response quality during questioning, accuracy of the teacher's judgement, partic
 
 ## Related Principles
 - [Social Interdependence](social-interdependence.md) — cooperative-learning structures directly serve students whose cultural background favors an interdependent self-concept
-- [Gender-Equitable Classroom Interaction](gender-equitable-classroom-interaction.md) — a parallel case of well-intentioned teachers unknowingly applying an interaction norm unevenly across a student population
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — owns learners' own experience as the content and context of tasks; this page owns the interaction and management norms tasks are run under
 - [Peer Discussion](peer-discussion.md) — what discussing an answer with peers before a revote does, when pair talk is used as a lower-exposure response mode
 - [Check-Ins](check-ins.md) — short private routines for asking a learner what is going on before judging conduct
@@ -164,6 +166,17 @@ Response quality during questioning, accuracy of the teacher's judgement, partic
 - Carter, P. L. (2005). *Keepin' it real: School success beyond black and white*. Oxford University Press.
 - Banks, J. A. (2009). *Teaching strategies for ethnic studies* (8th ed.). Allyn & Bacon.
 - Arduini-Van Hoose, N. (2020). Cultural differences in the classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Hyde, J. S. (2005). The gender similarities hypothesis. *American Psychologist, 60*(6), 581-592. [doi:10.1037/0003-066x.60.6.581](https://doi.org/10.1037/0003-066x.60.6.581)
+- Sadker, D. (2002). An educator's primer on the gender war. *Phi Delta Kappan, 84*(3), 235-244.
+- Tannen, D. (2001). *You just don't understand: Women and men in conversation*. Quill.
+- Measor, L., & Sykes, P. (1992). *Gender and schools*. Cassell.
+- Erden, F. T., & Wolfgang, C. H. (2004). An exploration of the differences in prekindergarten, kindergarten, and first grade teachers' beliefs related to discipline when dealing with male and female students. *Early Child Development and Care, 174*(1), 3-11. [doi:10.1080/0300443032000103098](https://doi.org/10.1080/0300443032000103098)
+- Wilkinson, L. C., & Marrett, C. B. (Eds.). (1985). *Gender influences in classroom interaction*. Academic Press. [doi:10.1016/c2013-0-11716-3](https://doi.org/10.1016/c2013-0-11716-3)
+- Basow, S. A., & Rubenfeld, K. (2003). "Troubles talk": Effects of gender and gender-typing. *Sex Roles, 48*(3-4), 183-187. [doi:10.1023/a:1022411623948](https://doi.org/10.1023/a:1022411623948)
+- Myaskovsky, L., Unikel, E., & Dew, M. A. (2005). Effects of gender diversity on performance and interpersonal behavior in small work groups. *Sex Roles, 52*(9-10), 645-657. [doi:10.1007/s11199-005-3732-8](https://doi.org/10.1007/s11199-005-3732-8)
+- Golombok, S., & Fivush, R. (1994). *Gender development*. Cambridge University Press.
+- Delamont, S. (1996). Gender divisions: The three R's — Rivalry, romance and rejection. In P. Woods (Ed.), *Contemporary issues in teaching and learning*. Routledge.
+- Arduini-Van Hoose, N. (2020). Gender differences in the classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -207,7 +220,7 @@ Genuinely accommodating this diversity requires more than adding cultural conten
 
 ## Related Principles
 - [Social Interdependence](social-interdependence.md) — cooperative-learning structures directly serve students whose cultural background favors an interdependent self-concept
-- [Gender-Equitable Classroom Interaction](gender-equitable-classroom-interaction.md) — a parallel case of well-intentioned teachers unknowingly applying an interaction norm unevenly across a student population
+- [Gender-Equitable Classroom Interaction](culturally-responsive-classroom-norms.md) — a parallel case of well-intentioned teachers unknowingly applying an interaction norm unevenly across a student population
 
 ## Examples
 
@@ -234,4 +247,63 @@ Genuinely accommodating this diversity requires more than adding cultural conten
 - Carter, P. L. (2005). *Keepin' it real: School success beyond black and white*. Oxford University Press.
 - Banks, J. A. (2009). *Teaching strategies for ethnic studies* (8th ed.). Allyn & Bacon.
 - Arduini-Van Hoose, N. (2020). Cultural differences in the classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-14 from principles/gender-equitable-classroom-interaction ("Gender-Equitable Classroom Interaction"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Gender-Equitable Classroom Interaction
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+Cognitive-ability differences between boys and girls are, collectively, close to non-findings: many studies find none at all, a few find small differences (boys slightly stronger in math, girls slightly stronger in reading/literature), and these small differences have been shrinking over time — differences *within* each gender group are consistently far larger than differences *between* the groups (Hyde, 2005). What does differ, on average, is classroom *interaction style* rather than ability: boys are more likely to speak up during discussion, sometimes without being called on and even when less informed than classmates (Sadker, 2002), and in mixed-sex small-group work, group members (echoing a broader societal pattern — Tannen, 2001) tend to give less weight to girls' comments and contributions.
+
+Teachers, even when genuinely intending equal treatment, show three documented interaction asymmetries, seemingly without realizing it. **Attention paid**: teachers interact with boys 10-30% more often than girls, varying by grade level and teacher (Measor & Sykes, 1992) — plausibly because boys' greater assertiveness draws more responses, or because teachers redirect boys more often to manage mischief (Erden & Wolfgang, 2004). **Public versus private talk**: teachers tend to talk to boys from a greater physical distance than to girls (Wilkinson & Marrett, 1985), plausibly reflecting a broader expectation of businesslike task orientation for boys/men versus expressive nurturing for girls/women (Basow & Rubenfeld, 2003; Myaskovsky, Unikel, & Dew, 2005); conversing across a room is inherently more "public" (many classmates can overhear) than conversing at close range, so this asymmetry alone gives boys' interactions more classroom visibility. **Distribution of praise and criticism**: teachers tend to praise boys more for displaying correct knowledge but criticize girls more for displaying incorrect knowledge — equivalently, they tend to overlook boys' wrong answers and overlook girls' right answers (Golombok & Fivush, 1994; Delamont, 1996). The (almost certainly unintended) net effect is to make boys' knowledge seem more important and boys themselves seem more competent, while making girls' knowledge less visible and girls seem less competent. A mirrored pattern appears for behavior rather than knowledge: teachers tend to praise girls for "good"/compliant behavior regardless of its relevance to the lesson, and criticize boys for "bad" behavior — overlooking girls' inappropriate behavior and boys' appropriate behavior — which makes girls seem better-behaved than they may really be (and their goodness more salient than their academic competence) while making boys seem more troublesome than they may really be.
+
+These are genuine average trends, not universal rules — there is wide individual variation in both directions, and a teacher who becomes consciously aware of these patterns has real, exercisable choice to counteract them even in a busy classroom.
+
+## Implications
+
+### Context
+#### Requirements
+- Conscious attention to one's own patterns of attention, physical proximity, and praise/criticism across gender, since these asymmetries operate largely below a well-intentioned teacher's own awareness
+#### Constraints
+- These are group-level trends that hide substantial individual variation — a specific boy or girl may fully contradict the general pattern, so the guidance should inform self-monitoring, not assumptions about any individual student
+- Attention and praise/criticism asymmetries are typically unintended side effects of other dynamics (assertiveness differences, mischief management, societal role expectations), not deliberate favoritism — addressing them requires noticing the pattern, not assuming bad intent
+
+### Target Learners
+- All students in a mixed-gender classroom, since the relevant intervention is a change in teacher behavior rather than a targeted student intervention
+- Girls specifically with respect to knowledge-visibility (correct answers overlooked, incorrect answers over-criticized) and boys specifically with respect to behavior-visibility (appropriate behavior overlooked, inappropriate behavior over-criticized)
+
+### Target Learning Objectives
+- Equitable perceived competence across genders, undistorted by asymmetric praise/criticism patterns unrelated to actual knowledge or ability
+- Equitable classroom participation and voice, particularly in mixed-sex small-group work where girls' contributions are more likely to be overlooked
+
+### Theory
+#### Contradicting / Qualifying
+- Cognitive sex differences are close to non-findings once studied carefully (Hyde, 2005) — any instructional design assuming a substantive gender-based ability gap is working from an empirically unsupported premise
+
+## Claims
+
+- [Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space](../claims/two-gendered-classroom-cultures.md) [+W]
+- [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](../claims/pragmatic-values-counteract-democratic-values.md) [+W]
+
+## Related Principles
+- [Social Interdependence](social-interdependence.md) — genuine interdependence in group work (per Johnson & Johnson's requirements) is undermined if some members' contributions are systematically discounted, as this principle documents happening along gender lines
+
+## Examples
+
+## Key Sources
+- Hyde, J. S. (2005). The gender similarities hypothesis. *American Psychologist, 60*(6), 581-592. [doi:10.1037/0003-066x.60.6.581](https://doi.org/10.1037/0003-066x.60.6.581)
+- Sadker, D. (2002). An educator's primer on the gender war. *Phi Delta Kappan, 84*(3), 235-244.
+- Tannen, D. (2001). *You just don't understand: Women and men in conversation*. Quill.
+- Measor, L., & Sykes, P. (1992). *Gender and schools*. Cassell.
+- Erden, F. T., & Wolfgang, C. H. (2004). An exploration of the differences in prekindergarten, kindergarten, and first grade teachers' beliefs related to discipline when dealing with male and female students. *Early Child Development and Care, 174*(1), 3-11. [doi:10.1080/0300443032000103098](https://doi.org/10.1080/0300443032000103098)
+- Wilkinson, L. C., & Marrett, C. B. (Eds.). (1985). *Gender influences in classroom interaction*. Academic Press. [doi:10.1016/c2013-0-11716-3](https://doi.org/10.1016/c2013-0-11716-3)
+- Basow, S. A., & Rubenfeld, K. (2003). "Troubles talk": Effects of gender and gender-typing. *Sex Roles, 48*(3-4), 183-187. [doi:10.1023/a:1022411623948](https://doi.org/10.1023/a:1022411623948)
+- Myaskovsky, L., Unikel, E., & Dew, M. A. (2005). Effects of gender diversity on performance and interpersonal behavior in small work groups. *Sex Roles, 52*(9-10), 645-657. [doi:10.1007/s11199-005-3732-8](https://doi.org/10.1007/s11199-005-3732-8)
+- Golombok, S., & Fivush, R. (1994). *Gender development*. Cambridge University Press.
+- Delamont, S. (1996). Gender divisions: The three R's — Rivalry, romance and rejection. In P. Woods (Ed.), *Contemporary issues in teaching and learning*. Routledge.
+- Arduini-Van Hoose, N. (2020). Gender differences in the classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 -->

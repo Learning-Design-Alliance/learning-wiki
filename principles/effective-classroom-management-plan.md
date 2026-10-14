@@ -1,6 +1,7 @@
 ---
 type: principle
 id: effective-classroom-management-plan
+aliases: [natural-and-logical-consequences]
 title: Effective Classroom Management Plan Criteria
 description: "For a group of learners in a shared space, a classroom-wide plan put in place before problems arise and kept consistently (relationships, taught rules and routines, unobtrusive redirection, a short consistent response to persistent misbehavior, self-control taught with external controls planned to fade, and corrections checked for cultural meaning) is expected to reduce disruption and raise engaged time more than improvised practice; one meta-analysis tests planned universal management against usual practice, but no claim tests the six-part plan or any of its traditions."
 canonical: true
@@ -34,7 +35,7 @@ The earlier page's six criteria, made concrete as a plan a teacher can put in pl
 3. **Every lesson: build the relationship deliberately.** Greet each learner by name as they arrive, with something positive and personal, not a correction. Make more positive contacts than corrections in each lesson (count them for a week and set your own ratio). Use learners' ideas in the lesson. Evidence: [positive greetings at the door](../claims/positive-greetings-at-the-door-improve-engagement.md) [+M] (middle-school teachers randomly assigned to greetings against an attention control: more engaged time, less disruption; no effect size reported). The wider link between relationships and engagement is correlational: [teacher–student relationships](../claims/teacher-student-relationships-improve-engagement.md) [~M].
 4. **Prevent attention-seeking and work-avoidance in the lesson itself.** Pitch tasks so most learners can start them; give a "what to do when stuck" routine (reread the instructions, ask a partner, signal for help, start the next item) so that being stuck does not become disruption; keep transitions short and signalled; move around the room and scan it while you work with one learner or group. Untested proposal; from the earlier page (criterion 2) and the prevention tradition (withitness and overlapping).
 5. **Redirect minor misbehavior with the least intrusive move that works.** In order: move closer, make eye contact, say the learner's name in the flow of the lesson, give a quiet private prompt naming the expected behavior, acknowledge a nearby learner doing it, then wait a few seconds for the learner to correct themselves. The redirection should cause less disruption than the behavior did. Untested proposal; from the earlier page (criterion 3) and [Low-Profile Classroom Control](../strategies/low-profile-classroom-control.md).
-6. **Persistent misbehavior: one short ladder, used the same way every time.** Decide in advance a sequence of no more than three or four steps (a specific private warning, a logical consequence tied to the behavior, such as finishing work at another time or repairing damage, a short conversation after the lesson, then contact with the family or a colleague) and use it consistently. Do not respond to every single act, and do not raise the severity when frustrated. Consequences should repair and restore, not shame ([Natural and Logical Consequences](natural-and-logical-consequences.md)). Untested as a ladder. A related finding on the teacher's stance: [empathic discipline](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M] (a brief exercise turning middle-school teachers from a punitive to an empathic mindset; in the preregistered replication the overall effect on suspensions was small and marginal, with larger reductions for previously suspended students and a narrower racial disparity). If one learner keeps climbing the ladder for two to three weeks, move to [Functional Behavior Assessment](functional-behavior-assessment.md).
+6. **Persistent misbehavior: one short ladder, used the same way every time.** Decide in advance a sequence of no more than three or four steps (a specific private warning, a logical consequence tied to the behavior, such as finishing work at another time or repairing damage, a short conversation after the lesson, then contact with the family or a colleague) and use it consistently. Do not respond to every single act, and do not raise the severity when frustrated. Consequences should repair and restore, not shame ([Natural and Logical Consequences](effective-classroom-management-plan.md)). Untested as a ladder. A related finding on the teacher's stance: [empathic discipline](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M] (a brief exercise turning middle-school teachers from a punitive to an empathic mindset; in the preregistered replication the overall effect on suspensions was small and marginal, with larger reductions for previously suspended students and a narrower racial disparity). If one learner keeps climbing the ladder for two to three weeks, move to [Functional Behavior Assessment](functional-behavior-assessment.md).
 7. **Teach self-control, and plan the fade of every external control.** Teach the skills the rules assume (how to ask for help, wait a turn, disagree, calm down) as short lessons, and from about grade 4 up let learners record their own on-task behavior at prompted moments. Evidence: [taught social-emotional skills](../claims/sel-programs-improve-behavior-and-achievement.md) [+M] (universal school SEL programmes improve behavior; the achievement effect is small or negligible); [self-monitoring of on-task behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+M] (single-case studies of students with or at risk for disabilities; on-task behavior, not learning). Prefer specific praise and the natural payoff of the activity to tangible prizes, and if a points or token system is used, tie it to a stated standard and write down when it will be thinned and withdrawn: [expected tangible rewards](../claims/rewards-undermine-intrinsic-motivation.md) [-M] (two meta-analyses of mostly laboratory experiments disagree on size; praise does not undermine).
 8. **Check the plan against cultural differences before using it.** Ask whether each redirection signal (a direct look, a raised voice, standing close, calling a name in public) and each reward or consequence (public praise, competition, removal from the group) means the same to your learners as it does to you, and widen the options where it does not. Read a departure from a classroom norm as a possible difference of convention before reading it as defiance. Carried out through [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md); untested as part of a management plan, apart from the narrowing of the suspension disparity in the empathic-discipline replication above.
 9. **Review every two weeks against a simple record.** Keep a tally of disruptions in two chosen lessons a week, or sample engagement (every five minutes, how many learners are on task), and look at who receives corrections and consequences, by group. Change one part of the plan at a time. Untested proposal.
@@ -146,7 +147,6 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary, more individualized approach for the subset of students whose disruptive behavior does not respond to a general classroom-wide plan
 - [Classroom Space and Procedural Design](classroom-space-and-procedural-design.md) — the concrete prevention-oriented practices (space, rules, procedures, transitions) that implement criterion 2
-- [Natural and Logical Consequences](natural-and-logical-consequences.md) — implements criteria 3 and 4 with consequences distinct from punishment
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — directly implements criterion 6
 - [Self-Monitoring](self-monitoring.md) — learners checking their own work during a task; this page uses self-recording only for on-task behavior
 - [Clear Structure](clear-structure.md) — how lesson content is organized, which the prevention part of the plan relies on
@@ -159,6 +159,8 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 - [Class Meetings](../strategies/class-meetings.md) — learners reviewing and revising the rules, a step towards criterion 5
 - [Good Behavior Game](../strategies/good-behavior-game.md) and [Check In Check Out](../strategies/check-incheck-out.md) — named routines a plan may already include
 - [CW-FIT: a class-wide group-contingency classroom management program with team points, skill lessons, praise, and rewards](../products/cw-fit.md)
+- [Repairing Harm](../strategies/repairing_harm.md) — a restorative practice built specifically around logical, repair-oriented consequences rather than punishment
+- [Teacher Effectiveness Training / Conflict Resolution](../strategies/teacher-effectiveness-training-conflict-resolution.md) — for misbehavior persistent enough that a single consequence doesn't resolve it, this strategy's negotiation step picks up where natural/logical consequences leave off
 
 ## Key Sources
 - Ginott, H. G. (1972). *Teacher and child: A book for parents and teachers*. Macmillan.
@@ -167,6 +169,9 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 - Emmer, E. T., Evertson, C. M., Clements, B. S., & Worsham, M. E. (1994). *Classroom management for secondary teachers* (4th ed.). Allyn & Bacon.
 - Doyle, W. (1986). Classroom organization and management. In M. C. Wittrock (Ed.), *Handbook of research on teaching* (3rd ed., pp. 392-431). Macmillan.
 - Arduini-Van Hoose, N. (2020). Systems of classroom management. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Weinstein, C. S., Tomlinson-Clarke, S., & Curran, M. (2004). Toward a conception of culturally responsive classroom management. *Journal of Teacher Education, 55*(1), 25-38. [doi:10.1177/0022487103259812](https://doi.org/10.1177/0022487103259812)
+- Kohn, A. (2006). *Beyond discipline: From compliance to community*. Association for Supervision and Curriculum Development.
+- Arduini-Van Hoose, N. (2020). Responding to student misbehavior. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -212,7 +217,7 @@ A comprehensive classroom management plan should incorporate strategies that acc
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary, more individualized approach for the subset of students whose disruptive behavior does not respond to a general classroom-wide plan
 - [Classroom Space and Procedural Design](classroom-space-and-procedural-design.md) — the concrete prevention-oriented practices (space, rules, procedures, transitions) that implement criterion 2
-- [Natural and Logical Consequences](natural-and-logical-consequences.md) — implements criteria 3 and 4 with consequences distinct from punishment
+- [Natural and Logical Consequences](effective-classroom-management-plan.md) — implements criteria 3 and 4 with consequences distinct from punishment
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — directly implements criterion 6
 
 ## Examples
@@ -226,4 +231,66 @@ A comprehensive classroom management plan should incorporate strategies that acc
 - Emmer, E. T., Evertson, C. M., Clements, B. S., & Worsham, M. E. (1994). *Classroom management for secondary teachers* (4th ed.). Allyn & Bacon.
 - Doyle, W. (1986). Classroom organization and management. In M. C. Wittrock (Ed.), *Handbook of research on teaching* (3rd ed., pp. 392-431). Macmillan.
 - Arduini-Van Hoose, N. (2020). Systems of classroom management. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-14 from principles/natural-and-logical-consequences ("Natural and Logical Consequences"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Natural and Logical Consequences
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Two kinds of consequences are especially effective for influencing student behavior. **Natural consequences** happen on their own, without anyone's deliberate intention — a student late for class naturally misses information needed for an assignment. **Logical consequences** happen because of another person's response or decision, but retain an obvious, "logical" relationship to the original action — a student who steals another's lunch reimburses its cost. The two are often woven together: a student who picks a fight risks a natural consequence (injury, to either party) and a logical one (losing friends, as others respond to the fighting). Research finds both kinds of consequences effective at minimizing undesirable behavior when applied in appropriate situations (Weinstein, Tomlinson-Clarke, & Curran, 2004): a student who runs in the halls has "traffic accidents" and (hopefully) learns running there isn't safe; a student who chronically talks instead of working has to make up the assignment as homework. In either case, the two features that make a consequence work are that it is proportionate to the misbehavior, and that the student understands the connection between the consequence and the original behavior.
+
+Natural and logical consequences do not always work. One limitation is that some misbehavior is too serious for any natural or logical consequence to feel sufficient — if a student deliberately breaks another's eyeglasses, the natural consequence falls on the victim (impaired vision), not the aggressor, and no logical consequence (the aggressor typically can't repair or replace the glasses) fully addresses the act. A second limitation is that effectiveness depends on the misbehaving student's underlying motive: consequences work well against attention- or acceptance-seeking motives (bullying to impress peers is self-limiting, since it typically loses friends rather than winning them), but not against a genuine power motive (bullying to control others' actions achieves its own goal directly, making the "natural" cost of losing friends irrelevant to the student pursuing it) — and since real misbehavior often blends motives, consequences may only partially limit it.
+
+A third, subtler problem is that natural and logical consequences are easily confused with deliberate punishment (Kohn, 2006), and the difference matters. Consequences focus on repairing damage and restoring relationships — they are future-oriented and solution-focused. Punishments focus on the past mistake itself and often on the character of the person who made it, and tend to shame or humiliate the wrongdoer rather than solve anything:
+
+| Consequences | Punishments |
+|---|---|
+| Focused on future solutions | Focused on past mistakes |
+| Focused on the individual's actions | Focused on the student's or child's character |
+| Focused on repairing mistakes | Focused on establishing blame |
+| Focused on restoring positive relationships | Focused on isolating the wrongdoer |
+| Tend to reduce emotional pain and conflict | Tend to impose emotional pain and conflict |
+
+A student who fails to listen faces a consequence (missing important information) distinct from a punishment (being criticized or reprimanded); a student who speaks rudely faces a consequence (the teacher doesn't respond, or simply asks for courteous speech) distinct from a punishment (being scolded publicly, or given detention).
+
+## Implications
+
+### Context
+#### Requirements
+- A consequence proportionate to the misbehavior, with a connection the student can actually understand and trace back to their own action
+- Deliberate design toward repairing damage and restoring relationships, rather than toward establishing blame or highlighting the wrongdoer's character
+#### Constraints
+- Ineffective for misbehavior serious enough that no natural or logical outcome feels adequate to the act — these situations require a different response entirely, not a stronger consequence of the same kind
+- Weak or irrelevant against misbehavior motivated by a genuine desire for power or control over others, as opposed to attention-seeking, since the "natural" cost (losing friends, being reprimanded) may not matter to that motive
+- Easily drifts into functioning as punishment in practice even when framed as a "consequence," if delivered in a way that shames or blames rather than repairs
+
+### Target Learners
+- Students whose misbehavior is driven mainly by attention-seeking, social approval, or not yet grasping the connection between action and outcome
+- Less effective, on its own, for students whose misbehavior is motivated by a need for power or control
+
+### Target Learning Objectives
+- Reduced recurrence of specific undesirable behaviors, achieved by strengthening a student's own understanding of cause and effect rather than by imposing blame or shame
+
+### Theory
+#### Supporting
+- [Reinforcement Theory](../theories/behaviorism.md) [+M] — logical consequences function as a form of contingent, delayed negative consequence; the same requirements (proportionality, a legible connection to the behavior) mirror what makes reinforcement or punishment procedures actually work
+#### Contradicting / Qualifying
+- [Functional Behavior Assessment](functional-behavior-assessment.md) [~M] — when misbehavior is driven by an identifiable environmental trigger rather than by a motive consequences can address, removing or altering the trigger is a more targeted response than any consequence
+
+## Related Principles
+- [Effective Classroom Management Plan Criteria](effective-classroom-management-plan.md) — this page implements that principle's criteria for redirecting and stopping misbehavior without excess disruption
+- [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary approach for behavior driven by a specific trigger rather than by a motive natural/logical consequences can address
+
+## Examples
+- [Repairing Harm](../strategies/repairing_harm.md) — a restorative practice built specifically around logical, repair-oriented consequences rather than punishment
+- [Teacher Effectiveness Training / Conflict Resolution](../strategies/teacher-effectiveness-training-conflict-resolution.md) — for misbehavior persistent enough that a single consequence doesn't resolve it, this strategy's negotiation step picks up where natural/logical consequences leave off
+
+## Key Sources
+- Weinstein, C. S., Tomlinson-Clarke, S., & Curran, M. (2004). Toward a conception of culturally responsive classroom management. *Journal of Teacher Education, 55*(1), 25-38. [doi:10.1177/0022487103259812](https://doi.org/10.1177/0022487103259812)
+- Kohn, A. (2006). *Beyond discipline: From compliance to community*. Association for Supervision and Curriculum Development.
+- Arduini-Van Hoose, N. (2020). Responding to student misbehavior. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 -->

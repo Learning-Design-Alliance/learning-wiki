@@ -1,7 +1,7 @@
 ---
 type: principle
 id: self-regulated-learning
-aliases: [metacognition, self-regulation, scale-srl-support-with-web-based-training-and-peer-feedback-groups]
+aliases: [metacognition, self-regulation, scale-srl-support-with-web-based-training-and-peer-feedback-groups, integrate-self-regulation-with-scientific-reasoning-instruction]
 title: Self-Regulated Learning
 description: "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured."
 canonical: true
@@ -27,7 +27,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (25 for, 19 mixed, 2 against) · 41 studies (13 causal, 7 quant-synthesis, 7 review, 6 theoretical, 5 associational, 2 design, 1 qualitative), `q1`–`q4` · 13 of 41 report an effect size · 35 claims rest on one study
+> **Evidence** · 47 claims (25 for, 20 mixed, 2 against) · 42 studies (13 causal, 7 quant-synthesis, 7 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 42 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -109,6 +109,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration](../claims/apca-improves-self-assessment-accuracy-overconfidence.md) [~W] — attached 2026-10-11 from Dai (2026), which proposed "Embed AI writing tools within instructional support structures rather than treating them merely as instant feedback sources"; tests this page's relationship.
 - [Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps](../claims/unguided-genai-benefits-advantaged-students.md) [+W] — attached 2026-10-12 from Linus Brunnström et al. (2026), which proposed "Teachers should explicitly teach AI-interaction literacy, with particular attention to students with lower academic self-efficacy or less developed study skills"; tests this page's relationship.
 - [Reaching the qualitative SOLO phase in GenAI interaction required repeated meta-level learner interventions, demanding the very self-regulatory skills the tool was expected to support](../claims/genai-qualitative-shift-requires-meta-level-interventions.md) [+W] — attached 2026-10-12 from Linus Brunnström et al. (2026), which proposed "Teachers should explicitly teach AI-interaction literacy, with particular attention to students with lower academic self-efficacy or less developed study skills".
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](../claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) [~M]
 
 ## Objective and learner-valued goal
 
@@ -147,6 +148,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Formative Assessment](formative-assessment.md)
 - [Purposeful Reflection](purposeful-reflection.md)
 - [Peer Feedbackpeer Review](peer-feedback.md)
+- (none yet linked)
 
 ## Examples
 
@@ -159,12 +161,14 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - A reading intervention asks learners to pause after each section, rate comprehension, and decide whether to reread, annotate, or ask for clarification.
 - [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](../strategies/sycophancy-specific-critical-prompting-strategies.md)
 - [Use metacognitive activities and process evidence to help students monitor the purpose of their AI use](../strategies/metacognitive-ai-use-monitoring-strategies.md)
+- A think-aloud, screen-recorded computer-based population-genetics inquiry task in which students with high argumentation quality showed denser, more correct co-occurrence of monitoring and evidence generation/evaluation than students with low argumentation quality.
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906-911. [https://doi.org/10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
 - Dunlosky, J., & Metcalfe, J. (2008). *Metacognition*. Sage.
 - Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
+- Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two to tango: How scientific reasoning and self-regulation processes impact argumentation quality. *Journal of the Learning Sciences, 31*(2), 237-277. [https://doi.org/10.1080/10508406.2021.1966633](https://doi.org/10.1080/10508406.2021.1966633)
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The original body follows verbatim.
 
@@ -331,4 +335,47 @@ The authors recommend web-based SRL training where many students need support: "
 
 ## Key Sources
 - Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
+-->
+
+<!-- merged 2026-10-14 from principles/integrate-self-regulation-with-scientific-reasoning-instruction ("Integrate Self-Regulation Instruction with Scientific Reasoning Instruction"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Integrate Self-Regulation Instruction with Scientific Reasoning Instruction
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Process data from computer-based scientific inquiry shows that students rarely self-regulate (plan or monitor) spontaneously, and that when they do, it co-occurs with more connected, correct scientific-reasoning behavior and higher-quality argumentation. Because the two skill sets are naturally entangled in students' actual inquiry behavior but are typically taught in separate curricular strands (scientific method vs. study-skills/metacognition), this principle recommends designing instruction and support tools that address both together — e.g., video models that narrate monitoring alongside correct reasoning steps, planning prompts at the start of inquiry, and real-time monitoring prompts during it.
+
+## Implications
+
+### Context
+#### Requirements
+- A computer-based or otherwise instrumentable inquiry task, so that planning/monitoring prompts can be delivered at the moments they are needed
+#### Constraints
+- The evidentiary basis is observational (individual differences in an inquiry task), not a tested intervention — the joint-instruction recommendation is the source study's proposed implication, not something it experimentally validated
+- Effective sample size for the underlying study is small (n=30); generalization across domains and ages is untested
+
+### Target Learners
+- Students old enough to engage in multi-step scientific inquiry (undergraduate in the source study; applicability to younger students untested)
+
+### Target Learning Objectives
+- Higher-quality argumentation (claim-evidence-reasoning), which the source study found associated with denser, more connected co-occurrence of correct reasoning and self-regulation processes
+
+### Theory
+#### Supporting
+- [Self-Regulated Learning](../theories/self-regulated-learning.md)
+- Extended Scientific Reasoning Framework (Fischer et al., 2014)
+
+### Claims
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](../claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) [~M]
+
+## Related Principles
+- (none yet linked)
+
+## Examples
+- A think-aloud, screen-recorded computer-based population-genetics inquiry task in which students with high argumentation quality showed denser, more correct co-occurrence of monitoring and evidence generation/evaluation than students with low argumentation quality.
+
+## Key Sources
+- Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two to tango: How scientific reasoning and self-regulation processes impact argumentation quality. *Journal of the Learning Sciences, 31*(2), 237-277. [https://doi.org/10.1080/10508406.2021.1966633](https://doi.org/10.1080/10508406.2021.1966633)
 -->

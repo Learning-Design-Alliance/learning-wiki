@@ -76,7 +76,7 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [Skill acquisition theory account of written CF effects: declarative knowledge proceduralized into implicit knowledge through repeated practice](skill-acquisition-theory-cf-account.md)
 
 ## Examples
-- [Spectrum of systematic practice types from communicative drills to role plays, task-based and content-based teaching](../patterns/practice-spectrum-drills-to-task-based.md)
+- [Spectrum of systematic practice types from communicative drills to role plays, task-based and content-based teaching](../elements/drill-practice.md)
 - [Supplement task-based language teaching with grammar instruction and use communicative drills for automatization](../strategies/supplement-tblt-with-grammar-instruction-communicative-drills.md)
 
 ## Key Sources

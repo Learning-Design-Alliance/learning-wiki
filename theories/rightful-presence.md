@@ -49,7 +49,7 @@ Rightful presence (Calabrese Barton & Tan) describes legitimate membership in a 
 
 - [Identity-Centered E-Textile Making](../designs/identity-centered-e-textile-making.md) — a maker pattern designed around rightful presence for queer youth
 - [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
-- [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](../principles/presume-rightful-presence-and-inherent-value.md)
+- [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](../elements/belonging.md)
 
 ## Key Sources
 - Tofel-Grehl, C., Hawkman, A. M., Feldon, D. F., Suárez, M. I., MacDonald, B. M., & Searle, K. (2024). "I can be the weird STEM kid who is also gay": Queer rightful presence in STEM making. *Journal of the Learning Sciences, 33*(4-5), 799-842. [https://doi.org/10.1080/10508406.2024.2409101](https://doi.org/10.1080/10508406.2024.2409101)

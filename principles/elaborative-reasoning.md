@@ -1,7 +1,7 @@
 ---
 type: principle
 id: elaborative-reasoning
-aliases: [model-and-monitor-elaborative-interrogation-answer-quality, precise-meaningful-elaboration-facilitates-encoding, promote-self-generated-elaboration-for-expertise]
+aliases: [model-and-monitor-elaborative-interrogation-answer-quality, precise-meaningful-elaboration-facilitates-encoding, promote-self-generated-elaboration-for-expertise, teach-information-with-prior-related-knowledge]
 title: Elaborative Reasoning
 description: Elaborative reasoning asks learners to go beyond restating material by generating connections, explanations, examples, and inferences that tie new content to prior knowledge.
 canonical: true
@@ -22,12 +22,20 @@ sources:
     resource: "https://doi.org/10.5539/jel.v3n4p1"
     title: "Xiong, Y., Zhou, H., & Ogilby, S. M. (2014). Experimental Investigation of the Effects of Cognitive Elaboration on Accounting Learning Outcomes. Journal of Education and Learning, 3(4). https://doi.org/10.5539/jel.v3n4p1"
     author: "Xiong, Y., Zhou, H., & Ogilby, S. M"
+  - id: ademmer-prediger-2025
+    resource: "https://doi.org/10.1080/07370008.2025.2527688"
+    title: "Ademmer, C., & Prediger, S. (2025). How Can Ideas Be Connected Afterwards? Decomposing Teachers' Facilitation Practices for Conceptual Learning in a Case of Formal Volume Calculation. Cognition and Instruction, 43(4), 355-388."
+    author: "Ademmer, C., & Prediger, S."
+  - id: gagne-1981
+    resource: "https://eric.ed.gov/?id=ED221831"
+    title: "Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831"
+    author: Gagne, Ellen D
 ---
 
 # Elaborative Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (19 for, 5 mixed, 1 against) · 19 studies (9 causal, 6 quant-synthesis, 2 review, 2 associational), `q2`–`q4` · 7 of 19 report an effect size · 20 claims rest on one study
+> **Evidence** · 29 claims (22 for, 6 mixed, 1 against) · 21 studies (10 causal, 6 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q2`–`q4` · 8 of 21 report an effect size · 24 claims rest on one study
 
 ## Description
 Elaborative reasoning is the practice of prompting learners to expand on new material — explaining why it is true, connecting it to what they already know, generating their own examples, and drawing inferences beyond what was explicitly taught. Rather than receiving or rehearsing content verbatim, learners construct additional meaning around it. The recommendation is to design tasks and prompts that require this generative work, because elaborated encodings are richer, better organized, and more retrievable than surface-level ones.
@@ -45,6 +53,9 @@ Elaboration works because it changes how information is encoded and organized. A
 - Students must provide answers indicative of the connections among ideas the questions are intended to stimulate
 - Elaboration must be precise and meaningful to the individual, presented from a perspective or context meaningful to the reader
 - Students must take a central role and generate their own way of integrating new course material with pre-existing knowledge structures.
+- A topic with an identifiable network of prerequisite concept elements beneath the target procedure (e.g., structured counting in rows/layers beneath the formula for volume), so "unfolding" has a concrete destination
+- Willingness to slow down and treat a correct-sounding student answer as a prompt for justification rather than a stopping point
+- A way to assess learners' prior related knowledge, such as the linkage measure of the average number of related sentences generated to passage stimuli
 
 #### Constraints
 - Backfires when learners lack relevant prior knowledge: they generate plausible but incorrect elaborations that interfere with accurate encoding [-M]
@@ -54,6 +65,9 @@ Elaboration works because it changes how information is encoded and organized. A
 - The authors state it is premature to indicate implications because some findings are inconsistent with previous work; the recommendation holds only if supported by future work with similar findings
 - The essay ties encoding depth to frequency of activation: the recurrence of activation deepens the level at which the schema is encoded and allows faster, more efficient access
 - The evidence comes from a single ten-minute materials-based treatment in one introductory accounting class; the authors state generalizations are limited because the sample size is too small and drawn from one class.
+- Skipping straight to symbolic manipulation ("3×4 is 12") when a student is mid-way through articulating a structural idea (e.g., "4 rows") cuts off that construction and tends to produce students who can state a formula but not justify it
+- Narrow, funneling questions can produce a correct final answer while bypassing the conceptual grounding entirely — the answer alone does not indicate the learning opportunity was deep
+- Familiarity was more important than imageability and than passage cohesion as defined in these studies
 
 ### Target Learners
 - Learners with moderate to rich prior knowledge in the domain, who can generate accurate connections
@@ -62,6 +76,9 @@ Elaboration works because it changes how information is encoded and organized. A
 - undergraduate students reading lessons independently
 - students reading expository and narrative texts
 - first accounting course (introductory) students
+- Students in whole-class mathematics discussions transitioning from concrete/structural understanding (e.g., counting in rows and layers) to a general symbolic procedure (e.g., a volume formula)
+- middle school students
+- poor comprehenders
 
 ### Target Learning Objectives
 - Conceptual understanding and integration of new material with prior knowledge
@@ -72,15 +89,20 @@ Elaboration works because it changes how information is encoded and organized. A
 - encoding and retrieval of new information into existing knowledge structures
 - procedural knowledge of accounting concepts
 - intellectual skills such as case analysis and problem solving
+- long-term recall of information learned from prose
+- reading comprehension
 
 ### Theory
 #### Supporting
 - [Information Processing Theory](../theories/information-processing-theory.md) — deeper semantic processing at encoding produces more durable, better-connected memory traces (levels of processing)
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — germane load devoted to schema construction is productive; elaboration is a primary mechanism for it, provided extraneous load is controlled
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — self-explanation and elaborative interrogation are core strategies learners use to monitor and deepen comprehension
+- Hiebert & Carpenter's network theory of conceptual understanding — degree of understanding is a function of the number and strength of connections among knowledge elements
+- Aebli's four epistemic processes (constructing, linking, compacting, unfolding) — this pattern specifically operationalizes the underused "unfolding" process (reversing compaction back into constituent elements)
 
 #### Contradicting / Qualifying
 - [Constructivism](../theories/constructivism.md) — broadly supportive, but cautions that learner-generated constructions may be idiosyncratic or wrong; elaboration requires verification against expert understanding
+- (none yet linked)
 
 ### Claims
 
@@ -108,6 +130,10 @@ Elaboration works because it changes how information is encoded and organized. A
 - [Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2](../claims/elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) [+W]
 - [Trained students use more diverse higher-order prompting strategies, including generating new questions absent among controls](../claims/trained-students-higher-order-prompting-strategies.md) [+W]
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](../claims/response-quality-little-effect-on-elaborative-interrogation-retention.md) [~W]
+- [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](../claims/unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) [+M]
+- [Passage Familiarity Correlates With Recall](../claims/passage-familiarity-correlates-with-recall.md) [+M]
+- [Cohesion No Effect Delayed Recall](../claims/cohesion-no-effect-delayed-recall.md) [~M]
+- [Elaborative processing of prose enhances later retrievability, accounting for roughly 30% of variance in one-month recall when original learning is controlled](../claims/elaborative-processing-enhances-retrieval.md) [+W]
 
 ## Related Principles
 
@@ -130,6 +156,8 @@ Elaboration works because it changes how information is encoded and organized. A
 - [Elaborative Interrogation](../strategies/elaborative-interrogation.md)
 - [Self Explanation Prompts](../strategies/self-explanation-prompts.md)
 - [Generative Processing](../strategies/generative_processing.md)
+- A student states "3 × 4" for a slice of a rectangular prism without justification; the teacher physically separates the prism into two slices with a sheet of paper, making the structured counting explicit, and a second student then connects "two slices" and "12 + 12" back to the original expression.
+- A student contributes "3 × 8" with layering gestures already partly justified; the teacher asks her to explain, eliciting "3 floors, 8 cubes per floor," which becomes a shared reference point the rest of the class can build on.
 
 ### Validated
 - [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M] — Schwartz & Bransford's (1998) "time for telling" studies showed that learners who first compared and elaborated on contrasting cases of bird-adaptation data learned far more from a subsequent lecture than lecture-only controls.
@@ -155,6 +183,8 @@ Elaboration works because it changes how information is encoded and organized. A
 - Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
 - Bigenho, Frederick W., Jr. (1992). Conceptual Developments in Schema Theory. https://eric.ed.gov/?id=ED351392
 - Xiong, Y., Zhou, H., & Ogilby, S. M. (2014). Experimental Investigation of the Effects of Cognitive Elaboration on Accounting Learning Outcomes. Journal of Education and Learning, 3(4). https://doi.org/10.5539/jel.v3n4p1
+- Ademmer, C., & Prediger, S. (2025). How Can Ideas Be Connected Afterwards? Decomposing Teachers' Facilitation Practices for Conceptual Learning in a Case of Formal Volume Calculation. *Cognition and Instruction, 43*(4), 355-388. [https://doi.org/10.1080/07370008.2025.2527688](https://doi.org/10.1080/07370008.2025.2527688)
+- Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831
 
 <!-- merged 2026-10-07 from principles/model-and-monitor-elaborative-interrogation-answer-quality ("When using elaborative interrogation, model appropriate answers and monitor answer quality"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -287,4 +317,112 @@ The article concludes that instructional strategies should let students generate
 
 ## Key Sources
 - Xiong, Y., Zhou, H., & Ogilby, S. M. (2014). Experimental Investigation of the Effects of Cognitive Elaboration on Accounting Learning Outcomes. Journal of Education and Learning, 3(4). https://doi.org/10.5539/jel.v3n4p1
+-->
+
+<!-- merged 2026-10-14 from patterns/grounding-and-unfolding-facilitation-moves ("Grounding and Unfolding Facilitation Moves"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Grounding and Unfolding Facilitation Moves
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+During whole-class discussion, students often volunteer higher-order contributions — a formula, a shortcut, a partially-justified calculation — before the class has collectively built the underlying concept those contributions depend on. A teacher can respond in at least three ways: jump to the procedure alongside the student (skipping the underlying concept), funnel the class toward the answer through narrowing questions (arriving at a correct-sounding formula without verifying understanding), or explicitly unfold the contribution — asking the student (or class) to articulate the concrete structure (e.g., rows, layers) that justifies it, then leverage back upward to reconnect the unfolded structure to the original higher-order idea. Only the third move reliably produces learning opportunities that let students later justify, not just state, the procedure.
+
+## Implications
+
+### Context
+#### Requirements
+- A topic with an identifiable network of prerequisite concept elements beneath the target procedure (e.g., structured counting in rows/layers beneath the formula for volume), so "unfolding" has a concrete destination
+- Willingness to slow down and treat a correct-sounding student answer as a prompt for justification rather than a stopping point
+#### Constraints
+- Skipping straight to symbolic manipulation ("3×4 is 12") when a student is mid-way through articulating a structural idea (e.g., "4 rows") cuts off that construction and tends to produce students who can state a formula but not justify it
+- Narrow, funneling questions can produce a correct final answer while bypassing the conceptual grounding entirely — the answer alone does not indicate the learning opportunity was deep
+#### Grain Size
+Lesson (a single whole-class discussion segment, typically several minutes)
+
+### Target Goals
+- Building justified (not just procedural) understanding of a formula or shortcut, by explicitly connecting it to the concrete structure it generalizes
+- [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](../claims/unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) [+M]
+
+### Target Learners
+- Students in whole-class mathematics discussions transitioning from concrete/structural understanding (e.g., counting in rows and layers) to a general symbolic procedure (e.g., a volume formula)
+
+### Theory
+#### Supporting
+- Hiebert & Carpenter's network theory of conceptual understanding — degree of understanding is a function of the number and strength of connections among knowledge elements
+- Aebli's four epistemic processes (constructing, linking, compacting, unfolding) — this pattern specifically operationalizes the underused "unfolding" process (reversing compaction back into constituent elements)
+#### Contradicting / Qualifying
+- (none yet linked)
+
+### Claims
+#### Supporting
+#### Contradicting
+- (none yet linked)
+
+## Design
+
+### Sequence
+1. A student volunteers a higher-order contribution (an informal or formal calculation) before the class has collectively established the concept elements it depends on.
+2. The teacher does not accept the contribution as final and does not replace it with their own procedure; instead, the teacher asks the student (or another student) to unfold it — explicating the concrete structure it corresponds to (e.g., "what do you mean by 'slices'? show us.").
+3. The class collectively links this structure across representations (material/iconic, verbal, symbolic) — for example, connecting a physical model of stacked layers, the phrase "3 layers of 8," and the symbolic expression "3 × 8."
+4. The teacher leverages back upward: once the structure is explicit, the class reconnects it to the original higher-order contribution, and (optionally) repeats the cycle for a further step (e.g., adding a third dimension).
+
+### Affordances
+- (none yet linked)
+
+### Personalization
+- The specific structure to unfold toward depends on the topic (rows/layers for volume; some other decomposable structure for a different formula); the reusable move is the two-directional cycle (unfold, then leverage upward), not the specific content.
+
+## Related Patterns
+- (none yet linked)
+
+## Examples
+- A student states "3 × 4" for a slice of a rectangular prism without justification; the teacher physically separates the prism into two slices with a sheet of paper, making the structured counting explicit, and a second student then connects "two slices" and "12 + 12" back to the original expression.
+- A student contributes "3 × 8" with layering gestures already partly justified; the teacher asks her to explain, eliciting "3 floors, 8 cubes per floor," which becomes a shared reference point the rest of the class can build on.
+
+## Key Sources
+- Ademmer, C., & Prediger, S. (2025). How Can Ideas Be Connected Afterwards? Decomposing Teachers' Facilitation Practices for Conceptual Learning in a Case of Formal Volume Calculation. *Cognition and Instruction, 43*(4), 355-388. [https://doi.org/10.1080/07370008.2025.2527688](https://doi.org/10.1080/07370008.2025.2527688)
+-->
+
+<!-- merged 2026-10-14 from principles/teach-information-with-prior-related-knowledge ("Teach new information for which learners have some prior related knowledge, because familiarity stimulates elaborative processing that supports later retrieval"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Teach new information for which learners have some prior related knowledge, because familiarity stimulates elaborative processing that supports later retrieval
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+This principle holds that presenting information students already have some knowledge about encourages elaborative processing, which in turn increases the probability that target propositions will be recalled after a delay. The report found that "familiarity(or prior knowledge) facilitateselaborative processing which in turn increasesthe probability that targetpropositions will be recalled after a month'sdelay", and that students reported using elaborations to cue retrieval more often for more familiar passages.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A way to assess learners' prior related knowledge, such as the linkage measure of the average number of related sentences generated to passage stimuli
+#### Constraints
+- Familiarity was more important than imageability and than passage cohesion as defined in these studies
+
+### Target Learners
+- middle school students
+- poor comprehenders
+
+### Target Learning Objectives
+- long-term recall of information learned from prose
+- reading comprehension
+
+### Claims
+
+- [Passage Familiarity Correlates With Recall](../claims/passage-familiarity-correlates-with-recall.md) [+M]
+- [Cohesion No Effect Delayed Recall](../claims/cohesion-no-effect-delayed-recall.md) [~M]
+- [Elaborative processing of prose enhances later retrievability, accounting for roughly 30% of variance in one-month recall when original learning is controlled](../claims/elaborative-processing-enhances-retrieval.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831
 -->

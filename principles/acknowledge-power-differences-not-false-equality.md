@@ -43,7 +43,6 @@ Within the Collaboration component, the article argues that reducing hierarchy m
 
 ## Related Principles
 
-- [Change teaching from authoritative conducting to equal association and communication between teachers and students](equal-democratic-teacher-student-relations.md)
 
 ## Examples
 -

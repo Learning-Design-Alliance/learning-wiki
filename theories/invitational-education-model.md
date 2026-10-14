@@ -46,7 +46,6 @@ Invitational Education is 'a metaphor for an emerging model of the educative pro
 
 ## Examples
 
-- [The Four P's: aligning places, people, policies, and programs to make each school day an invitation to learning](../patterns/four-ps-invitational-school-pattern.md)
 - [The Four Corner Press: balancing personally and professionally inviting behavior with one's self and others](../strategies/four-corner-press-plan.md)
 
 ## Key Sources

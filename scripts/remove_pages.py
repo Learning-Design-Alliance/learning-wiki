@@ -34,8 +34,12 @@ BARE_BULLET = re.compile(r"^\s*[-*]\s*(?:\*\*)?\[[^\]]*\]\([^)]*\)(?:\*\*)?\s*(?
 
 
 def inbound(keys: set) -> dict:
-    """{linking page path: [removed keys it links to]}, from the committed reverse index."""
-    rev = json.loads((WIKI_ROOT / "reverse-index.json").read_text(encoding="utf-8"))["edges"]
+    """{linking page path: [removed keys it links to]}, from the reverse index built now. The committed
+    copy lags any edit since the last build_indexes.py (2026-10-14: two links written by a batch's
+    settle step were missed), so it is rebuilt from disk."""
+    sys.path.insert(0, str(Path(__file__).parent))
+    import build_reverse_index
+    rev = build_reverse_index.build()["edges"]
     out = {}
     for key in keys:
         kind, slug = key.split("/", 1)

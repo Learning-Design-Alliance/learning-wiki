@@ -45,9 +45,8 @@ Drawing on Calabrese Barton and Tan (2020, p. 436), the brief contrasts contempo
 
 ## Examples
 
-- [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](../principles/presume-rightful-presence-and-inherent-value.md)
-- [Co-create learning environments with and for students from identity groups that most frequently experience inequities](../principles/co-create-environments-with-experienced-inequity-groups.md)
-- [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
+- [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](../elements/belonging.md)
+- [Co-create learning environments with and for students from identity groups that most frequently experience inequities](../patterns/shared-power-co-creation-of-educational-systems.md)
 
 ## Key Sources
 - SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org

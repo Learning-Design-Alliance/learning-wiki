@@ -51,7 +51,7 @@ Siegel argues that although techniques of inquiry differ across disciplines, inq
 ## Examples
 
 - [Structure the curriculum around the language of reasons in each discipline](../strategies/curriculum-through-language-of-reasons.md)
-- [Teach undergraduate content within a nexus of justification and application](../principles/nexus-of-justification-and-application.md)
+- [Teach undergraduate content within a nexus of justification and application](../principles/epistemic-cognition.md)
 - [Justification & Argumentation](../elements/justification-argumentation.md)
 
 ## Key Sources

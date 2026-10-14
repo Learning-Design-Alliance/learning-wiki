@@ -47,7 +47,7 @@ The article applies Engeström's CHAT, in which the activity system is "object-o
 
 ## Examples
 
-- [Make collaboration paramount in pedagogy because humanity is intrinsically collective](../principles/collaboration-paramount-pedagogy-collectivity.md)
+- [Make collaboration paramount in pedagogy because humanity is intrinsically collective](../principles/collaborative-learning.md)
 - [Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools](../strategies/pd-reflection-online-versus-f2f-differences.md)
 - [Interpret CHAT study results by starting with simple start-to-finish change analysis, then working through relationships among activity elements](../strategies/chat-interpretation-simple-to-whole-activity.md)
 

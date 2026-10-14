@@ -47,7 +47,7 @@ The report presents Mead's three-part cultural taxonomy for characterizing how k
 
 ## Examples
 
-- [Balance vertical transmission with lateral transmission so all members of society continually learn from new discoveries](../principles/lateral-transmission-alongside-vertical.md)
+- [Balance vertical transmission with lateral transmission so all members of society continually learn from new discoveries](../principles/harmonize-opposites-in-educational-change.md)
 
 ## Key Sources
 - Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168

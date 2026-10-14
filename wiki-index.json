@@ -5,8 +5,8 @@
 "element":1080,
 "learner-variable":14,
 "method":38,
-"pattern":126,
-"principle":377,
+"pattern":113,
+"principle":309,
 "process":18,
 "product":1581,
 "research-method":428,
@@ -176490,16 +176490,6 @@
 },
 {
 "canonical":true,
-"description":"Students investigate a disciplinary question by extending a provided code simulation and writing a computational essay — a document mixing prose, executable code, and visualization — to explain their question, method, and findings to peers.",
-"grain_size":"unit",
-"id":"computational-essay-writing",
-"path":"patterns/computational-essay-writing.md",
-"status":"draft",
-"title":"Computational Essay Writing",
-"type":"pattern"
-},
-{
-"canonical":true,
 "description":"A reusable policy in which learners infer a concept's defining attributes by comparing labelled examples and non-examples, then classify new instances; expected to improve classification of new instances where the concept has identifiable attributes, the examples are chosen to contrast on them, guidance and a stated rule follow the induction, and learners can already interpret the instances.",
 "grain_size":"lesson, unit",
 "id":"concept-attainment",
@@ -176530,16 +176520,6 @@
 "type":"pattern"
 },
 {
-"canonical":true,
-"description":"A three-stage pattern that builds learners' data-storytelling and critical-data-literacy skills by moving from analyzing existing data stories, to remixing an exemplary one, to authoring and performing an original one with open data.",
-"grain_size":"unit",
-"id":"data-storytelling-forage-remix-diy",
-"path":"patterns/data-storytelling-forage-remix-diy.md",
-"status":"draft",
-"title":"Data Storytelling — Forage, Remix, DIY",
-"type":"pattern"
-},
-{
 "aliases":["debate-format"],
 "canonical":true,
 "description":"A reusable policy for structured argument on a contested question, in which preparing, defending and answering opposing cases is expected to improve individual argument, conditional on an arguable resolution, evidence and questioning in the rules, moderated turns, a debrief, and an individual outcome at a stated horizon.",
@@ -176566,16 +176546,6 @@
 "path":"patterns/develop-understanding.md",
 "status":"review",
 "title":"Develop Understanding",
-"type":"pattern"
-},
-{
-"canonical":true,
-"description":"When a participatory or deliberative process fails to sustain an underrepresented group's engagement despite outreach and translation, redesign the activity's own tools, norms, and division of labor — a dedicated deliberative space, native-language deliberation instead of sequential interpretation, and flexible agendas — rather than adding more interpretation or outreach to the existing structure.",
-"grain_size":"program",
-"id":"differentiated-activity-structures-for-inclusive-participation",
-"path":"patterns/differentiated-activity-structures-for-inclusive-participation.md",
-"status":"draft",
-"title":"Differentiated Activity Structures for Inclusive Participation",
 "type":"pattern"
 },
 {
@@ -176738,24 +176708,6 @@
 "type":"pattern"
 },
 {
-"canonical":true,
-"description":"The paper enumerates four design characteristics of criterion-referenced tests: \\\"the classes of behaviors that define different achievement levels are specified as clearly as is possible before the test is constructed...",
-"id":"four-characteristics-criterion-referenced-tests",
-"path":"patterns/four-characteristics-criterion-referenced-tests.md",
-"status":"draft",
-"title":"Four characteristics inherent in criterion-referenced tests",
-"type":"pattern"
-},
-{
-"canonical":true,
-"description":"The article organizes school practice around four coordinated levers: 'the places (classrooms, offices, hallways, commons, restrooms, playing fields, gymnasiums, lawns, libraries); the people...; the policies (rules,...",
-"id":"four-ps-invitational-school-pattern",
-"path":"patterns/four-ps-invitational-school-pattern.md",
-"status":"draft",
-"title":"The Four P's: aligning places, people, policies, and programs to make each school day an invitation to learning",
-"type":"pattern"
-},
-{
 "description":"The paper organizes library learners into four developmental quadrants, each calling for a different instructor stance.",
 "id":"four-quadrant-library-learner-progression",
 "path":"patterns/four-quadrant-library-learner-progression.md",
@@ -176845,30 +176797,11 @@
 "type":"pattern"
 },
 {
-"canonical":true,
-"description":"Contract grading is a course-level arrangement in which the teacher presents a number of options (such as a specified number of correct responses or quality of performance), and within these limits each student may th...",
-"id":"grading-by-contract-fricke",
-"path":"patterns/grading-by-contract-fricke.md",
-"status":"draft",
-"title":"Grading by contract: students propose specific work and criteria within teacher-presented options",
-"type":"pattern"
-},
-{
 "description":"A recurring coaching pattern: conversations about instruction start from authentic artifacts of student learning such as written responses, writing samples, and actual Running Records.",
 "id":"ground-conversations-in-childrens-work",
 "path":"patterns/ground-conversations-in-childrens-work.md",
 "status":"draft",
 "title":"Ground coaching conversations in the work of children",
-"type":"pattern"
-},
-{
-"canonical":true,
-"description":"When a student's contribution jumps to a higher-order procedure or informal calculation during whole-class discussion, the teacher grounds it by explicitly unfolding it into the lower-order concept elements it depends on, then leverages back upward — rather than either accepting the jump uncritically or replacing it with the teacher's own procedure.",
-"grain_size":"lesson",
-"id":"grounding-and-unfolding-facilitation-moves",
-"path":"patterns/grounding-and-unfolding-facilitation-moves.md",
-"status":"draft",
-"title":"Grounding and Unfolding Facilitation Moves",
 "type":"pattern"
 },
 {
@@ -176907,26 +176840,6 @@
 "type":"pattern"
 },
 {
-"canonical":true,
-"description":"Johann Herbart's five-step lesson sequence — review, prepare, present, relate, apply — is one of the earliest systematic lesson-design patterns, built on the premise that new material must be deliberately connected to what a learner already knows.",
-"grain_size":"lesson",
-"id":"herbarts-formal-steps",
-"path":"patterns/herbarts-formal-steps.md",
-"status":"draft",
-"title":"Herbart's Formal Steps",
-"type":"pattern"
-},
-{
-"canonical":true,
-"description":"A science modeling unit that deliberately maintains multiple, complementary model types for the same phenomenon — physical, computational, diagrammatic, embodied, observational — without converging students toward one canonical model, using open-ended facilitation prompts that ask what each model reveals rather than which model is correct.",
-"grain_size":"unit",
-"id":"heterogeneity-seeking-modeling-curriculum",
-"path":"patterns/heterogeneity-seeking-modeling-curriculum.md",
-"status":"draft",
-"title":"Heterogeneity-Seeking Modeling Curriculum",
-"type":"pattern"
-},
-{
 "description":"Madeline Hunter's Effective Teaching Model (also called mastery teaching) combines several direct-instruction techniques into one lesson-length sequence — an anticipatory set, clear presentation in short pieces, whole-class checks for understanding, and brief interspersed independent practice with frequent feedback.",
 "grain_size":"lesson",
 "id":"hunters-effective-teaching-model",
@@ -176958,16 +176871,6 @@
 "path":"patterns/iupui-epportfolio-taxonomy-four-attributes.md",
 "status":"draft",
 "title":"IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact",
-"type":"pattern"
-},
-{
-"canonical":true,
-"description":"Just-in-time learning is the short-form canonical pattern for providing support, information, or practice at the moment it is needed for performance.",
-"grain_size":"lesson",
-"id":"just-in-time-learning",
-"path":"patterns/just-in-time-learning.md",
-"status":"review",
-"title":"Just-in-Time Learning",
 "type":"pattern"
 },
 {
@@ -177208,15 +177111,6 @@
 "type":"pattern"
 },
 {
-"canonical":true,
-"description":"The article presents systematic practice as \\\"a house with many rooms\\\": a spectrum far beyond mechanical drills.",
-"id":"practice-spectrum-drills-to-task-based",
-"path":"patterns/practice-spectrum-drills-to-task-based.md",
-"status":"draft",
-"title":"Spectrum of systematic practice types from communicative drills to role plays, task-based and content-based teaching",
-"type":"pattern"
-},
-{
 "description":"The Sea Turtle Trek packet structures a park field trip as three sequential activity phases: classroom preparation before the trip, hands-on activities conducted at the park, and classroom follow-up afterward.",
 "id":"pre-visit-onsite-post-visit-field-trip-arc",
 "path":"patterns/pre-visit-onsite-post-visit-field-trip-arc.md",
@@ -177251,16 +177145,6 @@
 "path":"patterns/process-oriented-guided-inquiry-learning-pogil.md",
 "status":"review",
 "title":"Process-Oriented Guided Inquiry Learning (POGIL)",
-"type":"pattern"
-},
-{
-"canonical":true,
-"description":"A mathematics task design that deliberately leaves a local assumption (a task condition or the meaning of a lay term) unspecified, so that students generate genuinely contradictory yet individually legitimate answers, then are guided to recognize why an explicit assumption is needed and to revise the task's wording themselves.",
-"grain_size":"lesson",
-"id":"productive-ambiguity-task-design-for-assumptions",
-"path":"patterns/productive-ambiguity-task-design-for-assumptions.md",
-"status":"draft",
-"title":"Productive Ambiguity Task Design for Assumptions",
 "type":"pattern"
 },
 {
@@ -177350,6 +177234,7 @@
 "type":"pattern"
 },
 {
+"aliases":["differentiated-activity-structures-for-inclusive-participation"],
 "canonical":true,
 "description":"The brief characterizes rightful presence by \\\"a fundamental shift in power\\\" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of...",
 "id":"shared-power-co-creation-of-educational-systems",
@@ -177415,16 +177300,6 @@
 "path":"patterns/structured-peer-review.md",
 "status":"review",
 "title":"Structured Peer Review",
-"type":"pattern"
-},
-{
-"canonical":true,
-"description":"A writing-task design that deliberately withholds a detailed structural outline — asking writers only to state their overall goal before drafting — so that spontaneous, minimally-planned sentence production can generate new ideas, at the cost of initial text quality that must be repaired through global revision.",
-"grain_size":"lesson",
-"id":"synthetic-planning-for-discovery-oriented-writing",
-"path":"patterns/synthetic-planning-for-discovery-oriented-writing.md",
-"status":"draft",
-"title":"Synthetic Planning for Discovery-Oriented Writing",
 "type":"pattern"
 },
 {
@@ -177520,7 +177395,7 @@
 "type":"principle"
 },
 {
-"aliases":["plain-english-workplace-materials"],
+"aliases":["plain-english-workplace-materials","provide-peer-authored-syntactically-appropriate-texts"],
 "canonical":true,
 "description":"For a learner whose failure on a content task may be linguistic rather than conceptual, removing avoidable wording barriers while explicitly teaching the few essential terms is expected to improve comprehension of the taught material, with weak evidence for transfer to authentic texts or delayed retention.",
 "id":"accessible-vocabulary-syntax",
@@ -177555,6 +177430,7 @@
 "type":"principle"
 },
 {
+"aliases":["education-around-child-response"],
 "canonical":true,
 "description":"For learners meeting new material in a course, class time spent generating, explaining or applying the content with feedback, rather than only listening, is expected to raise course-end exam and concept-inventory scores, qualified by guidance for novices, the kind of engagement and what else changed with the format.",
 "id":"active-learning",
@@ -177572,7 +177448,7 @@
 "type":"principle"
 },
 {
-"aliases":["adaptive-learning-consistent-with-cognitive-structure","gain-then-time-constant-adaptive-progression","multi-objective-exercise-recommendation-objectives"],
+"aliases":["adaptive-learning-consistent-with-cognitive-structure","gain-then-time-constant-adaptive-progression","multi-objective-exercise-recommendation-objectives","sequential-noisy-estimation-principle","avoid-student-intercepts-for-transfer"],
 "canonical":true,
 "description":"When learners on a cumulative, decomposable task start from different observed responses, choosing each next task, hint or check from the learner's own recent responses (rather than one fixed path) may improve aligned achievement, conditional on how well the responses diagnose the learner, what the adaptation changes, and whether support is withdrawn as performance grows.",
 "id":"adaptive-learning",
@@ -177603,15 +177479,6 @@
 "path":"principles/affective-sequencing-requires-own-principles.md",
 "status":"draft",
 "title":"Do not simply reuse cognitive and psychomotor sequencing principles when sequencing affective learning",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The framework's learning-experiences interdependency example holds that preparation should transition seamlessly into comprehensive induction and mentoring, which should align with ongoing professional growth opportun...",
-"id":"align-professional-learning-with-preparation-and-induction",
-"path":"principles/align-professional-learning-with-preparation-and-induction.md",
-"status":"draft",
-"title":"Align ongoing professional learning content with what was taught during preparation and induction",
 "type":"principle"
 },
 {
@@ -177659,21 +177526,13 @@
 "type":"principle"
 },
 {
+"aliases":["involve-natural-resource-professionals"],
 "canonical":true,
 "description":"For a novice or intermediate learner who brings a specific question or attempt to someone with more domain expertise, a consultation in which the expert has the learner explain first, responds with the least help that works, and does less across a series, followed by applying the advice, is expected to improve unaided performance on that task, though no claim here tests expert access as such.",
 "id":"ask-experts",
 "path":"principles/ask-experts.md",
 "status":"review",
 "title":"Ask Experts",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article reports Vygotsky's assessment principle that a true picture of cognitive development requires measuring both ability levels.",
-"id":"assess-alone-and-assisted-performance",
-"path":"principles/assess-alone-and-assisted-performance.md",
-"status":"draft",
-"title":"Assess children's cognitive development both when performing alone and when assisted",
 "type":"principle"
 },
 {
@@ -177685,7 +177544,7 @@
 "type":"principle"
 },
 {
-"aliases":["formative-assessment-embedded-explicit-reflective-instruction"],
+"aliases":["formative-assessment-embedded-explicit-reflective-instruction","embed-assessment-in-ongoing-instruction"],
 "canonical":true,
 "description":"Assessment evidence gathered during instruction is expected to support learning when teacher and learner read it against shared criteria, under stakes that let partial understanding show, with a revision step before the outcome is judged.",
 "id":"assessment-for-learning",
@@ -177722,15 +177581,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"The article argues that to be maximally applicable, a learner model needs to adapt to student differences without requiring student parameters estimated from prior data.",
-"id":"avoid-student-intercepts-for-transfer",
-"path":"principles/avoid-student-intercepts-for-transfer.md",
-"status":"draft",
-"title":"Avoid fixed or random student intercepts in learner models intended to transfer to new student populations",
-"type":"principle"
-},
-{
 "description":"The article recommends designing inquiry activities by specifying goals first and then building the activity to convey them.",
 "id":"backward-design-goals-first-inquiry",
 "path":"principles/backward-design-goals-first-inquiry.md",
@@ -177747,15 +177597,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"The article concludes that instrument developers must attend to how situations and sources of control are represented in their items, because \\\"the balance of situations and sources of control items will affect the sco...",
-"id":"balance-situations-sources-control-items",
-"path":"principles/balance-situations-sources-control-items.md",
-"status":"draft",
-"title":"Developers of locus of control instruments should account for the balance of situations and sources of control items, which affects obtained scores",
-"type":"principle"
-},
-{
 "description":"This principle holds that constraints in level editors should steer creators toward operating with an end-goal in mind while preserving enough freedom to avoid disengagement.",
 "id":"balanced-authoring-constraints",
 "path":"principles/balanced-authoring-constraints.md",
@@ -177764,29 +177605,11 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"When applying cognitive diagnosis in a complex domain, item attributes should be derived from a problem-solving model built independently of the items, rather than listed intuitively.",
-"id":"base-attributes-on-cognitive-model",
-"path":"principles/base-attributes-on-cognitive-model.md",
-"status":"draft",
-"title":"Base diagnostic item attributes on an independently constructed cognitive model of problem solving",
-"type":"principle"
-},
-{
 "description":"The monograph recommends that teacher educators design or select courses describing \\\"the relationships ofmen with men, machines with machines, and men with machines,\\\" including fundamentals of human interaction at wor...",
 "id":"behavioral-science-coursework-human-side-enterprise",
 "path":"principles/behavioral-science-coursework-human-side-enterprise.md",
 "status":"draft",
 "title":"Require prospective industrial arts teachers to study behavioral and social science coursework on the human side of enterprise",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues that task-based language testing (e.g., IELTS) and task-based language teaching should be bound together because assessment exerts a wash-back effect on teaching.",
-"id":"bind-teaching-testing-task-based-washback",
-"path":"principles/bind-teaching-testing-task-based-washback.md",
-"status":"draft",
-"title":"Bind language teaching and language testing through task-based assessment to harness wash-back",
 "type":"principle"
 },
 {
@@ -177805,15 +177628,6 @@
 "path":"principles/bullying-prevention-and-intervention.md",
 "status":"draft",
 "title":"Bullying Prevention and Intervention",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"Cummins specifies three components an instructional program in bilingual, ESL or mainstream classes should address to promote CALP: cognitively challenging instruction requiring higher-order thinking, integration of a...",
-"id":"calp-instruction-three-components",
-"path":"principles/calp-instruction-three-components.md",
-"status":"draft",
-"title":"Instruction promoting bilingual students' CALP should integrate cognitive challenge, academic content, and critical language awareness",
 "type":"principle"
 },
 {
@@ -177870,15 +177684,6 @@
 "path":"principles/clear-structure.md",
 "status":"review",
 "title":"Clear Structure",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"Among its guiding assumptions, the brief states that \\\"Environments are more conducive to learning and personal growth when co-created with and for students from identity groups that most frequently experience inequiti...",
-"id":"co-create-environments-with-experienced-inequity-groups",
-"path":"principles/co-create-environments-with-experienced-inequity-groups.md",
-"status":"draft",
-"title":"Co-create learning environments with and for students from identity groups that most frequently experience inequities",
 "type":"principle"
 },
 {
@@ -177956,15 +177761,7 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"The article argues that because learning and freedom are socially mediated, collaborative creation should be central to transformative pedagogy.",
-"id":"collaboration-paramount-pedagogy-collectivity",
-"path":"principles/collaboration-paramount-pedagogy-collectivity.md",
-"status":"draft",
-"title":"Make collaboration paramount in pedagogy because humanity is intrinsically collective",
-"type":"principle"
-},
-{
+"aliases":["collaboration-paramount-pedagogy-collectivity","learners-as-learning-resources-principle"],
 "canonical":true,
 "description":"For learners who can take part in the task, working jointly so that each member must engage with the others' reasoning is expected to raise individually measured understanding over working alone on the same task, for goals that gain from explaining and reconciling ideas; co-presence, equal participation or group satisfaction alone are not expected to show it.",
 "id":"collaborative-learning",
@@ -178000,6 +177797,7 @@
 "type":"principle"
 },
 {
+"aliases":["engage-teachers-literacy-events-learner-to-learner","situated-account-plc-design"],
 "canonical":true,
 "description":"For adults and professionals entering a shared practice, sustained and structured participation with more experienced members, under norms of trust and critical inquiry, is proposed to change their practice and understanding over a term or more, though the wiki holds only descriptive, qualitative and argued evidence for it.",
 "id":"communities-of-practice",
@@ -178025,15 +177823,6 @@
 "path":"principles/community-of-inquiry.md",
 "status":"review",
 "title":"Community of Inquiry",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues that teacher education should aim to prepare novices and help advanced beginners become competent, since competence 'can be achieved by the vast majority of graduates of our teacher training colleges'.",
-"id":"competence-is-realistic-goal-for-teacher-preparation",
-"path":"principles/competence-is-realistic-goal-for-teacher-preparation.md",
-"status":"draft",
-"title":"Pursue competence, not expertise, as the realistic goal for the vast majority of teacher education graduates",
 "type":"principle"
 },
 {
@@ -178071,15 +177860,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Group creative tasks need shared domain knowledge to argue from, materials that are accessible and revisable by all members, and facilitation that distributes authority by merit rather than by social dominance.",
-"id":"conditions-for-productive-group-creativity",
-"path":"principles/conditions-for-productive-group-creativity.md",
-"status":"draft",
-"title":"Conditions for Productive Group Creativity",
-"type":"principle"
-},
-{
 "description":"The article recommends that group division in a peer-teaching flipped classroom account for learner background variables.",
 "id":"consider-background-in-ptfc-grouping",
 "path":"principles/consider-background-in-ptfc-grouping.md",
@@ -178097,30 +177877,12 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"This principle holds that a single set of teacher and leader standards should govern effectiveness evaluation, recruitment and hiring, and preparation program entry and graduation decisions.",
-"id":"consistent-standards-across-evaluation-recruitment-preparation",
-"path":"principles/consistent-standards-across-evaluation-recruitment-preparation.md",
-"status":"draft",
-"title":"Apply the same educator standards across evaluation, recruitment and hiring, and preparation program selection",
-"type":"principle"
-},
-{
 "aliases":["constructivist-learning"],
 "description":"Constructivism, as an instructional principle, emphasizes that learners build understanding by connecting new information to prior knowledge through active interpretation, explanation, and application.",
 "id":"constructivism",
 "path":"principles/constructivism.md",
 "status":"review",
 "title":"Constructivism",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The guide instructs curriculum developers to select content on the basis of the competencies to be developed, warning that \\\"Too often in the past the reverse procedure has been practiced, often resulting in obsolete o...",
-"id":"content-selected-from-competencies",
-"path":"principles/content-selected-from-competencies.md",
-"status":"draft",
-"title":"Select content from competencies, not the reverse",
 "type":"principle"
 },
 {
@@ -178157,6 +177919,7 @@
 "type":"principle"
 },
 {
+"aliases":["base-attributes-on-cognitive-model"],
 "canonical":true,
 "description":"A decision about a learner is expected to be more accurate when the score matches the question asked: a criterion-referenced report against skills defined in advance for what a learner can do and should be taught next, a norm-referenced score read against a fitting norm group (and never alone) for relative standing and selection, and a diagnostic profile for why a learner struggles; no claim here tests the relationship.",
 "id":"criterion-and-norm-referenced-testing",
@@ -178182,7 +177945,7 @@
 "type":"principle"
 },
 {
-"aliases":["culturally-responsive-adult-curriculum"],
+"aliases":["culturally-responsive-adult-curriculum","render-ecological-crisis-concrete-embodied-proximal"],
 "canonical":true,
 "description":"For learners whose instruction draws on contexts they do not recognise or see no stake in, building some tasks, examples and assessments from their own cultural, community, family and work experience, tied to the concept taught, is expected to raise engagement, open sharing of developing thinking and the competence an assessment can see; no claim here compares it with the same content taught without that connection.",
 "id":"cultural-life-experiences-connections",
@@ -178192,21 +177955,13 @@
 "type":"principle"
 },
 {
+"aliases":["gender-equitable-classroom-interaction"],
 "canonical":true,
 "description":"For learners whose home or community norms of talk, questioning, competition, time and conduct differ from the classroom's, widening the classroom's norms (longer wait time, private or all-student response, cooperative options, conventions taught explicitly) and reading a departure from a norm as a possible difference of convention before judging ability or defiance is expected to make questioning show more of what learners know and to raise participation and reduce disciplinary exclusion; no claim here tests this, though claims test wait time, cooperative structures and empathic discipline in general populations.",
 "id":"culturally-responsive-classroom-norms",
 "path":"principles/culturally-responsive-classroom-norms.md",
 "status":"review",
 "title":"Culturally Responsive Classroom Norms",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"Deep knowledge of why a curriculum's activities and question sequences are designed the way they are — not just the content itself — equips teachers to respond flexibly to student thinking within research-based instructional materials, rather than treating the curriculum as a fixed script.",
-"id":"curricular-knowledge-as-a-resource-for-responsiveness",
-"path":"principles/curricular-knowledge-as-a-resource-for-responsiveness.md",
-"status":"draft",
-"title":"Curricular Knowledge as a Resource for Responsiveness",
 "type":"principle"
 },
 {
@@ -178223,24 +177978,6 @@
 "path":"principles/curriculum-flexibility-for-responsive-student-coaches.md",
 "status":"draft",
 "title":"Leave flexibility within the curriculum so student coaches can respond to emerging student needs in CEL/CBL courses",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues, citing McQuillan, that \\\"Datafication itself is a rhetorical move, because it is saying that the important aspects of reality are ones that can be expressed as data.\\\" Reframing datafication as rheto...",
-"id":"datafication-as-rhetoric-metadistrust",
-"path":"principles/datafication-as-rhetoric-metadistrust.md",
-"status":"draft",
-"title":"Treat datafication as one form of rhetoric and practice metadistrust toward data-based arguments",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article endorses Subkoviak's (1988) guidance that tests used for serious decisions should achieve an agreement coefficient exceeding 0.85, while arguing the acceptable value should be a programmatic policy decisio...",
-"id":"dc-estimate-guideline-085",
-"path":"principles/dc-estimate-guideline-085.md",
-"status":"draft",
-"title":"Target a decision consistency estimate of at least 0.85 for high stakes exams while interpreting lower values in light of cut score location, reliability, and population heterogeneity",
 "type":"principle"
 },
 {
@@ -178304,15 +178041,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"The article recommends moving beyond instrumental theories of interdisciplinarity toward a conceptual approach grounded in dialogism, in which integration is a form of construction or authoring that creates meanings u...",
-"id":"dialogic-conceptual-interdisciplinarity-reform",
-"path":"principles/dialogic-conceptual-interdisciplinarity-reform.md",
-"status":"draft",
-"title":"Adopt a conceptual, dialogic approach to interdisciplinarity rather than a reductive instrumental one to strengthen integrative learning",
-"type":"principle"
-},
-{
 "description":"The article holds that dialogue is the most important ingredient in the whole process of understanding: students exchange experiences and try to understand the film from each other's perspectives, which can assist the...",
 "id":"dialogue-safe-environment-bildung-film-education",
 "path":"principles/dialogue-safe-environment-bildung-film-education.md",
@@ -178341,31 +178069,13 @@
 "type":"principle"
 },
 {
+"aliases":["recognize-imagination-in-learning-and-knowing"],
 "canonical":true,
 "description":"Disciplinary literacy teaches learners to read, write, and reason in the ways that are specific to a discipline — how historians source documents, how scientists evaluate evidence, how mathematicians justify claims — rather than applying generic comprehension strategies to all texts.",
 "id":"disciplinary-literacy",
 "path":"principles/disciplinary-literacy.md",
 "status":"review",
 "title":"Disciplinary Literacy",
-"type":"principle"
-},
-{
-"aliases":["portfolio-review-nontraditional-contributions-rigor"],
-"canonical":true,
-"description":"Because publicly engaged scholarship manifests differently across disciplinary groups, institutions should move beyond universal, institution-wide policies.",
-"id":"discipline-specific-engaged-scholarship-policies",
-"path":"principles/discipline-specific-engaged-scholarship-policies.md",
-"status":"draft",
-"title":"Replace one-size-fits-all engagement policies with discipline-specific RPT policies, professional development, and institutional support",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"Sharon Bailin's plenary address extends the standard skills-and-dispositions account of critical thinking by requiring that students understand disciplines as modes of inquiry.",
-"id":"disciplines-as-modes-of-inquiry",
-"path":"principles/disciplines-as-modes-of-inquiry.md",
-"status":"draft",
-"title":"Help students understand disciplines as modes of inquiry rather than static bodies of information",
 "type":"principle"
 },
 {
@@ -178422,24 +178132,6 @@
 },
 {
 "canonical":true,
-"description":"To counter apocalypticism that emerges when we fail to imagine life beyond oppressive structures, the article argues that \\\"an ecologically-attuned CCP must explicitly facilitate the imagining of more emancipatory futu...",
-"id":"ecologically-just-speculative-futurity-for-praxis",
-"path":"principles/ecologically-just-speculative-futurity-for-praxis.md",
-"status":"draft",
-"title":"Cultivate ecologically just speculative futurity as requisite to political praxis",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"In the reconstructed lectures Mead contrasts old education, which he argues neglected and even wiped out the attitude of the child, with an approach centered on the learner's response.",
-"id":"education-around-child-response",
-"path":"principles/education-around-child-response.md",
-"status":"draft",
-"title":"Organize education around the child's response to material rather than the material provided by elders",
-"type":"principle"
-},
-{
-"canonical":true,
 "description":"Educational readiness has two complementary meanings — a student's preparedness for the activities and expectations of school, and a teacher's or school's responsibility to adjust instruction to meet students where they actually are.",
 "id":"educational-readiness",
 "path":"principles/educational-readiness.md",
@@ -178456,6 +178148,7 @@
 "type":"principle"
 },
 {
+"aliases":["natural-and-logical-consequences"],
 "canonical":true,
 "description":"For a group of learners in a shared space, a classroom-wide plan put in place before problems arise and kept consistently (relationships, taught rules and routines, unobtrusive redirection, a short consistent response to persistent misbehavior, self-control taught with external controls planned to fade, and corrections checked for cultural meaning) is expected to reduce disruption and raise engaged time more than improvised practice; one meta-analysis tests planned universal management against usual practice, but no claim tests the six-part plan or any of its traditions.",
 "id":"effective-classroom-management-plan",
@@ -178465,7 +178158,7 @@
 "type":"principle"
 },
 {
-"aliases":["model-and-monitor-elaborative-interrogation-answer-quality","precise-meaningful-elaboration-facilitates-encoding","promote-self-generated-elaboration-for-expertise"],
+"aliases":["model-and-monitor-elaborative-interrogation-answer-quality","precise-meaningful-elaboration-facilitates-encoding","promote-self-generated-elaboration-for-expertise","teach-information-with-prior-related-knowledge"],
 "canonical":true,
 "description":"Elaborative reasoning asks learners to go beyond restating material by generating connections, explanations, examples, and inferences that tie new content to prior knowledge.",
 "id":"elaborative-reasoning",
@@ -178483,38 +178176,11 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"The guide's third assessment type integrates assessment into the instructional process so that evidence of competency is gathered while students do mathematics, not in a separate sitting.",
-"id":"embed-assessment-in-ongoing-instruction",
-"path":"principles/embed-assessment-in-ongoing-instruction.md",
-"status":"draft",
-"title":"Embed competency assessment in ongoing instruction rather than administering it as a separate test event",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The principle holds that clinical training curricula should embed basic science and mechanisms of disease as their own unit, integrated with practicing clinical skills and society guidelines, so that learners can reco...",
-"id":"embed-basic-science-unit-clinical-curricula",
-"path":"principles/embed-basic-science-unit-clinical-curricula.md",
-"status":"draft",
-"title":"Embed basic science and mechanisms of disease as a distinct unit in clinical curricula",
-"type":"principle"
-},
-{
 "description":"The paper argues that Indigenous knowledge should be incorporated into curricula with Indigenous people holding the right to teach their own ways of knowing, and that universities should recognise community expertise...",
 "id":"embed-local-indigenous-knowledge-community-experts",
 "path":"principles/embed-local-indigenous-knowledge-community-experts.md",
 "status":"draft",
 "title":"Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The author argues that coaching relationships begin when coaches join teachers as fellow readers and writers rather than experts.",
-"id":"engage-teachers-literacy-events-learner-to-learner",
-"path":"principles/engage-teachers-literacy-events-learner-to-learner.md",
-"status":"draft",
-"title":"Engage teachers in literacy events learner-to-learner to build trusting coaching relationships",
 "type":"principle"
 },
 {
@@ -178527,30 +178193,13 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"The article argues that an ecologically attuned CCP should treat environmental justice and social justice as intimately entangled rather than discrete, so that \\\"CCP should figure efforts toward human and more-than-hum...",
-"id":"entangle-environmental-and-social-justice",
-"path":"principles/entangle-environmental-and-social-justice.md",
-"status":"draft",
-"title":"Figure environmental justice and social justice as co-constitutive projects toward ecological justice",
-"type":"principle"
-},
-{
+"aliases":["nexus-of-justification-and-application","disciplines-as-modes-of-inquiry","datafication-as-rhetoric-metadistrust"],
 "canonical":true,
 "description":"When learners must judge claims, explicit teaching and practice of the standards for a particular kind of evidence (checking who is behind a web source, judging a study's methods, justifying an argument with evidence) is associated with better judgments of that kind, measured up to five weeks later; the gains have not been shown to carry over to other kinds of evidence.",
 "id":"epistemic-cognition",
 "path":"principles/epistemic-cognition.md",
 "status":"review",
 "title":"Epistemic Cognition",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues teaching should move from authoritative conducting to equal association and communication: in traditional teaching teachers hold a sovereign authoritative position and do not respect or care for stu...",
-"id":"equal-democratic-teacher-student-relations",
-"path":"principles/equal-democratic-teacher-student-relations.md",
-"status":"draft",
-"title":"Change teaching from authoritative conducting to equal association and communication between teachers and students",
 "type":"principle"
 },
 {
@@ -178587,15 +178236,6 @@
 "path":"principles/evidence-based-teaching-and-scientific-reasoning.md",
 "status":"draft",
 "title":"Evidence-Based Teaching and Scientific Reasoning",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"This principle holds that critical communication pedagogy, alongside emancipating human life from colonial, imperial, and capitalist domination, \\\"must also expand its sphere of concern to include more-than-human exist...",
-"id":"expand-ccp-sphere-of-concern-to-more-than-human",
-"path":"principles/expand-ccp-sphere-of-concern-to-more-than-human.md",
-"status":"draft",
-"title":"Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy",
 "type":"principle"
 },
 {
@@ -178725,15 +178365,6 @@
 },
 {
 "canonical":true,
-"description":"Because congruence of messages is context-dependent, culturally effective functioning requires the ability to communicate both congruently and incongruently and to judge which is appropriate in a given situation.",
-"id":"flexible-congruence-context-appropriateness",
-"path":"principles/flexible-congruence-context-appropriateness.md",
-"status":"draft",
-"title":"Teach learners to be both congruent and incongruent and to know when each is appropriate",
-"type":"principle"
-},
-{
-"canonical":true,
 "description":"The article proposes that \\\"teachers should employ different and flexible error treatment strategies in accordance with the teaching objectives, students' linguistic competence, their affective factors and the effectiv...",
 "id":"flexible-error-treatment-strategies",
 "path":"principles/flexible-error-treatment-strategies.md",
@@ -178839,15 +178470,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"For curriculum planning, the digest recommends that programs \\\"start by establishing long range oral communication goals and objectives that identify pronunciation needs as well as speech functions and the contexts in...",
-"id":"functional-intelligibility-goals-for-pronunciation-curriculum",
-"path":"principles/functional-intelligibility-goals-for-pronunciation-curriculum.md",
-"status":"draft",
-"title":"Set realistic long-range oral communication goals aiming for functional intelligibility, functional communicability, and enhanced self-confidence, based on learner needs analysis",
-"type":"principle"
-},
-{
 "aliases":["learning-embedded-in-the-core-mechanic"],
 "canonical":true,
 "description":"For a learner who has not yet reached a stated capability, a game whose winning move is the target reasoning, with modelling for novices and a debrief that asks for the reasoning outside the game, is expected to improve aligned outside-game performance; enjoyment and game score are separate outcomes, and no claim here tests games as a whole against non-game instruction.",
@@ -178876,29 +178498,11 @@
 },
 {
 "canonical":true,
-"description":"Even teachers who intend to interact with boys and girls equally tend, on average and without realizing it, to give boys more attention, more \"public\" visibility, and more credit for correct knowledge — patterns that are trends with many individual exceptions, and that a teacher who consciously attends to them can change.",
-"id":"gender-equitable-classroom-interaction",
-"path":"principles/gender-equitable-classroom-interaction.md",
-"status":"draft",
-"title":"Gender-Equitable Classroom Interaction",
-"type":"principle"
-},
-{
-"canonical":true,
 "description":"When a learner holds a specific, challenging goal for a task, with a plan for reaching it and feedback to check progress against it, effort and task performance may rise, qualified by task complexity and the learner's expertise (process goals before outcome goals for novices), commitment and self-efficacy, and whether the outcome measured is behaviour, regulation or learning.",
 "id":"goal-setting-monitoring",
 "path":"principles/goal-setting-monitoring.md",
 "status":"review",
 "title":"Goal Setting & Monitoring",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article recommends that ER material \\\"should be fun, easy, and frequent\\\", since enjoyment drives voluntary reading, appropriate difficulty prevents frustration, and frequency builds a lasting reading habit.",
-"id":"graded-readers-fun-easy-frequent-material-principle",
-"path":"principles/graded-readers-fun-easy-frequent-material-principle.md",
-"status":"draft",
-"title":"Choose graded readers over authentic texts and children's books, keeping material fun, easy, and frequent",
 "type":"principle"
 },
 {
@@ -178910,16 +178514,6 @@
 "type":"principle"
 },
 {
-"aliases":["align-grammar-instruction-with-learner-beliefs"],
-"canonical":true,
-"description":"The bibliography reports, citing Celce-Murcia (1985), that whether to teach grammar should be based primarily upon the need of the learner.",
-"id":"grammar-decisions-based-on-learner-variables",
-"path":"principles/grammar-decisions-based-on-learner-variables.md",
-"status":"draft",
-"title":"Base decisions about teaching grammar primarily on learner needs and variables (Celce-Murcia)",
-"type":"principle"
-},
-{
 "aliases":["graphic-organizers-scaffold-comprehension-principle","semantic-mapping-principle"],
 "canonical":true,
 "description":"For learners who do not yet hold a material's structure, a diagram whose layout matches that structure, provided first and later built and explained by the learner, is expected to improve comprehension and retention over text alone; concept-map meta-analyses test this for node-link maps, and no claim tests other organizer forms, partial organizers or fading.",
@@ -178927,15 +178521,6 @@
 "path":"principles/graphic-organizers.md",
 "status":"review",
 "title":"Graphic Organizers",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues that where EDI initiatives exhibit an explicit commitment to disrupting systems of power and oppression, they are better positioned to address the root causes of the problems they intend to resolve,...",
-"id":"ground-edi-in-disrupting-oppression",
-"path":"principles/ground-edi-in-disrupting-oppression.md",
-"status":"draft",
-"title":"Ground EDI initiatives in an explicit commitment to disrupting systems of power and oppression rather than inclusion alone",
 "type":"principle"
 },
 {
@@ -178966,7 +178551,7 @@
 "type":"principle"
 },
 {
-"aliases":["combine-communicative-with-traditional-methods","combine-pb-and-simulation-il-instruction","teach-scientist-and-poet-truths"],
+"aliases":["combine-communicative-with-traditional-methods","combine-pb-and-simulation-il-instruction","teach-scientist-and-poet-truths","lateral-transmission-alongside-vertical"],
 "canonical":true,
 "description":"Applying Newton's third law as a metaphor, the essay argues every educational change provokes an equal and opposite reaction, so \\\"the best course may be to strike a balance between competing ideas\\\".",
 "id":"harmonize-opposites-in-educational-change",
@@ -179018,6 +178603,7 @@
 "type":"principle"
 },
 {
+"aliases":["ecologically-just-speculative-futurity-for-praxis","expand-ccp-sphere-of-concern-to-more-than-human"],
 "canonical":true,
 "description":"The article presents two further approaches within the pragmatic progressive stance.",
 "id":"humanistic-radical-adult-education",
@@ -179112,15 +178698,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Teach monitoring and planning together with scientific-reasoning skills (hypothesis generation, evidence generation, evidence evaluation) rather than as separate modules, because spontaneous self-regulation during inquiry is rare and its absence tracks with lower-quality argumentation.",
-"id":"integrate-self-regulation-with-scientific-reasoning-instruction",
-"path":"principles/integrate-self-regulation-with-scientific-reasoning-instruction.md",
-"status":"draft",
-"title":"Integrate Self-Regulation Instruction with Scientific Reasoning Instruction",
-"type":"principle"
-},
-{
 "description":"The article argues that separate lecture-and-advice oriented value education classes are unnecessary in an integrated, process-based system.",
 "id":"integrated-constructivist-value-education-transaction",
 "path":"principles/integrated-constructivist-value-education-transaction.md",
@@ -179163,15 +178740,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Because community-based environmental study depends on local information and technical accuracy, the guide urges leaders to recruit a local natural resource expert.",
-"id":"involve-natural-resource-professionals",
-"path":"principles/involve-natural-resource-professionals.md",
-"status":"draft",
-"title":"Involve local natural resource professionals in youth environmental learning programs",
-"type":"principle"
-},
-{
 "description":"The article recommends an IRT framework for its repeated measurement linking design because IRT \\\"easily allows for incomplete designs and for equality constraints between item parameters.\\\" The author notes that when n...",
 "id":"irt-preferred-for-repeated-measurement-linking",
 "path":"principles/irt-preferred-for-repeated-measurement-linking.md",
@@ -179189,15 +178757,7 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Because critical thinking is the educational cognate of rationality, educators who teach students to seek reasons and justifications must themselves be able to justify their commitment to critical thinking; otherwise...",
-"id":"justify-rationality-to-justify-critical-thinking-teaching",
-"path":"principles/justify-rationality-to-justify-critical-thinking-teaching.md",
-"status":"draft",
-"title":"Educational efforts to foster critical thinking require a justification of rationality",
-"type":"principle"
-},
-{
+"aliases":["make-frame-slots-explicit-history-explanations"],
 "canonical":true,
 "description":"For a learner who holds a topic as unconnected facts and must later use it for tasks that cut across it, teaching the content with an explicit organization built for those tasks, and having learners sort into, explain and rebuild that organization from memory, is expected to improve integrative tasks but not single-detail tasks; one small 1979 physics report tests the core contrast, and no claim tests other kinds of organization or a course-long framework.",
 "id":"knowledge-organization",
@@ -179215,15 +178775,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Drawing on Mead's 1958-1959 essays, the report describes a shift from purely vertical teaching, in which experienced teachers transmit the tried and true to inexperienced pupils, toward \\\"the lateral transmission, to e...",
-"id":"lateral-transmission-alongside-vertical",
-"path":"principles/lateral-transmission-alongside-vertical.md",
-"status":"draft",
-"title":"Balance vertical transmission with lateral transmission so all members of society continually learn from new discoveries",
-"type":"principle"
-},
-{
 "description":"The article recommends that as schools and districts acquire digital multimedia instructional materials for EBs' second language learning, leaders responsible for selecting and creating materials should have set crite...",
 "id":"leader-criteria-sol-alignment-digital-materials",
 "path":"principles/leader-criteria-sol-alignment-digital-materials.md",
@@ -179238,15 +178789,6 @@
 "path":"principles/learner-control-information-flow-with-on-demand-tools.md",
 "status":"draft",
 "title":"Keep the learner in control of the information flow with on-demand tools and supports",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article's fifth assumption holds that other learners, teachers, family members, community people, employers, and technology tools are learning resources, and that learners should gain control over selecting and ev...",
-"id":"learners-as-learning-resources-principle",
-"path":"principles/learners-as-learning-resources-principle.md",
-"status":"draft",
-"title":"Treat other people and technology as learning resources whose selection and evaluation learners control",
 "type":"principle"
 },
 {
@@ -179301,15 +178843,6 @@
 },
 {
 "canonical":true,
-"description":"The principle holds that explanations in history and social studies textbooks should make the content of the Goal, Problem, Plan, Action, and Outcome slots and the relationships among them explicit, because psychologi...",
-"id":"make-frame-slots-explicit-history-explanations",
-"path":"principles/make-frame-slots-explicit-history-explanations.md",
-"status":"draft",
-"title":"Make frame slot content and relationships explicit in historical explanations, especially for younger readers",
-"type":"principle"
-},
-{
-"canonical":true,
 "description":"When a learner's response on a unit check falls short of a stated criterion, corrective support and a further check before advancing may raise later unit and course performance, qualified by the validity of the check, the quality of the correction, the time it costs and the horizon assessed.",
 "id":"mastery-learning",
 "path":"principles/mastery-learning.md",
@@ -179336,15 +178869,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"The report describes Mead's redefinition of educational stages: primary education teaches all children what they need to be fully human, including basic skills of reading, writing, numbers, money, geography, and commu...",
-"id":"mead-lifelong-redefinition-primary-secondary",
-"path":"principles/mead-lifelong-redefinition-primary-secondary.md",
-"status":"draft",
-"title":"Redefine primary and secondary education as lifelong stages so adults retain the right to study throughout life",
-"type":"principle"
-},
-{
 "description":"The article concludes that neither acknowledging choices among culturally established pedagogical perspectives nor experiencing alternative pedagogical practices alone suffices for preservice teachers to examine their...",
 "id":"mediate-cultural-choices-with-personal-meanings",
 "path":"principles/mediate-cultural-choices-with-personal-meanings.md",
@@ -179353,6 +178877,7 @@
 "type":"principle"
 },
 {
+"aliases":["practice-play-modularization"],
 "canonical":true,
 "description":"For a learner who can perform something at the end of a session, planning later encounters that make them reactivate and use the material, and judging security only on a delayed unaided check, is expected to leave more available at the horizon than treating one fluent exposure as finished; no claim tests this as a whole, only its spacing and retrieval routes and a post-learning exercise-timing effect.",
 "id":"memory-consolidation",
@@ -179486,6 +179011,7 @@
 "type":"principle"
 },
 {
+"aliases":["assess-alone-and-assisted-performance"],
 "canonical":true,
 "description":"When one assessment method can mislead about a learner (through reading load, an unfamiliar symbol system, anxiety or a capability that shows only with help), a judgement drawn from two or more methods sampling the same goal under common, calibrated criteria is expected to be more accurate than one drawn from a single method, and bounded choice of format to raise motivation rather than achievement; no claim here tests the relationship as a whole.",
 "id":"multiple-methods-of-assessment",
@@ -179503,38 +179029,11 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Natural consequences arise on their own from an action, and logical consequences are imposed by others but have an obvious connection to it; both work better than punishment at reducing misbehavior because they focus on repairing the future rather than blaming the past, though they fail when the misbehavior is too serious, or when the student's motive is power rather than attention.",
-"id":"natural-and-logical-consequences",
-"path":"principles/natural-and-logical-consequences.md",
-"status":"draft",
-"title":"Natural and Logical Consequences",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The editors maintain that students should see course content within a nexus of justification and application: content must be learned in relation to the methodological and substantive principles that make it justifiab...",
-"id":"nexus-of-justification-and-application",
-"path":"principles/nexus-of-justification-and-application.md",
-"status":"draft",
-"title":"Teach undergraduate content within a nexus of justification and application",
-"type":"principle"
-},
-{
 "description":"The report recommends that administrators, instructional leaders, and teachers designing professional development \\\"might consider a NIC or incorporating features of NICs.\\\" Interview analysis indicated NICs may be usef...",
 "id":"nic-instructionally-focused-pd-model",
 "path":"principles/nic-instructionally-focused-pd-model.md",
 "status":"draft",
 "title":"Use instructionally focused networked improvement communities as professional development: connect work to teachers' classrooms, enable teacher collaboration, and build accountability through PDSA testing",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues against evaluation schemes that require an app to meet a minimum score or all criteria, because apps serve different purposes for different learners.",
-"id":"no-universal-threshold-app-evaluation",
-"path":"principles/no-universal-threshold-app-evaluation.md",
-"status":"draft",
-"title":"Evaluate apps against criteria relevant to their purpose and the learner's needs, not against a universal pass threshold",
 "type":"principle"
 },
 {
@@ -179587,24 +179086,6 @@
 "path":"principles/open-licensing-teachers-as-designers.md",
 "status":"draft",
 "title":"Use open-licensed educational computer models so anyone can freely access and modify resources, building teachers' professionalism as designers",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues that because the home environment cannot supply the natural oral-aural stage for a foreign language, \\\"schools must take the place of the home environment and make sure that learners are competent at...",
-"id":"oral-aural-before-literacy-foreign-language",
-"path":"principles/oral-aural-before-literacy-foreign-language.md",
-"status":"draft",
-"title":"Foreign language instruction must establish oral-aural competency before teaching literacy",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The paper draws an educational implication from the four-stage acquisition sequence: forms like 'corned,' 'goed' and 'taked' arise from overgeneralization of a rule and signal that the child has gained important under...",
-"id":"overgeneralizations-as-evidence-of-progress",
-"path":"principles/overgeneralizations-as-evidence-of-progress.md",
-"status":"draft",
-"title":"Treat children's overgeneralized forms as evidence of progress rather than as errors or signs of weakness",
 "type":"principle"
 },
 {
@@ -179685,15 +179166,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"The article argues that perceived \\\"giftedness\\\" operates mainly by giving children \\\"access to superior training resources, resulting in developmental advantages\\\": parents who see talent arrange early instruction, teach...",
-"id":"perceived-giftedness-confers-training-resources",
-"path":"principles/perceived-giftedness-confers-training-resources.md",
-"status":"draft",
-"title":"Treat perceived giftedness as access to superior training resources, and define the giftedness construct explicitly before labeling",
-"type":"principle"
-},
-{
 "description":"In sustained one-on-one instruction, maintain an autonomy-supportive teaching style even when a student initially resists it, rather than reverting to directive control at the first sign of pushback — consistency over many sessions, not immediate compliance, is what shifts the interaction toward a more productive pattern.",
 "id":"persistent-autonomy-support-during-resistance",
 "path":"principles/persistent-autonomy-support-during-resistance.md",
@@ -179763,24 +179235,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Drawing on Willis (2007), the review argues that because dopamine is associated with attention, memory, learning, and executive function, \\\"when the brain releases dopamine in expectation of pleasurable experience, thi...",
-"id":"pleasurable-engaging-learning-supports-dopamine-mediated-processing",
-"path":"principles/pleasurable-engaging-learning-supports-dopamine-mediated-processing.md",
-"status":"draft",
-"title":"Make learning pleasurable and engaging, because anticipated pleasure releases dopamine that supports processing of new information",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The digest reports that as programmed instruction's original prescriptions were questioned, Popham (1971) broadened and reduced them to four principles: \\\"provide relevant practice for the learner\\\", \\\"provide knowledge...",
-"id":"popham-four-instructional-development-principles",
-"path":"principles/popham-four-instructional-development-principles.md",
-"status":"draft",
-"title":"Popham's four broadened principles for instructional products",
-"type":"principle"
-},
-{
 "description":"Instructional clarity is \\\"a cluster of instructor behaviors that contains an appropriate use of keys, links, framing statements, focusing and examples...",
 "id":"positive-clarity-moves-design-principle",
 "path":"principles/positive-clarity-moves-design-principle.md",
@@ -179807,29 +179261,11 @@
 },
 {
 "canonical":true,
-"description":"Humm's overview draws on Piaget's practice play and Bruner's modularization: skills consolidate into streamlined, efficient, transferable forms over time, and unmodularized actions perform poorly under pressure.",
-"id":"practice-play-modularization",
-"path":"principles/practice-play-modularization.md",
-"status":"draft",
-"title":"Allow practice play in relaxed conditions so skills can become modularized",
-"type":"principle"
-},
-{
-"canonical":true,
 "description":"For a reader about to meet an expository text whose central ideas they do not yet know, attempting a few aligned questions before reading and checking the attempts against the text afterwards is expected to improve later memory of the questioned content over reading alone, possibly at some cost to unquestioned content; one laboratory claim tests this with undergraduates, and no claim tests its classroom, comprehension or purpose-setting forms.",
 "id":"pre-reading-questioning",
 "path":"principles/pre-reading-questioning.md",
 "status":"review",
 "title":"Pre-reading Questioning",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article advises that \\\"Practitioners might want to strongly consider aided systems over manual signs, particularly for children with fine motor limitations.\\\" Aided systems such as PE and SGDs enable children to acq...",
-"id":"prefer-aided-systems-over-manual-signs",
-"path":"principles/prefer-aided-systems-over-manual-signs.md",
-"status":"draft",
-"title":"Strongly consider aided AAC systems over manual signs, particularly for children with fine motor limitations",
 "type":"principle"
 },
 {
@@ -179854,15 +179290,6 @@
 "path":"principles/preschool-curricula-ef-tom-training.md",
 "status":"draft",
 "title":"Preschool curricula should include executive function (and theory of mind) training to foster language development",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The principle holds that building a culture of true belonging must begin \\\"with the presumption of the rightful presence and inherent value of the disenfranchised.\\\" Inherent value means a person's value is assumed to e...",
-"id":"presume-rightful-presence-and-inherent-value",
-"path":"principles/presume-rightful-presence-and-inherent-value.md",
-"status":"draft",
-"title":"Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start",
 "type":"principle"
 },
 {
@@ -179947,24 +179374,6 @@
 },
 {
 "canonical":true,
-"description":"The article concludes that teachers and materials cannot directly intervene in the development of either mental representation or skill; instead, both evolve based on learners' experiences in and out of classrooms.",
-"id":"provide-experiences-not-direct-teaching-sla",
-"path":"principles/provide-experiences-not-direct-teaching-sla.md",
-"status":"draft",
-"title":"Neither mental representation nor skill can be directly taught; teachers provide experiences and act as informed consumers of instructional research",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The review argues that texts accounting for readers' cognitive and linguistic experiences, and texts written by peers, are more accessible to young readers than basal readers.",
-"id":"provide-peer-authored-syntactically-appropriate-texts",
-"path":"principles/provide-peer-authored-syntactically-appropriate-texts.md",
-"status":"draft",
-"title":"Provide young readers with syntactically appropriate peer-authored texts rather than basal readers",
-"type":"principle"
-},
-{
-"canonical":true,
 "description":"Because instructional feedback is inherently evaluative and can pose identity threats, teachers should acknowledge positive aspects of student work and highlight the strengths of their writing.",
 "id":"provide-positive-comments-on-student-writing",
 "path":"principles/provide-positive-comments-on-student-writing.md",
@@ -180022,15 +179431,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"The paper's concluding principle holds that history teaching should treat imagination as a legitimate, central component of knowledge construction rather than as mere fiction-making.",
-"id":"recognize-imagination-in-learning-and-knowing",
-"path":"principles/recognize-imagination-in-learning-and-knowing.md",
-"status":"draft",
-"title":"Recognize and acknowledge the profound importance of the human imagination in learning and knowing when designing history instruction",
-"type":"principle"
-},
-{
 "aliases":["reflective-practice","guided-prompts-and-faculty-involvement-encourage-integrative-reflection"],
 "canonical":true,
 "description":"For a learner who has just performed a task or acted in a practice setting, structured prompts to examine that performance against a stated criterion and commit to a change are expected to improve later performance more than unguided reflection, qualified by the learner's ability to judge their own work, access to feedback, and whether the planned change is acted on.",
@@ -180038,24 +179438,6 @@
 "path":"principles/reflection.md",
 "status":"review",
 "title":"Reflection",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"Trust, emotional safety, and strong teacher-student and student-student relationships are a necessary foundational layer beneath productive scientific argumentation and equitable classroom discourse — without them, students are less willing to share, revise, or challenge ideas in front of peers.",
-"id":"relationships-as-foundation-for-argumentation",
-"path":"principles/relationships-as-foundation-for-argumentation.md",
-"status":"draft",
-"title":"Relationships as Foundation for Argumentation",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues that communicative activities are harder to engage in under stress, discomfort, fatigue, emotional distress or hostility, so teachers should create a comfortable and harmonious atmosphere where stud...",
-"id":"relaxed-atmosphere-communicative-activities",
-"path":"principles/relaxed-atmosphere-communicative-activities.md",
-"status":"draft",
-"title":"Create a relaxed, non-threatening atmosphere before engaging students in communicative activities",
 "type":"principle"
 },
 {
@@ -180067,24 +179449,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Extending Fassett and Warren's commitments to concrete mundane practices and structural critique, the article argues that \\\"a critical pedagogy of the Anthropocene must render the 'larger' structure of planetary ecolog...",
-"id":"render-ecological-crisis-concrete-embodied-proximal",
-"path":"principles/render-ecological-crisis-concrete-embodied-proximal.md",
-"status":"draft",
-"title":"Render planetary ecological crisis concrete, embodied, proximal, and implicative for students",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"In narrative inquiry, the researcher must negotiate between representing the participant's voice and the researcher's own voice, avoiding too strong a stamp that overshadows participants or too thin a stamp that dupli...",
-"id":"researcher-signature-believability-validity",
-"path":"principles/researcher-signature-believability-validity.md",
-"status":"draft",
-"title":"Establish an appropriate researcher signature by balancing participant, researcher, and audience voices, and judge validity by believability",
-"type":"principle"
-},
-{
 "description":"The author proposes that educators and researchers consciously refuse to treat the sociocultural framework in SLA as an endorsement of mainstream, normative forms of social learning.",
 "id":"resist-equating-sociocultural-framework-with-participation-methods",
 "path":"principles/resist-equating-sociocultural-framework-with-participation-methods.md",
@@ -180093,6 +179457,7 @@
 "type":"principle"
 },
 {
+"aliases":["curricular-knowledge-as-a-resource-for-responsiveness"],
 "canonical":true,
 "description":"Responsive teaching is the in-the-moment adaptation of instruction to learners' emerging ideas, using evidence from student thinking to decide what to do next.",
 "id":"responsive-teaching",
@@ -180120,7 +179485,7 @@
 "type":"principle"
 },
 {
-"aliases":["teach-rhetorical-choices-not-tools"],
+"aliases":["teach-rhetorical-choices-not-tools","flexible-congruence-context-appropriateness","style-as-consequential-choice-not-prescription"],
 "canonical":true,
 "description":"Rhetorical skill development is the principle of helping learners craft arguments, communicate persuasively, respond to audiences, and use language strategically for effect.",
 "id":"rhetorical-skill-development",
@@ -180194,7 +179559,7 @@
 "type":"principle"
 },
 {
-"aliases":["metacognition","self-regulation","scale-srl-support-with-web-based-training-and-peer-feedback-groups"],
+"aliases":["metacognition","self-regulation","scale-srl-support-with-web-based-training-and-peer-feedback-groups","integrate-self-regulation-with-scientific-reasoning-instruction"],
 "canonical":true,
 "description":"When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured.",
 "id":"self-regulated-learning",
@@ -180212,31 +179577,13 @@
 "type":"principle"
 },
 {
-"aliases":["articulate-partial-meanings-integral-planning","free-exploration-before-organized-plan-sequence","number-difficulty-impacts-mdc-construction","vicarious-before-mastery-teacher-development"],
+"aliases":["articulate-partial-meanings-integral-planning","free-exploration-before-organized-plan-sequence","number-difficulty-impacts-mdc-construction","vicarious-before-mastery-teacher-development","oral-aural-before-literacy-foreign-language"],
 "canonical":true,
 "description":"For a novice on a target whose parts depend on each other, meeting the parts in an order that puts what a step rests on before it and moves from what the learner can process toward full complexity, revised from the learner's responses, is expected to improve performance on tasks that draw on the whole; no claim tests that general rule, and tests of particular orders (example or problem first, parts or whole first, blocked or mixed) favour different orders for different learners and goals.",
 "id":"sequencing",
 "path":"principles/sequencing.md",
 "status":"review",
 "title":"Sequencing",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article supports using the Robbins-Monro procedure in settings where a parameter must be estimated sequentially from noisy observations, as in adaptive measurement of learner ability.",
-"id":"sequential-noisy-estimation-principle",
-"path":"principles/sequential-noisy-estimation-principle.md",
-"status":"draft",
-"title":"Use stochastic approximation for sequential parameter estimation when observations are noisy and each observation is costly",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The coach conducts and analyzes assessments together with teachers, looking for consistency and talking through discrepancies, which builds teachers' confidence in analysis and leads to changes in assessment questions...",
-"id":"side-by-side-assessment-analysis-with-teachers",
-"path":"principles/side-by-side-assessment-analysis-with-teachers.md",
-"status":"draft",
-"title":"Conduct assessments side by side with teachers rather than as the sole administrator",
 "type":"principle"
 },
 {
@@ -180254,15 +179601,6 @@
 "path":"principles/simultaneous-desegregation-choice-improvement.md",
 "status":"draft",
 "title":"Implement desegregation, choice, and school improvement simultaneously rather than incrementally",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The paper proposes a practice-based focus for PLCs: \\\"professional learning in schools is situated in the context of educational practices,\\\" so designs must acknowledge the contextual, dynamic, and relational nature of...",
-"id":"situated-account-plc-design",
-"path":"principles/situated-account-plc-design.md",
-"status":"draft",
-"title":"Design professional learning communities around situated teacher agency and practice, not attitude change",
 "type":"principle"
 },
 {
@@ -180345,24 +179683,6 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Because spontaneous, intuitive responses to a film constitute the level of narrative understanding, the article recommends that post-screening discussion start there — registering impressions and emotions with questio...",
-"id":"start-film-discussion-at-narrative-understanding",
-"path":"principles/start-film-discussion-at-narrative-understanding.md",
-"status":"draft",
-"title":"Begin film discussion at the level of narrative understanding before moving to analysis",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article recommends identifying expert learners by classifying performers on the amount of learning that has occurred, using absolute retention, pre-to-retention change, or \\\"the relationship or ratio between rate o...",
-"id":"stratify-learners-by-learning-efficiency",
-"path":"principles/stratify-learners-by-learning-efficiency.md",
-"status":"draft",
-"title":"Classify learners by learning efficiency and effectiveness (e.g., ratio of acquisition rate to retention) rather than current performance level",
-"type":"principle"
-},
-{
 "aliases":["find-strengths-and-entry-points-per-teacher","remedial-instruction-build-on-strengths-integrate-sources"],
 "canonical":true,
 "description":"For a learner described mainly by gaps, collecting evidence of what they can already do, naming it as specific performances and building tasks, roles and support from it, with barriers still addressed, is expected to raise teacher expectations, make competence visible and support self-efficacy and persistence; no claim here compares it with deficit-organized instruction, and praise of the person or brief belief exercises limit it.",
@@ -180370,15 +179690,6 @@
 "path":"principles/strengths-based-approach.md",
 "status":"review",
 "title":"Strengths-based Approach",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues style should be taught as a viable element of writing instruction in which students understand that the decisions they make when using language directly affect the meaning they convey.",
-"id":"style-as-consequential-choice-not-prescription",
-"path":"principles/style-as-consequential-choice-not-prescription.md",
-"status":"draft",
-"title":"Teach style as attention to language choices with consequences, not as prescriptive rules",
 "type":"principle"
 },
 {
@@ -180400,21 +179711,13 @@
 "type":"principle"
 },
 {
+"aliases":["perceived-giftedness-confers-training-resources"],
 "canonical":true,
 "description":"For a student whose work on a unit shows the target already done, replacing the practice they do not need with acceleration or harder enrichment, chosen from that response rather than the label, is expected to sustain progress and engagement; no claim tests this, so the page gives a labelled default design.",
 "id":"supporting-gifted-and-talented-students",
 "path":"principles/supporting-gifted-and-talented-students.md",
 "status":"review",
 "title":"Supporting Gifted and Talented Students",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"ADHD is a persistent pattern of inattention and/or hyperactive-impulsive behavior with a documented neurobiological basis, distinct from ordinary high activity — classrooms can inadvertently aggravate it, but structure, predictability, and explicit self-monitoring instruction (not medication decisions, which are outside a teacher's control) are the levers a teacher actually has.",
-"id":"supporting-students-with-adhd",
-"path":"principles/supporting-students-with-adhd.md",
-"status":"draft",
-"title":"Supporting Students with ADHD",
 "type":"principle"
 },
 {
@@ -180476,7 +179779,7 @@
 "type":"principle"
 },
 {
-"aliases":["reduce-teacher-talk-increase-student-talk"],
+"aliases":["reduce-teacher-talk-increase-student-talk","relaxed-atmosphere-communicative-activities"],
 "canonical":true,
 "description":"The article presents the Bullock Report's basic tenet, adopted by Cummins for minority students, that \\\"talking and writing are a means to learning\\\" (p.50).",
 "id":"talking-and-writing-means-to-learning",
@@ -180508,15 +179811,6 @@
 "path":"principles/teach-conceptual-underpinnings-of-l2-forms.md",
 "status":"draft",
 "title":"Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"This principle holds that presenting information students already have some knowledge about encourages elaborative processing, which in turn increases the probability that target propositions will be recalled after a...",
-"id":"teach-information-with-prior-related-knowledge",
-"path":"principles/teach-information-with-prior-related-knowledge.md",
-"status":"draft",
-"title":"Teach new information for which learners have some prior related knowledge, because familiarity stimulates elaborative processing that supports later retrieval",
 "type":"principle"
 },
 {
@@ -180560,16 +179854,7 @@
 "type":"principle"
 },
 {
-"canonical":true,
-"description":"Because students are the subjects of learning, the article argues the teacher's role must change \\\"from the initiator and the indoctrinator into the helper and the driver for students constructing meanings initiatively\\\".",
-"id":"teacher-as-designer-guider-consultant",
-"path":"principles/teacher-as-designer-guider-consultant.md",
-"status":"draft",
-"title":"Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching",
-"type":"principle"
-},
-{
-"aliases":["dual-teacher-role-acquisition-and-learning","teacher-as-facilitator-constructivist-classroom","teacher-as-facilitator-for-discovery","writing-teacher-as-facilitator-not-lecturer"],
+"aliases":["dual-teacher-role-acquisition-and-learning","teacher-as-facilitator-constructivist-classroom","teacher-as-facilitator-for-discovery","writing-teacher-as-facilitator-not-lecturer","teacher-as-designer-guider-consultant","provide-experiences-not-direct-teaching-sla"],
 "canonical":true,
 "description":"Drawing on MLE theory, the article recommends that teachers reconceive their role: the mediator guides rather than dominates the learning process, engaging students in expressing and internalizing their understanding.",
 "id":"teacher-as-mediator-not-content-disseminator",
@@ -180653,15 +179938,6 @@
 "path":"principles/theories-constrained-by-biological-hardware.md",
 "status":"draft",
 "title":"Cognitive theories should be constrained by the biological hardware, not merely by abstract machine-independent specification",
-"type":"principle"
-},
-{
-"canonical":true,
-"description":"The article argues that listening to people and capturing their voices is not sufficient; a far more active collaboration is required.",
-"id":"trading-point-between-story-giver-and-research-taker",
-"path":"principles/trading-point-between-story-giver-and-research-taker.md",
-"status":"draft",
-"title":"Establish a viable trading point between life story giver and research taker through active collaboration",
 "type":"principle"
 },
 {
@@ -180767,6 +180043,7 @@
 "type":"principle"
 },
 {
+"aliases":["balance-situations-sources-control-items","dc-estimate-guideline-085","side-by-side-assessment-analysis-with-teachers"],
 "canonical":true,
 "description":"A classroom assessment score is expected to support a decision about a learner only as far as the tasks sample the intended capability without demands unrelated to it, the score is consistent across items, occasions and raters, and no group is disadvantaged by content or administration; no claim here tests that relationship in classrooms, and the claims that bear on it come mostly from large-scale testing and simulations.",
 "id":"validity-reliability-and-bias-in-classroom-assessment",
@@ -273401,16 +272678,14 @@
 "collaborative-inquiry":"collaborative-inquiry",
 "collaborative-learning":"collaborative-learning",
 "competency-based-learning":"competency-based-learning",
-"computational-essay-writing":"computational-essay-writing",
 "concept-attainment":"concept-attainment",
 "constructive-alignment":"constructive-alignment",
 "cooperative-learning":"cooperative-learning",
-"data-storytelling-forage-remix-diy":"data-storytelling-forage-remix-diy",
 "debate":"debate",
 "debate-format":"debate",
 "debate-laboratory-for-argumentation":"debate-laboratory-for-argumentation",
 "develop-understanding":"develop-understanding",
-"differentiated-activity-structures-for-inclusive-participation":"differentiated-activity-structures-for-inclusive-participation",
+"differentiated-activity-structures-for-inclusive-participation":"shared-power-co-creation-of-educational-systems",
 "direct-instruction":"direct-instruction",
 "direct-instruction-distinctive-teaching-practices":"direct-instruction-distinctive-teaching-practices",
 "discussion-based-learning":"discussion-based-learning",
@@ -273432,8 +272707,6 @@
 "formative-assessment":"formative-assessment",
 "fostering-communities-of-learning-fcl":"fostering-communities-of-learning-fcl",
 "four-category-implicit-scaffolding-pattern":"four-category-implicit-scaffolding-pattern",
-"four-characteristics-criterion-referenced-tests":"four-characteristics-criterion-referenced-tests",
-"four-ps-invitational-school-pattern":"four-ps-invitational-school-pattern",
 "four-quadrant-library-learner-progression":"four-quadrant-library-learner-progression",
 "four-reflection-methods-reification":"four-reflection-methods-reification",
 "functional-approach-bics-to-calp-progression":"functional-approach-bics-to-calp-progression",
@@ -273447,16 +272720,12 @@
 "goal-based-scenarios":"goal-based-scenarios",
 "goal-based-scenarios-gbs":"goal-based-scenarios",
 "grade-span-illustrative-objectives-pattern":"grade-span-illustrative-objectives-pattern",
-"grading-by-contract-fricke":"grading-by-contract-fricke",
 "ground-conversations-in-childrens-work":"ground-conversations-in-childrens-work",
-"grounding-and-unfolding-facilitation-moves":"grounding-and-unfolding-facilitation-moves",
 "guided-discovery":"guided-discovery-learning",
 "guided-discovery-learning":"guided-discovery-learning",
 "guided-equation-appropriation":"guided-equation-appropriation",
 "guided-participation-five-components":"guided-participation-five-components",
 "guided-practice-four-purposes":"guided-practice-four-purposes",
-"herbarts-formal-steps":"herbarts-formal-steps",
-"heterogeneity-seeking-modeling-curriculum":"heterogeneity-seeking-modeling-curriculum",
 "hunters-effective-teaching-model":"hunters-effective-teaching-model",
 "industrial-arts-pyramid-program-levels":"industrial-arts-pyramid-program-levels",
 "interdisciplinary-course-based-research-experience":"interdisciplinary-course-based-research-experience",
@@ -273465,7 +272734,6 @@
 "jigsaw-learning":"fostering-communities-of-learning-fcl",
 "jigsaw-method":"fostering-communities-of-learning-fcl",
 "jigsaw-structures-adult-learners":"cooperative-learning",
-"just-in-time-learning":"just-in-time-learning",
 "just-in-time-teaching":"just-in-time-teaching",
 "keypad-quizzing-interrupts-lecture-for-formative-assessment":"formative-assessment",
 "lda-reflection":"lda-reflection",
@@ -273497,13 +272765,11 @@
 "plc-mediating-artifacts-vary-by-object":"plc-mediating-artifacts-vary-by-object",
 "pogil":"process-oriented-guided-inquiry-learning-pogil",
 "positive-behavioral-interventions-and-supports":"positive-behavioral-interventions-and-supports",
-"practice-spectrum-drills-to-task-based":"practice-spectrum-drills-to-task-based",
 "pre-visit-onsite-post-visit-field-trip-arc":"pre-visit-onsite-post-visit-field-trip-arc",
 "problem-based-learning":"problem-based-learning",
 "problem-based-learning-pbl":"problem-based-learning",
 "problem-centered-task-level-progression-pattern":"problem-centered-task-level-progression-pattern",
 "process-oriented-guided-inquiry-learning-pogil":"process-oriented-guided-inquiry-learning-pogil",
-"productive-ambiguity-task-design-for-assumptions":"productive-ambiguity-task-design-for-assumptions",
 "professional-development":"professional-development",
 "programmed-instruction":"programmed-instruction",
 "project-and-instructional-space":"project-and-instructional-space",
@@ -273522,7 +272788,6 @@
 "structured-academic-controversy":"structured-academic-controversy",
 "structured-academic-controversy-sac":"structured-academic-controversy",
 "structured-peer-review":"structured-peer-review",
-"synthetic-planning-for-discovery-oriented-writing":"synthetic-planning-for-discovery-oriented-writing",
 "teacher-explicitness-talk-pattern":"teacher-explicitness-talk-pattern",
 "team-based-learning":"team-based-learning",
 "tell-show-do-distributed-across-whole-tasks":"4cid-four-component-instructional-design",
@@ -273549,8 +272814,6 @@
 "adult-help-promotes-active-agents-learning":"adult-help-promotes-active-agents-learning",
 "affective-sequencing-requires-own-principles":"affective-sequencing-requires-own-principles",
 "age-friendly-classroom-remedy-social-isolation":"expanding-social-networks",
-"align-grammar-instruction-with-learner-beliefs":"grammar-decisions-based-on-learner-variables",
-"align-professional-learning-with-preparation-and-induction":"align-professional-learning-with-preparation-and-induction",
 "always-report-interpret-effect-sizes":"always-report-interpret-effect-sizes",
 "analogical-reasoning":"analogical-reasoning",
 "analyze-computer-use-as-activity-system":"analyze-computer-use-as-activity-system",
@@ -273559,7 +272822,7 @@
 "appropriating-disciplinary-tools-to-challenge-restrictive-narratives":"appropriating-disciplinary-tools-to-challenge-restrictive-narratives",
 "articulate-partial-meanings-integral-planning":"sequencing",
 "ask-experts":"ask-experts",
-"assess-alone-and-assisted-performance":"assess-alone-and-assisted-performance",
+"assess-alone-and-assisted-performance":"multiple-methods-of-assessment",
 "assess-child-preference-in-aac-decision-making":"personalization",
 "assess-hll-nhll-listening-differences-first":"assess-hll-nhll-listening-differences-first",
 "assess-process-over-product-maker-education":"fostering-creative-thinking",
@@ -273569,18 +272832,16 @@
 "autonomy":"autonomy",
 "autonomy-goal-and-route-early-literacy":"autonomy-goal-and-route-early-literacy",
 "avoid-appropriating-student-writing":"process-based-writing",
-"avoid-student-intercepts-for-transfer":"avoid-student-intercepts-for-transfer",
+"avoid-student-intercepts-for-transfer":"adaptive-learning",
 "backward-design-goals-first-inquiry":"backward-design-goals-first-inquiry",
 "balance-challenge-and-support-library-instruction":"balance-challenge-and-support-library-instruction",
 "balance-retrieval-success-and-retrieval-effort":"retrieval-practice",
-"balance-situations-sources-control-items":"balance-situations-sources-control-items",
+"balance-situations-sources-control-items":"validity-reliability-and-bias-in-classroom-assessment",
 "balanced-authoring-constraints":"balanced-authoring-constraints",
-"base-attributes-on-cognitive-model":"base-attributes-on-cognitive-model",
+"base-attributes-on-cognitive-model":"criterion-and-norm-referenced-testing",
 "behavioral-science-coursework-human-side-enterprise":"behavioral-science-coursework-human-side-enterprise",
-"bind-teaching-testing-task-based-washback":"bind-teaching-testing-task-based-washback",
 "building-empathy":"building-empathy",
 "bullying-prevention-and-intervention":"bullying-prevention-and-intervention",
-"calp-instruction-three-components":"calp-instruction-three-components",
 "career-education-through-industrial-arts":"career-education-through-industrial-arts",
 "character-education":"character-education",
 "character-education-promotes-civic-competence":"character-education",
@@ -273589,7 +272850,6 @@
 "classroom-space-and-procedural-design":"classroom-space-and-procedural-design",
 "clear-structure":"clear-structure",
 "clear-structure-presentation":"clear-structure",
-"co-create-environments-with-experienced-inequity-groups":"co-create-environments-with-experienced-inequity-groups",
 "coach-advocates-for-teachers-purposeful-change":"coach-advocates-for-teachers-purposeful-change",
 "cognitive-activation":"cognitive-activation",
 "cognitive-apprenticeship":"scaffolding-and-fading",
@@ -273599,7 +272859,7 @@
 "cognitive-load-reduction":"cognitive-load-reduction",
 "cognitive-load-theory":"cognitive-load-theory",
 "cognitive-styles":"cognitive-styles",
-"collaboration-paramount-pedagogy-collectivity":"collaboration-paramount-pedagogy-collectivity",
+"collaboration-paramount-pedagogy-collectivity":"collaborative-learning",
 "collaborative-learning":"collaborative-learning",
 "combine-audio-visual-compensate-sensory-loss":"combine-audio-visual-compensate-sensory-loss",
 "combine-communicative-with-traditional-methods":"harmonize-opposites-in-educational-change",
@@ -273610,19 +272870,15 @@
 "communities-of-practice":"communities-of-practice",
 "community-based-learning":"community-based-learning",
 "community-of-inquiry":"community-of-inquiry",
-"competence-is-realistic-goal-for-teacher-preparation":"competence-is-realistic-goal-for-teacher-preparation",
 "competency-based-assessment":"competency-based-assessment",
 "competency-based-learning-assessment":"competency-based-assessment",
 "complementary-delivery-modes-for-retrieval-tools":"complementary-delivery-modes-for-retrieval-tools",
 "comprehensible-input-communicative-reading-activities":"comprehensible-input-communicative-reading-activities",
 "comprehensible-training-benefits-all-workers":"comprehensible-training-benefits-all-workers",
-"conditions-for-productive-group-creativity":"conditions-for-productive-group-creativity",
 "consider-background-in-ptfc-grouping":"consider-background-in-ptfc-grouping",
 "considering-the-opposite":"considering-the-opposite",
-"consistent-standards-across-evaluation-recruitment-preparation":"consistent-standards-across-evaluation-recruitment-preparation",
 "constructivism":"constructivism",
 "constructivist-learning":"constructivism",
-"content-selected-from-competencies":"content-selected-from-competencies",
 "contextualize-abstract-content-older-learners":"contextualize-abstract-content-older-learners",
 "continuous-pupil-progress-individualized-structure":"personalization",
 "continuum-of-gifted-services":"continuum-of-gifted-services",
@@ -273635,11 +272891,11 @@
 "cultural-life-experiences-connections":"cultural-life-experiences-connections",
 "culturally-responsive-adult-curriculum":"cultural-life-experiences-connections",
 "culturally-responsive-classroom-norms":"culturally-responsive-classroom-norms",
-"curricular-knowledge-as-a-resource-for-responsiveness":"curricular-knowledge-as-a-resource-for-responsiveness",
+"curricular-knowledge-as-a-resource-for-responsiveness":"responsive-teaching",
 "curriculum-embedded-teacher-led-sustained-pd":"curriculum-embedded-teacher-led-sustained-pd",
 "curriculum-flexibility-for-responsive-student-coaches":"curriculum-flexibility-for-responsive-student-coaches",
-"datafication-as-rhetoric-metadistrust":"datafication-as-rhetoric-metadistrust",
-"dc-estimate-guideline-085":"dc-estimate-guideline-085",
+"datafication-as-rhetoric-metadistrust":"epistemic-cognition",
+"dc-estimate-guideline-085":"validity-reliability-and-bias-in-classroom-assessment",
 "debriefing":"debriefing",
 "delegate-knowledge-creation-responsibility-to-learners":"delegate-knowledge-creation-responsibility-to-learners",
 "deliberate-practice":"deliberate-practice",
@@ -273651,13 +272907,11 @@
 "developing-your-cultural-awareness":"developing-your-cultural-awareness",
 "devote-reading-class-time-to-phonological-practice":"devote-reading-class-time-to-phonological-practice",
 "diagnostic-prescriptive-change-facilitation":"match-interventions-to-stages-of-concern",
-"dialogic-conceptual-interdisciplinarity-reform":"dialogic-conceptual-interdisciplinarity-reform",
 "dialogue-safe-environment-bildung-film-education":"dialogue-safe-environment-bildung-film-education",
 "digital-learning":"digital-learning",
 "direct-instruction":"direct-instruction",
 "disciplinary-literacy":"disciplinary-literacy",
-"discipline-specific-engaged-scholarship-policies":"discipline-specific-engaged-scholarship-policies",
-"disciplines-as-modes-of-inquiry":"disciplines-as-modes-of-inquiry",
+"disciplines-as-modes-of-inquiry":"epistemic-cognition",
 "discussing-race":"discussing-race",
 "distributed-cognition":"distributed-cognition",
 "diverse-exercise-types-learning-styles":"universal-design-for-learning",
@@ -273666,26 +272920,23 @@
 "dual-coding":"dual-coding",
 "dual-teacher-role-acquisition-and-learning":"teacher-as-mediator-not-content-disseminator",
 "easy-accurate-complete-access-motivates-retrieval-design":"easy-accurate-complete-access-motivates-retrieval-design",
-"ecologically-just-speculative-futurity-for-praxis":"ecologically-just-speculative-futurity-for-praxis",
-"education-around-child-response":"education-around-child-response",
+"ecologically-just-speculative-futurity-for-praxis":"humanistic-radical-adult-education",
+"education-around-child-response":"active-learning",
 "educational-readiness":"educational-readiness",
 "ef-interventions-target-general-factors-for-math-transfer":"ef-interventions-target-general-factors-for-math-transfer",
 "effective-classroom-management-plan":"effective-classroom-management-plan",
 "elaborative-reasoning":"elaborative-reasoning",
 "eliminate-three-cueing-instruction":"eliminate-three-cueing-instruction",
-"embed-assessment-in-ongoing-instruction":"embed-assessment-in-ongoing-instruction",
-"embed-basic-science-unit-clinical-curricula":"embed-basic-science-unit-clinical-curricula",
+"embed-assessment-in-ongoing-instruction":"assessment-for-learning",
 "embed-local-indigenous-knowledge-community-experts":"embed-local-indigenous-knowledge-community-experts",
-"engage-teachers-literacy-events-learner-to-learner":"engage-teachers-literacy-events-learner-to-learner",
+"engage-teachers-literacy-events-learner-to-learner":"communities-of-practice",
 "engagement":"engagement",
-"entangle-environmental-and-social-justice":"entangle-environmental-and-social-justice",
 "epistemic-cognition":"epistemic-cognition",
-"equal-democratic-teacher-student-relations":"equal-democratic-teacher-student-relations",
 "error-analysis":"error-analysis",
 "establish-meaningful-communication-before-correction":"establish-meaningful-communication-before-correction",
 "evaluating-sources":"evaluating-sources",
 "evidence-based-teaching-and-scientific-reasoning":"evidence-based-teaching-and-scientific-reasoning",
-"expand-ccp-sphere-of-concern-to-more-than-human":"expand-ccp-sphere-of-concern-to-more-than-human",
+"expand-ccp-sphere-of-concern-to-more-than-human":"humanistic-radical-adult-education",
 "expanding-social-networks":"expanding-social-networks",
 "expected-learnings-backbone-of-planning":"expected-learnings-backbone-of-planning",
 "experiential-course-design-practice-centered-diagnostic":"experiential-learning",
@@ -273705,7 +272956,7 @@
 "feedback-loops":"feedback-loops",
 "field-test-before-full-implementation":"field-test-before-full-implementation",
 "find-strengths-and-entry-points-per-teacher":"strengths-based-approach",
-"flexible-congruence-context-appropriateness":"flexible-congruence-context-appropriateness",
+"flexible-congruence-context-appropriateness":"rhetorical-skill-development",
 "flexible-error-treatment-strategies":"flexible-error-treatment-strategies",
 "flexible-grouping":"flexible-grouping",
 "flexible-grouping-in-science":"flexible-grouping-in-science",
@@ -273722,19 +272973,15 @@
 "free-exploration-before-organized-plan-sequence":"sequencing",
 "frequent-conversations-clear-limits-internet-safety":"frequent-conversations-clear-limits-internet-safety",
 "functional-behavior-assessment":"functional-behavior-assessment",
-"functional-intelligibility-goals-for-pronunciation-curriculum":"functional-intelligibility-goals-for-pronunciation-curriculum",
 "gain-then-time-constant-adaptive-progression":"adaptive-learning",
 "game-based-learning":"game-based-learning",
 "gamification":"gamification",
 "gather-comprehensive-information-not-solely-categorical-eligibility":"gather-comprehensive-information-not-solely-categorical-eligibility",
-"gender-equitable-classroom-interaction":"gender-equitable-classroom-interaction",
+"gender-equitable-classroom-interaction":"culturally-responsive-classroom-norms",
 "goal-setting-monitoring":"goal-setting-monitoring",
-"graded-readers-fun-easy-frequent-material-principle":"graded-readers-fun-easy-frequent-material-principle",
 "gradual-empathic-concern-over-efficiency":"gradual-empathic-concern-over-efficiency",
-"grammar-decisions-based-on-learner-variables":"grammar-decisions-based-on-learner-variables",
 "graphic-organizers":"graphic-organizers",
 "graphic-organizers-scaffold-comprehension-principle":"graphic-organizers",
-"ground-edi-in-disrupting-oppression":"ground-edi-in-disrupting-oppression",
 "growth-mindset":"growth-mindset",
 "guided-practice":"guided-practice",
 "guided-prompts-and-faculty-involvement-encourage-integrative-reflection":"reflection",
@@ -273760,7 +273007,7 @@
 "instructor-accessibility":"instructor-accessibility",
 "instructor-indirect-narration-studio":"understanding-cultivated-not-described",
 "integrate-explicit-correction-with-meaningful-activities":"integrate-explicit-correction-with-meaningful-activities",
-"integrate-self-regulation-with-scientific-reasoning-instruction":"integrate-self-regulation-with-scientific-reasoning-instruction",
+"integrate-self-regulation-with-scientific-reasoning-instruction":"self-regulated-learning",
 "integrate-video-narration-text-for-l2-macs-comprehension":"multimodal-instruction",
 "integrated-constructivist-value-education-transaction":"integrated-constructivist-value-education-transaction",
 "integrated-ef-sel-digital-literacy-intervention":"integrated-ef-sel-digital-literacy-intervention",
@@ -273769,19 +273016,18 @@
 "invention-before-instruction":"productive-failure",
 "invest-in-plcs-for-teacher-metacognition":"invest-in-plcs-for-teacher-metacognition",
 "invite-everyday-registers-science-activities":"invite-everyday-registers-science-activities",
-"involve-natural-resource-professionals":"involve-natural-resource-professionals",
+"involve-natural-resource-professionals":"ask-experts",
 "involve-students-in-revision-process":"process-based-writing",
 "irt-preferred-for-repeated-measurement-linking":"irt-preferred-for-repeated-measurement-linking",
 "journaling":"journaling",
-"justify-rationality-to-justify-critical-thinking-teaching":"justify-rationality-to-justify-critical-thinking-teaching",
 "keep-chunking-study-outlines-short":"chunking",
 "knowledge-organization":"knowledge-organization",
 "kolb-derived-curriculum-guidelines":"kolb-derived-curriculum-guidelines",
-"lateral-transmission-alongside-vertical":"lateral-transmission-alongside-vertical",
+"lateral-transmission-alongside-vertical":"harmonize-opposites-in-educational-change",
 "leader-criteria-sol-alignment-digital-materials":"leader-criteria-sol-alignment-digital-materials",
 "learner-choice":"autonomy",
 "learner-control-information-flow-with-on-demand-tools":"learner-control-information-flow-with-on-demand-tools",
-"learners-as-learning-resources-principle":"learners-as-learning-resources-principle",
+"learners-as-learning-resources-principle":"collaborative-learning",
 "learning-activities-legitimate-place-syllabus":"learning-activities-legitimate-place-syllabus",
 "learning-activity-selection-principles":"learning-activity-selection-principles",
 "learning-embedded-in-the-core-mechanic":"game-based-learning",
@@ -273793,12 +273039,11 @@
 "low-stakes-nonjudgmental-creativity-environment":"fostering-creative-thinking",
 "low-task-complexity-child-learners-recasts":"cognitive-load-management",
 "lower-extraneous-load-to-increase-germane-effort-in-stem":"cognitive-load-theory",
-"make-frame-slots-explicit-history-explanations":"make-frame-slots-explicit-history-explanations",
+"make-frame-slots-explicit-history-explanations":"knowledge-organization",
 "mastery-learning":"mastery-learning",
 "match-interventions-to-stages-of-concern":"match-interventions-to-stages-of-concern",
 "match-worked-example-type-to-learner-prior-knowledge":"worked-examples",
 "maximize-learning-rate-when-calibrating-leitner-schedules":"maximize-learning-rate-when-calibrating-leitner-schedules",
-"mead-lifelong-redefinition-primary-secondary":"mead-lifelong-redefinition-primary-secondary",
 "measured-pace-one-concept-at-a-time-older-learners":"cognitive-load-management",
 "mediate-cultural-choices-with-personal-meanings":"mediate-cultural-choices-with-personal-meanings",
 "memory-consolidation":"memory-consolidation",
@@ -273824,10 +273069,9 @@
 "multiple-criteria-gifted-identification":"multiple-criteria-gifted-identification",
 "multiple-methods-of-assessment":"multiple-methods-of-assessment",
 "multiple-open-ended-definitions-over-fixed-labels":"multiple-open-ended-definitions-over-fixed-labels",
-"natural-and-logical-consequences":"natural-and-logical-consequences",
-"nexus-of-justification-and-application":"nexus-of-justification-and-application",
+"natural-and-logical-consequences":"effective-classroom-management-plan",
+"nexus-of-justification-and-application":"epistemic-cognition",
 "nic-instructionally-focused-pd-model":"nic-instructionally-focused-pd-model",
-"no-universal-threshold-app-evaluation":"no-universal-threshold-app-evaluation",
 "note-taking":"note-taking",
 "number-difficulty-impacts-mdc-construction":"sequencing",
 "nurture-ubuntu-spirit-students":"nurture-ubuntu-spirit-students",
@@ -273835,8 +273079,7 @@
 "on-the-job-specialist-training-for-tribal-development-personnel":"on-the-job-specialist-training-for-tribal-development-personnel",
 "ongoing-study-teams-peer-coaching-in-service":"ongoing-study-teams-peer-coaching-in-service",
 "open-licensing-teachers-as-designers":"open-licensing-teachers-as-designers",
-"oral-aural-before-literacy-foreign-language":"oral-aural-before-literacy-foreign-language",
-"overgeneralizations-as-evidence-of-progress":"overgeneralizations-as-evidence-of-progress",
+"oral-aural-before-literacy-foreign-language":"sequencing",
 "pair-audio-discussions-with-feedback-and-self-assessment":"formative-assessment",
 "pair-simulation-and-observation-in-research-labs":"pair-simulation-and-observation-in-research-labs",
 "pairing-non-examples-with-examples":"pairing-non-examples-with-examples",
@@ -273848,7 +273091,7 @@
 "peer-feedback":"peer-feedback",
 "peer-feedbackpeer-review":"peer-feedback",
 "peer-learning":"peer-learning",
-"perceived-giftedness-confers-training-resources":"perceived-giftedness-confers-training-resources",
+"perceived-giftedness-confers-training-resources":"supporting-gifted-and-talented-students",
 "performance-based-teacher-certification-assessment":"competency-based-assessment",
 "persistent-autonomy-support-during-resistance":"persistent-autonomy-support-during-resistance",
 "person-first-strength-based-labels-counseling":"person-first-strength-based-labels-counseling",
@@ -273860,22 +273103,17 @@
 "physical-activity":"physical-activity",
 "physical-world-augments-simulation-learning":"technology-augments-not-supplants-processes",
 "plain-english-workplace-materials":"accessible-vocabulary-syntax",
-"pleasurable-engaging-learning-supports-dopamine-mediated-processing":"pleasurable-engaging-learning-supports-dopamine-mediated-processing",
 "podcasts-as-revision-adjunct-distributed-listening":"spaced-learning",
-"popham-four-instructional-development-principles":"popham-four-instructional-development-principles",
-"portfolio-review-nontraditional-contributions-rigor":"discipline-specific-engaged-scholarship-policies",
 "positive-clarity-moves-design-principle":"positive-clarity-moves-design-principle",
 "positive-self-talk":"positive-self-talk",
 "post-task-phase-focus-on-form":"post-task-phase-focus-on-form",
-"practice-play-modularization":"practice-play-modularization",
+"practice-play-modularization":"memory-consolidation",
 "pre-assessment-scaffolding-hypothesized-quality-driver":"scaffolding",
 "pre-reading-questioning":"pre-reading-questioning",
 "precise-meaningful-elaboration-facilitates-encoding":"elaborative-reasoning",
-"prefer-aided-systems-over-manual-signs":"prefer-aided-systems-over-manual-signs",
 "prefer-feedback-loops-over-feedback-systems":"prefer-feedback-loops-over-feedback-systems",
 "prepare-students-before-challenge-agent-engagement":"prepare-students-before-challenge-agent-engagement",
 "preschool-curricula-ef-tom-training":"preschool-curricula-ef-tom-training",
-"presume-rightful-presence-and-inherent-value":"presume-rightful-presence-and-inherent-value",
 "primary-and-secondary-program-themes":"primary-and-secondary-program-themes",
 "prior-knowledge-growth-point-new-knowledge":"prior-knowledge-growth-point-new-knowledge",
 "prioritize-kinesthetic-sense-and-whole-body-connectedness":"prioritize-kinesthetic-sense-and-whole-body-connectedness",
@@ -273887,8 +273125,8 @@
 "productive-instructor-learner-relationships":"productive-instructor-learner-relationships",
 "productive-usage-guaranteed-by-design":"productive-usage-guaranteed-by-design",
 "promote-self-generated-elaboration-for-expertise":"elaborative-reasoning",
-"provide-experiences-not-direct-teaching-sla":"provide-experiences-not-direct-teaching-sla",
-"provide-peer-authored-syntactically-appropriate-texts":"provide-peer-authored-syntactically-appropriate-texts",
+"provide-experiences-not-direct-teaching-sla":"teacher-as-mediator-not-content-disseminator",
+"provide-peer-authored-syntactically-appropriate-texts":"accessible-vocabulary-syntax",
 "provide-positive-comments-on-student-writing":"provide-positive-comments-on-student-writing",
 "ps-i":"productive-failure",
 "purposeful-reflection":"purposeful-reflection",
@@ -273897,20 +273135,18 @@
 "real-world-problem-solving-maker-context":"real-world-problem-solving-maker-context",
 "realistic-contexts-elicit-subjective-probability":"realistic-contexts-elicit-subjective-probability",
 "reciprocal-bidirectional-knowledge-exchange-international-courses":"reciprocal-bidirectional-knowledge-exchange-international-courses",
-"recognize-imagination-in-learning-and-knowing":"recognize-imagination-in-learning-and-knowing",
+"recognize-imagination-in-learning-and-knowing":"disciplinary-literacy",
 "recommend-polya-style-instruction-for-verbal-problems":"explicit-instruction-math-strategies",
 "reduce-extraneous-optimize-intrinsic-increase-germane":"cognitive-load-management",
 "reduce-teacher-talk-increase-student-talk":"talking-and-writing-means-to-learning",
 "reflection":"reflection",
 "reflective-practice":"reflection",
-"relationships-as-foundation-for-argumentation":"relationships-as-foundation-for-argumentation",
-"relaxed-atmosphere-communicative-activities":"relaxed-atmosphere-communicative-activities",
+"relaxed-atmosphere-communicative-activities":"talking-and-writing-means-to-learning",
 "relevant-immediately-useful-adult-materials":"relevant-immediately-useful-adult-materials",
 "remedial-instruction-build-on-strengths-integrate-sources":"strengths-based-approach",
-"render-ecological-crisis-concrete-embodied-proximal":"render-ecological-crisis-concrete-embodied-proximal",
+"render-ecological-crisis-concrete-embodied-proximal":"cultural-life-experiences-connections",
 "report-effect-sizes-with-p-values":"always-report-interpret-effect-sizes",
 "represent-procedures-as-shared-resources-to-clarify-thinking":"cognitive-flexibility",
-"researcher-signature-believability-validity":"researcher-signature-believability-validity",
 "resist-equating-sociocultural-framework-with-participation-methods":"resist-equating-sociocultural-framework-with-participation-methods",
 "respond-as-a-reader":"process-based-writing",
 "responsive-teaching":"responsive-teaching",
@@ -273931,13 +273167,13 @@
 "semantic-mapping-principle":"graphic-organizers",
 "separate-assistance-from-assessment":"separate-assistance-from-assessment",
 "sequencing":"sequencing",
-"sequential-noisy-estimation-principle":"sequential-noisy-estimation-principle",
+"sequential-noisy-estimation-principle":"adaptive-learning",
 "shared-whiteboard-dual-cohort-workspace":"digital-learning",
-"side-by-side-assessment-analysis-with-teachers":"side-by-side-assessment-analysis-with-teachers",
+"side-by-side-assessment-analysis-with-teachers":"validity-reliability-and-bias-in-classroom-assessment",
 "similar-item-positions-across-booklets":"standardized-test-fairness-and-bias",
 "simulations-immersive-virtual-environments":"simulations-immersive-virtual-environments",
 "simultaneous-desegregation-choice-improvement":"simultaneous-desegregation-choice-improvement",
-"situated-account-plc-design":"situated-account-plc-design",
+"situated-account-plc-design":"communities-of-practice",
 "skill-based-programmes-should-target-retention-and-sustainability":"skill-based-programmes-should-target-retention-and-sustainability",
 "skills-sprint":"skills-sprint",
 "social-constructivism":"social-constructivism",
@@ -273949,17 +273185,14 @@
 "special-classrooms-within-regular-schools-for-integration":"special-classrooms-within-regular-schools-for-integration",
 "stage-matched-therapist-complementarity":"stage-matched-therapist-complementarity",
 "standardized-test-fairness-and-bias":"standardized-test-fairness-and-bias",
-"start-film-discussion-at-narrative-understanding":"start-film-discussion-at-narrative-understanding",
-"stratify-learners-by-learning-efficiency":"stratify-learners-by-learning-efficiency",
 "strengths-based-approach":"strengths-based-approach",
 "structure-with-student-control-cross-cultural-tasks":"autonomy",
 "structured-deliberate-practice-for-licensing-review":"deliberate-practice",
 "student-choice-builds-ownership-maker-education":"autonomy",
-"style-as-consequential-choice-not-prescription":"style-as-consequential-choice-not-prescription",
+"style-as-consequential-choice-not-prescription":"rhetorical-skill-development",
 "summative-assessment":"summative-assessment",
 "supporting-early-language-development":"supporting-early-language-development",
 "supporting-gifted-and-talented-students":"supporting-gifted-and-talented-students",
-"supporting-students-with-adhd":"supporting-students-with-adhd",
 "supporting-students-with-autism-spectrum-disorder":"supporting-students-with-autism-spectrum-disorder",
 "supporting-students-with-intellectual-disabilities":"supporting-students-with-intellectual-disabilities",
 "supportive-community-before-collaborative-self-report":"supportive-community-before-collaborative-self-report",
@@ -273972,7 +273205,7 @@
 "teach-canonicity-not-canon":"teach-canonicity-not-canon",
 "teach-civic-responsibility-not-proficiency":"teach-civic-responsibility-not-proficiency",
 "teach-conceptual-underpinnings-of-l2-forms":"teach-conceptual-underpinnings-of-l2-forms",
-"teach-information-with-prior-related-knowledge":"teach-information-with-prior-related-knowledge",
+"teach-information-with-prior-related-knowledge":"elaborative-reasoning",
 "teach-persuasive-standards-not-just-persuasive-skill":"teach-persuasive-standards-not-just-persuasive-skill",
 "teach-popular-culture-not-speech-making":"teach-popular-culture-not-speech-making",
 "teach-rhetorical-choices-not-tools":"rhetorical-skill-development",
@@ -273981,7 +273214,7 @@
 "teach-simple-design-cycle-maker-education":"teach-simple-design-cycle-maker-education",
 "teach-to-intellectual-styles-flexibly":"cognitive-styles",
 "teach-writing-based-on-reading":"teach-writing-based-on-reading",
-"teacher-as-designer-guider-consultant":"teacher-as-designer-guider-consultant",
+"teacher-as-designer-guider-consultant":"teacher-as-mediator-not-content-disseminator",
 "teacher-as-facilitator-constructivist-classroom":"teacher-as-mediator-not-content-disseminator",
 "teacher-as-facilitator-for-discovery":"teacher-as-mediator-not-content-disseminator",
 "teacher-as-mediator-not-content-disseminator":"teacher-as-mediator-not-content-disseminator",
@@ -273995,7 +273228,6 @@
 "text-system-controlled-prompts-for-novices":"scaffolding",
 "text-to-speech":"text-to-speech",
 "theories-constrained-by-biological-hardware":"theories-constrained-by-biological-hardware",
-"trading-point-between-story-giver-and-research-taker":"trading-point-between-story-giver-and-research-taker",
 "transfer-of-learning":"transfer-of-learning",
 "trust-environment-context-for-reflection":"trust-environment-context-for-reflection",
 "twelve-characteristics-of-effective-teachers":"twelve-characteristics-of-effective-teachers",

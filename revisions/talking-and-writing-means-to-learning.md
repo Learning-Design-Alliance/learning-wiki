@@ -12,3 +12,8 @@ Ingested from eric-ed294203 (First Language/Second Language: Acquisition, Writin
 
 ### 2026-09-27 · ingest · process:wiki-ingest
 Ingested from eric-ej1082600 (Implementing Communicative Activities in English Reading Class) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as principles/relaxed-atmosphere-communicative-activities
+
+### 2026-09-27 · ingest · process:wiki-ingest
+Ingested from eric-ej1082600 (Implementing Communicative Activities in English Reading Class) via eval_harness.py + ingest_extractions.py

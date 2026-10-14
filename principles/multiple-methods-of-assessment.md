@@ -1,6 +1,7 @@
 ---
 type: principle
 id: multiple-methods-of-assessment
+aliases: [assess-alone-and-assisted-performance]
 title: Multiple Methods of Assessment
 description: "When one assessment method can mislead about a learner (through reading load, an unfamiliar symbol system, anxiety or a capability that shows only with help), a judgement drawn from two or more methods sampling the same goal under common, calibrated criteria is expected to be more accurate than one drawn from a single method, and bounded choice of format to raise motivation rather than achievement; no claim here tests the relationship as a whole."
 canonical: true
@@ -21,6 +22,10 @@ sources:
     resource: "https://doi.org/10.51869/101/kr"
     title: "Rao, K. (2021). Inclusive instructional design: Applying UDL to online learning. *The Journal of Applied Instructional Design, 10*(1)"
     author: Rao, K
+  - id: costley-2012
+    resource: "https://eric.ed.gov/?id=ED529565"
+    title: "Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565"
+    author: Costley, K. C
 ---
 
 # Multiple Methods of Assessment
@@ -152,6 +157,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](../claims/tutor-gain-concentrated-in-written-reasoning-depth.md) [+W]
 - [Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.](../claims/standardized-tests-problematic-young-children-outcomes.md) [+W]
 - [The EDIT uses a multimethod approach gathering evidence with checklists, ratings, and rubrics](../claims/edit-multimethod-checklists-ratings-rubrics.md) [+W]
+- [Vygotsky Zone Of Proximal Development](../theories/vygotsky-zone-of-proximal-development.md) [+S]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.
@@ -162,6 +168,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Validity, Reliability and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) — the measurement properties each single method needs.
 - [Assessment for Learning](assessment-for-learning.md) — shared criteria and a revision step around the evidence each method yields.
 - [Self-Monitoring](self-monitoring.md) — learners checking their work against criteria, one of the methods combined here.
+- [Adult help should promote children as active agents of their own learning, not only subject-matter assimilation](adult-help-promotes-active-agents-learning.md)
 
 ## Examples
 
@@ -175,11 +182,14 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Authentic Assessment](../patterns/authentic-assessment.md) — a performance with feedback and revision, often paired with a written account.
 - [Family-interview-based assessment task design](../methods/family-interview-based-assessment-task-design.md) — building a context-grounded second method for young children.
 - [Combine observational measures with other methods in formative evaluation of preschool-through-third-grade programs, keeping them free of high stakes.](../strategies/multimethod-formative-evaluation-early-childhood-strategy.md)
+- [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
+- [Scaffolding](../strategies/scaffolding.md)
 
 ## Key Sources
 - Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. *Assessment in Education: Principles, Policy & Practice, 27*(4), 350-372. [https://doi.org/10.1080/0969594X.2019.1571992](https://doi.org/10.1080/0969594X.2019.1571992)
 - Shepard, L. A., Penuel, W. R., & Pellegrino, J. W. (2018). Using learning and motivation theories to coherently link formative assessment, grading practices, and large-scale assessment. *Educational Measurement: Issues and Practice, 37*(1), 21-34. [https://doi.org/10.1111/emip.12189](https://doi.org/10.1111/emip.12189)
 - Rao, K. (2021). Inclusive instructional design: Applying UDL to online learning. *The Journal of Applied Instructional Design, 10*(1). [https://doi.org/10.51869/101/kr](https://doi.org/10.51869/101/kr)
+- Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -245,4 +255,46 @@ Multiple methods of assessment improve judgment when one format alone would unde
 - Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. *Assessment in Education: Principles, Policy & Practice, 27*(4), 350-372. [https://doi.org/10.1080/0969594X.2019.1571992](https://doi.org/10.1080/0969594X.2019.1571992)
 - Shepard, L. A., Penuel, W. R., & Pellegrino, J. W. (2018). Using learning and motivation theories to coherently link formative assessment, grading practices, and large-scale assessment. *Educational Measurement: Issues and Practice, 37*(1), 21-34. [https://doi.org/10.1111/emip.12189](https://doi.org/10.1111/emip.12189)
 - Rao, K. (2021). Inclusive instructional design: Applying UDL to online learning. *The Journal of Applied Instructional Design, 10*(1). [https://doi.org/10.51869/101/kr](https://doi.org/10.51869/101/kr)
+-->
+
+<!-- merged 2026-10-14 from principles/assess-alone-and-assisted-performance ("Assess children's cognitive development both when performing alone and when assisted"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Assess children's cognitive development both when performing alone and when assisted
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article reports Vygotsky's assessment principle that a true picture of cognitive development requires measuring both ability levels. It states that "to get a true assessment of a child's cognitive development it is necessary to assess their capabilities when performing alone and when assisted," because the level of potential development, what a child can do with a more competent individual's help, exceeds the actual developmental level of solo performance.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Assessment must include both solo performance and performance with assistance from a more competent individual
+#### Constraints
+- 
+
+### Target Learners
+- children being assessed in educational settings
+
+### Target Learning Objectives
+- accurate assessment of cognitive development
+
+### Claims
+
+- [Vygotsky Zone Of Proximal Development](../theories/vygotsky-zone-of-proximal-development.md) [+S]
+- [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](../claims/static-assessment-misses-emerging-functions.md) [+W]
+
+## Related Principles
+
+- [Adult help should promote children as active agents of their own learning, not only subject-matter assimilation](adult-help-promotes-active-agents-learning.md)
+
+## Examples
+
+- [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
+- [Scaffolding](../strategies/scaffolding.md)
+
+## Key Sources
+- Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565
 -->

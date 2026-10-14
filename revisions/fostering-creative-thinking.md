@@ -17,3 +17,8 @@ Ingested from eric-ej1179517 (Foundational Principles and Practices to Consider 
 
 ### 2026-09-26 · ingest · process:wiki-ingest
 Ingested from arxiv-1308.2434 (Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as patterns/heterogeneity-seeking-modeling-curriculum
+
+### 2026-08-29 · ingest · claude/unspecified
+New pattern: heterogeneity-seeking modeling curriculum (Pierson et al. 2023)

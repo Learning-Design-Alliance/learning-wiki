@@ -1,6 +1,7 @@
 ---
 type: principle
 id: communities-of-practice
+aliases: [engage-teachers-literacy-events-learner-to-learner, situated-account-plc-design]
 title: Communities of Practice
 description: "For adults and professionals entering a shared practice, sustained and structured participation with more experienced members, under norms of trust and critical inquiry, is proposed to change their practice and understanding over a term or more, though the wiki holds only descriptive, qualitative and argued evidence for it."
 canonical: true
@@ -13,12 +14,20 @@ sources:
     resource: "https://doi.org/10.1111/bjet.13120"
     title: "Abedini, A., Abedin, B., & Zowghi, D. (2021). Adult learning in online communities of practice: A systematic review. *British Journal of Educational Technology, 52*(4), 1663-1694"
     author: "Abedini, A., Abedin, B., & Zowghi, D"
+  - id: dozier-2008
+    resource: "https://eric.ed.gov/?id=EJ1059644"
+    title: "Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644"
+    author: Dozier, C. L
+  - id: riveros-2012
+    resource: "https://journals.sfu.ca/cje/index.php/cje"
+    title: "Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje"
+    author: "Riveros, A., Newton, P., & Burgess, D"
 ---
 
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (19 for, 7 mixed, 1 against) · 27 studies (6 causal, 6 qualitative, 5 review, 3 quant-synthesis, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 2 of 27 report an effect size · 24 claims rest on one study
+> **Evidence** · 29 claims (21 for, 7 mixed, 1 against) · 28 studies (6 causal, 6 qualitative, 5 review, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 28 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,6 +111,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](../claims/pktp-plc-supported-implementation.md) [+W] — attached 2026-10-08 from Spain et al. (2018), which proposed "Provide an external facilitator for multi-school transition programs to sustain collaboration and communicate a consistent vision".
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](../claims/stem-plc-teacher-knowledge-attitude-gains.md) [+W] — attached 2026-10-10 from Fulton et al. (2010), which proposed "Design elements for STEM PLCs: time and pacing, subject composition, protocols, and facilitation with administrator support and trust"; tests this page's relationship.
+- [Plc Literature Trivializes Teacher Practice](../claims/plc-literature-trivializes-teacher-practice.md) [+W]
+- [Teacher Resistance Agency Challenges Plc](../claims/teacher-resistance-agency-challenges-plc.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -125,6 +136,9 @@ Changed participation norms, changed understanding, changed practice and a membe
 - [Mentoring/Coaching](mentoring-and-coaching.md) — mentoring relationships often serve as entry points into a broader practice community
 - [Peer Discussion](peer-discussion.md) — discussion is one mechanism communities use, but not the whole structure
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — communities provide real audiences, norms, and feedback loops for learner work
+- [Find each teacher's strengths and entry point before asking for instructional change](strengths-based-approach.md)
+- [Advocate for teachers' voices, purposeful change, and continued professional development](coach-advocates-for-teachers-purposeful-change.md)
+- [Respond to student writing as an interested reader rather than only as an evaluator](process-based-writing.md)
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
@@ -134,12 +148,17 @@ Changed participation norms, changed understanding, changed practice and a membe
 - Online communities can function well when they include recurring tasks, visible artifacts, and norms for contribution rather than only informal chat
 - [Support the evolving instructor role with professional development beyond product training, articulated role expectations, and communities of practice](../strategies/instructor-role-evolution-support.md)
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](../strategies/grow-own-teacher-pipeline-newcomer-schools.md)
+- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
+- [Incorporate a method for identifying areas of improvement into PLC models](../strategies/plc-method-identifying-improvement-areas.md)
 
 ## Key Sources
 - Abedini, A., Abedin, B., & Zowghi, D. (2021). Adult learning in online communities of practice: A systematic review. *British Journal of Educational Technology, 52*(4), 1663-1694. [doi:10.1111/bjet.13120](https://doi.org/10.1111/bjet.13120)
 - Boud, D., & Middleton, H. (2003). Learning from others at work: Communities of practice and informal learning. *Journal of Workplace Learning, 15*, 194-202. [doi:10.1108/13665620310483895](https://doi.org/10.1108/13665620310483895)
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)
 - Office of Educational Technology. (2014). *Designing online communities of practice for educators to create value*. U.S. Department of Education.
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+- Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -199,3 +218,86 @@ Communities of practice support learning because people often learn complex work
 - [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](../claims/honours-community-safe-supportive-learning-environment.md) [+W]
 - [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](../claims/principal-networks-professional-learning-communities.md) [+W]
 - [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](../claims/stem-plc-math-student-learning-existence-proof.md) [+W]
+
+<!-- merged 2026-10-14 from principles/engage-teachers-literacy-events-learner-to-learner ("Engage teachers in literacy events learner-to-learner to build trusting coaching relationships"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Engage teachers in literacy events learner-to-learner to build trusting coaching relationships
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The author argues that coaching relationships begin when coaches join teachers as fellow readers and writers rather than experts. Sharing literacy artifacts, discussing mentor texts, and reading texts from multiple perspectives let coaches find a teacher's zone of proximal development, since "When coaches change the discourse to strengths first, we support teachers to look at students from a lens of strengths." The article treats this as the foundation for all later coaching work.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Offer a range of ways for teachers to engage in literacy events, from artifact sharing to perspective-taking reading tasks
+#### Constraints
+- 
+
+### Target Learners
+- elementary and middle school classroom teachers
+
+### Target Learning Objectives
+- professional development in literacy instruction
+- relationship building between coach and teacher
+
+### Claims
+- 
+
+## Related Principles
+
+- [Find each teacher's strengths and entry point before asking for instructional change](strengths-based-approach.md)
+- [Advocate for teachers' voices, purposeful change, and continued professional development](coach-advocates-for-teachers-purposeful-change.md)
+- [Respond to student writing as an interested reader rather than only as an evaluator](process-based-writing.md)
+
+## Examples
+
+- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
+
+## Key Sources
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+-->
+
+<!-- merged 2026-10-14 from principles/situated-account-plc-design ("Design professional learning communities around situated teacher agency and practice, not attitude change"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Design professional learning communities around situated teacher agency and practice, not attitude change
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The paper proposes a practice-based focus for PLCs: "professional learning in schools is situated in the context of educational practices," so designs must acknowledge the contextual, dynamic, and relational nature of teaching practices and prioritize teachers' agency and learning. This contrasts with conventional formulations that appeal to psychological notions like commitment and willingness, treating change as a shift in teachers' attitudes toward organizational goals.
+
+## Design Implications
+
+### Context
+#### Requirements
+- PLC implementation must account for political climate, agents' perceptions of their social reality, and institutionalized discourse
+#### Constraints
+- Without understanding teaching practices, current initiatives are likely to fall short due to trivialized notions of practice
+
+### Target Learners
+- teachers in schools implementing professional learning communities
+
+### Target Learning Objectives
+- professional learning embedded in teaching practice
+- exercise of teacher agency
+
+### Claims
+- [Plc Literature Trivializes Teacher Practice](../claims/plc-literature-trivializes-teacher-practice.md) [+M]
+- [Teacher Resistance Agency Challenges Plc](../claims/teacher-resistance-agency-challenges-plc.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Incorporate a method for identifying areas of improvement into PLC models](../strategies/plc-method-identifying-improvement-areas.md)
+
+## Key Sources
+- Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje
+-->

@@ -10,12 +10,17 @@ generated:
   at: 2026-10-02
 author: competency-based education tradition
 grain_size: course
+sources:
+  - id: berliner-1988
+    resource: "https://eric.ed.gov/?id=ED298122"
+    title: "Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122"
+    author: Berliner, David C
 ---
 
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (2 for, 9 mixed, 3 against) · 19 studies (7 causal, 3 quant-synthesis, 3 theoretical, 2 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 19 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (3 for, 9 mixed, 3 against) · 20 studies (7 causal, 4 theoretical, 3 quant-synthesis, 2 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 20 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -89,6 +94,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](../claims/cbe-gatekeeper-completion-lower-than-comparison.md) [-W] — attached 2026-10-09 from Person et al. (2016), which proposed "Offer competency-based education models as one of multiple options, since they appear best suited for mature, academically well-prepared students"; tests this page's relationship.
+- [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](../claims/experts-predict-student-errors-and-classroom-events.md) [+M]
 
 ## Illustrative design instance and observation record
 
@@ -120,6 +126,7 @@ This pattern is scoped to a course organised around a competency map with criter
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.
 - Sturgis, C., & Casey, K. (2018). *Designing for equity: Leveraging competency-based education to ensure all students succeed*. CompetencyWorks.
+- Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The page's earlier body, kept verbatim:
 
@@ -180,4 +187,43 @@ Competency-Based Learning is a pattern that organizes progression around demonst
 - [Competency-Based Learning & Assessment](../principles/competency-based-assessment.md)
 - [Mastery Learning](../principles/mastery-learning.md)
 - [Formative Assessment](../principles/formative-assessment.md)
+-->
+
+<!-- merged 2026-10-14 from principles/competence-is-realistic-goal-for-teacher-preparation ("Pursue competence, not expertise, as the realistic goal for the vast majority of teacher education graduates"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Pursue competence, not expertise, as the realistic goal for the vast majority of teacher education graduates
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article argues that teacher education should aim to prepare novices and help advanced beginners become competent, since competence 'can be achieved by the vast majority of graduates of our teacher training colleges'. Pursuing excellence or expertise for all teachers is called a will-o-the-wisp, and denying that differences in teaching ability exist is called perpetuating a fiction. Expertise is reached by few members of a field.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Acceptance that individual differences in teaching ability exist and that only a modest number of teachers reach the proficient and expert stages
+#### Constraints
+- The article notes the stage durations vary widely and the theory's application to pedagogy is still unknown
+
+### Target Learners
+- teacher education colleges
+- preservice teachers
+
+### Target Learning Objectives
+- setting realistic expectations for teacher development
+
+### Claims
+
+- [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](../claims/experts-predict-student-errors-and-classroom-events.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
 -->

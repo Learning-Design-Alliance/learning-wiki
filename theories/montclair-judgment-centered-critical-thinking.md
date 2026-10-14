@@ -46,7 +46,7 @@ The Institute for Critical Thinking at Montclair State College defines critical 
 
 ## Examples
 
-- [Teach undergraduate content within a nexus of justification and application](../principles/nexus-of-justification-and-application.md)
+- [Teach undergraduate content within a nexus of justification and application](../principles/epistemic-cognition.md)
 
 ## Key Sources
 - Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed. (1989). Critical Thinking: Language and Inquiry across the Disciplines. Proceedings of the Annual Conference of the Institute for Critical Thinking (Upper Montclair, New Jersey, 1988). https://eric.ed.gov/?id=ED351305

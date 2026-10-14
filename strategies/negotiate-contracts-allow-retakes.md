@@ -38,7 +38,7 @@ This strategy combines the memo's two implementable moves: at the beginning of t
 
 ## Related Strategies
 
-- [Grading By Contract Fricke](../patterns/grading-by-contract-fricke.md)
+- [Grading By Contract Fricke](../principles/competency-based-assessment.md)
 - [Mastery Criterion Remediation](../elements/mastery-criterion-remediation.md)
 - [Contract Grading](contract_grading.md)
 - [Mastery Based Retesting](mastery-based-retesting.md)

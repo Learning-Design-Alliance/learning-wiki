@@ -53,7 +53,6 @@ Architectonics is defined in the article as "the constructive role of cognition 
 ## Examples
 
 - [Four architectonic guiding principles for integrating teaching, learning, and technology](architectonic-guiding-principles-integration.md)
-- [Adopt a conceptual, dialogic approach to interdisciplinarity rather than a reductive instrumental one to strengthen integrative learning](../principles/dialogic-conceptual-interdisciplinarity-reform.md)
 
 ## Key Sources
 - Dennis, J. K. (2020). The Kantian Effect: Reconceiving the Integration of Knowledge in Interdisciplinary Theory. JIS Journal of Interdisciplinary Sciences, 4(2). https://eric.ed.gov/?id=ED608667

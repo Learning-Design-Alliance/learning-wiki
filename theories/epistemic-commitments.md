@@ -41,7 +41,7 @@ Epistemic cognition research typically studies students' judgments against disci
 - [Epistemic Cognition](../principles/epistemic-cognition.md) — epistemic commitments extend this by centering student values (including non-disciplinary ones like care) rather than only disciplinary ideals
 
 ## Examples
-- [Heterogeneity-Seeking Modeling Curriculum](../patterns/heterogeneity-seeking-modeling-curriculum.md) — the curriculum design this theory was developed within
+- [Heterogeneity-Seeking Modeling Curriculum](../principles/fostering-creative-thinking.md) — the curriculum design this theory was developed within
 
 ## Key Sources
 - Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P. (2023). Students' Epistemic Commitments in a Heterogeneity-Seeking Modeling Curriculum. *Cognition and Instruction, 41*(2), 125-157. [https://doi.org/10.1080/07370008.2022.2111431](https://doi.org/10.1080/07370008.2022.2111431)

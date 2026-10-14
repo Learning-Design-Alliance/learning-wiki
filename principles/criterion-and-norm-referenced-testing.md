@@ -1,6 +1,7 @@
 ---
 type: principle
 id: criterion-and-norm-referenced-testing
+aliases: [base-attributes-on-cognitive-model]
 title: Criterion- and Norm-Referenced Testing
 description: "A decision about a learner is expected to be more accurate when the score matches the question asked: a criterion-referenced report against skills defined in advance for what a learner can do and should be taught next, a norm-referenced score read against a fitting norm group (and never alone) for relative standing and selection, and a diagnostic profile for why a learner struggles; no claim here tests the relationship."
 canonical: true
@@ -8,12 +9,21 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: nitko-1970
+    resource: "https://eric.ed.gov/?id=ED047010"
+    title: "Nitko, Anthony J. (1970). Criterion-Referenced Testing in the Context of Instruction. https://eric.ed.gov/?id=ED047010"
+    author: Nitko, Anthony J
+  - id: katz-1993
+    resource: "https://eric.ed.gov/?id=ED366652"
+    title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652"
+    author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K"
 ---
 
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (7 for, 16 mixed, 3 against) · 16 studies (8 theoretical, 3 associational, 2 causal, 2 design, 1 review), `q1`–`q2` · 0 of 16 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (10 for, 16 mixed, 3 against) · 17 studies (8 theoretical, 4 associational, 2 causal, 2 design, 1 review), `q1`–`q2` · 0 of 17 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +142,9 @@ The earlier page cited no claim pages. These bear on neighbouring questions:
 - [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer](../claims/test-scores-gate-gifted-program-entry.md) [~W] and [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](../claims/gifted-underrepresentation-diverse-students.md) [~W]: selection-gate outcomes, read against a fairness model on [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md).
 - [Transcript grades are a blurred currency of performance information](../claims/transcript-grades-blurred-currency.md) [~W]: Fricke (1976), an argument (`q1`, theoretical `r2`) that grade inflation and Pass/Fail grading blur what a transcript reports; bears on step 12's reporting, not tested.
 - [Updated norms are heavily weighted toward 2021/22 pandemic-era performance, with lower norm-group performance than the prior norms](../claims/pandemic-weighted-norms-lower-performance.md) [~W] — attached 2026-10-09 from Wei He (2022), which proposed "Update achievement norms periodically with recent data and combine normative information with other evidence for high-stakes decisions".
+- [Cognitive Model Captures 71 Percent Verbalizations](../claims/cognitive-model-captures-71-percent-verbalizations.md) [+M]
+- [Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful](../claims/rule-space-classifies-architecture-examinees-solve-strongest.md) [+W]
+- [Solve attributes differ in discrimination: the environment attribute strongly separated proficiency groups while the learned-procedure attribute did not](../claims/solve-attributes-vary-in-discrimination.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -157,7 +170,6 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [Summative Assessment](summative-assessment.md) — owns the design of the end-point judgment, whose cut it sets against the capability
 - [Validity, Reliability, and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) — owns whether any score supports the decision drawn from it
 - [Criterion-referenced testing as defined by Glaser](../theories/criterion-referenced-testing-mastery-framework.md), [as a test construction approach](../theories/criterion-referenced-testing-definition.md) and [as a grading framework](../theories/criterion-referenced-mastery-testing-gentile.md) — the source-framed theory pages
-- [Four characteristics inherent in criterion-referenced tests](../patterns/four-characteristics-criterion-referenced-tests.md) — the construction characteristics Nitko lists
 
 ## Examples
 
@@ -171,6 +183,8 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - Popham, W. J. (2004). *America's "failing" schools: How parents and teachers can cope with No Child Left Behind*. RoutledgeFalmer.
 - Haertel, E. H., & Herman, J. L. (2005). A historical perspective on validity arguments for accountability testing. In J. L. Herman & E. H. Haertel (Eds.), *Uses and misuses of data for educational accountability and improvement* (pp. 1-34). National Society for the Study of Education. [doi:10.1111/j.1744-7984.2005.00023.x](https://doi.org/10.1111/j.1744-7984.2005.00023.x)
 - Arduini-Van Hoose, N. (2020). Standardized tests. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Nitko, Anthony J. (1970). Criterion-Referenced Testing in the Context of Instruction. https://eric.ed.gov/?id=ED047010
+- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -215,4 +229,84 @@ Three test *types* are worth distinguishing precisely, since the terms are often
 - Popham, W. J. (2004). *America's "failing" schools: How parents and teachers can cope with No Child Left Behind*. RoutledgeFalmer.
 - Haertel, E. H., & Herman, J. L. (2005). A historical perspective on validity arguments for accountability testing. In J. L. Herman & E. H. Haertel (Eds.), *Uses and misuses of data for educational accountability and improvement* (pp. 1-34). National Society for the Study of Education.
 - Arduini-Van Hoose, N. (2020). Standardized tests. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-14 from patterns/four-characteristics-criterion-referenced-tests ("Four characteristics inherent in criterion-referenced tests"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Four characteristics inherent in criterion-referenced tests
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+
+## Description
+The paper enumerates four design characteristics of criterion-referenced tests: "the classes of behaviors that define different achievement levels are specified as clearly as is possible before the test is constructed"; each class is defined by test situations displaying the behaviors in all their nuances; a representative sampling plan selects the tasks on any form; and the obtained score must express the individual's performance characteristics objectively and meaningfully. This is the paper's own blueprint for building such tests.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A representative sampling plan must be designed and used to select the test tasks appearing on any form of the test.
+#### Constraints
+- Building tests with representative tasks defining classes of behavior becomes more difficult as the behaviors become more complex.
+
+### Target Learners
+- students in instructional programs using criterion-referenced assessment
+
+### Target Goals
+- accurate description of which behaviors learners can and cannot demonstrate
+
+### Claims
+
+- [Criterion-referenced tests require empirically-based construct validation studies](../claims/criterion-referenced-tests-need-construct-validation.md) [+W]
+- [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](../claims/statistical-item-selection-conflicts-criterion-referenced-definition.md) [+W]
+- [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](../claims/criterion-referenced-tests-measure-mastery-not-relative-standing.md) [+W]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Nitko, Anthony J. (1970). Criterion-Referenced Testing in the Context of Instruction. https://eric.ed.gov/?id=ED047010
+-->
+
+<!-- merged 2026-10-14 from principles/base-attributes-on-cognitive-model ("Base diagnostic item attributes on an independently constructed cognitive model of problem solving"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Base diagnostic item attributes on an independently constructed cognitive model of problem solving
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+When applying cognitive diagnosis in a complex domain, item attributes should be derived from a problem-solving model built independently of the items, rather than listed intuitively. The authors state that "a cognitive model provides a rich description of each attribute because the meaning of each attribute is derived from its place in the model," which promotes fuller understanding of attributes and facilitates assigning them to items. Verbal protocol analysis serves as one means of constructing and verifying the model.
+
+## Design Implications
+
+### Context
+#### Requirements
+- An independently constructed, verified problem-solving model (e.g., from verbal protocol analysis) from which attribute meanings and item assignments are derived.
+#### Constraints
+- In complex domains, fine-grained operation-level attributes may overlap little across items, so attributes must be cast at a higher level of generality such as item characteristics.
+
+### Target Learners
+- examinees in complex, semantically rich domains
+
+### Target Learning Objectives
+- diagnostic reporting of mastered and unmastered attributes
+
+### Claims
+
+- [Cognitive Model Captures 71 Percent Verbalizations](../claims/cognitive-model-captures-71-percent-verbalizations.md) [+M]
+- [Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful](../claims/rule-space-classifies-architecture-examinees-solve-strongest.md) [+W]
+- [Solve attributes differ in discrimination: the environment attribute strongly separated proficiency groups while the learned-procedure attribute did not](../claims/solve-attributes-vary-in-discrimination.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
 -->

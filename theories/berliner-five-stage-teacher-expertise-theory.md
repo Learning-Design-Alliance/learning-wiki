@@ -53,7 +53,7 @@ The article presents a stage theory of skill acquisition in teaching, following 
 
 ## Examples
 
-- [Pursue competence, not expertise, as the realistic goal for the vast majority of teacher education graduates](../principles/competence-is-realistic-goal-for-teacher-preparation.md)
+- [Pursue competence, not expertise, as the realistic goal for the vast majority of teacher education graduates](../patterns/competency-based-learning.md)
 - [Match teacher education, mentoring, and evaluation to developmental stage: routines and scripts for novices, analytical mentors from the competent and proficient, and stage-appropriate evaluation](../strategies/stage-matched-teacher-education-policy.md)
 
 ## Key Sources

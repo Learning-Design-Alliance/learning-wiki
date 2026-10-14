@@ -1,7 +1,7 @@
 ---
 type: principle
 id: adaptive-learning
-aliases: [adaptive-learning-consistent-with-cognitive-structure, gain-then-time-constant-adaptive-progression, multi-objective-exercise-recommendation-objectives]
+aliases: [adaptive-learning-consistent-with-cognitive-structure, gain-then-time-constant-adaptive-progression, multi-objective-exercise-recommendation-objectives, sequential-noisy-estimation-principle, avoid-student-intercepts-for-transfer]
 title: Adaptive Learning
 description: "When learners on a cumulative, decomposable task start from different observed responses, choosing each next task, hint or check from the learner's own recent responses (rather than one fixed path) may improve aligned achievement, conditional on how well the responses diagnose the learner, what the adaptation changes, and whether support is withdrawn as performance grows."
 canonical: true
@@ -18,12 +18,20 @@ sources:
     resource: "https://eric.ed.gov/?id=ED059585"
     title: "Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585"
     author: Norman, D. A.; And Others
+  - id: wolff-1970
+    resource: "https://eric.ed.gov/?id=ED051258"
+    title: "Wolff, Hans. (1970). On Stochastic Approximation. https://eric.ed.gov/?id=ED051258"
+    author: Wolff, Hans
+  - id: philip-i-pavlik-2021
+    resource: "https://doi.org/10.1109/TLT.2021.3128569"
+    title: "Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569"
+    author: Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams
 ---
 
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (26 for, 20 mixed, 4 against) · 52 studies (22 causal, 13 review, 6 quant-synthesis, 4 associational, 4 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 10 of 52 report an effect size · 43 claims rest on one study
+> **Evidence** · 53 claims (29 for, 20 mixed, 4 against) · 54 studies (22 causal, 13 review, 6 quant-synthesis, 5 design, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 54 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +128,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [After a failed scripted question, repeating it is followed by lower recovery than switching to addressing the student's error](../claims/repeating-scripted-question-lowers-recovery.md) [+W] — attached 2026-10-11 from Ahtisham et al. (2026), which proposed "Design LLM tutors for graduated, state-sensitive assistance that adapts support to impasse persistence rather than treating answer withholding as a fixed policy"; tests this page's relationship.
 - [Integrating cognitive scores with non-cognitive learner attributes enables the system to dynamically adapt AI-generated explanations in tone, depth and instructional strategy to individual learner performance](../claims/cognitive-noncognitive-integration-adapts-ai-explanations.md) [+W] — attached 2026-10-11 from Nwogo et al. (2026), which proposed "Use a transparent rule-based performance-scoring formula combining academic scores with non-cognitive attributes to keep adaptive educational decisions interpretable and accountable".
 - [System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones](../claims/constraints-selectively-affect-inefficient-strategies.md) [~M] — attached 2026-10-11 from Haley Noh et al. (2026), which proposed "Apply system constraints selectively to inefficient learner task-selection strategies rather than uniformly"; tests this page's relationship.
+- [Diminishing step sizes in stochastic approximation induce implicit averaging that eliminates noise effects in the long run](../claims/robbins-monro-diminishing-step-sizes-implicit-averaging.md) [+W]
+- [Iterate averaging with step sizes decreasing slower than O(1/n) converges at an optimal rate](../claims/polyak-juditsky-iterate-averaging-optimal-rate.md) [+W]
+- [Propdec Colinear With Student Intercept](../claims/propdec-colinear-with-student-intercept.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -164,6 +175,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [A stochastic (exploration) router yields a higher exercise conversion rate than the static baseline, while the greedy router is comparable](../claims/stochastic-router-higher-conversion-rate.md) [+M]
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](../claims/adult-ed-minimal-learner-data-use.md) [-W]
 - [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](../claims/drl-policy-favors-guided-examples-distribution.md) [+W]
+- Convergence Condition Stochastic Approximation [+M]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time
@@ -187,6 +199,8 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Use AI to support autonomy-supportive task adaptation in physical education rather than algorithmic exercise prescription](../strategies/autonomy-supportive-ai-task-adaptation-pe.md)
 - [cc-self-train adaptive learning system: a three-layer hook-based engagement observation and scaffolding adjustment mechanism](../designs/cc-self-train-adaptive-learning-system.md)
 - [Use traced error causes as personalized intervention recommendations in online learning systems](../strategies/error-cause-tracing-for-personalized-recommendations.md)
+- [Select iteration coefficients according to the proved convergence condition when implementing stochastic approximation](../strategies/coefficient-selection-strategy.md)
+- [Iteration-coefficient sequences as the controllable design element of stochastic approximation](../elements/iteration-coefficient-sequence.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).
@@ -207,6 +221,8 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND. [doi:10.7249/rr1365](https://doi.org/10.7249/rr1365)
 - Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
 - Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
+- Wolff, Hans. (1970). On Stochastic Approximation. https://eric.ed.gov/?id=ED051258
+- Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the earlier Description and Implications, verbatim.
 
@@ -406,4 +422,83 @@ The survey reports three objectives proposed by Huang et al. to go beyond assign
 
 ## Key Sources
 - Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
+-->
+
+<!-- merged 2026-10-14 from principles/sequential-noisy-estimation-principle ("Use stochastic approximation for sequential parameter estimation when observations are noisy and each observation is costly"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Use stochastic approximation for sequential parameter estimation when observations are noisy and each observation is costly
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article supports using the Robbins-Monro procedure in settings where a parameter must be estimated sequentially from noisy observations, as in adaptive measurement of learner ability. Because the procedure updates after each observation, it suits contexts where observations are costly and convergence must be guaranteed. The article's contribution is the condition the iteration coefficients must satisfy for such sequential estimation to converge.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Iteration coefficients chosen to satisfy the article's necessary and sufficient convergence condition
+#### Constraints
+- The guarantee is mathematical; the article reports no instructional trial of the procedure
+
+### Target Learners
+- learners undergoing sequential or adaptive assessment
+
+### Target Learning Objectives
+- accurate estimation of learner ability or learning parameters
+
+### Claims
+
+- Convergence Condition Stochastic Approximation [+M]
+- [Diminishing step sizes in stochastic approximation induce implicit averaging that eliminates noise effects in the long run](../claims/robbins-monro-diminishing-step-sizes-implicit-averaging.md) [+W]
+- [Iterate averaging with step sizes decreasing slower than O(1/n) converges at an optimal rate](../claims/polyak-juditsky-iterate-averaging-optimal-rate.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Select iteration coefficients according to the proved convergence condition when implementing stochastic approximation](../strategies/coefficient-selection-strategy.md)
+- [Iteration-coefficient sequences as the controllable design element of stochastic approximation](../elements/iteration-coefficient-sequence.md)
+
+## Key Sources
+- Wolff, Hans. (1970). On Stochastic Approximation. https://eric.ed.gov/?id=ED051258
+-->
+
+<!-- merged 2026-10-14 from principles/avoid-student-intercepts-for-transfer ("Avoid fixed or random student intercepts in learner models intended to transfer to new student populations"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Avoid fixed or random student intercepts in learner models intended to transfer to new student populations
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article argues that to be maximally applicable, a learner model needs to adapt to student differences without requiring student parameters estimated from prior data. The main-comparison models avoid student parameters as a partial solution to the cold start problem that occurs when models are transferred between different populations of students, instead using dynamic adaptive features like propdec at the student level.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A dynamic adaptive feature (e.g., propdec or logitdec) that captures student variability from the practice sequence itself
+#### Constraints
+- A pretest could be used to estimate student-level intercept values, but this possibility is not addressed in the article
+
+### Target Learners
+- new students in populations unseen during model fitting
+
+### Target Learning Objectives
+- generalizable prediction of student performance in adaptive systems
+
+### Claims
+- [Propdec Colinear With Student Intercept](../claims/propdec-colinear-with-student-intercept.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
 -->

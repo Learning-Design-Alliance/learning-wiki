@@ -1,6 +1,7 @@
 ---
 type: principle
 id: collaborative-learning
+aliases: [collaboration-paramount-pedagogy-collectivity, learners-as-learning-resources-principle]
 title: Collaborative Learning
 description: "For learners who can take part in the task, working jointly so that each member must engage with the others' reasoning is expected to raise individually measured understanding over working alone on the same task, for goals that gain from explaining and reconciling ideas; co-presence, equal participation or group satisfaction alone are not expected to show it."
 canonical: true
@@ -13,12 +14,20 @@ sources:
     resource: "https://doi.org/10.1348/000709908X380772"
     title: "Webb, N. M. (2009). The teacher’s role in promoting collaborative dialogue in the classroom. *British Journal of Educational Psychology, 79*(1), 1-28"
     author: Webb, N. M
+  - id: loper-2000
+    resource: "https://eric.ed.gov/?id=ED443009"
+    title: "Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009"
+    author: Loper, Paul
+  - id: jim-reynolds-2006
+    resource: "http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html"
+    title: "Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators. Inquiry, Volume 11, Number 1, Spring 2006, 55-64. http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html"
+    author: Jim Reynolds
 ---
 
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (9 for, 12 mixed, 1 against) · 29 studies (7 causal, 6 quant-synthesis, 4 associational, 4 qualitative, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 4 of 29 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (12 for, 12 mixed, 2 against) · 33 studies (7 causal, 6 quant-synthesis, 5 theoretical, 4 review, 4 associational, 4 qualitative, 3 design), `q1`–`q4` · 4 of 33 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -87,6 +96,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Embodied collaborative construction can build shared geometric reasoning](../claims/embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) [+W] — not settled: the text available could not confirm the entries (abstract)
 - [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](../claims/awareness-of-heterogeneity-does-not-predict-regulation-success.md) [~W] — not yet checked against its sources
 - [Well-defined tasks and accessible materials support shared creative influence in group work](../claims/well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Excessive dependence on AI may reduce human interaction and dehumanize adult education](../claims/over-reliance-ai-reduces-human-interaction.md) [+W]
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](../claims/dialogue-underpins-networked-learning.md) [+W]
+- [GenAI feedback limitations require students to exercise evaluative judgement](../claims/genai-limitations-require-evaluative-judgement.md) [+W] — attached 2026-10-12 from Ying Zhan et al. (2025), which proposed "Orchestrate GenAI feedback with student feedback literacy for positive alignment".
+- [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](../claims/agentic-ai-invalidates-three-ai-literacy-assumptions.md) [-W]
 
 ## Objective and learner-valued goal
 
@@ -105,7 +118,7 @@ Group performance during the task, individual understanding straight after it, d
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](../claims/students-report-peer-collaboration-supports-learning.md) [+W]
 
 ## Related Principles
-- [Conditions for Productive Group Creativity](conditions-for-productive-group-creativity.md) — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically
+- Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically
 - [Peer Discussion](peer-discussion.md) — structured talk is one of the main mechanisms through which collaborative learning produces understanding
 - [Perspective-Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — collaboration is especially valuable when disagreement and comparison sharpen thinking
 - [Social Learning](../theories/sociocultural-theory.md) — provides the broader explanation for why interaction can itself be instructional
@@ -113,6 +126,8 @@ Group performance during the task, individual understanding straight after it, d
 ## Examples
 
 - [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](../strategies/individual-assessment-during-pair-work-robotics.md)
+- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../products/chormmunity.md)
+- [Co-Creating Classroom Norms](../strategies/co-creating-classroom-norms.md)
 
 ### Illustrative
 
@@ -125,6 +140,8 @@ Group performance during the task, individual understanding straight after it, d
 ## Key Sources
 - Johnson, D. W., Johnson, R. T., & Smith, K. A. (2014). Cooperative learning. *Journal on Excellence in College Teaching, 25*(3-4), 85-118.
 - Webb, N. M. (2009). The teacher’s role in promoting collaborative dialogue in the classroom. *British Journal of Educational Psychology, 79*(1), 1-28. [https://doi.org/10.1348/000709908X380772](https://doi.org/10.1348/000709908X380772)
+- Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009
+- Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators. Inquiry, Volume 11, Number 1, Spring 2006, 55-64. http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the earlier body is kept verbatim below.
 
@@ -176,3 +193,85 @@ Collaborative learning is strongest when the task genuinely benefits from multip
 - [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](../claims/large-group-size-limited-participation-confidence.md) [~W]
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](../claims/collaborative-group-work-beats-competitive-classrooms-k12.md) [+W]
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](../claims/high-performing-groups-fail-without-collaboration.md) [+W]
+
+<!-- merged 2026-10-14 from principles/collaboration-paramount-pedagogy-collectivity ("Make collaboration paramount in pedagogy because humanity is intrinsically collective"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Make collaboration paramount in pedagogy because humanity is intrinsically collective
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The article argues that because learning and freedom are socially mediated, collaborative creation should be central to transformative pedagogy. It states: "Given the intrinsic collectivity of humanity, collaboration is paramount pedagogy." Collaboration surfaces socialized schemes of oppression so contradictions are embraced as part of the learning process, and it counters power-over with power-with in creative work.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Willingness to let socialized inequalities surface and be addressed collectively during the learning process
+#### Constraints
+- The article warns that employing intentional creativity risks the exploitative incarnation of power, power over as opposed to power with
+
+### Target Learners
+- adults in transformative learning settings
+
+### Target Learning Objectives
+- empowerment
+- negotiating new definitions of authority
+- transforming meaning perspectives
+
+### Claims
+
+- [Excessive dependence on AI may reduce human interaction and dehumanize adult education](../claims/over-reliance-ai-reduces-human-interaction.md) [+W]
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](../claims/dialogue-underpins-networked-learning.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../products/chormmunity.md)
+- [Co-Creating Classroom Norms](../strategies/co-creating-classroom-norms.md)
+
+## Key Sources
+- Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009
+-->
+
+<!-- merged 2026-10-14 from principles/learners-as-learning-resources-principle ("Treat other people and technology as learning resources whose selection and evaluation learners control"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Treat other people and technology as learning resources whose selection and evaluation learners control
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The article's fifth assumption holds that other learners, teachers, family members, community people, employers, and technology tools are learning resources, and that learners should gain control over selecting and evaluating them. The author notes collaborative learning describes learning with others toward a common goal, but cautions that 'not all learners function well with others,' so each learner should decide if and how others can help.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Learners must be given increasing opportunities to expand their control and responsibility for selecting and evaluating their own learning resources.
+#### Constraints
+- Not all learners function well with others; collaborative use of people as resources should be the learner's choice.
+
+### Target Learners
+- K-12 and higher education learners, including community college students
+
+### Target Learning Objectives
+- Information literacy and self-directed use of human and technological learning resources
+
+### Claims
+
+- [GenAI feedback limitations require students to exercise evaluative judgement](../claims/genai-limitations-require-evaluative-judgement.md) [+W] — attached 2026-10-12 from Ying Zhan et al. (2025), which proposed "Orchestrate GenAI feedback with student feedback literacy for positive alignment".
+- [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](../claims/agentic-ai-invalidates-three-ai-literacy-assumptions.md) [-W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators. Inquiry, Volume 11, Number 1, Spring 2006, 55-64. http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html
+-->

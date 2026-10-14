@@ -112,7 +112,6 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Communities of Practice](../principles/communities-of-practice.md)
 - [Collaborative Learning](../principles/collaborative-learning.md)
 - [Problem-based Learning](../principles/problem-based-learning.md)
-- [Make collaboration paramount in pedagogy because humanity is intrinsically collective](../principles/collaboration-paramount-pedagogy-collectivity.md)
 - [Apply scaffolding and social group-investigation models in gifted classrooms](../strategies/scaffolding-group-investigation-gifted-classrooms.md)
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 - Peer discussion around a complex question.

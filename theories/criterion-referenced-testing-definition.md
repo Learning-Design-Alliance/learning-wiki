@@ -49,7 +49,7 @@ The paper defines criterion-referenced testing as an approach whose tests are "d
 
 ## Examples
 
-- [Four characteristics inherent in criterion-referenced tests](../patterns/four-characteristics-criterion-referenced-tests.md)
+- [Four characteristics inherent in criterion-referenced tests](../principles/criterion-and-norm-referenced-testing.md)
 
 ## Key Sources
 - Nitko, Anthony J. (1970). Criterion-Referenced Testing in the Context of Instruction. https://eric.ed.gov/?id=ED047010

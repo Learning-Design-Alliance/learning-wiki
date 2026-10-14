@@ -47,8 +47,7 @@ The brief defines rightful presence as a systems-level extension of a concept fr
 ## Examples
 
 - [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
-- [Co-create learning environments with and for students from identity groups that most frequently experience inequities](../principles/co-create-environments-with-experienced-inequity-groups.md)
-- [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](../principles/presume-rightful-presence-and-inherent-value.md)
+- [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](../elements/belonging.md)
 - [Rightful Presence Implementation Guide (swiftschools.org)](../elements/rightful-presence-implementation-guide.md)
 
 ## Key Sources

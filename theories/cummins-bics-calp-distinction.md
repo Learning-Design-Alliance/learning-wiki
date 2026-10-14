@@ -52,7 +52,6 @@ The packet explains that "Cummins divides language proficiency into two dimensio
 
 ## Examples
 
-- [Instruction promoting bilingual students' CALP should integrate cognitive challenge, academic content, and critical language awareness](../principles/calp-instruction-three-components.md)
 - [Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)](../patterns/functional-approach-bics-to-calp-progression.md)
 - [Functional Approach model: a five-step progression taking students from BICS (oral dialogue) to CALP (written discourse)](../elements/functional-approach-oral-dialogue-to-written-discourse-model.md)
 

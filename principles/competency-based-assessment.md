@@ -18,12 +18,16 @@ sources:
     resource: "https://eric.ed.gov/"
     title: "National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/"
     author: "National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System"
+  - id: fricke-1976
+    resource: "https://eric.ed.gov/?id=ED127854"
+    title: "Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
+    author: Fricke, B. G
 ---
 
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (7 for, 18 mixed, 1 against) · 28 studies (7 causal, 5 design, 5 theoretical, 4 review, 4 associational, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 3 of 28 report an effect size · 23 claims rest on one study
+> **Evidence** · 32 claims (13 for, 18 mixed, 1 against) · 30 studies (7 causal, 6 design, 6 theoretical, 4 review, 4 associational, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 3 of 30 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -100,6 +104,12 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](../claims/board-certification-identifies-more-expert-teachers.md) [+W]
 - [Focused rubric refinement that made required physics and scoring conditions explicit reduced AI–official disagreements on targeted questions (e.g., Grover item MAD 1.1 to 0.4 marks, r 0.70 to 0.82)](../claims/explicit-rubric-conditions-reduce-ai-disagreement.md) [+W] — attached 2026-10-10 from Praveen Pathak et al. (2026), which proposed "Before AI grading is attempted, rubrics should state as explicitly as possible the conditions for awarding marks, common deductions, acceptable alternatives, and carried-forward-error rules".
 - [Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge](../claims/ai-interaction-competencies-observable-scorable.md) [+W] — attached 2026-10-11 from Gao et al. (2026), which proposed "Rubric design pattern: interaction-scale D1 (0–4) plus expert-anchored evaluation-scale D2 (0–3) with the expert answer key as external calibration standard".
+- [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](../claims/transcript-grades-blurred-currency.md) [+W]
+- [A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality](../claims/contract-guarantees-b-for-completion-not-quality.md) [+W] — attached 2026-10-14 from Danielewicz et al. (2009), which proposed "Guarantee a grade for completing specified activities so teacher and student attention shifts from grading to learning"; tests this page's relationship.
+- [Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning](../claims/decoupling-evaluation-from-grades-improves-feedback.md) [+W] — attached 2026-10-14 from Danielewicz et al. (2009), which proposed "Guarantee a grade for completing specified activities so teacher and student attention shifts from grading to learning"; tests this page's relationship.
+- [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](../claims/contract-yields-more-student-work.md) [+W] — attached 2026-10-14 from Danielewicz et al. (2009), which proposed "Guarantee a grade for completing specified activities so teacher and student attention shifts from grading to learning"; tests this page's relationship.
+- [The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B](../claims/fourteen-weeks-contract-work-warrants-b.md) [+W]
+- [The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality](../claims/hybrid-contract-resists-grade-inflation.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -124,6 +134,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+W]
 - [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](../claims/llms-support-competency-based-assessment-design.md) [+W]
 - [ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level](../claims/elpac-pl4-threshold-validated-replication.md) [+W]
+- Mastery Criterion Beats Fixed Trials [+M]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule
@@ -145,6 +156,9 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Portfolio entries with written commentary for assessing teaching practice](../products/national-board-certification.md)
 - [Reorient AI assessment toward formative, holistic portraits of learner competencies rather than automated grading](../strategies/ai-assessment-holistic-competency-portraits.md)
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](../strategies/clarify-purpose-norm-expectations-calibrate-pog.md)
+- [Learning Contracts](../elements/learning-contracts.md)
+- [Learning Contracts](../strategies/learning_contracts.md)
+- [Negotiate learning contracts at the start of term and allow test retakes until mastery](../strategies/negotiate-contracts-allow-retakes.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.
@@ -152,6 +166,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - Collins, J. B., Harsy, A., Hart, J., Haymaker, K. A., Hoofnagle, A. M., Kuyper Janssen, M., & O'Shaughnessy, J. (2019). Mastery-based testing in undergraduate mathematics courses. *PRIMUS, 29*(5), 441-460. [doi:10.1080/10511970.2018.1488317](https://doi.org/10.1080/10511970.2018.1488317)
 - Shearer, R. L. (2017). Adaptive learning, competency-based education, and personalization: Implications for distance education and adult learners. *Journal of Lifelong Learning Society, 13*(1), 49-71.
 - National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/
+- Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -321,4 +336,51 @@ The digest states that "From the beginning, the National Board has been committe
 
 ## Key Sources
 - National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/
+-->
+
+<!-- merged 2026-10-14 from patterns/grading-by-contract-fricke ("Grading by contract: students propose specific work and criteria within teacher-presented options"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Grading by contract: students propose specific work and criteria within teacher-presented options
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 6 claims (6 for) · 2 studies (1 design, 1 theoretical), `q1` · 0 of 2 report an effect size · 6 claims rest on one study
+
+## Description
+Contract grading is a course-level arrangement in which the teacher presents a number of options (such as a specified number of correct responses or quality of performance), and within these limits each student may then propose a specific set of work at the beginning of the term. The work is completed when the agreed criteria are met, and the plan can incorporate mastery-learning features allowing students to repeat a given test. The memo reports that about one-third of Michigan graduate TAs used some variation of a contract plan.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The teacher must present a set of grading options and accept student proposals within those limits
+#### Constraints
+- 
+
+### Target Learners
+- university students
+
+### Target Goals
+- meeting explicit, individually negotiated performance criteria
+
+### Claims
+
+- Mastery Criterion Beats Fixed Trials [+M]
+- [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](../claims/transcript-grades-blurred-currency.md) [+W]
+- [A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality](../claims/contract-guarantees-b-for-completion-not-quality.md) [+W] — attached 2026-10-14 from Danielewicz et al. (2009), which proposed "Guarantee a grade for completing specified activities so teacher and student attention shifts from grading to learning"; tests this page's relationship.
+- [Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning](../claims/decoupling-evaluation-from-grades-improves-feedback.md) [+W] — attached 2026-10-14 from Danielewicz et al. (2009), which proposed "Guarantee a grade for completing specified activities so teacher and student attention shifts from grading to learning"; tests this page's relationship.
+- [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](../claims/contract-yields-more-student-work.md) [+W] — attached 2026-10-14 from Danielewicz et al. (2009), which proposed "Guarantee a grade for completing specified activities so teacher and student attention shifts from grading to learning"; tests this page's relationship.
+- [The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B](../claims/fourteen-weeks-contract-work-warrants-b.md) [+W]
+- [The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality](../claims/hybrid-contract-resists-grade-inflation.md) [+W]
+
+## Related Patterns
+- 
+
+## Examples
+
+- [Learning Contracts](../elements/learning-contracts.md)
+- [Learning Contracts](../strategies/learning_contracts.md)
+- [Negotiate learning contracts at the start of term and allow test retakes until mastery](../strategies/negotiate-contracts-allow-retakes.md)
+
+## Key Sources
+- Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
 -->

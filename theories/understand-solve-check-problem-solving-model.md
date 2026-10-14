@@ -45,7 +45,7 @@ A general cognitive model of performance on figural response items, adapted from
 
 ## Examples
 
-- [Base diagnostic item attributes on an independently constructed cognitive model of problem solving](../principles/base-attributes-on-cognitive-model.md)
+- [Base diagnostic item attributes on an independently constructed cognitive model of problem solving](../principles/criterion-and-norm-referenced-testing.md)
 
 ## Key Sources
 - Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652

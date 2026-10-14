@@ -82,7 +82,6 @@ The current claim inventory supports explanation and reflective revision mechani
 - [Peer Discussion](peer-discussion.md) — structured discussion is one common vehicle for comparing perspectives.
 - [Discussing Race](discussing-race.md) — race-conscious dialogue often depends on careful perspective comparison and interpretation.
 - [Evaluating Sources](evaluating-sources.md) — comparing perspectives is stronger when learners also assess evidence quality and credibility.
-- [Establish an appropriate researcher signature by balancing participant, researcher, and audience voices, and judge validity by believability](researcher-signature-believability-validity.md)
 
 ## Examples
 - **Multiple-text comparison**: Learners read contrasting accounts of the same event and identify differences in framing, evidence, and implication.

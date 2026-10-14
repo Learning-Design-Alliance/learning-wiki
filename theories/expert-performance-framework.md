@@ -50,7 +50,7 @@ The expert-performance approach studies objectively measurable, reproducibly sup
 
 ## Examples
 
-- [Treat perceived giftedness as access to superior training resources, and define the giftedness construct explicitly before labeling](../principles/perceived-giftedness-confers-training-resources.md)
+- [Treat perceived giftedness as access to superior training resources, and define the giftedness construct explicitly before labeling](../principles/supporting-gifted-and-talented-students.md)
 
 ## Key Sources
 - Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057

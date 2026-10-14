@@ -45,7 +45,7 @@ During the inquiry introduction, facilitators should make students conscious of 
 
 ## Related Principles
 
-- [Help students understand disciplines as modes of inquiry rather than static bodies of information](disciplines-as-modes-of-inquiry.md)
+- [Help students understand disciplines as modes of inquiry rather than static bodies of information](epistemic-cognition.md)
 - [Use backward design: define process, attitudinal, and content goals before designing the inquiry activity](backward-design-goals-first-inquiry.md)
 
 ## Examples

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: harmonize-opposites-in-educational-change
-aliases: [combine-communicative-with-traditional-methods, combine-pb-and-simulation-il-instruction, teach-scientist-and-poet-truths]
+aliases: [combine-communicative-with-traditional-methods, combine-pb-and-simulation-il-instruction, teach-scientist-and-poet-truths, lateral-transmission-alongside-vertical]
 title: "Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale"
 description: "Applying Newton's third law as a metaphor, the essay argues every educational change provokes an equal and opposite reaction, so \"the best course may be to strike a balance between competing ideas\"."
 canonical: true
@@ -26,12 +26,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED030640"
     title: "Jenkins, William A. (1962). Time That Is Intolerant. Elementary English. https://eric.ed.gov/?id=ED030640"
     author: Jenkins, William A
+  - id: monroe-1992
+    resource: "https://eric.ed.gov/?id=ED356168"
+    title: "Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168"
+    author: Monroe, Suzanne S
 ---
 
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (10 for, 2 mixed) · 5 studies (4 theoretical, 1 causal), `q1`–`q3` · 0 of 5 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (12 for, 2 mixed) · 6 studies (4 theoretical, 1 causal, 1 review), `q1`–`q3` · 0 of 6 report an effect size · 14 claims rest on one study
 
 ## Description
 Applying Newton's third law as a metaphor, the essay argues every educational change provokes an equal and opposite reaction, so "the best course may be to strike a balance between competing ideas". Educators should "avoid going overboard on one methodor philosophy of teaching" and instead weigh pros and cons of each reform, adopting balanced combinations such as both cooperative and individual work, or both grouping plans.
@@ -44,17 +48,21 @@ Applying Newton's third law as a metaphor, the essay argues every educational ch
 - Teachers must recognize that no single method covers form, use and content of the target language
 - Educator commitment and high engagement in whichever environment is used, since the simulation's knowledge outcomes suffered when live educators disengaged
 - Teachers must value both precision and economy and the subjective, emotional, inspirational, and esthetic qualities of language.
+- An educational system that provides secondary and higher education to individuals at any time throughout their lives
 #### Constraints
 - The essay excludes approaches it deems clearly harmful, such as physical punishment to motivate pupils, from this balancing recommendation.
 - The article frames this for the Chinese educational system, where teaching habits, examination system, teacher education level and class size limit communicative teaching
 - The two approaches currently construct distinct types of information-literate learners, and the author calls for research to decrease the affordance gap between them
 - The author states machines may someday create language with these human qualities, making the division of labor temporary.
+- The report attributes this to Mead's essays in Harvard Business Review (1958) and NEA Journal (1959); it is a proposal, not a tested intervention
 
 ### Target Learners
 - K-12 pupils across curriculum areas
 - EFL teachers in China's primary and middle schools
 - K–12 students, particularly middle school students learning information problem-solving
 - elementary school children in language arts instruction
+- adults in continuing education
+- school-age learners in a rapidly changing society
 
 ### Target Learning Objectives
 - Balanced adoption of instructional methods and curricular reforms
@@ -62,6 +70,7 @@ Applying Newton's third law as a metaphor, the essay argues every educational ch
 - information problem-solving content knowledge and application of information literacy practices
 - language as a humanizing instrument
 - learning how to live and find life's purposes
+- continual adaptation to innovation and new conditions throughout life
 
 ### Claims
 
@@ -77,6 +86,8 @@ Applying Newton's third law as a metaphor, the essay argues every educational ch
 - [Language Subjective Emotional Aesthetic](../claims/language-subjective-emotional-aesthetic.md) [+W]
 - [Science Values Imposed On Language](../claims/science-values-imposed-on-language.md) [+W]
 - [Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application](../claims/washington-tuskegee-method-stifled-new-ideas.md) [+W]
+- [Mead Rapid Change Obsoletes Knowledge](../claims/mead-rapid-change-obsoletes-knowledge.md) [+M]
+- [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](../claims/mead-education-as-mechanism-of-social-change.md) [+W]
 
 ## Related Principles
 
@@ -92,6 +103,7 @@ Applying Newton's third law as a metaphor, the essay argues every educational ch
 - Yang Xu. (2010). Theories Analyzing Communicative Approach in China's EFL Classes. English Language Teaching, 3(1). https://eric.ed.gov/?id=EJ1081496
 - Newell, T. S. (2008). Examining Information Problem-Solving, Knowledge, and Application Gains within Two Instructional Methods: Problem-Based and Computer-Mediated Participatory Simulation. School Library Media Research. https://www.ala.org/aasl/slmr
 - Jenkins, William A. (1962). Time That Is Intolerant. Elementary English. https://eric.ed.gov/?id=ED030640
+- Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168
 
 <!-- merged 2026-10-07 from principles/combine-communicative-with-traditional-methods ("Combine communicative and traditional teaching methods rather than adopting either exclusively"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -211,4 +223,44 @@ The address recommends that language arts teachers hold scientific and poetic tr
 
 ## Key Sources
 - Jenkins, William A. (1962). Time That Is Intolerant. Elementary English. https://eric.ed.gov/?id=ED030640
+-->
+
+<!-- merged 2026-10-14 from principles/lateral-transmission-alongside-vertical ("Balance vertical transmission with lateral transmission so all members of society continually learn from new discoveries"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Balance vertical transmission with lateral transmission so all members of society continually learn from new discoveries
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+Drawing on Mead's 1958-1959 essays, the report describes a shift from purely vertical teaching, in which experienced teachers transmit the tried and true to inexperienced pupils, toward "the lateral transmission, to every sentient member of society, of what has been discovered, invented, created, manufactured, and marketed." Mead argued the traditional linear system must be modified and balanced by a more innovative, circular approach, exemplified by in-service training and adult continuing education.
+
+## Design Implications
+
+### Context
+#### Requirements
+- An educational system that provides secondary and higher education to individuals at any time throughout their lives
+#### Constraints
+- The report attributes this to Mead's essays in Harvard Business Review (1958) and NEA Journal (1959); it is a proposal, not a tested intervention
+
+### Target Learners
+- adults in continuing education
+- school-age learners in a rapidly changing society
+
+### Target Learning Objectives
+- continual adaptation to innovation and new conditions throughout life
+
+### Claims
+
+- [Mead Rapid Change Obsoletes Knowledge](../claims/mead-rapid-change-obsoletes-knowledge.md) [+M]
+- [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](../claims/mead-education-as-mechanism-of-social-change.md) [+W]
+
+## Related Principles
+
+
+## Examples
+-
+
+## Key Sources
+- Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168
 -->

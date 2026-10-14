@@ -20,3 +20,13 @@ Ingested from eric-ed351392 (Conceptual Developments in Schema Theory.) via eval
 
 ### 2026-09-27 · ingest · process:wiki-ingest
 Ingested from eric-ej1075771 (Experimental Investigation of the Effects of Cognitive Elaboration on Accounting Learning Outcomes) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as patterns/grounding-and-unfolding-facilitation-moves
+
+### 2026-08-29 · ingest · claude/unspecified
+New pattern: grounding and unfolding facilitation moves, from Ademmer & Prediger 2025
+
+## Earlier history as principles/teach-information-with-prior-related-knowledge
+
+### 2026-09-25 · ingest · process:wiki-ingest
+Ingested from eric-ed221831 (Comprehension and the Long-Term Recall of Information. Final Report.) via eval_harness.py + ingest_extractions.py

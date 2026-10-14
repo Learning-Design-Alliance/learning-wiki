@@ -14,12 +14,16 @@ sources:
     resource: "https://doi.org/10.26077/936a-72f7"
     title: "Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7"
     author: Shvidko, Elena
+  - id: baaijen-galbraith-2018
+    resource: "https://doi.org/10.1080/07370008.2018.1456431"
+    title: "Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. Cognition and Instruction, 36(3), 199-223."
+    author: "Baaijen, V. M., & Galbraith, D."
 ---
 
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (15 for, 11 mixed) · 41 studies (13 causal, 9 quant-synthesis, 5 review, 5 theoretical, 4 associational, 3 qualitative, 2 design), `q1`–`q4` · 10 of 41 report an effect size · 16 claims rest on one study
+> **Evidence** · 27 claims (15 for, 11 mixed, 1 unmarked) · 42 studies (14 causal, 9 quant-synthesis, 5 review, 5 theoretical, 4 associational, 3 qualitative, 2 design), `q1`–`q4` · 11 of 42 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +130,7 @@ Claims this page cited before it was rewritten, and claims found for it that bea
 - [Skilled EFL writers apply procedural planning strategies…](../claims/skilled-writers-planning-revising-strategies.md) [+W] — interviews with nine skilled EFL university writers, who planned before writing and spent most revision time on logic and coherence; describes what skilled writers do, which this page's strategies aim at; tests no instruction.
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [+W] — a case analysis of teacher candidates' weekly written reflections; progress was partial and not linear; bears on revise-and-resubmit by analogy.
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — a cognitive-load review, not about writing; used for the advanced-writer row.
+- [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](../claims/spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md)
 
 ## Objective and learner-valued goal
 
@@ -154,10 +159,8 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Guided Practice](guided-practice.md) — early writing stages often benefit from teacher modeling and coached rehearsal.
 - [Graphic Organizers](graphic-organizers.md) — organizers can support planning and structural revision.
 - [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)
-- [Establish a viable trading point between life story giver and research taker through active collaboration](trading-point-between-story-giver-and-research-taker.md)
 - [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
-- [Establish an appropriate researcher signature by balancing participant, researcher, and audience voices, and judge validity by believability](researcher-signature-believability-validity.md)
-- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](engage-teachers-literacy-events-learner-to-learner.md)
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](communities-of-practice.md)
 - [Immediate Feedback](immediate-feedback.md) — feedback timing; its rule that a learner needs a chance to use a correction applies to draft feedback.
 - [Self-Regulated Learning](self-regulated-learning.md) — the plan–monitor–adjust cycle that writing strategy instruction applies to composing.
 - [Goal Setting and Monitoring](goal-setting-monitoring.md) — process goals before outcome goals while a writing strategy is new.
@@ -181,12 +184,14 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation](../strategies/ai-feedback-process-writing-integration-strategy.md)
 - [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](../strategies/collaborative-human-ai-revision-design.md)
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](../strategies/assessment-design-levers-visible-learning-traces.md)
+- In the source study, an argumentative essay task ("is growing dependence on computers/the internet good or bad?") assigned to university students under this planning condition showed a significant increase in self-rated topic understanding among students whose sentence production was spontaneous, compared to those under a full outline-planning condition.
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.
 - Wei, Z., Shang, H., & Briody, P. (2012). The relationship between English writing ability levels and EFL learners' metacognitive behaviour in the writing process. *International Journal of Academic Research in Progressive Education and Development, 1*(4), 154-180. [doi:10.6007/ijarped/v1-i4/12012](https://doi.org/10.6007/ijarped/v1-i4/12012)
 - Fernandez, R., Peyton, J. K., & Schaetzel, K. (2017). A survey of writing instruction in adult ESL programs: Are teaching practices meeting adult learner needs? *COABE Journal, 6*(2), 5.
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7
+- Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. *Cognition and Instruction, 36*(3), 199-223. [https://doi.org/10.1080/07370008.2018.1456431](https://doi.org/10.1080/07370008.2018.1456431)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -259,10 +264,8 @@ Process-based writing helps because strong writing rarely emerges from a single 
 - [Guided Practice](guided-practice.md) — early writing stages often benefit from teacher modeling and coached rehearsal.
 - [Graphic Organizers](graphic-organizers.md) — organizers can support planning and structural revision.
 - [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)
-- [Establish a viable trading point between life story giver and research taker through active collaboration](trading-point-between-story-giver-and-research-taker.md)
 - [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
-- [Establish an appropriate researcher signature by balancing participant, researcher, and audience voices, and judge validity by believability](researcher-signature-believability-validity.md)
-- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](engage-teachers-literacy-events-learner-to-learner.md)
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](communities-of-practice.md)
 
 ## Examples
 - **Draft-revise cycles**: Learners submit early drafts, receive feedback, and revise before final evaluation.
@@ -318,7 +321,6 @@ Revision should not be just a giver-receiver relationship with the teacher givin
 - [Avoid appropriating student writing; distinguish appropriation from helpful intervention](process-based-writing.md)
 - [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)
 - [Respond to student writing as an interested reader rather than only as an evaluator](process-based-writing.md)
-- [Establish a viable trading point between life story giver and research taker through active collaboration](trading-point-between-story-giver-and-research-taker.md)
 
 ## Examples
 
@@ -366,7 +368,6 @@ Teachers may inadvertently take over a student's voice and creativity by imposin
 - [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)
 - [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
 - [Respond to student writing as an interested reader rather than only as an evaluator](process-based-writing.md)
-- [Establish an appropriate researcher signature by balancing participant, researcher, and audience voices, and judge validity by believability](researcher-signature-believability-validity.md)
 
 ## Examples
 
@@ -409,7 +410,7 @@ Teachers can encourage and support student writers by responding to their texts 
 
 - [Avoid appropriating student writing; distinguish appropriation from helpful intervention](process-based-writing.md)
 - [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
-- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](engage-teachers-literacy-events-learner-to-learner.md)
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](communities-of-practice.md)
 
 ## Examples
 
@@ -417,4 +418,68 @@ Teachers can encourage and support student writers by responding to their texts 
 
 ## Key Sources
 - Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7
+-->
+
+<!-- merged 2026-10-14 from patterns/synthetic-planning-for-discovery-oriented-writing ("Synthetic Planning for Discovery-Oriented Writing"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Synthetic Planning for Discovery-Oriented Writing
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Most writing instruction encourages detailed outline planning before drafting, on the assumption that a clear structure improves both the writing process and the final product. This pattern inverts that assumption for a specific goal — deepening the writer's own understanding of an unresolved topic — by deliberately limiting pre-writing planning to a single overall goal statement, without a structural outline. This constraint forces sentence-by-sentence production to draw on the writer's implicit, not-yet-organized knowledge, generating genuinely new ideas during drafting rather than simply transcribing a pre-planned argument. The resulting draft is typically less coherent and lower quality than an outline-planned one, so the pattern pairs this drafting phase with a dedicated revision phase focused on discovering and imposing global structure on what was produced.
+
+## Implications
+
+### Context
+#### Requirements
+- An open-ended writing prompt on a topic the writer has not fully worked out (e.g., an argumentative or opinion essay), not a topic they are simply reporting on
+- A revision phase treated as substantive intellectual work, not just proofreading
+#### Constraints
+- Early drafts produced this way are measurably lower quality and less coherent than outline-planned drafts — this is an expected cost, not a failure, but should not be used when a polished first draft is the goal
+- The discovery benefit is specific to writers whose sentence production is spontaneous (minimal advance rehearsal); simply removing an outline does not guarantee spontaneous production
+#### Grain Size
+Lesson (a single extended writing session; the source study used a 30-minute draft after a 5-minute planning phase)
+
+### Target Goals
+- Deepening writer understanding of an unresolved topic through the writing process itself
+- [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](../claims/spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md)
+
+### Target Learners
+- Writers composing on a topic where their own position or understanding is still forming
+
+### Theory
+#### Supporting
+- [Dual-Process Account of Discovery in Writing](../theories/dual-process-account-of-discovery-in-writing.md)
+#### Contradicting / Qualifying
+- The problem-solving account of writing (Flower & Hayes; Bereiter & Scardamalia) predicts the opposite prescription — that detailed rhetorical planning, not minimal planning, should drive discovery — and this study's evidence complicates that account's core assumption that text quality and understanding rise together.
+
+### Claims
+#### Supporting
+#### Contradicting
+- (none yet linked)
+
+## Design
+
+### Sequence
+1. **Goal-setting (≈5 min)**: Writer states their overall position or goal in a single sentence, without outlining the essay's structure.
+2. **Initial idea listing (≈10 min)**: Writer briefly lists ideas relevant to the topic, without organizing them into a sequence.
+3. **Drafting (≈30 min)**: Writer produces a full draft, allowing sentence-by-sentence content to emerge without following a predetermined structure.
+4. **Global revision**: Writer (or writer with instructor support) identifies the structure that has emerged in the draft and reorganizes text — reordering sentences, consolidating repeated ideas, and clarifying transitions — to produce a coherent final text.
+
+### Affordances
+- (none yet linked)
+
+### Personalization
+- Writers who default to heavy self-monitoring (high self-monitors) may need more explicit encouragement to resist imposing structure during the drafting phase, since the source study found high self-monitors gained a quality advantage specifically under linear (structured) production.
+
+## Related Patterns
+- (none yet linked)
+
+## Examples
+- In the source study, an argumentative essay task ("is growing dependence on computers/the internet good or bad?") assigned to university students under this planning condition showed a significant increase in self-rated topic understanding among students whose sentence production was spontaneous, compared to those under a full outline-planning condition.
+
+## Key Sources
+- Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. *Cognition and Instruction, 36*(3), 199-223. [https://doi.org/10.1080/07370008.2018.1456431](https://doi.org/10.1080/07370008.2018.1456431)
 -->

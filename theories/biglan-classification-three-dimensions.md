@@ -48,7 +48,6 @@ The Biglan classification characterizes academic disciplines along three dimensi
 
 ## Examples
 
-- [Replace one-size-fits-all engagement policies with discipline-specific RPT policies, professional development, and institutional support](../principles/discipline-specific-engaged-scholarship-policies.md)
 
 ## Key Sources
 - Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104

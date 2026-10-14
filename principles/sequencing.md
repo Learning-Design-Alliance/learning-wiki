@@ -1,7 +1,7 @@
 ---
 type: principle
 id: sequencing
-aliases: [articulate-partial-meanings-integral-planning, free-exploration-before-organized-plan-sequence, number-difficulty-impacts-mdc-construction, vicarious-before-mastery-teacher-development]
+aliases: [articulate-partial-meanings-integral-planning, free-exploration-before-organized-plan-sequence, number-difficulty-impacts-mdc-construction, vicarious-before-mastery-teacher-development, oral-aural-before-literacy-foreign-language]
 title: Sequencing
 description: "For a novice on a target whose parts depend on each other, meeting the parts in an order that puts what a step rests on before it and moves from what the learner can process toward full complexity, revised from the learner's responses, is expected to improve performance on tasks that draw on the whole; no claim tests that general rule, and tests of particular orders (example or problem first, parts or whole first, blocked or mixed) favour different orders for different learners and goals."
 canonical: true
@@ -30,12 +30,20 @@ sources:
     resource: "https://doi.org/10.5032/jae.2016.01073"
     title: "McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073"
     author: "McKim, A. J., & Velez, J. J"
+  - id: kahn-hall-2026
+    resource: "https://doi.org/10.1080/10508406.2026.2624531"
+    title: "Kahn, J., & Hall, R. (2026). An oldtimer and newcomers telling stories about models using open large datasets. Journal of the Learning Sciences."
+    author: "Kahn, J., & Hall, R."
+  - id: neiburg-1997
+    resource: "https://eric.ed.gov/?id=ED417613"
+    title: "Neiburg, Michael S. (1997). Following Native Language Acquisition. Paper presented at the Annual Meeting of the Japan Association for Language Teaching (23rd, Hamamatsu, Japan, October 11, 1997). https://eric.ed.gov/?id=ED417613"
+    author: Neiburg, Michael S
 ---
 
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (23 for, 9 mixed) · 27 studies (10 causal, 7 review, 7 theoretical, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 27 report an effect size · 28 claims rest on one study
+> **Evidence** · 37 claims (27 for, 10 mixed) · 29 studies (10 causal, 8 theoretical, 7 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +168,11 @@ Claims this page cited before it was rewritten, and claims found while rewriting
 - [Mastery Experiences Not Optimal Initially Preservice Efficacy](../claims/mastery-experiences-not-optimal-initially-preservice-efficacy.md) [+M]
 - [Student teachers' teaching efficacy follows a dip trajectory: it rises during on-campus preparation, falls to its lowest point at the midpoint of student teaching, and rebounds by the end](../claims/efficacy-dips-midpoint-student-teaching.md) [+W]
 - [No reviewed study directly compared developmental-progression-guided math instruction with instruction not guided by a progression](../claims/no-direct-evidence-developmental-progression-versus-unguided.md) [~W] — attached 2026-10-09 from Frye et al. (2013), which proposed "Teach number and operations using a developmental progression, starting with subitizing small collections"; tests this page's relationship.
+- Depends on learners choosing (or being given) a topic they have some personal stake in — [Personal connection to data supports critical data-literacy stance-taking](../claims/personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) [~M]
+- [Sticht Law Reading Cannot Exceed Listening](../claims/sticht-law-reading-cannot-exceed-listening.md) [+W]
+- [Japanese English Instruction Inverts Stage Sequence](../claims/japanese-english-instruction-inverts-stage-sequence.md) [+W]
+- [Oral language competence predicts subsequent reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]
+- [Reverse transfer from literacy to oral skills is unsupported by research](../claims/reverse-transfer-literacy-to-oral-unsupported.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -191,6 +204,9 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md), [Spiral curriculum](../elements/spiral-curriculum.md) and [Part-task practice](../elements/part-task-practice.md) are elements that carry an order; [Learning hierarchy task analysis](../methods/learning-hierarchy-task-analysis.md) is the method for mapping dependencies; [4C/ID](../patterns/4cid-four-component-instructional-design.md) sequences whole tasks.
 - [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](../strategies/problem-situation-sequences-progressive-comprehension.md)
 - [Develop complex simulations incrementally, testing each stage before adding the next feature](../strategies/incremental-llm-simulation-development.md)
+- Prospective mathematics and social-studies teachers used Gapminder and a Hans Rosling TED talk as the remix exemplar, then authored performances on topics like global CO2 emissions and national wealth/health measures.
+- [Concentrate beginning foreign language instruction on listening and speaking](../strategies/concentrate-beginning-instruction-listening-speaking.md)
+- A lesson opening with a short review of the prior day's content, an overview of the new topic, direct instruction, an explicit comparison ("this is like what we just did, except..."), and a closing application task
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)
@@ -199,6 +215,10 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 - Risley, R., Hodkowski, N. M., & Tzur, R. (2016). Devin's construction of a multiplicative double counting scheme: Dual anticipation of start and stop. Proceedings of the 38th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://www.pmena.org/proceedings/
 - McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
+- Kahn, J., & Hall, R. (2026). An oldtimer and newcomers telling stories about models using open large datasets. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2624531](https://doi.org/10.1080/10508406.2026.2624531)
+- Neiburg, Michael S. (1997). Following Native Language Acquisition. Paper presented at the Annual Meeting of the Japan Association for Language Teaching (23rd, Hamamatsu, Japan, October 11, 1997). https://eric.ed.gov/?id=ED417613
+- Hergenhahn, B. R. (2009). *An introduction to the history of psychology*. Wadsworth.
+- Arduini-Van Hoose, N. (2020). History of educational psychology. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -436,4 +456,173 @@ This principle holds that agriculture teacher preparation programs should build 
 
 ## Key Sources
 - McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
+-->
+
+<!-- merged 2026-10-14 from patterns/data-storytelling-forage-remix-diy ("Data Storytelling — Forage, Remix, DIY"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Data Storytelling — Forage, Remix, DIY
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+This pattern scaffolds learners into data storytelling and critical data literacy through three stages of increasing authorship: **Forage** (critically analyze existing public data stories), **Remix** (reconstruct and deliberately alter a professional's data visualization performance), and **DIY** (author and perform an original story using an open dataset the learner chooses). A live performance to peers, followed by open Q&A, creates a feedback loop that pushes learners to defend their data and modeling choices in real time, and to notice what a model shows, hides, and represents.
+
+## Implications
+
+### Context
+#### Requirements
+- Access to an interactive data-visualization tool (e.g., Gapminder-style motion charts) and one or more open large datasets (OLDs) relevant to learners' interests
+- An exemplary public performance to remix (e.g., a recorded data-driven talk) with its underlying dataset and tool available
+- A live or recorded audience for the final DIY performance, with structured time for peer Q&A
+#### Constraints
+- Depends on learners choosing (or being given) a topic they have some personal stake in — [Personal connection to data supports critical data-literacy stance-taking](../claims/personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) [~M]
+- Facilitators need to model and reinforce critical Q&A norms, or peer questioning stays surface-level
+- Grain Size: unit (a multi-session sequence, not a single lesson)
+
+### Target Goals
+- Building critical data literacy: understanding what a data model selects, aggregates, and omits
+- Practicing evidence-based storytelling and defending modeling choices under peer questioning
+
+### Target Learners
+- Learners who can work with an interactive visualization tool and an open dataset (originally studied with prospective secondary teachers, but the structure does not depend on that population)
+
+### Theory
+#### Supporting
+- [Situated Learning](../theories/situated-learning.md) — learners move from observing (foraging, remixing) to full participation (DIY authorship and performance), consistent with legitimate peripheral participation
+#### Contradicting / Qualifying
+- None identified in the source study
+
+### Claims
+- [Personal connection to data supports critical data-literacy stance-taking](../claims/personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) [+W]
+
+## Design
+
+### Sequence
+1. **Forage**: Learners find and critically analyze a public data story (news graphic, TED-style talk, social-media visualization), identifying what data was selected, what comparisons the story emphasizes, and what values or assumptions it advances.
+2. **Remix**: Learners are given a recorded exemplary performance plus its underlying open dataset and tool, reconstruct one of its visualizations, then deliberately change a variable, time frame, or comparison and retell the story to show how the change shifts the narrative.
+3. **DIY**: In small groups, learners choose a question or topic of personal interest, select data from an open repository, build a visual model, and prepare a performance for peers.
+4. **Peer Q&A**: After each performance, the audience asks critical questions — what the model shows and hides, why particular data was selected, what alternative stories the same data could tell — prompting the presenters to defend or revise their model on the spot.
+
+### Affordances
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Agentic Data-Engagement Positions](../elements/agentic-data-engagement-positions.md) — the Forage/Remix/DIY sequence moves learners through researcher/consumer, analyst, and author positions in turn, rather than treating them as positions learners can occupy flexibly
+
+### Personalization
+- Topic and dataset choice in the DIY stage lets learners anchor the activity to something personally relevant, which the source study found was linked to more critical engagement.
+
+## Related Patterns
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — the peer Q&A stage functions as a collaborative-inquiry structure, though this pattern emphasizes individual/group performance and personal stance more than shared investigation throughout
+
+## Examples
+- Prospective mathematics and social-studies teachers used Gapminder and a Hans Rosling TED talk as the remix exemplar, then authored performances on topics like global CO2 emissions and national wealth/health measures.
+
+## Key Sources
+- Kahn, J., & Hall, R. (2026). An oldtimer and newcomers telling stories about models using open large datasets. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2624531](https://doi.org/10.1080/10508406.2026.2624531)
+-->
+
+<!-- merged 2026-10-14 from principles/oral-aural-before-literacy-foreign-language ("Foreign language instruction must establish oral-aural competency before teaching literacy"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Foreign language instruction must establish oral-aural competency before teaching literacy
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The article argues that because the home environment cannot supply the natural oral-aural stage for a foreign language, "schools must take the place of the home environment and make sure that learners are competent at this stage before proceeding on to teaching the skills for the literacy stage." The principle follows from the two-stage model and Sticht's Law: without first-stage competency, second-stage literacy cannot be successfully developed. It directs foreign language programs to concentrate beginning instruction on listening and speaking.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Schools must provide the oral-aural environment the home cannot for foreign languages
+- Learners must reach competency in listening and speaking before literacy instruction begins
+#### Constraints
+- The article states the approach was previously acceptable when the only goal was passing examinations, but is unacceptable when students are expected to use English in the real world
+
+### Target Learners
+- foreign language learners
+- Japanese students of English
+
+### Target Learning Objectives
+- oral-aural fluency in a foreign language
+- literacy in a foreign language
+
+### Claims
+
+- [Sticht Law Reading Cannot Exceed Listening](../claims/sticht-law-reading-cannot-exceed-listening.md) [+M]
+- [Japanese English Instruction Inverts Stage Sequence](../claims/japanese-english-instruction-inverts-stage-sequence.md) [+M]
+- [Oral language competence predicts subsequent reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]
+- [Reverse transfer from literacy to oral skills is unsupported by research](../claims/reverse-transfer-literacy-to-oral-unsupported.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Concentrate beginning foreign language instruction on listening and speaking](../strategies/concentrate-beginning-instruction-listening-speaking.md)
+
+## Key Sources
+- Neiburg, Michael S. (1997). Following Native Language Acquisition. Paper presented at the Annual Meeting of the Japan Association for Language Teaching (23rd, Hamamatsu, Japan, October 11, 1997). https://eric.ed.gov/?id=ED417613
+-->
+
+<!-- merged 2026-10-14 from patterns/herbarts-formal-steps ("Herbart's Formal Steps"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Herbart's Formal Steps
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Johann Herbart (1776–1841) held that learning is influenced by a learner's interest in the subject and in the teacher, and that teachers should consider a student's existing mental sets — what they already know — before presenting new information. From this premise he proposed what became known as the formal steps: (1) review material that has already been learned by the student; (2) prepare the student for new material by giving them an overview of what they are learning next; (3) present the new material; (4) relate the new material to the old material that has already been learned; and (5) show how the student can apply the new material and show the material they will learn next (Hergenhahn, 2009).
+
+The pattern is historically significant as one of the earliest attempts to systematize lesson sequencing around a psychological premise (that new learning must be anchored to prior knowledge) rather than around the content's own logical structure alone.
+
+## Implications
+
+### Context
+#### Requirements
+- A lesson with clearly separable "old" and "new" content, so review and relation steps have real material to work with
+- Enough time within the lesson to move through all five steps rather than jumping straight to presentation
+#### Constraints
+- Can feel mechanical or padded for content with no natural connection to prior learning
+- Assumes a single linear path through prior knowledge to new knowledge, which fits well-sequenced curricula better than open-ended exploration
+#### Grain Size
+- Lesson
+
+### Target Goals
+- Durable connection of new content to a learner's existing knowledge base, rather than isolated presentation of new material.
+
+### Target Learners
+- Learners for whom prior-knowledge activation and explicit relating are not automatic — the pattern makes both steps deliberate rather than assumed.
+
+### Theory
+#### Supporting
+- [Advance Organizers](../elements/advance-organizers.md) — the "prepare" step is functionally an advance organizer, giving learners a frame for what's coming before it arrives
+
+## Design
+
+### Sequence
+1. Review material already learned
+2. Prepare the student for new material with an overview of what's coming
+3. Present the new material
+4. Relate the new material explicitly to the old
+5. Show how the student can apply the new material, and preview what comes next
+
+### Affordances
+- Makes prior-knowledge activation and explicit relation-building a required step rather than an optional add-on to presentation
+
+### Personalization
+- The review and relate steps can be adapted in depth depending on how much the class's prior learning actually varies learner to learner
+
+## Related Patterns
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — a later, more granular lesson-sequencing pattern covering similar ground (recall of prior learning, presentation, relating content, application) with additional steps for attention, guidance, and feedback
+
+## Examples
+- A lesson opening with a short review of the prior day's content, an overview of the new topic, direct instruction, an explicit comparison ("this is like what we just did, except..."), and a closing application task
+
+## Key Sources
+- Hergenhahn, B. R. (2009). *An introduction to the history of psychology*. Wadsworth.
+- Arduini-Van Hoose, N. (2020). History of educational psychology. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 -->

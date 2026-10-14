@@ -24,7 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1` · n=4 undergraduate physics students (two pairs)
 
-Computational literacy has three interdependent pillars — material (technical coding fluency), cognitive (using computation to reason about a disciplinary problem), and social (communicating computational work) — and students can develop the cognitive and social pillars substantially through [computational essay writing](../patterns/computational-essay-writing.md) even when their actual code changes are small, provided they have example computational literature to draw on.
+Computational literacy has three interdependent pillars — material (technical coding fluency), cognitive (using computation to reason about a disciplinary problem), and social (communicating computational work) — and students can develop the cognitive and social pillars substantially through computational essay writing even when their actual code changes are small, provided they have example computational literature to draw on.
 
 ## Subclaims
 `q1 i?` Two physics students reluctant toward coding made only minor modifications to a provided simulation, yet developed sophisticated modeling practices, generated their own investigation question, and clearly communicated their reasoning and findings in their essay. [→ Odden & Zwicki 2025](#odden-zwicki-2025)

@@ -157,7 +157,7 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — owns using learners' own experience as the material of tasks; this page owns naming and building on demonstrated capability.
 - [Wise Feedback Across Difference](wise-feedback-across-difference.md) — critical feedback that conveys high standards and assurance the learner can meet them.
-- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](engage-teachers-literacy-events-learner-to-learner.md)
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](communities-of-practice.md)
 
 ## Examples
 
@@ -282,7 +282,7 @@ The author recommends beginning professional development sessions with celebrati
 
 ## Related Principles
 
-- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](engage-teachers-literacy-events-learner-to-learner.md)
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](communities-of-practice.md)
 
 ## Examples
 

@@ -52,7 +52,7 @@ The article proposes that language is not monolithic but consists of two broad d
 
 ## Examples
 
-- [Neither mental representation nor skill can be directly taught; teachers provide experiences and act as informed consumers of instructional research](../principles/provide-experiences-not-direct-teaching-sla.md)
+- [Neither mental representation nor skill can be directly taught; teachers provide experiences and act as informed consumers of instructional research](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Key Sources
 - Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes

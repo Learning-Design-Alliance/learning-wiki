@@ -49,7 +49,7 @@ The article presents a stage model of native language acquisition in which the f
 
 ## Examples
 
-- [Foreign language instruction must establish oral-aural competency before teaching literacy](../principles/oral-aural-before-literacy-foreign-language.md)
+- [Foreign language instruction must establish oral-aural competency before teaching literacy](../principles/sequencing.md)
 - [Concentrate beginning foreign language instruction on listening and speaking](../strategies/concentrate-beginning-instruction-listening-speaking.md)
 
 ## Key Sources

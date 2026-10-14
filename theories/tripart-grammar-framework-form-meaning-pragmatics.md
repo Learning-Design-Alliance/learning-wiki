@@ -47,7 +47,6 @@ The bibliography describes, citing Larsen-Freeman (1991), a proposed solution to
 
 ## Examples
 
-- [Base decisions about teaching grammar primarily on learner needs and variables (Celce-Murcia)](../principles/grammar-decisions-based-on-learner-variables.md)
 
 ## Key Sources
 - Kotapish, Carl E. (1993). The Place of Grammar in the ESL/EFL Classroom: An Annotated Bibliography. https://eric.ed.gov/?id=ED376699

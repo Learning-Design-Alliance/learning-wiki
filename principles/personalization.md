@@ -130,7 +130,6 @@ Personalization works primarily by keeping instruction within each learner's zon
 - [Cognitive Load Management](cognitive-load-management.md) — personalization is one of the main levers for keeping load within each learner's capacity
 - [Assessment for Learning](assessment-for-learning.md) — supplies the diagnostic evidence on which any personalization depends
 - [Activation](activation.md) — diagnosing and engaging prior knowledge is the first step in deciding what to personalize
-- [Strongly consider aided AAC systems over manual signs, particularly for children with fine motor limitations](prefer-aided-systems-over-manual-signs.md)
 
 ## Examples
 
@@ -199,7 +198,6 @@ The article recommends that practitioners build preference assessment into AAC s
 
 ## Related Principles
 
-- [Strongly consider aided AAC systems over manual signs, particularly for children with fine motor limitations](prefer-aided-systems-over-manual-signs.md)
 
 ## Examples
 -

@@ -44,7 +44,7 @@ The **dual-process account** (Galbraith) proposes instead that discovery arises 
 - (none yet linked)
 
 ## Examples
-- [Synthetic Planning for Discovery-Oriented Writing](../patterns/synthetic-planning-for-discovery-oriented-writing.md) — an instructional design built directly on this theory's mechanism
+- [Synthetic Planning for Discovery-Oriented Writing](../principles/process-based-writing.md) — an instructional design built directly on this theory's mechanism
 
 ## Key Sources
 - Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. *Cognition and Instruction, 36*(3), 199-223. [https://doi.org/10.1080/07370008.2018.1456431](https://doi.org/10.1080/07370008.2018.1456431)

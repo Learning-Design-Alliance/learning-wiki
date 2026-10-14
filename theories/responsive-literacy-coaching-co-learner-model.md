@@ -50,7 +50,7 @@ The article articulates a framework of eight principles for responsive literacy 
 ## Examples
 
 - [Advocate for teachers' voices, purposeful change, and continued professional development](../principles/coach-advocates-for-teachers-purposeful-change.md)
-- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](../principles/engage-teachers-literacy-events-learner-to-learner.md)
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](../principles/communities-of-practice.md)
 - [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
 
 ## Key Sources

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: cultural-life-experiences-connections
-aliases: [culturally-responsive-adult-curriculum]
+aliases: [culturally-responsive-adult-curriculum, render-ecological-crisis-concrete-embodied-proximal]
 title: "Cultural & Life Experiences Connections"
 description: "For learners whose instruction draws on contexts they do not recognise or see no stake in, building some tasks, examples and assessments from their own cultural, community, family and work experience, tied to the concept taught, is expected to raise engagement, open sharing of developing thinking and the competence an assessment can see; no claim here compares it with the same content taught without that connection."
 canonical: true
@@ -30,12 +30,16 @@ sources:
     resource: "http://www.historylearningsite.co.uk/Mexico_1968.htm"
     title: "Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm"
     author: Ellis, M. L
+  - id: rife-2025
+    resource: "https://doi.org/10.31446/JCP.2025.1.07"
+    title: "Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07"
+    author: Rife, T. S
 ---
 
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (17 for, 9 mixed) · 35 studies (10 qualitative, 9 causal, 6 review, 4 quant-synthesis, 3 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 35 report an effect size · 20 claims rest on one study
+> **Evidence** · 27 claims (18 for, 9 mixed) · 36 studies (10 qualitative, 9 causal, 6 review, 4 quant-synthesis, 4 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 36 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +141,7 @@ Claims cited before this page was rewritten, or found while rewriting it, that a
 - [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](../claims/local-indigenous-culture-student-interest.md) [+W] — attached 2026-10-07 from McGloin et al. (2009), which proposed "Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves".
 - [Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings](../claims/ells-recruit-everyday-language-sound-discussion.md) [+W] — attached 2026-10-07 from Suarez et al. (2008), which proposed "Invite students' everyday registers into science activities to encourage productive sense-making and mechanistic reasoning".
 - [Research suggests that using culturally responsive and sustaining education practices in mathematics can enhance learning and academic success](../claims/crse-math-enhances-learning-and-success.md) [+W] — attached 2026-10-09 from Jahneille Cunningham et al. (2024), which proposed "Treat learning as multidirectional: school leaders and teachers should provide ample space to learn from and with families and communities".
+- [Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -170,6 +175,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — addressing a product to a real reader, often someone from the learner's own community.
 - [Self-Explanation](self-explanation.md) — the explanation prompt this page uses to make a connection the learner's own.
 - [Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice](humanistic-radical-adult-education.md)
+- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
 
 ## Examples
 
@@ -180,6 +186,8 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Connect computer science learning to Appalachian ingenuity and community identity to move it from novelty to change](../strategies/connect-ct-to-appalachian-ingenuity.md)
 - [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](../strategies/connect-ct-to-local-maker-heritage.md)
 - [Panel protocol: open with community cultural resources, then moderated discussion connecting community assets to computing education](../strategies/community-cultural-resources-panel-protocol.md)
+- [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
+- [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](../strategies/speculative-theory-fiction-assignment.md)
 
 ## Key Sources
 - Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.7](https://doi.org/10.1002/ace.7)
@@ -187,6 +195,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191. [https://doi.org/10.1080/03057925.2019.1585756](https://doi.org/10.1080/03057925.2019.1585756)
 - Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for "Outward" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)
 - Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
+- Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -304,4 +313,48 @@ The article recommends that adult education curriculum be flexible and reflect t
 
 ## Key Sources
 - Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
+-->
+
+<!-- merged 2026-10-14 from principles/render-ecological-crisis-concrete-embodied-proximal ("Render planetary ecological crisis concrete, embodied, proximal, and implicative for students"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Render planetary ecological crisis concrete, embodied, proximal, and implicative for students
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Extending Fassett and Warren's commitments to concrete mundane practices and structural critique, the article argues that "a critical pedagogy of the Anthropocene must render the 'larger' structure of planetary ecological crisis concrete, embodied, proximal, and implicative." Because ecological crises may appear as ineffable events happening elsewhere, the principle shifts focus from individual entities to interconnectedness, helping students see how local mundane practices connect to larger social and ecological systems. Students are invited to critically reflect on their relationship to place and to identify patterns of environmental injustice and opportunities for local intervention.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Attention to scale, shifting focus from individual entities to interconnectedness of all things
+- Local contexts and issues students can directly encounter
+#### Constraints
+- The article notes this is especially challenging when ecological crises appear as ineffable events that transpire out there for students alienated from their ecological enmeshments
+
+### Target Learners
+- undergraduate students, including those with firsthand experience of local environmental hazards
+
+### Target Learning Objectives
+- connecting local experiences to larger ecological systems
+- identifying patterns of environmental injustice
+
+### Claims
+
+- [Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+W]
+
+## Related Principles
+
+- [Critique of language in CCP must include critique of humanism and humanist historicization](critique-language-includes-critique-of-humanism.md)
+- [Cultivate ecologically just speculative futurity as requisite to political praxis](humanistic-radical-adult-education.md)
+
+## Examples
+
+- [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
+- [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](../strategies/speculative-theory-fiction-assignment.md)
+
+## Key Sources
+- Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
 -->

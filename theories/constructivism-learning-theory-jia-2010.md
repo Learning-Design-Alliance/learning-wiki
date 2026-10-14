@@ -52,9 +52,8 @@ The article presents constructivism as a learning theory developed from behavior
 
 ## Examples
 
-- [Change teaching from authoritative conducting to equal association and communication between teachers and students](../principles/equal-democratic-teacher-student-relations.md)
 - [Take students' previous knowledge and experience as the growth point of new knowledge](../principles/prior-knowledge-growth-point-new-knowledge.md)
-- [Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching](../principles/teacher-as-designer-guider-consultant.md)
+- [Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching](../principles/teacher-as-mediator-not-content-disseminator.md)
 - [Emphasize cooperation and communication to train students' cooperative consciousness](../strategies/cooperation-communication-train-cooperative-consciousness.md)
 - [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
 - [Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis](../elements/learning-theory-evaluation-checklist-elt-textbooks.md)
