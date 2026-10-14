@@ -47,7 +47,7 @@ The paper adopts the situated cognition model, which portrays "mental activity a
 
 ## Examples
 
-- [Design professional learning communities around situated teacher agency and practice, not attitude change](../principles/situated-account-plc-design.md)
+- [Design professional learning communities around situated teacher agency and practice, not attitude change](../principles/communities-of-practice.md)
 
 ## Key Sources
 - Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje

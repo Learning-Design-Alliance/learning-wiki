@@ -1,6 +1,7 @@
 ---
 type: principle
 id: knowledge-organization
+aliases: [make-frame-slots-explicit-history-explanations]
 title: Knowledge Organization
 description: "For a learner who holds a topic as unconnected facts and must later use it for tasks that cut across it, teaching the content with an explicit organization built for those tasks, and having learners sort into, explain and rebuild that organization from memory, is expected to improve integrative tasks but not single-detail tasks; one small 1979 physics report tests the core contrast, and no claim tests other kinds of organization or a course-long framework."
 canonical: true
@@ -8,12 +9,17 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: armbruster-1982
+    resource: "https://eric.ed.gov/?id=ED218595"
+    title: "Armbruster, B. B., & Anderson, T. H. (1982). Structures for Explanations in History Textbooks or So What If Governor Stanford Missed the Spike and Hit the Rail? (Technical Report No. 252). https://eric.ed.gov/?id=ED218595"
+    author: "Armbruster, B. B., & Anderson, T. H"
 ---
 
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (13 for, 6 mixed) · 23 studies (8 causal, 5 quant-synthesis, 5 review, 2 design, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 23 report an effect size · 14 claims rest on one study
+> **Evidence** · 21 claims (15 for, 6 mixed) · 24 studies (8 causal, 5 quant-synthesis, 5 review, 2 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 24 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +122,8 @@ Do not rank these by effect label: physics students on hierarchies, pooled conce
 - [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](../claims/story-grammar-structure-aids-narrative-memory.md) [+W]: a review of story-grammar studies, second-hand; it bears on organizing narrative content only.
 - [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W]: one study reported in a theory article with its design undescribed; used above only for the large-class row.
 - [Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)](../claims/frtf-talent-cluster-sorting-validated.md) [+W] — attached 2026-10-08 from Pretti et al. (2021), which proposed "Use a shared talent framework to give WIL stakeholders a common language for communicating about talent"; tests this page's relationship.
+- [History Textbooks Lack Explanatory Structure](../claims/history-textbooks-lack-explanatory-structure.md) [+W]
+- [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](../claims/causal-links-implicit-in-history-textbooks.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -142,6 +150,8 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 - [Sequencing](sequencing.md) — the order in which branches of an organization are taught
 
 ## Examples
+- [Frame-aided writing procedure for authors of historical explanations](../strategies/frame-aided-writing-procedure.md)
+- [Teach students to use frame slot questions as a reading, studying, and self-monitoring tool](../strategies/teach-students-frame-slot-questions.md)
 
 ### Illustrative
 
@@ -155,6 +165,7 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 - Novak, J. D. (2010). Learning, creating, and using knowledge (2nd ed.). Routledge. [doi:10.4324/9780203862001](https://doi.org/10.4324/9780203862001)
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart and Winston.
 - Eylon, B.-S., & Reif, F. (1979). Effects of internal knowledge organization on task performance. https://eric.ed.gov/?id=ED171804
+- Armbruster, B. B., & Anderson, T. H. (1982). Structures for Explanations in History Textbooks or So What If Governor Stanford Missed the Spike and Hit the Rail? (Technical Report No. 252). https://eric.ed.gov/?id=ED218595
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -216,4 +227,46 @@ Knowledge organization matters because learners rarely understand complex conten
 ## Key Sources
 - Novak, J. D. (2010). Learning, creating, and using knowledge (2nd ed.). Routledge.
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart and Winston.
+-->
+
+<!-- merged 2026-10-14 from principles/make-frame-slots-explicit-history-explanations ("Make frame slot content and relationships explicit in historical explanations, especially for younger readers"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Make frame slot content and relationships explicit in historical explanations, especially for younger readers
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+
+## Description
+The principle holds that explanations in history and social studies textbooks should make the content of the Goal, Problem, Plan, Action, and Outcome slots and the relationships among them explicit, because psychological goals and motives tend to be left implicit and readers may lack the knowledge to infer them. The authors argue that since Goals are implicit anyway, it is better to make them explicit for the reader, and that presentation should start with the Goal and Problem to establish a meaningful context for the Solution.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Authors must infer Goals from source documents and accept that the selected Goal may not be provably the correct one, so long as it is consistent with the actions taken
+#### Constraints
+- The authors acknowledge the objection that this is a cookbook approach limiting creativity, replying that authors retain ample opportunity for creative expression within the structure
+
+### Target Learners
+- elementary and secondary students reading history and social studies textbooks
+
+### Target Learning Objectives
+- comprehending historical explanations and their main ideas
+
+### Claims
+
+- [History Textbooks Lack Explanatory Structure](../claims/history-textbooks-lack-explanatory-structure.md) [+M]
+- [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](../claims/story-grammar-structure-aids-narrative-memory.md) [+M]
+- [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](../claims/causal-links-implicit-in-history-textbooks.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Frame-aided writing procedure for authors of historical explanations](../strategies/frame-aided-writing-procedure.md)
+- [Teach students to use frame slot questions as a reading, studying, and self-monitoring tool](../strategies/teach-students-frame-slot-questions.md)
+
+## Key Sources
+- Armbruster, B. B., & Anderson, T. H. (1982). Structures for Explanations in History Textbooks or So What If Governor Stanford Missed the Spike and Hit the Rail? (Technical Report No. 252). https://eric.ed.gov/?id=ED218595
 -->

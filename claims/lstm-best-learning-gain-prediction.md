@@ -47,3 +47,4 @@ QLG prediction results (Section 5.3.1, Table 3) on Cordillera and Pyrenees using
 - [BKT+SK reliably predicts post-test scores using only the earliest 50% of training sequences](bkt-sk-early-posttest-prediction-50-percent.md) — related
 - [LSTM predicts learning gains as well with the earliest 70% of sequences as with the full sequences, while BKT+SK excels at 30% only on Pyrenees](lstm-early-qlg-prediction-70-percent.md) — related
 - [TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction](trace-outperforms-lstm-gnn-xgboost.md) — related
+- [Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks](dkt-outperforms-bkt-auc-benchmarks.md) — related

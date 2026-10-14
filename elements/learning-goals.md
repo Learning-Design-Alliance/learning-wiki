@@ -8,6 +8,11 @@ status: review
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
+sources:
+  - id: the-iowa-guide-for-curriculum-improvement-in-industrial-arts-1975
+    resource: "https://eric.ed.gov/?id=ED113517"
+    title: "The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517"
+    author: The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology
 ---
 
 # Learning Goals
@@ -28,6 +33,7 @@ Well-specified goals improve achievement by directing learner attention to what 
 - Alignment: every activity and assessment maps to a stated goal ([Constructive Alignment](../patterns/constructive-alignment.md))
 - Goals visible to learners, ideally with criteria for what meeting the goal looks like
 - A small number of goals per unit; too many dilute attention and instructional time
+- Competencies must first be identified from operational level goals before content is selected
 
 #### Constraints
 - Goals set at inappropriate difficulty — too easy or far beyond reach — reduce motivation and effort [~M]; moderately challenging, attainable goals produce the strongest performance effects
@@ -39,6 +45,7 @@ Well-specified goals improve achievement by directing learner attention to what 
 - All learners benefit from clear goals, but the effect is strongest for those who cannot otherwise infer what is important — novices lack the expertise to extract the structure of a domain on their own
 - Learners developing self-regulation benefit most when goals are paired with opportunities to check progress against them [Assessment for learning improves achievement when learners know the target and criteria.](../claims/assessment-for-learning-improves-achievement.md) [+S]
 - Advanced learners may need goals framed as open problems rather than specified outcomes to avoid constraining exploration
+- K-12 industrial arts students
 
 ### Target Learning Goals
 - All outcome types: declarative knowledge, procedural skill, conceptual understanding, and transfer — goals are outcome-neutral by design
@@ -72,9 +79,50 @@ Well-specified goals improve achievement by directing learner attention to what 
 - **Understanding by Design (Wiggins & McTighe)** — a published curriculum design framework in which units are planned backward from "desired results" (goals) to evidence to learning plan. See [ASCD's UbD resources](https://www.ascd.org/books/understanding-by-design)
 - **[Khan Academy](https://www.khanacademy.org)** — each lesson and exercise is tagged to explicit skill goals, and mastery dashboards show learners their progress against them
 - **SMART goal framing in course syllabi** — stating goals that are specific, measurable, achievable, relevant, and time-bound so both instructor and learners can verify attainment
+- [Curated Material Selection](../strategies/curated_material_selection.md)
 
 ## Key Sources
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)
 - Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (2nd ed.). ASCD.
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Biggs, J. (1996). Enhancing teaching through constructive alignment. *Higher Education, 32*(3), 347–364. [doi:10.1007/BF00138871](https://doi.org/10.1007/BF00138871)
+- The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517
+
+<!-- merged 2026-10-14 from principles/content-selected-from-competencies ("Select content from competencies, not the reverse"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Select content from competencies, not the reverse
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The guide instructs curriculum developers to select content on the basis of the competencies to be developed, warning that "Too often in the past the reverse procedure has been practiced, often resulting in obsolete or irrelevant learning." Teachers should analyze each competency with respect to the knowledge and skills students need to attain, and those become the content. Unit objectives should be stated in measurable terms and presented to students before a unit begins.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Competencies must first be identified from operational level goals before content is selected
+#### Constraints
+- 
+
+### Target Learners
+- K-12 industrial arts students
+
+### Target Learning Objectives
+- Attainment of defined knowledge, skill, and attitude competencies
+
+### Claims
+- 
+
+## Related Principles
+
+- [General principles for selecting learning activities](../principles/learning-activity-selection-principles.md)
+
+## Examples
+
+- [Curated Material Selection](../strategies/curated_material_selection.md)
+
+## Key Sources
+- The Iowa Guide for Curriculum Improvement in Industrial Arts, K-12. A Study of Industrial Technology. (1975). Iowa State Dept. of Public Instruction. https://eric.ed.gov/?id=ED113517
+-->

@@ -122,3 +122,4 @@ Open questions include how effects scale in online and hybrid settings, where in
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
 - [Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes](meta-analytic-moderate-large-effects-collaborative-learning.md) — related
 - [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](liara-outcomes-validate-framework.md) — related
+- [Classroom research primarily supports the motivational perspective on cooperative learning effects](classroom-research-supports-motivational-perspective.md) — related

@@ -45,3 +45,4 @@ Simulated evidence from the synthetic benchmark dataset: descriptive summaries a
 ## Related Claims
 - [The v2 synthetic generator was tuned for stricter trace-data realism with more incorrect code, retries, and longer dialogues](astra-v2-generator-stricter-realism.md) — related
 - [In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator](structured-student-agents-differentiated-mastery-traces.md) — related
+- [The proposed validation method is feasible when examined with simulated data generated under various conditions](q-matrix-validation-method-feasible-in-simulations.md) — related

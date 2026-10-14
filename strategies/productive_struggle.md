@@ -57,9 +57,11 @@ The core evidence comes from productive failure studies: learners who explore co
 4. Follow with structured practice that fades support as competence grows ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Worked Examples](../principles/worked-examples.md) — the instruct-first alternative; the two trade off according to learner expertise
 - [Scaffolding](../principles/scaffolding.md) — the support structure that keeps struggle productive rather than overwhelming
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — the theoretical mechanism struggle is designed to induce
+- [When implementing PS-I, include contrasting cases or build the instruction phase on student solutions](include-contrasting-cases-or-build-instruction-on-student-solutions.md)
 
 ## Examples
 - **Kapur's productive failure units (Singapore mathematics classrooms)** — students explore novel problems on topics like variance or average speed in small groups before teacher-led canonical instruction; exploration-first classes outperformed instruct-first classes on conceptual and transfer items.

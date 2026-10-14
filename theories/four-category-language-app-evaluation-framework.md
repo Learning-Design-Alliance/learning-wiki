@@ -45,7 +45,6 @@ The article presents an evaluation framework grounded in prior app-evaluation fr
 
 ## Examples
 
-- [Evaluate apps against criteria relevant to their purpose and the learner's needs, not against a universal pass threshold](../principles/no-universal-threshold-app-evaluation.md)
 
 ## Key Sources
 - Rosell-Aguilar, F. (2017). State of the App: A Taxonomy and Framework for Evaluating Language Learning Mobile Applications. CALICO Journal. https://doi.org/10.1558/cj.27623

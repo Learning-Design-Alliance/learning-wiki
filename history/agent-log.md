@@ -5,6 +5,30 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-14 (later) — thin principles and patterns: searched, then folded or deleted
+
+The maintainer asked for every principle and pattern page to be brought up, since a course design names them,
+and decided the thin ones fold into a parent, or are deleted where none exists ("If they are truly important
+they'll show up in future sweeps and earn home"). `scripts/upgrade_worklist.py` gives each page its step.
+
+- **Search.** 84 canonical pages rested on two studies or fewer. Linking claims already in the wiki added 7
+  (`link_pages.py --claims-only --verify`; 52 of the 59 links the verifier kept were already there).
+  `find_page_syntheses.py` had a model name the research testing each page's recommendation: 262 works, 187
+  confirmed by Crossref, 151 not in the wiki. Batch 80 fetched 26 of them (the rest are mostly paywalled
+  journal articles) and a second link pass added 12 more. Three pages reached three studies and go to
+  conversion: the self-directed learning pattern, emergent curriculum, and learner control with on-demand tools.
+- **Fold.** `choose_fold_parent.py` chose a parent where two models agreed (or a third, Kimi K3, settled a
+  disagreement), widened to theories, elements and learner variables where no principle or pattern fit.
+  53 pages folded with `merge_pages.py --note`; their claims and text survive on the parent.
+- **Delete.** 28 pages had no parent: one source's stance, a policy, research-practice advice. Removed with
+  `remove_pages.py` (49 links out of other pages; `eval/removed/pages.ndjson`), revision cards and log links
+  cleaned. `supporting-students-with-adhd` was kept out of the fold (the models put it under classroom layout)
+  and deleted with no claims.
+- **Fixes.** `remove_pages.py` builds the reverse index fresh (the committed copy missed two links);
+  `repoint_revision_cards.py` removes a card it has just folded even when the link pass edited it;
+  `settle_candidates.py` survives a provider timeout; `merge_pages.py --note` says why a page was folded.
+- **Now:** search 0, convert 75, fragment 212, reread 26, done 109. Wave 8 (15 pages) is next.
+
 ## 2026-10-14 — synthesis tables for 32 principles; DOIs found for Key Sources
 
 - **Synthesis.** `eval/synthesis/` now has 32 specs (retrieval practice plus 31). 142 general claims carry

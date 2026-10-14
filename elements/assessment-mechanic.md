@@ -100,7 +100,7 @@ The source's central warning is that instantiating an assessment mechanic as a g
 - Plass, J. L., Homer, B. D., Kinzer, C., Frye, J., & Perlin, K. (2011). *Learning mechanics and assessment mechanics for games for learning* (G4LI White Paper #01/2011, Version 0.1). Games for Learning Institute (New York University, CUNY Graduate Center, Teachers College Columbia University). [researchgate.net/publication/272815253](https://www.researchgate.net/publication/272815253_Learning_Mechanics_and_Assessment_Mechanics_for_Games_for_Learning)
 - Mislevy, R. J., Steinberg, L. S., & Almond, R. G. (2003). Focus article: On the structure of educational assessments. *Measurement: Interdisciplinary Research and Perspectives, 1*(1), 3–62. [doi:10.1207/s15366359mea0101_02](https://doi.org/10.1207/s15366359mea0101_02)
 - Rupp, A. A., Gushta, M., Mislevy, R. J., & Shaffer, D. W. (2010). Evidence-centered design of epistemic games: Measurement principles for complex learning environments. *Journal of Technology, Learning, and Assessment, 8*(4).
-- Shute, V. J. (2010). *Innovative assessment for the 21st century: Supporting educational needs*. Springer.
+- Shute, V. J. (2010). *Innovative assessment for the 21st century: Supporting educational needs*. Springer. [doi:10.1007/978-1-4419-6530-1](https://doi.org/10.1007/978-1-4419-6530-1)
 - Um, E., Plass, J. L., Hayward, E. O., & Homer, B. D. (2012). Emotional design in multimedia learning. *Journal of Educational Psychology, 104*(2), 485–498. [doi:10.1037/a0026609](https://doi.org/10.1037/a0026609)
 - Salen, K., & Zimmerman, E. (2003). *Rules of play: Game design fundamentals*. MIT Press.
 

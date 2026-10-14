@@ -47,7 +47,7 @@ The Goal frame is an abbreviated story grammar adapted for history text, with fo
 
 ## Examples
 
-- [Make frame slot content and relationships explicit in historical explanations, especially for younger readers](../principles/make-frame-slots-explicit-history-explanations.md)
+- [Make frame slot content and relationships explicit in historical explanations, especially for younger readers](../principles/knowledge-organization.md)
 - [Frame-aided writing procedure for authors of historical explanations](../strategies/frame-aided-writing-procedure.md)
 - [Teach students to use frame slot questions as a reading, studying, and self-monitoring tool](../strategies/teach-students-frame-slot-questions.md)
 

@@ -42,7 +42,7 @@ Citing Zaretskii (2009), the article states that adult help given to a child wor
 
 ## Related Principles
 
-- [Assess children's cognitive development both when performing alone and when assisted](assess-alone-and-assisted-performance.md)
+- [Assess children's cognitive development both when performing alone and when assisted](multiple-methods-of-assessment.md)
 
 ## Examples
 

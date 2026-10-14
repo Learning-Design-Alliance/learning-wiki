@@ -461,9 +461,16 @@ def verify_attachments(decs: list, cands: dict, model: str, concurrency: int) ->
             csub=("Subclaim: " + sub[:300]) if sub else "", marker=a["marker"],
             direction={"+": "supports the page", "~": "depends on conditions",
                        "-": "counts against the page"}[a["marker"][0]])
-        gen = oc.generate(model, lp.SYSTEM, prompt, key, max_tokens=800)
-        d = extract_json(gen.raw_text)
-        return bool(d.get("keep")) and bool(d.get("direction_ok")), d.get("why"), gen.cost_usd
+        # One provider timeout (HTTP 408, 2026-10-14) used to end the whole run. A claim the
+        # verifier could not read is not written: refused, with the failure as its reason.
+        for attempt in range(2):
+            try:
+                gen = oc.generate(model, lp.SYSTEM, prompt, key, max_tokens=800)
+                d = extract_json(gen.raw_text)
+                return bool(d.get("keep")) and bool(d.get("direction_ok")), d.get("why"), gen.cost_usd
+            except Exception as e:
+                err = str(e)[:160]
+        return False, f"verifier failed: {err}", 0
 
     jobs = [(d, a) for d in decs if d["outcome"] == "attach" for a in d.get("claims") or []]
     with concurrent.futures.ThreadPoolExecutor(concurrency) as ex:

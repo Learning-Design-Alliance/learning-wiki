@@ -48,3 +48,4 @@ Correlation analysis comparing BKT parameters fit to simulated Random-condition 
 - [Simulation estimates that regression-to-the-mean selection bias inflates apparent Target Teach improvement by about .03 per year, leaving a smaller but still significant gain](selection-bias-simulation-inflates-target-teach-gain.md) — related
 - [In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator](structured-student-agents-differentiated-mastery-traces.md) — related
 - [Simulating higher-cognitive-ability students is easier: simulation quality correlates positively with student cognitive score](simulation-quality-correlates-with-cognitive-ability.md) — related
+- [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](standard-knowledge-tracing-lacks-individualization.md) — related

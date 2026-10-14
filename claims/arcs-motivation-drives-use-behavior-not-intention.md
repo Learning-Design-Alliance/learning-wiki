@@ -47,3 +47,4 @@ Explanatory-power analysis in the structural model evaluation section reports R2
 - [ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior](arcs-strongest-correlations-intention-use.md) — related
 - [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — related
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — reports the opposite
+- [An emotional connection to nature, rather than conservation knowledge, is a powerful predictor of children's conservation behavior](emotional-connection-predicts-conservation-behavior.md) — related

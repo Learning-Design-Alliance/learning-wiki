@@ -53,7 +53,7 @@ The article defines the zone of proximal development as "The range of task that 
 ## Examples
 
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
-- [Assess children's cognitive development both when performing alone and when assisted](../principles/assess-alone-and-assisted-performance.md)
+- [Assess children's cognitive development both when performing alone and when assisted](../principles/multiple-methods-of-assessment.md)
 - [Scaffolded Instruction](../strategies/scaffolded_instruction.md)
 - [Scaffolding](../strategies/scaffolding.md)
 - [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](../strategies/zpd-masked-rl-content-sequencing.md)

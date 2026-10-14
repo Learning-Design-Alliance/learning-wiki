@@ -59,9 +59,11 @@ Comparison is one of the most reliable routes to schema abstraction, because var
 5. Fade to independent comparison: present new case pairs and ask learners to generate the comparison themselves ([Fading](../elements/fading.md), [Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Use Worked Examples](worked-examples-first.md) — comparing two worked examples is the natural extension of single-example study
 - [Erroneous Examples](../elements/erroneous-examples.md) — a correct–incorrect comparison is a special case of case comparison
 - [Analogical Encoding](../strategies/analogical-encoding.md) — comparison as the mechanism of analogical transfer
+- [When implementing PS-I, include contrasting cases or build the instruction phase on student solutions](include-contrasting-cases-or-build-instruction-on-student-solutions.md)
 
 ## Examples
 - **Rittle-Johnson & Star's algebra studies** — students compared pairs of worked problems using different solution methods (e.g., subtract first vs. distribute first), improving conceptual and procedural flexibility over studying the same examples sequentially.

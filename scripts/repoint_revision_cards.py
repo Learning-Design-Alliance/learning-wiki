@@ -78,7 +78,7 @@ def run(apply: bool) -> None:
                 kept = target.read_text(encoding="utf-8").rstrip("\n")
                 kept += f"\n\n## Earlier history as {old[:-3]}\n\n{entries(text)}\n"
                 target.write_text(kept, encoding="utf-8")
-                subprocess.run(["git", "rm", "-q", str(card)], cwd=WIKI_ROOT, check=True)
+                subprocess.run(["git", "rm", "-q", "-f", str(card)], cwd=WIKI_ROOT, check=True)
         else:
             counts["moved to the successor"] += 1
             if apply:

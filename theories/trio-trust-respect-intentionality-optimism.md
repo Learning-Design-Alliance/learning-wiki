@@ -47,7 +47,6 @@ The four assumptions of Invitational Education serve as a framework for 'four el
 
 ## Examples
 
-- [The Four P's: aligning places, people, policies, and programs to make each school day an invitation to learning](../patterns/four-ps-invitational-school-pattern.md)
 - [The Four Corner Press: balancing personally and professionally inviting behavior with one's self and others](../strategies/four-corner-press-plan.md)
 
 ## Key Sources

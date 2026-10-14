@@ -62,4 +62,4 @@ Journaling is the element in which learners record reflections, observations, qu
 - Weekly learning journals that track confusion points and strategy changes.
 
 ## Key Sources
-- Moon, J. A. (2006). *Learning journals*. Routledge.
+- Moon, J. A. (2006). *Learning journals*. Routledge. [doi:10.4324/9780203969212](https://doi.org/10.4324/9780203969212)

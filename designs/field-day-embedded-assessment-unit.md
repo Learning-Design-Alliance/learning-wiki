@@ -38,7 +38,7 @@ The Type 3 assessment is organized as a project unit (a class Field Day, includi
 
 ### Claims
 
-- [Embed Assessment In Ongoing Instruction](../principles/embed-assessment-in-ongoing-instruction.md) [+M]
+- [Embed Assessment In Ongoing Instruction](../principles/assessment-for-learning.md) [+M]
 - [Project-based learning improves achievement](../claims/project-based-learning-improves-achievement.md) [+M]
 
 ## Related Patterns

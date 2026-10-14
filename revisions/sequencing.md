@@ -30,3 +30,21 @@ Ingested from eric-ed512082 (The Importance of Teaching Listening in the EFL Cla
 
 ### 2026-09-27 · ingest · process:wiki-ingest
 Ingested from eric-ej1122826 (An Evaluation of the Self-Efficacy Theory in Agricultural Education) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as patterns/data-storytelling-forage-remix-diy
+
+### 2026-08-29 · ingest · claude/unspecified
+Initial ingest from Kahn & Hall (2026), JLS
+
+### 2026-08-29 · content · claude/unspecified
+Added Agentic Data-Engagement Positions affordance link
+
+## Earlier history as patterns/herbarts-formal-steps
+
+### 2026-08-29 · ingest · claude/unspecified
+New pattern: Herbart's five formal steps for lesson sequencing (Unit 1)
+
+## Earlier history as principles/oral-aural-before-literacy-foreign-language
+
+### 2026-09-28 · ingest · process:wiki-ingest
+Ingested from eric-ed417613 (Following Native Language Acquisition.) via eval_harness.py + ingest_extractions.py

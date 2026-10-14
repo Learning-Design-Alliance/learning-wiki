@@ -45,7 +45,6 @@ The article applies Ricoeur's hermeneutical arc to film experience as a movement
 
 ## Examples
 
-- [Begin film discussion at the level of narrative understanding before moving to analysis](../principles/start-film-discussion-at-narrative-understanding.md)
 - [Structured post-screening discussion using amplification followed by moral case deliberation](../strategies/film-amplification-moral-case-deliberation-strategy.md)
 - [Dialogue in a safe environment is central to Bildung-oriented film education](../principles/dialogue-safe-environment-bildung-film-education.md)
 

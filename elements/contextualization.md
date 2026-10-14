@@ -53,4 +53,4 @@ Contextualization is the element in which new ideas, texts, or tasks are framed 
 - Framing a statistics lesson around a real community decision rather than abstract formulas.
 
 ## Key Sources
-- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press.
+- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press. [doi:10.17226/9853](https://doi.org/10.17226/9853)

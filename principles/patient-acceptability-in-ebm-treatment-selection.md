@@ -45,7 +45,6 @@ The article frames treatment acceptability within evidence-based medicine, which
 
 ## Related Principles
 
-- [Embed basic science and mechanisms of disease as a distinct unit in clinical curricula](embed-basic-science-unit-clinical-curricula.md)
 
 ## Examples
 -

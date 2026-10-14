@@ -1,6 +1,7 @@
 ---
 type: principle
 id: supporting-gifted-and-talented-students
+aliases: [perceived-giftedness-confers-training-resources]
 title: Supporting Gifted and Talented Students
 description: "For a student whose work on a unit shows the target already done, replacing the practice they do not need with acceleration or harder enrichment, chosen from that response rather than the label, is expected to sustain progress and engagement; no claim tests this, so the page gives a labelled default design."
 canonical: true
@@ -8,12 +9,17 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: ericsson-2005
+    resource: "https://eric.ed.gov/?id=EJ746057"
+    title: "Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057"
+    author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W"
 ---
 
 # Supporting Gifted and Talented Students
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (6 for, 17 mixed) · 20 studies (8 review, 4 causal, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 3 of 20 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (8 for, 17 mixed) · 20 studies (8 review, 4 causal, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 3 of 20 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,12 +116,14 @@ The earlier page cited no claim pages. These claims bear on single rows or on th
 - [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](../claims/culturally-diverse-underrepresentation-biased-measures.md) [~W]: a narrative review presenting no data on representation rates or on bias in any measure; the attribution is the review's position, reported from Ford, not a tested cause.
 - [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](../claims/traditional-identification-tests-fail-learning-potential.md) [~W]: an argument in the same review (`q2`, theoretical), citing earlier authors. It supports adding classroom evidence to identification; it is not a test of any measure.
 - [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test](../claims/test-scores-gate-gifted-program-entry.md) [~W]: one witness's written testimony reporting invitation counts for one programme in one summer; it does not compare admission routes. Related testimony on the SAT and girls is held on [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md).
-- [Even the most talented performers need around 10 years of intense involvement to reach international level](../claims/ten-year-rule-expert-performance.md) [~W], [Amount of accumulated deliberate practice distinguishes more from less accomplished musicians](../claims/deliberate-practice-hours-differentiate-musicians.md) [~W], [Relative-age effects, not innate talent, bias selection into elite youth sports](../claims/relative-age-effect-talent-selection-bias.md) [~W] and [Early training produces neural and physiological adaptations that can be misattributed to innate talent](../claims/early-training-adaptations-misread-as-talent.md) [~W]: one review from the expert-performance perspective (Ericsson et al., 2005), reporting other studies. They qualify the earlier page's account of talent as fixed: early selection and training produce part of what is read as talent. They bear on talent development and selection, not on classroom provision. See also [perceived giftedness as access to training resources](perceived-giftedness-confers-training-resources.md).
+- [Even the most talented performers need around 10 years of intense involvement to reach international level](../claims/ten-year-rule-expert-performance.md) [~W], [Amount of accumulated deliberate practice distinguishes more from less accomplished musicians](../claims/deliberate-practice-hours-differentiate-musicians.md) [~W], [Relative-age effects, not innate talent, bias selection into elite youth sports](../claims/relative-age-effect-talent-selection-bias.md) [~W] and [Early training produces neural and physiological adaptations that can be misattributed to innate talent](../claims/early-training-adaptations-misread-as-talent.md) [~W]: one review from the expert-performance perspective (Ericsson et al., 2005), reporting other studies. They qualify the earlier page's account of talent as fixed: early selection and training produce part of what is read as talent. They bear on talent development and selection, not on classroom provision. See also [perceived giftedness as access to training resources](supporting-gifted-and-talented-students.md).
 - [Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence](../claims/high-scorers-across-intelligences-support-g.md) [~W] and [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent](../claims/multiple-intelligences-weak-on-science-talent.md) [~W]: a review reporting a finding second-hand, and a position essay. They qualify the earlier page's link to [Multiple Intelligences Theory](../theories/multiple-intelligences-theory.md) as support for the broadened definition of giftedness; neither is evidence about provision.
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](../claims/mixed-homogeneous-heterogeneous-grouping.md) [~W]: a position essay (`q1`) arguing against all-day mixed-ability grouping because gifted students are asked to help slower learners; the author's experience, no data.
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](../claims/teacher-expectation-effects-on-achievement.md) [~M]: associational, about 11,000 Dutch secondary students; the effect was larger for students with higher prior achievement. It bears on the risk that a label, or its absence, shapes what a teacher offers; it is not a test of gifted provision.
 - [Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values](../claims/di-medium-positive-effect-academic-achievement.md) [~W]: a pooled estimate over three studies whose confidence interval runs from −3.659 to 5.117; it does not establish an effect of differentiation, for gifted students or anyone.
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](../claims/frustration-boredom-no-significant-impact.md) [~W]: an exploratory affect model in one retrieval-practice study; self-rated boredom did not predict practice performance there. It is a caution against reading boredom as a measure of mismatch on its own; it says nothing about gifted students.
+- [Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels](../claims/no-heritability-extrapolation-to-expert-performance.md) [+W]
+- [Historical increases in peak performance contradict fixed innate upper limits](../claims/historical-improvements-reject-immutable-limits.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -139,7 +147,6 @@ Progress on the next unit, progress on enrichment work, retention over time, eng
 - [Adaptive Learning](adaptive-learning.md) — adjusting difficulty and support to measured performance, how in-class acceleration is usually run
 - [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md) — the fairness of a gifted identification decision made from a test score
 - [Use multiple, culturally responsive assessment criteria rather than a single test cutoff to identify gifted students](multiple-criteria-gifted-identification.md)
-- [Treat perceived giftedness as access to superior training resources](perceived-giftedness-confers-training-resources.md)
 
 ## Examples
 
@@ -162,6 +169,7 @@ Progress on the next unit, progress on enrichment work, retention over time, eng
 - Schiever, S. W., & Maker, C. J. (2003). New directions in enrichment and acceleration. In N. Colangelo & G. A. Davis (Eds.), *Handbook of gifted education* (3rd ed., pp. 163-173). Allyn & Bacon.
 - Colangelo, N., & Assouline, S. (2009). Acceleration: Meeting the academic and social needs of students. In T. Balchin, B. Hymer, & D. Matthews (Eds.), *The Routledge international companion to gifted education* (pp. 194-202). Routledge. [doi:10.1007/978-1-4020-6162-2_55](https://doi.org/10.1007/978-1-4020-6162-2_55)
 - Arduini-Van Hoose, N. (2020). Intelligence. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -216,4 +224,46 @@ Support for gifted and talented students has historically been treated as a spec
 - Schiever, S. W., & Maker, C. J. (2003). New directions in enrichment and acceleration. In N. Colangelo & G. A. Davis (Eds.), *Handbook of gifted education* (3rd ed., pp. 163-173). Allyn & Bacon.
 - Colangelo, N., & Assouline, S. (2009). Acceleration: Meeting the academic and social needs of students. In T. Balchin, B. Hymer, & D. Matthews (Eds.), *The Routledge international companion to gifted education* (pp. 194-202). Routledge.
 - Arduini-Van Hoose, N. (2020). Intelligence. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-14 from principles/perceived-giftedness-confers-training-resources ("Treat perceived giftedness as access to superior training resources, and define the giftedness construct explicitly before labeling"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Treat perceived giftedness as access to superior training resources, and define the giftedness construct explicitly before labeling
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The article argues that perceived "giftedness" operates mainly by giving children "access to superior training resources, resulting in developmental advantages": parents who see talent arrange early instruction, teachers, and equipment, which accelerates development and reinforces the gifted label. Because talent-identification practice often "derives from practicality, judgment of questionable ‘experts,’ or tradition," educators should define the giftedness construct and its component traits explicitly before applying the label, and should not treat early rapid everyday-skill learning as evidence of immutable limits on later expert attainment.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Explicit definitions of the giftedness construct, component traits, and aptitudes before using the gifted label
+#### Constraints
+- The article does not preclude that genetic predictors of expertise may someday emerge, beyond height and body size
+
+### Target Learners
+- children identified or perceived as gifted or talented
+- educators and coaches selecting students for talent-development programs
+
+### Target Learning Objectives
+- sustained development of high-level domain performance through deliberate practice
+
+### Claims
+
+- [Relative Age Effect Talent Selection Bias](../claims/relative-age-effect-talent-selection-bias.md) [+M]
+- [Early Training Adaptations Misread As Talent](../claims/early-training-adaptations-misread-as-talent.md) [+M]
+- [Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels](../claims/no-heritability-extrapolation-to-expert-performance.md) [+W]
+- [Historical increases in peak performance contradict fixed innate upper limits](../claims/historical-improvements-reject-immutable-limits.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
 -->

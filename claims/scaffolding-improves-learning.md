@@ -133,3 +133,4 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — possibly the same claim (merge candidate)
 - [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — a narrower finding that bears on this claim
 - [Scaffolding's effect did not vary by customization (fading/adding), change logic, or scope, and motivation scaffolds alone showed no significant effect](scaffolding-design-features-no-moderation.md) — a narrower finding that bears on this claim
+- [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — related

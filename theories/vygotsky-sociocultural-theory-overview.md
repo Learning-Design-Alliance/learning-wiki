@@ -63,7 +63,7 @@ The article presents Vygotsky's core theoretical position: unlike Piaget's focus
 ## Examples
 
 - [Adult help should promote children as active agents of their own learning, not only subject-matter assimilation](../principles/adult-help-promotes-active-agents-learning.md)
-- [Assess children's cognitive development both when performing alone and when assisted](../principles/assess-alone-and-assisted-performance.md)
+- [Assess children's cognitive development both when performing alone and when assisted](../principles/multiple-methods-of-assessment.md)
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 
 ## Key Sources

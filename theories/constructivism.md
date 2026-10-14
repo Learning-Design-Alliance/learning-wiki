@@ -76,5 +76,5 @@ In instruction, constructivism is less a single method than a family resemblance
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
-- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academy Press.
+- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academy Press. [doi:10.17226/9853](https://doi.org/10.17226/9853)
 - Ertmer, P. A., & Newby, T. J. (2013). Behaviorism, cognitivism, constructivism: Comparing critical features from an instructional design perspective. *Performance Improvement Quarterly, 26*(2), 43–71. [doi:10.1002/piq.21143](https://doi.org/10.1002/piq.21143)

@@ -1,6 +1,7 @@
 ---
 type: principle
 id: validity-reliability-and-bias-in-classroom-assessment
+aliases: [balance-situations-sources-control-items, dc-estimate-guideline-085, side-by-side-assessment-analysis-with-teachers]
 title: Validity, Reliability, and Bias in Classroom Assessment
 description: "A classroom assessment score is expected to support a decision about a learner only as far as the tasks sample the intended capability without demands unrelated to it, the score is consistent across items, occasions and raters, and no group is disadvantaged by content or administration; no claim here tests that relationship in classrooms, and the claims that bear on it come mostly from large-scale testing and simulations."
 canonical: true
@@ -8,12 +9,25 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: thomas-1975
+    resource: "https://eric.ed.gov/?id=ED108039"
+    title: "Thomas, Mollie B. (1975). Underlying Constructs of Locus of Control of Reinforcement. https://eric.ed.gov/?id=ED108039"
+    author: Thomas, Mollie B
+  - id: wolkowitz-2024
+    resource: "https://pareonline.net/getvn.asp?v=29&n=6"
+    title: "Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6"
+    author: "Wolkowitz, A. A., & Smith, R"
+  - id: dozier-2008
+    resource: "https://eric.ed.gov/?id=EJ1059644"
+    title: "Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644"
+    author: Dozier, C. L
 ---
 
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 145 claims (81 for, 53 mixed, 11 against) · 114 studies (38 associational, 28 design, 16 review, 15 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 10 of 114 report an effect size · 139 claims rest on one study
+> **Evidence** · 151 claims (87 for, 53 mixed, 11 against) · 116 studies (39 associational, 28 design, 17 review, 15 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 10 of 116 report an effect size · 145 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +183,12 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](../claims/ai-detection-unreliable-biased-high-stakes.md) [+W] — attached 2026-10-12 from Sangwa et al. (2025), which proposed "AI-aware assessment patterns shift evaluation toward process evidence and demonstration of judgment"; tests this page's relationship.
 - [GPT-4.1 and Llama 4 Maverick achieve ICC reliability above 0.90 across all IELTS dimensions, while Gemini 2.5 Flash is moderate and Claude Sonnet 4 and DeepSeek R1 fall below 0.70 in most dimensions](../claims/llm-essay-scoring-reliability-stratification.md) [+W] — attached 2026-10-12 from Tongxi Liu et al. (2026), which proposed "Validate LLM scoring systems for reliability before classroom deployment and adopt predefined reliability thresholds for high-stakes use"; tests this page's relationship.
 - [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](../claims/gpa-most-predictive-attainment-english-learners.md) [+W] — attached 2026-10-13 from Allensworth et al. (2025), which proposed "Use the same early warning and college readiness indicator systems for English Learners as for other students, but apply group-specific risk thresholds, especially for active English Learners in high school"; tests this page's relationship.
+- [Iar Cdr Factor Scores Low Intercorrelations](../claims/iar-cdr-factor-scores-low-intercorrelations.md) [+M]
+- [Eleven Components Iar Cdr](../claims/eleven-components-iar-cdr.md) [+M]
+- [The greatest differences among the three DC estimates occur when the cut score is set at the mode of a skewed score distribution](../claims/dc-estimate-differences-largest-at-mode.md) [+M]
+- [The LL-DC, PS-DC, and W-DC methods produce similar decision consistency estimates (within 0.044) for normally or close to normally distributed datasets](../claims/dc-methods-similar-normal-distributions.md) [+W]
+- [For skewed datasets, W-DC and LL-DC produce similar and preferred estimates, while PS-DC diverges at high-frequency scores](../claims/dc-methods-skewed-data-w-dc-ll-dc-preferred.md) [+W]
+- [Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students](../claims/conditional-reliability-low-at-score-tails.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -276,11 +296,16 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Authentic intellectual work scoring rubrics with double-scoring design for inter-scorer reliability](../elements/aiw-scoring-rubrics-double-scoring-element.md)
 - [Use performance assessments in conjunction with selected-response items, counting enough toward final scores to matter](../strategies/performance-plus-selected-response-balance.md)
 - [Route divergent or linguistically weak AI-scored explanations to teachers as diagnostic signals for mindful human review](../strategies/route-divergent-ai-scores-to-teacher-review.md)
+- [Select a DC estimation method based on score distribution shape, the user's measurement background, and the intended audience](../strategies/dc-method-selection-guidance.md)
+- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.
 - Popham, W. J. (2005). *Classroom assessment: What teachers need to know* (4th ed.). Allyn & Bacon.
 - Arduini-Van Hoose, N. (2020). Selecting high-quality assessments; Methods of data collection. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Thomas, Mollie B. (1975). Underlying Constructs of Locus of Control of Reinforcement. https://eric.ed.gov/?id=ED108039
+- Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -334,4 +359,126 @@ Validity and reliability apply beyond classroom assessment to measurement genera
 - Popham, W. J. (2005). *Classroom assessment: What teachers need to know* (4th ed.). Allyn & Bacon.
 - Arduini-Van Hoose, N. (2020). Selecting high-quality assessments; Methods of data collection. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 
+-->
+
+<!-- merged 2026-10-14 from principles/balance-situations-sources-control-items ("Developers of locus of control instruments should account for the balance of situations and sources of control items, which affects obtained scores"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Developers of locus of control instruments should account for the balance of situations and sources of control items, which affects obtained scores
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article concludes that instrument developers must attend to how situations and sources of control are represented in their items, because "the balance of situations and sources of control items will affect the scores obtained from the instrument." Since respondents' expectancies for control vary by situation and by external source (fate, luck, chance, or others), item composition shifts measured internality-externality and thus the instrument's relationship with other locus of control instruments.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instrument items must be scrutinized for the multiplicity of situations and external sources of control they represent before scores are compared across instruments.
+#### Constraints
+- The recommendation rests on component analyses of two domain-specific instruments administered to one ninth-grade sample.
+
+### Target Learners
+- ninth-grade students
+
+### Target Learning Objectives
+- accurate measurement of expectancies for internal versus external control of reinforcement
+
+### Claims
+- [Iar Cdr Factor Scores Low Intercorrelations](../claims/iar-cdr-factor-scores-low-intercorrelations.md) [+M]
+- [Eleven Components Iar Cdr](../claims/eleven-components-iar-cdr.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Thomas, Mollie B. (1975). Underlying Constructs of Locus of Control of Reinforcement. https://eric.ed.gov/?id=ED108039
+-->
+
+<!-- merged 2026-10-14 from principles/dc-estimate-guideline-085 ("Target a decision consistency estimate of at least 0.85 for high stakes exams while interpreting lower values in light of cut score location, reliability, and population heterogeneity"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Target a decision consistency estimate of at least 0.85 for high stakes exams while interpreting lower values in light of cut score location, reliability, and population heterogeneity
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (6 for) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+
+## Description
+The article endorses Subkoviak's (1988) guidance that tests used for serious decisions should achieve an agreement coefficient exceeding 0.85, while arguing the acceptable value should be a programmatic policy decision informed by exam data. The authors state: "The authors support the recommendation of having a DC estimate of at least 0.85 for high stakes exams, but also believe there are reasonable explanations as to why the DC estimate may be lower." Lower values may be justifiable when the score distribution peaks at the cut score or when reliability is reduced by a homogeneous population.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Sufficiently long exams; the guidelines assume a sufficiently large number of items and may need adjustment for shorter exams and for the relative heterogeneity of the test-taking population
+#### Constraints
+- DC is influenced by sample size, reliability of exam scores, location of the cut score, and the score frequency distribution; a DC estimate below 0.85 may be empirically justifiable when the distribution peak coincides with the cut score
+
+### Target Learners
+- credentialing program staff
+- measurement professionals
+
+### Target Learning Objectives
+- setting and interpreting acceptable decision consistency standards for high stakes pass/fail exams
+
+### Claims
+
+- [Dc Lowest At Score Distribution Peak](../claims/dc-lowest-at-score-distribution-peak.md) [+M]
+- [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](../claims/cohens-kappa-paradox-decision-consistency.md) [+W]
+- [The greatest differences among the three DC estimates occur when the cut score is set at the mode of a skewed score distribution](../claims/dc-estimate-differences-largest-at-mode.md) [+M]
+- [The LL-DC, PS-DC, and W-DC methods produce similar decision consistency estimates (within 0.044) for normally or close to normally distributed datasets](../claims/dc-methods-similar-normal-distributions.md) [+W]
+- [For skewed datasets, W-DC and LL-DC produce similar and preferred estimates, while PS-DC diverges at high-frequency scores](../claims/dc-methods-skewed-data-w-dc-ll-dc-preferred.md) [+W]
+- [Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students](../claims/conditional-reliability-low-at-score-tails.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Select a DC estimation method based on score distribution shape, the user's measurement background, and the intended audience](../strategies/dc-method-selection-guidance.md)
+
+## Key Sources
+- Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6
+-->
+
+<!-- merged 2026-10-14 from principles/side-by-side-assessment-analysis-with-teachers ("Conduct assessments side by side with teachers rather than as the sole administrator"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Conduct assessments side by side with teachers rather than as the sole administrator
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The coach conducts and analyzes assessments together with teachers, looking for consistency and talking through discrepancies, which builds teachers' confidence in analysis and leads to changes in assessment questions, formats, and tests used. The article warns that when coaches are sole administrators of testing, it signals that assessment lies beyond the classroom teacher's responsibility and costs teachers information about how children process texts.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Joint analysis sessions where coach and teacher compare judgments and discuss discrepancies
+#### Constraints
+- Coaches risk conveying that testing is beyond classroom responsibility if they assess independently
+
+### Target Learners
+- classroom teachers
+
+### Target Learning Objectives
+- assessment analysis skills
+- problem posing and problem solving about student learning
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+
+- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+
+## Key Sources
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
 -->

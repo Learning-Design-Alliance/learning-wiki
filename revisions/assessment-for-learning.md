@@ -12,3 +12,8 @@ Enriched with Dweck incremental/fixed view of ability shaping assessment purpose
 
 ### 2026-10-02 · ingest · process:wiki-ingest
 Ingested from eric-ej1342778 (Comparing Effects of Two Different Explicit-Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as principles/embed-assessment-in-ongoing-instruction
+
+### 2026-09-25 · ingest · process:wiki-ingest
+Ingested from eric-ed417935 (Mathematics. Competency-Based Education Assessment Series.) via eval_harness.py + ingest_extractions.py

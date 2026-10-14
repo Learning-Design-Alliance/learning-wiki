@@ -47,3 +47,4 @@ Coefficient of determination reported in the structural model assessment (Table 
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related
 - [Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl.md) — related
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](tuga-negative-effect-se-mov.md) — related
+- [An emotional connection to nature, rather than conservation knowledge, is a powerful predictor of children's conservation behavior](emotional-connection-predicts-conservation-behavior.md) — related

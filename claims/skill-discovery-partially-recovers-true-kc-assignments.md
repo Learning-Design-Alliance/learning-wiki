@@ -45,3 +45,4 @@ Synthetic simulation experiments evaluating KC-assignment recovery with two agre
 ## Related Claims
 - [On a real dataset with problem content, the skill discovery model matches BKT with expert-provided skills despite using fewer KCs](skill-discovery-matches-expert-skills-fewer-kcs.md) — related
 - [BKT implemented as an RNN layer in PyTorch recovers generating parameters comparably to brute-force grid-search BKT while scaling to large datasets](bkt-rnn-matches-brute-force-parameter-recovery.md) — related
+- [DKT matches an oracle on simulated data without concept labels, while BKT degrades as hidden concepts increase](dkt-learns-concepts-without-annotations.md) — related

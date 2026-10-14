@@ -22,3 +22,8 @@ Ingested from eric-ej823029 (Examining Information Problem-Solving, Knowledge, a
 
 ### 2026-09-27 · ingest · process:wiki-ingest
 Ingested from eric-ed030640 (Time That Is Intolerant.) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as principles/lateral-transmission-alongside-vertical
+
+### 2026-09-26 · ingest · process:wiki-ingest
+Ingested from eric-ed356168 (Margaret Mead: Anthropological Perspective on Educational Change.) via eval_harness.py + ingest_extractions.py

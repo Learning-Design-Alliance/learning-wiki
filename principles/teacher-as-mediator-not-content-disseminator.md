@@ -1,7 +1,7 @@
 ---
 type: principle
 id: teacher-as-mediator-not-content-disseminator
-aliases: [dual-teacher-role-acquisition-and-learning, teacher-as-facilitator-constructivist-classroom, teacher-as-facilitator-for-discovery, writing-teacher-as-facilitator-not-lecturer]
+aliases: [dual-teacher-role-acquisition-and-learning, teacher-as-facilitator-constructivist-classroom, teacher-as-facilitator-for-discovery, writing-teacher-as-facilitator-not-lecturer, teacher-as-designer-guider-consultant, provide-experiences-not-direct-teaching-sla]
 title: Educators should act as mediators and facilitators of learning rather than content disseminators
 description: "Drawing on MLE theory, the article recommends that teachers reconceive their role: the mediator guides rather than dominates the learning process, engaging students in expressing and internalizing their understanding."
 canonical: true
@@ -30,12 +30,24 @@ sources:
     resource: "https://eric.ed.gov/?id=ED294201"
     title: "DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201"
     author: DeCiccio, Albert C
+  - id: qiong-jia-2010
+    resource: "https://www.ccsenet.org/ies"
+    title: "Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies"
+    author: Qiong Jia
+  - id: warr-2020
+    resource: "https://doi.org/10.14434/ijpbl.v14i1.28590"
+    title: "Warr, M. & West, R. E. (2020). Bridging Academic Disciplines with Interdisciplinary Project-based Learning: Challenges and Opportunities. The Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.14434/ijpbl.v14i1.28590"
+    author: "Warr, M. & West, R. E"
+  - id: bill-vanpatten-2010
+    resource: "https://www.um.es/ijes"
+    title: "Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes"
+    author: Bill VanPatten
 ---
 
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (12 for, 1 mixed, 1 against) · 12 studies (5 qualitative, 5 theoretical, 2 review), `q1`–`q2` · 0 of 12 report an effect size · 14 claims rest on one study
+> **Evidence** · 24 claims (22 for, 1 mixed, 1 against) · 15 studies (7 theoretical, 5 qualitative, 3 review), `q1`–`q2` · 0 of 15 report an effect size · 24 claims rest on one study
 
 ## Description
 Drawing on MLE theory, the article recommends that teachers reconceive their role: the mediator guides rather than dominates the learning process, engaging students in expressing and internalizing their understanding. The article states that "educators are expected to leave their role of 'a content disseminator' and take the responsibility to act as a facilitator who brings forth meaningful learning, self -competence, intentional behaviours and familiarity with novelty". In the study's lesson, the teacher offered objectives, asked critical questions, and fostered creativity and independent action.
@@ -49,10 +61,16 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - Teachers must provide information and organize activities rather than transmit knowledge directly
 - A setting for meaningful experiences with a great deal of underlying structure; materials the child can act on; acceptance of individual differences in developmental level
 - The teacher takes on roles of facilitator, co-worker, enabler, resource and referee instead of primarily imparting information.
+- Teachers must organize and guide the whole teaching process rather than merely convey knowledge
+- A flexible course structure that can be adapted as needed, with instructors proactively seeking learner feedback throughout the course
+- Classroom activities must provide opportunities for engagement with the target skill or with manipulated input, rather than attempting direct induction
 #### Constraints
 - The article frames this within MLE theory and notes homogeneous, motivation-blocking environments can prevent change in learners needing special education
 - The article notes teachers who believed in constructivist theory often did not know how to use it in practice
 - The handbook notes this does not mean letting a child experiment on whatever he chooses all day; the teacher remains responsible for structure, order, and progress
+- The article frames this as a reform of the traditional teacher-centered mode in China's basic education
+- Faculty varied in experience with project-based pedagogy; some were just beginning to teach this way and had to work against always jumping in to provide the right answer
+- The author explicitly hesitates to make curriculum recommendations from this one essay and makes no arguments for particular curricula, approaches, or methods
 
 ### Target Learners
 - Disadvantaged learners and students needing special education
@@ -60,6 +78,9 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - K-12 and classroom learners generally
 - preschool through third grade children
 - College composition students
+- students in basic education classrooms
+- higher education students in project-based courses
+- adult second language learners
 
 ### Target Learning Objectives
 - Meaningful learning
@@ -69,6 +90,9 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - constructing, interpreting, and integrating new understanding with past experiences
 - discovery of physical and logico-mathematical relationships through firsthand experience
 - Sharing authority for learning among students and teacher
+- initiative construction of meanings by students
+- second language acquisition
+- informed instructional decision-making by language teachers
 
 ### Claims
 
@@ -89,11 +113,22 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - [AI integration shifted staff roles from direct instruction to facilitation and increased workload](../claims/ai-integration-shifted-staff-roles-facilitation.md) [~W]
 - [Successful AI integration in Arab EL2 classrooms consistently depends on teacher mediation, institutional support, and responsible-use practices](../claims/teacher-mediation-institutional-support-ai-integration.md) [+W]
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](../claims/teacher-role-shift-facilitator-ethical-supervisor.md) [+W]
+- [Learning Is Initiative Construction Old New Knowledge](../claims/learning-is-initiative-construction-old-new-knowledge.md) [+W]
+- [Mental Representation Not Directly Instructable](../claims/mental-representation-not-directly-instructable.md) [+M]
+- [Skill Develops Through Engagement Not Drill](../claims/skill-develops-through-engagement-not-drill.md) [+M]
+- [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](../claims/grammar-as-skill-is-a-conflation.md) [+W]
+- [L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions](../claims/l2-skill-never-fully-native-like.md) [+W]
+- [Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge](../claims/structured-input-alone-sufficient-for-acquisition.md) [+W]
+- [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](../claims/untaught-syntax-acquired-taught-agreement-not.md) [+W]
+- [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](../claims/form-focused-input-manipulation-illusory-for-competence.md) [+W] — attached 2026-10-07 from Young-Scholten (1999), which proposed "Favor input processing and focus on form over focus on forms in adult L2 teaching"; tests this page's relationship.
+- [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](../claims/instruction-little-effect-on-route-of-acquisition.md) [+W] — attached 2026-10-07 from Young-Scholten (1999), which proposed "Favor input processing and focus on form over focus on forms in adult L2 teaching"; tests this page's relationship.
+- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](../claims/white-adverb-placement-negative-evidence-failed.md) [+W] — attached 2026-10-07 from Young-Scholten (1999), which proposed "Favor input processing and focus on form over focus on forms in adult L2 teaching"; tests this page's relationship.
 
 ## Related Principles
 - [Constructivism](constructivism.md)
 - [Instructor_As_Facilitator](../strategies/instructor_as_facilitator.md)
 - [Facilitating_Learning](../strategies/facilitating_learning.md)
+- [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
 
 ## Examples
 
@@ -102,6 +137,8 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](../designs/constructivist-model-reconstruction-course-pattern.md)
 - [Introduce Piagetian activities simply, one variable at a time, with ample time and repetition](../strategies/one-variable-at-a-time-activity-introduction.md)
 - [Use questioning and counter-suggestions (contrepreuve) to produce disequilibration and support cognitive growth](../strategies/questioning-contrepreuve-disequilibration.md)
+- [Emphasize cooperation and communication to train students' cooperative consciousness](../strategies/cooperation-communication-train-cooperative-consciousness.md)
+- [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
 
 ## Key Sources
 - Mutlu, A. & Şahin, M. (2019). The Mediated Learning Experience (MLE) Theory in Meaningful Language Instruction. International Journal on New Trends in Education and Their Implications, 10(2). http://www.ijonte.org
@@ -109,6 +146,9 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - Liu, C. C., & Chen, I. J. (2010). Evolution Of Constructivism. Contemporary Issues In Education Research, 3(4). https://www.cluteinstitute.com/ojs/index.php/cier
 - Felton, Victoria; Petersen, Rosemary. (1976). Piaget: A Handbook for Parents and Teachers of Children in the Age of Discovery--Preschool Through Third Grade. https://eric.ed.gov/?id=ED131912
 - DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201
+- Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies
+- Warr, M. & West, R. E. (2020). Bridging Academic Disciplines with Interdisciplinary Project-based Learning: Challenges and Opportunities. The Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.14434/ijpbl.v14i1.28590
+- Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
 
 <!-- merged 2026-10-07 from principles/dual-teacher-role-acquisition-and-learning ("Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -267,4 +307,134 @@ The third recommendation asks writing teachers to redefine their roles: rather t
 
 ## Key Sources
 - DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201
+-->
+
+<!-- merged 2026-10-14 from principles/teacher-as-designer-guider-consultant ("Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Because students are the subjects of learning, the article argues the teacher's role must change "from the initiator and the indoctrinator into the helper and the driver for students constructing meanings initiatively". Specifically, "teachers should be the designer of teaching environment, the guider for students’ learning, and the academic consultant for students". The new teaching mode takes students as the center under teachers' guidance, with teachers organizing and guiding the whole teaching process, replacing the traditional mode centered on conveying knowledge.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must organize and guide the whole teaching process rather than merely convey knowledge
+- A flexible course structure that can be adapted as needed, with instructors proactively seeking learner feedback throughout the course
+#### Constraints
+- The article frames this as a reform of the traditional teacher-centered mode in China's basic education
+- Faculty varied in experience with project-based pedagogy; some were just beginning to teach this way and had to work against always jumping in to provide the right answer
+
+### Target Learners
+- students in basic education classrooms
+- higher education students in project-based courses
+
+### Target Learning Objectives
+- initiative construction of meanings by students
+
+### Claims
+- [Learning Is Initiative Construction Old New Knowledge](../claims/learning-is-initiative-construction-old-new-knowledge.md) [+W]
+
+## Related Principles
+
+- [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
+
+## Examples
+
+- [Emphasize cooperation and communication to train students' cooperative consciousness](../strategies/cooperation-communication-train-cooperative-consciousness.md)
+- [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
+
+## Key Sources
+- Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies
+- Warr, M. & West, R. E. (2020). Bridging Academic Disciplines with Interdisciplinary Project-based Learning: Challenges and Opportunities. The Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.14434/ijpbl.v14i1.28590
+
+<!- - merged 2026-10-07 from patterns/studio-faculty-mentor-consultant-roles ("Faculty as mentors and consultants guiding open-ended project work"), misfiled as a pattern and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Faculty as mentors and consultants guiding open-ended project work
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+In the studio courses, faculty served as mentors and consultants rather than traditional teachers, enacting three primary roles apparent in the data: guiding students through the design process (brainstorming, prototyping, testing), mentoring project groups, and pushing students to think critically about ideas and user needs, while also helping them navigate complicated contexts and obtain resources. Students rated "I felt the instructor was a mentor and a consultant more than a typical teacher" an average of 4.17 (SD = 0.92). Faculty described navigating a tension between supporting students and letting them explore and even fail.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A flexible course structure that can be adapted as needed, with instructors proactively seeking learner feedback throughout the course
+#### Constraints
+- Faculty varied in experience with project-based pedagogy; some were just beginning to teach this way and had to work against always jumping in to provide the right answer
+
+### Target Learners
+- higher education students in project-based courses
+
+### Target Goals
+- autonomous project management
+- design thinking
+- critical evaluation of ideas
+
+### Claims
+- 
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Warr, M. & West, R. E. (2020). Bridging Academic Disciplines with Interdisciplinary Project-based Learning: Challenges and Opportunities. The Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.14434/ijpbl.v14i1.28590
+- ->
+-->
+
+<!-- merged 2026-10-14 from principles/provide-experiences-not-direct-teaching-sla ("Neither mental representation nor skill can be directly taught; teachers provide experiences and act as informed consumers of instructional research"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Neither mental representation nor skill can be directly taught; teachers provide experiences and act as informed consumers of instructional research
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 9 claims (9 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 9 claims rest on one study
+
+## Description
+The article concludes that teachers and materials cannot directly intervene in the development of either mental representation or skill; instead, both evolve based on learners' experiences in and out of classrooms. For skill, this means "teachers and materials can only provide opportunities for their development". Understanding how acquisition works lets teachers and curriculum developers evaluate instructional trends rather than assume any method directly induces learning.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Classroom activities must provide opportunities for engagement with the target skill or with manipulated input, rather than attempting direct induction
+#### Constraints
+- The author explicitly hesitates to make curriculum recommendations from this one essay and makes no arguments for particular curricula, approaches, or methods
+
+### Target Learners
+- adult second language learners
+
+### Target Learning Objectives
+- second language acquisition
+- informed instructional decision-making by language teachers
+
+### Claims
+
+- [Mental Representation Not Directly Instructable](../claims/mental-representation-not-directly-instructable.md) [+M]
+- [Skill Develops Through Engagement Not Drill](../claims/skill-develops-through-engagement-not-drill.md) [+M]
+- [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](../claims/grammar-as-skill-is-a-conflation.md) [+W]
+- [L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions](../claims/l2-skill-never-fully-native-like.md) [+W]
+- [Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge](../claims/structured-input-alone-sufficient-for-acquisition.md) [+W]
+- [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](../claims/untaught-syntax-acquired-taught-agreement-not.md) [+W]
+- [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](../claims/form-focused-input-manipulation-illusory-for-competence.md) [+W] — attached 2026-10-07 from Young-Scholten (1999), which proposed "Favor input processing and focus on form over focus on forms in adult L2 teaching"; tests this page's relationship.
+- [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](../claims/instruction-little-effect-on-route-of-acquisition.md) [+W] — attached 2026-10-07 from Young-Scholten (1999), which proposed "Favor input processing and focus on form over focus on forms in adult L2 teaching"; tests this page's relationship.
+- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](../claims/white-adverb-placement-negative-evidence-failed.md) [+W] — attached 2026-10-07 from Young-Scholten (1999), which proposed "Favor input processing and focus on form over focus on forms in adult L2 teaching"; tests this page's relationship.
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
 -->

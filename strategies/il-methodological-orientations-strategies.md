@@ -41,6 +41,7 @@ The article offers ten methodological orientations and twelve methodological str
 
 - [Recommendations for university leaders, professors, staff, and students to foster civic learning across the three levels](civic-learning-recommendations-university-stakeholders.md)
 - [Provide institutional support to enable relationship-building in critical service-learning](institutional-support-for-critical-service-learning-relationships.md)
+- [Use real-world problems, open-ended class discussions, and inquiry-oriented experiments as higher order thinking strategies](real-world-open-discussion-inquiry-strategies.md)
 
 ## Examples
 -

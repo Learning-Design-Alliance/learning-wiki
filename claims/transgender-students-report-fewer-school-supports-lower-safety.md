@@ -57,3 +57,4 @@ Descriptive analysis of pooled 2017–19 California Healthy Kids Survey response
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
 - [Youth-led action research found that many California high school students did not feel cared for by adults at school](youth-survey-adult-care-deficit.md) — related
+- [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related

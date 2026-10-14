@@ -143,3 +143,5 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — a narrower finding that bears on this claim
 - [Peer programs, including cooperative learning strategies, were concluded to be the single most effective school-based approach for reducing youth alcohol and drug use](peer-programs-most-effective-drug-use-prevention.md) — related
 - [In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings](individual-dialogue-dominant-speaker-learns-more.md) — related
+- [Methods derived from all four theoretical perspectives contribute to achievement gain under certain conditions](all-four-perspectives-contribute-under-conditions.md) — related
+- [Classroom research primarily supports the motivational perspective on cooperative learning effects](classroom-research-supports-motivational-perspective.md) — a broader claim this one bears on

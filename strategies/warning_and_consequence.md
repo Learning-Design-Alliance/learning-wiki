@@ -61,7 +61,7 @@ The strategy works because predictability, not severity, drives behavior change:
 - [Establishing classroom routines](establishing-routines.md) — prevention that reduces the need for warnings in the first place
 - [Restorative conversations](restorative-conversations.md) — the follow-up that converts a consequence into a learning event
 - [Low-Profile Classroom Control](low-profile-classroom-control.md) — the warn-then-follow-through reaction sequence this technique instantiates
-- [Natural and Logical Consequences](../principles/natural-and-logical-consequences.md) — worth checking this specific consequence against, since a fixed break-time deduction can read as punishment rather than a consequence proportionate to and connected with the misbehavior
+- [Natural and Logical Consequences](../principles/effective-classroom-management-plan.md) — worth checking this specific consequence against, since a fixed break-time deduction can read as punishment rather than a consequence proportionate to and connected with the misbehavior
 ## Related Elements
 - <!-- TODO -->
 ## Tools

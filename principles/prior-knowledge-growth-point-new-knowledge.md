@@ -45,7 +45,7 @@ The article recommends that teaching start from what learners already know: "tea
 ## Related Principles
 
 - [Strengths-based Approach](strengths-based-approach.md)
-- [Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching](teacher-as-designer-guider-consultant.md)
+- [Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching](teacher-as-mediator-not-content-disseminator.md)
 
 ## Examples
 

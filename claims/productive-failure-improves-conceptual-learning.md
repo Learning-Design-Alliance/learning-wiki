@@ -119,3 +119,4 @@ Two randomized controlled studies compared teaching a new math concept first wit
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](ail-theory-practice-gap-he-programs.md) — related
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
 - [For domain-general skills, effect sizes favor I-PS over PS-I](domain-general-skills-favor-ips.md) — a narrower finding that bears on this claim
+- [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) — related

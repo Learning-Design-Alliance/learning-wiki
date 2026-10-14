@@ -43,7 +43,6 @@ The article holds that dialogue is the most important ingredient in the whole pr
 
 ## Related Principles
 
-- [Begin film discussion at the level of narrative understanding before moving to analysis](start-film-discussion-at-narrative-understanding.md)
 
 ## Examples
 

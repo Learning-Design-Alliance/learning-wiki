@@ -1,6 +1,7 @@
 ---
 type: principle
 id: disciplinary-literacy
+aliases: [recognize-imagination-in-learning-and-knowing]
 title: Disciplinary Literacy
 description: Disciplinary literacy teaches learners to read, write, and reason in the ways that are specific to a discipline — how historians source documents, how scientists evaluate evidence, how mathematicians justify claims — rather than applying generic comprehension strategies to all texts.
 canonical: true
@@ -8,12 +9,17 @@ status: review
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
+sources:
+  - id: lemisko-2004
+    resource: "https://www.quasar.ualberta.ca/css"
+    title: "Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css"
+    author: Lemisko, L.S
 ---
 
 # Disciplinary Literacy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (5 for) · 10 studies (6 causal, 2 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 11 studies (6 causal, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Disciplinary literacy is the principle that literacy instruction in subject areas should teach the specialized ways of reading, writing, thinking, and communicating that define each discipline. Instead of treating "reading strategies" as content-neutral tools applied uniformly across subjects, it positions learners as apprentices to disciplinary practices: interrogating sources like historians, weighing evidence like scientists, or evaluating arguments like literary critics. The recommendation is to make these discipline-specific practices explicit, model them, and give learners supervised practice in authentic disciplinary tasks.
@@ -28,24 +34,29 @@ Disciplinary literacy reframes content-area literacy from a set of generic strat
 - Authentic disciplinary texts and tasks — primary sources, data sets, journal articles — rather than textbook summaries ([Authentic Audiences & Purposes](authentic-audiences-purposes.md))
 - Explicit modeling of disciplinary heuristics ([Demonstration](../elements/demonstration.md)) paired with guided practice ([Guided Practice](guided-practice.md))
 - Text scaffolds that manage difficulty without replacing the discipline's texts ([Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md), [Annotating](annotating.md))
+- Imaginative reconstruction must be anchored in primary source evidence and referenced so others can re-imagine the account
 
 #### Constraints
 - Less effective when teachers lack deep disciplinary knowledge; generic strategy instruction is a safer default in that case [-M]
 - Can overload novices if authentic texts are used without scaffolding, since disciplinary texts carry high intrinsic load [~M]
 - Inappropriate when the goal is broad general literacy rather than disciplinary competence — generic strategies remain useful for everyday texts [~M]
 - Requires instructional time that competes with content coverage; superficial "disciplinary-flavored" activities without real epistemic work produce little benefit [-W]
+- Imagination unmoored from sources is treated by Collingwood as fantasy rather than historical knowledge
 
 ### Target Learners
 - Upper secondary and postsecondary learners entering specialized coursework
 - Learners who read adequately in general terms but struggle with discipline-specific texts and conventions
 - Advanced learners for whom generic comprehension strategies have plateaued
 - Less suitable for early readers still building foundational decoding and general comprehension skills
+- K-12 social studies and history students
 
 ### Target Learning Objectives
 - Discipline-specific comprehension: reading primary sources, data, proofs, or criticism as an insider would
 - Epistemic practices: sourcing, corroborating, evaluating evidence, constructing discipline-appropriate arguments ([Argumentation](../elements/argumentation.md))
 - Disciplinary writing and communication in authentic genres
 - Developing a disciplinary identity and disposition toward evidence
+- Constructing evidence-based understandings of the past
+- Historical thinking and critical inquiry
 
 ### Theory
 #### Supporting
@@ -63,6 +74,9 @@ Disciplinary literacy reframes content-area literacy from a set of generic strat
 - [Argumentation improves reasoning.](../claims/argumentation-improves-reasoning.md) [+M] — discipline-appropriate argument construction deepens reasoning about evidence
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](../claims/ai-literacy-discipline-specific-calibration.md) [+W]
 - [Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation](../claims/disciplinary-variation-communication-assessment.md) [+W]
+- [Historical Imagination Evidence Constrained Reconstruction](../claims/historical-imagination-evidence-constrained-reconstruction.md) [+M]
+- [Strategy Imagining Past Two Question Sets](../strategies/strategy-imagining-past-two-question-sets.md) [+M]
+- [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](../claims/collingwood-supports-constructivist-history-teaching.md) [+W]
 
 ## Related Principles
 - [Annotating](annotating.md) — annotation schemes can be discipline-specific (e.g., sourcing marginalia in history), making expert reading moves visible
@@ -91,3 +105,45 @@ Disciplinary literacy reframes content-area literacy from a set of generic strat
 - Wineburg, S. S. (1991). Historical problem solving: A study of the cognitive processes used in the evaluation of documentary and pictorial evidence. *Journal of Educational Psychology, 83*(1), 73–87. [doi:10.1037/0022-0663.83.1.73](https://doi.org/10.1037/0022-0663.83.1.73)
 - Goldman, S. R. (2012). Adolescent literacy: Learning and understanding content. *The Future of Children, 22*(2), 89–108. [doi:10.1353/foc.2012.0011](https://doi.org/10.1353/foc.2012.0011)
 - Shanahan, C., Shanahan, T., & Misischia, C. (2011). Analysis of expert readers in three disciplines: History, mathematics, and chemistry. *Journal of Literacy Research, 43*(4), 393–429. [doi:10.1177/1086296X11424071](https://doi.org/10.1177/1086296X11424071)
+- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
+
+<!-- merged 2026-10-14 from principles/recognize-imagination-in-learning-and-knowing ("Recognize and acknowledge the profound importance of the human imagination in learning and knowing when designing history instruction"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Recognize and acknowledge the profound importance of the human imagination in learning and knowing when designing history instruction
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The paper's concluding principle holds that history teaching should treat imagination as a legitimate, central component of knowledge construction rather than as mere fiction-making. The author writes that "Collingwood encourages us all to recognize and acknowledge the profound importance of the human imagination in learning and knowing". Instruction built on Collingwood's method channels student imagination through evidence-anchored re-enactment, interpolation, and interrogation of sources, so that imaginative reconstruction remains accountable to evidence.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Imaginative reconstruction must be anchored in primary source evidence and referenced so others can re-imagine the account
+#### Constraints
+- Imagination unmoored from sources is treated by Collingwood as fantasy rather than historical knowledge
+
+### Target Learners
+- K-12 social studies and history students
+
+### Target Learning Objectives
+- Constructing evidence-based understandings of the past
+- Historical thinking and critical inquiry
+
+### Claims
+
+- [Historical Imagination Evidence Constrained Reconstruction](../claims/historical-imagination-evidence-constrained-reconstruction.md) [+M]
+- [Strategy Imagining Past Two Question Sets](../strategies/strategy-imagining-past-two-question-sets.md) [+M]
+- [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](../claims/collingwood-supports-constructivist-history-teaching.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
+-->

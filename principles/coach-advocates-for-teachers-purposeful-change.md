@@ -45,7 +45,7 @@ The article casts the coach as an advocate, not an evaluator, who supports stron
 ## Related Principles
 
 - [Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions](ongoing-study-teams-peer-coaching-in-service.md)
-- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](engage-teachers-literacy-events-learner-to-learner.md)
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](communities-of-practice.md)
 
 ## Examples
 

@@ -47,3 +47,4 @@ Test AUC and RMSE comparison (Table 3) of BKTransformer against DKT, SAKT, and B
 - [On seven of eight real-world datasets, the novel BKT extensions achieve prediction performance within 0.04 AUC-ROC points of state-of-the-art models](bkt-extensions-close-to-state-of-art-auc.md) — related
 - [BKT with generalizable multidimensional student and problem effects matches DKT on some real-world datasets, and multidimensional abilities improve upon unidimensional ones on some datasets](bkt-irt-matches-dkt-some-datasets.md) — related
 - [In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students](clst-outperforms-baselines-cold-start.md) — related
+- [Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks](dkt-outperforms-bkt-auc-benchmarks.md) — related

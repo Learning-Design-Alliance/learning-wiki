@@ -12,7 +12,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 131 claims (90 for, 27 mixed, 14 against) · 96 studies (52 associational, 23 causal, 12 review, 5 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 9 of 96 report an effect size · 129 claims rest on one study
+> **Evidence** · 132 claims (90 for, 28 mixed, 14 against) · 97 studies (52 associational, 23 causal, 13 review, 5 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 9 of 97 report an effect size · 130 claims rest on one study
 
 ## Description
 A learner's economic and social position: family income or poverty (often measured by eligibility for free or reduced-price school meals), parental education and occupation, and the resources that follow from them: time, a quiet place to study, devices, money for fees and travel. In the research it appears as a predictor of outcomes (achievement and attainment gaps), as a moderator of instructional effects (a design that helps low-income learners more, or less), and as the population a programme targets. It is distinct from [access](access.md), which is whether a learner can perceive and operate the material, and from [time and continuity](time-and-continuity.md), though poverty constrains both.
@@ -163,6 +163,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Public research-extensive universities spend hundreds of millions in institutional grant aid on high-income students, with nearly equal spending on the top two and bottom two income quintiles](../claims/institutional-aid-to-high-income-students.md) [~W]
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](../claims/ninth-grade-gpa-demographic-variation.md) [~W]
 - [AP enrollment in Kentucky's highest-poverty districts dropped by half, to 5% of students, by 2021-22](../claims/ky-high-poverty-districts-ap-enrollment-halved.md) [~W]
+- [Nature-based learning appears to work especially well for disadvantaged and disengaged students, potentially narrowing achievement gaps](../claims/nature-based-learning-benefits-disadvantaged-students.md) [~W] — an instructional effect differs with it
 
 ## Related Learner Variables
 - [Access](access.md) — devices and bandwidth, often constrained by income

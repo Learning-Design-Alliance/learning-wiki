@@ -46,7 +46,7 @@ The guide organizes its model assessments along a three-type axis developed with
 - [Type 1 model competency test: a largely traditional paper-and-pencil assessment with scoring guide and teacher notes](../products/type-1-model-competency-test.md)
 - [Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress](../products/type-2-checklist-assessment.md)
 - [Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives](../designs/field-day-embedded-assessment-unit.md)
-- [Embed competency assessment in ongoing instruction rather than administering it as a separate test event](../principles/embed-assessment-in-ongoing-instruction.md)
+- [Embed competency assessment in ongoing instruction rather than administering it as a separate test event](../principles/assessment-for-learning.md)
 
 ## Key Sources
 - Kasten, Margaret; Meiring, Steve; Mikesell, Anne. (1997). Mathematics. Competency-Based Education Assessment Series. https://eric.ed.gov/?id=ED417935

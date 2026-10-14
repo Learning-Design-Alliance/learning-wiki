@@ -31,7 +31,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (5 for, 6 mixed, 3 against, 1 unmarked) · 11 studies (6 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 4 of 11 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (6 for, 6 mixed, 3 against, 1 unmarked) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -112,6 +112,7 @@ Taken together: for conceptual understanding and transfer in learners past the e
 - [Pre-tests reduced adult learners' persistence in a MOOC](../claims/pretesting-can-harm-motivation.md) [~W]: a cost of failing first in a self-paced setting, on a different design.
 - [Guided discovery outperforms pure discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [~M]: the wider debate this page sits in.
 - [Expertise reversal](../claims/expertise-reversal-effect-compound.md) [~M]: why the balance between generating and being told shifts with prior knowledge.
+- [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](../claims/ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) [+W] — attached 2026-10-14 from Loibl et al. (2017), which proposed "PS-I lesson structure: an initial problem-solving phase followed by an instruction phase"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -132,6 +133,7 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 
 - [Productive failure](../strategies/productive-failure.md) and [Productive struggle](../strategies/productive_struggle.md) are the strategies that carry this principle into an activity.
 - [Invention](../elements/invention.md) — the invention activity as a building block.
+- [When implementing PS-I, include contrasting cases or build the instruction phase on student solutions](../strategies/include-contrasting-cases-or-build-instruction-on-student-solutions.md)
 
 ## Key Sources
 - Sinha, T., & Kapur, M. (2021). When problem solving followed by instruction works: Evidence for productive failure. *Review of Educational Research, 91*(5), 761–798. [doi:10.3102/00346543211019105](https://doi.org/10.3102/00346543211019105)

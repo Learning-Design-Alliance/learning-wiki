@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (49 for, 27 mixed, 8 against) · 72 studies (19 causal, 15 review, 10 associational, 9 theoretical, 7 design, 6 quant-synthesis, 6 qualitative), `q1`–`q4` · 12 of 72 report an effect size · 74 claims rest on one study
+> **Evidence** · 87 claims (52 for, 27 mixed, 8 against) · 73 studies (20 causal, 15 review, 10 associational, 9 theoretical, 7 design, 6 quant-synthesis, 6 qualitative), `q1`–`q4` · 12 of 73 report an effect size · 77 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -117,6 +117,9 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](../claims/expertise-reversal-prior-knowledge-interaction.md) [+M] — an instructional effect differs with it
 - [Elaborative interrogation benefits increase as learners' prior knowledge increases](../claims/elaborative-interrogation-prior-knowledge-moderator.md) [+M] — an instructional effect differs with it
 - [Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant](../claims/expertise-reversal-limits-contiguity-benefits.md) [~M] — an instructional effect differs with it
+- [Biomedical causal knowledge improves novice diagnostic accuracy on cases using unfamiliar terminology](../claims/biomedical-causal-knowledge-improves-novice-diagnosis-unfamiliar-terminology.md) [+W] — learners who differ on it differ in outcomes
+- [Biomedical causal knowledge improves novice diagnostic accuracy on difficult cases with irrelevant findings](../claims/biomedical-causal-knowledge-improves-novice-diagnosis-irrelevant-findings.md) [+W] — learners who differ on it differ in outcomes
+- [Physicians revert to basic biomedical knowledge when faced with challenging clinical problems](../claims/physicians-revert-to-biomedical-knowledge-on-challenging-problems.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

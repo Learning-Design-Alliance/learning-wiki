@@ -42,7 +42,7 @@ A mastery criterion is a single criterion — such as a specified number of corr
 - 
 
 ## Related Elements
-- [Grading By Contract Fricke](../patterns/grading-by-contract-fricke.md)
+- [Grading By Contract Fricke](../principles/competency-based-assessment.md)
 
 ## Examples
 

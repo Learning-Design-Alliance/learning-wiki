@@ -50,3 +50,4 @@ The authors' experimental observation reported in the model-training section: su
 - [The learned question embedding aligns with manually labeled skill categories, showing clear clustering of questions by skill in a multidimensional scaling visualization](dynemb-question-embedding-clusters-by-skill.md) — related
 - [DynEmb's response-prediction AUC is stable over a wide range of question-embedding dimensionalities](dynemb-performance-stable-across-embedding-dimensionality.md) — related
 - [Learned question embeddings capture question difficulty rather than clustering exercises by concept](question-embeddings-capture-difficulty-not-concepts.md) — related
+- [DKT matches an oracle on simulated data without concept labels, while BKT degrades as hidden concepts increase](dkt-learns-concepts-without-annotations.md) — related

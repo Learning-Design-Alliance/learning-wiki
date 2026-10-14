@@ -48,12 +48,10 @@ The article proposes an approach to critical communication pedagogy contextualiz
 
 ## Examples
 
-- [Cultivate ecologically just speculative futurity as requisite to political praxis](../principles/ecologically-just-speculative-futurity-for-praxis.md)
-- [Figure environmental justice and social justice as co-constitutive projects toward ecological justice](../principles/entangle-environmental-and-social-justice.md)
-- [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](../principles/render-ecological-crisis-concrete-embodied-proximal.md)
+- [Cultivate ecologically just speculative futurity as requisite to political praxis](../principles/humanistic-radical-adult-education.md)
+- [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](../principles/cultural-life-experiences-connections.md)
 - [Assign speculative theory-fiction writing to build students' capacity for ecologically just futurity](../strategies/speculative-theory-fiction-assignment.md)
 - [Critique of language in CCP must include critique of humanism and humanist historicization](../principles/critique-language-includes-critique-of-humanism.md)
-- [Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy](../principles/expand-ccp-sphere-of-concern-to-more-than-human.md)
 - [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
 - [Cultivate AI literacy as relational rather than transactional work through reflective engagement with human-AI entanglement](../strategies/relational-ai-literacy-cultivation-strategy.md)
 

@@ -1,6 +1,7 @@
 ---
 type: principle
 id: epistemic-cognition
+aliases: [nexus-of-justification-and-application, disciplines-as-modes-of-inquiry, datafication-as-rhetoric-metadistrust]
 title: Epistemic Cognition
 description: "When learners must judge claims, explicit teaching and practice of the standards for a particular kind of evidence (checking who is behind a web source, judging a study's methods, justifying an argument with evidence) is associated with better judgments of that kind, measured up to five weeks later; the gains have not been shown to carry over to other kinds of evidence."
 canonical: true
@@ -13,12 +14,20 @@ sources:
     resource: "https://doi.org/10.3102/00346543067001088"
     title: "Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories. *Review of Educational Research, 67*(1), 88-140"
     author: "Hofer, B. K., & Pintrich, P. R"
+  - id: weinstein-1989
+    resource: "https://eric.ed.gov/?id=ED351305"
+    title: "Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed. (1989). Critical Thinking: Language and Inquiry across the Disciplines. Proceedings of the Annual Conference of the Institute for Critical Thinking (Upper Montclair, New Jersey, 1988). https://eric.ed.gov/?id=ED351305"
+    author: Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed
+  - id: haarman-2021
+    resource: "https://www.ovpes.org/"
+    title: "Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/"
+    author: Haarman, Susan
 ---
 
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 20 studies (9 causal, 3 quant-synthesis, 3 qualitative, 2 review, 1 associational, 1 design, 1 theoretical), `q2`–`q4` · 4 of 20 report an effect size · 4 claims rest on one study
+> **Evidence** · 14 claims (9 for, 5 mixed) · 22 studies (9 causal, 3 quant-synthesis, 3 qualitative, 3 theoretical, 2 review, 1 associational, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,6 +111,10 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Critical science education requires explicit attention to philosophy of science and rival theories](../claims/critical-science-education-philosophy-of-science.md) [+W]
+- [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](../claims/disciplinary-perspective-critical-thinking.md) [+W]
+- [Principles of reason assessment are both subject-neutral and subject-specific](../claims/reason-assessment-principles-both-neutral-and-specific.md) [+W]
+- [Data Construction Embeds Privilege In Data](../claims/data-construction-embeds-privilege-in-data.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -120,10 +133,12 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - [Perspective-Taking](perspective-taking.md) — learners often need to compare competing interpretations and standards
 - [Debate](../patterns/debate.md) — argument-focused settings often require explicit epistemic norms to stay productive
 - [Collaborative Critique and Redesign of Flawed Studies](../strategies/collaborative-critique-and-redesign-of-flawed-studies.md) — a concrete instructional strategy for developing evidence-evaluation ideals in psychology/social-science instruction
+- [Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention](metacognition-prompts-in-inquiry-introduction.md)
 
 ## Examples
 
 - [Four-layer workplace assessment battery with non-compensatory decision rules for competent GenAI use](../strategies/layered-workplace-genai-assessment-battery.md)
+- [Data activism through intentional participation, student-centric learning analytics, and storytelling](../strategies/data-activism-participation-storytelling.md)
 
 ### Illustrative
 
@@ -136,6 +151,8 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 ## Key Sources
 - Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories. *Review of Educational Research, 67*(1), 88-140. [https://doi.org/10.3102/00346543067001088](https://doi.org/10.3102/00346543067001088)
 - Greene, J. A., Sandoval, W. A., & Bråten, I. (Eds.). (2016). *Handbook of epistemic cognition*. Routledge. [doi:10.4324/9781315795225](https://doi.org/10.4324/9781315795225)
+- Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed. (1989). Critical Thinking: Language and Inquiry across the Disciplines. Proceedings of the Annual Conference of the Institute for Critical Thinking (Upper Montclair, New Jersey, 1988). https://eric.ed.gov/?id=ED351305
+- Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -189,3 +206,128 @@ Epistemic cognition matters when learners need to move beyond “what do I think
 -->
 - [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](../claims/iterative-verification-of-genai-explanations.md) [+W]
 - [Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source](../claims/children-trust-test-chatbot-with-known-answers.md) [~W]
+
+<!-- merged 2026-10-14 from principles/nexus-of-justification-and-application ("Teach undergraduate content within a nexus of justification and application"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Teach undergraduate content within a nexus of justification and application
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The editors maintain that students should see course content within a nexus of justification and application: content must be learned in relation to the methodological and substantive principles that make it justifiable, and students should be helped to link information to domains of meaningful application that frequently extend beyond the discipline itself. They write that knowledge taught to undergraduates 'should address the theoretic reason of the student by having the theoretic and/or empirical bases of that knowledge made explicit,' and should also speak to practical reason by relating to purposes for which the knowledge has potential significance.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instructors must make the theoretic and/or empirical rational bases of knowledge explicit and connect content to domains of meaningful application
+#### Constraints
+- 
+
+### Target Learners
+- undergraduate students
+
+### Target Learning Objectives
+- understanding why course content is justified
+- applying knowledge beyond disciplinary boundaries
+
+### Claims
+
+- [Montclair Judgment Centered Critical Thinking](../theories/montclair-judgment-centered-critical-thinking.md) [+S]
+- [Critical science education requires explicit attention to philosophy of science and rival theories](../claims/critical-science-education-philosophy-of-science.md) [+W]
+- [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](../claims/disciplinary-perspective-critical-thinking.md) [+W]
+
+## Related Principles
+
+- [Help students understand disciplines as modes of inquiry rather than static bodies of information](epistemic-cognition.md)
+
+## Examples
+-
+
+## Key Sources
+- Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed. (1989). Critical Thinking: Language and Inquiry across the Disciplines. Proceedings of the Annual Conference of the Institute for Critical Thinking (Upper Montclair, New Jersey, 1988). https://eric.ed.gov/?id=ED351305
+-->
+
+<!-- merged 2026-10-14 from principles/disciplines-as-modes-of-inquiry ("Help students understand disciplines as modes of inquiry rather than static bodies of information"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Help students understand disciplines as modes of inquiry rather than static bodies of information
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+Sharon Bailin's plenary address extends the standard skills-and-dispositions account of critical thinking by requiring that students understand disciplines as modes of inquiry. The proceedings' introduction reports she recommends students see disciplines not as static bodies of information but as having 'criticism built into their principles and procedures,' so that critical thinking is seen in its correct relationship to creative thinking as good thinking with both generative and evaluative dimensions. This enables students to see that knowledge evolves and that evaluation and innovation are afforded by the critical and dynamic nature of the disciplines.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instruction must present disciplines as dynamic modes of inquiry with criticism built into their principles and procedures
+#### Constraints
+- 
+
+### Target Learners
+- undergraduate students
+
+### Target Learning Objectives
+- understanding disciplines as modes of inquiry
+- relating critical thinking to creative thinking
+
+### Claims
+
+- [Principles of reason assessment are both subject-neutral and subject-specific](../claims/reason-assessment-principles-both-neutral-and-specific.md) [+W]
+- [Critical science education requires explicit attention to philosophy of science and rival theories](../claims/critical-science-education-philosophy-of-science.md) [+W]
+- [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](../claims/disciplinary-perspective-critical-thinking.md) [+W]
+
+## Related Principles
+
+- [Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention](metacognition-prompts-in-inquiry-introduction.md)
+- [Teach undergraduate content within a nexus of justification and application](epistemic-cognition.md)
+
+## Examples
+-
+
+## Key Sources
+- Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed. (1989). Critical Thinking: Language and Inquiry across the Disciplines. Proceedings of the Annual Conference of the Institute for Critical Thinking (Upper Montclair, New Jersey, 1988). https://eric.ed.gov/?id=ED351305
+-->
+
+<!-- merged 2026-10-14 from principles/datafication-as-rhetoric-metadistrust ("Treat datafication as one form of rhetoric and practice metadistrust toward data-based arguments"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Treat datafication as one form of rhetoric and practice metadistrust toward data-based arguments
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article argues, citing McQuillan, that "Datafication itself is a rhetorical move, because it is saying that the important aspects of reality are ones that can be expressed as data." Reframing datafication as rhetoric among many pulls it away from the false trappings of scientism, since data benefits from argumentative injustice when wrapped in false objectivity. The recommended practice is Bondy's metadistrust: self-doubt regarding initial credibility judgements, which slows the temptation to assume a claim's infallibility because of its claimant and helps expose Big Data's tendency toward apophenia.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Becoming aware of one's own biases is a helpful first step, but the article says knowledge of them alone is not enough to counteract argumentative injustice.
+#### Constraints
+- The article warns that numbers from a data setting with a power imbalance or misaligned collection risk being discriminatory, empirically wrong, and dangerous in reinforcing an unjust status quo.
+
+### Target Learners
+- instructors and researchers working with educational data
+- students interpreting datafied arguments
+
+### Target Learning Objectives
+- critical evaluation of data-based truth claims
+- epistemic responsibility toward algorithmic knowledge production
+
+### Claims
+- [Data Construction Embeds Privilege In Data](../claims/data-construction-embeds-privilege-in-data.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Data activism through intentional participation, student-centric learning analytics, and storytelling](../strategies/data-activism-participation-storytelling.md)
+
+## Key Sources
+- Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/
+-->

@@ -18,7 +18,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 19 studies (7 causal, 4 quant-synthesis, 4 review, 2 associational, 1 design, 1 theoretical), `q2`–`q4` · 3 of 19 report an effect size · 4 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 20 studies (8 causal, 4 quant-synthesis, 4 review, 2 associational, 1 design, 1 theoretical), `q2`–`q4` · 3 of 20 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -104,6 +104,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching](../claims/hots-teaching-enhances-critical-thinking.md) [+W] — attached 2026-10-14 from Miri et al. (2007), which proposed "Teach higher order thinking purposely and persistently to develop students' critical thinking capabilities"; tests this page's relationship.
+- [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](../claims/hots-teaching-improves-ct-dispositions.md) [+W] — attached 2026-10-14 from Miri et al. (2007), which proposed "Teach higher order thinking purposely and persistently to develop students' critical thinking capabilities"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

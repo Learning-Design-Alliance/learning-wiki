@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 144 claims (98 for, 31 mixed, 15 against) · 121 studies (38 associational, 30 causal, 22 review, 10 qualitative, 8 theoretical, 7 design, 6 quant-synthesis), `q1`–`q4` · 24 of 121 report an effect size · 136 claims rest on one study
+> **Evidence** · 145 claims (99 for, 31 mixed, 15 against) · 122 studies (38 associational, 30 causal, 23 review, 10 qualitative, 8 theoretical, 7 design, 6 quant-synthesis), `q1`–`q4` · 24 of 122 report an effect size · 137 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -177,6 +177,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults](../claims/developmental-stage-moderates-mindset-correlation.md) [~W] — learners who differ on it differ in outcomes
 - [Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant](../claims/mindset-achievement-heterogeneity-high.md) [~M] — learners who differ on it differ in outcomes
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](../claims/growth-mindset-achievement-correlation-weak.md) [+W] — learners who differ on it differ in outcomes
+- [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](../claims/nature-settings-boost-motivation-engagement.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

@@ -17,7 +17,7 @@ sources:
 # Deep Learning Knowledge Tracing Models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 3 studies (2 design, 1 review), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 4 studies (3 design, 1 review), `q2` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 The survey reviews deep learning KT in four sub-categories: deep knowledge tracing with recurrent networks, memory-aware tracing such as DKVMN with key and value matrices, attentive tracing such as SAKT, SAINT and AKT built on self-attention, and graph-based tracing over knowledge-concept graphs. It argues deep learning is suited to "modeling complex learning processes, particularly when a significant amount of learning interaction data" is available.
@@ -43,6 +43,8 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - [Xai Interpretation Of Dkt Enhances Trust](../claims/xai-interpretation-of-dkt-enhances-trust.md) [+W]
 - [Responsible-DKT outperforms a neural-symbolic baseline without knowledge injection and a fully data-driven PyTorch DKT in predictive accuracy across training ratios and sequence lengths](../claims/responsible-dkt-outperforms-baselines-predictive-accuracy.md) [+M] — attached 2026-10-11 from Hooshyar et al. (2026), which proposed "Responsible-DKT: a neural-symbolic deep knowledge tracing framework injecting symbolic educational knowledge into sequential neural architectures".
 - [SAKT underperforms DKT on all nine datasets, contradicting previously reported results](../claims/sakt-underperforms-dkt-all-datasets.md) [-W]
+- [Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks](../claims/dkt-outperforms-bkt-auc-benchmarks.md) [+W] — attached 2026-10-14 from Chris Piech et al. (2015), which proposed "Deep Knowledge Tracing: modeling latent student knowledge with recurrent neural networks"; tests this page's relationship.
+- [DKT matches an oracle on simulated data without concept labels, while BKT degrades as hidden concepts increase](../claims/dkt-learns-concepts-without-annotations.md) [+W] — attached 2026-10-14 from Chris Piech et al. (2015), which proposed "Deep Knowledge Tracing: modeling latent student knowledge with recurrent neural networks"; tests this page's relationship.
 
 ## Related Theories
 

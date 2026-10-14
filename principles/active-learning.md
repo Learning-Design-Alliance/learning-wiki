@@ -1,6 +1,7 @@
 ---
 type: principle
 id: active-learning
+aliases: [education-around-child-response]
 title: Active Learning
 description: "For learners meeting new material in a course, class time spent generating, explaining or applying the content with feedback, rather than only listening, is expected to raise course-end exam and concept-inventory scores, qualified by guidance for novices, the kind of engagement and what else changed with the format."
 canonical: true
@@ -17,12 +18,16 @@ sources:
     resource: "https://doi.org/10.1080/00461520.2014.965823"
     title: "Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219-243"
     author: "Chi, M. T. H., & Wylie, R"
+  - id: biesta-1997
+    resource: "https://eric.ed.gov/?id=ED422199"
+    title: "Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199"
+    author: Biesta, Gert J. J
 ---
 
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (13 for, 17 mixed, 1 against) · 30 studies (8 causal, 6 associational, 5 quant-synthesis, 5 review, 3 theoretical, 2 design, 1 qualitative), `q2`–`q4` · 7 of 30 report an effect size · 24 claims rest on one study
+> **Evidence** · 34 claims (16 for, 17 mixed, 1 against) · 31 studies (8 causal, 6 associational, 5 quant-synthesis, 5 review, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 7 of 31 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -99,6 +104,9 @@ Claims this page cited before it was rewritten as a conditional model, and two n
 - [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](../claims/active-learning-courses-retain-lecture-component.md) [~M] — not yet checked against its sources
 - [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](../claims/time-on-task-unequal-in-active-learning-comparisons.md) [~M] — not yet checked against its sources
 - [Interactive instruction is positively associated with one-year achievement gains in reading and mathematics in Chicago elementary schools](../claims/interactive-instruction-positive-achievement-gains-chicago.md) [+W] — attached 2026-10-08 from Julia B. Smith et al. (2001), which proposed "Promote interactive instruction through teacher preparation, collegial dialogue, and principal instructional leadership"; tests this page's relationship.
+- [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](../claims/meanings-grow-out-of-social-intercourse.md) [+W]
+- [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](../claims/method-of-thought-cannot-be-transferred.md) [+W]
+- [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](../claims/acquiring-changes-the-thing-acquired.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -131,6 +139,7 @@ A course-end exam advantage, a narrowed achievement gap, durable retention, tran
 ## Key Sources
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415. [https://doi.org/10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219-243. [https://doi.org/10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
+- Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous Description and Implications sections, verbatim.
 
@@ -179,3 +188,43 @@ The effect size for active learning in STEM is unusually large and consistent fo
 - [Students rated the manual annotation activity as more effective than traditional lectures for understanding bias and reported increased motivation](../claims/annotation-more-effective-than-lectures-for-bias.md) [+W]
 - [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](../claims/clicker-participation-and-homework-completion-predict-exam-performance.md) [+W]
 - [Amount of listening time while active was not significantly related to End-of-Unit exam performance](../claims/listening-time-not-significantly-related-to-exam-score.md) [~W]
+
+<!-- merged 2026-10-14 from principles/education-around-child-response ("Organize education around the child's response to material rather than the material provided by elders"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Organize education around the child's response to material rather than the material provided by elders
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+In the reconstructed lectures Mead contrasts old education, which he argues neglected and even wiped out the attitude of the child, with an approach centered on the learner's response. The article quotes Mead's claim that "the whole of the technique of the process...does not turn on the material provided by elders, but falls around the response of the child to this material". This follows from Mead's goal-seeking account of action, in which the stimulus does not force the reaction but is a stimulus for it, and in which children are trained to choose the stimuli for their own acts.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Recognition that the child brings an attitude or response that the educational technique must organize, rather than treating the child as a receptacle for furnished material
+#### Constraints
+- The article reports Mead associating the old education with neglecting the child's attitude, indicating the principle is posed against that traditional arrangement
+
+### Target Learners
+- children in formal schooling
+
+### Target Learning Objectives
+- developing the power to consciously construct the objects to which one responds
+
+### Claims
+
+- [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](../claims/meanings-grow-out-of-social-intercourse.md) [+W]
+- [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](../claims/method-of-thought-cannot-be-transferred.md) [+W]
+- [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](../claims/acquiring-changes-the-thing-acquired.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199
+-->

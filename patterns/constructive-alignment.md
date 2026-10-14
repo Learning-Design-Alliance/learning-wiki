@@ -17,6 +17,10 @@ sources:
     resource: "https://eric.ed.gov/?id=ED484984"
     title: "Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984"
     author: "Martin, F., Klein, J., & Sullivan, H"
+  - id: ali-panahi-2012
+    resource: "https://doi.org/10.5539/elt.v5n2p148"
+    title: "Ali Panahi. (2012). Binding Task-Based Language Teaching and Task-Based Language Testing: A Survey into EFL Teachers and Learners' Views of Task-Based Approach. English Language Teaching, 5(2). https://doi.org/10.5539/elt.v5n2p148"
+    author: Ali Panahi
 author: "Biggs (1996)"
 grain_size: course, program
 ---
@@ -24,7 +28,7 @@ grain_size: course, program
 # Constructive Alignment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (6 for, 7 mixed, 1 against) · 17 studies (5 quant-synthesis, 3 causal, 3 associational, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 8 of 17 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 18 studies (5 quant-synthesis, 4 causal, 3 associational, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 8 of 18 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -109,6 +113,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M] — partly checked: 1 of 2 entries pass, the rest could not be confirmed (abstract)
 - [Automating constructive alignment with GenAI risks shifting it towards an instrument of compliance](../claims/genai-automation-shifts-constructive-alignment-toward-compliance.md) [~W] — attached 2026-10-11 from McInnes et al. (2026), which proposed "Reclaim constructive alignment as a reflective, human-centred practice rather than automating it through GenAI".
+- [Ielts Task Instruction Outperforms Toefl Listening](../claims/ielts-task-instruction-outperforms-toefl-listening.md) [+M]
+- [Task Instruction Shifts Learner Tblt Views](../claims/task-instruction-shifts-learner-tblt-views.md) [+M]
+- [No significant pre-test difference existed between the two groups' entry listening knowledge](../claims/no-pretest-listening-difference-groups.md) [+W]
+- [TOEFL-materials instruction did not change learners' views toward TBLT](../claims/toefl-instruction-no-view-change.md) [+W]
 
 ## Illustrative design instance and observation record
 
@@ -234,3 +242,46 @@ The article's central design recommendation is that practice should be built int
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?id=ED586762
 - Dousay, T. A. (2018). Instructional design models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 277–295). EdTech Books. [https://edtechbooks.org/lidtfoundations/instructional_design_models](https://edtechbooks.org/lidtfoundations/instructional_design_models)
+
+<!-- merged 2026-10-14 from principles/bind-teaching-testing-task-based-washback ("Bind language teaching and language testing through task-based assessment to harness wash-back"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Bind language teaching and language testing through task-based assessment to harness wash-back
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The article argues that task-based language testing (e.g., IELTS) and task-based language teaching should be bound together because assessment exerts a wash-back effect on teaching. It maintains that "task can, either in evaluative sense or instructional one, guide or shape both pedagogy and assessment through task-resulted wash back," and that the way learners are tested affects the way they are instructed and learn. In task-based language testing, assessment becomes one kind of learning, with close correspondence between test performance and real-world criterion performance.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Stakeholders including teachers and learners should be invited into the evaluation and assessment process, per the article's argument for binding teaching and assessment
+#### Constraints
+- The article cautions that psychometric tests' contribution should not be overstated as dead, since psychometrics continues to contribute socially and pedagogically to language testing
+
+### Target Learners
+- EFL learners preparing for listening assessment
+
+### Target Learning Objectives
+- Listening comprehension
+- Awareness of task-oriented learning activities
+
+### Claims
+
+- [Ielts Task Instruction Outperforms Toefl Listening](../claims/ielts-task-instruction-outperforms-toefl-listening.md) [+M]
+- [Task Instruction Shifts Learner Tblt Views](../claims/task-instruction-shifts-learner-tblt-views.md) [+M]
+- [No significant pre-test difference existed between the two groups' entry listening knowledge](../claims/no-pretest-listening-difference-groups.md) [+W]
+- [TOEFL-materials instruction did not change learners' views toward TBLT](../claims/toefl-instruction-no-view-change.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Teach IELTS listening through explicit strategies and tips alongside task-based materials](../strategies/ielts-listening-strategies-tips-instruction.md)
+
+## Key Sources
+- Ali Panahi. (2012). Binding Task-Based Language Teaching and Task-Based Language Testing: A Survey into EFL Teachers and Learners' Views of Task-Based Approach. English Language Teaching, 5(2). https://doi.org/10.5539/elt.v5n2p148
+-->

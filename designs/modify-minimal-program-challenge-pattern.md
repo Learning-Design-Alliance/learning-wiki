@@ -53,7 +53,6 @@ The QRC's instructional pattern is a minimal, transparent computer realization o
 
 ## Related Patterns
 
-- [Computational Essay Writing](../patterns/computational-essay-writing.md)
 
 ## Examples
 

@@ -72,3 +72,6 @@ The same multiple regression on motivational factors found no significant predic
 - [Language proficiency significantly moderates the effect of learning motivation on oral proficiency improvement](proficiency-moderates-motivation-oral-gains.md) — related
 - [Language proficiency significantly moderates the effect of reflective behavior on oral proficiency improvement, with the effect non-significant at low proficiency](proficiency-moderates-reflection-oral-gains.md) — related
 - [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
+- [A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)](er-increased-comfort-efl-reading-attitude.md) — related
+- [Extensive reading increased the Intellectual Value Japanese EFL learners attached to foreign-language reading (r = .26)](er-increased-intellectual-value-reading-attitude.md) — related
+- [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related

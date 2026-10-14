@@ -1,6 +1,7 @@
 ---
 type: principle
 id: memory-consolidation
+aliases: [practice-play-modularization]
 title: Memory Consolidation
 description: "For a learner who can perform something at the end of a session, planning later encounters that make them reactivate and use the material, and judging security only on a delayed unaided check, is expected to leave more available at the horizon than treating one fluent exposure as finished; no claim tests this as a whole, only its spacing and retrieval routes and a post-learning exercise-timing effect."
 canonical: true
@@ -17,12 +18,16 @@ sources:
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
     title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380"
     author: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D"
+  - id: winnick-1975
+    resource: "https://eric.ed.gov/?id=ED117874"
+    title: "Winnick, Joseph P., and Ronald W. French, eds. (1975). Piaget for Regular and Special Physical Educators and Recreators. State University College, Brockport. https://eric.ed.gov/?id=ED117874"
+    author: Winnick, Joseph P., and Ronald W. French, eds
 ---
 
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (9 for, 6 mixed, 3 against) · 30 studies (16 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 8 of 30 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (10 for, 6 mixed, 3 against) · 31 studies (17 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 8 of 31 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +126,7 @@ Claims this page cited before it was rewritten. All three now appear in the mode
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — the earlier page's support for "corrected prediction errors can strengthen retention"; in the model at the correction step (a review and one experiment, no effect size printed)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — the earlier page's support for "explanation stabilizes knowledge"; the claim's own title now limits it to immediate tests, so in the model it supports first learning, not consolidation
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — about the capacity of immediate memory and encoding, not about retention over time; bears on this page only through how material is organized before recall
+- [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](../claims/serial-motor-task-complexity-age.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -163,6 +169,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 ## Key Sources
 - Dudai, Y. (2004). The neurobiology of consolidations, or, how stable is the engram? *Annual Review of Psychology, 55*, 51-86. [https://doi.org/10.1146/annurev.psych.55.090902.142050](https://doi.org/10.1146/annurev.psych.55.090902.142050) <!-- corrected 2026-10-05 against Crossref; was: Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112. -->
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+- Winnick, Joseph P., and Ronald W. French, eds. (1975). Piaget for Regular and Special Physical Educators and Recreators. State University College, Brockport. https://eric.ed.gov/?id=ED117874
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -225,4 +232,42 @@ Memory consolidation matters because initial understanding is not the same as du
 ## Key Sources
 - Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112. [https://doi.org/10.1146/annurev.psych.55.090902.142050](https://doi.org/10.1146/annurev.psych.55.090902.142050)
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+-->
+
+<!-- merged 2026-10-14 from principles/practice-play-modularization ("Allow practice play in relaxed conditions so skills can become modularized"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Allow practice play in relaxed conditions so skills can become modularized
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Humm's overview draws on Piaget's practice play and Bruner's modularization: skills consolidate into streamlined, efficient, transferable forms over time, and unmodularized actions perform poorly under pressure. The paper states that 'Modularization develops best under conditions thatare much like play,' thriving in a relaxed atmosphere where the means to a goal can matter more than the goal itself, so physical education should preserve solitary practice play for basics.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Time for consolidation, since there is a practical limit to how quickly one can move between developmental stages
+#### Constraints
+- As social play dominates in the late preoperational period, pure practice play shifts in emphasis, though its consolidating function remains important
+
+### Target Learners
+- young children in early developmental and physical education settings
+
+### Target Learning Objectives
+- consolidation and modularization of motor skills
+
+### Claims
+
+- [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](../claims/serial-motor-task-complexity-age.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Winnick, Joseph P., and Ronald W. French, eds. (1975). Piaget for Regular and Special Physical Educators and Recreators. State University College, Brockport. https://eric.ed.gov/?id=ED117874
 -->

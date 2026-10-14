@@ -1,6 +1,7 @@
 ---
 type: principle
 id: ask-experts
+aliases: [involve-natural-resource-professionals]
 title: Ask Experts
 description: "For a novice or intermediate learner who brings a specific question or attempt to someone with more domain expertise, a consultation in which the expert has the learner explain first, responds with the least help that works, and does less across a series, followed by applying the advice, is expected to improve unaided performance on that task, though no claim here tests expert access as such."
 canonical: true
@@ -25,6 +26,10 @@ sources:
     resource: "https://doi.org/10.1207/s15516709cog2504_1"
     title: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471-533"
     author: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G"
+  - id: reilly-2008
+    resource: "https://www.blm.gov/education"
+    title: "Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M. (2008). Holding onto the GREEN Zone Leader Guide: A Youth Program for the Study and Stewardship of Community Riparian Areas. Bureau of Land Management. https://www.blm.gov/education"
+    author: "Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M"
 ---
 
 # Ask Experts
@@ -154,6 +159,7 @@ The present evidence establishes no length or frequency of consultation, no numb
 - Clinical rounds, design critiques, code reviews, and studio conferences are common real-world forms of this principle when experts respond directly to learner work
 - [Think-Aloud](../elements/think-aloud.md) — the expert voices the cues and criteria behind a decision on a parallel case
 - [Revise educational SLM system prompts using the Persona and Context Manager patterns plus cognitive-apprenticeship scaffolding guidelines](../strategies/educational-prompt-patterns-persona-context-manager-apprenticeship.md)
+- [Five-unit arc building classroom skills toward a community field trip and public sharing](../designs/five-unit-field-trip-arc-riparian.md)
 
 ## Key Sources
 - Daley, B. J. (1999). Novice to expert: An exploration of how professionals learn. *Adult Education Quarterly, 49*(4), 133-147. [ERIC](https://eric.ed.gov/?id=EJ592654)
@@ -161,6 +167,7 @@ The present evidence establishes no length or frequency of consultation, no numb
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296. [doi:10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 - Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471-533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453-494). Lawrence Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)
+- Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M. (2008). Holding onto the GREEN Zone Leader Guide: A Youth Program for the Study and Stewardship of Community Riparian Areas. Bureau of Land Management. https://www.blm.gov/education
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -242,4 +249,43 @@ Asking experts works best when the interaction helps learners move from vague co
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296. [doi:10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 - Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471-533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453-494). Lawrence Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)
+-->
+
+<!-- merged 2026-10-14 from principles/involve-natural-resource-professionals ("Involve local natural resource professionals in youth environmental learning programs"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Involve local natural resource professionals in youth environmental learning programs
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Because community-based environmental study depends on local information and technical accuracy, the guide urges leaders to recruit a local natural resource expert. "Leaders are strongly encouraged to involve a natural resource professional from a local environmental group or agency." Such partners bring science expertise, validate learner interpretations of scientific information, introduce youth to natural resource careers, and can offer supplies such as water testing equipment, background data on local riparian zones, service project ideas, and technical assistance.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Leaders must contact partner organizations such as federal and state agencies, extension offices, or conservation groups in advance
+#### Constraints
+- Collaboration is described as crucial for access to local information and general expertise, particularly for judging a zone's ecological potential
+
+### Target Learners
+- youth in grades 5-8 studying local ecosystems
+
+### Target Learning Objectives
+- accurate scientific interpretation of local environmental data
+- awareness of natural resource careers
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+
+- [Five-unit arc building classroom skills toward a community field trip and public sharing](../designs/five-unit-field-trip-arc-riparian.md)
+
+## Key Sources
+- Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M. (2008). Holding onto the GREEN Zone Leader Guide: A Youth Program for the Study and Stewardship of Community Riparian Areas. Bureau of Land Management. https://www.blm.gov/education
 -->

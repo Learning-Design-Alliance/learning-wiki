@@ -47,3 +47,4 @@ Single RCT in 34 elementary schools in Albuquerque. Effect sizes were 0.37 (SSRS
 - [First Step to Success shows no discernible effects on reading achievement/literacy](first-step-success-no-reading-effects.md) — related
 - [First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)](first-step-success-positive-academic-competence.md) — related
 - [First Step to Success has positive effects on external behavior for children at risk for emotional disturbance (average improvement index +28)](first-step-success-positive-external-behavior.md) — related
+- [Classroom management interventions in primary education show small but significant average effects (g = 0.22) on academic, behavioral, and social-emotional outcomes but not on motivational outcomes](classroom-management-small-significant-effects-g022.md) — related

@@ -13,7 +13,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -56,6 +56,8 @@ Peer interaction supports learning when it requires learners to actively constru
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](../claims/llms-catalyze-collaboration-idea-generation-peer-feedback.md) [+W]
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](../claims/repeated-convenings-trust-enables-critique.md) [+W]
 - [Seeding student groups with alternative ideas improves learning more than randomly assigning students to groups](../claims/seeding-groups-alternative-ideas-improves-learning.md) [+W]
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](../claims/interaction-facilitates-l2-grammatical-development.md) [+W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Task-based interaction treatment for ESL question formation development"; tests this page's relationship.
+- [Active participation in interaction matters for second language developmental outcomes](../claims/active-participation-in-interaction-drives-development.md) [~W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Task-based interaction treatment for ESL question formation development"; tests this page's relationship.
 
 ## Related Elements
 - [Peer Teaching](peer-teaching.md) — the strongest form of peer interaction; explaining to a peer forces the elaboration that produces learning

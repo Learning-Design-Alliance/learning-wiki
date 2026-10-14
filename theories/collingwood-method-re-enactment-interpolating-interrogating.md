@@ -48,7 +48,7 @@ Collingwood's methodological approach treats primary source documents and relics
 
 ## Examples
 
-- [Recognize and acknowledge the profound importance of the human imagination in learning and knowing when designing history instruction](../principles/recognize-imagination-in-learning-and-knowing.md)
+- [Recognize and acknowledge the profound importance of the human imagination in learning and knowing when designing history instruction](../principles/disciplinary-literacy.md)
 - [Use a strategy for imagining the past built on two sets of guiding questions applied to primary source documents](../strategies/strategy-imagining-past-two-question-sets.md)
 
 ## Key Sources

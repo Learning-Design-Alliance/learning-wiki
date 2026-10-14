@@ -68,3 +68,4 @@ Narrative synthesis of immersive-technology studies in Results §4.2.6, includin
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
+- [Proportions of significant CT gains vary by instructional approach, but approach alone does not determine effectiveness](instructional-approach-alone-does-not-determine-ct-effectiveness.md) — related

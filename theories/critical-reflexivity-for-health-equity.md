@@ -46,7 +46,6 @@ The article presents critical reflexivity as "a practice designed to locate ones
 
 ## Examples
 
-- [Ground EDI initiatives in an explicit commitment to disrupting systems of power and oppression rather than inclusion alone](../principles/ground-edi-in-disrupting-oppression.md)
 
 ## Key Sources
 - Mehelay S, Comeau B, Chandra S, Fancott C, Gordon D, Loftgard K, Louzado C, Nixon SA, Shahid S, Tilson K, Wilson C, Shaw J. (2026). Shifting power: co-developing a framework for equity in healthcare. BMC Health Services Research. https://doi.org/10.1186/s12913-026-14964-7

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: assessment-for-learning
-aliases: [formative-assessment-embedded-explicit-reflective-instruction]
+aliases: [formative-assessment-embedded-explicit-reflective-instruction, embed-assessment-in-ongoing-instruction]
 title: Assessment for Learning
 description: "Assessment evidence gathered during instruction is expected to support learning when teacher and learner read it against shared criteria, under stakes that let partial understanding show, with a revision step before the outcome is judged."
 canonical: true
@@ -22,12 +22,16 @@ sources:
     resource: "https://doi.org/10.17509/jsl.v5i1.33190"
     title: "Mustafa Metin. (2022). Comparing Effects of Two Different Explicit–Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge. Journal of Science Learning, 5(1), 165-175. https://doi.org/10.17509/jsl.v5i1.33190"
     author: Mustafa Metin
+  - id: kasten-1997
+    resource: "https://eric.ed.gov/?id=ED417935"
+    title: "Kasten, Margaret; Meiring, Steve; Mikesell, Anne. (1997). Mathematics. Competency-Based Education Assessment Series. https://eric.ed.gov/?id=ED417935"
+    author: Kasten, Margaret; Meiring, Steve; Mikesell, Anne
 ---
 
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (13 for, 11 mixed, 1 against) · 32 studies (12 causal, 7 quant-synthesis, 5 review, 4 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (13 for, 11 mixed, 2 against) · 33 studies (12 causal, 7 quant-synthesis, 5 review, 4 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -90,6 +94,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Immediate, informative test results enable teachers to differentiate instruction to individual needs](../claims/immediate-adaptive-test-results-enable-differentiation.md) [+W] — attached 2026-10-09 from Freeman (2014), which proposed "Use adaptive assessment results to differentiate instruction to current academic needs".
 - [Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources](../claims/ai-teacher-feedback-equal-project-performance-gains.md) [~W] — attached 2026-10-12 from Grion et al. (2026), which proposed "Embed AI-generated feedback in a strong pedagogical architecture with assessment literacy and explicit criteria, so its source matters less than its context".
 - [Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation](../claims/rubric-ai-feedback-scaffolds-and-reduces-workload.md) [+W] — attached 2026-10-12 from Tzirides et al. (2025), which proposed "Embed educators' pedagogical elements (rubrics and knowledge bases) within AI tools so feedback aligns with instructional goals".
+- [Community college students experience assessment and placement as a one-day isolated event with minimal advance information, not as part of a continuous process](../claims/placement-perceived-one-shot-deal.md) [-W]
 
 ## Objective and learner-valued goal
 
@@ -105,6 +110,7 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 
 - [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](../claims/baseline-post-feedback-gains-near-zero-no-condition-differences.md) [-W]
 - [Teacher feedback as part of formative assessment has been shown by multiple studies to move student learning forward](../claims/teacher-feedback-moves-learning-forward.md) [+W]
+- [Three Type Competency Assessment Taxonomy](../theories/three-type-competency-assessment-taxonomy.md) [+M]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)
@@ -120,6 +126,9 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 - Giving draft feedback before a final submission so learners revise against criteria.
 - Asking learners to self-rate confidence before checking answers and then discussing mismatches.
 - [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
+- [Assess youth learning through journals, observation, discussion, and applied reflection products](../strategies/journal-observation-assessment-reflection.md)
+- [Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives](../designs/field-day-embedded-assessment-unit.md)
+- [Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments](../strategies/embedded-evidence-gathering-without-separate-tests.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education, 5*(1), 7-74. [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
@@ -129,6 +138,7 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 - Patrick, H., Anderman, L. H., Ryan, A. M., Edelin, K. C., & Midgley, C. (2001). Teachers' communication of goal orientations in four fifth-grade classrooms. *The Elementary School Journal, 102*(1), 35-58. [doi:10.1086/499692](https://doi.org/10.1086/499692)
 - Arduini-Van Hoose, N. (2020). Teacher's purpose and belief. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Mustafa Metin. (2022). Comparing Effects of Two Different Explicit–Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge. Journal of Science Learning, 5(1), 165-175. https://doi.org/10.17509/jsl.v5i1.33190
+- Kasten, Margaret; Meiring, Steve; Mikesell, Anne. (1997). Mathematics. Competency-Based Education Assessment Series. https://eric.ed.gov/?id=ED417935
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; kept verbatim.
 ## Description
@@ -220,4 +230,46 @@ This principle holds that explicit-reflective teaching of the nature of science 
 
 ## Key Sources
 - Mustafa Metin. (2022). Comparing Effects of Two Different Explicit–Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge. Journal of Science Learning, 5(1), 165-175. https://doi.org/10.17509/jsl.v5i1.33190
+-->
+
+<!-- merged 2026-10-14 from principles/embed-assessment-in-ongoing-instruction ("Embed competency assessment in ongoing instruction rather than administering it as a separate test event"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Embed competency assessment in ongoing instruction rather than administering it as a separate test event
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 against) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The guide's third assessment type integrates assessment into the instructional process so that evidence of competency is gathered while students do mathematics, not in a separate sitting. The instructional activity itself "provides information about how the student applies mathematical skills, understandings, and thinking." Objectives from multiple strands are embedded within instructional activities, and multiple forms of assessment (products, observation, interviews, self-assessment, journal writing) are used routinely throughout the year.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instructional units that provide a context for assessing targeted objectives must be identified within the year plan, with adequate time and appropriate format included in the unit design
+#### Constraints
+- The model is not intended to be a fully developed instructional unit inserted into a year-long plan as is; it represents a guide for embedding competency-based assessment within instruction
+
+### Target Learners
+- First-grade students (extendable through grade 8)
+
+### Target Learning Objectives
+- Application of mathematical skills, understandings, and thinking within authentic activity contexts
+
+### Claims
+
+- [Three Type Competency Assessment Taxonomy](../theories/three-type-competency-assessment-taxonomy.md) [+M]
+- [Community college students experience assessment and placement as a one-day isolated event with minimal advance information, not as part of a continuous process](../claims/placement-perceived-one-shot-deal.md) [-W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Assess youth learning through journals, observation, discussion, and applied reflection products](../strategies/journal-observation-assessment-reflection.md)
+- [Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives](../designs/field-day-embedded-assessment-unit.md)
+- [Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments](../strategies/embedded-evidence-gathering-without-separate-tests.md)
+
+## Key Sources
+- Kasten, Margaret; Meiring, Steve; Mikesell, Anne. (1997). Mathematics. Competency-Based Education Assessment Series. https://eric.ed.gov/?id=ED417935
 -->

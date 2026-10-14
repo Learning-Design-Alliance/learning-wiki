@@ -1,7 +1,7 @@
 ---
 type: principle
 id: accessible-vocabulary-syntax
-aliases: [plain-english-workplace-materials]
+aliases: [plain-english-workplace-materials, provide-peer-authored-syntactically-appropriate-texts]
 title: "Accessible Vocabulary & Syntax"
 description: "For a learner whose failure on a content task may be linguistic rather than conceptual, removing avoidable wording barriers while explicitly teaching the few essential terms is expected to improve comprehension of the taught material, with weak evidence for transfer to authentic texts or delayed retention."
 canonical: true
@@ -18,12 +18,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED378844"
     title: "Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844"
     author: Dyer, Penny
+  - id: fenton-1998
+    resource: "https://eric.ed.gov/?id=ED424564"
+    title: "Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564"
+    author: Fenton, Rebecca
 ---
 
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (11 for, 3 mixed, 1 against) · 24 studies (7 causal, 5 review, 4 quant-synthesis, 3 design, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 24 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (12 for, 3 mixed, 1 against) · 25 studies (7 causal, 6 review, 4 quant-synthesis, 3 design, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 25 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -105,6 +109,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](../claims/unfamiliar-contexts-distract-from-mathematics.md) [+W] — attached 2026-10-09 from Preparing Problems for Classroom Instruction (2012), which proposed "Personalize and scaffold problem contexts before problem solving: reword problems into familiar contexts and clarify unfamiliar words in advance".
+- [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](../claims/young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -124,6 +129,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](../claims/ai-helper-usability-obstacles.md) [+W]
 - [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](../claims/simplification-and-glossary-supported-second-cycle-gains.md) [+W]
 - [International faculty feedback revealed that the term service is not clearly recognized outside North America, prompting wording changes for global comprehensibility](../claims/service-term-international-comprehensibility.md) [+W]
+- Text Accessibility Drives Context Clue Compensation [+M]
 
 ## Related Principles
 - [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — focuses on the direct teaching of word meanings and usage
@@ -140,6 +146,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Assigned Readings](../elements/assigned-readings.md) paired with glossaries, margin notes, or sentence frames can make complex texts usable without replacing them
 - [Pair team-based discovery learning with detailed guiding questions, simplified texts, and glossaries of unfamiliar terms](../strategies/guide-questions-simplification-glossary-for-proposal-writing.md)
 - [Simplifying Language](../strategies/simplifying-language.md)
+- [Student-Authored Texts for Conceptual Change](../designs/student-authored-texts-for-conceptual-change.md)
 
 ## Key Sources
 - Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416. [doi:10.1111/1467-9817.12314](https://doi.org/10.1111/1467-9817.12314)
@@ -147,6 +154,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - Centers for Disease Control and Prevention. (2009). *Simply put: A guide for creating easy-to-understand materials*.
 - Devlin, M., Kift, S., Nelson, K., Smith, L., & McKay, J. (2012). *Effective teaching and support of students from low socioeconomic status backgrounds*. Office for Learning and Teaching.
 - Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844
+- Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -239,4 +247,47 @@ The package holds that written workplace genres (narrative, informal, instructio
 
 ## Key Sources
 - Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844
+-->
+
+<!-- merged 2026-10-14 from principles/provide-peer-authored-syntactically-appropriate-texts ("Provide young readers with syntactically appropriate peer-authored texts rather than basal readers"), folded in as a narrower page that rested on two studies or fewer after an evidence search (upgrade_worklist.py, 2026-10-14): its body as it stood. Its bullets this page lacked were added above.
+
+# Provide young readers with syntactically appropriate peer-authored texts rather than basal readers
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The review argues that texts accounting for readers' cognitive and linguistic experiences, and texts written by peers, are more accessible to young readers than basal readers. Ekwall and Shanker note that "second graders, for instance, more easily read peer-written texts than those written by adults who use comparable words and sentence lengths", because adults' sophisticated sentence style hinders syntactically optimal composition for children. The review concludes it is important for teachers to provide peer-authored, syntactically appropriate material.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must have access to or help produce texts authored by peers that match students' syntax.
+#### Constraints
+- Adults cannot master second graders' syntax, so adult-composed texts with comparable words and sentence lengths remain harder for children to read.
+
+### Target Learners
+- young children
+- elementary school students
+- remedial readers
+
+### Target Learning Objectives
+- word recognition
+- reading comprehension
+
+### Claims
+
+- Text Accessibility Drives Context Clue Compensation [+M]
+- [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](../claims/young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Student-Authored Texts for Conceptual Change](../designs/student-authored-texts-for-conceptual-change.md)
+
+## Key Sources
+- Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564
 -->

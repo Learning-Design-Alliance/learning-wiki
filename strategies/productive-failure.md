@@ -60,9 +60,11 @@ The strategy inverts the usual instruction-then-practice sequence: exploration p
 5. **Practice and assess.** Follow with [Practice](../elements/practice.md) on the canonical method and transfer items to consolidate the conceptual gains.
 
 ## Related Strategies
+
 - [Problem-Based Learning](problem-based-learning.md) — shares a problem-first structure but typically embeds instruction throughout rather than deferring it to a consolidation phase
 - [Invented Strategies Before Instruction](invented-strategies-before-instruction.md) — a mathematics-specific variant focused on student-invented computation methods
 - [Contrasting Cases](contrasting-cases.md) — the comparison mechanism that productive failure uses during consolidation
+- [When implementing PS-I, include contrasting cases or build the instruction phase on student solutions](include-contrasting-cases-or-build-instruction-on-student-solutions.md)
 
 ## Examples
 - **Kapur's mathematics classrooms (Singapore):** middle-school students explored standard-deviation problems in groups before instruction on the canonical formula; exploration classes showed lower success during the lesson but outperformed direct-instruction peers on conceptual and transfer post-tests (see Kapur, 2008, below).

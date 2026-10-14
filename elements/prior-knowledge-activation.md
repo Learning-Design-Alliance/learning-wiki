@@ -53,4 +53,4 @@ Prior knowledge activation is the element in which learners recall, surface, or 
 - Quick-write prompts about what learners already know before a new unit.
 
 ## Key Sources
-- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press.
+- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press. [doi:10.17226/9853](https://doi.org/10.17226/9853)

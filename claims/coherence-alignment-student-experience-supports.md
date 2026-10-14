@@ -69,3 +69,4 @@ District staff participants reported that principals "experience a disconnect be
 - [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — related
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related
 - [Coherence with preexisting initiatives made relationship-centered change more readily embraced](coherence-preexisting-initiatives-uptake.md) — related
+- [Developing professional learning communities appears to hold considerable promise for capacity building for sustainable improvement](plcs-hold-promise-for-capacity-building.md) — related

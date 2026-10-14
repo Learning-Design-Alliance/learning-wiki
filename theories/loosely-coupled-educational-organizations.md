@@ -46,7 +46,7 @@ Following Weick (1976), the paper portrays educational organizations as "loosely
 
 ## Examples
 
-- [Design professional learning communities around situated teacher agency and practice, not attitude change](../principles/situated-account-plc-design.md)
+- [Design professional learning communities around situated teacher agency and practice, not attitude change](../principles/communities-of-practice.md)
 - [Professional Learning Communities](../strategies/professional-learning-communities.md)
 
 ## Key Sources
