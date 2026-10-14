@@ -52,3 +52,4 @@ Within-school component of the multilevel SEM partitioning teacher-level variati
 - [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](within-school-direct-negative-leadership-academic-demand.md) — related
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
 - [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](principal-program-content-instruction-collegial-data.md) — related
+- [PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model](pbis-collegial-leadership-fidelity-model.md) — related

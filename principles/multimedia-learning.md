@@ -127,9 +127,11 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](../claims/segmentation-moderates-verbal-redundancy.md) [~W]
 
 ## Related Principles
+
 - [Multimodal Instruction](multimodal-instruction.md) — multimedia learning is a more specific representational principle within the broader multimodal design space
 - [Dual Coding](dual-coding.md) — provides the clearest explanatory account for why coordinated representations can improve learning
 - [Digital Learning](digital-learning.md) — many digital environments operationalize multimedia principles directly
+- [Redundancy Principle](redundancy.md)
 
 ## Related Patterns
 - [Multimedia Learning](../patterns/multimedia-learning.md)

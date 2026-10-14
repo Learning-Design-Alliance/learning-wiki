@@ -128,6 +128,7 @@ Performance on tasks matched to the whole, recall of details, delayed retention 
 - [Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels](../claims/global-change-holistic-and-local-analysis-challenge.md) [~W]
 
 ## Related Principles
+
 - [Creating Visual Representations](dual-coding.md) — diagrams and maps often make the whole visible
 - [Scaffolding](scaffolding.md) — holistic designs still need supports so learners can move from overview to workable understanding
 - [Knowledge Organization](knowledge-organization.md) — holistic learning depends on preserving meaningful conceptual structure
@@ -136,6 +137,7 @@ Performance on tasks matched to the whole, recall of details, delayed retention 
 - [Cognitive Load Theory](cognitive-load-theory.md) — isolating interacting elements before the whole for task-specific novices
 - [Sequencing](sequencing.md) — the order in which parts arrive
 - [Transfer of Learning](transfer-of-learning.md) — the integrative outcomes a whole is meant to serve
+- [Pre-training Principle](pretraining.md)
 
 ## Examples
 

@@ -137,9 +137,11 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](../claims/extraneous-load-eliminates-germane-load-learning-gains.md) [~W]
 
 ## Related Principles
+
 - [Cognitive Load Theory](cognitive-load-theory.md)
 - [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)
 - [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
+- [Pre-training Principle](pretraining.md)
 
 ## Examples
 

@@ -158,7 +158,6 @@ Finding relevant sources on a practice question, choosing trustworthy ones, sear
 - [Boolean Operators](../strategies/boolean_operators.md) — a narrower strategy inside the broader principle
 - Instructors modeling a failed search and then revising it can normalize iteration and reduce frustration
 - [Direct Instruction: Keyword Search](../strategies/direct_instruction-keyword_search.md) — selecting, combining and refining keywords, with credibility checks on what is retrieved
-- [Formulating Effective Search Queries](../strategies/reading_online_strategy-formulating_effective_search_queries.md) — a strategy page for the query-building step
 - [Search Strategy Scaffolds](../strategies/search-strategy-scaffolds.md) — structured supports for formulating queries and evaluating results
 - [Lateral Reading](../strategies/lateral-reading.md) — the off-page check that follows a search, owned by [Evaluating Sources](evaluating-sources.md)
 

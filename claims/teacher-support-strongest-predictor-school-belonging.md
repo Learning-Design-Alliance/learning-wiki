@@ -15,12 +15,14 @@ sources:
     author: "Allen, K., Kern, M.L., Vella-Brodrick, D., Hattie, J., & Waters, L."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Teacher support is the strongest predictor of school belonging
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across the meta-analysis, teacher support showed the strongest association with school belonging among the ten themes. [→ Allen 2018](#allen-2018)
@@ -31,7 +33,7 @@ sources:
 
 Allen, K., Kern, M.L., Vella-Brodrick, D., Hattie, J., & Waters, L. (2018). What Schools Need to Know About Fostering School Belonging: a Meta-analysis. Educational Psychology Review, 30, 1–34. https://doi.org/10.1007/s10648-016-9389-8
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-analysis of 51 studies (N = 67,378) examining the average association between each of the ten themes and school belonging. The article reports that "Teacher support and positive personal characteristics were the strongest predictors of school belonging"; no effect size is printed in the available text.
 

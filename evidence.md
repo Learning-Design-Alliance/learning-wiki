@@ -8,21 +8,21 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 17,869 |
-| Evidence entries | 21,182 |
-| Distinct studies | 5,117 |
-| Claims resting on one study | 17,400 (97%) |
+| Claims | 17,880 |
+| Evidence entries | 21,195 |
+| Distinct studies | 5,112 |
+| Claims resting on one study | 17,411 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 998 of 5,117 (20%) |
+| Studies reporting an effect size | 999 of 5,112 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 66 | 552 | 203 | 372 | 1,193 |
+| causal | 66 | 546 | 203 | 372 | 1,187 |
 | quant-synthesis | 43 | 93 | 38 | 116 | 290 |
 | review | 57 | 298 | 113 | 113 | 581 |
-| associational | 29 | 627 | 300 | 254 | 1,210 |
+| associational | 29 | 627 | 301 | 254 | 1,211 |
 | qualitative | 113 | 276 | 72 | 89 | 550 |
 | design | 62 | 547 | 165 | 37 | 811 |
 | theoretical | 75 | 283 | 71 | 53 | 482 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 771 (15%) | 3,268 (64%) | 966 (19%) | 112 (2%) |
+| 771 (15%) | 3,262 (64%) | 967 (19%) | 112 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,400, 2: 392, 3: 65, 4 or more: 12.
+**Studies per claim:** 0: 0, 1: 17,411, 2: 392, 3: 65, 4 or more: 12.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -74,14 +74,14 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 489 pages | 4 | q2–q4 | 1 of 4 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 391 pages | 2 | q4 | 2 of 2 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 380 pages | 3 | q1–q4 | 1 of 3 |
-| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 342 pages | 2 | q3–q4 | 1 of 2 |
+| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 344 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 326 pages | 2 | q2 | 0 of 2 |
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 319 pages | 2 | q3 | 0 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 226 pages | 2 | q3 | 0 of 2 |
-| [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 221 pages | 3 | q3–q4 | 1 of 3 |
+| [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 222 pages | 3 | q3–q4 | 1 of 3 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 219 pages | 3 | q2–q4 | 2 of 3 |
+| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 212 pages | 3 | q1–q3 | 0 of 3 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 210 pages | 3 | q2–q3 | 2 of 3 |
-| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 206 pages | 3 | q1–q3 | 0 of 3 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 190 pages | 5 | q2–q4 | 0 of 5 |
 | [Spaced Repetition Improves Retention](claims/spaced-repetition-improves-retention.md) | 178 pages | 3 | q3–q4 | 1 of 3 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 171 pages | 2 | q3 | 0 of 2 |
@@ -90,7 +90,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 126 pages | 2 | q2–q3 | 0 of 2 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 106 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
-| [Different media combinations significantly affect the recall and retention of information](claims/media-combinations-affect-recall-and-retention.md) | 87 pages | 1 | q3 | 0 of 1 |
+| [Different media combinations significantly affect the recall and retention of information](claims/media-combinations-affect-recall-and-retention.md) | 89 pages | 1 | q3 | 0 of 1 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 83 pages | 3 | q2–q4 | 1 of 3 |
 | [A training-design argument, not tested by any study recorded here, holds that practising …](claims/whole-task-performance-improves-transfer.md) | 81 pages | 1 | q2 | 0 of 1 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 80 pages | 3 | q3 | 0 of 3 |
@@ -102,18 +102,18 @@ Of the 37 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-190 claims are cited both ways.
+192 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
-| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 121 | 80 | 140 | 2 |
-| [Decorative Illustrations Do Not Improve Learning](claims/decorative-illustrations-do-not-improve-learning.md) | 19 | 7 | 43 | 3 |
+| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 123 | 80 | 140 | 2 |
+| [Decorative Illustrations Do Not Improve Learning](claims/decorative-illustrations-do-not-improve-learning.md) | 19 | 8 | 44 | 3 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 319 | 41 | 19 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 494 | 65 | 17 | 3 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 11 | 10 | 13 | 3 |
-| [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 20 | 4 | 10 | 4 |
-| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 4 | 189 | 10 | 3 |
-| [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 1 | 1 | 10 | 3 |
+| [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 1 | 1 | 11 | 3 |
+| [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 21 | 4 | 10 | 4 |
+| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 4 | 194 | 10 | 3 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 281 | 21 | 8 | 2 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 44 | 1 | 8 | 2 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 6 | 7 | 2 |
@@ -121,7 +121,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 1 | 6 | 5 | 2 |
 | [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 6 | 7 | 5 | 5 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 1 | 0 | 4 | 1 |
-| [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
+| [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 5 | 4 | 1 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 206 | 15 | 3 | 2 |
 | [Example-problem sequences reduce cognitive load and improve learning outcomes.](claims/example-problem-sequences-reduce-cognitive-load.md) | 56 | 18 | 3 | 1 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 375 | 10 | 3 | 2 |
@@ -133,7 +133,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 309 | 292 | 6 | 0 |
+| [principles](principles/index.md) | 318 | 301 | 7 | 0 |
 | [elements](elements/index.md) | 1,080 | 841 | 2 | 0 |
 | [patterns](patterns/index.md) | 113 | 103 | 11 | 0 |
 | [strategies](strategies/index.md) | 5,597 | 2,539 | 5 | 0 |
@@ -143,7 +143,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [learner-variables](learner-variables/index.md) | 14 | 14 | 62 | 0 |
 | [designs](designs/index.md) | 719 | 472 | 1 | 0 |
 | [products](products/index.md) | 1,581 | 1,267 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 428 | 375 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 429 | 375 | 1 | 0 |
 
 ## Toward pooled estimates
 

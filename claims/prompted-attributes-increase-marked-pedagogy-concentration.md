@@ -9,8 +9,9 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 sources:
-  - id: conc-reg
-    title: conc-reg
+  - id: tan-et-al-2026
+    resource: "https://doi.org/10.1145/3785022.3785113"
+    title: Tan et al. 2026
     q: 2
     i: "?"
     kind: causal
@@ -23,13 +24,13 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Across all marked attributes, using the marked prompt produces large, systematic increases in the concentration of associated Marked Pedagogy words relative to baseline, e.g., +3.829 percentage points for ELL and +4.260 for unmotivated (both p < 0.001). [→ conc-reg](#conc-reg)
+`q2 i?` Across all marked attributes, using the marked prompt produces large, systematic increases in the concentration of associated Marked Pedagogy words relative to baseline, e.g., +3.829 percentage points for ELL and +4.260 for unmotivated (both p < 0.001). [→ Tan et al. 2026](#tan-et-al-2026)
 
 ## Evidence
 
-### conc-reg
+### Tan et al. 2026
 
-Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. https://doi.org/10.1145/3785022.3785113
+Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. [doi:10.1145/3785022.3785113](https://doi.org/10.1145/3785022.3785113)
 
 `q2 · i?` · `causal · r2`
 

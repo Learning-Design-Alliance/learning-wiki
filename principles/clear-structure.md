@@ -117,12 +117,14 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](../claims/unclear-presentation-complex-structure-penalty.md) [+W]
 
 ## Related Principles
+
 - [Cognitive Load Management](cognitive-load-management.md) — clear structure is often one mechanism for managing extraneous load
 - [Sequencing](sequencing.md) — structure and sequencing usually work together to make instruction legible
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — wording clarity and structural clarity are mutually reinforcing
 - [Chunking](chunking.md) — one of the main mechanisms for clear presentation
 - [Scaffolding and Fading](scaffolding-and-fading.md) — early structure should support learners until they can navigate more independently
 - [Multimodal Instruction](multimodal-instruction.md) — multiple modes can clarify structure when they are coherent rather than cluttered
+- [Signaling Principle](signaling.md)
 
 ## Examples
 

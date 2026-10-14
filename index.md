@@ -12,7 +12,7 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## Knowledge Types
 
-### [Principles](principles/index.md) (309)
+### [Principles](principles/index.md) (318)
 Research-backed design commitments: what to do and why.
 
 ### [Elements](elements/index.md) (1080)
@@ -36,7 +36,7 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (38)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Research Methods](research-methods/index.md) (428)
+### [Research Methods](research-methods/index.md) (429)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
 ### [Theories](theories/index.md) (1372)
@@ -45,7 +45,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (14)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (17869)
+### [Claims](claims/index.md) (17880)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

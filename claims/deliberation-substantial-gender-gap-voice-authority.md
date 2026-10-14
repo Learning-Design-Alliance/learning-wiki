@@ -15,12 +15,14 @@ sources:
     author: Christopher F. Karpowitz, Tali Mendelberg, and Lee Shaker
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Deliberation produces a substantial gender gap in voice and authority
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In deliberating groups, women show a substantial gap in voice and authority relative to men. [→ Christopher F. Karpowitz 2012](#christopher-f-karpowitz-2012)
@@ -31,7 +33,7 @@ sources:
 
 Christopher F. Karpowitz, Tali Mendelberg, and Lee Shaker. (2012). Gender Inequality in Deliberative Participation. American Political Science Review, Volume 106, Issue 3, pp. 533-547. https://doi.org/10.1017/S0003055412000329
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Experimental study with many deliberating groups, testing whether "men and women have equal levels of voice and authority in deliberation". The article reports "a substantial gender gap in voice and authority"; no effect size statistic is printed in the available text.
 

@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**428 entries** · 0 stable · 0 in review · 428 drafts
+**429 entries** · 0 stable · 0 in review · 429 drafts
 
 ---
 
@@ -276,6 +276,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Messick's seven facets of validity](messicks-seven-facets-of-validity.md) - The paper adopts Messick's taxonomy of validity facets to structure validation investigations in epistemic game contexts.
 * [Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration](metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat.md) - The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all \"fail to square with the common understanding of racial integration.\" I
 * [Model-based multivariate true score norming procedure](model-based-multivariate-true-score-norming-procedure.md) - The norming approach, employed previously in the course-specific MAP Growth Mathematics norming study (Thum & He, 2019), uses \"a multivariate true score model that accounts for the known imprecision of scores from the fall, winter, and spring terms.\" Observed scores are decomposed into true scores a
+* [Models of versus models for heuristic](models-of-versus-models-for-heuristic.md) - The article presents a heuristic contrasting two ways of understanding models in science.
 * [Moving intervention framework for evaluating educational AI](moving-intervention-framework-for-evaluating-educational-ai.md) - A conceptual account of why conventional evaluation lags educational AI: the intervention \"may be better understood as a versioned configuration of technological capabilities, pedagogical functions and implementation practices at a particular point in time: a moving intervention rather than a fixed 
 * [Multi-armed randomized trial analysis](multi-armed-randomized-trial-analysis.md) - The report's guidance is that analysts running studies with several intervention arms should not simply reuse two-group methods: estimators \"need to be modified for the multi-armed design,\" hypothesis tests across pairwise contrasts require multiple comparison adjustments, and CACE estimation demand
 * [Multi-dimensional fidelity framework for LLM student simulation](multi-dimensional-fidelity-framework-for-llm-student-simulation.md) - The article names competency bias as \"the inherent tendency of preference-tuned models to produce correct solutions even when prompted to simulate novice students\", and frames simulating learners as a multi-dimensional fidelity problem with behavioral, epistemic, and perceptual components.

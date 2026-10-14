@@ -115,9 +115,11 @@ Easier study, immediate performance on a unit, recombined whole-task performance
 - [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](../claims/cpc-difference-delayed-posttest-only.md) [~W]
 
 ## Related Principles
+
 - [Scaffolding and Fading](scaffolding-and-fading.md) — chunking is often the first step in a scaffolded instructional sequence.
 - [Worked Examples](worked-examples.md) — can be chunked to show the sub-steps of a problem solution.
 - [Graphic Organizers](graphic-organizers.md) — provide a visual framework for how chunks relate to each other.
+- [Segmenting Principle](segmenting.md)
 
 ## Examples
 - A chemistry lesson breaks stoichiometry into interpreting formulas, balancing equations, and converting quantities before asking learners to coordinate the full procedure.

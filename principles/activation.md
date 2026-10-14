@@ -99,9 +99,11 @@ The expectation should weaken if comparable learners, prompts and aligned outcom
 The present evidence does not establish an optimal activation format or duration, a benefit for learners with little relevant knowledge, or durability beyond the tests the studies used.
 
 ## Related Principles
+
 - [Pre-Reading Questioning](pre-reading-questioning.md) — one of the most direct operationalizations of activation before reading or explanation
 - [Explicit Instruction](direct-instruction.md) — activation strengthens explicit teaching when prior knowledge is deliberately tied to new content rather than assumed
 - [Knowledge Organization](knowledge-organization.md) — activation helps learners fit new information into a meaningful structure
+- [Pretesting (Prequestions Before Study)](pretesting.md)
 
 ## Examples
 

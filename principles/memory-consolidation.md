@@ -27,7 +27,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (10 for, 6 mixed, 3 against) · 31 studies (17 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 8 of 31 report an effect size · 12 claims rest on one study
+> **Evidence** · 19 claims (10 for, 6 mixed, 3 against) · 31 studies (17 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 9 of 31 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
