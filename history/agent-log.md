@@ -5,6 +5,23 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-14 (night) — nine principle pages the multimedia claims lacked
+
+- **New canonical principles**, conditional format, each with a situation table and a synthesis spec
+  (`eval/synthesis/`): modality, redundancy, segmenting, signalling, contiguity, coherence, pre-training,
+  concreteness fading, pretesting. Many claims tested them (most rest on meta-analyses), but they were only
+  treated inside the multimedia-learning umbrella or nowhere.
+- **Claims:** 11 duplicates merged, 17 overstated titles rewritten (old title kept in a comment, description and
+  178 links updated), codes recoded to the printed statistic, one Kalyuga 1999 DOI corrected against Crossref.
+- **Shared hub tables:** 18 hub claims are named by more than one spec, and each `--apply` overwrote the last
+  spec's table. Their members are now the union across specs, and every spec was re-applied. Fixed
+  `synthesize_claim.py` cutting DOIs at a parenthesis.
+- **Brief test:** new pages won 43 of 72 blind pairs against the umbrella (sparse 28–8, complete 15–21). On a
+  complete multimedia brief the umbrella, which carries every principle at once, wins; a design names both, so
+  the narrow pages were not reworked to compete.
+- **Left for a person:** kind/rigour doubts on Mutlu-Bayraktar 2018 and Mayer 2008; q4/q3 disagreements on
+  Rey 2019, Ginns 2005/2006, Adesope 2012; `signaling-effect-abstract-only` rests on p = .074.
+
 ## 2026-10-14 (evening) — conversion wave 8 and its claim cleanup
 
 - **15 principles and patterns converted** (`eval/page-triage/wave-8.md`), the first wave taken from
