@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: darcy-2018
-    resource: "http://languageinstinct.blogspot.com/2006/09/what-is-clt.html"
-    title: "Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html"
+    resource: "https://doi.org/10.5070/b5.35963"
+    title: "Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html. [doi:10.5070/b5.35963](https://doi.org/10.5070/b5.35963)"
     author: Darcy, I.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Darcy 2018
 
-Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html
+Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html. [doi:10.5070/b5.35963](https://doi.org/10.5070/b5.35963)
 
 `q1 · i?` · `theoretical · r2`
 

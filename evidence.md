@@ -8,18 +8,18 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 17,869 |
-| Evidence entries | 21,183 |
-| Distinct studies | 5,112 |
-| Claims resting on one study | 17,401 (97%) |
+| Claims | 17,908 |
+| Evidence entries | 21,225 |
+| Distinct studies | 5,118 |
+| Claims resting on one study | 17,439 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 998 of 5,112 (20%) |
+| Studies reporting an effect size | 1,003 of 5,118 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 66 | 546 | 203 | 372 | 1,187 |
+| causal | 68 | 550 | 203 | 372 | 1,193 |
 | quant-synthesis | 43 | 93 | 38 | 116 | 290 |
 | review | 57 | 297 | 113 | 114 | 581 |
 | associational | 29 | 627 | 301 | 254 | 1,211 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 771 (15%) | 3,263 (64%) | 966 (19%) | 112 (2%) |
+| 771 (15%) | 3,264 (64%) | 971 (19%) | 112 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,401, 2: 391, 3: 64, 4 or more: 13.
+**Studies per claim:** 0: 0, 1: 17,439, 2: 392, 3: 64, 4 or more: 13.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -136,11 +136,11 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 318 | 301 | 7 | 0 |
 | [elements](elements/index.md) | 1,080 | 841 | 2 | 0 |
 | [patterns](patterns/index.md) | 113 | 103 | 11 | 0 |
-| [strategies](strategies/index.md) | 5,597 | 2,539 | 5 | 0 |
+| [strategies](strategies/index.md) | 5,599 | 2,540 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 29 | 1 | 0 |
 | [theories](theories/index.md) | 1,372 | 1,156 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 14 | 14 | 62 | 0 |
+| [learner-variables](learner-variables/index.md) | 14 | 14 | 62.5 | 0 |
 | [designs](designs/index.md) | 719 | 472 | 1 | 0 |
 | [products](products/index.md) | 1,581 | 1,267 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 429 | 375 | 1 | 0 |

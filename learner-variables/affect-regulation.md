@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (64 for, 18 mixed, 8 against) · 72 studies (19 associational, 16 review, 15 causal, 8 qualitative, 7 design, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 15 of 72 report an effect size · 88 claims rest on one study
+> **Evidence** · 92 claims (64 for, 19 mixed, 9 against) · 73 studies (19 associational, 16 causal, 16 review, 8 qualitative, 7 design, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 16 of 73 report an effect size · 90 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -123,6 +123,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](../claims/pre-actional-components-predict-actional-regulation.md) [+M] — instruction changes it
 - [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](../claims/test-anxiety-negative-exam-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](../claims/nature-exposure-reduces-learner-stress.md) [+M] — instruction changes it
+- [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](../claims/swpbis-strongest-kindergarten-exposure.md) [~M] — instruction changes it
+- [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](../claims/swpbis-improves-emotion-regulation.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

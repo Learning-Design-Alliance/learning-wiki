@@ -50,3 +50,4 @@ The guide's practice recommendation asserts, without cited studies or effect siz
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — reports the opposite
 - [Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers](interest-alignment-vs-economic-motivations-persistence.md) — related
 - [The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math](refinement-strategy-trade-offs-in-case-analysis.md) — related
+- [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](personalization-improves-hard-kc-accuracy-algebra-its.md) — related
