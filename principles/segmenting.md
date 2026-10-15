@@ -181,6 +181,7 @@ The expectation should weaken if comparisons with comparable learners and materi
 - [Segmenting](../strategies/segmenting.md) and [Structured/Segmented Instruction](../strategies/structured-segmented-instruction.md): the strategies that carry this principle into an activity.
 - [Interactive Video Quizzing](../strategies/interactive-video-quizzing.md): a prompt at each break (step 5, untested here).
 - [Self-Paced Learning](../elements/self-paced-learning.md): the element through which learners control pace.
+- [Segment dynamic visualizations with pauses between meaningful segments for novice learners, choosing segment length deliberately](../strategies/segment-dynamic-visualizations-with-pauses-for-novices.md)
 
 ## Key Sources
 - Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S. (2019). A Meta-analysis of the Segmenting Effect. *Educational Psychology Review, 31*(2), 389–419. [doi:10.1007/s10648-018-9456-4](https://doi.org/10.1007/s10648-018-9456-4)

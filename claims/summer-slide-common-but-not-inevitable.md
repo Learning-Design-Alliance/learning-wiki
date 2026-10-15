@@ -49,3 +49,4 @@ Large-scale observational analysis of seasonal score patterns on NWEA MAP Growth
 - [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — a narrower finding that bears on this claim
 - [Students who made the greatest school-year gains experienced the greatest summer learning loss](greatest-gains-greatest-summer-loss.md) — related
 - [The reality of summer learning loss is more complex than the long-standing gap-widening account](summer-loss-more-complex-than-gap-account.md) — related
+- [Learning loss varied considerably by school, with some schools seeing slides of 10 percentile points or more and others recording no losses or small gains](school-level-variation-in-learning-loss.md) — a narrower finding that bears on this claim

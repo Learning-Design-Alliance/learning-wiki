@@ -52,3 +52,4 @@ Analysts built a nine-point scale summing major problems plus points for frequen
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
 - [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](problems-attributed-unplanned-move-not-online-learning.md) — related
+- [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — a broader claim this one bears on

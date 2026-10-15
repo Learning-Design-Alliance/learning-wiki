@@ -70,3 +70,4 @@ The same CCSR study reports gains for higher-skill students in single-period cla
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](double-dose-induced-algebra-tracking.md) — related
 - [Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services](double-dose-least-effective-weakest-students.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
+- [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — related

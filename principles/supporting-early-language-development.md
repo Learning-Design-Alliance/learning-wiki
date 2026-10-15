@@ -13,7 +13,7 @@ generated:
 # Support Early Language Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (11 for, 2 mixed, 2 against) · 21 studies (10 quant-synthesis, 5 causal, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (12 for, 2 mixed, 2 against) · 22 studies (10 quant-synthesis, 5 causal, 3 associational, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 22 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,7 @@ Claims bearing on the page that were read but not used as core evidence above.
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](../claims/ready4k-texts-improve-preschool-literacy.md) [+M]: small effect on an early-literacy screen from weekly texts to parents; used above for phone-only delivery, not an oral-language outcome.
 - [Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap](../claims/vocabulary-programs-insufficient-to-close-vocabulary-gap.md) [~M]: school-age linguistic comprehension programmes; a limit on what any vocabulary programme should promise.
 - [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](../claims/experiential-training-ecd-workers-better-child-outcomes.md) [+W]: an argument with no data; bears on how staff are trained.
+- [Maternal prescriptives that follow the child's focus of attention correlate positively with productive vocabulary at 1;10](../claims/follow-prescriptives-correlate-vocabulary-growth.md) [+W] — attached 2026-10-15 from Nameera Akhtar et al. (1991), which proposed "Direct a young child's behaviour only within a joint focus of attention to support vocabulary learning".
 
 ## Objective and learner-valued goal
 

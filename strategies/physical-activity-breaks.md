@@ -77,11 +77,13 @@ Sustained seated attention degrades over time, particularly for children; short 
 6. **Re-enter with purpose.** Open the post-break segment with a brief [Check-In](../elements/check-in.md) or framing statement to re-anchor attention.
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — extends the same principle to unstructured play periods
 - [Brain Breaks](brain-breaks.md) — cognate strategy emphasizing quick cognitive resets, sometimes without movement
 - [Interleaving](interleaving.md) — another way to vary the rhythm of a study session to combat fatigue and boredom
 - [Active Transitions](active-transitions.md) — embedding movement into the transitions between activities rather than as a separate break
 - [Check-In](../elements/check-in.md) — a low-movement alternative for reading the room's readiness state before deciding whether a break is needed
+- [Use a multiple-baseline across-classrooms observation routine to monitor on-task behavior around classroom activity breaks](multiple-baseline-ontask-observation-strategy.md)
 
 ## Examples
 - **Instant Recess®** ([https://www.instantrecess.com](https://www.instantrecess.com)) — a 10-minute structured movement routine developed by Dr. Toni Yancey, designed for classrooms and workplaces.

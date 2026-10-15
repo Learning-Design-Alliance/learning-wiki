@@ -70,3 +70,4 @@ The Watts, Duncan, and Quan (2018) replication is an important corrective to the
 - [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](sel-domains-less-stable-than-achievement.md) — related
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
+- [The study replicates Johnson and Newport (1989) and explains the apparent exceptions in that study](dekeyser-replicates-johnson-newport-1989-explains-exceptions.md) — related

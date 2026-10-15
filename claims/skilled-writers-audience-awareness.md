@@ -48,3 +48,4 @@ Interview analysis of the nine skilled EFL writers on audience awareness. Subjec
 - [Skilled EFL writers are aware that coherence and continuity are required elements of text and deliberately fulfill coherence requirements when composing and revising.](skilled-writers-coherence-continuity-awareness.md) — related
 - [Skilled EFL writers are aware of their own writing strengths and weaknesses and exploit strengths while compensating for weaknesses such as limited vocabulary.](skilled-writers-self-awareness-strength-weakness.md) — related
 - [Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic.](skilled-writers-topic-familiarity-knowledge.md) — related
+- [Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs](duplicating-reader-experiences-meets-informational-needs.md) — related

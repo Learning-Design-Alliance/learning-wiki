@@ -116,3 +116,6 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials](system-paced-moderates-verbal-redundancy.md) — related
 - [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
 - [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](modality-effect-moderated-by-pacing.md) — related
+- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
+- [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — related
+- [Video benefits learning only when its interactivity matches or exceeds the comparison condition](video-benefit-depends-on-relative-interactivity.md) — related

@@ -50,3 +50,4 @@ The brief tracked "the gap in achievement between the COVID year student group c
 - [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
 - [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — reports the opposite
 - [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — possibly the same claim (merge candidate)
+- [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related

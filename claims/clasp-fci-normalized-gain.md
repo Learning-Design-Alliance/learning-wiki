@@ -49,3 +49,4 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 - [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
 - [Actively engaging learning environments show higher learning gains than one-way lecture environments, according to a National Academies consensus study cited in one article](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [Active learning gains are larger on concept inventories than on instructor-written course examinations](active-learning-gains-larger-concept-inventories.md) — related
+- [Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard](fci-gain-increased-peer-instruction-harvard.md) — related

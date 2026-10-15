@@ -70,3 +70,5 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention](audiovisual-attention-decomposition-surrogate-indicators.md) — related
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — related
+- [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — related

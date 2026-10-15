@@ -66,3 +66,4 @@ A meta-analysis of STEM-learning studies published 2005–2020 (35 articles, 160
 - [Teaching Others Generative Strategy](learning-by-teaching-improves-tutor-learning.md) — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
+- [Empirical evidence on learner-generated drawing is inconsistent, and the review organizes it around hypotheses grounded in cognitive and strategic processing](inconsistent-drawing-evidence-organized-by-hypotheses.md) — related

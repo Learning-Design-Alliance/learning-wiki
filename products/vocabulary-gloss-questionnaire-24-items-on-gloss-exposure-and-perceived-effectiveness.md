@@ -33,7 +33,7 @@ A Chinese-language 24-item questionnaire developed by Cheng et al. (2009) to mea
 -
 
 ## Key Sources
-- Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
+- Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl. [doi:10.64152/10125/66828](https://doi.org/10.64152/10125/66828)
 
 <!-- merged 2026-10-10 from elements/vocabulary-gloss-questionnaire-cheng-good ("Vocabulary gloss questionnaire (24 items on gloss exposure and perceived effectiveness)"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -70,5 +70,5 @@ A Chinese-language questionnaire developed for this study, administered to all 1
 -
 
 ## Key Sources
-- Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
+- Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl. [doi:10.64152/10125/66828](https://doi.org/10.64152/10125/66828)
 -->

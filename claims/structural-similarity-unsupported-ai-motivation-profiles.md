@@ -49,3 +49,4 @@ Longitudinal measurement invariance testing (configural, metric, and scalar inva
 - [Learning conditions worsen slightly but significantly over a school year absent intentional efforts to improve them](learning-conditions-worsen-over-school-year.md) — related
 - [During a year-long AI curriculum, most students maintained or moved upward in motivational profile, with substantial upward transitions out of the Disengaged profile](upward-motivational-transitions-year-ai-curriculum.md) — related
 - [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](trust-intrinsic-motivation-rose-across-waves-invariance-held.md) — related
+- [Student attitudes showed little change over a Peer Instruction semester, and course satisfaction dropped in the algebra-based course despite high learning gains](pi-student-attitudes-little-change.md) — related

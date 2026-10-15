@@ -72,3 +72,4 @@ The same projection analysis reports students returning "with 37-50% of the lear
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — a broader claim this one bears on
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — a broader claim this one bears on
 - [Thirty-seven percent of the Elevate Math program effect is attributable to avoidance of summer learning loss through the first half of the summer](elevate-math-effect-third-summer-learning-loss-avoidance.md) — related
+- [The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts](covid-closures-math-loss-019-sd.md) — related

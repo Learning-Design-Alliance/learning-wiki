@@ -47,3 +47,4 @@ Independent samples T-test (Table 3) comparing high school control (n=42) and ex
 - [In college groups, negotiation of meaning made no difference to comprehensible input obtained in the match task](college-no-comprehensible-input-difference.md) — related
 - [In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)](negotiation-frequency-correlates-vocabulary-high-school.md) — related
 - [In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only](negotiation-meaning-improves-vocabulary-scores-both-levels.md) — related
+- [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](negotiated-interaction-highest-momentary-comprehension.md) — related

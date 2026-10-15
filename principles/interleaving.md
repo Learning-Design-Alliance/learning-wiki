@@ -31,7 +31,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (7 for, 7 mixed) · 11 studies (5 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (7 for, 8 mixed) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 12 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -119,6 +119,7 @@ Taken together: mixing kinds in practice reliably helps learners tell confusable
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice](../claims/dtech-teachers-adopt-retrieval-interleaving.md) [+W]: adoption by teachers, not a learning outcome.
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](../claims/interleaved-practice-higher-math-test-scores.md) [+M] — attached 2026-10-13 from Rohrer et al. (2015), which proposed "Rearrange mathematics practice so a portion of each assignment mixes different kinds of problems (interleaved practice)"; tests this page's relationship.
 - [The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)](../claims/interleaving-benefit-persists-thirty-days.md) [+M] — attached 2026-10-13 from Rohrer et al. (2015), which proposed "Rearrange mathematics practice so a portion of each assignment mixes different kinds of problems (interleaved practice)"; tests this page's relationship.
+- [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](../claims/larger-spacing-better-interleaved-induction.md) [~M] — attached 2026-10-15 from Monica S. Birnbaum et al. (2013), which proposed "Interleave exemplars of different categories for inductive learning, and achieve spacing by increasing lag rather than inserting gaps".
 
 ## Objective and learner-valued goal
 

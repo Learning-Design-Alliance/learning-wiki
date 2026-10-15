@@ -49,3 +49,4 @@ Teacher reflections from the 2022 data (N=23 context) show teachers framing CT a
 - [Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies](puzzlets-debugging-progress-and-collaboration-growth.md) — related
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
 - [Teachers face many barriers to integrating CT, but training can help](teacher-barriers-ct-integration-training-helps.md) — related
+- [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — related

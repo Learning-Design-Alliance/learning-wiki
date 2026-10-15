@@ -12,7 +12,7 @@ generated:
 # Long's interaction hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 39 claims (11 for, 27 mixed, 1 against) · 11 studies (7 causal, 2 associational, 1 quant-synthesis, 1 review), `q1`–`q3` · 2 of 11 report an effect size · 38 claims rest on one study
+> **Evidence** · 40 claims (12 for, 27 mixed, 1 against) · 12 studies (8 causal, 2 associational, 1 quant-synthesis, 1 review), `q1`–`q3` · 2 of 12 report an effect size · 39 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ed367161, eric-ej1080713, eric-ej1435677, eric-ej1071042, eric-ej1208383, eric-ej1269664, eric-ej1348282, eric-ej1361438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -80,6 +80,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [Task condition (decision-making vs. opinion-exchange) did not significantly moderate negotiation strategy use](../claims/task-condition-did-not-moderate-strategy-use.md) [~W]
 - [Within-language strategy profiles differ: other-repetition prevails in the L2 while clarification requests prevail in the L1, with negative feedback least used](../claims/strategy-profiles-l2-other-repetition-l1-clarification.md) [~W]
 - [Conversational interaction facilitates second language grammatical development in adult ESL learners](../claims/interaction-facilitates-l2-grammatical-development.md) [+W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Long's (1996) updated interactionist hypothesis: implicit negative feedback obtained through negotiated interaction facilitates SLA"; tests this page's relationship.
+- [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](../claims/negotiated-interaction-highest-momentary-comprehension.md) [+W] — attached 2026-10-15 from Lester Loschky (1994), which proposed "Input hypothesis and its interactionist modification as competing accounts of the comprehension-acquisition relationship"; tests this page's relationship.
 
 ## Related Theories
 

@@ -47,3 +47,4 @@ Microgenetic analysis of language-related episodes from 60-minute SCMC-based int
 - [Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena](learners-differ-in-mediation-responsiveness.md) — a narrower finding that bears on this claim
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — a broader claim this one bears on
 - [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](collective-subject-emergence-dialogical-pair.md) — related
+- [The mediational strategy is reported as more effective than other intervention approaches such as the graduated prompt](mediational-strategy-more-effective-than-graduated-prompt.md) — related

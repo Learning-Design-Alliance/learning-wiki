@@ -68,3 +68,4 @@ Analysis of 2014 school survey data comparing schools at the full implementation
 - [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training](kansas-mtss-half-schools-trained.md) — related
 - [Kansas schools are progressing from exploration to more advanced MTSS implementation stages over time](kansas-mtss-implementation-stages-advancing.md) — related
 - [KSDE established a statewide infrastructure — Core Team, facilitators, symposium, and website — that respondents rate as effectively supporting MTSS](kansas-mtss-state-infrastructure-support.md) — related
+- [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related

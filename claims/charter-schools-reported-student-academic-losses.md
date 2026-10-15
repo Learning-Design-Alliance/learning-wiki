@@ -47,3 +47,5 @@ School-reported perceptions of individual student losses (Figure 9), a descripti
 - [Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year](charter-instructional-modes-remote-to-hybrid-shift.md) — related
 - [Between 70 and 80 percent of schools reported decreased learning time in spring 2020, with one in five reporting significant decreases in ELA and math](learning-time-decreases-spring-2020.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — a broader claim this one bears on
+- [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — related
+- [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — related

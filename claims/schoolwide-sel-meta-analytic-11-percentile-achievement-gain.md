@@ -50,3 +50,4 @@ The report's research summary (Section 1) attributes this to multiple meta-analy
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
 - [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-improve-academic-performance.md) — related
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
+- [Professional community within a school environment is associated with a small but significant positive effect on student achievement (d=.25)](professional-community-small-significant-achievement-effect.md) — related

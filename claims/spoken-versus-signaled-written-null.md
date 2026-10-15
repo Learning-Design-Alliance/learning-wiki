@@ -71,3 +71,4 @@ Independent-sample t-test comparing signaled written plus spoken text versus wri
 - [Combining more modalities does not always improve detection of learner mental states](more-modalities-not-always-better-mental-state-detection.md) — related
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — related
 - [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) — related
+- [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](signaling-improves-retention-transfer-video.md) — related

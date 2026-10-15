@@ -47,3 +47,4 @@ Survey item Q18 asked which was more responsible for problems experienced after 
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
+- [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — related

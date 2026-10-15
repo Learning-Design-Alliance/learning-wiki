@@ -51,3 +51,4 @@ Random-effects meta-analysis of five PBL studies; pooled ES 1.560 (95% CI 0.768�
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related
 - Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — a narrower finding that bears on this claim
+- [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related

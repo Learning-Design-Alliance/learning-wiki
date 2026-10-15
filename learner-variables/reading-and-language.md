@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (64 for, 18 mixed, 25 against) · 90 studies (27 causal, 18 quant-synthesis, 17 review, 13 associational, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 25 of 90 report an effect size · 100 claims rest on one study
+> **Evidence** · 117 claims (73 for, 18 mixed, 26 against) · 98 studies (31 causal, 20 review, 18 quant-synthesis, 14 associational, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 25 of 98 report an effect size · 109 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -140,6 +140,16 @@ What a learner can read without effort, and whether the language of instruction 
 - [Bilingual instruction pairs transfer technique knowledge across languages, more strongly to Indo-Aryan (∆TF = +3.2) than Dravidian (∆TF = +1.8) languages](../claims/bilingual-pairs-cross-lingual-technique-transfer.md) [+M] — an instructional effect differs with it
 - [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](../claims/undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) [~W] — an instructional effect differs with it
 - [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](../claims/reader-fluency-prior-knowledge-moderate-redundancy.md) [+M] — an instructional effect differs with it
+- [Available second language research indicates extensive reading programs are generally more effective than systematic vocabulary instruction using decontextualized exercises](../claims/l2-extensive-reading-beats-decontextualized-vocabulary-exercises.md) [+M] — instruction changes it
+- [Boys taught by synthetic phonics showed better word reading than girls in their classes, with spelling and reading comprehension as good as the girls'](../claims/synthetic-phonics-boys-better-word-reading.md) [+M] — instruction changes it
+- [Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls](../claims/vulnerable-children-more-noise-impaired-speech-perception.md) [+M] — learners who differ on it differ in outcomes
+- [First language evidence shows extensive reading for meaning leads to vocabulary acquisition over time, probably accounting for most L1 vocabulary growth beyond the first few thousand common words](../claims/l1-extensive-reading-drives-vocabulary-growth.md) [+M] — instruction changes it
+- [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](../claims/ffi-contributes-to-implicit-l2-knowledge.md) [+M] — instruction changes it
+- [Instructed learners outperform all other condition groups in learning simple second language rules](../claims/instructed-learners-outperform-others-simple-rules.md) [+M] — instruction changes it
+- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](../claims/l2-morphosyntax-learning-highly-skill-specific.md) [+M] — instruction changes it
+- [The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group](../claims/synthetic-phonics-group-better-overall-outcomes.md) [+M] — instruction changes it
+- [Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension](../claims/analytic-phonics-boys-inferior-spelling-comprehension.md) [+M] — instruction changes it
+- [Verbal analytical ability is not a significant predictor of second language success for childhood arrivals](../claims/verbal-analytical-ability-not-predictor-childhood-arrivals.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Working memory — effortful decoding consumes it before comprehension begins.

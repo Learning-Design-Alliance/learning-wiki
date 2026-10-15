@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 153 claims (65 for, 75 mixed, 13 against) · 117 studies (39 associational, 29 design, 17 review, 15 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 117 report an effect size · 148 claims rest on one study
+> **Evidence** · 155 claims (67 for, 75 mixed, 13 against) · 118 studies (40 associational, 29 design, 17 review, 15 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 118 report an effect size · 150 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Loa Correlates Predictions Borne Out](../claims/loa-correlates-predictions-borne-out.md) [+W]
 - [Free Response Loa High Nonresponse](../claims/free-response-loa-high-nonresponse.md) [+W]
 - [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](../claims/linguist-review-revealed-item-communication-problems.md) [+W]
+- [Some 2003 MCAS fourth-grade math word problems exhibited differential item functioning for English-language learners versus non-ELLs](../claims/mcas-math-word-problems-dif-for-ells.md) [+M] — attached 2026-10-15 from Maria Martiniello (2008), which proposed "Scrutinize the appropriateness of inferences about ELLs' math knowledge drawn from linguistically complex test items"; tests this page's relationship.
+- [Textual analysis identifies specific linguistic features of MCAS word problems that posed disproportionate difficulty for ELLs](../claims/linguistic-features-of-dif-mcas-word-problems.md) [+M] — attached 2026-10-15 from Maria Martiniello (2008), which proposed "Scrutinize the appropriateness of inferences about ELLs' math knowledge drawn from linguistically complex test items"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

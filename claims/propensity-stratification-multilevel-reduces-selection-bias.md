@@ -50,3 +50,4 @@ The authors' own methodological claim about their application of propensity scor
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
 - [Written examination scores were low and confounded, providing a serious warning about students' unaided performance on foundational calculations](kt1-exam-low-unaided-performance-warning.md) — related
+- [Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects](learning-loss-robust-to-reweighting-and-fixed-effects.md) — a narrower finding that bears on this claim

@@ -79,10 +79,12 @@ Graphic organizers reduce extraneous load during reading by externalizing the te
 6. Debrief: students use the completed organizer to summarize or discuss, converting the visual frame back into connected prose.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the KWL "K" phase is a pre-reading activation routine that pairs naturally with organizers
 - [Annotating](../principles/annotating.md) — marking structure signals in the text complements populating the organizer
 - [Question-Answer Relationships](question-answer-relationships.md) — another comprehension strategy that sets a purpose before reading
 - [Advance Organizers](../elements/advance-organizers.md) — the Ausubelian parent concept; pre-reading graphic organizers are a concrete, structure-specific form
+- [Offer a structured advance organizer before the full article for readers who benefit from one](structured-advance-organizer-appendix-strategy.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — the theoretical ancestor; Ausubel's framework for providing an anchoring structure before learning

@@ -54,3 +54,4 @@ The brief's summary of its comparison of spring 2021 MAP Growth achievement for 
 - [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
 - [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — a broader claim this one bears on
 - [The webinar presents research comparing student academic trends during the pandemic year to a more typical school year](pandemic-year-trends-compared-typical-year.md) — possibly the same claim (merge candidate)
+- [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related

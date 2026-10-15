@@ -60,10 +60,12 @@ Pre-reading activities work primarily by supplying or activating the schema that
 6. After reading, close the loop: revisit the anticipation guide or question to consolidate and correct
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the core mechanism most pre-reading activities enact
 - [Annotating](../principles/annotating.md) — the natural during-reading companion to a pre-reading purpose
 - [Advance Organizers](../elements/advance-organizers.md) — the structural preview variant with the strongest evidence base
 - [Questioning](questioning.md) — pre-questions are the before-reading end of a full questioning cycle
+- [Offer a structured advance organizer before the full article for readers who benefit from one](structured-advance-organizer-appendix-strategy.md)
 
 ## Examples
 - **Anticipation guides** in science classes: students agree/disagree with claims like "heavier objects fall faster" before a physics text, then revise after reading — misconceptions are confronted rather than silently reinforced.

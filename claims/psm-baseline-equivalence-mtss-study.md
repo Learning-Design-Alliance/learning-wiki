@@ -53,3 +53,4 @@ Propensity scores were estimated by logistic regression on gender, race/ethnicit
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - Propensity score matching produced comparison groups equivalent at baseline (within +/- 0.25 standard deviations) on all pretest achievement measures across the three QEDs — related
 - Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation — related
+- [Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects](learning-loss-robust-to-reweighting-and-fixed-effects.md) — related

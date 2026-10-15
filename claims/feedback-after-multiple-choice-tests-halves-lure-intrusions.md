@@ -52,3 +52,5 @@ The chapter reports studies where students restudied correct answers after multi
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — related
 - [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
+- [Feedback neutralizes the effect of prior study on final cued recall performance](feedback-neutralizes-prior-study-effects.md) — related
+- [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](feedback-reduces-lure-intrusions.md) — possibly the same claim (merge candidate)

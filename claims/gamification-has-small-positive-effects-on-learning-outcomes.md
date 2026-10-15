@@ -93,3 +93,6 @@ gamified vocabulary practice.
 - [Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)](ai-enhances-motivation-gamified-features.md) — a narrower finding that bears on this claim
 - [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, with claims of greatest impact alongside reports of minimal effect](gamification-engagement-mixed-evidence.md) — a narrower finding that bears on this claim
 - [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](feedback-outcome-measure-moderator-cognitive-physical.md) — related
+- [Game benefits are similar in magnitude for cognitive and intrapersonal outcomes, while the single interpersonal outcome was not significant](cognitive-intrapersonal-similar-interpersonal-null.md) — related
+- [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — related
+- [Theoretically augmented game designs produce better learning outcomes than standard game versions (g = 0.34), with enhanced scaffolding designs showing g = 0.41](value-added-augmented-designs-benefit-learning.md) — related

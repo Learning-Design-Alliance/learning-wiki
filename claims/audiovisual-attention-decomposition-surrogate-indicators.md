@@ -64,3 +64,4 @@ The authors' own scope limit on the decomposition: the components "do not direct
 ## Related Claims
 - [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](voice-media-outperform-picture-text-overall.md) — related
 - [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
+- [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — related

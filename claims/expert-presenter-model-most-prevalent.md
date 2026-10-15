@@ -48,3 +48,4 @@ The monograph reports a year-long data collection on all inservice activities a 
 - [Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less](minimal-formal-training-sdm-staff.md) — related
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
 - [Program dosage was low for many participants: nearly half of Talent Search participants received 10 or fewer hours of services a year](talent-search-low-dosage-half-participants.md) — related
+- [More effective programs used brief 1–3 h laboratory sessions with skill-based activities and multiple media](brief-skill-based-multimedia-sessions-moderator.md) — related

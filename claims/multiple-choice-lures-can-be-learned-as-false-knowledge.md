@@ -71,3 +71,6 @@ The chapter reports Marsh et al. (2009), with college students answering SAT II 
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
 - [Most incoming students do not understand that placement test performance determines which classes they can take](students-unaware-placement-stakes.md) — related
 - [On the live single-node deployment, short-answer rounds take ≈32 s (≈$0.015/round) while multiple-choice rounds are ≈4× faster (≈7.6 s, ≈$0.005/round) because grading is deterministic](collearn-latency-cost-efficiency.md) — related
+- [Feedback neutralizes the effect of prior study on final cued recall performance](feedback-neutralizes-prior-study-effects.md) — related
+- [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](feedback-reduces-lure-intrusions.md) — related
+- [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related

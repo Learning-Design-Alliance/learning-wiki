@@ -72,3 +72,4 @@ Three-way interaction analysis including Treatment, pre-intervention exam score,
 - [Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains](exploratory-profile-interaction-ai-gains.md) — related
 - [Accounting for learning behavior attenuates profile-related exam score differences, eliminating significance in Python](learning-behavior-attenuates-profile-score-differences.md) — related
 - [Learning gains were uncorrelated with prior self-reported AI literacy and database literacy, suggesting AI integration benefited students irrespective of prior perceptions](gains-uncorrelated-with-prior-literacy.md) — reports the opposite
+- [Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)](prior-knowledge-moderates-feeling-of-learning-accuracy.md) — related

@@ -59,9 +59,11 @@ Skimming works because it activates relevant prior knowledge and gives readers a
 6. Debrief: what did the skim predict correctly? What surprised you? This builds the skimming skill itself.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the skim's main cognitive payoff is activation; this strategy extends it
 - [Annotating](../principles/annotating.md) — the natural close-read follow-on, guided by questions generated during the skim
 - [Advance Organizers](../elements/advance-organizers.md) — the skim functions as a self-generated organizer drawn from the text itself
+- [Offer a structured advance organizer before the full article for readers who benefit from one](structured-advance-organizer-appendix-strategy.md)
 
 ## Examples
 - **SQ3R (Robinson, 1946)** — the classic study routine whose first two steps (Survey, Question) are a structured pre-reading skim; still widely taught in academic study-skills courses.

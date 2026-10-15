@@ -68,3 +68,4 @@ The review attributes to Kumar et al.'s systematic review of 72 primary studies 
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [SRL skills and prior knowledge predict revision performance, while SRL predicts higher and prior knowledge lower cognitive load](learner-characteristics-predict-ai-collaboration-outcomes.md) — related
 - [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](boundary-conditions-verification-reliance-genai.md) — related
+- [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related

@@ -51,3 +51,4 @@ School-level comparison of second-semester ninth grade attendance across CPS hig
 - [Unexcused absences quadruple from eighth to ninth grade, explaining most of the drop in grades and pass rates across all student groups](absences-quadruple-transition-explain-grade-drop.md) — related
 - [Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason](chronic-absence-hidden-by-average-daily-attendance.md) — related
 - [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related
+- [The school refusal-truancy dichotomy shows extensive overlap and heterogeneity](school-refusal-truancy-dichotomy-overlap.md) — a broader claim this one bears on

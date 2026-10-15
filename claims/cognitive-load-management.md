@@ -95,3 +95,4 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
 - [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-improves-learning.md) — related
+- [Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation](segmentation-expertise-reversal-dynamic-visualizations.md) — related

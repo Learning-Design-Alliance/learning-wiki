@@ -66,3 +66,4 @@ Resultados de impacto en sistemas, reportados a partir de grupos focales con lí
 - [Al finalizar el piloto, la mayoría de los coaches reportó satisfacción, apoyo y confianza para continuar usando el Modelo de Coaching Basado en Retos.](pr-coaching-pilot-coach-satisfaction-confidence.md) — related
 - [Los maestros del piloto valoraron el trabajo con coaches, confiaron en aplicar los aprendizajes y reportaron experiencias positivas.](pr-coaching-pilot-teacher-outcomes.md) — related
 - [En el piloto, la mitad de los coaches y la mayoría de los maestros ganaron micro-credenciales alineadas con sus retos de coaching.](pr-coaching-pilot-microcredential-earnings.md) — related
+- [El trabajo intergeneracional semanal entre alumnos de la UGR y residentes mayores ayuda a mantener su forma física y mental](trabajo-intergeneracional-aps-mayores-forma-fisica-mental.md) — related

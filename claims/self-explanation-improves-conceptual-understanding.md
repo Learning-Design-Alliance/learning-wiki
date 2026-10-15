@@ -203,3 +203,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — possibly the same claim (merge candidate)
 - [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study](self-explanation-far-transfer-geometry-classroom.md) — a narrower finding that bears on this claim
 - [Self-explanation improves abstract transfer of logical rules relative to no self-explanation](self-explanation-improves-abstract-transfer.md) — a narrower finding that bears on this claim
+- [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — related

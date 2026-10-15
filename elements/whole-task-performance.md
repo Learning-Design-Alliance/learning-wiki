@@ -84,6 +84,7 @@ Whole-task performance accelerates skill acquisition and transfer by embedding l
 - **[Georgia Tech Capstone Design](https://capstone.gatech.edu/)** — Students execute a complete design cycle where thermal, structural, and financial constraints must be balanced through iterative, interdependent decision-making.
 - **[Stanford Law School Mills Legal Clinic](https://law.stanford.edu/mills-legal-clinic/)** — Students handle real client matters, requiring the synthesis of legal research, negotiation, drafting, and ethical judgment in a single workflow.
 - [Have students develop and train AI agents and simulations in the domains they are learning, with validation and scaffolding](../strategies/students-train-ai-agents-and-simulations-strategy.md)
+- [Use simulated task environments for learning tasks so multimedia principles support inductive learning](../strategies/simulated-task-environments-inductive-learning-strategy.md)
 
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum Associates. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)

@@ -48,6 +48,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
 - [Select familiar contextual topics and age-appropriate materials when integrating AI into subject courses](familiar-contexts-and-age-appropriate-materials-integrated-ai.md)
+- [Embed subject-specific web credibility modules into existing courses rather than creating standalone courses](embed-subject-specific-credibility-modules.md)
 
 ## Examples
 -

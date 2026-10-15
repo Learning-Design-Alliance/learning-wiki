@@ -24,7 +24,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 24 claims (13 for, 11 mixed) · 28 studies (12 quant-synthesis, 5 causal, 5 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 28 report an effect size · 17 claims rest on one study
+> **Evidence** · 25 claims (14 for, 11 mixed) · 29 studies (12 quant-synthesis, 6 causal, 5 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 29 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -107,6 +107,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](../claims/explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) [+W] — attached 2026-10-07 from Üstündağ-Algın (2025), which proposed "Include explicit reading comprehension strategy instruction in university preparatory program curricula"; tests this page's relationship.
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](../claims/efl-students-positive-views-explicit-strategy-instruction.md) [+W] — attached 2026-10-07 from Üstündağ-Algın (2025), which proposed "Include explicit reading comprehension strategy instruction in university preparatory program curricula".
 - [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](../claims/teacher-modeling-internalizes-reading-strategies.md) [+W] — attached 2026-10-07 from Üstündağ-Algın (2025), which proposed "Include explicit reading comprehension strategy instruction in university preparatory program curricula".
+- [Instructed learners outperform all other condition groups in learning simple second language rules](../claims/instructed-learners-outperform-others-simple-rules.md) [+W] — attached 2026-10-15 from Peter Robinson (1996), which proposed "Make underlying rules salient to enable explicit learning of simple second language rules"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

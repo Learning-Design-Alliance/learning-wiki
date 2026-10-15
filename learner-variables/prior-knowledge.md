@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (51 for, 27 mixed, 8 against) · 74 studies (21 causal, 15 review, 10 associational, 9 theoretical, 7 design, 6 quant-synthesis, 6 qualitative), `q1`–`q4` · 10 of 74 report an effect size · 76 claims rest on one study
+> **Evidence** · 92 claims (56 for, 28 mixed, 8 against) · 79 studies (23 causal, 17 review, 11 associational, 9 theoretical, 7 design, 6 quant-synthesis, 6 qualitative), `q1`–`q4` · 10 of 79 report an effect size · 82 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -119,6 +119,12 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Biomedical causal knowledge improves novice diagnostic accuracy on cases using unfamiliar terminology](../claims/biomedical-causal-knowledge-improves-novice-diagnosis-unfamiliar-terminology.md) [+W] — learners who differ on it differ in outcomes
 - [Biomedical causal knowledge improves novice diagnostic accuracy on difficult cases with irrelevant findings](../claims/biomedical-causal-knowledge-improves-novice-diagnosis-irrelevant-findings.md) [+W] — learners who differ on it differ in outcomes
 - [Physicians revert to basic biomedical knowledge when faced with challenging clinical problems](../claims/physicians-revert-to-biomedical-knowledge-on-challenging-problems.md) [+M] — learners who differ on it differ in outcomes
+- [Experiment 5 showed superior performance for learners who had previously studied isolated elements followed by interacting elements instruction, supporting expertise as the key factor in the technique's benefits](../claims/experiment5-expertise-factor-isolated-interacting-benefit.md) [+M] — an instructional effect differs with it
+- [For novice learners of complex information, the isolated-interacting elements instructional method produces superior learning compared with conventional instruction presenting all interacting information throughout](../claims/isolated-interacting-elements-superior-for-novices.md) [+M] — an instructional effect differs with it
+- [Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)](../claims/prior-knowledge-moderates-feeling-of-learning-accuracy.md) [+M] — an instructional effect differs with it
+- [Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation](../claims/segmentation-expertise-reversal-dynamic-visualizations.md) [~M] — an instructional effect differs with it
+- [Students' expertise on the task may be an important prerequisite for accurate self-assessment](../claims/task-expertise-prerequisite-ssa-accuracy.md) [+M] — learners who differ on it differ in outcomes
+- [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](../claims/entrance-age-advantage-reflects-prior-skill-accumulation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

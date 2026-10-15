@@ -101,6 +101,7 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Use AI-enabled immersive virtual environments to enrich project-based learning in vocational design education](ai-ive-pbl-vocational-design-strategy.md)
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
 - [Case-based learning](case-based-learning.md) — alternative for decision-making goals where physical fidelity is unnecessary
+- [Use simulated task environments for learning tasks so multimedia principles support inductive learning](simulated-task-environments-inductive-learning-strategy.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

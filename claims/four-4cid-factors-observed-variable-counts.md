@@ -43,3 +43,4 @@ In the CFA model of FICSMath survey data (n=5,985), observed variables were inte
 
 ## Related Claims
 - [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — a broader claim this one bears on
+- [Four interrelated components are essential in blueprints for complex learning](four-components-essential-complex-learning-blueprints.md) — related

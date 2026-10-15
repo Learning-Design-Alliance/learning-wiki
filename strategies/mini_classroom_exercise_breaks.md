@@ -63,6 +63,7 @@ Brief aerobic activity acutely improves subsequent attention and executive funct
 - [Active learning](../principles/active-learning.md) — movement breaks are a minimal form of activity-based engagement; full active learning embeds cognition in the activity itself
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
+- [Use a multiple-baseline across-classrooms observation routine to monitor on-task behavior around classroom activity breaks](multiple-baseline-ontask-observation-strategy.md)
 
 ## Examples
 - **[Take 10!®](https://www.take10.net)** — Classroom-based physical activity program with 10-minute curriculum-linked activity routines for K–5; evaluated in multiple school studies.

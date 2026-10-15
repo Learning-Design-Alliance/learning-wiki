@@ -48,3 +48,4 @@ Theoretical reformulation in this narrative review, motivated because "Numerous 
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) — related
 - [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related
+- [The cognitive architecture has been used to design a variety of novel instructional procedures](architecture-generated-novel-instructional-procedures.md) — related

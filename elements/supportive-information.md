@@ -75,9 +75,11 @@ Supportive information reduces extraneous cognitive load by externalizing the "w
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling and coaching phases provide the conceptual scaffolding that functions as supportive information
 
 ## Examples
+
 - **4C/ID Model (Software Training)** — Sequences supportive information about logic (e.g., cell reference types in Excel) before requiring learners to build complex formulas.
 - **Harvard Business School Case Method** — Introduces analytical frameworks like Porter’s Five Forces as supportive information prior to the messy, open-ended case discussion.
 - **Medical PBL** — Provides diagnostic frameworks and decision-trees as supportive information before students are presented with undifferentiated clinical cases.
+- [Present supportive information in hypermedia systems to support elaboration and mindful abstraction](../strategies/hypermedia-supportive-information-elaboration-strategy.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1999). *Instructional-design theories and models: A new paradigm of instructional theory*. Lawrence Erlbaum Associates.

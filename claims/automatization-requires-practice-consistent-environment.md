@@ -47,3 +47,6 @@ In the Conclusion the review draws this as the second of three conclusions from 
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
 - [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — related
+- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](l2-morphosyntax-learning-highly-skill-specific.md) — related
+- [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](l2-skill-development-power-function-curve.md) — related
+- [Task repetition can be used as a form of integrative planning in language learning and teaching](task-repetition-integrative-planning.md) — related

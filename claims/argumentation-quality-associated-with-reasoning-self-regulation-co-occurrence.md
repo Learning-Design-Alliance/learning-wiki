@@ -59,3 +59,4 @@ The central statistic (d=1.96) is frequently the kind of number that gets over-r
 - [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related
 - [Word-frequency changes in reflections suggest a shift away from given-information-based strategies](word-frequency-shifts-in-reflections.md) — related
 - [Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions](instructional-decisions-hub-of-co-occurrence-structure.md) — related
+- [Student argument quality in the game showed limits: one group discarded a hypothesis despite evidence still partially supporting it](mercury-case-hypothesis-discarding-limit.md) — related

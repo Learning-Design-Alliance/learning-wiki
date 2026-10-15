@@ -50,3 +50,6 @@ The review attributes to Doshi and Hauser (2024) that LLM access "boosts individ
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — possibly the same claim (merge candidate)
 - [LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use](llm-assistance-enhances-employee-creativity.md) — related
 - [AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding)](ai-creativity-individual-gain-collective-diversity-loss.md) — possibly the same claim (merge candidate)
+- [GenAI access disproportionately benefits less inherently creative writers, equalizing creativity scores across writers](genai-benefits-less-creative-writers-most.md) — possibly the same claim (merge candidate)
+- [GenAI-enabled stories are more similar to the GenAI ideas and to other stories in their condition, reducing collective diversity of novel content](genai-stories-more-similar-reduced-diversity.md) — a narrower finding that bears on this claim
+- [Writers themselves perceive no creativity benefit from GenAI access even though evaluators do](writers-self-assessments-show-no-genai-benefit.md) — reports the opposite

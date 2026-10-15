@@ -53,3 +53,4 @@ Descriptive analysis of no-credit grade rates by student background among 223,09
 - [Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
 - [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — related
 - [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
+- [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — possibly the same claim (merge candidate)

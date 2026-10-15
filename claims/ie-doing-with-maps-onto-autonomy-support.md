@@ -50,3 +50,4 @@ Conceptual comparison from the article's autonomy section: doing things to peopl
 - [IE and SDT share common roots in humanistic psychology's rejection of behaviorism](ie-sdt-common-humanistic-roots.md) — related
 - [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — related
 - [The seven levers can describe environments for robust understanding with or without AI, mapping onto the TRU dimensions](levers-map-to-tru-dimensions.md) — related
+- [Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies](autonomy-support-training-effective-d63.md) — related

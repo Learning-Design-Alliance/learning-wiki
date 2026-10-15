@@ -50,3 +50,4 @@ Qualitative case analysis of four exemplar threads selected from 50 coded thread
 - [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](student-generated-hidden-curriculum-sns.md) — a broader claim this one bears on
 - [Students exemplified discovered clues when explaining their designs orally](students-exemplified-clues-orally.md) — related
 - [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](thread-structure-designerly-talk-corpus.md) — related
+- [Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education](facebook-myriad-educational-uses-higher-education.md) — a broader claim this one bears on

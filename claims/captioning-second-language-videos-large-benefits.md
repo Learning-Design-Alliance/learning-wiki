@@ -47,3 +47,4 @@ Synthesis of the Montero Perez et al. (2013) meta-analysis, which the authors ra
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — related
 - [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — related
+- [Captioned-video groups significantly outperform a no-captioning control on form recognition and clip association of target words, with no differences among captioning types](captions-support-form-recognition-clip-association.md) — a narrower finding that bears on this claim

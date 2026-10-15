@@ -57,3 +57,4 @@ This is a single-institution, single-curriculum case study without a control gro
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related
 - [Instructional materials authored by a single instructor via the pipeline were peer-reviewed and successfully deployed by six different professors, suggesting tacit knowledge was translated into reusable teaching assets.](single-author-materials-deployed-by-six-professors.md) — related
 - [Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer](teacher-intervention-escalation-ladder.md) — related
+- [The evidence supporting curricular interventions to promote reflection in health professional education remains largely theoretical](reflection-curricular-evidence-largely-theoretical.md) — related

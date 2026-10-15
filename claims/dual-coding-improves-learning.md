@@ -158,3 +158,4 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — related
 - [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — related
 - [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related
+- [Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related

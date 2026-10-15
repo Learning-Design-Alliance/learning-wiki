@@ -97,3 +97,4 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 - [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](ses-differences-access-academically-auspicious-environments.md) — related
 - [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related
 - [The quality rather than the quantity of interactional modifications predicts comprehensible input](interaction-quality-over-quantity.md) — related
+- [Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership](conversational-narration-style-large-learning-effect.md) — related

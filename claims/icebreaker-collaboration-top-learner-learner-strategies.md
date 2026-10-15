@@ -1,0 +1,50 @@
+---
+type: claim
+title: Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies
+description: Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies
+id: icebreaker-collaboration-top-learner-learner-strategies
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-15
+evidence_strength: moderate
+sources:
+  - id: martin-2018
+    resource: "https://doi.org/10.24059/olj.v22i1.1092"
+    title: "Martin, F., & Bolliger, D. U. (2018). Engagement Matters: Student Perceptions on the Importance of Engagement Strategies in the Online Learning Environment. Online Learning, 22(1). https://doi.org/10.24059/olj.v22i1.1092"
+    author: "Martin, F., & Bolliger, D. U."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: "?"
+---
+
+# Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r?` · `q2`
+
+## Subclaims
+`q2 i?` In the learner-to-learner category, icebreaker/introduction discussions and working collaboratively using online communication tools were rated most beneficial. [→ Martin 2018](#martin-2018)
+
+## Evidence
+
+### Martin 2018
+
+Martin, F., & Bolliger, D. U. (2018). Engagement Matters: Student Perceptions on the Importance of Engagement Strategies in the Online Learning Environment. Online Learning, 22(1). https://doi.org/10.24059/olj.v22i1.1092
+
+`q2 · i?` · `associational · r?`
+
+Student ratings from the 155-respondent survey identified the top learner-to-learner strategies: "Icebreaker/introduction discussions and working collaboratively using online communication tools." No effect size or ranking statistics are printed in the available text.
+
+> "Icebreaker/introduction discussions and working collaboratively using online communication tools was rated the most beneficial engagement strategy in the learner-to-learner category"
+
+## Discussion
+
+
+## Related Claims
+- [Students rated regular announcements/e-mail reminders and grading rubrics for all assignments as the most beneficial learner-to-instructor strategies](announcements-rubrics-top-learner-instructor-strategies.md) — related
+- [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related
+- [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](collaboration-interest-belonging-worse-online.md) — related
+- [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — related
+- [Online tools are extending STEM PLCs, with skilled facilitators, collaborative tools, and stable platforms identified as key components](online-stem-plcs-growing-phenomenon.md) — related

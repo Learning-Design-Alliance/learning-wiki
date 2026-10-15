@@ -54,3 +54,4 @@ RQ2 thematic analysis found ethical acceptability framed around whether GenAI us
 - [Human epistemic accountability operates as a boundary condition with three tests: contestability, provenance, and non-delegation of moral and intellectual credit](human-epistemic-accountability-boundary-conditions.md) — a broader claim this one bears on
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](genai-self-scaffold-versus-outsourcing.md) — related
 - [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
+- [Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators](evaluator-limits-on-acceptable-genai-use.md) — related

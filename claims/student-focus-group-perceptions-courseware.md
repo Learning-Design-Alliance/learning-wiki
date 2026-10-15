@@ -46,3 +46,4 @@ Online focus groups with 34 students from five institutions (about three-quarter
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
 - [About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness](instructor-involvement-supports-courseware-use.md) — related
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — related
+- [Studies in which students used familiar online-learning software reported positive achievement effects during school closures](covid-closures-positive-effects-online-software.md) — related

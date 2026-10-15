@@ -104,3 +104,5 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 - [Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness](persistent-incorrect-trust-cue-beliefs.md) — related
 - [Humanizer legitimacy performances show leakage: unendorsed logos, inactive social media, and no registered business address](humanizer-frontstage-leakage.md) — related
 - [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communication reduce overreliance on AI and improve decision quality, but have been evaluated only as short-term single-session interventions](reflective-strategies-short-term-only-evidence.md) — related
+- [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](lateral-reading-increased-post-intervention.md) — related
+- [Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages](surface-strategies-declined-after-modules.md) — related

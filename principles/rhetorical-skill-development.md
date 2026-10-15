@@ -27,7 +27,7 @@ sources:
 # Rhetorical Skill Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 21 studies (6 causal, 6 quant-synthesis, 4 theoretical, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 21 report an effect size · 10 claims rest on one study
+> **Evidence** · 17 claims (13 for, 4 mixed) · 22 studies (7 causal, 6 quant-synthesis, 4 theoretical, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,8 @@ Evidence the page cites or touches that is not part of the model above.
 - [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) — a theory page, not a claim (the folded Cyphert page cited it with `[+M]`): Giroux's critical pedagogy read as rhetorical education; its own page says it is one interpretation, not an empirically tested model. It is the framework behind steps 1 and 2.
 - [The PS-GenAI-PF group outperformed the PF group on rebuttal data and warrant and on addressing the opposing view](../claims/ps-genai-pf-improves-rebuttals-and-opposing-view.md) [~W] and [Most individual argument structure and quality dimensions showed no significant differences across the three peer feedback conditions](../claims/null-results-argument-dimensions-genai-peer-feedback.md) [~W] — one 2026 study of collaborative argumentation comparing peer feedback with and without generative-AI support: the AI-supported arms scored higher on rebuttals and on addressing the opposing view, and most other dimensions, persuasiveness among them, did not differ. It bears on how peer response on arguments is supported, not on rhetorical-choice teaching, and has not been read against step 8.
 - [Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants](../claims/llm-as-a-judge-twelve-bias-types.md) [+W]
+- [Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs](../claims/duplicating-reader-experiences-meets-informational-needs.md) [+W] — attached 2026-10-15 from Holliway et al. (2004), which proposed "Give young writers tasks that duplicate their readers' experiences to improve audience-aware revision".
+- [Reading-as-the-reader perspective-taking improves young writers' revision and new drafting of descriptive essays in both 5th and 9th grade](../claims/reading-as-the-reader-improves-revision-and-drafting.md) [+W] — attached 2026-10-15 from Holliway et al. (2004), which proposed "Give young writers tasks that duplicate their readers' experiences to improve audience-aware revision".
 
 ## Objective and learner-valued goal
 

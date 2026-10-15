@@ -40,6 +40,10 @@ The article's four suggestions for further research. Inequality literature "can 
 ### Claims
 - [Cultural Processes And Epistemic Injustice Explain Educational Inequality](../claims/cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) [+W]
 
+## Related Strategies
+
+- [Evaluate student-voice initiatives with a framework of key questions on institutional conditions](key-questions-institutional-conditions-student-voice.md)
+
 ## Related Principles
 
 - [Epistemic Injustice](../theories/epistemic-injustice.md)

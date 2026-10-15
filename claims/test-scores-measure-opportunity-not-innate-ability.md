@@ -49,3 +49,4 @@ Theoretical argument in the guide's 'What do test scores measure?' section, citi
 - [A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey](relative-age-effect-talent-selection-bias.md) — related
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
 - [Early training produces neural and physiological adaptations that can be misattributed to innate talent](early-training-adaptations-misread-as-talent.md) — a narrower finding that bears on this claim
+- [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](entrance-age-advantage-reflects-prior-skill-accumulation.md) — a narrower finding that bears on this claim

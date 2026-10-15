@@ -182,6 +182,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](../strategies/collaborative-human-ai-revision-design.md)
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](../strategies/assessment-design-levers-visible-learning-traces.md)
 - In the source study, an argumentative essay task ("is growing dependence on computers/the internet good or bad?") assigned to university students under this planning condition showed a significant increase in self-rated topic understanding among students whose sentence production was spontaneous, compared to those under a full outline-planning condition.
+- [Use a reading-as-the-reader activity in which writers re-read text from the reader's perspective before revising](../strategies/reading-as-the-reader-activity.md)
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.

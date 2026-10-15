@@ -120,3 +120,4 @@ Meta-analysis of the segmenting effect covering "56 investigations including 88 
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — related
 - [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — a broader claim this one bears on
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
+- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — a narrower finding that bears on this claim

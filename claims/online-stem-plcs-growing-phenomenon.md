@@ -46,3 +46,4 @@ Synthesis review of articles and expert-panel comments on virtual PLCs, where ST
 - [Existing STEM PLC research is methodologically weak by Standards of Evidence review, with no studies rated adequate, but collectively builds a supportive case for valued PLC effects](stem-plc-research-methodological-rigor-weak.md) — related
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
 - [Published policy statements and expert advice universally recommend STEM PLCs, with cautions against superficial definition and implementation](stem-plcs-universally-recommended.md) — related
+- [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](icebreaker-collaboration-top-learner-learner-strategies.md) — related

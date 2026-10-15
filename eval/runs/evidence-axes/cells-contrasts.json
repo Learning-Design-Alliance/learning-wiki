@@ -32042,5 +32042,533 @@
  "interleaving\tblocking\tmixing": {
   "label": "interleaving vs blocking",
   "treatment_is_a": false
+ },
+ "active-learning\tPeer Instruction\ttraditional teaching": {
+  "label": "Peer Instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction at other institutions\tinteractive-engagement course benchmark": {
+  "label": "Peer Instruction vs interactive-engagement course benchmark",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction course\tpre-course baseline": {
+  "label": "Peer Instruction vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction in 1991\ttraditional instruction in 1990": {
+  "label": "Peer Instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive classroom instruction\tpassive lecture": {
+  "label": "Active classroom instruction vs passive lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive instruction with group problem solving\tpassive lecture": {
+  "label": "Group problem solving vs passive lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive instruction with small-group problem solving\tpassive lecture with instructor-led solutions": {
+  "label": "Group problem solving vs passive lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive instruction with small-group problem solving before solutions\tpassive lecture presenting solutions": {
+  "label": "Problem solving before solutions vs solutions-first lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup activities with educational or support input\tcomparison conditions": {
+  "label": "Group activities with educational or support input vs comparison conditions",
+  "treatment_is_a": true
+ },
+ "active-learning\ticebreaker/introduction discussions and collaborative work using online communication tools\tother learner-to-learner engagement strategies": {
+  "label": "Online collaborative engagement vs other learner-to-learner engagement",
+  "treatment_is_a": true
+ },
+ "active-learning\topen and democratic classroom climate with discussion and dialogue\tless open or less democratic classroom climate": {
+  "label": "Open and democratic discussion climate vs less open or less democratic climate",
+  "treatment_is_a": true
+ },
+ "active-learning\topen and democratic classroom climate with discussion and dialogue\tother classroom climates": {
+  "label": "Open and democratic discussion climate vs other classroom climates",
+  "treatment_is_a": true
+ },
+ "active-learning\tpredict demonstration outcome\tobserve demonstration without prediction or discussion": {
+  "label": "Prediction demonstration vs observation without prediction or discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tpredict demonstration outcome and discuss afterward\tobserve demonstration without prediction or discussion": {
+  "label": "Prediction-and-discussion demonstration vs observation without prediction or discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\trefined Peer Instruction implementations in 1993–1997\tearlier Peer Instruction implementation": {
+  "label": "Refined Peer Instruction vs earlier Peer Instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tvideo more interactive than control\tcontrol condition with less interactivity": {
+  "label": "More interactive video vs less interactive control",
+  "treatment_is_a": true
+ },
+ "active-learning\tvideo with equivalent interactivity to control\tcontrol condition with equivalent interactivity": {
+  "label": "Equivalent-interactivity video vs equivalent-interactivity control",
+  "treatment_is_a": true
+ },
+ "active-learning\tvideo with less interactivity than control\tcontrol condition afforded more interactivity": {
+  "label": "More interactive video vs less interactive control",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tautonomy-support training programs\tcontrol or comparison conditions": {
+  "label": "autonomy-supportive training vs control/comparison",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive training program\tcomparison condition": {
+  "label": "autonomy-supportive training vs comparison condition",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive training program\tcontrol or no training": {
+  "label": "autonomy-supportive training vs control/no training",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive training programs\tcomparison conditions": {
+  "label": "autonomy-supportive training vs comparison condition",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner-controlled pacing with slide advance and repetition\tfixed fast- or slow-paced presentation without learner control": {
+  "label": "learner-controlled pacing vs fixed pacing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\textensive FFI directed at simple structures\tless extensive or absent FFI": {
+  "label": "extensive explicit instruction vs less extensive or absent instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour asynchronous course-embedded modules on evaluating online sources\tpre-intervention baseline": {
+  "label": "course-embedded instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour asynchronous course-embedded modules teaching fact-checking strategies\tpretest before the modules": {
+  "label": "course-embedded instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour asynchronous course-embedded modules with instruction, cognitive modeling, and practice\tpretest before the modules": {
+  "label": "course-embedded instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour asynchronous modules emphasizing lateral reading\tpretest before the modules": {
+  "label": "course-embedded instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour course-embedded instructional modules\tpre-intervention assessment": {
+  "label": "course-embedded instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructed training\timplicit, incidental, and rule-search training": {
+  "label": "instructed training vs implicit or incidental training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlimited FFI directed at complex structures with target structures available in noninstructional input\tless effective or absent FFI": {
+  "label": "limited explicit instruction vs less effective or absent instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodules modeling and practicing lateral reading\tpre-intervention baseline": {
+  "label": "course-embedded instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodules teaching and modeling lateral reading\tpretest before instruction": {
+  "label": "course-embedded instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprocessing instruction\ttraditional form-focused instruction": {
+  "label": "processing instruction vs traditional form-focused instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional instruction\tpretest before instruction": {
+  "label": "traditional instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdelayed feedback\tno feedback": {
+  "label": "delayed feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdelayed feedback across prior-study conditions\tno feedback across prior-study conditions": {
+  "label": "delayed feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback on the multiple-choice test\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\timmediate feedback\tno feedback": {
+  "label": "immediate feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\timmediate or delayed feedback\tno feedback": {
+  "label": "immediate or delayed feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdifferent types of oral corrective feedback\tother feedback types or not stated": {
+  "label": "oral corrective feedback vs other feedback or no stated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdifferent types of oral corrective feedback\tother types of oral corrective feedback": {
+  "label": "one type of oral corrective feedback vs another type of oral corrective feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback about grading bias\tbefore receiving feedback about grading bias": {
+  "label": "grading-bias feedback vs no grading-bias feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback about grading bias\tnot stated": {
+  "label": "grading-bias feedback vs no grading-bias feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback about students' grading bias\tno stated bias feedback": {
+  "label": "students' grading-bias feedback vs no grading-bias feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\trecasts\tnot stated": {
+  "label": "recasts vs no stated recasts or other feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tshort customizable feedback snippets\tno stated snippets or standard feedback": {
+  "label": "customizable feedback snippets vs standard or no stated snippets",
+  "treatment_is_a": true
+ },
+ "gamification\tdigital game-based learning gameplay\tcommunication without gameplay or pre-game experience": {
+  "label": "gameplay vs no gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tdigital game-based learning gameplay\tlearning without gameplay or pre-game experience": {
+  "label": "gameplay vs no gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tdigital gameplay\tnot stated": {
+  "label": "gameplay vs no gameplay",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tfacilitated complex problem solving\ttraditional lecture and practice": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tproductive failure (PF), without instructional facilitation\tfacilitated complex problem solving (FCPS)": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": false
+ },
+ "guided-discovery\tproductive failure without instructional facilitation\tfacilitated complex problem solving": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": false
+ },
+ "interleaving\talternating-trivia interleaving\tgrouped-trivia interleaving": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tcontiguous interleaved exemplars\tcontiguous blocked exemplars": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved exemplars\tblocked exemplars": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved, contiguous exemplars\tblocked, contiguous exemplars": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved, spaced exemplars\tblocked, spaced exemplars": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tparticipants judging blocking as more helpful\tchance-level preference": {
+  "label": "blocking judged more helpful vs chance-level preference",
+  "treatment_is_a": true
+ },
+ "interleaving\tspaced interleaved exemplars\tspaced blocked exemplars": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "media-design\t9- to 12-minute videos\t12- to 40-minute videos": {
+  "label": "shorter videos vs longer videos",
+  "treatment_is_a": true
+ },
+ "media-design\tanimated graphic visualizations\tstatic graphic visualizations": {
+  "label": "animated graphics vs static graphics",
+  "treatment_is_a": true
+ },
+ "media-design\tanimated graphics\tstatic graphics": {
+  "label": "animated graphics vs static graphics",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation coupled with auditory commentary\tstatic graphics": {
+  "label": "animation with auditory commentary vs static graphics",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation that learners could pause\tnon-segmented animation without learner control": {
+  "label": "pause-controlled animation vs non-segmented animation without learner control",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation that learners could pause\tnon-segmented audio-only version": {
+  "label": "pause-controlled animation vs non-segmented audio-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation without accompanying text\tstatic graphics": {
+  "label": "animation without accompanying text vs static graphics",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation without accompanying text\tstatic graphics with accompanying text": {
+  "label": "animation without text vs static graphics with text",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation without accompanying text\tstatic graphics without accompanying text": {
+  "label": "animation without text vs static graphics without text",
+  "treatment_is_a": true
+ },
+ "media-design\tauditory narration with complementary visual information\tsingle-channel or less complementary video presentation": {
+  "label": "auditory narration with complementary visual information vs less-complementary presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tauditory narration with complementary visual information\tvisual information paired with redundant printed text or verbal-only presentation": {
+  "label": "auditory narration with complementary visual information vs redundant-text or verbal-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tcaptioned video conditions\tno-captioning condition": {
+  "label": "captioned video vs non-captioned video",
+  "treatment_is_a": true
+ },
+ "media-design\tcaptioned video groups\tno-captioning control": {
+  "label": "captioned video vs non-captioned video",
+  "treatment_is_a": true
+ },
+ "media-design\tcommercials inserted between event boundaries\tanother version of the episode": {
+  "label": "commercials inserted between event boundaries vs no inserted commercials",
+  "treatment_is_a": true
+ },
+ "media-design\tconversational language\tformal language": {
+  "label": "conversational language vs formal language",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic visualization with key frames\tdynamic visualization without key frames": {
+  "label": "dynamic visualization with key frames vs dynamic visualization without key frames",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic visualization with key frames\tkey frames without dynamic visualization": {
+  "label": "dynamic visualization with key frames vs static key frames",
+  "treatment_is_a": true
+ },
+ "media-design\tevent boundaries replaced by 1-s black screens\tparts between event boundaries replaced by 1-s black screens": {
+  "label": "event-boundary black screens vs inter-event black screens",
+  "treatment_is_a": true
+ },
+ "media-design\tevent boundaries replaced by 1-s black screens\tunaltered video": {
+  "label": "event-boundary black screens vs unaltered video",
+  "treatment_is_a": true
+ },
+ "media-design\tfaster speaking rate\tslower speaking rate": {
+  "label": "faster speaking rate vs slower speaking rate",
+  "treatment_is_a": true
+ },
+ "media-design\tkey frames revealed sequentially and then kept visible\tall key frames revealed at the beginning": {
+  "label": "sequentially revealed and retained key frames vs all key frames revealed initially",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia stories\tinteractive stories": {
+  "label": "multimedia stories vs interactive stories",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia stories with interactive features\ttraditional story presentations": {
+  "label": "interactive multimedia stories vs traditional story presentations",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-enhanced stories\tonly orally presented stories": {
+  "label": "multimedia-enhanced stories vs orally presented stories",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-enhanced stories\tstories with static illustrations": {
+  "label": "multimedia-enhanced stories vs stories with static illustrations",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-enhanced stories\ttraditional story presentations": {
+  "label": "multimedia-enhanced stories vs traditional story presentations",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-enhanced stories with animated pictures, music, and sound effects\ttraditional story presentations": {
+  "label": "multimedia-enhanced stories with animation, music, and sound effects vs traditional story presentations",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-interactive technology-enhanced stories\ttraditional story-sharing activities": {
+  "label": "interactive multimedia technology-enhanced stories vs traditional story-sharing activities",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia-only technology-enhanced stories\ttraditional story-sharing activities": {
+  "label": "multimedia-only technology-enhanced stories vs traditional story-sharing activities",
+  "treatment_is_a": true
+ },
+ "media-design\tschematic serious games\tcartoon-like or realistic serious games": {
+  "label": "schematic serious games vs cartoon-like or realistic serious games",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmented animation\tnon-segmented animation without learner control": {
+  "label": "segmented animation vs non-segmented animation without learner control",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmented animation\tnon-segmented audio-only version": {
+  "label": "segmented animation vs non-segmented audio-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmented animations with automatic 2-second pauses\tnon-segmented animations": {
+  "label": "segmented animation with automatic pauses vs non-segmented animation",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmented classroom video or animation\tnon-segmented version": {
+  "label": "segmented video or animation vs non-segmented presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmented videos, including short videos or click-forward pauses\tunsegmented videos": {
+  "label": "segmented video vs unsegmented video",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaling to highlight important information\tno signaling": {
+  "label": "signaling vs no signaling",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaling to highlight important information in video\tno signaling": {
+  "label": "signaling in video vs no signaling",
+  "treatment_is_a": true
+ },
+ "media-design\tstories with interactive elements such as hotspots, games, and dictionaries\ttraditional story presentations": {
+  "label": "interactive multimedia stories vs traditional story presentations",
+  "treatment_is_a": true
+ },
+ "media-design\tsystem-paced animation\tstatic graphics": {
+  "label": "animated graphics vs static graphics",
+  "treatment_is_a": true
+ },
+ "media-design\ttechnology-enhanced stories\ttraditional print-like story presentations": {
+  "label": "technology-enhanced stories vs traditional print-like story presentations",
+  "treatment_is_a": true
+ },
+ "media-design\ttechnology-enhanced stories\ttraditional storybook reading": {
+  "label": "technology-enhanced stories vs traditional storybook reading",
+  "treatment_is_a": true
+ },
+ "media-design\tvideos less than 6 minutes\t12- to 40-minute videos": {
+  "label": "shorter videos vs longer videos",
+  "treatment_is_a": true
+ },
+ "media-design\tvideos less than 6 minutes\t9- to 12-minute videos": {
+  "label": "shorter videos vs longer videos",
+  "treatment_is_a": true
+ },
+ "media-design\tweeding extraneous information\textraneous information retained": {
+  "label": "weeding extraneous information vs retaining extraneous information",
+  "treatment_is_a": true
+ },
+ "practice-amount\tESL support including 750 contact hours\tless or no ESL support": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tMBIs with more total training hours\tMBIs with fewer total training hours": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\textensive form-focused instruction\tlimited form-focused instruction": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\textensive form-focused instruction directed at simple structures\tother instruction conditions": {
+  "label": "more vs other instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger total game-play duration\tshorter total game-play duration": {
+  "label": "longer vs shorter practice duration",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlow intensity book-sharing intervention\tcontrol condition": {
+  "label": "low-intensity intervention vs control",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmedium-to-high intensity book-sharing intervention\tcontrol condition": {
+  "label": "medium-to-high-intensity intervention vs control",
+  "treatment_is_a": true
+ },
+ "practice-amount\tprior study without feedback\tno study without feedback": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure (PF)\tlecture and practice (LP)": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproductive failure: complex problem solving before consolidation\tlecture and practice": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "prompts\teight guiding questions while watching a social psychology video\twatching the video with no special instructions": {
+  "label": "guiding questions vs no prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinitial multiple-choice test with no feedback\tno initial test": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tinterpolated questions between video lectures\tunrelated arithmetic problems between video lectures": {
+  "label": "retrieval practice vs unrelated activity",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tno-study–no-feedback multiple-choice test\tno-study–no-test control": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tprior lure exposure\tno-test condition": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcaregiver shared-picture-book intervention\tcontrol condition": {
+  "label": "scaffolding vs control",
+  "treatment_is_a": true
+ },
+ "scaffolding\tenhanced scaffolding game design\tstandard game design": {
+  "label": "enhanced scaffolding vs standard scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmediational strategy\tgraduated prompt": {
+  "label": "mediational strategy vs graduated prompt",
+  "treatment_is_a": true
+ },
+ "scaffolding\tspecific game features in Mad City Mystery\tmost inquiry-based learning environments": {
+  "label": "specific scaffolding features vs typical inquiry-based environments",
+  "treatment_is_a": true
+ },
+ "spacing\tCCT delivered 2–3 times per week\tcontrol condition": {
+  "label": "CCT delivered 2–3 times per week vs control condition",
+  "treatment_is_a": true
+ },
+ "spacing\tCCT delivered more than 3 times per week\tcontrol condition": {
+  "label": "CCT delivered more than 3 times per week vs control condition",
+  "treatment_is_a": true
+ },
+ "spacing\tCCT delivered once per week\tcontrol condition": {
+  "label": "CCT delivered once per week vs control condition",
+  "treatment_is_a": true
+ },
+ "spacing\tgrouped trivia between exemplar groups\talternating trivia between successive exemplars": {
+  "label": "Grouped trivia vs alternating trivia",
+  "treatment_is_a": true
+ },
+ "spacing\tlarge spacing between exemplars\tsmall spacing between exemplars": {
+  "label": "Larger spacing vs smaller spacing",
+  "treatment_is_a": true
+ },
+ "spacing\tmore than three training sessions per week\tthree or fewer sessions per week": {
+  "label": "More than three training sessions per week vs three or fewer sessions per week",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced presentation of blocked exemplars\tcontiguous presentation of blocked exemplars": {
+  "label": "Spaced presentation vs contiguous presentation",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced, blocked exemplars\tcontiguous, blocked exemplars": {
+  "label": "Spaced presentation vs contiguous presentation",
+  "treatment_is_a": true
+ },
+ "test-format\tno-feedback multiple-choice test\tno-test control": {
+  "label": "multiple-choice test vs no test",
+  "treatment_is_a": true
  }
 }

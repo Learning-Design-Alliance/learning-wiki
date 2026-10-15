@@ -37,7 +37,8 @@ The article's forward-looking recommendation is that future research on hypermed
 - Improving research designs for determining hypermedia learning effectiveness
 
 ## Related Strategies
-- 
+
+- [Present supportive information in hypermedia systems to support elaboration and mindful abstraction](hypermedia-supportive-information-elaboration-strategy.md)
 
 ## Examples
 -

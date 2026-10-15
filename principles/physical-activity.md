@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 18 studies (8 causal, 4 review, 3 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 18 report an effect size · 9 claims rest on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 19 studies (9 causal, 4 review, 3 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,9 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [After a researcher presentation on brain breaks, an estimated 80-90 percent of one school's teachers implemented the breaks in their classrooms](../claims/brain-breaks-teacher-adoption-after-presentation.md) [+W] — a principal's estimate in one school's case report; bears on teacher adoption of breaks, not on their effect.
 - [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](../claims/playworks-rct-more-vigorous-recess-activity.md) [+M] — the same programme evaluation, measuring how active recess was (accelerometers, teacher surveys); it shows organised recess raises activity, not learning or behavior in class.
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](../claims/nature-exposure-reduces-learner-stress.md) [~W] — a review reporting lower heart rate and stress with green window views, and healthier cortisol rhythms in forest schooling that the review says could not be attributed to physical activity; bears on outdoor active breaks only as a reminder that setting and movement are separate causes.
+- [A classroom-based physical activity program (Energizers) increases children's daily in-school physical activity compared with no program](../claims/energizers-increased-in-school-steps.md) [+W] — attached 2026-10-15 from Mahar et al. (2006), which proposed "Integrate short physical activity breaks into classroom instruction to raise physical activity and on-task behavior"; tests this page's relationship.
+- [Systematic implementation of Energizers improves on-task behavior during academic instruction in third- and fourth-grade students](../claims/energizers-improved-on-task-behavior.md) [+W] — attached 2026-10-15 from Mahar et al. (2006), which proposed "Integrate short physical activity breaks into classroom instruction to raise physical activity and on-task behavior"; tests this page's relationship.
+- [The least on-task students show the largest improvement after Energizers activities, improving on-task behavior by 20%](../claims/energizers-least-on-task-students-largest-gain.md) [+W] — attached 2026-10-15 from Mahar et al. (2006), which proposed "Integrate short physical activity breaks into classroom instruction to raise physical activity and on-task behavior".
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

@@ -1,0 +1,59 @@
+---
+type: claim
+title: Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes
+description: Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes
+id: mbis-small-positive-effects-all-rcts-youth
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-15
+evidence_strength: moderate
+sources:
+  - id: dunning-2019
+    resource: "https://doi.org/10.1111/jcpp.12980"
+    title: "Dunning, D. L., Griffiths, K., Kuyken, W., Crane, C., Foulkes, L., Parker, J., & Dalgleish, T. (2019). Research Review: The effects of mindfulness-based interventions on cognition and mental health in children and adolescents – a meta-analysis of randomized controlled trials. Journal of Child Psychology and Psychiatry. https://doi.org/10.1111/jcpp.12980"
+    author: "Dunning, D. L., Griffiths, K., Kuyken, W., Crane, C., Foulkes, L., Parker, J., & Dalgleish, T."
+    q: 3
+    i: "?"
+    kind: quant-synthesis
+    rigour: 3
+---
+
+# Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+
+## Subclaims
+`q3 i?` Across all 33 RCTs, MBI participants improved significantly more than controls on Mindfulness, Executive Functions, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes ranging from .16 to .30. [→ Dunning 2019](#dunning-2019)
+
+## Evidence
+
+### Dunning 2019
+
+Dunning, D. L., Griffiths, K., Kuyken, W., Crane, C., Foulkes, L., Parker, J., & Dalgleish, T. (2019). Research Review: The effects of mindfulness-based interventions on cognition and mental health in children and adolescents – a meta-analysis of randomized controlled trials. Journal of Child Psychology and Psychiatry. https://doi.org/10.1111/jcpp.12980
+
+`q3 · i?` · `quant-synthesis · r3`
+
+Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents, with outcomes categorized into cognitive, behavioural and emotional factors. The review reports "significant positive effects of MBIs, relative to controls" with small Cohen's d values ranging from .16 to .30; no single standardized effect size is printed for the overall finding.
+
+> "Across all RCTs we found significant positive effects of MBIs, relative to controls, for the outcome categories of Mindfulness, Executive Functioning, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes (Cohen’s d), ranging from .16 to .30."
+
+## Discussion
+
+
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
+## Related Claims
+- [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related
+- [Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest](control-group-type-moderates-mbi-effects.md) — related
+- [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](active-control-rcts-benefits-restricted.md) — a narrower finding that bears on this claim
+- [Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects](publication-bias-mbi-youth-rcts.md) — related
+- [Total training hours significantly moderate MBI effects on negative behaviour across all RCTs, with more hours associated with larger reductions](training-dose-moderates-negative-behaviour.md) — related
+- [A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — a broader claim this one bears on
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — related
+- [Mindfulness interventions consisting of combinations of various mindfulness activities show the largest effects on youth mental health and well-being](mindfulness-activity-combinations-largest-effects.md) — a narrower finding that bears on this claim
+- [Mindfulness interventions in schools show the largest between-group effects for cognitive performance (g = 0.80) and smaller significant effects for stress (g = 0.39) and resilience (g = 0.36)](mindfulness-domain-effects-cognitive-stress-resilience.md) — reports the opposite
+- [Mindfulness interventions delivered during late adolescence (15–18) show the largest effects on youth mental health and well-being outcomes](mindfulness-late-adolescence-largest-effects.md) — a narrower finding that bears on this claim
+- [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related

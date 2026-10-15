@@ -79,3 +79,7 @@ The packet's rationale section asserts, citing Krashen (1981a), that "repetitive
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
 - [Grammar instruction and skill drills show little carryover to composition success](grammar-drills-little-carryover-composition.md) — related
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related
+- [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — reports the opposite
+- [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — reports the opposite
+- [Task repetition can be used as a form of integrative planning in language learning and teaching](task-repetition-integrative-planning.md) — related
+- [Traditional form-focused instruction produces significant gains in production but not in comprehension](traditional-instruction-gains-production-only.md) — related

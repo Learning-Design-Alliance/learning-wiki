@@ -59,9 +59,11 @@ Drawing is a generative activity: constructing an external visual representation
 6. Optionally, ask learners to revise their drawing after instruction to make conceptual change visible.
 
 ## Related Strategies
+
 - Think-Pair-Share — drawing can replace or precede the individual think phase, giving quieter students a concrete artifact to discuss
 - Exit tickets — a drawing prompt is a visual variant of the same quick formative check
 - Concept mapping — a structured, node-and-link cousin of free drawing that trades expressiveness for comparability
+- [Draw on diagnosed errors and misconceptions to inform the teaching of integration and limits](teach-integration-limits-from-diagnosed-misconceptions.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the drawings function as formative assessment evidence

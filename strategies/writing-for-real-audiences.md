@@ -62,10 +62,12 @@ Authentic audiences raise the stakes of writing and make rhetorical choices (ton
 6. Deliver the writing to the actual audience and debrief on how readers responded, feeding insights into the next cycle ([Feedback](../elements/feedback.md)).
 
 ## Related Strategies
+
 - [Peer Review](../elements/peer-review.md) — supplies the reader-response loop that makes audience effects concrete
 - [Publishing Student Work](publishing-student-work.md) — the mechanism by which audiences become real rather than hypothetical
 - [Writing Across the Curriculum](writing-across-the-curriculum.md) — authentic audiences arise naturally when writing serves disciplinary purposes
 - [Collaborative Writing](collaborative-writing.md) — co-authoring for a shared audience adds negotiation of rhetorical decisions
+- [Use a reading-as-the-reader activity in which writers re-read text from the reader's perspective before revising](reading-as-the-reader-activity.md)
 
 ## Examples
 - **[National Writing Project](https://www.nwp.org)** — teacher networks built around publishing student writing for community and online audiences; its research consistently links audience awareness to revision quality.

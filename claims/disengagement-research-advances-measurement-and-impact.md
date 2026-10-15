@@ -52,3 +52,4 @@ The author's summary of the state of the field, stating there have been "notable
 - [Differential rapid guessing often resulted in test events with meaningfully distorted item content representation](differential-rapid-guessing-distorts-content-representation.md) — related
 - [Disengagement produced both positive and negative distortion of individual student scores, which tended to cancel out much of the net distortive effect on school means](positive-negative-distortion-cancellation.md) — related
 - [School-level aggregated scores on the computer-based PISA-Based Test for Schools were highly stable despite considerable differential engagement among schools](school-means-stable-despite-differential-engagement.md) — a narrower finding that bears on this claim
+- [The concept of professional community gained considerable momentum in theoretical and empirical educational research over the past three decades](professional-community-three-decades-momentum.md) — related

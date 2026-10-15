@@ -83,3 +83,4 @@ In the same RQ2 analysis, PEERS achieves "R²LC =0.78" with an overly linear tra
 ## Related Claims
 - [Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment](cogevolution-ablation-module-contributions.md) — related
 - [CogEvolution performs comparably to the KT-based PEERS model on mastery prediction (AUC 0.80 vs 0.82) while achieving higher mistake precision (76.8%) on CogMath-948](cogevolution-mistake-precision-beats-kt-baseline.md) — related
+- [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](l2-skill-development-power-function-curve.md) — related

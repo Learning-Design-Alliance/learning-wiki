@@ -43,4 +43,4 @@ The article's synthesis of highly cited education studies (Sperling et al., 2024
 
 
 ## Related Claims
--
+- [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](reflective-capacity-essential-professional-competence.md) — related

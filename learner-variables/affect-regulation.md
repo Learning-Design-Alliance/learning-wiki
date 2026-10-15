@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (64 for, 19 mixed, 9 against) · 75 studies (19 associational, 16 causal, 16 review, 8 qualitative, 7 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 17 of 75 report an effect size · 90 claims rest on one study
+> **Evidence** · 98 claims (67 for, 22 mixed, 9 against) · 79 studies (19 associational, 16 causal, 16 review, 8 qualitative, 7 quant-synthesis, 7 design, 6 theoretical), `q1`–`q4` · 20 of 79 report an effect size · 96 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -125,6 +125,12 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](../claims/nature-exposure-reduces-learner-stress.md) [+M] — instruction changes it
 - [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](../claims/swpbis-strongest-kindergarten-exposure.md) [~M] — instruction changes it
 - [SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](../claims/swpbis-improves-emotion-regulation.md) [-M] — instruction changes it
+- [Early studies of the relationship between anxiety and achievement produced mixed and confusing results](../claims/early-anxiety-achievement-studies-mixed-results.md) [~W] — learners who differ on it differ in outcomes
+- [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](../claims/l2-anxiety-negative-correlation-achievement-meta-analysis.md) [+M] — learners who differ on it differ in outcomes
+- [Mindfulness interventions in schools show the largest between-group effects for cognitive performance (g = 0.80) and smaller significant effects for stress (g = 0.39) and resilience (g = 0.36)](../claims/mindfulness-domain-effects-cognitive-stress-resilience.md) [+M] — instruction changes it
+- [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](../claims/anxiety-achievement-moderators-levels-languages-anxiety-types.md) [~M] — learners who differ on it differ in outcomes
+- [The anxiety–achievement correlation varies across types of language achievement measures](../claims/anxiety-achievement-varies-by-achievement-measure-type.md) [~M] — learners who differ on it differ in outcomes
+- [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](../claims/active-control-rcts-benefits-restricted.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

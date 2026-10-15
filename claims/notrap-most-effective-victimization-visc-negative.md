@@ -1,0 +1,69 @@
+---
+type: claim
+title: "NoTrap! was the most effective program for reducing bullying victimization, while ViSC and fairplayer.manual showed non-significant negative effects"
+description: "NoTrap!"
+id: notrap-most-effective-victimization-visc-negative
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-15
+evidence_strength: moderate
+sources:
+  - id: hannah-gaffney-2019
+    resource: "https://doi.org/10.1007/s42380-019-0007-4"
+    title: "Hannah Gaffney, David P. Farrington, & Maria M. Ttofi. (2019). Examining the Effectiveness of School-Bullying Intervention Programs Globally: a Meta-analysis. International Journal of Bullying Prevention. https://doi.org/10.1007/s42380-019-0007-4"
+    author: "Hannah Gaffney, David P. Farrington, & Maria M. Ttofi"
+    q: 4
+    i: "?"
+    kind: quant-synthesis
+    rigour: 2
+  - id: hannah-gaffney-2019-2
+    resource: "https://doi.org/10.1007/s42380-019-0007-4"
+    title: "Hannah Gaffney, David P. Farrington, & Maria M. Ttofi. (2019). Examining the Effectiveness of School-Bullying Intervention Programs Globally: a Meta-analysis. International Journal of Bullying Prevention. https://doi.org/10.1007/s42380-019-0007-4"
+    author: "Hannah Gaffney, David P. Farrington, & Maria M. Ttofi"
+    q: 4
+    i: "?"
+    kind: quant-synthesis
+    rigour: 2
+---
+
+# NoTrap! was the most effective program for reducing bullying victimization, while ViSC and fairplayer.manual showed non-significant negative effects
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q4`
+
+## Subclaims
+`q4 i?` NoTrap! was the most effective anti-bullying program for reducing bullying victimization, followed by Bully Proofing Your School. [→ Hannah Gaffney 2019](#hannah-gaffney-2019)
+`q4 i?` The fairplayer.manual and ViSC programs showed negative (non-significant) effects on perpetration, and ViSC was the only program associated with increases in both outcomes. [→ Hannah Gaffney 2019 (2)](#hannah-gaffney-2019-2)
+
+## Evidence
+
+### Hannah Gaffney 2019
+
+Hannah Gaffney, David P. Farrington, & Maria M. Ttofi. (2019). Examining the Effectiveness of School-Bullying Intervention Programs Globally: a Meta-analysis. International Journal of Bullying Prevention. https://doi.org/10.1007/s42380-019-0007-4
+
+`q4 · i?` · `quant-synthesis · r2`
+
+Program-specific meta-analysis (Table 4): NoTrap! (n = 4) OR = 1.84 for victimization; the authors report NoTrap! reduced victimization "by around 37%" across evaluations.
+
+> "In relation to school-bullying victimization outcomes, NoTrap! was the most effective anti-bullying program, followed by the Bully Proofing Y our School Program."
+
+### Hannah Gaffney 2019 (2)
+
+Hannah Gaffney, David P. Farrington, & Maria M. Ttofi. (2019). Examining the Effectiveness of School-Bullying Intervention Programs Globally: a Meta-analysis. International Journal of Bullying Prevention. https://doi.org/10.1007/s42380-019-0007-4
+
+`q4 · i?` · `quant-synthesis · r2`
+
+Program-specific results (Table 4): ViSC (n = 5) OR = 0.95 for both outcomes; the authors report ViSC "was the only program to increase bullying perpetration (by roughly 4%) and bullying victimization (by roughly 4%)."
+
+> "Surprisingly, negative effects were found for two anti-bullying programs, the fairplayer manual and ViSC, although these effects were not statistically significant."
+
+## Discussion
+
+
+## Related Claims
+- [Program effectiveness varies by country: Greece led for perpetration, Italy for victimization](anti-bullying-effectiveness-varies-by-country.md) — related
+- [Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)](anti-bullying-program-effectiveness-heterogeneous.md) — a broader claim this one bears on
+- [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — a broader claim this one bears on
+- [Work with peers in anti-bullying programs is associated with an increase in victimization](peer-work-associated-with-increased-victimization.md) — related
+- [The Olweus Bullying Prevention Program produced the largest effect sizes for bullying perpetration, with effectiveness varying between Norway and USA evaluations](obpp-most-effective-for-perpetration.md) — related

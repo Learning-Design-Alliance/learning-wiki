@@ -117,3 +117,5 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) — reports the opposite
 - [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](verbal-redundancy-small-overall-effect.md) — reports the opposite
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
+- [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
+- [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — related

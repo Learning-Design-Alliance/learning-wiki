@@ -74,4 +74,4 @@ A synthesis of eight major meta-analyses of PBL since 1992, reported by the arti
 
 
 ## Related Claims
--
+- [PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses](pbl-superior-long-term-retention.md) — related

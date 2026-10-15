@@ -117,3 +117,5 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — a narrower finding that bears on this claim
 - [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](interleaving-improves-inductive-learning.md) — related
+- [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related
+- [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — a narrower finding that bears on this claim

@@ -222,3 +222,5 @@ This study found that the seductive details effect was not uniform: readers with
 - [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](hero-elementary-ebooks-not-user-friendly-images-covering-text.md) — related
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — related
 - [Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction](example-problems-degrade-llm-teaching.md) — a narrower finding that bears on this claim
+- [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](irrelevant-sound-effect-children-serial-recall.md) — related
+- [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](weeding-extraneous-content-improves-video-learning.md) — possibly the same claim (merge candidate)

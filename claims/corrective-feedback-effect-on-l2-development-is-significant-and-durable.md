@@ -99,3 +99,8 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [Feedback channel is a non-significant moderator of feedback effects](feedback-channel-non-significant-moderator.md) — related
 - [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Providing corrective feedback on practice tests does not significantly change the testing effect (g = 0.63 with feedback vs. g = 0.60 without)](feedback-no-significant-moderation.md) — related
+- [CF effectiveness is mediated by multiple variables, including linguistic targets and learners' age](cf-effectiveness-mediated-by-linguistic-targets-and-age.md) — a narrower finding that bears on this claim
+- [The frequency of oral corrective feedback differs across instructional contexts](cf-frequency-varies-across-instructional-contexts.md) — related
+- [Laboratory and classroom studies assess the effects of recasts and different CF types differentially](lab-and-classroom-studies-cf-effects-recasts.md) — related
+- [Interaction in both SCMC and FTF contexts has a significant impact on L2 development (meta-analysis of 14 studies, 1990–2012)](scmc-ftf-interaction-significant-l2-development.md) — related
+- [Theoretical perspectives support corrective feedback while contentious issues remain about uptake, instruction, and CF's purpose](theoretical-perspectives-cf-uptake-instruction-purpose.md) — related

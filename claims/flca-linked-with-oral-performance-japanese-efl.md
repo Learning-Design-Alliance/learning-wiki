@@ -59,3 +59,4 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)](er-increased-comfort-efl-reading-attitude.md) — related
+- [A unique form of anxiety experienced in response to learning or using an L2 was identified in the mid-1980s](fla-identified-mid-1980s.md) — related

@@ -156,3 +156,4 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](integration-of-related-elements-large-mean-effect.md) — related
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
+- [Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related

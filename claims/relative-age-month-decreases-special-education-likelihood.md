@@ -47,3 +47,4 @@ Analysis of three nationally representative surveys covering 1988-2004 and grade
 
 ## Related Claims
 - [A relationship exists between students' relative age among their peers and their probability of disability classification](relative-age-relates-disability-classification.md) — a broader claim this one bears on
+- [Having older classmates boosts a child’s test scores but increases the probability of grade repetition and diagnoses of learning disabilities such as ADHD](older-classmates-boost-scores-increase-repetition-and-disability-diagnoses.md) — related

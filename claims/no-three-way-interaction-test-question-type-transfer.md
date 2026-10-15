@@ -45,3 +45,4 @@ Posttest analysis of Experiment 1's mixed-effects model found the training-by-KC
 ## Related Claims
 - [In a human experiment, verbatim facts are learned better from practice-only training while general skills are learned better from example-integrated training (cross-over content-treatment interaction)](crossover-content-treatment-interaction-facts-practice-skills-examples.md) — related
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](no-training-retention-interval-interaction.md) — related
+- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](l2-morphosyntax-learning-highly-skill-specific.md) — related

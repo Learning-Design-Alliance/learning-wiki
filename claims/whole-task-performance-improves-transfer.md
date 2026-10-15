@@ -66,3 +66,4 @@ The source proposes lowering intrinsic load early in training for novices, for e
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md)
 - [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — related
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](skill-develops-through-engagement-not-drill.md) — related
+- [Four interrelated components are essential in blueprints for complex learning](four-components-essential-complex-learning-blueprints.md) — related

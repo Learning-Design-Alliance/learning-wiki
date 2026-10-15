@@ -51,3 +51,4 @@ This is a design proposal (§10, illustrated in Figure 2), not a tested result: 
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — related
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](students-report-peer-collaboration-supports-learning.md) — related
 - [The system has no empirical evaluation yet: profile accuracy has not been assessed and learning outcomes remain an open question](ecnuclaw-no-empirical-evaluation-yet.md) — related
+- [Peer tutoring has theoretical advantages as a teaching and learning method in higher education](peer-tutoring-theoretical-advantages.md) — a broader claim this one bears on

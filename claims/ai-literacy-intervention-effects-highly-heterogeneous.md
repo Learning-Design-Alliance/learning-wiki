@@ -45,3 +45,4 @@ Heterogeneity assessment within the same three-level meta-analysis. All variance
 ## Related Claims
 - [The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects](genai-writing-effect-robustness-checks.md) — related
 - [GenAI coding assistance produces a statistically significant moderate positive effect on developer productivity (g = 0.33), with substantial heterogeneity across settings.](genai-coding-assistance-moderate-positive-productivity-effect.md) — related
+- [Included intervention studies varied considerably in design, methods, quality and transferability](isolation-intervention-studies-varied-quality-transferability.md) — related

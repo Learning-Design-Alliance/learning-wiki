@@ -43,6 +43,7 @@ The review identifies five interrelated gaps across methodological, contextual, 
 ## Related Strategies
 
 - [Teachers cultivate approach-oriented goals and help students manage AI-feedback anxiety in AI-assisted language learning](cultivate-approach-goals-manage-ai-feedback-anxiety.md)
+- [Future research should pursue the directions the authors outline for L2 anxiety research](l2-anxiety-future-research-directions.md)
 
 ## Examples
 -

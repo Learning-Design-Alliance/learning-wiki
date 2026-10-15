@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (69 for, 20 mixed, 12 against) · 91 studies (34 causal, 19 associational, 17 review, 8 quant-synthesis, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 20 of 91 report an effect size · 98 claims rest on one study
+> **Evidence** · 109 claims (74 for, 23 mixed, 12 against) · 97 studies (37 causal, 19 associational, 18 review, 10 quant-synthesis, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 24 of 97 report an effect size · 106 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -135,6 +135,14 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Self-explanation substantially increases time on task, raising questions about its efficiency](../claims/self-explanation-time-on-task-cost.md) [+M] — instruction changes it
 - [As family circumstances that strain attendance pile up, preschool attendance gets worse, with children facing no obstacles missing 5.6 percent of school and those facing three or more missing 12.9 percent](../claims/family-circumstances-cumulative-absence-burden.md) [~W]
 - [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](../claims/very-chronic-absence-up-strong-attendance-down.md) [+W]
+- [Dutch (language) learning losses from the 2020 school closures were larger than mathematics losses, at about 0.26-0.29 standard deviations](../claims/covid-closures-dutch-loss-larger-than-math.md) [+M] — learners who differ on it differ in outcomes
+- [Inserting trivia questions between interleaved exemplars impairs inductive learning when it disrupts juxtaposition of categories, with total spacing held constant](../claims/interrupting-juxtaposition-impairs-inductive-learning.md) [~M] — an instructional effect differs with it
+- [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](../claims/book-sharing-dosage-moderates-language-outcomes.md) [~M] — an instructional effect differs with it
+- [Median achievement losses from spring 2020 school closures were similar for mathematics (−0.10 SD) and reading (−0.09 SD), though individual studies found subject-specific differences](../claims/covid-closures-subject-specific-effects.md) [+M] — learners who differ on it differ in outcomes
+- [Most of the lockdown learning loss reflects reduced knowledge learned rather than transitory day-of-test influences](../claims/learning-loss-reflects-knowledge-learned-not-transitory.md) [+M] — learners who differ on it differ in outcomes
+- [Schools implementing MTSS with higher fidelity show less absenteeism](../claims/mtss-fidelity-lower-absenteeism.md) [+M] — instruction changes it
+- [Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study](../claims/spacing-interleaving-subadditive-interaction.md) [~M] — an instructional effect differs with it
+- [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](../claims/larger-spacing-better-interleaved-induction.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

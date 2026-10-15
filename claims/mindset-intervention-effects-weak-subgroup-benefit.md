@@ -51,3 +51,5 @@ Second meta-analysis of mind-set interventions (k = 43 effect sizes, N = 57,155)
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Socioeconomic status does not significantly moderate the mind-set–achievement correlation](ses-not-moderator-mindset-correlation.md) — related
 - [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
+- [Most professional behavior change interventions are effective under some circumstances but none are effective under all circumstances](no-intervention-effective-all-circumstances.md) — related
+- [Risk of bias was high or unclear in all included trials, but no criterion significantly moderated effects](risk-of-bias-high-unclear-all-trials.md) — related

@@ -72,3 +72,4 @@ The synthesis reports that collaboration toward a common goal, rather than split
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related
 - [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — related
 - [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — a narrower finding that bears on this claim
+- [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](icebreaker-collaboration-top-learner-learner-strategies.md) — related

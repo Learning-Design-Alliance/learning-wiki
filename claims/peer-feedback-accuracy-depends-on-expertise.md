@@ -113,3 +113,5 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 - [The report measures how novice teachers' effectiveness changes with experience relative to veteran teachers' change in effectiveness](dcps-impact-novice-versus-veteran-effectiveness-growth.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
 - [Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions](precision-of-language-evaluation-criterion.md) — related
+- [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related
+- [Students' expertise on the task may be an important prerequisite for accurate self-assessment](task-expertise-prerequisite-ssa-accuracy.md) — related

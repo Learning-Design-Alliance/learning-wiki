@@ -113,3 +113,6 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [Chunking Reduces Working Memory Load](chunking-reduces-working-memory-load.md) — relevant to why well-scaffolded prompts keep young children's language production within manageable demands.
 - [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
+- [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
+- [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related
+- [Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](multimedia-expressive-vocabulary-environmentally-disadvantaged.md) — related

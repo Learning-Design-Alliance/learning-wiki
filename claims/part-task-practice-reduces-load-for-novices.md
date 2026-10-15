@@ -56,3 +56,5 @@ This finding qualifies the whole-task approach, suggesting that [part-task pract
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](skill-develops-through-engagement-not-drill.md) — reports the opposite
+- [Four interrelated components are essential in blueprints for complex learning](four-components-essential-complex-learning-blueprints.md) — a broader claim this one bears on
+- [For novice learners of complex information, the isolated-interacting elements instructional method produces superior learning compared with conventional instruction presenting all interacting information throughout](isolated-interacting-elements-superior-for-novices.md) — a narrower finding that bears on this claim

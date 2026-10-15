@@ -49,3 +49,4 @@ In the same quasi-experiment, blinded trained raters scored blueprint-aligned OS
 - [Plotting experience against OSCE results showed no effect of years of emergency department experience on consent-taking skill scores](ed-experience-no-effect-osce-consent.md) — related
 - [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](no-knowledge-difference-lecture-vs-4cid-consent-training.md) — related
 - [Heritage learners scored only slightly higher than non-heritage learners on listening tasks, with no statistically significant group difference](hll-nhll-listening-scores-not-significant.md) — related
+- [Four interrelated components are essential in blueprints for complex learning](four-components-essential-complex-learning-blueprints.md) — related

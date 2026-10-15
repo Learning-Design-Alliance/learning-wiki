@@ -45,3 +45,4 @@ Moderator analysis grouping the 23 meta-analyses by research location. The betwe
 
 - [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — a broader claim this one bears on
+- [Students rated peers' work from their own country 3.6% higher than work from elsewhere](in-group-favoritism-peer-grading-country.md) — related
