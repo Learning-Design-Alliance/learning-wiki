@@ -17,8 +17,8 @@ site_dir: site
 
 theme:
   name: material
-  logo: branding/lazuli-monogram-lapis.svg
-  favicon: branding/lazuli-favicon.svg
+  logo: branding/lda-monogram-lapis.svg
+  favicon: branding/lda-favicon.png
   icon:
     repo: fontawesome/brands/github
   palette:

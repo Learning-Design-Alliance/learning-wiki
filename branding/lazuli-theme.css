@@ -193,8 +193,13 @@
  * screen reader would read twice). Paths are relative to this stylesheet. */
 [data-md-color-scheme="slate"] .md-logo img,
 [data-md-color-scheme="slate"] .md-nav__button.md-logo img {
-  content: url("lazuli-monogram-dawn.svg");
+  content: url("lda-monogram-dawn.svg");
 }
-[data-md-color-scheme="slate"] .md-typeset img[src$="lazuli-wordmark-lapis.svg"] {
-  content: url("lazuli-wordmark-dawn.svg");
+
+/* The LDA monogram is wider than tall (96 x 62), so at Material's fixed 1.2rem logo height
+ * it read as small type. A taller box keeps it legible beside the header controls. */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 1.7rem;
+  width: auto;
 }
