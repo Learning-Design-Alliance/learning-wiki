@@ -41,7 +41,8 @@ Open-ended feedback from 237 students on 47 personalized problems showed that al
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [Students critiqued the broad grain size of teacher-in-the-loop personalization and personalization itself met resistance](students-critique-grain-size-personalization-resistance.md) — related
 - [The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math](refinement-strategy-trade-offs-in-case-analysis.md) — related

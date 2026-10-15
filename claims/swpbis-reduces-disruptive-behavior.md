@@ -40,6 +40,18 @@ Group randomized controlled effectiveness trial in 37 elementary schools; 3-leve
 
 > "The multilevel anal- yses indicated a signi ﬁcant positive intervention effect on disruptive behav- iors (g = –0.02, t= –2.23, P , .05, effect size (ES) = 0.12), such that children in SWPBIS schools had lower levels of ag- gressive and disruptive behaviors compared with those in the control schools"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does PBIS reduce students' problem behaviour and raise prosocial behaviour, as teachers rate it?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **3 distinct studies** (3 causal), `q2`–`q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Catherine P. Bradshaw 2012](https://doi.org/10.1542/peds.2012-0243) | q3 · causal · r3 | i0 | this claim; [SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary s](swpbis-improves-prosocial-behavior.md) (supports); [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary s](swpbis-improves-emotion-regulation.md) (supports); [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary](swpbis-reduces-concentration-problems.md) (supports) |
+| Waasdorp TE 2012 | q3 · causal · r3 | i? | [SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over element](swpbis-reduces-growth-teacher-reported-bullying.md) (supports); [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary sch](swpbis-reduces-growth-peer-rejection.md) (supports) |
+| Benner 2008 | q2 · causal · r1 | i1; i? | [PBIS implementation is associated with significant pre-to-post reductions in externalizing](pbis-reduces-externalizing-total-problems-ed-self-contained.md) (supports); [Teacher fidelity (TKSS total score) shows a statistically significant interaction effect o](tkss-fidelity-ancova-interaction-problem-behavior.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -1,0 +1,62 @@
+{
+  "principle": "principles/holistic-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "hierarchical-organization-improves-complex-task-performance",
+      "question": "Does giving learners the content as an organised whole, general ideas above details, improve performance over the same details without that organisation, and on which tasks and for whom?",
+      "members": [
+        [
+          "organization-task-match-determines-benefit",
+          "~"
+        ],
+        [
+          "strong-acquisition-tasks-improve-internalization",
+          "+"
+        ],
+        [
+          "higher-hierarchy-levels-recalled-better",
+          "~"
+        ],
+        [
+          "no-organization-effect-on-local-tasks",
+          "~"
+        ],
+        [
+          "ability-moderates-hierarchical-organization-benefit",
+          "~"
+        ],
+        [
+          "advance-organizers-improve-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "pretraining-improves-transfer",
+      "question": "Should component knowledge come before the whole task?",
+      "members": [
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "pretraining-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "~"
+        ],
+        [
+          "whole-task-performance-improves-transfer",
+          "~"
+        ],
+        [
+          "skill-develops-through-engagement-not-drill",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

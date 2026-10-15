@@ -12,7 +12,7 @@ generated:
 # Classroom Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 19 studies (8 quant-synthesis, 6 review, 3 causal, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 19 report an effect size
+> **Evidence** · 7 claims (5 for, 2 mixed) · 21 studies (9 quant-synthesis, 6 review, 4 causal, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 21 report an effect size
 
 ## Description
 Classroom games are structured, rule-governed activities — from board game adaptations to quiz-show formats — that convert review and consolidation into active, often competitive, participation. Effective games pair clear rules and objectives with retrieval demands: learners must recall, apply, or discriminate content to advance. The goal is to make review low-stakes and motivating while still requiring genuine cognitive engagement rather than mere participation.
@@ -41,7 +41,7 @@ Games work when the winning actions *are* the learning actions — when answerin
 - **Student-authored games** — having learners write the questions is itself a powerful retrieval and elaboration activity
 
 ### Target Learners
-- Learners consolidating recently taught material who benefit from repeated, low-stakes retrieval [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Learners consolidating recently taught material who benefit from repeated, low-stakes retrieval [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Students whose motivation or [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+M] is low; game formats lower the social cost of being wrong
 - Less suitable for introducing novel, complex material — novices need explicit instruction first, and games assume retrievable content
 

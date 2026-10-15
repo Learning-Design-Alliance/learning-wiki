@@ -41,8 +41,11 @@ Systematic review of 16 studies identified through EBSCO, ProQuest, and Google S
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
+
+- [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — the general claim this finding bears on, with the studies behind it
 - [Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors](coaching-academic-task-fidelity-higher-quality.md) — related
 - [Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed](coaching-maintenance-rarely-measured.md) — a narrower finding that bears on this claim
 - [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — a narrower finding that bears on this claim

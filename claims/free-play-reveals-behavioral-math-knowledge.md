@@ -41,8 +41,9 @@ Observational analysis of a play episode in which Rachel placed plates for each 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](proposition-4-distinct-evidence-demands.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills](guided-matching-and-peer-scaffolding-build-correspondence.md) — related
 - [Preschool children seriated pinecones by size largely by trial and error, and seriating in reverse order was more challenging and needed extensive verbal cueing](pinecone-seriation-reverse-order-harder.md) — related
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](prediction-graphing-reveals-classification-thinking.md) — related

@@ -1,0 +1,110 @@
+{
+  "principle": "principles/technology-augments-not-supplants-processes",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. First hub and question reused verbatim from eval/synthesis/scaffolding.json. The hub's Kuhn 2026 entry cites a Liu et al. (2026) RCT that may be the same study as Grace Liu 2026 (ai-assistance-impairs-unassisted-fraction-performance-exp1).",
+  "findings": [
+    {
+      "hub": "persistence-costs-concentrated-among-direct-solution-users",
+      "question": "When the support can do the task for the learner (AI assistants), does it cost independent performance?",
+      "members": [
+        [
+          "ai-assistance-impairs-unassisted-fraction-performance-exp1",
+          "+"
+        ],
+        [
+          "gpt4-access-harms-learning-after-withdrawal",
+          "+"
+        ],
+        [
+          "genai-supported-performance-independent-divergence",
+          "+"
+        ],
+        [
+          "ai-scaffolding-fading-learned-helplessness",
+          "+"
+        ],
+        [
+          "gpt4-access-worse-after-removal-math",
+          "+"
+        ],
+        [
+          "scaffolding-varies-by-request-and-assignment",
+          "~"
+        ],
+        [
+          "no-short-term-dependence-cost-unsupported-application",
+          "~"
+        ],
+        [
+          "ai-scaffolding-developmental-impact-conditional",
+          "~"
+        ],
+        [
+          "genai-outcomes-differ-by-use-type",
+          "+"
+        ],
+        [
+          "answer-offloading-associated-lower-unaided-performance-exploratory",
+          "+"
+        ],
+        [
+          "metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance",
+          "+"
+        ],
+        [
+          "agentic-designs-delayed-ai-free-transfer",
+          "+"
+        ],
+        [
+          "llm-access-no-significant-lower-unaided-performance",
+          "~"
+        ],
+        [
+          "genai-learning-gain-persists-one-week",
+          "~"
+        ],
+        [
+          "gpt-output-effect-depends-on-prior-knowledge-and-domain",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "vr-reinforcement-not-substitute",
+      "question": "Should a simulation or virtual-reality module sit beside hands-on practice or replace it?",
+      "members": [
+        [
+          "vr-radiation-visualization-higher-understanding-ratings",
+          "+"
+        ],
+        [
+          "conventional-training-higher-realism-immersion",
+          "+"
+        ],
+        [
+          "qualitative-themes-visualization-versus-operability",
+          "+"
+        ],
+        [
+          "no-difference-operational-skills-usability",
+          "~"
+        ],
+        [
+          "nico-nor-digital-tools-complement-hands-on",
+          "+"
+        ],
+        [
+          "real-world-simulations-embodiment-affordances",
+          "+"
+        ],
+        [
+          "simulation-advantage-immediate-not-sustained",
+          "~"
+        ],
+        [
+          "physical-experience-enhances-science-learning",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

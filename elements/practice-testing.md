@@ -55,7 +55,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](../claims/repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) [+M]
-- [Learners Misjudge Retrieval Benefit](../claims/learners-misjudge-retrieval-benefit.md) [+M]
+- [Learners Misjudge Retrieval Benefit](../claims/learners-misjudge-effective-learning-strategies.md) [+M]
 - [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
 - [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](../claims/retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) [~W]
 - [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [+W]

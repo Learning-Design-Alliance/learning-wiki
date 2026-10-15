@@ -14,7 +14,7 @@ generated:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (17 for, 7 mixed, 1 against) · 30 studies (11 quant-synthesis, 8 review, 6 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 8 of 30 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (17 for, 7 mixed, 1 against) · 30 studies (11 quant-synthesis, 8 review, 6 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 5 of 30 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 

@@ -7,15 +7,39 @@
       "question": "Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?",
       "members": [
         [
+          "strategy-instruction-improves-writing-quality",
+          "+"
+        ],
+        [
+          "peer-feedback-improves-writing",
+          "+"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
           "rubrics-improve-student-work",
           "+"
         ],
         [
-          "strategy-instruction-improves-writing-quality",
+          "process-goals-outperform-outcome-goals-for-novices",
           "~"
         ],
         [
-          "peer-response-groups-writing-idea-units",
+          "essay-quality-improves-from-initial-to-revised",
+          "+"
+        ],
+        [
+          "noticing-errors-decreases-errors-preserves-quality",
+          "+"
+        ],
+        [
+          "spontaneous-sentence-production-in-synthetic-planning-increases-understanding",
           "~"
         ]
       ]

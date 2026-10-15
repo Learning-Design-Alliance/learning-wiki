@@ -1,7 +1,7 @@
 ---
 type: claim
 title: A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes
-description: Online music learning shows democratized access but low MOOC completion and resistance of embodied musical learning to video formats
+description: "A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes"
 id: moocs-low-completion-embodied-music-learning
 status: draft
 generated:

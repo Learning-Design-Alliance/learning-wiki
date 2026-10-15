@@ -43,6 +43,8 @@ ANCOVA with pre-test scores as covariate compared students who taught a gpt-4 te
 
 ## Related Claims
 
+- [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [Teaching a ChatGPT agent yields significantly higher code clearness and readability scores than learning from online videos, but not higher code correctness](chatgpt-teachable-agent-code-clearness-readability.md) — related
 - [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](chatgpt-teachable-agent-fewer-submission-attempts.md) — related

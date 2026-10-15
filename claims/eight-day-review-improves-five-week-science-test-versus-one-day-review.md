@@ -51,5 +51,5 @@ This evidence supports considering a longer gap when planning delayed recall and
 
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — the general claim this finding bears on, with the studies behind it
 
-- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md)
+- [Distributed Practice Improves Retention](spaced-practice-improves-retention.md)
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md)

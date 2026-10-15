@@ -1,0 +1,80 @@
+{
+  "principle": "patterns/think-pair-share",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "peer-discussion-improves-conceptual-understanding",
+      "question": "Does discussing a committed answer with peers improve a later individual answer on a new question?",
+      "members": [
+        [
+          "correct-correct-clicker-pattern-higher-exam-performance",
+          "~"
+        ],
+        [
+          "clicker-participation-and-homework-completion-predict-exam-performance",
+          "~"
+        ],
+        [
+          "learning-attributed-to-process-not-technology",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "increasing-wait-time-improves-response-quality",
+      "question": "Does a longer pause after a question, before anyone answers, improve the responses that follow?",
+      "members": [
+        [
+          "questioning-strategies-improve-learning",
+          "+"
+        ],
+        [
+          "wait-time-invited-disinvited-students",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "discussion-promotes-more-active-thought-than-lecture",
+      "question": "What does discussion do that explanation does not, and does more talk by itself improve understanding?",
+      "members": [
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ],
+        [
+          "discourse-practices-correlate-reasoning-tests",
+          "+"
+        ],
+        [
+          "chatgpt-teachable-agent-knowledge-gains",
+          "+"
+        ],
+        [
+          "active-learning-gains-larger-concept-inventories",
+          "~"
+        ],
+        [
+          "reformed-pedagogy-content-gains-but-no-reasoning-gains",
+          "~"
+        ],
+        [
+          "active-learning-felt-learning-paradox",
+          "~"
+        ],
+        [
+          "no-knowledge-difference-lecture-vs-4cid-consent-training",
+          "~"
+        ],
+        [
+          "osce-advantage-4cid-not-significant",
+          "~"
+        ],
+        [
+          "lecturing-on-values-does-not-transact-values-effectively",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -60,6 +60,19 @@ Epton, T., Currie, S., & Armitage, C. J. (2017). Unique effects of setting goals
 
 A systematic review and random-effects meta-analysis of randomized controlled trials that isolated goal setting from other parts of a behavior change intervention. Goal setting had a small positive effect across behaviors (d = .34). It worked best when the goal was difficult, set publicly, or a group goal. There was weaker evidence that it worked better with external monitoring by others and with face-to-face delivery. Read as abstract only. The outcomes are behaviors, mainly in health settings, rather than learning or academic performance, so they bear on the claim only by analogy.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Wood et al. 1987](https://doi.org/10.1037/0021-9010.72.3.416) | q3 · quant-synthesis · r? | i2 · medium effect, d=.42 (complex tasks) to d=.76 (simple tasks) | this claim |
+| [Epton et al. 2017](https://doi.org/10.1037/ccp0000260) | q4 · quant-synthesis · r? | i1 · small effect, d=.34 (95% CI .28–.41) | this claim |
+| [Locke & Latham 2002](https://doi.org/10.1037/0003-066x.57.9.705) | q2 · review · r? | i? | [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" g](specific-difficult-goals-lead-to-higher-performance.md) (supports) |
+| Nagaoka 2014 | q1 · theoretical · r? | i? | [The paper reports that clear, specific, and challenging goals have been linked to higher t](clear-specific-challenging-goals-linked-to-task-performance.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The claim is underspecified as stated.** "Goal setting" and "performance" each hide the moderators that determine whether the effect holds. The goal-setting literature conventionally distinguishes specific, challenging goals from vague intentions ("do your best"), and distinguishes learning goals (focused on strategy acquisition) from performance goals (focused on outcome attainment) — with the latter sometimes counterproductive on complex or novel tasks where early errors are informative. The two meta-analyses recorded here, both read as abstracts, support the specific-and-difficult version on work and laboratory tasks (Wood et al. 1987, weaker on complex tasks) and a small general effect on health and everyday behaviors (Epton et al. 2017); neither tests learning versus performance goals, or academic learners. <!-- deprecated (2026-10-05, stale beside two recorded entries): Until evidence is curated here, the page cannot say which version of the claim is supported, at what strength, or for which learners. -->

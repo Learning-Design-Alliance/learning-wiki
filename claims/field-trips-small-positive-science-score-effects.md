@@ -3,6 +3,7 @@ type: claim
 title: "Exposure to field trips to informal science institutions produces small positive effects on middle school students' standardized science test scores"
 description: "Exposure to field trips to informal science institutions produces small positive effects on middle school students' standardized science test scores"
 id: field-trips-small-positive-science-score-effects
+aliases: [field-trips-positive-science-proficiency]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
+
 `q3 i?` Field trip exposure to informal science education institutions has small positive effects on students' science test scores on the state standardized eighth-grade exam. [→ Emilyn Ruble Whitesell 2016](#emilyn-ruble-whitesell-2016)
+
+`q3 i?` Exposure to field trips to informal science education institutions positively affects students' proficiency on the state's standardized eighth-grade science exam. [→ Emilyn Ruble Whitesell 2016](#emilyn-ruble-whitesell-2016)
 
 ## Evidence
 
@@ -39,9 +43,22 @@ Quasi-experimental study using 6 years of student-level data on New York City st
 
 > "I found small positive effects of exposure to field trips on students' science test scores and proficiency."
 
+<!-- merged 2026-10-15 from field-trips-positive-science-proficiency: that page's entry for this study, which differed from the one above, kept verbatim.
+### Emilyn Ruble Whitesell 2016
+
+Emilyn Ruble Whitesell. (2016). A Day at the Museum: The Impact of Field Trips on Middle School Science Achievement. Journal of Research in Science Teaching, vol. 53, issue 7. https://www.mathematica.org/publications/a-day-at-the-museum-the-impact-of-field-trips-on-middle-school-science-achievement
+
+`q3 · i?` · `causal · r2`
+
+The study's outcome measures include both science test scores and proficiency on New York State's standardized eighth-grade science exam, estimated from 6 years of student-level data with school fixed effects. The abstract reports positive effects on proficiency alongside test scores.
+
+> "I used 6 years of student-level data to estimate the impact of field trips to informal science education institutions on New York City students' performance on the state's standardized eighth-grade science exam."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch](field-trip-effects-largest-hispanic-frpl-students.md) — a narrower finding that bears on this claim
-- [Field trip exposure positively affects students' proficiency on the standardized eighth-grade science exam](field-trips-positive-science-proficiency.md) — possibly the same claim (merge candidate)

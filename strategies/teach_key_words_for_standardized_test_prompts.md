@@ -12,7 +12,7 @@ generated:
 # Teach Key Words for Standardized Test Prompts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 15 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 15 report an effect size
+> **Evidence** · 5 claims (5 for) · 17 studies (8 quant-synthesis, 6 causal, 2 review, 1 associational), `q2`–`q4` · 6 of 17 report an effect size
 
 ## Description
 This strategy involves identifying the small set of high-frequency terms that recur in standardized test prompts — verbs like *analyze*, *compare*, *justify*, *trace*, and *evaluate*, plus directional words like *except*, *most likely*, and *primarily* — and teaching them explicitly before test practice. Instruction pairs each term with a definition, a worked prompt example, and student-generated responses, so learners can rapidly classify what a prompt demands instead of losing time or misreading intent during the test itself.
@@ -26,7 +26,7 @@ Explicit vocabulary instruction has one of the most consistent evidence bases in
 - A corpus of released or representative prompts from the target test, mined for recurring terms
 - A concise, learner-friendly definition and cue for each term (ideally 10 or fewer terms per cycle)
 - Worked examples showing a strong response to a prompt using each term, followed by [Practice](../elements/cognitive-strategies.md) on new prompts
-- Spaced review so terms stay retrievable at test time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Spaced review so terms stay retrievable at test time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Teaching test vocabulary without teaching the underlying content produces gains on prompt comprehension only — it does not raise domain knowledge and can create an illusion of readiness [-M]
@@ -56,7 +56,7 @@ Explicit vocabulary instruction has one of the most consistent evidence bases in
 3. Present contrasting prompts side by side (e.g., *describe* vs. *explain*) and have students classify the demanded response before answering [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. Have students underline or annotate the key term in each practice prompt and state aloud what the response must do — an [Advance Organizer](../elements/advance-organizers.md) for their answer.
 5. Follow with timed [Practice](../elements/cognitive-strategies.md) on full prompts, then [Assessment](../elements/assessment.md) via practice tests, giving feedback on whether the response matched the prompt's demand [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
-6. Space review of terms across weeks rather than massing them before the test [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Space review of terms across weeks rather than massing them before the test [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Accessible Syntax](../principles/accessible-vocabulary-syntax.md) — the broader language-support approach of which prompt-term teaching is a targeted instance

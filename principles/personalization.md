@@ -23,7 +23,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (27 for, 22 mixed, 3 against) · 60 studies (20 review, 16 causal, 8 qualitative, 7 theoretical, 3 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 6 of 60 report an effect size · 47 claims rest on one study
+> **Evidence** · 53 claims (28 for, 22 mixed, 3 against) · 61 studies (21 review, 16 causal, 8 qualitative, 7 theoretical, 3 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 6 of 61 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,7 +123,7 @@ Keep each finding's comparator, population, outcome and horizon with it. Do not 
 ## The evidence by question
 
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
-- *Do learners in personalized learning settings achieve more than peers taught the same content uniformly?* [Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings](../claims/personalized-learning-outperforms-standardized-settings.md) [+W]
+- *Do learners in personalized learning settings achieve more than peers taught the same content uniformly?* [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](../claims/personalized-learning-outperforms-standardized-settings.md) [+W]
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-S]
 
 ## Further evidence, not yet read against this model

@@ -77,7 +77,7 @@ Meta-analysis of 22 peer-reviewed studies of morphological intervention with par
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — morphological scaffolds, like other supports, should be faded as learners gain decoding skill
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
-- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
+- [Systematic Phonics Improves Word Reading](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness](morphological-awareness-contributes-reading-development.md) — related
 - [Reverse transfer from literacy to oral skills is unsupported by research](reverse-transfer-literacy-to-oral-unsupported.md) — related
 - [Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)](emi-effect-size-larger-for-awareness-than-comprehension.md) — related

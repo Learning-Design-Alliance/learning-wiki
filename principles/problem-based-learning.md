@@ -22,7 +22,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (9 for, 17 mixed, 2 against) · 29 studies (8 causal, 7 review, 6 quant-synthesis, 4 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (9 for, 17 mixed, 2 against) · 30 studies (8 causal, 7 review, 6 quant-synthesis, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 4 of 30 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 

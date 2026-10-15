@@ -22,7 +22,7 @@ sources:
 # Cross-age peer tutoring by either bilingual or English-only tutors shows no statistically significant effect on oral language proficiency (Serrano, 1987)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
+> **Evidence** · 1 study · causal `r?` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Neither bilingual tutoring (effect size -0.16) nor English-only tutoring (effect size 0.05) produced a statistically significant effect on the IDEA Oral Language Proficiency Test. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)
@@ -45,4 +45,3 @@ Randomized controlled trial of 42 Spanish-speaking migrant students in grades 3�
 ## Related Claims
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — a broader claim this one bears on
 - [Peer pairing increases English learners' peer-directed language behavior but shows no significant effect on listening comprehension or teacher-directed language (Jun-Aust, 1985)](peer-pairing-language-behavior-jun-aust.md) — related
-- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — a broader claim this one bears on

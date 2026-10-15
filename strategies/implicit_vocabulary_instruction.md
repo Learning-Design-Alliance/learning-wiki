@@ -12,7 +12,7 @@ generated:
 # Implicit Vocabulary Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 causal), `q3`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Implicit vocabulary instruction teaches words "in the moment" using heavy contextual support, brief planned definitions, and incidental encounters, rather than through separate, formal vocabulary lessons. Teachers anticipate difficult words in a text (often domain-specific or Tier III words) and prepare short glosses, synonyms, or contextual cues that are delivered as the words arise. The goal is uninterrupted comprehension of the current text, with word learning occurring as a by-product of meaningful reading and listening.
@@ -26,7 +26,7 @@ Incidental word learning from context is real but modest: learners pick up only 
 - Anticipation of vocabulary challenges in assigned texts; pre-reading of the text to identify Tier III and domain-specific words
 - Prepared short definitions, synonyms, or glosses that can be delivered in seconds without derailing the lesson ([Lectures](../elements/lectures.md), [Assigned Readings](../elements/assigned-readings.md))
 - Rich, informative context: learners infer word meanings from context only when the surrounding text supplies usable clues [~M]
-- Follow-up opportunities to encounter and use the words again ([Practice](../elements/practice.md)), since single exposures rarely produce retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Follow-up opportunities to encounter and use the words again ([Practice](../elements/practice.md)), since single exposures rarely produce retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - A single contextual encounter produces shallow, fragile word knowledge; most words require multiple meaningful exposures over time [-M]
@@ -55,7 +55,7 @@ Incidental word learning from context is real but modest: learners pick up only 
 2. Prepare a one-line definition, synonym, or gesture for each flagged word, tied to the specific context of the passage
 3. During reading or [Lectures](../elements/lectures.md), deliver the gloss briefly and return immediately to the meaning of the text — avoid extended word study in the moment
 4. Prompt students to use context to confirm or refine the meaning ([Self-Explanation](../elements/self-explanation.md) of why the definition fits) [+M]
-5. Arrange later re-encounters with the word in new contexts or [Practice](../elements/practice.md) activities so learning consolidates over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+5. Arrange later re-encounters with the word in new contexts or [Practice](../elements/practice.md) activities so learning consolidates over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — background knowledge is what makes contextual inference possible

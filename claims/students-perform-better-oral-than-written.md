@@ -41,8 +41,9 @@ The review's synthesis of comparison studies, citing Burke-Smalley (2014) and Ro
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](proposition-4-distinct-evidence-demands.md) — the general claim this finding bears on, with the studies behind it
 - [No evidence found that particular student groups are disadvantaged in oral versus written assessments](no-group-disadvantage-oral-assessments.md) — related
 - [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](oral-assessments-anxiety-but-preferred.md) — related
 - [False beginners read passages aloud significantly better than true beginners despite equal written-test scores](false-beginners-read-aloud-better-than-true-beginners.md) — related

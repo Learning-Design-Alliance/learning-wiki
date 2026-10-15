@@ -59,6 +59,17 @@ van Dongen, E. V., Kersten, I. H. P., Wagner, I. C., Morris, R. G. M., & Fernán
 
 Participants were randomly assigned to one of three groups, and all of them learned a set of picture-location pairs. One group exercised immediately afterwards, one exercised 4 hours later, and one did not exercise. The procedures were otherwise the same. Memory was tested 48 hours later, with cued recall in an MRI scanner. Only the group that exercised 4 hours later remembered better than the no-exercise group. That group also showed more hippocampal pattern similarity when recalling correctly. The finding runs against the idea that exercise immediately after learning is the best time and that delayed exercise does little.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does what happens in the hours after learning, such as a bout of exercise, change how much is remembered later?* This table gathers the studies behind this claim and the 0 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 causal), `q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Loprinzi et al. 2019](https://doi.org/10.3390/brainsci9040087) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.47 during early consolidation | this claim |
+| [van Dongen et al. 2016](https://doi.org/10.1016/j.cub.2016.04.071) | q3 · causal · r? | i? | this claim |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Timing windows.** The literature on acute exercise and memory distinguishes several timing protocols: exercise before encoding (which may raise arousal and catecholamine levels during learning), exercise immediately after encoding (during the early consolidation window, when exercise-induced noradrenaline and BDNF are hypothesized to strengthen newly formed memory traces), and exercise delayed by hours. The evidence below reverses the usual expectation for the last of these: in Loprinzi et al. (2019), exercise four or more hours after learning had the largest effect (d = 1.05, though from only two studies, 95% CI 0.32–1.78), and van Dongen et al. (2016) found a benefit only for exercise four hours after learning, not immediately after. The post-encoding window is the most theoretically interesting because it isolates effects on consolidation rather than on encoding itself, but results across studies are mixed, with effect sizes varying by exercise intensity, duration, and memory type (e.g., motor vs. verbal vs. spatial memory). Exercise during learning slightly impaired memory (d = −0.12) and exercise before learning had a small, non-significant effect (d = 0.11).

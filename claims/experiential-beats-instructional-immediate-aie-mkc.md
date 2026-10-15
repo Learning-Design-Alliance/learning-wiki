@@ -42,8 +42,9 @@ Between-group comparison of pre-post immediate change scores in a quasi-experime
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](experiential-learning-engagement-skills-ethical-reasoning.md) — the general claim this finding bears on, with the studies behind it
 - [Immediate experiential advantages in knowledge of cognition and engagement converged with the instructional group by five weeks](five-week-convergence-aie-mkc.md) — related
 - [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](instructional-no-immediate-mkc-mrc-change.md) — related
 - [Both groups showed large sustained five-week gains in AI engagement](sustained-aie-gains-both-groups.md) — related

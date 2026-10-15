@@ -12,19 +12,19 @@ generated:
 # Key Word Flash Cards
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Key word flash cards are a vocabulary-building tool for mathematical word problems. Each card shows an operation and its symbol (e.g., "+", addition) on one side and the words that typically signal that operation in text (e.g., "sum," "altogether," "in all," "total") on the reverse. Students use the cards for retrieval practice and as a reference when classifying word problems, building the association between linguistic cues and mathematical operations.
 
 ## Design Implications
 
-Flash cards work because they force active retrieval rather than passive rereading; retrieval practice produces durable retention gains relative to restudying [Retrieval practice improves long-term retention relative to restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. However, the key word approach itself is a weak problem-solving strategy: it trains students to map surface linguistic cues to operations without modeling the underlying problem structure, and research on word-problem solving shows that successful solvers build a situational model of the problem rather than translating keywords directly into arithmetic [Key word strategies fail on problems where the cue word contradicts the required operation.](../claims/self-explanation-improves-conceptual-understanding.md) [~M]. The cards are therefore best treated as a vocabulary scaffold — one component of instruction that also includes problem-structure analysis — not as a solution procedure.
+Flash cards work because they force active retrieval rather than passive rereading; retrieval practice produces durable retention gains relative to restudying [Retrieval practice improves long-term retention relative to restudying.](../claims/spaced-practice-improves-retention.md) [+S]. However, the key word approach itself is a weak problem-solving strategy: it trains students to map surface linguistic cues to operations without modeling the underlying problem structure, and research on word-problem solving shows that successful solvers build a situational model of the problem rather than translating keywords directly into arithmetic [Key word strategies fail on problems where the cue word contradicts the required operation.](../claims/self-explanation-improves-conceptual-understanding.md) [~M]. The cards are therefore best treated as a vocabulary scaffold — one component of instruction that also includes problem-structure analysis — not as a solution procedure.
 
 ### Context
 #### Requirements
 - A curated, accurate list of key words per operation, including words with ambiguous or multiple meanings ("left," "of," "each")
-- Time for repeated, spaced retrieval sessions rather than single massed review [Spaced retrieval improves retention relative to massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Time for repeated, spaced retrieval sessions rather than single massed review [Spaced retrieval improves retention relative to massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 - A follow-on activity in which students classify or solve real word problems using the vocabulary ([Practice](../elements/practice.md))
 
 #### Constraints
@@ -53,7 +53,7 @@ Flash cards work because they force active retrieval rather than passive rereadi
 ### Instructions
 1. Introduce each operation and its symbol, eliciting key words from students before adding them to the card ([Activation](../elements/activation.md))
 2. Have students create or complete the cards, writing the operation on one side and key words plus a short example problem on the reverse ([Annotating](../principles/annotating.md))
-3. Run short, spaced retrieval sessions: show the operation side, recall the key words; then show a key word, name the operation [Spaced retrieval improves retention relative to massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+3. Run short, spaced retrieval sessions: show the operation side, recall the key words; then show a key word, name the operation [Spaced retrieval improves retention relative to massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 4. Apply immediately: students solve or sort word problems, identifying which card applies and explaining why ([Practice](../elements/practice.md))
 5. Explicitly teach the limits: present problems where the key word misleads and have students explain what the situation actually requires [Key word strategies fail on problems where the cue word contradicts the required operation.](../claims/self-explanation-improves-conceptual-understanding.md) [-M]
 
@@ -70,7 +70,7 @@ Flash cards work because they force active retrieval rather than passive rereadi
 
 ## Examples
 - A Grade 3 class builds addition and subtraction card sets, then plays "cue or trap": the teacher reads word problems, some containing misleading key words, and students must justify their operation choice beyond the cue word.
-- **[Anki](https://apps.ankiweb.net)** — spaced-repetition software that schedules key word card review at expanding intervals, operationalizing retrieval practice [Spaced retrieval improves retention relative to massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+- **[Anki](https://apps.ankiweb.net)** — spaced-repetition software that schedules key word card review at expanding intervals, operationalizing retrieval practice [Spaced retrieval improves retention relative to massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 - **[Quizlet](https://quizlet.com)** — teachers share pre-made key word card decks with matching and sorting game modes for the classification variant.
 
 ## Key Sources

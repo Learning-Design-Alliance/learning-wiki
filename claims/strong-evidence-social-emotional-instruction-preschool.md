@@ -41,6 +41,7 @@ Systematic review conducted for the WWC practice guide: studies were screened ag
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
 -

@@ -1,0 +1,78 @@
+{
+  "principle": "principles/experiential-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "experiential-learning-engagement-skills-ethical-reasoning",
+      "question": "Does learning from an experience the learner acts in (a simulation, a hands-on task, a practical activity) improve outcomes over being told the same content?",
+      "members": [
+        [
+          "experiential-beats-instructional-immediate-aie-mkc",
+          "+"
+        ],
+        [
+          "experiential-delayed-mrc-increase",
+          "+"
+        ],
+        [
+          "five-week-convergence-aie-mkc",
+          "~"
+        ],
+        [
+          "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes",
+          "+"
+        ],
+        [
+          "manipulatives-improve-math-learning",
+          "+"
+        ],
+        [
+          "physical-experience-enhances-science-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "reflective-practice-evidence-mixed-in-professional-education",
+      "question": "Does reflection after the task improve learning, and does the way it is prompted and structured matter?",
+      "members": [
+        [
+          "reflective-questioning-graphical-representations-improve-algebra-outcomes",
+          "+"
+        ],
+        [
+          "analytics-feedback-reflection-strengthen-learning-gains",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
+          "~"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks",
+          "~"
+        ],
+        [
+          "reflective-practice-improves-outcomes-when-structured",
+          "+"
+        ],
+        [
+          "writing-to-learn-improves-understanding",
+          "+"
+        ],
+        [
+          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "-"
+        ],
+        [
+          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "~"
+        ],
+        [
+          "journaling-system-improves-srl-all-groups",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

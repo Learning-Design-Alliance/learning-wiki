@@ -1,0 +1,16 @@
+{
+  "principle": "principles/self-affirmation",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "self-affirmation-improves-outcomes",
+      "question": "Does a brief values-affirmation writing exercise before a threatening evaluation protect threatened learners' grades, compared with writing about an unimportant value?",
+      "members": [
+        [
+          "values-affirmation-long-term-benefits-black-students",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

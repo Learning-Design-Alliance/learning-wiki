@@ -43,5 +43,4 @@ Meta-analytic comparison collapsing massed-versus-spaced differences over seven 
 
 
 ## Related Claims
-- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-repetition-improves-retention.md) — a broader claim this one bears on
-- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-practice-improves-retention.md) — a broader claim this one bears on

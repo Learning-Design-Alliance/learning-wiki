@@ -1,0 +1,46 @@
+{
+  "principle": "patterns/balanced-pronunciation-curriculum-three-areas",
+  "note": "Wave 11 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries, read in full. Review before extending.",
+  "findings": [
+    {
+      "hub": "explicit-communicative-pronunciation-instruction-works",
+      "question": "Does explicit second-language pronunciation instruction improve pronunciation, and does the gain carry into spontaneous speech?",
+      "members": [
+        [
+          "form-and-meaning-focus-beats-form-only",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "capt-strong-segmentals-weak-prosody",
+      "question": "Which areas of pronunciation (segmentals, prosody, fluency) does computer-assisted or ASR-based practice improve, for whom, and with how much practice?",
+      "members": [
+        [
+          "asr-guided-practice-improves-overall-pronunciation-accuracy",
+          "+"
+        ],
+        [
+          "asr-specific-error-types-no-significant-gains",
+          "~"
+        ],
+        [
+          "fluspeak-good-beginners-poor-advanced",
+          "~"
+        ],
+        [
+          "no-dose-response-asr-practice-time",
+          "~"
+        ],
+        [
+          "profy-intelligibility-gain-over-elicited-imitation",
+          "+"
+        ],
+        [
+          "individual-work-best-asr-pronunciation-training",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

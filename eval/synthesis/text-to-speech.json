@@ -1,0 +1,70 @@
+{
+  "principle": "principles/text-to-speech",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. The first hub is reused from redundancy.json with its question verbatim and its directions.",
+  "findings": [
+    {
+      "hub": "redundancy-hurts-learning",
+      "question": "Without a competing picture, do the same words spoken and written help or hurt, and for whom?",
+      "members": [
+        [
+          "verbal-redundancy-small-overall-effect",
+          "-"
+        ],
+        [
+          "spoken-written-beats-spoken-only-not-written-only",
+          "~"
+        ],
+        [
+          "reader-fluency-prior-knowledge-moderate-redundancy",
+          "~"
+        ],
+        [
+          "system-paced-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "segmentation-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "outcome-constructs-test-formats-moderate-redundancy",
+          "~"
+        ],
+        [
+          "captioning-second-language-videos-large-benefits",
+          "~"
+        ],
+        [
+          "redundancy-principle",
+          "+"
+        ],
+        [
+          "images-animation-eliminate-redundancy-benefit",
+          "~"
+        ],
+        [
+          "redundancy-effect-not-significant-middle-school",
+          "~"
+        ],
+        [
+          "redundant-text-no-effect-posterior-probability-lesson",
+          "~"
+        ],
+        [
+          "redundancy-principle-mayer-2008",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "reading-versus-listening-incidental-vocabulary-gains",
+      "question": "Does a learner who listens to a text, or reads while listening, lose anything against reading it?",
+      "members": [
+        [
+          "repeated-listening-improves-oral-reading-fluency",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

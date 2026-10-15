@@ -1,7 +1,7 @@
 ---
 type: claim
 title: In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test
-description: Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction
+description: "In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test"
 id: reformed-pedagogy-content-gains-but-no-reasoning-gains
 status: draft
 generated:
@@ -22,7 +22,7 @@ sources:
 # In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2`
 <!-- title before 2026-10-15: Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction -->
 
 ## Subclaims

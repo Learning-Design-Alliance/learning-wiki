@@ -12,7 +12,7 @@ generated:
 # Handwriting Fluency Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (4 quant-synthesis, 3 causal, 1 review, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Handwriting fluency practice consists of brief, frequent, timed writing activities — copying letters, words, or sentences, and free writing under time constraints — aimed at making transcription (letter formation and spelling) automatic. The goal is not penmanship aesthetics but speed and effortlessness: when learners no longer need to think about how to form letters, they can allocate attention to planning ideas, sentence construction, and revision.
@@ -23,7 +23,7 @@ Transcription fluency is a bottleneck for written composition: children who labo
 
 ### Context
 #### Requirements
-- Brief (5–15 minute), *frequent* sessions rather than long infrequent ones — fluency gains depend on distributed, high-repetition practice [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Brief (5–15 minute), *frequent* sessions rather than long infrequent ones — fluency gains depend on distributed, high-repetition practice [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Timed activities with a simple self-monitoring metric (letters or words per minute) so learners can see growth
 - Correct letter formation established *before* speed work; drilling an inefficient motor pattern entrenches it
 - Text at an easy level — the content should be decodable or familiar so the challenge is transcription, not composition
@@ -56,7 +56,7 @@ Transcription fluency is a bottleneck for written composition: children who labo
 
 ### Instructions
 1. **Establish accuracy first.** Model correct letter formation explicitly ([Demonstration](../elements/demonstration.md) with verbalized stroke sequence), then verify learners can form each letter legibly before any timing.
-2. **Run short timed drills.** 5–10 minutes of copying letters or sentences with a visible timer; learners record their count (letters/words per minute) [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+2. **Run short timed drills.** 5–10 minutes of copying letters or sentences with a visible timer; learners record their count (letters/words per minute) [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 3. **Chart progress.** Learners graph their own counts to make growth visible and support self-monitoring ([Self-Regulated Learning](../theories/self-regulated-learning.md)).
 4. **Bridge to free writing.** Follow drills with a short timed free-write on a familiar topic, so automaticity is exercised in a composing context ([Practice](../elements/practice.md)).
 5. **Check legibility.** Spot-check that speed gains have not degraded letter quality; adjust pace targets accordingly.

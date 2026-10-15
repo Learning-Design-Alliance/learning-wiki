@@ -41,6 +41,7 @@ Group randomized controlled effectiveness trial in 37 Maryland elementary school
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — the general claim this finding bears on, with the studies behind it
 -

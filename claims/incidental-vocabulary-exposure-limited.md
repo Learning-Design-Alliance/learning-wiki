@@ -132,7 +132,7 @@ The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the p
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — limited working memory constrains how much word meaning can be inferred from a single encounter
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — decoding effort competes with the attention needed to infer new word meanings
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — explains why inferring meaning under load yields weak retention
-- [Spaced repetition improves retention.](spaced-repetition-improves-retention.md) — multiple spaced encounters, not single exposure, drive durable word learning
+- [Spaced repetition improves retention.](spaced-practice-improves-retention.md) — multiple spaced encounters, not single exposure, drive durable word learning
 - [Activation improves learning.](activation-improves-learning.md) — weak prior knowledge undermines the meaning inferences incidental exposure depends on
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
@@ -141,7 +141,7 @@ The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the p
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — a narrower finding that bears on this claim
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](extensive-reading-improves-vocabulary-and-spelling.md) — a broader claim this one bears on
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](incidental-acquisition-rate-3-of-20-words.md) — a narrower finding that bears on this claim
-- [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
 - [Highly informative contexts produce higher retention of word meaning, with context affecting knowledge of meaning rather than form](informative-contexts-produce-higher-word-meaning-retention.md) — related
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — related
 - [Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains](marginal-glosses-most-beneficial-task.md) — a narrower finding that bears on this claim

@@ -64,7 +64,7 @@ Evidence rating from the practice guide's Recommendation 1 section: a WWC expert
 - [Practice making sense of stretch text has moderate evidence, based on 15 studies](moderate-evidence-stretch-text-practice-grades-4-9.md) — related
 - [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — related
 - [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
-- [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
+- [Systematic Phonics Improves Word Reading](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Intensive academic vocabulary instruction across several days is supported by strong evidence from six WWC-standard studies](academic-vocabulary-intensive-instruction-strong-evidence.md) — related
 - [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](torgesen-2010-positive-alphabetics-effects.md) — a narrower finding that bears on this claim

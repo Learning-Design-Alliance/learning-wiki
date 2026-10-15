@@ -1,0 +1,62 @@
+{
+  "principle": "principles/dual-coding",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "dual-coding-improves-learning",
+      "question": "Does pairing the words with a relevant visual of the same idea improve learning over the words alone, and for whom?",
+      "members": [
+        [
+          "media-combinations-affect-recall-and-retention",
+          "+"
+        ],
+        [
+          "multimodal-glosses-improve-incidental-vocabulary-learning",
+          "+"
+        ],
+        [
+          "multimedia-principle-words-and-pictures-outcomes",
+          "+"
+        ],
+        [
+          "graphic-organizers-support-novice-comprehension",
+          "~"
+        ],
+        [
+          "seductive-details-effect",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "concept-mapping-improves-learning",
+      "question": "Should learners build the visual themselves, and does building it beat studying a provided one or recalling from memory?",
+      "members": [
+        [
+          "drawing-improves-learning",
+          "+"
+        ],
+        [
+          "learner-constructed-graphic-organizers-outperform-provided",
+          "~"
+        ],
+        [
+          "closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions",
+          "~"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "~"
+        ],
+        [
+          "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
+          "-"
+        ],
+        [
+          "heavy-cognitive-demands-of-mapping-can-be-counterproductive",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

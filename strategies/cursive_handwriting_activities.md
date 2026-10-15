@@ -12,7 +12,7 @@ generated:
 # Cursive Handwriting Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 11 studies (4 quant-synthesis, 3 causal, 3 review, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 13 studies (5 quant-synthesis, 4 causal, 3 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Cursive handwriting activities are structured instructional sequences for teaching connected script: pencil-grip and fine-motor warm-ups, stroke-level practice, letter-family formation drills, join practice, and eventually fluent composition. They are typically carried out through short, frequent sessions combining [demonstration](../elements/demonstration.md) of letter formation with immediate, repeated [practice](../elements/practice.md) and corrective feedback.
@@ -22,7 +22,7 @@ Handwriting is a perceptual-motor skill that must become automatic before it can
 
 ### Context
 #### Requirements
-- Short, frequent sessions (roughly 10–15 minutes daily) rather than long infrequent blocks; distributed practice outperforms massed practice for retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Short, frequent sessions (roughly 10–15 minutes daily) rather than long infrequent blocks; distributed practice outperforms massed practice for retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - An explicit formation model: instructor demonstration of stroke order and direction, ideally with verbal mediation ("pull down, curve over")
 - Immediate corrective feedback on formation, size, slant, and joins, targeted at the task and process rather than global praise [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 - Appropriate tools: pencils or pens suited to the learner's grip, lined paper with midlines, and adequate seat posture
@@ -55,7 +55,7 @@ Handwriting is a perceptual-motor skill that must become automatic before it can
 3. Have learners imitate immediately with guided practice — arrows-and-dots models first, then fading to independent formation.
 4. Provide immediate, specific corrective feedback on formation, size, and joins [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 5. Chunk letters into families sharing beginning strokes and practice each family to fluency before combining [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
-6. Distribute short practice sessions across days and weeks rather than massing them [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Distribute short practice sessions across days and weeks rather than massing them [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 7. Transfer to authentic use: dictation, then short self-generated compositions, so the skill is exercised under real writing demands.
 
 ## Related Strategies

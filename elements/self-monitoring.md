@@ -29,7 +29,7 @@ Self-monitoring is the element in which learners track their own attention, beha
 - [Self Monitoring Improves On Task Behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+S]
 - [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [+M]
 - [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M]
-- [Self Monitoring Comprehension Improves Learning](../claims/self-monitoring-comprehension-improves-learning.md) [+M]
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](../claims/self-monitoring-comprehension-improves-learning.md) [+M]
 
 ## Related Elements
 - [Progress Tracking](progress-tracking.md)

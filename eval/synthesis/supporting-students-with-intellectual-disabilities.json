@@ -1,0 +1,25 @@
+{
+  "principle": "principles/supporting-students-with-intellectual-disabilities",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "self-determination-instruction-improves-outcomes",
+      "question": "Does teaching students with intellectual or other disabilities to set goals, make decisions and lead their own planning raise their self-determination and participation?",
+      "members": [
+        [
+          "self-determined-learning-model-of-instruction-improves-self-determination",
+          "~"
+        ],
+        [
+          "self-directed-iep-increases-student-participation",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "mnemonic-instruction-improves-recall-for-students-with-disabilities",
+      "question": "Do cue-based (mnemonic) methods help students with mild disabilities recall academic facts and vocabulary?",
+      "members": []
+    }
+  ]
+}

@@ -12,14 +12,14 @@ generated:
 # Spaced Learning Through Activity Breaks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 causal), `q3`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Breaking up learning or work into short chunks of time interspersed with activity breaks leverages the spacing effect, one of the most robust findings in memory research: distributing study across time produces markedly better long-term retention than massed study of the same total duration. Activity breaks during the intervals — physical movement, mindfulness, or unrelated engaging tasks — serve a dual role, providing the spacing gap while restoring vigilance and attention.
 
 ## Design Implications
 
-Spacing exploits the fact that memory strengthens when retrieval is required after a delay rather than immediately; the interval between encounters with material is what drives consolidation and retrieval strength [Spaced repetition improves long-term retention compared with massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]. Brief activity breaks serve a second function: brief diversions restore vigilance during prolonged tasks, counteracting the attention decrement that builds over continuous work [~M]. The breaks are not idle time — they should be genuinely different from the learning task so the interval functions as a true spacing gap rather than continuous, undifferentiated study.
+Spacing exploits the fact that memory strengthens when retrieval is required after a delay rather than immediately; the interval between encounters with material is what drives consolidation and retrieval strength [Spaced repetition improves long-term retention compared with massed practice.](../claims/spaced-practice-improves-retention.md) [+S]. Brief activity breaks serve a second function: brief diversions restore vigilance during prolonged tasks, counteracting the attention decrement that builds over continuous work [~M]. The breaks are not idle time — they should be genuinely different from the learning task so the interval functions as a true spacing gap rather than continuous, undifferentiated study.
 
 ### Context
 #### Requirements
@@ -40,12 +40,12 @@ Spacing exploits the fact that memory strengthens when retrieval is required aft
 - Can be implemented within a single session (micro-spacing) or across lessons and weeks (macro-spacing); the retention benefits are largest at the curriculum level [+S]
 
 ### Target Learners
-- All learners who need to retain complex information and maintain focus over extended periods, from elementary students to professionals [Spaced repetition improves long-term retention compared with massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+- All learners who need to retain complex information and maintain focus over extended periods, from elementary students to professionals [Spaced repetition improves long-term retention compared with massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 - Particularly valuable for learners prone to mental fatigue or attention lapses, where breaks restore vigilance [~M]
 - Young children benefit from very short learning intervals with movement breaks; adults can sustain longer chunks before a break is needed
 
 ### Target Learning Goals
-- Long-term retention of factual and conceptual knowledge [Spaced repetition improves long-term retention compared with massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Long-term retention of factual and conceptual knowledge [Spaced repetition improves long-term retention compared with massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 - Sustained attention and reduced mental fatigue across extended work periods
 - Not well suited to goals requiring only immediate, short-lived performance
 

@@ -41,7 +41,8 @@ The monograph reports that Gage and Needels (1989) reviewed experimental studies
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](coaching-pooled-achievement-effect-0-18-sd.md) — the general claim this finding bears on, with the studies behind it
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
 - [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement](itip-lacks-empirical-evidence-achievement.md) — related

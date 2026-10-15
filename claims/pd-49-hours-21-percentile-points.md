@@ -41,6 +41,7 @@ The paper cites a recent report reviewing nine studies of professional developme
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](coaching-pooled-achievement-effect-0-18-sd.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — related

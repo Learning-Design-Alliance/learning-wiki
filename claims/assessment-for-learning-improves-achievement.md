@@ -100,7 +100,7 @@ A narrative review of the classroom formative assessment literature, the source 
 | Ian D. Beatty 2008 | q2 · qualitative · r2 | i? | [Teachers reported that CRS-and-TEFA use gave them more information about student thinking ](tefa-formative-information-changed-lessons.md) (supports) |
 | Digital Promise 2018 | q2 · qualitative · r2 | i? | [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment inst](forms-realtime-formative-assessment-uses.md) (supports) |
 | [Robertson et al. 2021](https://doi.org/10.1080/07370008.2020.1832096) | q2 · qualitative · r2 | i? | [Developing curricular design knowledge enables small-scale responsive adaptations within a](curricular-knowledge-enables-responsive-instructional-moves.md) (qualifies) |
-| [McElhaney 2024](https://doi.org/10.51388/20.500.12265/231) | q2 · review · r2 | i? | [Teachers make frequent small customizations to OpenSciEd materials, mainly for practical n](teacher-customizations-storyline-curriculum.md) (qualifies) |
+| [McElhaney 2024](https://doi.org/10.51388/20.500.12265/231) | q2 · review · r2 | i? | [Most surveyed teachers make small customizations to OpenSciEd materials often or daily, co](teacher-customizations-storyline-curriculum.md) (qualifies) |
 | Yanjie Zhang 2026 | q2 · qualitative · r2 | i? | [Teachers in the formative study agreed lesson plans need adjustment when student ability d](stem-more-amenable-difficulty-scaling.md) (qualifies) |
 <!-- synthesis:end -->
 

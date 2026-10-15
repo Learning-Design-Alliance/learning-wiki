@@ -12,10 +12,10 @@ generated:
 # Interleaving
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies (3 quant-synthesis, 1 causal), `q3`–`q4` · 2 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (4 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
-Interleaving sequences practice so that problems from different categories or skills alternate within a session (A, B, C, A, B, C) instead of appearing in blocks (AAA, BBB, CCC). The mixing forces learners to select an appropriate strategy for each problem, not just execute one they have already primed. It is typically combined with [spaced repetition](../claims/spaced-repetition-improves-retention.md), since interleaved schedules naturally distribute practice over time.
+Interleaving sequences practice so that problems from different categories or skills alternate within a session (A, B, C, A, B, C) instead of appearing in blocks (AAA, BBB, CCC). The mixing forces learners to select an appropriate strategy for each problem, not just execute one they have already primed. It is typically combined with [spaced repetition](../claims/spaced-practice-improves-retention.md), since interleaved schedules naturally distribute practice over time.
 
 ## Design Implications
 
@@ -32,7 +32,7 @@ Interleaving improves delayed test performance across mathematics, category lear
 - Interleaving hurts performance **during practice** — learners make more errors and work more slowly, which can be misread as the strategy failing [-S]
 - Weakly effective or counterproductive for novices who have not yet mastered any single category; some initial blocked exposure before interleaving may be needed [~M]
 - For very distinct, easily discriminated skills (e.g., addition vs. reading comprehension), interleaving adds little beyond spacing [~W]
-- Interleaving within a single session is not a substitute for distributed practice across days; the two are complementary [Interleaving's benefits are partly but not wholly attributable to spacing.](../claims/spaced-repetition-improves-retention.md) [~M]
+- Interleaving within a single session is not a substitute for distributed practice across days; the two are complementary [Interleaving's benefits are partly but not wholly attributable to spacing.](../claims/spaced-practice-improves-retention.md) [~M]
 
 #### Implementation Variability
 - **Within-topic interleaving**: mixing problem types from one unit (e.g., volume of cones, spheres, cylinders in one set) — the classic Rohrer design
@@ -56,12 +56,12 @@ Interleaving improves delayed test performance across mathematics, category lear
 3. Build mixed problem sets that cycle through categories, keeping adjacent items from different categories so contrasts are salient.
 4. Require learners to identify the problem type or strategy *before* solving — this makes the discrimination demand explicit.
 5. Provide immediate feedback so category errors are corrected, not consolidated.
-6. Revisit the mixed set across multiple sessions, pairing interleaving with [distributed practice](../claims/spaced-repetition-improves-retention.md).
+6. Revisit the mixed set across multiple sessions, pairing interleaving with [distributed practice](../claims/spaced-practice-improves-retention.md).
 7. Assess with a delayed, mixed test — never judge the strategy by within-session fluency.
 
 ## Related Strategies
 
-- [Spaced practice](../claims/spaced-repetition-improves-retention.md) — interleaving's natural companion; mixed schedules distribute retrieval over time; each interleaved item forces re-selection of a strategy, embedding retrieval in the schedule
+- [Spaced practice](../claims/spaced-practice-improves-retention.md) — interleaving's natural companion; mixed schedules distribute retrieval over time; each interleaved item forces re-selection of a strategy, embedding retrieval in the schedule
 - [Comparing cases](../elements/case-studies.md) — interleaving enacts comparison at the schedule level; explicit case comparison does it at the task level
 - [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
 

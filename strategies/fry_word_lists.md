@@ -12,7 +12,7 @@ generated:
 # Fry Word Lists
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 review, 2 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
 
 ## Description
 The Fry word list contains 1,000 high-frequency words divided into ten levels, further split into groups of twenty-five words based on frequency and difficulty. These "instant words" aim to build reading fluency: students are encouraged to recognize the words by sight, practice them in context through phrase and sentence reading, and write short sentences containing Fry words. The list, developed by Edward Fry, is based on frequency analysis of materials commonly encountered in grades 3–9, and covers a large share of all running text — the first 100 words alone account for roughly half of most written English.
@@ -24,7 +24,7 @@ The strategy rests on the premise that automatic word recognition frees attentio
 ### Context
 #### Requirements
 - Fry word lists (or a digital equivalent), leveled reading materials containing the target words
-- A routine for repeated, distributed exposure — brief daily review outperforms massed drill [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- A routine for repeated, distributed exposure — brief daily review outperforms massed drill [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Ongoing [Practice](../elements/practice.md) in reading words in isolation *and* in phrases/sentences, with [Feedback](../elements/provide-feedback.md) on misreadings
 
 #### Constraints
@@ -51,7 +51,7 @@ The strategy rests on the premise that automatic word recognition frees attentio
 ### Instructions
 1. **Assess baseline.** Have the student read the current level's 25-word list aloud; record known and unknown words.
 2. **Introduce a small set.** Teach 5–10 unknown words explicitly — pronounce, spell, and discuss meaning — applying [Chunking](../principles/chunking.md) to keep the set manageable.
-3. **Practice in isolation.** Use flashcards, games, or timed reads for brief daily review, spacing review across days rather than massing it [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+3. **Practice in isolation.** Use flashcards, games, or timed reads for brief daily review, spacing review across days rather than massing it [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 4. **Practice in context.** Read phrases and short sentences built from the target words, then connected text at the student's level, so recognition is exercised where it matters.
 5. **Provide feedback and write.** Correct misreadings immediately and have the student write original sentences using the words [Provide Feedback](../elements/provide-feedback.md).
 6. **Track and advance.** Re-assess periodically; move to the next 25-word set when the student reads the current set instantly and accurately in context.

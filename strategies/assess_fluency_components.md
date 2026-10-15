@@ -12,7 +12,7 @@ generated:
 # Assess Fluency Components
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (6 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 11 studies (7 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Fluency is multidimensional: it includes accuracy, efficiency (speed with reasonable effort), and flexibility (choosing and shifting strategies appropriately). Assessing only accuracy — or only speed via timed tests — misrepresents a learner's fluency. This strategy uses interviews, observations, and written prompts to evaluate all components and to understand the learner's strategies and dispositions, replacing timed testing as the default measure.
@@ -56,7 +56,7 @@ Fluency develops through a progression from counting and derived strategies to a
 2. Replace timed tests with a combination of [interviews](../elements/interviews.md), [observation](../elements/observation.md), and written strategy prompts.
 3. During interviews, ask learners to solve a task and explain their thinking ([Think-Aloud](../elements/think-aloud.md)); record strategy type, latency qualitatively, and accuracy.
 4. Use results to [provide feedback](../elements/provide-feedback.md) at the strategy level, not just the answer level [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
-5. Feed findings into instruction: learners relying on counting need strategy-building activities; learners with efficient strategies need brief distributed practice to build automaticity [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Feed findings into instruction: learners relying on counting need strategy-building activities; learners with efficient strategies need brief distributed practice to build automaticity [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 6. Reassess periodically to track progression along the fluency trajectory, using [assessment for learning](../principles/assessment-for-learning.md) rather than one-shot evaluation.
 
 ## Related Strategies

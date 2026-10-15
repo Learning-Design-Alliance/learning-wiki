@@ -60,6 +60,6 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 - [Feedback improves learning](../claims/feedback-improves-learning.md) — feedback after retrieval attempts is a key moderator of whether errors are corrected or entrenched
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — retrieval demands that help novices may become counterproductive for advanced learners
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related

@@ -1,0 +1,36 @@
+{
+  "principle": "principles/match-interventions-to-stages-of-concern",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "stages-of-concern-developmental-trend",
+      "question": "Do adopters' concerns move in the expected order, from self through task to impact concerns, over a period of use?",
+      "members": [
+        [
+          "workshop-shifts-concerns-toward-user-profile",
+          "+"
+        ],
+        [
+          "individual-concern-profiles-vary-widely",
+          "~"
+        ],
+        [
+          "teacher-concern-progression-and-retreat",
+          "~"
+        ],
+        [
+          "early-concerns-maintained-alongside-later-concerns",
+          "~"
+        ],
+        [
+          "not-all-educators-develop-impact-concerns",
+          "~"
+        ],
+        [
+          "mentors-may-inhibit-concern-development",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

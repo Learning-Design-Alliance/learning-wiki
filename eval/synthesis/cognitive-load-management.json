@@ -1,0 +1,128 @@
+{
+  "principle": "principles/cognitive-load-management",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "pretraining-improves-transfer",
+      "question": "Should component knowledge come before the whole task?",
+      "members": [
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "pretraining-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "~"
+        ],
+        [
+          "whole-task-performance-improves-transfer",
+          "~"
+        ],
+        [
+          "skill-develops-through-engagement-not-drill",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "expertise-reversal-effect",
+      "question": "When should support be withdrawn as the learner improves?",
+      "members": [
+        [
+          "revised-visuals-processing-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-text-prior-knowledge-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-processing-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-cognitive-load-math-visuals-interaction",
+          "~"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-modality-effect-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-prior-knowledge-interaction",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect-compound",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "-"
+        ],
+        [
+          "revisions-no-effect-time-with-lesson",
+          "~"
+        ],
+        [
+          "cognitive-load-management",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "desirable-difficulties-enhance-learning",
+      "question": "When the outcome is retention at a delay, should effortful practice be reintroduced once the material is understood, and for which material?",
+      "members": [
+        [
+          "interleaving-limited-for-math-texts-and-words",
+          "~"
+        ],
+        [
+          "desirable-difficulty-enhances-long-term-retention",
+          "+"
+        ],
+        [
+          "learning-rate-retention-tradeoff",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

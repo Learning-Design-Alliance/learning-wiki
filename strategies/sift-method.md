@@ -143,7 +143,7 @@ SIFT operationalizes the professional fact-checking practices documented by Wine
 2. **Investigate the source.** Open a new tab and search for what known outlets say about the source or author — read laterally, not vertically.
 3. **Find better coverage.** Search for the claim itself on fact-checking sites and trusted outlets; the best fact-check of a claim is often independent of the original source.
 4. **Trace the claim.** Follow quotes, images, and statistics back to their original context using reverse image search and citation chasing.
-5. Follow with distributed [Practice](../elements/practice.md) on fresh, authentic pages so the moves become automatic [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+5. Follow with distributed [Practice](../elements/practice.md) on fresh, authentic pages so the moves become automatic [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 - [Lateral Reading](lateral-reading.md) — the core reading behavior that SIFT packages into teachable moves

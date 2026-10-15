@@ -62,7 +62,7 @@ Across a field experiment and two laboratory experiments, the authors compared a
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should support be withdrawn, and in what order?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **7 distinct studies** (4 causal, 1 review, 1 qualitative, 1 quant-synthesis), `q2`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should support be withdrawn, and in what order?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **10 distinct studies** (5 causal, 2 review, 1 qualitative, 1 quant-synthesis, 1 theoretical), `q2`–`q3`, 1 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -73,6 +73,9 @@ Across a field experiment and two laboratory experiments, the authors compared a
 | [Ali Bicer 2026](https://doi.org/10.1007/s11858-026-01816-1) | q2 · qualitative · r3 | i? | [Progressive scaffold fading moved teachers from guided participation toward independent ju](ai-scaffold-fading-independent-justification.md) (supports) |
 | [Groff 2011](https://doi.org/10.1901/jaba.2011.44-949) | q2 · causal · r1 | i1 | [Cup-drinking performance was poor during early fading steps and improved only near the ter](early-fading-steps-poor-cup-probes.md) (qualifies) |
 | [Belland 2017](https://doi.org/10.3102/0034654316670999) | q3 · quant-synthesis · r? | i? | [Scaffolding's effect did not vary by customization (fading/adding), change logic, or scope](scaffolding-design-features-no-moderation.md) (counts against) |
+| [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q3 · review · r? | i? | [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) (supports) |
+| [Renkl & Atkinson 2003](https://doi.org/10.1207/s15326985ep3801_3) | q3 · theoretical · r? | i? | [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) (supports) |
+| [Gupta 2020](https://doi.org/10.20897/ejsteme/9252) | q3 · causal · r2 | i? | [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than](lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

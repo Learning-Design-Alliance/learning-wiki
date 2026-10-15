@@ -60,6 +60,24 @@ Adimora, D. E., Nwokenna, E. N., & Obiageli, M. (2017). Application of comprehen
 
 Low-achieving Nigerian senior-secondary students (n=127, two intact classes) were assigned to a comprehension-monitoring-strategy (CMS) treatment group or a conventional-instruction control group in a non-randomized pretest-posttest design. The CMS group's mean reading-comprehension score rose from 18.26 to 37.17 (gain of 18.92), versus the control group's rise from 17.75 to 18.68 (gain of 0.93); ANCOVA found a significant effect of treatment on posttest achievement (F = 828.05, p < .001, adjusted R² = .872) after controlling for pretest scores. The same pattern held for a reading-interest measure. Only raw means, an F-statistic and adjusted R² were reported — no Cohen's d, Hedges' g or comparable standardized effect size appears in the text, so impact is coded `i?` rather than computed from the raw scores. Read full text (PDF).
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching learners to check their own work during a task improve their performance on it?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **9 distinct studies** (4 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q2`–`q4`, 2 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [de Boer et al. 2018](https://doi.org/10.1016/j.edurev.2018.03.002) | q4 · quant-synthesis · r? | i2 · medium effect, Hedges' g=0.50 (posttest), g=0.63 (follow-up) | this claim |
+| [Adimora et al. 2017](https://doi.org/10.18844/prosoc.v3i3.1582) | q2 · causal · r1 | i? | this claim |
+| [Guo 2022](https://doi.org/10.1111/jcal.12650) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.40, 95% CI [0.31, 0.49] | [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) (supports) |
+| [Wong et al. 2019](https://doi.org/10.1080/10447318.2018.1543084) | q3 · review · r2 | i? | [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) (supports) |
+| [Zimmerman 2002](https://doi.org/10.1207/s15430421tip4102_2) | q3 · review · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
+| [Butler & Winne 1995](https://doi.org/10.3102/00346543065003245) | q3 · theoretical · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
+| [Scheibel et al. 2023](https://doi.org/10.1177/01626434221085554) | q3 · quant-synthesis · r1 | i? | [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) (qualifies) |
+| [McDougall et al. 2015](https://doi.org/10.64546/jaasep.289) | q3 · quant-synthesis · r? | i? | [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) (qualifies) |
+| [Bellhäuser 2022](https://doi.org/10.3389/fpsyg.2022.813381) | q3 · causal · r2 | i? | [A daily learning diary alone (Group D) did not produce statistically significant pre-post ](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Self-monitoring of comprehension is a core component of [self-regulated learning](../theories/self-regulated-learning.md): learners must notice when text or explanations have not "landed" before they can take corrective action such as rereading, [chunking](chunking-reduces-working-memory-load.md) difficult passages, or seeking help. Without monitoring, learners often experience illusions of competence — fluency of reading is mistaken for understanding — and so fail to repair gaps that later surface on tests.
@@ -87,7 +105,6 @@ Open questions for future evidence passes: whether the benefit of monitoring lie
 - [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on
-- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — a broader claim this one bears on
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — a broader claim this one bears on
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — a narrower finding that bears on this claim
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related

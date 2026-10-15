@@ -12,7 +12,7 @@ generated:
 # Points or Experience (XP) Systems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (5 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (6 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q1`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Point systems or experience (XP) systems reward learners for completing tasks, assignments, or assessments. Unlike traditional grading, XP typically starts at zero and only accumulates — signaling progress rather than loss — and can offer limitless points, flexible goals, and learner choice about which activities to pursue. Points are tracked in a gradebook, leaderboard, or dedicated platform, and may be tied to levels, badges, or privileges.
@@ -66,7 +66,7 @@ XP systems are a form of [gamification](../theories/behaviorism.md) that applies
 - [Use design interventions that make the levels system visible and prompt continuation to encourage learners to level up](prompt-learners-to-continue-leveling-up.md)
 
 ## Related Elements
-- [Practice](../elements/practice.md) — the primary activity XP should reward; points on practice encourage volume and [distributed practice](../claims/spaced-repetition-improves-retention.md) [+S]
+- [Practice](../elements/practice.md) — the primary activity XP should reward; points on practice encourage volume and [distributed practice](../claims/spaced-practice-improves-retention.md) [+S]
 - [Assessment](../elements/assessment.md) — XP can reduce the stakes on low-stakes assessment by reframing it as accumulation
 - [Provide feedback](../elements/provide-feedback.md) — points alone are not feedback; pairing is essential
 - [Check-in](../elements/check-in.md) — low-cost point-earning activity that sustains engagement between major tasks

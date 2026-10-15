@@ -41,8 +41,9 @@ WWC re-analysis of the Six-District quasi-experimental study of CDP, which exami
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](positive-action-positive-effects-behavior.md) — the general claim this finding bears on, with the studies behind it
 - [Chambers et al. report a statistically significant expressive language effect for 3-year-olds but not 4-year-olds, which WWC recalculation does not confirm](curiosity-corner-expressive-language-age-group-mixed.md) — related
 - [Effects on behavioral intentions for marijuana use and fighting were not statistically significant in either study](tgfdv-intentions-null-results.md) — related
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — a broader claim this one bears on

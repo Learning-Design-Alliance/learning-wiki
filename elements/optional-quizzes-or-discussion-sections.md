@@ -13,14 +13,14 @@ generated:
 # Optional Quizzes or Discussion Sections
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 15 studies (5 quant-synthesis, 3 review, 3 design, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 15 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 17 studies (6 quant-synthesis, 3 causal, 3 review, 3 design, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 4 claims rest on one study
 
 ## Description
 Optional quizzes and discussion sections are supplementary, typically ungraded or low-stakes activities that let learners rehearse and consolidate course content outside required assessments. Quizzes enact [retrieval practice](../principles/retrieval-practice.md); discussion sections add social elaboration and instructor feedback. Because they are optional, their effectiveness depends heavily on whether learners actually choose to use them.
 
 ## Design Implications
 
-Low-stakes retrieval opportunities strengthen retention more than rereading or passive review, and the effect holds even when the activity is voluntary [Spaced retrieval improves long-term retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Discussion sections add value when they require learners to articulate and justify ideas rather than merely attend; explaining content to peers produces conceptual gains beyond listening [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Because participation is voluntary, design must address motivation: making the activities genuinely useful for self-assessment and connecting them to graded outcomes increases uptake [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
+Low-stakes retrieval opportunities strengthen retention more than rereading or passive review, and the effect holds even when the activity is voluntary [Spaced retrieval improves long-term retention.](../claims/spaced-practice-improves-retention.md) [+S]. Discussion sections add value when they require learners to articulate and justify ideas rather than merely attend; explaining content to peers produces conceptual gains beyond listening [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Because participation is voluntary, design must address motivation: making the activities genuinely useful for self-assessment and connecting them to graded outcomes increases uptake [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 
 #### Constraints
 - Optional activities suffer severe self-selection: the learners who most need the practice are least likely to attend, widening achievement gaps [-M]
-- Optional quizzes taken only once, immediately before exams, lose most of the spacing benefit [Spaced retrieval improves long-term retention.](../claims/spaced-repetition-improves-retention.md) [-S]
+- Optional quizzes taken only once, immediately before exams, lose most of the spacing benefit [Spaced retrieval improves long-term retention.](../claims/spaced-practice-improves-retention.md) [-S]
 - Unstructured "discussion" sections without facilitation or required contributions frequently devolve into passive Q&A with minimal participation [-M]
 - If optional activities are perceived as busywork or disconnected from assessment, uptake collapses regardless of quality [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [-M]
 
@@ -41,7 +41,7 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 - Less reliably reached: struggling learners with weak self-regulation, who tend to skip optional work — consider small incentives or required low-stakes versions for this group
 
 ### Target Learning Goals
-- Retention and consolidation of factual and conceptual knowledge [Spaced retrieval improves long-term retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention and consolidation of factual and conceptual knowledge [Spaced retrieval improves long-term retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Self-assessment: calibrating confidence against actual performance
 - Elaboration and articulation of understanding through peer explanation [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 

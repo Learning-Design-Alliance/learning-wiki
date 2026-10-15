@@ -44,7 +44,7 @@ The article reports, citing Schneider et al. (2002), a vocabulary learning study
 
 ## Related Claims
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — a narrower finding that bears on this claim
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — possibly the same claim (merge candidate)
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related

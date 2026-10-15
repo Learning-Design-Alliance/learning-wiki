@@ -59,6 +59,19 @@ A meta-analysis of 15 studies (2008–2021, 38 effect sizes) comparing ESL/EFL l
 
 > "The pooled effect size was medium (g = 0.69), and the confidence interval was not across zero (95% CI = [0.31, 1.08])."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which areas of pronunciation (segmentals, prosody, fluency) does computer-assisted or ASR-based practice improve, for whom, and with how much practice?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (1 review, 1 quant-synthesis, 1 causal, 1 design), `q2`–`q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ali 2016](https://doi.org/10.14705/rpnet.2016.eurocall2016.530) | q2 · review · r2 | i? | this claim; [The Fluspeak ASR-based pronunciation software gave good results with beginners focusing on](fluspeak-good-beginners-poor-advanced.md) (qualifies); [Whether individual or peer practice works better with ASR-based pronunciation training is ](individual-work-best-asr-pronunciation-training.md) (qualifies) |
+| [Ngo et al. 2024](https://doi.org/10.1017/s0958344023000113) | q3 · quant-synthesis · r2 | i2 · medium effect, g=0.69 | this claim; [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more th](asr-guided-practice-improves-overall-pronunciation-accuracy.md) (supports); [Amount of ASR practice (days per week, session length) showed no observable difference in ](no-dose-response-asr-practice-time.md) (qualifies); [Whether individual or peer practice works better with ASR-based pronunciation training is ](individual-work-best-asr-pronunciation-training.md) (qualifies) |
+| [Dillon 2023](https://doi.org/10.15858/engtea.78.1.202303.3) | q2 · causal · r2 | i2; i3; i? | [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more th](asr-guided-practice-improves-overall-pronunciation-accuracy.md) (supports); [Guided ASR practice did not produce statistically significant improvement in any specific ](asr-specific-error-types-no-significant-gains.md) (qualifies); [Amount of ASR practice (days per week, session length) showed no observable difference in ](no-dose-response-asr-practice-time.md) (qualifies) |
+| Kazuki Kawamura 2025 | q2 · design · r2 | i? | [Profy practice shows larger observed pronunciation-intelligibility improvement than elicit](profy-intelligibility-gain-over-elicited-imitation.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Ngo et al. (2024) support this claim for ASR-based training, with a large pooled effect on segmentals and a small, uncertain one on suprasegmentals. They also note that an earlier meta-analysis of CAPT that included multimedia tools rather than ASR found the reverse pattern, so the segmental-over-prosody pattern may be a property of ASR rather than of CAPT in general.

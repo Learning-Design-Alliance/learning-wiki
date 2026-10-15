@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (20 for, 11 mixed, 1 against) · 32 studies (13 causal, 8 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 24 claims rest on one study
+> **Evidence** · 32 claims (20 for, 11 mixed, 1 against) · 34 studies (13 causal, 8 quant-synthesis, 8 review, 4 theoretical, 1 design), `q1`–`q4` · 10 of 34 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,7 +97,7 @@ Keep learners, task, comparator, outcome and horizon with each result when trans
 
 - *Should component knowledge come before the whole task?* [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]
 - *When should support be withdrawn as the learner improves?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
-- *When the outcome is retention at a delay, should effortful practice be reintroduced once the material is understood, and for which material?* [Desirable Difficulties Enhance Learning](../claims/desirable-difficulties-enhance-learning.md) [~M]
+- *When the outcome is retention at a delay, should effortful practice be reintroduced once the material is understood, and for which material?* [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](../claims/desirable-difficulties-enhance-learning.md) [~M]
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite which the rewrite did not use as core evidence. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

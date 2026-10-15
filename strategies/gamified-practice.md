@@ -12,7 +12,7 @@ generated:
 # Gamified Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 11 studies (6 quant-synthesis, 2 causal, 2 theoretical, 1 review), `q1`–`q4` · 5 of 11 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 13 studies (7 quant-synthesis, 3 causal, 2 theoretical, 1 review), `q1`–`q4` · 6 of 13 report an effect size
 
 ## Description
 Gamified practice embeds game design elements — points, badges, levels, leaderboards, streaks, narrative, or challenge structures — into practice activities that would otherwise be plain drills or exercises. The goal is not to replace practice but to sustain the repeated, effortful engagement that practice requires, while providing rapid feedback and progressively calibrated difficulty.
@@ -39,7 +39,7 @@ Gamification works when game mechanics amplify the learning mechanics of practic
 - **Structural gamification** (levels, progress bars, unlockable content) — lower risk, sustains persistence
 - **Content gamification** (narrative, role-play, challenge framing) — deeper engagement, higher design cost
 - **Social gamification** (team quests, cooperative goals) — pairs well with collaborative structures; competition is the riskiest variant
-- **Spaced gamified review** — scheduling gamified retrieval across sessions leverages retention benefits [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+- **Spaced gamified review** — scheduling gamified retrieval across sessions leverages retention benefits [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Target Learners
 - K–12 learners and novices who need high volumes of low-stakes practice to build fluency [+M]
@@ -57,7 +57,7 @@ Gamification works when game mechanics amplify the learning mechanics of practic
 3. Build in immediate, explanatory feedback for every attempt ([Assessment](../elements/assessment.md))
 4. Calibrate difficulty so success rates stay roughly 70–85%, escalating via levels ([Adaptive Difficulty](../elements/adaptive-difficulty.md))
 5. Prefer mastery- and progress-based displays over public rankings; if using competition, make it team-based or opt-in
-6. Schedule gamified sessions across days or weeks to capture spacing effects [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+6. Schedule gamified sessions across days or weeks to capture spacing effects [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 7. Fade game scaffolds as competence grows, shifting motivation toward the task itself
 
 ## Related Strategies

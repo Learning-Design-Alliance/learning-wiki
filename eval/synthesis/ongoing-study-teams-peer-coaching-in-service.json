@@ -1,0 +1,88 @@
+{
+  "principle": "principles/ongoing-study-teams-peer-coaching-in-service",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "coaching-pooled-instruction-effect-0-49-sd",
+      "question": "Does adding ongoing coaching or colleague collaboration to in-service professional development change teachers' classroom practice and their students' achievement?",
+      "members": [
+        [
+          "coaching-increases-teacher-praise",
+          "+"
+        ],
+        [
+          "group-level-scaffolding-training-increases-teacher-process-support-and-student-participation",
+          "+"
+        ],
+        [
+          "supervisory-coaching-mixed-teacher-student-outcomes",
+          "~"
+        ],
+        [
+          "coaching-pooled-achievement-effect-0-18-sd",
+          "+"
+        ],
+        [
+          "pd-coaching-expert-support-gains",
+          "+"
+        ],
+        [
+          "cal-teacher-coaching-itt-math-gains-012-022-sd",
+          "+"
+        ],
+        [
+          "colleague-collaboration-consistently-positive-practices",
+          "+"
+        ],
+        [
+          "coaching-meta-analysis-positive-effects-instruction-achievement",
+          "+"
+        ],
+        [
+          "coaching-complementary-elements-moderators",
+          "~"
+        ],
+        [
+          "instruction-achievement-weak-link-coaching",
+          "~"
+        ],
+        [
+          "coaching-scale-up-diminishing-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "coaching-dosage-null-effect",
+      "question": "Does more coaching time, or more frequent contact, go with larger effects?",
+      "members": [
+        [
+          "coaching-dosage-quality-over-quantity",
+          "+"
+        ],
+        [
+          "coach-teacher-time-key-success-factor",
+          "-"
+        ],
+        [
+          "coaching-frequency-related-to-induction-effectiveness",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "coaching-partnership-voluntary-non-evaluative",
+      "question": "Does participation that is voluntary and kept apart from evaluation go with more change in practice?",
+      "members": [
+        [
+          "coaching-culture-increases-teacher-participation",
+          "+"
+        ],
+        [
+          "dual-evaluator-coach-role-undermines-learning",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -12,14 +12,14 @@ generated:
 # Drawing for Memory and Comprehension
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Drawing asks learners to construct a pictorial representation of content they are trying to learn — a diagram, sketch, or illustration of a concept, process, or text. The act of drawing requires learners to select key information, organize it spatially, and translate verbal material into visual form, producing deeper processing than rereading or copying. It is a generative learning activity: the learner, not the instructor, produces the external representation.
 
 ## Design Implications
 
-Drawing works because it combines multiple memory pathways: it engages [Dual Coding Theory](../theories/dual-coding-theory.md) by creating both verbal and visual codes, and it forces generative processing — learners must decide what to depict and how, which is itself a form of elaboration [Drawing improves memory for words and definitions more than writing or visualizing.](../claims/spaced-repetition-improves-retention.md) [+S]. The "drawing effect" on free recall is robust across materials, ages, and cultures [Drawing improves memory for words and definitions more than writing or visualizing.](../claims/spaced-repetition-improves-retention.md) [+S]. For comprehension of texts and processes, drawing is most effective when learners are supported in mapping the *structure* of the content (causal links, sequences, part–whole relations) rather than decorating it with pictures [+M]. Because drawing consumes working memory, it should be applied to small units of content and paired with [Chunking](../claims/chunking-reduces-working-memory-load.md) [+M].
+Drawing works because it combines multiple memory pathways: it engages [Dual Coding Theory](../theories/dual-coding-theory.md) by creating both verbal and visual codes, and it forces generative processing — learners must decide what to depict and how, which is itself a form of elaboration [Drawing improves memory for words and definitions more than writing or visualizing.](../claims/spaced-practice-improves-retention.md) [+S]. The "drawing effect" on free recall is robust across materials, ages, and cultures [Drawing improves memory for words and definitions more than writing or visualizing.](../claims/spaced-practice-improves-retention.md) [+S]. For comprehension of texts and processes, drawing is most effective when learners are supported in mapping the *structure* of the content (causal links, sequences, part–whole relations) rather than decorating it with pictures [+M]. Because drawing consumes working memory, it should be applied to small units of content and paired with [Chunking](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Drawing works because it combines multiple memory pathways: it engages [Dual Cod
 - **Group drawing**: collaborative concept mapping on shared canvases combines drawing with [Collaborative Learning](../principles/collaborative-learning.md)
 
 ### Target Learners
-- Children and novices, who benefit from the dual verbal–visual encoding of new vocabulary and concepts [Drawing improves memory for words and definitions more than writing or visualizing.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Children and novices, who benefit from the dual verbal–visual encoding of new vocabulary and concepts [Drawing improves memory for words and definitions more than writing or visualizing.](../claims/spaced-practice-improves-retention.md) [+S]
 - Learners with weak verbal encoding strategies, for whom the visual route provides an alternative memory path [+M]
 - Less beneficial for learners with high expertise, who already have well-formed mental models and may find drawing redundant [~M]
 
@@ -55,7 +55,7 @@ Drawing works because it combines multiple memory pathways: it engages [Dual Cod
 2. Ask learners to draw a picture that captures the meaning — not an illustration of the words, but a representation of the idea — following the generative logic of [Active Learning](../principles/active-learning.md).
 3. Have learners label the drawing with key terms to bind the verbal and visual codes.
 4. Prompt learners to explain their drawing aloud or in writing, enacting [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md).
-5. Compare drawings with a reference diagram or peers' drawings and revise; revisit drawings on a spaced schedule using [Spaced Repetition](../claims/spaced-repetition-improves-retention.md).
+5. Compare drawings with a reference diagram or peers' drawings and revise; revisit drawings on a spaced schedule using [Spaced Repetition](../claims/spaced-practice-improves-retention.md).
 
 ## Related Strategies
 - [Concept Mapping](../elements/concept-mapping.md) — a structured, node-and-link variant of drawing focused on relational knowledge

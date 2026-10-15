@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (26 for, 28 mixed, 1 against, 1 unmarked) · 31 studies (9 quant-synthesis, 7 causal, 6 review, 6 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 10 of 31 report an effect size · 49 claims rest on one study
+> **Evidence** · 56 claims (26 for, 28 mixed, 1 against, 1 unmarked) · 26 studies (9 quant-synthesis, 7 causal, 6 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 26 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -45,7 +45,7 @@ The rows draw on the study tables gathered under [The evidence by question](#the
 | Learners are new to the material and would fail most recall attempts | Give a brief study pass or cues first, so that most attempts succeed; raise difficulty as success rises | [Retrieval failure reduces benefit](../claims/retrieval-failure-reduces-benefit.md) [~M]; [Effects are more robust when initial retrieval success is high](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M] |
 | Practice can recur across the course | Space the quizzes across sessions rather than massing them; an expanding schedule is not better than an even one | [Spaced retrieval improves retention](../claims/spaced-retrieval-improves-retention.md) [+M]; [Expanding and uniform schedules do not differ](../claims/expanding-versus-uniform-retrieval-no-difference.md) [~M] |
 | Learners are school children, older adults, or the material is visual or spatial | Use it; the benefit has been found across ages and materials, smaller in elementary school than at university | [The testing effect generalizes across education levels](../claims/testing-effect-generalizes-education-levels.md) [+M]; [Benefits extend to nonverbal and spatial materials](../claims/retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials.md) [+M] |
-| Learners study on their own (`online-self-paced`, revision) | Build the quizzes into the materials and tell learners why; left alone, most reread rather than test themselves | [Learners underuse effective strategies](../claims/learners-underuse-effective-learning-strategies.md) [~M]; [Learners misjudge the benefit of retrieval](../claims/learners-misjudge-retrieval-benefit.md) [~M] |
+| Learners study on their own (`online-self-paced`, revision) | Build the quizzes into the materials and tell learners why; left alone, most reread rather than test themselves | [Learners underuse effective strategies](../claims/learners-underuse-effective-learning-strategies.md) [~M]; [Learners misjudge the benefit of retrieval](../claims/learners-misjudge-effective-learning-strategies.md) [~M] |
 | Learners are anxious about tests | Keep quizzes low-stakes and ungraded; the benefit holds across anxiety levels but is smaller at high anxiety | [Higher anxiety is associated with smaller testing effects](../claims/higher-anxiety-is-associated-with-smaller-testing-effects.md) [~M] |
 
 ## Observation, state and explanation
@@ -207,7 +207,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Pretesting (Prequestions Before Study)](pretesting.md)
 - [Spaced Learning](spaced-learning.md)
 - [Immediate Feedback](immediate-feedback.md)
-- [Desirable Difficulties Enhance Learning](../claims/desirable-difficulties-enhance-learning.md)
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](../claims/desirable-difficulties-enhance-learning.md)
 
 ## Examples
 - A biology course opens each lesson with short no-notes prompts that ask learners to explain last week’s concepts before new content begins.

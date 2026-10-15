@@ -1,0 +1,58 @@
+{
+  "principle": "principles/guided-practice",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "practice-presence-raises-cbi-posttest-achievement",
+      "question": "After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?",
+      "members": [
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "tibetcpr-rhythm-stabilisation-exceeds-unguided-practice",
+          "+"
+        ],
+        [
+          "tibetcpr-depth-accuracy-gains-exceed-control",
+          "+"
+        ],
+        [
+          "multiple-choice-lures-can-be-learned-as-false-knowledge",
+          "+"
+        ],
+        [
+          "gpt-tutor-improves-practice-more-than-gpt-base",
+          "~"
+        ],
+        [
+          "gpt4-access-harms-learning-after-withdrawal",
+          "~"
+        ],
+        [
+          "unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "tutoring-effectiveness-comes-from-scaffolding-and-feedback",
+      "question": "What should support during practice do: explain and give feedback, prompt the learner to construct the step, or respond contingently to each attempt?",
+      "members": [
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "llm-feedback-fewer-attempts",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

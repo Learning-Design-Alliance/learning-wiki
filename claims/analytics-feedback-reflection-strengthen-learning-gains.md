@@ -39,6 +39,21 @@ The review reports, citing Shute and Ke (2012) and Wouters et al. (2013), that f
 
 > "Embedded analytics, timely feedback, and structured reflection play an important role in games and educational simulations by strengthening conceptual consolidation and learning gains (Shute & Ke, 2012; Wouters et al., 2013)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a feedback and reflection step after a simulation or shared exercise add to what learners gain from the experience itself?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 1 review, 1 design, 1 qualitative), `q1`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Kelly McNeil 2026 | q2 · review · r2 | i? | this claim |
+| [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.71 | [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) (supports) |
+| [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes ~1.09–1.20 for knowledge/skills/behaviors | [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) (qualifies) |
+| [Guo 2022](https://doi.org/10.1080/14623943.2021.1995856) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.56 (SE=0.06) | [Reflection interventions in higher education have a medium positive average effect on lear](reflective-practice-evidence-mixed-in-professional-education.md) (qualifies) |
+| J. Vykopal 2026 | q1 · design · r2 | i? | [Trainees consistently wanted more debriefing time than scheduled, and structured reflectio](reflection-debriefing-time-underscheduled.md) (supports) |
+| Zhiqi Gao 2026 | q2 · qualitative · r3 | i? | [Formative participants preferred post-session debriefing over in-session interruption, wit](feedback-timing-post-session-debrief-preference.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

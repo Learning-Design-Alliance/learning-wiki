@@ -5,6 +5,28 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-15 (overnight) — waves 10 and 11, study tables for every converted page
+
+The maintainer asked for all remaining pages to be run overnight.
+
+- **Waves 10 and 11:** 30 principles and patterns converted (the convert step's next 30). Brief test for wave 10:
+  new pages won 87 of 120 blind pairs (sparse 43–17, complete 44–16), the best wave so far. Wave 11's test is in
+  the next entry.
+- **Study tables for converted pages (the spec pass):** 120 converted pages had no synthesis spec; 30 agents read
+  four pages each and wrote 116 specs (`eval/synthesis/`, names `<kind>_<slug>.json` where a short name was taken),
+  each with a `## The evidence by question` section on its page. Findings resting on one study are dropped at install
+  (`install_specs` in the session scratch: collision-safe names, the two-study rule, members unioned across shared
+  hubs). A few pages got no spec: no claim tests their topic (anchored instruction, universal design for learning,
+  internet search).
+- **Claim cleanup:** findings from 60 agent reports worked through by nine cleanup agents: 27 retitles (275 link
+  texts updated), 20 duplicate claims merged, i codes recoded to the printed statistic (partial eta squared, normalized
+  gains, regression betas and within-group pre-post values are not d-family and give `i?`), duplicate entries for one
+  paper folded into comments (six secondary reports of one GPT-4 trial were counted as six studies), citations checked
+  on Crossref (Dorner 2012, Barbieri & Booth 2020, Bowe 2019, Carpenter 1989 corrected).
+- **For the maintainer:** kind or rigour doubts are listed in the cleanup reports, not changed (theoretical codes on
+  second-hand empirical reports, causal codes on regressions). Pages whose model now lags the wiki (flipped learning,
+  PBIS, flexible grouping) go to the reread step.
+
 ## 2026-10-15 — conversion wave 9, with study tables
 
 - **15 principles and patterns converted** (the next 15 from `upgrade_worklist.py --step convert`): game-based mastery

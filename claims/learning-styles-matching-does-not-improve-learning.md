@@ -83,7 +83,7 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does assigning tasks or formats to match a learner's measured style improve learning more than giving every learner the same well-chosen task?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (4 causal, 2 review), `q2`–`q3`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What should the adaptation be based on: responses, or learner styles and preferences?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (5 causal, 2 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -93,6 +93,7 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 | Alty 2002 | q3 · causal · r? | i? | [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) (qualifies) |
 | Chwen Jen Chen 2005 | q3 · causal · r2 | i?; i3; i2 | [No significant interaction between learning mode and learning style on gain scores, while ](no-mode-by-style-interaction-vr-gains.md) (supports); [In the VR (guided exploration) mode, assimilator and accommodator learners did not differ ](guided-vr-no-learning-style-difference.md) (supports); [Assimilator learners gained significantly more in the VR (guided exploration) mode than in](assimilators-gain-most-vr-guided-exploration.md) (supports); [Accommodator learners gained significantly more in the VR (guided exploration) mode than i](accommodators-gain-most-vr-guided-exploration.md) (supports) |
 | [Lee 2017](https://doi.org/10.15858/engtea.72.2.201706.29) | q3 · causal · r2 | i0 | [Learning style (visual-verbal) shows no significant correlation with the effectiveness of ](learning-style-no-correlation-pictorial-elucidation-effect.md) (supports) |
+| [Sibley 2026](https://doi.org/10.1016/j.caeo.2026.100420) | q3 · causal · r3 | i? | [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

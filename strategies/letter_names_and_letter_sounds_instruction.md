@@ -12,14 +12,14 @@ generated:
 # Letter Names and Letter Sounds Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 11 studies (4 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy provides explicit, direct instruction in letter names and letter–sound (grapheme–phoneme) correspondences, typically in kindergarten and early first grade. Letters are taught systematically — a planned sequence rather than incidental exposure — with frequent opportunities to name letters, produce sounds, and map sounds to letters in reading and writing. Letter–sound knowledge, more than letter-name knowledge, is the critical bridge to decoding; letter names can scaffold sound learning (e.g., /b/ in "bee") but must not substitute for it.
 
 ## Design Implications
 
-Explicit letter–sound instruction outperforms incidental or whole-word approaches for building generalizable decoding skill [Systematic phonics instruction produces stronger decoding and word-reading outcomes than non-phonics or whole-word approaches.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Automatic letter recognition matters because it frees working-memory resources for higher-level reading processes [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction should be cumulative, with newly taught letters reviewed and interleaved with previously taught ones, since distributed review improves retention [Spaced repetition improves long-term retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Explicit letter–sound instruction outperforms incidental or whole-word approaches for building generalizable decoding skill [Systematic phonics instruction produces stronger decoding and word-reading outcomes than non-phonics or whole-word approaches.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Automatic letter recognition matters because it frees working-memory resources for higher-level reading processes [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction should be cumulative, with newly taught letters reviewed and interleaved with previously taught ones, since distributed review improves retention [Spaced repetition improves long-term retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

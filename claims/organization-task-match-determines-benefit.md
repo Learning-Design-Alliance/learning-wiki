@@ -60,8 +60,9 @@ ANOVA on the difference score between composite type-a and type-b task scores in
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related

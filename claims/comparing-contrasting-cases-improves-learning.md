@@ -145,6 +145,8 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 ## Related Claims
 
+- [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — the general claim this finding bears on, with the studies behind it
+
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — the general claim this finding bears on, with the studies behind it
 
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — comparison is the mechanism by which analogies transfer structure between cases

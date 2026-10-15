@@ -59,6 +59,18 @@ Chen, P.-H., Teo, T., & Zhou, M. (2016). Effects of guided notes on enhancing co
 
 Sixty-five undergraduates across two intact psychology classes were assigned by class to an experimental group (outline notes plus guided-note handouts, completed during lecture) or a control group (outline notes only, no guided blanks). In the delayed posttest, the experimental group outperformed the control group on the quality of their lecture notes, and outperformed it on learning performance at both the immediate and delayed posttests; the experimental group also reported more positive attitudes toward the guided-notes format. Only the publisher's abstract was accessible (Unpaywall found no open-access location and the Springer article page renders as a paywalled "Buy article" view), so no effect-size statistics beyond the directional findings above could be verified from the source itself.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a teacher-supplied partial outline (guided notes) improve learners' notes and learning over their own or outline-only notes?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 causal, 1 qualitative), `q1`–`q4`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Konrad et al. 2009](https://doi.org/10.1353/etc.0.0066) | q4 · quant-synthesis · r? | i? | this claim |
+| [Chen et al. 2016](https://doi.org/10.1007/s12144-016-9459-6) | q2 · causal · r? | i? | this claim |
+| Means 2020 | q1 · qualitative · r2 | i? | [Students in courses with guided note-taking and other active learning activities reported ](guided-note-taking-supported-remote-engagement.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The proposed mechanism is cognitive load reduction: unstructured note-taking forces learners to simultaneously select, transcribe, and organize incoming information, which can overload working memory and yield incomplete records. Guided notes offload the organizational structure to the instructor, freeing attention for identifying and accurately recording critical content — consistent with [chunking reduces working memory load](chunking-reduces-working-memory-load.md) and [cognitive overload degrades learning](cognitive-overload-degrades-learning.md).

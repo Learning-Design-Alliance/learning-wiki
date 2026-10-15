@@ -42,8 +42,9 @@ In the randomized comparison of online versus face-to-face algebra credit recove
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 - [Online and face-to-face Algebra I credit recovery showed no statistically significant differences on any second-year outcomes](credit-recovery-no-second-year-differences.md) — reports the opposite
 - [Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses](online-credit-recovery-evidence-gap.md) — related
 - [Students in online Algebra I credit recovery reported that the course was more difficult than students in face-to-face credit recovery reported](online-credit-recovery-perceived-more-difficult.md) — related

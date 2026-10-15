@@ -41,7 +41,7 @@ Conceptual analysis of AI tutoring support (Section 4.1). The authors argue AI s
 
 ## Related Claims
 
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — the general claim this finding bears on, with the studies behind it
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — the general claim this finding bears on, with the studies behind it
 - [Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards](ai-co-regulation-middle-childhood-onwards.md) — related
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related

@@ -71,6 +71,8 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 
 ## Related Claims
 
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
+
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — the core claim that reducing extraneous load improves outcomes
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — the failure condition this practice guards against
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a primary mechanism for managing intrinsic load

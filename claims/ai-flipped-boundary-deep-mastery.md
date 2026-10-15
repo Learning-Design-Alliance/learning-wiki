@@ -41,8 +41,9 @@ Mann-Whitney U comparisons (Fig. 2B-E) of the 100-point comprehensive assessment
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — the general claim this finding bears on, with the studies behind it
 - [The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show](ai-enhancement-raises-assignment-accuracy.md) — related
 - [The AI-enhanced flipped classroom yields significantly higher in-class response rates than both the flipped and traditional classrooms in pharmacology for international medical students](ai-flipped-classroom-higher-response-rate.md) — related
 - [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom](flipped-models-higher-question-accuracy.md) — related

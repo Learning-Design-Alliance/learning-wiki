@@ -63,8 +63,9 @@ Empirical evidence section reporting Schunk (1984) on attributional feedback. Th
 
 Both entries come from one narrative review (Schunk 1996), which reports the findings of Bandura & Schunk (1981) on proximal goals and Schunk (1984) on attributional feedback; neither primary study has been read here, and the review prints no effect sizes. No recorded entry covers peer versus teacher models, so that part of the original title is untested on this page.
 
-
 ## Related Claims
+
+- [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Learning goals and self-evaluation raise task orientation and lower ego orientation, and self-efficacy correlates positively with task orientation](learning-goals-raise-task-orientation.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related

@@ -41,11 +41,12 @@ Univariate ANCOVA follow-up to the MANCOVA on post math class interest; the arti
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [A collective generative AI relevance intervention significantly improved high school students' relevance as identification with math immediately after the intervention compared with a control group](collective-ai-intervention-improves-relevance-identification-math.md) — related
 - [The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition](individual-ai-condition-no-significant-relevance-effect.md) — related
 - [The collective generative AI intervention's effect on relevance as identification with math persisted one week later through its immediate effect](collective-ai-relevance-effect-sustained-one-week.md) — related

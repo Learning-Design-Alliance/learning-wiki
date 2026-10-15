@@ -1,0 +1,37 @@
+{
+  "principle": "principles/error-analysis",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "erroneous-examples-build-conceptual-knowledge",
+      "question": "Does comparing an incorrect solution with a correct one, and explaining the error, improve understanding more than studying correct examples alone?",
+      "members": [
+        [
+          "comparing-contrasting-cases-improves-learning",
+          "~"
+        ],
+        [
+          "ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions",
+          "+"
+        ],
+        [
+          "contrasting-cases-gatekeeper-repositioning",
+          "+"
+        ],
+        [
+          "error-correction-effort-supports-learning",
+          "~"
+        ],
+        [
+          "student-reflections-buggy-genai-learning-benefits",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "high-confidence-errors-improve-retention",
+      "question": "Which errors to correct first: are errors made with high confidence corrected more durably than low-confidence ones?",
+      "members": []
+    }
+  ]
+}

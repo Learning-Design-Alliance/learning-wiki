@@ -13,14 +13,14 @@ generated:
 # Individual Response
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 12 studies (5 causal, 4 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 14 studies (6 causal, 5 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size · 3 claims rest on one study
 
 ## Description
 Individual Response asks learners to commit to an answer or solution on their own before any group discussion or peer comparison occurs. It functions as the private, first-draft phase of interactive instruction — the moment when each learner must retrieve, reason, and take a position without being able to defer to others.
 
 ## Design Implications
 
-Requiring an independent answer before discussion converts passive listening into retrieval and reasoning, strengthening initial understanding and exposing gaps that later instruction can target [Retrieval practice strengthens retention relative to restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. The commitment itself matters: learners who must first produce and commit to an answer engage more deeply with subsequent discussion and feedback than those who hear peers' reasoning first [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Without this phase, group formats like [Peer Instruction](peer-instruction.md) collapse into answer-copying.
+Requiring an independent answer before discussion converts passive listening into retrieval and reasoning, strengthening initial understanding and exposing gaps that later instruction can target [Retrieval practice strengthens retention relative to restudying.](../claims/spaced-practice-improves-retention.md) [+S]. The commitment itself matters: learners who must first produce and commit to an answer engage more deeply with subsequent discussion and feedback than those who hear peers' reasoning first [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Without this phase, group formats like [Peer Instruction](peer-instruction.md) collapse into answer-copying.
 
 ### Context
 #### Requirements

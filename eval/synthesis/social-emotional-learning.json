@@ -1,0 +1,74 @@
+{
+  "principle": "patterns/social-emotional-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "sel-programs-improve-social-emotional-skills",
+      "question": "Do sustained, structured programmes produce social-emotional gains, and do they last?",
+      "members": [
+        [
+          "sel-benefits-persist-follow-up",
+          "+"
+        ],
+        [
+          "sel-programs-promote-social-emotional-competencies",
+          "+"
+        ],
+        [
+          "sel-programs-improve-behavior-engagement-achievement",
+          "+"
+        ],
+        [
+          "strong-evidence-social-emotional-instruction-preschool",
+          "+"
+        ],
+        [
+          "social-skills-training-positive-social-emotional-effects-preschool-disabilities",
+          "+"
+        ],
+        [
+          "sel-meta-analysis-graduation-increases",
+          "+"
+        ],
+        [
+          "sel-effects-moderators-implementation-delivery",
+          "~"
+        ],
+        [
+          "rwsa-hong-kong-less-bullying-empathy-gains",
+          "+"
+        ],
+        [
+          "bds-improves-ethical-perspective",
+          "+"
+        ],
+        [
+          "pretend-play-facilitates-perspective-taking-abstract-thought",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "sel-programs-improve-behavior-and-achievement",
+      "question": "Do SEL programmes also improve conduct, distress and academic achievement, and by how much?",
+      "members": [
+        [
+          "sel-programs-reduce-behavior-problems-distress",
+          "+"
+        ],
+        [
+          "sel-programs-improve-academic-performance",
+          "+"
+        ],
+        [
+          "schoolwide-sel-meta-analytic-11-percentile-achievement-gain",
+          "+"
+        ],
+        [
+          "sel-curricula-improve-academic-performance",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

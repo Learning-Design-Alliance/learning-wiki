@@ -59,6 +59,20 @@ Uchihara, T., Webb, S., & Yanagisawa, A. (2019). The effects of repetition on in
 
 This meta-analysis synthesised 45 correlations from 26 second-language studies (1,918 learners) between how often a word was encountered and whether it was learned incidentally. The mean relationship was medium (r = .34): more encounters go with more learning, which is consistent with the claim that word learning from context builds over repeated encounters, though as a correlation it does not show that the encounters cause the learning. The size of the effect varied with learner variables (age, vocabulary knowledge), treatment variables (spaced encounters, visual support, engagement, the range of encounter counts) and method (nonwords, warning learners about a comprehension test, test format). It speaks to second-language learners, and the design is correlational rather than experimental. (Read from the abstract only.)
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a taught word need repeated, spaced encounters before it is known and kept?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 review), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Swanborn & de Glopper 1999](https://doi.org/10.3102/00346543069003261) | q3 · quant-synthesis · r? | i? | this claim |
+| [Uchihara et al. 2019](https://doi.org/10.1111/lang.12343) | q3 · quant-synthesis · r? | i2 · medium effect, r=.34 | this claim |
+| [Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova 2016](https://doi.org/10.1558/cj.v33i3.26055) | q3 · causal · r2 | i? | [Supplemental computer-based spaced repetition activities nearly triple long-term vocabular](spaced-repetition-supplement-triples-vocabulary-retention.md) (supports) |
+| [Carpenter 2022](https://doi.org/10.1038/s44159-022-00089-1) | q2 · review · r? | i? | [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign](spaced-retrieval-multiyear-vocabulary-retention.md) (supports) |
+| [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q2 · causal · r1 | i? | [Task-essentialness and productive use of new words in goal-directed activity may positivel](task-essentialness-goal-directed-vocabulary-retention.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Incremental nature of word learning.** Vocabulary acquisition is widely characterized as cumulative: a learner needs many encounters with a word before it moves from unfamiliar to recognized to production-ready. Each exposure typically refines rather than establishes knowledge — first encounters support form recognition and rough gist, later encounters sharpen sense distinctions, syntactic behavior, and collocational range [+W]. This is why single-lesson vocabulary instruction rarely produces durable, flexible word knowledge, and why [spaced repetition](../strategies/spaced_repetition.md) and [retrieval practice](../strategies/retrieval-practice-activities.md) are natural complements to this claim.
@@ -82,12 +96,12 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 - [Cognitive flexibility theory: multiple cases.](../theories/cognitive-flexibility-theory.md) — varied contexts supporting flexible knowledge is the same principle applied to concepts rather than words
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — related
 - [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — related
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — a narrower finding that bears on this claim
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](extensive-reading-improves-vocabulary-and-spelling.md) — possibly the same claim (merge candidate)
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](incidental-acquisition-rate-3-of-20-words.md) — a narrower finding that bears on this claim
-- [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — a broader claim this one bears on
 - [Correct word inference in reading requires knowing roughly 95-98% of surrounding words, corresponding to about 3,000-5,000 word families](vocabulary-coverage-thresholds-for-inference.md) — related
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — a narrower finding that bears on this claim

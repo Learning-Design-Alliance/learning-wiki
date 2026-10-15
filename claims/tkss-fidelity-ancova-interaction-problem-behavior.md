@@ -57,8 +57,8 @@ Authors' discussion interpretation (type e) of the fidelity findings: low-fideli
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — the general claim this finding bears on, with the studies behind it
 
 - [The percentage of students with ED meeting clinically significant problem-behavior criteria declined significantly from pre- to post-test](pbis-reduces-externalizing-total-problems-ed-self-contained.md) — related

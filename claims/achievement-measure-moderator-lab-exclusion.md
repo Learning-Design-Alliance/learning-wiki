@@ -41,8 +41,9 @@ Sensitivity analysis excluding 24 laboratory-based effect sizes from Meta-Analys
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — the general claim this finding bears on, with the studies behind it
 - [Seven moderators did not significantly affect CALL feedback: intervention length, modeling, status, language proficiency, measures of proficiency, publication type, and research setting](seven-nonsignificant-moderators-call-feedback.md) — related
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related
 - [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — related

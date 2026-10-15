@@ -41,8 +41,9 @@ Comparison of LL-DC, PS-DC, and W-DC estimates computed at every possible intege
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [The greatest differences among the three DC estimates occur when the cut score is set at the mode of a skewed score distribution](dc-estimate-differences-largest-at-mode.md) — related
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related
 - [For skewed datasets, W-DC and LL-DC produce similar and preferred estimates, while PS-DC diverges at high-frequency scores](dc-methods-skewed-data-w-dc-ll-dc-preferred.md) — related

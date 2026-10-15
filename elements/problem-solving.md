@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies (3 causal, 1 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 9 studies (3 causal, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 3 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions. It is useful when the instructional goal is not only recall, but reasoned action in the face of constraints.

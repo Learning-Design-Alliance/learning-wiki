@@ -61,15 +61,15 @@ The larger review (Schroeder & Cenkci, 2018) found spatial contiguity significan
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does placing words with the pictures they describe, in space and in time, improve learning, and by how much?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does placing words with the pictures they describe, in space and in time, improve learning, and by how much?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 3 review), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2 | this claim |
 | [Schroeder Cenkci 2018](https://doi.org/10.1007/s10648-018-9435-9) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, g=0.63; i2 · medium effect, g=0.63 | [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) (supports); [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) (qualifies) |
-| Ceballos & Nutta 2022 | q2 · theoretical · r2 | i? | [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) (supports); [A narrative review cites one study in which simultaneous notes, worked example and explana](temporal-contiguity-lower-cognitive-load.md) (supports) |
 | [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q3 / q4 · quant-synthesis · r2 | i3; i?; i3 · large effect, d=0.85 | [Integrating spatially or temporally separated but related elements of instructional inform](integration-of-related-elements-large-mean-effect.md) (supports); [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) (qualifies); [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) (qualifies) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Contiguity principles: near placement and simultaneous presentation of corresponding words](contiguity-principles-mayer-2008.md) (supports) |
+| Ceballos & Nutta 2022 | q2 · review · r2 | i? | [A narrative review cites one study in which simultaneous notes, worked example and explana](temporal-contiguity-lower-cognitive-load.md) (supports) |
 | [Schroeder and Cenkci 2020](https://doi.org/10.1037/edu0000372) | q3 · review · r? | i? | [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) (qualifies) |
 <!-- synthesis:end -->
 

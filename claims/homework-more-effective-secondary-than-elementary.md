@@ -43,4 +43,4 @@ Narrative review statement citing Carr (2013) and Cooper et al. (2012); the pape
 
 
 ## Related Claims
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related

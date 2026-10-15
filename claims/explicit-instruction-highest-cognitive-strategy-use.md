@@ -41,11 +41,12 @@ Qualitative multiple-case study comparing three groups of preservice science tea
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Monitoring ideas was the metacognitive process with the greatest strategy variety, and its use was highest in the peer tutoring instruction group](monitoring-ideas-most-varied-metacognitive-process.md) — related
 - [For facilitation of memorization, strategy variety was highest in the peer tutoring group while frequency was highest in the explicit instruction group](memorization-strategies-peer-tutoring-variety-explicit-frequency.md) — related
 - [Strategy variety for drawing attention was higher in the no-instruction and peer tutoring groups, while frequency was higher in the instruction groups](drawing-attention-variety-no-instruction-peer-tutoring.md) — related

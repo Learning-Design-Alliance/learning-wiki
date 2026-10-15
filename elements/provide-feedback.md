@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (7 for, 8 mixed, 1 against, 1 unmarked) · 22 studies (6 quant-synthesis, 5 review, 4 causal, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 22 report an effect size · 13 claims rest on one study
+> **Evidence** · 17 claims (7 for, 8 mixed, 1 against, 1 unmarked) · 24 studies (7 quant-synthesis, 5 causal, 5 review, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 24 report an effect size · 13 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -81,7 +81,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 
 **[Khan Academy](https://www.khanacademy.org)** — Immediate correctness feedback on practice exercises with hint ladders; learners can retry until mastery before advancing.
 
-**[Duolingo](https://www.duolingo.com)** — Item-level immediate feedback with spaced re-testing of missed items, enacting feedback plus [spaced repetition](../claims/spaced-repetition-improves-retention.md).
+**[Duolingo](https://www.duolingo.com)** — Item-level immediate feedback with spaced re-testing of missed items, enacting feedback plus [spaced repetition](../claims/spaced-practice-improves-retention.md).
 
 **[Writing portfolios with draft-revision cycles](https://www.edutopia.org/article/using-portfolios-student-reflection)** — Teacher and peer feedback delivered on drafts, with mandatory revision, so feedback is always acted upon.
 

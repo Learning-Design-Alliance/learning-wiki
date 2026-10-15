@@ -59,6 +59,18 @@ Tod, D., Hardy, J., & Oliver, E. (2011). Effects of Self-Talk: A Systematic Revi
 
 A systematic review of 47 studies on the self-talk–performance relationship, including "second-generation" questions about mediators and moderators. Results indicated beneficial effects of positive, instructional, and motivational self-talk on performance. Two findings challenged popular assumptions: negative self-talk did not impede performance, and evidence for differential effects of instructional versus motivational self-talk by task type was inconsistent. Mediation analyses found cognitive and behavioral factors had the most consistent relationships with self-talk's effect.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching learners short self-talk cues improve their performance on a task, and does it carry from motor tasks to academic work?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 review), `q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Hatzigeorgiadis et al. 2011](https://doi.org/10.1177/1745691611413136) | q3 · quant-synthesis · r? | i2 · medium effect, ES=.48 | this claim |
+| [Tod et al. 2011](https://doi.org/10.1123/jsep.33.5.666) | q3 · review · r? | i? | this claim |
+| [Graham & Perin 2007](https://doi.org/10.1037/0022-0663.99.3.445) | q3 · quant-synthesis · r? | i3 · large effect, weighted mean d=0.82 (95% CI 0.69–0.95) | [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Self-talk research distinguishes two broad forms with different mechanisms. **Instructional self-talk** (cue words or phrases describing the action, e.g., "elbow up" in basketball shooting) is thought to direct attention to task-relevant features and support skill acquisition, and is generally most useful during early learning when learners must consciously control movement or procedure. **Motivational self-talk** ("I can do this") is thought to sustain effort, confidence, and persistence, and tends to matter more in endurance, anxiety-provoking, or high-pressure situations.
@@ -73,7 +85,7 @@ Open questions include how durable the effects are beyond immediate performance,
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — motivational self-talk connects to autonomy and self-regulation of effort
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — verbose self-talk can add rather than relieve load
 - [Self-regulated learning](../theories/self-regulated-learning.md) — self-talk is one of the verbal self-regulation strategies learners use to monitor and control their own learning
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](serial-motor-task-complexity-age.md) — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
 - [Second language learners' private speech is associated with L2 development and motivation to learn the language](private-speech-associated-l2-development-motivation.md) — related

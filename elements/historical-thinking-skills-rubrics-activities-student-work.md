@@ -52,7 +52,7 @@ A two-part rubric toolkit created and validated for evaluating the Gates Venture
 - [Six historical thinking dimensions — historical argumentation, causation, comparison, contextualization, continuity and change over time, and sourcing — were selected as rubric assessment targets based on convergence across U.S. national frameworks and the WHP course guide](../claims/six-historical-thinking-dimensions-rubric-targets.md) [+M]
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](../claims/hts-rubrics-good-inter-rater-consistency.md) [+M]
 - [World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments](../claims/whp-assignments-scored-higher-opportunity-rubrics.md) [+M]
-- [World History Project students show comparable competency to comparison students in the other five historical thinking skills](../claims/whp-comparable-other-five-skills.md) [+M]
+- [An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills](../claims/whp-comparable-other-five-skills.md) [+M]
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](../claims/whp-more-summative-historical-thinking-opportunities.md) [+M]
 
 ## Related Elements

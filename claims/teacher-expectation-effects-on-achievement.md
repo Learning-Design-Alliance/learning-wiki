@@ -44,6 +44,21 @@ de Boer, H., Bosker, R. J., & Van der Werf, M. P. C. (2010). Sustainability of t
 
 A Dutch cohort of roughly 11,000 students entering secondary school in 1999 was followed for 5 years. Teacher expectation bias was operationalized as the residual from a multilevel model predicting teachers' secondary-track recommendations from students' prior achievement, IQ, and achievement motivation — i.e., the part of the expectation not explained by actual student characteristics. In the full model, severe negative expectation bias was associated with a coefficient of −0.479 and severe positive bias with +0.426 on the Year-5 performance ("education ladder") score, controlling for prior achievement, IQ, socioeconomic status, gender, ethnicity, achievement motivation, parents' aspirations and grade repetition; the bias-performance link also mediated much of the effect of parents' aspirations on performance. The bias effect on performance was larger for students with higher prior achievement and higher parental aspirations than for those with lower scores on these variables, and effects were partly dissipated (but not eliminated) in the first two years before stabilizing.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do a feedback giver's expectations of a learner, or of the learner's group, show in the feedback given and in the learner's later performance?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **6 distinct studies** (2 associational, 1 qualitative, 1 design, 1 review, 1 causal), `q1`–`q2`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [de Boer et al. 2010](https://doi.org/10.1037/a0017289) | q2 · associational · r2 | i? | this claim |
+| Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994 | q1 · qualitative · r2 | i? | [Teachers who took part in funds of knowledge household research came to view their minorit](funds-of-knowledge-research-raises-teacher-expectations.md) (supports); [The perception that language minority students bring language disadvantages and knowledge ](deficit-view-of-minority-households-lowers-academic-expectations.md) (supports) |
+| Helping English Learners Rise to the Challenge of Complex Texts 2014 | q1 · design · r2 | i? | [Field testing the Persuasion across Time and Space unit changed teachers' beliefs about EL](complex-texts-unit-changed-teacher-beliefs.md) (supports) |
+| Gifted and talented students at risk for underachievement 2008 | q2 · review · r1 | i? | [Teachers underrefer culturally and linguistically diverse students for gifted identificati](teacher-underreferral-diverse-gifted.md) (supports) |
+| [Littenberg-Tobias 2021](https://doi.org/10.1177/23328584211045685) | q2 · associational · r1 | i? | [In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Defi](coach-wright-topics-track-asset-deficit-mindsets.md) (qualifies) |
+| [Tan et al. 2026](https://doi.org/10.1145/3785022.3785113) | q2 · causal · r2 | i? | [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students a](race-prompts-cultural-stereotype-feedback.md) (qualifies); [Prompting a learning disability shifts feedback toward word- and sentence-level remediatio](learning-disability-feedback-lowered-expectations.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The commonly proposed pathway is differential treatment: teachers with higher expectations tend to give students more wait time, more challenging tasks, richer feedback, and warmer interpersonal climate, while low-expectation students receive more rote, tightly scaffolded interactions. Over time these differences compound into achievement gaps that then confirm the original expectation — a self-fulfilling prophecy loop. Expectancy effects also interact with student [belonging](../elements/belonging.md): students who sense low expectations may disengage, reinforcing the cycle.

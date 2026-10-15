@@ -61,6 +61,20 @@ Panadero, E., & Romero, M. (2014). To rubric or not to rubric? The effects of se
 
 Two hundred and eighteen third-year pre-service teachers were assigned to design a conceptual map and then self-assess it, either using a rubric or with no specific self-assessment tool. Performance was an expert-assigned score of the resulting map, and accuracy compared each student's self-score to the expert's score. The rubric group showed higher self-reported learning-strategy use, higher expert-rated performance, and higher self-assessment accuracy than the no-tool group — directly supporting the claim that rubric use improves the quality of the resulting work. The same study qualifies that finding: the rubric group also reported more difficulty coping with stress and a higher performance/avoidance orientation, which the authors describe as detrimental to learning. No standardized effect size is reported in what was read, so impact is coded `i?`.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (4 causal, 1 quant-synthesis), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Andrade et al. 2010](https://doi.org/10.1080/09695941003696172) | q2 · causal · r? | i? | this claim |
+| [Panadero & Romero 2014](https://doi.org/10.1080/0969594x.2013.877872) | q2 · causal · r? | i? | this claim |
+| [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [Rubrics changed what online peer reviewers commented on and improved their rating of compl](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Double et al. 2020](https://doi.org/10.1007/s10648-019-09510-3) | q4 · quant-synthesis · r2 | i0 · moderator effect below d=0.2, non-significant | [Structured criteria in peer assessment are not shown to improve its effect on academic per](peer-assessment-structured-criteria-improve-learning.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Plausible mechanisms.** Several established findings make this claim theoretically likely. Rubrics operationalize [assessment for learning](../principles/assessment-for-learning.md) by turning abstract standards into concrete criteria students can act on, which aligns with the broader finding that [clear structure improves learning](clear-structure-improves-learning.md). By specifying quality levels, rubrics may also reduce extraneous load — consistent with evidence that [cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — freeing capacity for the task itself. Rubrics can support self-regulation by enabling students to self-assess and revise against explicit criteria, a mechanism shared with [self-regulated learning](../theories/self-regulated-learning.md).
@@ -82,6 +96,8 @@ Two further open questions for the evidence base: (1) durability — most rubric
 <!-- deprecated (2026-10-05, misapplied claim: the CRAAP checklist claim tests source-evaluation instruction, not rubrics, and does not show compliance or shortcutting): A related caution: criterion-based self-evaluation does not automatically succeed. The finding that [checklist evaluation is ineffective online](checklist-evaluation-ineffective-online.md) suggests that handing learners a list of criteria, without training or scaffolding in how to apply it, can fail to improve — and may even shortcut — genuine evaluative judgment. Rubric designs should therefore pair criteria with exemplars, modeled application, or structured self-scoring rather than distribution alone. --> A related caution: criterion-based self-evaluation does not automatically succeed. In Panadero & Romero (2014) the rubric group also reported more difficulty coping with stress and a higher performance/avoidance orientation. Both recorded studies paired the rubric with active self-scoring (and, in Andrade et al. 2010, a model essay and learner-generated criteria), so whether distributing a rubric alone helps is untested here; pairing criteria with exemplars, modelled application or structured self-scoring is a design proposal, not a tested comparison.
 
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
 

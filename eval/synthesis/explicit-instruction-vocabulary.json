@@ -1,0 +1,80 @@
+{
+  "principle": "principles/explicit-instruction-vocabulary",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. incidental-vocabulary-exposure-limited and vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts share two meta-analyses (Swanborn & de Glopper 1999; Uchihara et al. 2019) and sit in different findings.",
+  "findings": [
+    {
+      "hub": "vocabulary-instruction-improves-comprehension",
+      "question": "Does teaching the essential terms improve comprehension, and of which texts?",
+      "members": [
+        [
+          "academic-vocabulary-intensive-instruction-strong-evidence",
+          "+"
+        ],
+        [
+          "concept-model-beats-definition-model-vocabulary-ld",
+          "+"
+        ],
+        [
+          "morphological-instruction-improves-vocabulary",
+          "~"
+        ],
+        [
+          "vocabulary-programs-insufficient-to-close-vocabulary-gap",
+          "~"
+        ],
+        [
+          "embedded-aids-improve-reading-comprehension",
+          "+"
+        ],
+        [
+          "unfamiliar-contexts-distract-from-mathematics",
+          "+"
+        ],
+        [
+          "minimal-technical-english-limits-training",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone",
+      "question": "Does combining explicit instruction with contextual or incidental learning outperform either alone?",
+      "members": [
+        [
+          "combined-intentional-incidental-greater-gains",
+          "+"
+        ],
+        [
+          "intentional-beats-incidental-vocabulary-gains",
+          "~"
+        ],
+        [
+          "incidental-vocabulary-exposure-limited",
+          "+"
+        ],
+        [
+          "incidental-vocabulary-acquisition-more-powerful-than-intentional",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts",
+      "question": "Does a taught word need repeated, spaced encounters before it is known and kept?",
+      "members": [
+        [
+          "spaced-repetition-supplement-triples-vocabulary-retention",
+          "+"
+        ],
+        [
+          "spaced-retrieval-multiyear-vocabulary-retention",
+          "+"
+        ],
+        [
+          "task-essentialness-goal-directed-vocabulary-retention",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

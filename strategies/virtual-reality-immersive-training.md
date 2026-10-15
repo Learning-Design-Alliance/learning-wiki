@@ -272,7 +272,7 @@ VR's distinctive contribution is *embodied, consequence-free practice* in enviro
 3. **Practice with feedback** — have learners perform the task in the simulation with immediate, action-contingent feedback [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]; break complex procedures into segments using [Part-Task Practice](../elements/part-task-practice.md) for novices [Part-task practice reduces load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 4. **Increase complexity and variability** — progress to whole-task scenarios with complications, distractors, and failure states
 5. **Debrief** — review performance data and errors with a facilitator, connecting virtual performance to real-world application [Application](../elements/application.md)
-6. **Space the rehearsal** — distribute repeat sessions over time rather than massing them [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+6. **Space the rehearsal** — distribute repeat sessions over time rather than massing them [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 

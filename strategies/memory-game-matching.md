@@ -12,14 +12,14 @@ generated:
 # Memory Game (Matching)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 15 studies (8 quant-synthesis, 3 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 15 report an effect size
+> **Evidence** · 5 claims (5 for) · 17 studies (9 quant-synthesis, 4 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 17 report an effect size
 
 ## Description
 A memory game in which learners turn over pairs of face-down word cards, attempting to find matching pairs. Each successful match triggers an elaboration step — the learner says the word aloud and uses it in a sentence drawn from a familiar context, such as a song or shared text. The game combines repeated exposure, [active recall](../elements/practice.md), and contextualized production in a low-stakes, playful format.
 
 ## Design Implications
 
-The matching mechanic forces retrieval of each word's location and identity, and retrieval practice strengthens retention far more than re-reading [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. The sentence-production requirement converts passive recognition into generative use, which deepens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Because the game is turn-based and social, it also sustains engagement through peer observation and light competition [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+M].
+The matching mechanic forces retrieval of each word's location and identity, and retrieval practice strengthens retention far more than re-reading [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. The sentence-production requirement converts passive recognition into generative use, which deepens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Because the game is turn-based and social, it also sustains engagement through peer observation and light competition [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ The matching mechanic forces retrieval of each word's location and identity, and
 - Less appropriate for advanced learners who already recognize the words fluently — matching then measures visual search speed, not vocabulary [~M]
 
 ### Target Learning Goals
-- Vocabulary retention through repeated retrieval [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Vocabulary retention through repeated retrieval [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Contextual application: using target words in meaningful sentences
 - Working memory and attention: holding card locations in mind across turns [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - Turn-taking and peer support as incidental social goals

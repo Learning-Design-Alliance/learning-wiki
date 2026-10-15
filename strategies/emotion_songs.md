@@ -12,7 +12,7 @@ generated:
 # Emotion Songs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (4 review, 3 causal, 2 quant-synthesis), `q2`–`q4` · 1 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 11 studies (4 causal, 4 review, 3 quant-synthesis), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Emotion songs involve creating or adapting songs — using familiar tunes, original lyrics, or published material — to help learners identify, label, and express feelings. The strategy pairs melodic structure with emotional vocabulary so that affective concepts are encoded through both verbal and musical channels, then reinforced through singing, movement, and discussion.
@@ -57,7 +57,7 @@ Music provides a structured, repetitive, and emotionally engaging carrier for em
 3. Teach and sing the song together, adding gesture or movement for each emotion named ([Act](../elements/act.md))
 4. Discuss: "When have you felt this? What did your body do?" — use [Coaching](../elements/coaching.md) prompts to connect lyrics to personal experience
 5. Extend with learner-composed verses or role-play of song scenarios ([Collaboration](../elements/collaboration.md))
-6. Revisit the song across days and weeks; spaced revisiting supports retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+6. Revisit the song across days and weeks; spaced revisiting supports retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a complementary game-based routine for practicing emotion identification

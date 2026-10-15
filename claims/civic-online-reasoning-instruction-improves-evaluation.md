@@ -79,6 +79,23 @@ McGrew, S. (2020). Learning to evaluate: An intervention in civic online reasoni
 
 Sixty-eight 11th-grade students took eight lessons on strategies for evaluating digital content, based on how professional fact checkers work. They completed pre- and posttests of four brief constructed-response items. Scores improved significantly on three of the four tasks: investigating a website's source, critiquing evidence, and finding reliable sources in an open internet search. With no comparison group, the gains cannot be separated from practice or maturation. The one task that did not improve is a limit on how general the effect is.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching fact-checkers' off-page moves over several lessons improve learners' judgments of unfamiliar online sources, and how far does it reach?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **8 distinct studies** (6 causal, 1 qualitative, 1 design), `q2`–`q3`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Wineburg et al. 2022](https://doi.org/10.1037/edu0000740) | q2 · causal · r? | i? | this claim |
+| [McGrew et al. 2019](https://doi.org/10.1111/bjep.12279) | q3 · causal · r2 | i? | this claim |
+| [McGrew 2020](https://doi.org/10.1016/j.compedu.2019.103711) | q2 · causal · r? | i? | this claim |
+| [Wineburg and McGrew 2019](https://doi.org/10.1177/016146811912101102) | q2 · qualitative · r? | i? | [One-session checklist (CRAAP) instruction in source evaluation did no better than the alte](checklist-evaluation-ineffective-online.md) (qualifies) |
+| [Lowe et al. 2021](https://doi.org/10.14434/josotl.v21i3.30744) | q2 · causal · r1 | i? | [One-session checklist (CRAAP) instruction in source evaluation did no better than the alte](checklist-evaluation-ineffective-online.md) (qualifies) |
+| [Ratcliffe 2026](https://doi.org/10.5860/crl.87.5.555) | q2 · causal · r? | i? | [One-session checklist (CRAAP) instruction in source evaluation did no better than the alte](checklist-evaluation-ineffective-online.md) (qualifies) |
+| [Demir 2025](https://doi.org/10.21203/rs.3.rs-6786882/v1) | q2 · causal · r2 | i3 | [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group](ai-media-literacy-program-large-posttest-gains.md) (supports) |
+| [Dishon et al. 2024](https://doi.org/10.1080/07370008.2023.2248641) | q3 · design · r2 | i? | [Collaborative critique-and-redesign instruction shifts students from a value-free view of ](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope.** This claim concerns instruction in the strategies of professional fact-checkers — most prominently lateral reading (leaving a page to investigate the source elsewhere) rather than staying on the page and scrutinizing its features. Evaluation skill is treated as a teachable competence, not a fixed disposition. The contrast with checklist-based approaches is central: in the two quasi-experiments recorded on the linked page, a single session teaching students to inspect on-page features (the CRAAP checklist) did no better than the alternatives it was compared with, whereas the studies on this page found gains from modeling how fact-checkers actually work — see [Checklist evaluation is ineffective online.](checklist-evaluation-ineffective-online.md)

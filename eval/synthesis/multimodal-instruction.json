@@ -1,0 +1,108 @@
+{
+  "principle": "principles/multimodal-instruction",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "multiple-representations-improve-learning",
+      "question": "Does adding a second representation of the same idea help, and when?",
+      "members": [
+        [
+          "video-narration-text-improves-immediate-macs-comprehension",
+          "+"
+        ],
+        [
+          "auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment",
+          "+"
+        ],
+        [
+          "multimodal-valued-complex-visualizations-hinder",
+          "~"
+        ],
+        [
+          "more-representations-mathematical-ideas-higher-achievement",
+          "+"
+        ],
+        [
+          "multiple-representations-aid-understanding-faculty-time",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "modality-effect-narration-over-text",
+      "question": "Should the words be spoken or printed?",
+      "members": [
+        [
+          "modality-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "modality-effect-within-subjects-d073",
+          "+"
+        ],
+        [
+          "modality-effect-holds-middle-school-electricity",
+          "+"
+        ],
+        [
+          "voice-media-outperform-picture-text-overall",
+          "+"
+        ],
+        [
+          "modality-effect-moderated-by-pacing",
+          "~"
+        ],
+        [
+          "modality-effect-field-of-study-moderator",
+          "~"
+        ],
+        [
+          "modality-effect-stronger-in-virtual-reality",
+          "~"
+        ],
+        [
+          "spoken-versus-signaled-written-null",
+          "~"
+        ],
+        [
+          "design-principles-improve-cognitive-load-management",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "learning-styles-matching-does-not-improve-learning",
+      "question": "What should the adaptation be based on: responses, or learner styles and preferences?",
+      "members": [
+        [
+          "intuitive-learners-outperform-sensing-learners",
+          "~"
+        ],
+        [
+          "no-mode-by-style-interaction-vr-gains",
+          "+"
+        ],
+        [
+          "guided-vr-no-learning-style-difference",
+          "+"
+        ],
+        [
+          "assimilators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "accommodators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "learning-style-no-correlation-pictorial-elucidation-effect",
+          "+"
+        ],
+        [
+          "learner-profiles-no-moderation-adaptive-its",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

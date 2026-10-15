@@ -102,6 +102,8 @@ The report describes a randomized experiment in which middle school math teacher
 
 ## Related Claims
 
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — same brief, social-psychological intervention logic targeting students' sense of belonging
 - [Building empathy improves intergroup attitudes](building-empathy-improves-intergroup-attitudes.md) — empathy-focused exercises as a lever for changing interpersonal dynamics
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — relational and autonomy-supportive teacher behavior as a motivational foundation

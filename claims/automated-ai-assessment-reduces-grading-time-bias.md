@@ -46,4 +46,4 @@ In the review's Assessment and Feedback theme, it reports that AI assessment too
 - [Automated marking reduced assessment turnaround from 11.2 days to 0.1 days and enabled intervention students to complete 4.1 times the practice volume of controls](automated-marking-turnaround-and-practice-volume.md) — a narrower finding that bears on this claim
 - [Providing LLM pre-labels can decrease human annotation accuracy when the model is incorrect, due to automation bias](llm-prelabels-decrease-human-accuracy.md) — related
 - [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — related
-- [NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15%](mooc-nlp-grading-70-percent-time-reduction.md) — related
+- [A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described](mooc-nlp-grading-70-percent-time-reduction.md) — related

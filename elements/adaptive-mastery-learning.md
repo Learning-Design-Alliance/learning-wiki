@@ -13,14 +13,14 @@ generated:
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (9 for, 5 mixed, 1 against) · 19 studies (8 review, 4 causal, 3 qualitative, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (9 for, 5 mixed, 1 against) · 21 studies (8 review, 5 causal, 3 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 21 report an effect size · 12 claims rest on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.
 
 ## Design Implications
 
-Adaptive mastery systems ensure that foundational gaps are closed before higher-order content is introduced, and that practice is distributed where it is most needed. Mastery requirements raise achievement over conventional group-paced instruction, particularly for slower learners [Kulik et al.'s meta-analysis of mastery learning programs.](https://doi.org/10.3102/00346543060003265) [+S]. Adaptive difficulty keeps learners working at an appropriate challenge level, avoiding both overload and disengagement; intelligent tutoring systems that adapt to learner responses produce substantial learning gains over conventional instruction [VanLehn's review of tutoring effectiveness.](https://doi.org/10.1007/s10648-010-9121-z) [+S]. Spacing review items adaptively — resurfacing material at the point of predicted forgetting — improves long-term retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Adaptive mastery systems ensure that foundational gaps are closed before higher-order content is introduced, and that practice is distributed where it is most needed. Mastery requirements raise achievement over conventional group-paced instruction, particularly for slower learners [Kulik et al.'s meta-analysis of mastery learning programs.](https://doi.org/10.3102/00346543060003265) [+S]. Adaptive difficulty keeps learners working at an appropriate challenge level, avoiding both overload and disengagement; intelligent tutoring systems that adapt to learner responses produce substantial learning gains over conventional instruction [VanLehn's review of tutoring effectiveness.](https://doi.org/10.1007/s10648-010-9121-z) [+S]. Spacing review items adaptively — resurfacing material at the point of predicted forgetting — improves long-term retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - Less suitable for advanced learners working on integrative or creative outcomes, where item-based mastery criteria poorly represent the goal
 
 ### Target Learning Goals
-- Retention and fluency: ensuring durable mastery of prerequisite knowledge [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention and fluency: ensuring durable mastery of prerequisite knowledge [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Procedural skill acquisition through progressive difficulty levels
 - Self-efficacy: visible progress through levels builds confidence that supports persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 

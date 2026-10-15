@@ -41,8 +41,9 @@ The report's review of the features-of-effective-coaching literature states ther
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Time spent between teachers and coaches is one of the most important factors in a successful coaching program](coach-teacher-time-key-success-factor.md) — related
 - [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](coaching-focus-instructional-delivery-versus-behavior-management.md) — a narrower finding that bears on this claim
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related

@@ -42,8 +42,9 @@ The paper cites Darling-Hammond et al. (2009), a nationwide survey finding 59% o
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Sporadic, disconnected professional learning does not change practice long term, whereas well-structured programs can build differentiation skills with positive student outcomes](structured-professional-learning-builds-differentiation-skills.md) — related
 - [Full Algebra Toolkit implementation requires roughly 14–22 hours of educator time across PD sessions, preparation, and classroom implementation](algebra-toolkit-educator-time-requirements.md) — related
 - [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related

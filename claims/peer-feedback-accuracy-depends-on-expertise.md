@@ -62,6 +62,21 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 
 1,215 AP English students anonymously rated five classmates' rhetorical-analysis essays each with a task-specific [rubric](../elements/rubrics.md); their mean ratings were compared to their teachers' and to trained AP expert scorers' ratings of the same 489 essays. Correlations between mean student ratings and both teacher and expert scores were moderate-to-high (roughly .4–.7, approaching .7 for the overall essay score) and, notably, students' averaged ratings correlated with expert scores slightly *more* strongly than individual teachers' ratings did. Critically for this claim, reliability and validity did **not** differ significantly between higher- and lower-performing schools on any rubric criterion, suggesting that — at least when reviewers use a carefully designed, well-specified rubric — peer-assessment accuracy does not simply track the reviewers' own academic performance level.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How accurately do learners judge work, and what does the accuracy of their judgments depend on?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **6 distinct studies** (3 associational, 2 quant-synthesis, 1 causal), `q2`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Wu & Schunn 2023](https://doi.org/10.1037/edu0000768) | q2 · associational · r? | i? | this claim |
+| [Schunn et al. 2016](https://doi.org/10.1002/jaal.525) | q2 · associational · r2 | i? | this claim |
+| [Kostons et al. 2012](https://doi.org/10.1016/j.learninstruc.2011.08.004) | q3 · causal · r? | i2 · medium effect, ηp²=.10 | [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) (qualifies) |
+| [Falchikov & Boud 1989](https://doi.org/10.2307/1170205) | q4 · quant-synthesis · r? | i? | [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) (qualifies) |
+| [Zell & Krizan 2014](https://doi.org/10.1177/1745691613518075) | q4 · quant-synthesis · r? | i2 · medium, mean r=.29 (SD=.11), individual meta-analytic effects .09–.63 | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (qualifies) |
+| [Hacker et al. 2000](https://doi.org/10.1037/0022-0663.92.1.160) | q2 · associational · r? | i? | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **What the evidence shows.** Wu & Schunn (2023) found assessor expertise predicted how *helpful* feedback was but was unrelated to how *accurately* it identified problems, and Schunn et al. (2016) found peer ratings about as reliable in lower- as in higher-performing schools once a well-designed rubric was used. The page's former title (that peer feedback *accuracy* depends on expertise) is not borne out by these studies, at least where assessment is structured; the reasoning below is the theoretical case for that expectation, which the evidence here does not confirm.
@@ -79,6 +94,10 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 <!-- deprecated (2026-10-05): **Open questions.** Most of the literature contrasts novices with more advanced peers or instructors; the expertise threshold at which peer feedback becomes reliably accurate is not well established, and evidence is needed across domains before strong design prescriptions can be made. Until that evidence is added to this page, the claim should be treated as a well-motivated theoretical expectation rather than an empirically established effect. -->
 
 ## Related Claims
+
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — the general claim this finding bears on, with the studies behind it
+
+- [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning](tutor-background-meta-regression-not-predictive.md) — the general claim this finding bears on, with the studies behind it
 
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the same knowledge asymmetry governs when scaffolds and peer evaluation help or hurt.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why novices lack the schemas needed to evaluate work accurately.

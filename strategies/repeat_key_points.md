@@ -12,14 +12,14 @@ generated:
 # Repeat Key Points
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (4 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Repeating key points means deliberately restating the most important ideas of a lesson multiple times and through multiple representations — verbal restatement, visual display, worked example, student paraphrase — so that learners receive several spaced, varied exposures to each core concept. The variation matters as much as the repetition: each restatement should re-encode the idea in a different form or context rather than merely duplicating it.
 
 ## Design Implications
 
-Repetition increases the probability that a key idea is encoded, consolidated, and retrievable, but simple verbatim repetition yields diminishing returns; spaced and varied restatements produce stronger retention than massed, identical ones [Spaced repetition improves long-term retention compared with massed repetition.](../claims/spaced-repetition-improves-retention.md) [+S]. Combining verbal and visual representations engages dual channels and supports richer encoding than either alone [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. Emphasis and repetition also direct learner attention to what matters, but only when the emphasized content is genuinely central [Relevant emphasis directs attention and improves learning of emphasized content.](../claims/relevancy-of-emphasis-directs-attention.md) [+M].
+Repetition increases the probability that a key idea is encoded, consolidated, and retrievable, but simple verbatim repetition yields diminishing returns; spaced and varied restatements produce stronger retention than massed, identical ones [Spaced repetition improves long-term retention compared with massed repetition.](../claims/spaced-practice-improves-retention.md) [+S]. Combining verbal and visual representations engages dual channels and supports richer encoding than either alone [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. Emphasis and repetition also direct learner attention to what matters, but only when the emphasized content is genuinely central [Relevant emphasis directs attention and improves learning of emphasized content.](../claims/relevancy-of-emphasis-directs-attention.md) [+M].
 
 ### Context
 #### Requirements
@@ -45,7 +45,7 @@ Repetition increases the probability that a key idea is encoded, consolidated, a
 - Less necessary for advanced learners, for whom repeated restatement of familiar content is redundant and can feel patronizing [~M]
 
 ### Target Learning Goals
-- Retention of core facts, definitions, and procedures [Spaced repetition improves long-term retention compared with massed repetition.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention of core facts, definitions, and procedures [Spaced repetition improves long-term retention compared with massed repetition.](../claims/spaced-practice-improves-retention.md) [+S]
 - Comprehension of key concepts through multiple representations
 - Support for learners who need processing time
 
@@ -60,7 +60,7 @@ Repetition increases the probability that a key idea is encoded, consolidated, a
 
 - [Chunking](../principles/chunking.md) — grouping content so that what gets repeated is a coherent unit, not fragments
 - [Clear Structure](../principles/clear-structure.md) — a predictable lesson structure gives repetitions natural, recognizable slots
-- [Spaced practice scheduling](../claims/spaced-repetition-improves-retention.md) — the research basis for distributing repetitions over time
+- [Spaced practice scheduling](../claims/spaced-practice-improves-retention.md) — the research basis for distributing repetitions over time
 - [Switch to written notes when verbal communication with a hearing-impaired patron breaks down](written-notes-communication-hearing-impaired-patrons.md)
 - [STeLLA® teaching strategies for explaining, identifying, and engaging science concepts](stella-teaching-strategies-three-emphases.md)
 

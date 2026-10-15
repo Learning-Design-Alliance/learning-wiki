@@ -21,7 +21,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (25 for, 12 mixed, 4 against) · 36 studies (9 review, 9 qualitative, 7 quant-synthesis, 5 causal, 3 theoretical, 2 design, 1 associational), `q1`–`q4` · 8 of 36 report an effect size · 36 claims rest on one study
+> **Evidence** · 40 claims (24 for, 12 mixed, 4 against) · 36 studies (9 review, 9 qualitative, 7 quant-synthesis, 5 causal, 3 theoretical, 2 design, 1 associational), `q1`–`q4` · 7 of 36 report an effect size · 34 claims rest on one study
 
 ## Description and scope
 
@@ -137,7 +137,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 
 ## Claims
 
-- [Coaching shows strong positive effects on educators' instruction and modest effects on student outcomes in P-12 settings, with larger effects for content-specific and smaller programs](../claims/coaching-meta-analysis-instruction-effects-p12.md) [+W]
+- [Coaching shows strong positive effects on educators' instruction and modest effects on student outcomes in P-12 settings, with larger effects for content-specific and smaller programs](../claims/coaching-pooled-instruction-effect-0-49-sd.md) [+W]
 - [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+W]
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [+W]
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](../claims/iterative-follow-up-supports-lasting-change.md) [+W]

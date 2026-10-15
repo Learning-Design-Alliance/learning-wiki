@@ -1,0 +1,88 @@
+{
+  "principle": "patterns/mastery-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Hubs and questions reused verbatim from eval/synthesis/mastery-learning.json, which already names this pattern.",
+  "findings": [
+    {
+      "hub": "mastery-learning-improves-outcomes",
+      "question": "Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing?",
+      "members": [
+        [
+          "group-mastery-positive-achievement-all-studies",
+          "+"
+        ],
+        [
+          "mastery-learning-meta-analysis-d-078",
+          "+"
+        ],
+        [
+          "mastery-platform-longitudinal-positive-effects",
+          "+"
+        ],
+        [
+          "mastery-learning-higher-earned-credit-rates",
+          "~"
+        ],
+        [
+          "personalized-learning-effects-vary-with-fidelity",
+          "~"
+        ],
+        [
+          "cbe-gatekeeper-completion-lower-than-comparison",
+          "-"
+        ],
+        [
+          "training-increases-feedback-corrective-loop-time",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "mastery-learning-effects-vary-with-standard-pacing-and-test-type",
+      "question": "Which variant: how high a criterion, group-paced or self-paced, and measured how?",
+      "members": [
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "+"
+        ],
+        [
+          "learner-paced-beats-system-paced-complex-material",
+          "~"
+        ],
+        [
+          "mastery-improves-engagement-attrition",
+          "+"
+        ],
+        [
+          "adaptive-learning-improves-outcomes",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "mastery-learning-did-not-slow-pace-or-scope",
+      "question": "What does it cost in time and coverage, and what happens when learners do not reach the criterion?",
+      "members": [
+        [
+          "training-increases-feedback-corrective-loop-time",
+          "~"
+        ],
+        [
+          "pacing-calendars-standardized-assessments-impediments",
+          "~"
+        ],
+        [
+          "espark-post-quiz-mastery-failure-rate",
+          "~"
+        ],
+        [
+          "socratic-more-attempts-many-never-reach-mastery",
+          "~"
+        ],
+        [
+          "adaptive-mastery-versus-coverage-tension-null-result",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

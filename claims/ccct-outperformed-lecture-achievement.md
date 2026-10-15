@@ -41,8 +41,9 @@ Independent samples t-test comparing post-test achievement of the experimental C
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [CCCT participation improved prospective teachers' co-regulation situations (g = 0.512)](ccct-improved-co-regulation.md) — related
 - [CCCT participation improved prospective teachers' attitudes towards cooperativeness (g = 0.751)](ccct-improved-cooperativeness-attitudes.md) — related
 - [Within-group achievement gains were significant for the CCCT group but not for the control group](ccct-within-group-achievement-gain.md) — a narrower finding that bears on this claim

@@ -12,7 +12,7 @@ generated:
 # Math Vocabulary Word Walls
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 A math vocabulary word wall is a permanently visible classroom display of mathematical terms, typically organized by concept, operation, or unit, that students and teacher reference during instruction and problem solving. It is carried out by co-constructing the wall with students — brainstorming terms that signal operations, adding informal synonyms alongside formal definitions, and modeling how to locate and use key terms when interpreting word problems. The wall functions as an external memory aid that offloads vocabulary retrieval so working memory can be spent on reasoning.
@@ -56,7 +56,7 @@ Word walls reduce the working-memory burden of decoding unfamiliar terminology d
 2. Co-construct the wall: brainstorm with students all words that signal a target operation or concept, discussing why each belongs and noting multiple meanings ("round" in geometry vs. estimation).
 3. Model usage during problem solving: think aloud while locating a signal term on the wall and connecting it to a representation, then have students do the same in pairs.
 4. Require productive use: students must use at least one wall term in written explanations or [class discussion](../elements/class-discussion.md) of solution strategies.
-5. Maintain and fade: add terms as units progress, reorganize by student-proposed categories, and retire mastered words to keep the display focused [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+M]
+5. Maintain and fade: add terms as units progress, reorganize by student-proposed categories, and retire mastered words to keep the display focused [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+M]
 6. Assess vocabulary in context: score explanations for correct term use rather than giving isolated vocabulary quizzes ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies

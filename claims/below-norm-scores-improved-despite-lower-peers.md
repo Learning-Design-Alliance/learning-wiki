@@ -41,8 +41,9 @@ Regression models for below-norm students in the same cohort design. "The coeffi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes](streaming-impacts-negatively-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy](below-norm-score-gains-composition-null-post-policy.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](double-dose-algebra-increased-academic-demand-both-groups.md) — related

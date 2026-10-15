@@ -13,14 +13,14 @@ generated:
 # Graphic Organizers for Retrieval Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 12 studies (6 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 12 report an effect size
+> **Evidence** · 4 claims (4 for) · 14 studies (7 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 14 report an effect size
 
 ## Description
 Students first recall as much as they can about a topic from memory — a "brain dump" — and then sort, cluster, and structure that retrieved information into a graphic organizer such as a timeline, concept map, or comparison matrix. Afterwards, they check against source texts to confirm, correct, or add information, which consolidates the retrieval benefit while making knowledge gaps visible.
 
 ## Design Implications
 
-The strategy combines two complementary mechanisms: retrieval strengthens memory more than restudying [Retrieval practice improves long-term retention relative to restudying.](../claims/spaced-repetition-improves-retention.md) [+S], and spatially organizing information into a coherent structure supports relational processing and reduces working-memory demands during integration [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The sorting step matters: concept-map-style organization produces better relational learning than verbatim note-taking when learners actively select and connect ideas [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. The verification step converts the organizer into a feedback event, which is most effective when it targets the task and process level rather than just marking items right or wrong [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+The strategy combines two complementary mechanisms: retrieval strengthens memory more than restudying [Retrieval practice improves long-term retention relative to restudying.](../claims/spaced-practice-improves-retention.md) [+S], and spatially organizing information into a coherent structure supports relational processing and reduces working-memory demands during integration [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The sorting step matters: concept-map-style organization produces better relational learning than verbatim note-taking when learners actively select and connect ideas [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. The verification step converts the organizer into a feedback event, which is most effective when it targets the task and process level rather than just marking items right or wrong [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements

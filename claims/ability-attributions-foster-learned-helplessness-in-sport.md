@@ -41,8 +41,9 @@ The review defines learned helplessness, citing Pervin (1990), as a syndrome occ
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Skilled athletes attribute successes to stable internal causes and failures to unstable external causes (self-serving attribution bias)](self-serving-attribution-bias-skilled-athletes.md) — related
 - [Outcome-consistent task performances are attributed to stable factors and outcome-conflicting performances to unstable factors](outcome-consistency-drives-stable-versus-unstable-attributions.md) — related
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related

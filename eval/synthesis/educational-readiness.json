@@ -1,0 +1,58 @@
+{
+  "principle": "principles/educational-readiness",
+  "note": "Wave 11 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. Note: school-entry-age-early-advantage-fades-by-later-grades and entry-age-growth-rate-tradeoff are the same study (Johnson & Kuhfeld 2020); the three Malone 2006 claims are one ECLS-K report; the two Ehrlich 2014 claims are one Chicago study.",
+  "findings": [
+    {
+      "hub": "redshirting-academic-advantage-short-lived",
+      "question": "Does holding a child back a year until judged ready (delayed entry or repeating kindergarten) give a lasting academic advantage over on-time entry?",
+      "members": [
+        [
+          "entry-age-growth-rate-tradeoff",
+          "+"
+        ],
+        [
+          "school-entry-age-early-advantage-fades-by-later-grades",
+          "+"
+        ],
+        [
+          "redshirting-costs-outweigh-academic-benefits",
+          "+"
+        ],
+        [
+          "delayed-entrants-behind-in-math-first-grade",
+          "+"
+        ],
+        [
+          "delayed-entrants-slightly-higher-reading-first-grade",
+          "~"
+        ],
+        [
+          "repeaters-lower-reading-math-end-first-grade",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "prek-attendance-kindergarten-readiness",
+      "question": "Does more time in preschool instruction (attending pre-K, attending more days) raise readiness at kindergarten entry, and does the difference last?",
+      "members": [
+        [
+          "wv-prek-print-awareness-gains",
+          "+"
+        ],
+        [
+          "preschool-absence-lower-kindergarten-readiness-scores",
+          "+"
+        ],
+        [
+          "attendance-benefits-strongest-low-incoming-skills",
+          "+"
+        ],
+        [
+          "pre-k-benefits-diminish-by-half-during-kindergarten",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

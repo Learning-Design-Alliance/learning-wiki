@@ -1,0 +1,108 @@
+{
+  "principle": "patterns/problem-based-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "pbl-overall-effect-modest-large-heterogeneity",
+      "question": "Does PBL as a curriculum format raise achievement over conventional instruction, and how reliably?",
+      "members": [
+        [
+          "massive-range-pbl-outcome-effect-sizes",
+          "~"
+        ],
+        [
+          "publication-bias-pbl-tutor-meta-analysis",
+          "~"
+        ],
+        [
+          "tutor-background-meta-regression-not-predictive",
+          "~"
+        ],
+        [
+          "pbl-large-positive-effect-academic-achievement",
+          "+"
+        ],
+        [
+          "ai-pbl-higher-posttest-academic-achievement",
+          "+"
+        ],
+        [
+          "pbl-evidence-base-equivocal",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "productive-failure-improves-conceptual-learning",
+      "question": "Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?",
+      "members": [
+        [
+          "invention-tasks-prepare-future-learning",
+          "+"
+        ],
+        [
+          "ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions",
+          "~"
+        ],
+        [
+          "domain-general-skills-favor-ips",
+          "~"
+        ],
+        [
+          "initial-guidance-does-not-improve-learning-from-instruction",
+          "+"
+        ],
+        [
+          "publication-bias-corrected-psi-effect-strong",
+          "+"
+        ],
+        [
+          "psi-procedural-knowledge-null-pooled-effect",
+          "~"
+        ],
+        [
+          "psi-effect-increases-with-grade-level",
+          "~"
+        ],
+        [
+          "pf-fidelity-predicts-psi-effect-size",
+          "~"
+        ],
+        [
+          "psi-fidelity-time-span-interaction",
+          "~"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "~"
+        ],
+        [
+          "identical-example-problem-order-advantage-not-detected-at-final-test",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "pbl-null-basic-knowledge-positive-transfer",
+      "question": "For which outcomes: basic knowledge, application and transfer, or professional skills?",
+      "members": [
+        [
+          "problem-based-larger-knowledge-gains",
+          "~"
+        ],
+        [
+          "simulation-larger-application-gains",
+          "~"
+        ],
+        [
+          "simulation-larger-overall-il-gains",
+          "~"
+        ],
+        [
+          "problem-based-principal-preparation-self-efficacy",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

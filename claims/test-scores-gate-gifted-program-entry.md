@@ -45,6 +45,12 @@ Rosser's written testimony on the Johns Hopkins Center for the Advancement of Ac
 The evidence is one witness's written testimony reporting invitation counts for one programme in one summer, with the witness's argument that girls' lower SAT scores kept them from qualifying for it and for programmes like the New Jersey Governor's School. It does not compare admission routes or show that a different criterion would have admitted more girls.
 
 ## Related Claims
+
+- [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — the general claim this finding bears on, with the studies behind it
+
+- [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](culturally-diverse-underrepresentation-biased-measures.md) — the general claim this finding bears on, with the studies behind it
+
+- [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](traditional-identification-tests-fail-learning-potential.md) — the general claim this finding bears on, with the studies behind it
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related

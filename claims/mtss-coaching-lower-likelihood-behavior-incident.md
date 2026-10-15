@@ -41,8 +41,9 @@ Multilevel logistic regression on 942 students in 111 homerooms with a dichotomo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — the general claim this finding bears on, with the studies behind it
 - [Students in MTSS-coached schools had significantly fewer days absent in both implementation years](mtss-coaching-fewer-days-absent.md) — related
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
 - [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related

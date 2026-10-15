@@ -39,8 +39,22 @@ Exploratory meta-analytic regressions across the 60 studies; the authors call th
 
 > "for both measures of dosage – total hours of coaching, and total hours of PD when coaching is paired with other program features – we fail to find any evidence in support of the hypothesis that coaching must be high-dosage to be effective. We find very precisely estimate null effects for both instruction and achievement outcomes."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does more coaching time, or more frequent contact, go with larger effects?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 qualitative, 1 quant-synthesis, 1 associational), `q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kraft 2018](https://doi.org/10.3102/0034654318759268) | q2 · quant-synthesis · r? | i? | this claim |
+| [Schachner 2024](https://doi.org/10.54300/984.909) | q2 · qualitative · r2 | i? | [No specific coaching dosage is established as necessary; coaching outcomes appear more sen](coaching-dosage-quality-over-quantity.md) (supports) |
+| Hardy 2021 | q2 · qualitative · r1 | i? | [Time spent between teachers and coaches is one of the most important factors in a successf](coach-teacher-time-key-success-factor.md) (counts against) |
+| [Wechsler 2024](https://doi.org/10.54300/636.224) | q2 · associational · r2 | i? | [Frequency of coaching field support varies across California induction programs and is pos](coaching-frequency-related-to-induction-effectiveness.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 -

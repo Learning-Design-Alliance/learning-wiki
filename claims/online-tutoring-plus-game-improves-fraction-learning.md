@@ -41,8 +41,9 @@ Randomized controlled trial with 144 fifth graders matched on pretest and assign
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — the general claim this finding bears on, with the studies behind it
 - [The corrected effect size for online tutoring plus game was g = +.47 (95% CI (+.23, +.70)), larger than the g = .26 reported for face-to-face elementary math tutoring](corrected-effect-size-047-online-tutoring.md) — related
 - [Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math](pirate-math-keymath-effect-037.md) — related
 - [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related

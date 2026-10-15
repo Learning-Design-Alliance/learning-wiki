@@ -109,7 +109,7 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Feedback improves learning outcomes.](feedback-improves-learning.md) — the general feedback effect this claim situates within retrieval contexts
 - [Pretesting enhances learning from subsequent instruction.](pretesting-enhances-learning.md) — related "errorful generation then correction" mechanism
 - [Spacing improves retention.](spaced-practice-improves-retention.md) — often combined with retrieval and feedback in durable learning designs
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md) — related
 - [Overt correction of errors speeds young children's learning compared with knowledge of correctness alone](overt-error-correction-speeds-young-children-learning.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related

@@ -43,5 +43,7 @@ The review attributes this to Cooper, Tindall-Ford, Chandler, and Sweller (2001)
 
 ## Related Claims
 
+- [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
+
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 -

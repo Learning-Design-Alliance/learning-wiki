@@ -25,7 +25,7 @@ sources:
 # Multisensory Phonics Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 against, 1 unmarked) · 14 studies (5 quant-synthesis, 4 causal, 4 review, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (3 for, 2 against, 1 unmarked) · 16 studies (6 quant-synthesis, 5 causal, 4 review, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Multisensory phonics instruction teaches grapheme–phoneme correspondences by engaging several channels at once: the learner looks at the letter, says its sound, and simultaneously traces it in sand, forms it with tiles, taps the phonemes on their fingers, or writes it in the air. The approach is most associated with the Orton-Gillingham tradition and its derivatives, where "simultaneous multisensory" is one component of a package that is also explicit, systematic, cumulative, and diagnostic.
@@ -34,7 +34,7 @@ An honest account of this strategy has to separate those components, because the
 
 ## Design Implications
 
-The systematic-phonics core is strongly supported: explicit, sequenced instruction in letter–sound correspondences improves word reading substantially, and more so than approaches that leave the code to be inferred [Systematic Phonics Improves Word Reading](../claims/systematic-phonics-improves-word-reading.md) [+S] [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. The gains are largest for beginning readers and for those at risk of difficulty, and they run through decoding to comprehension, because accurate automatic word recognition frees capacity for meaning [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Phonemic awareness training is the companion piece [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+S].
+The systematic-phonics core is strongly supported: explicit, sequenced instruction in letter–sound correspondences improves word reading substantially, and more so than approaches that leave the code to be inferred [Systematic Phonics Improves Word Reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S] [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. The gains are largest for beginning readers and for those at risk of difficulty, and they run through decoding to comprehension, because accurate automatic word recognition frees capacity for meaning [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Phonemic awareness training is the companion piece [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+S].
 
 What has not been isolated is the contribution of the multisensory element itself. Reviews of Orton-Gillingham-based programmes find that the studies almost never separate the multisensory component from the explicit, systematic, cumulative structure it travels with, so the effects attributed to "multisensory" are as consistent with the structure doing the work [~W]. This matters practically: a school choosing between a multisensory programme and a systematic non-multisensory one is choosing between a strongly supported thing and the same strongly supported thing with an unevaluated addition — not between an enhanced and a basic version.
 
@@ -51,7 +51,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 - A systematic scope and sequence of grapheme–phoneme correspondences, taught cumulatively
 - Explicit teacher modeling of each correspondence before student production ([Direct Instruction](../patterns/direct-instruction.md))
 - Immediate, repeated student production: saying the sound while writing or tracing the letter
-- Cumulative review and [distributed practice](../claims/spaced-repetition-improves-retention.md) of previously taught correspondences
+- Cumulative review and [distributed practice](../claims/spaced-practice-improves-retention.md) of previously taught correspondences
 - Decodable text that lets students apply taught patterns in connected reading
 
 #### Constraints
@@ -78,7 +78,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 - Digital adaptations: speech-output plus letter-formation apps (e.g., [Heggerty](https://www.heggerty.org), [UFLI Foundations](https://ufli.education.ufl.edu), [Lexia Core5](https://www.lexialearning.com/core5))
 
 ### Target Learners
-- Beginning readers acquiring the alphabetic code, where phonics gains are largest [Systematic Phonics Improves Word Reading](../claims/systematic-phonics-improves-word-reading.md) [+S]
+- Beginning readers acquiring the alphabetic code, where phonics gains are largest [Systematic Phonics Improves Word Reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]
 - Learners with dyslexia or persistent decoding difficulty, the population the Orton-Gillingham tradition was built for
 - Learners who confuse visually similar graphemes, where a motor trace of the form plausibly helps
 - Older struggling readers who need the code taught explicitly without primary-school framing
@@ -157,7 +157,7 @@ The core mechanism is not the number of senses engaged but the explicit, systema
 - A systematic scope and sequence of grapheme–phoneme correspondences, taught cumulatively
 - Explicit teacher modeling of each correspondence before student production ([Direct Instruction](../patterns/direct-instruction.md))
 - Immediate, repeated student production: saying the sound while writing or tracing the letter
-- Cumulative review and [distributed practice](../claims/spaced-repetition-improves-retention.md) of previously taught correspondences
+- Cumulative review and [distributed practice](../claims/spaced-practice-improves-retention.md) of previously taught correspondences
 - Decodable text that lets students apply taught patterns in connected reading
 
 #### Constraints

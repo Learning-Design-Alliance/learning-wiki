@@ -41,8 +41,9 @@ Theoretical argument in this essay, not an empirical test: the author contends c
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](criterion-referenced-tests-measure-mastery-not-relative-standing.md) — the general claim this finding bears on, with the studies behind it
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
 - [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related

@@ -1,0 +1,92 @@
+{
+  "principle": "patterns/authentic-assessment",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim compares an authentic performance task with a conventional test; the findings are the tested parts of the sequence (realism of the task, rubric-referenced self-assessment, a real audience).",
+  "findings": [
+    {
+      "hub": "contextualized-teaching-facilitates-transfer",
+      "question": "Does making the assessed task closer to real practice help learners carry the capability into that practice?",
+      "members": [
+        [
+          "simucase-lacks-behavioral-authenticity",
+          "~"
+        ],
+        [
+          "authentic-tasks-meaningful-l2-learning",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "self-assessment-improves-self-regulated-learning",
+      "question": "Should learners assess their own work, and can their self-ratings be trusted?",
+      "members": [
+        [
+          "self-assessment-accuracy-is-low-without-training",
+          "~"
+        ],
+        [
+          "prior-knowledge-needed-for-accurate-self-assessment",
+          "~"
+        ],
+        [
+          "fluent-illusions-mislead-self-assessment",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ],
+        [
+          "apca-improves-self-assessment-accuracy-overconfidence",
+          "~"
+        ],
+        [
+          "guided-llm-self-assessment-calibration-alignment",
+          "~"
+        ],
+        [
+          "self-monitoring-improves-self-regulation",
+          "+"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "+"
+        ],
+        [
+          "aa-students-passive-users-of-rubrics",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "authentic-audiences-improve-student-work",
+      "question": "Does writing or presenting for a real reader beyond the teacher-as-grader improve the product?",
+      "members": [
+        [
+          "public-capstone-epportfolio-showcase-audience-effect",
+          "+"
+        ],
+        [
+          "skilled-writers-audience-awareness",
+          "+"
+        ],
+        [
+          "audience-prior-knowledge-determines-information-density",
+          "~"
+        ],
+        [
+          "community-presentation-created-accountability-pressure",
+          "+"
+        ],
+        [
+          "public-vs-private-reflection-mixed",
+          "~"
+        ],
+        [
+          "personal-connection-to-data-supports-critical-data-literacy-stance-taking",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

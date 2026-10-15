@@ -12,7 +12,7 @@ generated:
 # Consolidate Key Points
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Consolidate Key Points is the step in a discussion sequence — typically following [pair talk](../patterns/think-pair-share.md) or small-group work — in which the teacher elicits, synthesizes, and explicitly states the ideas students should retain. The teacher draws together student contributions, corrects or sharpens them, and names the takeaway so that every learner leaves the activity with a clear, accurate summary rather than a fragmentary memory of the conversation.
@@ -45,7 +45,7 @@ Consolidation closes the loop opened by student talk: discussion generates ideas
 
 ### Target Learning Goals
 - Conceptual understanding: naming the principle the discussion surfaced
-- Knowledge retention: a clear summary improves later recall, especially when revisited across sessions [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Knowledge retention: a clear summary improves later recall, especially when revisited across sessions [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Metacognition: modeling how to distill a conversation into its essential point
 
 ### Instructions

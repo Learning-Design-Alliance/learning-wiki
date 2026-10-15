@@ -1,0 +1,24 @@
+{
+  "principle": "principles/evidence-based-teaching-and-scientific-reasoning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Sources: Morrison et al. 2014, Digital Promise 2015 (purchasing), Digital Promise 2015 (developers), and the Cooney Center 2015 app scan as reported in two Digital Promise papers (counted once). The CSR research-base question rests on one study (Orland 2010, three claims) and has no table.",
+  "findings": [
+    {
+      "hub": "no-rigorous-evidence-ed-tech-products",
+      "question": "When a school or district chooses an ed-tech product, is there rigorous evidence to choose by, and do purchasers use it?",
+      "members": [
+        [
+          "districts-rely-peer-recommendations-pilots-over-rigorous-evidence",
+          "+"
+        ],
+        [
+          "developers-report-research-informed-products",
+          "+"
+        ],
+        [
+          "literacy-apps-lack-research-reference",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

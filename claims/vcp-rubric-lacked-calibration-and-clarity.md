@@ -41,8 +41,9 @@ Qualitative evaluation of the VCP rubric used for developmental purposes only fr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [Nevada's refined instructional materials review process addresses prior problems of unclear, non-standard, and inequitable review, including rural districts' obstacles to participation](nevada-refined-im-review-process-addresses-clarity-and-rural-equity.md) — related
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — a broader claim this one bears on
 - [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related

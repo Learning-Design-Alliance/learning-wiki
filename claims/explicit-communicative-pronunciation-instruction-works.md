@@ -80,6 +80,18 @@ A re-analysis of 77 L2 pronunciation teaching studies (1982–2017), coding each
 
 > "According to the results, instruction is most effective when it targets learners' monitored production of specific segmental or suprasegmental features. The efficacy of instruction remains relatively unclear when gains are measured globally via subjective, human judgments, especially at a spontaneous level."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does explicit second-language pronunciation instruction improve pronunciation, and does the gain carry into spontaneous speech?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 review), `q1`–`q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Darcy 2018](https://doi.org/10.5070/b5.35963) | q1 / q2 · review · r2 | i? | this claim; [Learners receiving both form- and meaning-focused instruction improved more than a form-fo](form-and-meaning-focus-beats-form-only.md) (supports) |
+| [Lee et al. 2015](https://doi.org/10.1093/applin/amu040) | q3 · quant-synthesis · r? | i3 · large effect, d=0.80 between-group | this claim |
+| [Saito & Plonsky 2019](https://doi.org/10.1111/lang.12345) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.68 between-group | this claim |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The two meta-analyses support the first half of this claim, that explicit attention to pronunciation produces demonstrable improvement, and qualify the rest. Saito & Plonsky (2019) find the improvement is clear for learners' controlled production of targeted sounds and prosodic features, and unclear when measured as global comprehensibility or in spontaneous speech, which is the speech communicative practice is meant to develop. Neither synthesis, as read here, compares instruction with and without communicative practice, so the earlier title's "with communicative practice" was the source article's framing, not something these studies establish, and its "clear and demonstrable" overstated the evidence for spontaneous speech; the title now states what the syntheses show.

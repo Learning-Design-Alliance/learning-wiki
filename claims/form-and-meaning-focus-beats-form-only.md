@@ -41,6 +41,7 @@ The article attributes this finding to Park (2000) as background support for the
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech](explicit-communicative-pronunciation-instruction-works.md) — the general claim this finding bears on, with the studies behind it
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related

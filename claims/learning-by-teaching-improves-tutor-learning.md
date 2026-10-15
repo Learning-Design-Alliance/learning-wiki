@@ -60,6 +60,20 @@ Cohen, P. A., Kulik, J. A., & Kulik, C.-L. C. (1982). Educational outcomes of tu
 
 This meta-analysis synthesised 65 independent evaluations of school tutoring programmes. Besides benefiting the students who were tutored, the programmes had positive effects on the children who served as tutors: tutors came to understand the tutored subject matter better and developed more positive attitudes toward it. Tutoring had little or no effect on the self-esteem of either tutors or tutees. The abstract does not compare the size of tutor gains with tutee gains, so it does not bear on the page's statement that tutors often learn more than tutees. Read from the abstract only.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does preparing to teach a part, and then teaching it, improve the teaching learner's own understanding?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 associational), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kobayashi 2019](https://doi.org/10.1111/jpr.12221) | q3 · quant-synthesis · r? | i2 · medium effect, g=0.56 (teaching with preparing-to-teach); g=0.35 (preparing-to-teach alone) | this claim |
+| [Cohen et al. 1982](https://doi.org/10.3102/00028312019002237) | q3 · quant-synthesis · r? | i? | this claim |
+| Angxuan Chen 2024 | q2 · causal · r1 | i3 | [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge](chatgpt-teachable-agent-knowledge-gains.md) (supports) |
+| Xinming Yang 2025 | q2 · causal · r1 | i? | [Learning-by-teaching an LLM improved assignment and project performance versus historical ](learning-by-teaching-llm-improves-assignments-projects.md) (qualifies) |
+| [Fathima Ameen 2026](https://doi.org/10.1007/s41237-026-00294-9) | q2 · associational · r1 | i? | [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questi](kbr-predicts-tutor-posttest-conceptual-procedural.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Why teaching works on the tutor.** The expected effect is usually explained by the preparatory and generative demands of teaching: anticipating a learner's questions forces deeper processing, and explaining aloud exposes gaps that silent study conceals. This places learning-by-teaching close to other generative activities — see [Active learning improves exam performance](active-learning-improves-exam-performance.md) — in that the benefit accrues from what the tutor must retrieve, organize, and articulate, not from the social role itself. Explaining aloud is also a form of self-explanation, which links this claim to the broader family of elaboration effects; the tutor must reconstruct material in their own words rather than reread it.
@@ -119,9 +133,8 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why teach-before-study can overload novices
 - [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
 - [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
-- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
+- [Tutoring benefits both tutors and tutees](peer-tutoring-improves-achievement.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
-- [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
 - [Activation improves learning](activation-improves-learning.md) — teaching requires activating and organizing prior knowledge

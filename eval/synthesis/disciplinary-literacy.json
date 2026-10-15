@@ -1,0 +1,32 @@
+{
+  "principle": "principles/disciplinary-literacy",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "disciplinary-literacy-instruction-improves-comprehension",
+      "question": "Does teaching a discipline's own reading and reasoning practices on its own texts improve comprehension and disciplinary thinking over usual instruction?",
+      "members": [
+        [
+          "whp-students-continuity-change-outcomes",
+          "+"
+        ],
+        [
+          "targeted-instruction-drives-historical-thinking-progression",
+          "+"
+        ],
+        [
+          "whp-comparable-other-five-skills",
+          "~"
+        ],
+        [
+          "historical-thinking-dimensions-conceptually-decoupled",
+          "~"
+        ],
+        [
+          "explicit-contextualization-instruction-improves-writing-procedure-not-scores",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

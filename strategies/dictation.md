@@ -12,7 +12,7 @@ generated:
 # Dictation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 review, 3 causal, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 13 studies (4 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
 
 ## Description
 Dictation asks learners to write down text spoken aloud by an instructor or audio system, moving from single words to sentences to connected passages. Because learners must segment speech into phonemes and map each onto a grapheme or spelling pattern, dictation forces active retrieval of orthographic knowledge rather than passive copying. It is typically followed by immediate comparison against the correct text and targeted correction.
@@ -58,7 +58,7 @@ Dictation is a form of retrieval practice for orthographic knowledge: producing 
 2. Dictate at the word or short-chunk level first, keeping each unit small enough to hold in memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 3. Have learners write the word or sentence from memory — this retrieval step, not the listening, is where learning occurs.
 4. Reveal the correct text immediately and have learners self-correct, marking the specific grapheme where they erred ([Feedback](../elements/feedback.md)).
-5. Re-dictate missed items after a delay, distributing review across sessions rather than massing it [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Re-dictate missed items after a delay, distributing review across sessions rather than massing it [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 6. Progress to sentence and passage dictation only once word-level accuracy is secure.
 
 ## Related Strategies

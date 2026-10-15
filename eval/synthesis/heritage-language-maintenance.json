@@ -1,0 +1,66 @@
+{
+  "principle": "principles/heritage-language-maintenance",
+  "note": "Wave 11 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. Several members trace to one source (Skutnabb-Kangas & Toukomaa 1976, via Cummins 1979 and Rivera 1984), so the table's distinct-study count should be read with that in mind.",
+  "findings": [
+    {
+      "hub": "heritage-language-preservation-supports-english-acquisition",
+      "question": "Does maintaining and developing a learner's heritage language cost their acquisition of the school language, or support it?",
+      "members": [
+        [
+          "l1-maintenance-supports-l2-without-cost",
+          "+"
+        ],
+        [
+          "spanish-home-use-does-not-limit-english-learning",
+          "+"
+        ],
+        [
+          "mother-tongue-preservation-predicts-l2-achievement",
+          "+"
+        ],
+        [
+          "l1-l2-calp-interdependence-no-adverse-consequences",
+          "+"
+        ],
+        [
+          "l1-l2-academic-interdependence-transfer",
+          "+"
+        ],
+        [
+          "semilingualism-associated-with-negative-cognitive-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cl-teaching-in-language-students-understand-improves-learning",
+      "question": "Does teaching through the learner's home language (dual language or mother-tongue instruction), rather than early transfer to the school language, improve school-language and subject learning?",
+      "members": [
+        [
+          "dual-language-programs-improve-literacy-achievement",
+          "+"
+        ],
+        [
+          "dual-language-literacy-null-for-english-learners",
+          "~"
+        ],
+        [
+          "dual-language-evidence-base-thin-two-of-122",
+          "~"
+        ],
+        [
+          "dual-language-programs-gap-closure-longitudinal",
+          "+"
+        ],
+        [
+          "early-exit-transitional-transition-unsupported-inappropriate",
+          "+"
+        ],
+        [
+          "rizal-experiment-local-language-faster-literacy",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

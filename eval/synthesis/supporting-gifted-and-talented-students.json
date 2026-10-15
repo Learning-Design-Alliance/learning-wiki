@@ -1,0 +1,28 @@
+{
+  "principle": "principles/supporting-gifted-and-talented-students",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests acceleration or enrichment; the one finding is on identification, all second-hand reviews and testimony.",
+  "findings": [
+    {
+      "hub": "gifted-underrepresentation-diverse-students",
+      "question": "Does selecting students for gifted provision by test score or teacher referral miss students from some groups?",
+      "members": [
+        [
+          "teacher-underreferral-diverse-gifted",
+          "+"
+        ],
+        [
+          "culturally-diverse-underrepresentation-biased-measures",
+          "+"
+        ],
+        [
+          "traditional-identification-tests-fail-learning-potential",
+          "+"
+        ],
+        [
+          "test-scores-gate-gifted-program-entry",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

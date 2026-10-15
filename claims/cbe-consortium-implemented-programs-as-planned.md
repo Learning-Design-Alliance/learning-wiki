@@ -44,7 +44,6 @@ Comprehensive evaluation of online competency-based information technology progr
 
 ## Related Claims
 - [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](cbe-participants-completion-employment-wages.md) — a narrower finding that bears on this claim
-- [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](taaccct-cbe-35-percent-program-completion.md) — a narrower finding that bears on this claim
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](sinclair-consortium-competency-based-it-programs-baseline.md) — related
 - [Implementing CBE in community colleges requires a higher degree of collaboration and standardization than is typically found in community college programs](cbe-requires-collaboration-and-standardization.md) — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

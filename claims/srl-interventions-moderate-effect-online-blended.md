@@ -39,6 +39,18 @@ Meta-analysis of 15 studies (5,519 participants) from Scopus, IEEE Explore, and 
 
 > "Figure 3 shows that a random effects model (RE Model) with a value of 0.65 was found. This means that self-regulated learning intervention studies affect learning results in online and blended environments by 65%"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does building self-regulation support (planning, if-then plans, self-checks) into an online course improve learning and completion?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 causal), `q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Guntur 2024](https://doi.org/10.24059/olj.v28i3.4025) | q3 · quant-synthesis · r2 | i2 | this claim |
+| [Gollwitzer & Sheeran 2006](<https://doi.org/10.1016/s0065-2601(06)38002-1>) | q3 · quant-synthesis · r? | i2 · medium-to-large effect, d = .65, 95% CI .60 to .70 | [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) (supports) |
+| [Kizilcec & Cohen 2017](https://doi.org/10.1073/pnas.1611898114) | q3 · causal · r? | i? | [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims

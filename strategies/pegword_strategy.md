@@ -12,7 +12,7 @@ generated:
 # Pegword Strategy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 quant-synthesis, 3 review, 2 causal), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 3 review), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 The pegword strategy is a mnemonic technique that uses rhyming words to represent numbers or order. Learners first memorize a fixed list of concrete "pegwords" for each number (one = bun, two = shoe, three = tree), then form interactive visual images linking each pegword to the item to be remembered. Retrieval proceeds by recalling the pegword, which cues the associated image and its content. It is a variant of the keyword method applied to ordered or numbered information.
@@ -25,7 +25,7 @@ The strategy exploits dual coding — pairing verbal rhymes with vivid images cr
 - A pre-taught, overlearned pegword list (one = bun, two = shoe, three = tree…) — the pegs must be automatic before content associations are added
 - Explicit instruction in forming interactive images, ideally via [Demonstration](../elements/demonstration.md) of the association process
 - Concrete pictures or drawings for younger learners or those with imagery difficulties
-- Regular retrieval [Practice](../elements/practice.md) and spaced review [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Regular retrieval [Practice](../elements/practice.md) and spaced review [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Requires significant initial effort to memorize pegwords; if the pegs are not automatic, the added load can *impair* rather than support encoding [~M]

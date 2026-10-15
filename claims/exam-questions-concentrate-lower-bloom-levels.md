@@ -39,6 +39,18 @@ Manual content analysis of 115 question papers from University of Agriculture Fa
 
 > "Data in Table 1 revealed that the most of the questions in papers were of comprehension level (40.90%)  followed By knowledge level (33.05%) and an alysis level (17.37%)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*At what cognitive level do end-point exam questions sit, and how do learners score across those levels?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 associational, 1 causal), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Anees 2017 | q2 · associational · r1 | i? | this claim |
+| [Zakani 2019](https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994) | q2 · associational · r1 | i? | [Collected exam questions required no cognitive processes above apply and no originality in](exam-questions-capped-at-apply-and-standardized-analysis.md) (supports) |
+| [Deborah K. Anderson 2023](https://doi.org/10.1128/jmbe.00151-22) | q3 · causal · r2 | i? | [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

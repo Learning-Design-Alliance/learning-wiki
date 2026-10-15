@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence"
-description: Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners
+description: "An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence"
 id: cohort-support-improves-adult-persistence
 status: draft
 generated:
@@ -17,20 +17,12 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 2
-  - id: deschryver-2015-2
-    resource: "https://digitalpromise.dspacedirect.org/items/29f39d7d-87f2-4e1e-920e-0c1ce86035cc"
-    title: "DeSchryver, David A., with Deirdre Dlugoleski. (2015). Accelerating Change: How education technology developers can jump-start a new adult education market. Digital Promise. https://digitalpromise.dspacedirect.org/items/29f39d7d-87f2-4e1e-920e-0c1ce86035cc"
-    author: DeSchryver, David A., with Deirdre Dlugoleski
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 1
 ---
 
 # An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r1`–`r2` · `q2`
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 <!-- title before 2026-10-15: Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners -->
 

@@ -43,6 +43,24 @@ Guo, L. (2022). How should reflection be supported in higher education? — A me
 
 A meta-analysis of controlled experiments testing reflective interventions intended to promote learning outcomes in higher education, drawing on 23 studies with 2,010 participants total. Under a random-effects model the pooled effect was positive and medium-sized (g = 0.56), but moderator analyses showed the effect size depended on intervention duration, whether the reflection included peer interaction, and which specific reflective activity was used — i.e., the average effect masks considerable heterogeneity driven by how reflection is implemented, consistent with the point below that operationalization varies widely.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does reflecting on a performance improve later learning over no reflection or ordinary instruction?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **9 distinct studies** (5 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 3 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Guo 2022](https://doi.org/10.1080/14623943.2021.1995856) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.56 (SE=0.06) | this claim |
+| Star 2015 | q2 · review · r3 | i? | [Teaching reflective questioning or using graphical representations improves procedural and](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) (supports) |
+| Kelly McNeil 2026 | q2 · review · r2 | i? | [The review reports that embedded analytics, timely feedback, and structured reflection str](analytics-feedback-reflection-strengthen-learning-gains.md) (supports) |
+| [Mustafa Metin 2022](https://doi.org/10.17509/jsl.v5i1.33190) | q2 · causal · r1 | i? | [Formative assessment embedded with explicit-reflective instruction yields higher post-test](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) (qualifies); [The formative-assessment-embedded group retained higher NOS and SK scores than the control](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) (qualifies) |
+| [Bangert-Drowns et al. 2004](https://doi.org/10.3102/00346543074001029) | q4 · quant-synthesis · r? | i1 | [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) (supports); [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) (supports) |
+| [Menekse et al. 2022](https://doi.org/10.1080/00220973.2020.1786346) | q2 · causal · r? | i? | [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) (supports) |
+| [Kayaalp et al. 2022](https://doi.org/10.17275/per.22.18.9.1) | q2 · causal · r1 | i2 · medium effect, d=0.61 | [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) (supports) |
+| [Bellhäuser 2022](https://doi.org/10.3389/fpsyg.2022.813381) | q3 · causal · r2 | i? | [A daily learning diary alone (Group D) did not produce statistically significant pre-post ](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) (counts against); [Web-based SRL training combined with a learning diary (Group TD) produced statistically si](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) (qualifies) |
+| [Sven Scheu 2026](https://doi.org/10.1186/s41239-026-00589-7) | q3 · causal · r2 | i? | [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre](journaling-system-improves-srl-all-groups.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The one quantitative synthesis below does not show mixed evidence.** Guo (2022) pooled 23 reflection-intervention studies in higher education and found a medium positive effect (g = 0.56). "Mixed" may still describe the qualitative health-professions literature (Mann, Gordon & MacLeod 2009 is the usual source), which could not be read here; until it is, read the title as unconfirmed.
@@ -58,6 +76,8 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 **Open questions.** Key unresolved issues include: how much structure is optimal, whether reflection benefits accumulate over longitudinal professional programs, for which professions and task types reflection pays off most, and whether the opportunity cost of reflection time outweighs its benefits relative to direct instruction or deliberate practice.
 
 ## Related Claims
+
+- [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — the general claim this finding bears on, with the studies behind it
 
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — cases give learners concrete material to reflect against, often replacing or structuring reflection
 - [3-2-1 reflection](../strategies/3-2-1_reflection.md) — a lightweight structured reflection routine illustrating the "structure" moderator

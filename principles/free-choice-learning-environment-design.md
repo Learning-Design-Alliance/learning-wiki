@@ -18,7 +18,7 @@ sources:
 # Free-Choice Learning Environment Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (6 for, 9 mixed, 1 against) · 17 studies (5 review, 4 theoretical, 3 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 2 of 17 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (5 for, 9 mixed, 1 against) · 17 studies (4 review, 4 theoretical, 3 causal, 3 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 17 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,7 +117,7 @@ Each question below links a general claim that gathers the studies behind it int
 
 Claims bearing on the page that the model above does not use as core evidence. Each says what it is and how far it bears.
 
-- [Field trip exposure positively affects students' proficiency on the standardized eighth-grade science exam](../claims/field-trips-positive-science-proficiency.md) [+M]: the same New York City field-trip study as the score claim above, on proficiency; not a second study.
+- [Field trip exposure positively affects students' proficiency on the standardized eighth-grade science exam](../claims/field-trips-small-positive-science-score-effects.md) [+M]: the same New York City field-trip study as the score claim above, on proficiency; not a second study.
 - [Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch](../claims/field-trip-effects-largest-hispanic-frpl-students.md) [~M]: the same study's subgroup result, used in the field-trip row; no subgroup effect sizes printed.
 - [IDC's interest cycle requires educators to treat interests as launching points for deeper immersion, not static topics](../claims/interest-cycle-triggering-immersing-extending.md) [+W]: a theoretical commentary, used for step 2; no data.
 - [Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education](../claims/grading-harms-maker-education-outcomes.md) [+W]: a literature-based argument citing Kohn second-hand; used for step 3.

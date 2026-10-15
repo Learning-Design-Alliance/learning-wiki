@@ -43,6 +43,8 @@ The review reports, citing Clark et al. (2016), that transfer evidence is mixed:
 
 ## Related Claims
 
+- [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) — the general claim this finding bears on, with the studies behind it
+
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related

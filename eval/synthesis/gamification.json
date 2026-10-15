@@ -1,0 +1,48 @@
+{
+  "principle": "principles/gamification",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Hub and question reused verbatim from eval/synthesis/game-based-mastery-learning.json.",
+  "findings": [
+    {
+      "hub": "gamification-has-small-positive-effects-on-learning-outcomes",
+      "question": "Does adding a game layer to instruction raise outcomes, and which outcomes?",
+      "members": [
+        [
+          "quizizz-gamification-better-memorization",
+          "+"
+        ],
+        [
+          "gamification-raises-motivation-satisfaction",
+          "+"
+        ],
+        [
+          "gamification-engagement-mixed-evidence",
+          "~"
+        ],
+        [
+          "behavioural-engagement-not-cognitive-engagement",
+          "~"
+        ],
+        [
+          "mangomon-rpg-gamification-improves-business-vocabulary",
+          "+"
+        ],
+        [
+          "moderate-motivation-imi-mangomon",
+          "~"
+        ],
+        [
+          "game-based-practice-outperforms-traditional-l2-vocabulary-instruction",
+          "+"
+        ],
+        [
+          "gamified-modules-beat-mimecast-phishing",
+          "+"
+        ],
+        [
+          "gameful-assessments-higher-student-satisfaction",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

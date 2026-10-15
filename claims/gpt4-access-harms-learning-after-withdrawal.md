@@ -18,50 +18,12 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 3
-  - id: aras-bozkurt-2026
-    resource: "https://doi.org/10.55982/openpraxis.18.1.1145"
-    title: "Aras Bozkurt, Helen Crompton, & Caroline Fell Kurban. (2026). The Devil is in the Det[ai]ls: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World. Open Praxis, 18(1), 1–12. https://doi.org/10.55982/openpraxis.18.1.1145"
-    author: "Aras Bozkurt, Helen Crompton, & Caroline Fell Kurban"
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 2
-  - id: h-chad-lane-2026
-    resource: "https://doi.org/10.1007/978-3-032-29791-4_38"
-    title: "H. Chad Lane. (2026). AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass. AIED 2026, CCIS 3032, pp. 502–516. https://doi.org/10.1007/978-3-032-29791-4_38"
-    author: H. Chad Lane
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 3
-  - id: mario-brcic-2026
-    resource: "https://arxiv.org/abs/2606.26181"
-    title: "Mario Brcic, Stjepan Frljic. (2026). The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning. Preprint. https://arxiv.org/abs/2606.26181"
-    author: Mario Brcic, Stjepan Frljic
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 3
-  - id: lin-j-and-al-hada-nm-2026
-    title: Lin J and Al-Hada NM 2026
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 3
-  - id: marcus-kubsch-2026
-    resource: "https://arxiv.org/abs/2606.16822"
-    title: "Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822"
-    author: Marcus Kubsch
-    q: 2
-    i: "?"
-    kind: theoretical
-    rigour: 3
 ---
 
 # Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 6 studies · 6 theoretical `r2`–`r3` · `q2`
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 
@@ -209,12 +171,10 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — a broader claim this one bears on
 - [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — related
 - [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — a broader claim this one bears on
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — related
 - [Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency](cognitive-offloading-shifts-to-cognitive-surrender.md) — a broader claim this one bears on
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
-- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — a broader claim this one bears on
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — related
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](developmental-shift-cognitive-offloading.md) — related
 - [Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips](ai-practice-beat-editor-feedback-and-google-search.md) — related

@@ -1,0 +1,50 @@
+{
+  "principle": "principles/summative-assessment",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "exam-questions-concentrate-lower-bloom-levels",
+      "question": "At what cognitive level do end-point exam questions sit, and how do learners score across those levels?",
+      "members": [
+        [
+          "exam-questions-capped-at-apply-and-standardized-analysis",
+          "+"
+        ],
+        [
+          "locs-exam-questions-outperform-hocs",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "test-anxiety-negative-exam-performance",
+      "question": "Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?",
+      "members": [
+        [
+          "math-anxiety-degrades-performance",
+          "+"
+        ],
+        [
+          "proctored-online-exams-increase-test-anxiety",
+          "~"
+        ],
+        [
+          "expressive-writing-improves-exam-performance",
+          "~"
+        ],
+        [
+          "higher-anxiety-is-associated-with-smaller-testing-effects",
+          "~"
+        ],
+        [
+          "low-stress-tbl-higher-isat-scores",
+          "~"
+        ],
+        [
+          "low-stress-tbl-lower-stress-frustration",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

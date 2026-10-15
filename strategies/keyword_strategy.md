@@ -12,7 +12,7 @@ generated:
 # Keyword Strategy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 The keyword strategy is a two-stage mnemonic for learning vocabulary and paired associations. First, the learner identifies a familiar **keyword** that sounds similar to (or otherwise cues) the unfamiliar term — e.g., *car* for the Spanish *carne* (meat). Second, the learner forms an interactive mental image linking the keyword to the meaning — a picture of a steak in a car. The strategy works by converting an arbitrary verbal association into a concrete, imageable one, exploiting the superior durability of visual and elaborative encoding [Dunlosky et al. rate imagery-based mnemonics as useful for paired-associate learning.](../claims/chunking-reduces-working-memory-load.md) [+M].
@@ -26,7 +26,7 @@ The keyword strategy is a form of elaborative encoding: it attaches new, arbitra
 - A familiar, concrete keyword with acoustic or orthographic overlap with the target term
 - An *interactive* image in which the keyword and the meaning act on each other, not merely co-occur
 - Explicit teaching of the procedure itself — learners must be shown how to generate keywords and images ([Demonstration](../elements/demonstration.md)), since self-generated mnemonics without instruction often fail
-- Regular retrieval practice to maintain the association over time [Spaced retrieval maintains associations that mnemonics alone do not.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Regular retrieval practice to maintain the association over time [Spaced retrieval maintains associations that mnemonics alone do not.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Keyword recall can outlast meaning recall: learners may remember the keyword and image but forget the actual foreign word, producing a retrieval failure at the critical link [~M]
@@ -56,7 +56,7 @@ The keyword strategy is a form of elaborative encoding: it attaches new, arbitra
 2. [Demonstrate](../elements/demonstration.md) the full procedure on one or two examples, thinking aloud: keyword → image → meaning.
 3. Present or elicit an interactive image linking keyword and meaning; have learners describe what is happening in the picture ([Annotating](../principles/annotating.md) or drawing the image strengthens encoding).
 4. Have learners generate their own keywords and images for subsequent terms, with feedback on keyword quality.
-5. Follow with retrieval practice — recall the meaning from the term and the term from the meaning — distributed over time [Spaced retrieval maintains associations that mnemonics alone do not.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Follow with retrieval practice — recall the meaning from the term and the term from the meaning — distributed over time [Spaced retrieval maintains associations that mnemonics alone do not.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 

@@ -12,7 +12,7 @@ generated:
 # Math Centers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 12 studies (6 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 12 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 14 studies (7 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 14 report an effect size
 
 ## Description
 Math centers are multiple simultaneous activity stations — games, manipulatives, digital tools, collaborative problem sets, or teacher-led small groups — among which learners rotate on a schedule. Each station targets a specific skill or concept, allowing the teacher to run [guided practice](../elements/practice.md) with a small group at one station while others work independently or collaboratively. Centers combine hands-on [application](../elements/application.md) with peer interaction and are a common vehicle for differentiation in K–8 mathematics.
@@ -47,7 +47,7 @@ Centers convert whole-class instruction into distributed [active learning](../pr
 - Less suitable without scaffolds for learners who cannot yet sustain independent work or self-monitor during rotations
 
 ### Target Learning Goals
-- Fluency practice: spaced retrieval of facts and procedures across stations [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Fluency practice: spaced retrieval of facts and procedures across stations [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Conceptual understanding through [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] prompted by games and discussion tasks
 - Mathematical discourse and collaborative problem solving [~M]
 - Application of skills to games, puzzles, and open-ended tasks

@@ -22,7 +22,7 @@ sources:
 # Community projects need conceptual framing to avoid narrowing the learning object
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · qualitative `r2` · `q1` · `i0` negligible · n=1 school, 11 students in the focal course year, plus teachers, entrepreneurs, and municipal decision-makers
+> **Evidence** · 1 study · qualitative `r2` · `q1` · n=1 school, 11 students in the focal course year, plus teachers, entrepreneurs, and municipal decision-makers
 
 When a real-world or community-partnered project is not anchored to explicit disciplinary or conceptual content, the different groups involved (students, teachers, outside partners) tend to converge on whichever meaning system is easiest to coordinate around — often a narrow, transactional one — rather than the broader learning object the design intended.
 
@@ -43,6 +43,8 @@ A Finnish public middle school ran an annual entrepreneurship "fair course" conn
 This is a single interpretive case study (evidence tier q1) with no comparison condition, so it cannot establish how often or under what conditions this narrowing occurs — it demonstrates a mechanism (a boundary-crossing activity converging on the most tractable shared meaning system when conceptual scaffolding is absent), not a generalizable effect size. The intervention that did surface richer meaning ("future forum") suggests the narrowing is not inevitable and can be counteracted by structured, cross-group reflection, but that was demonstrated in the same single site. Findings should be read as a caution for [community-based learning](../principles/community-based-learning.md) and real-world project design, not as evidence that such projects fail generally.
 
 ## Related Claims
+
+- [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — the general claim this finding bears on, with the studies behind it
 
 - [A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes](syllabus-service-content-connection-strongest-pedagogical-relationship.md) — the general claim this finding bears on, with the studies behind it
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — both claims point to the same design risk: unstructured real-world activity needs responsive support or framing to reach its intended learning goal

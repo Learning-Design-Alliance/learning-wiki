@@ -41,8 +41,9 @@ Quasi-experimental pretest-posttest study of 92 Grade-5 learners in three intact
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — the general claim this finding bears on, with the studies behind it
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](metalinguistic-recasts-effective-immediate-wh-questions.md) — related
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](metalinguistic-beats-recasts-immediate-not-delayed.md) — related
 - [Task complexity shows no significant effect on child learners' oral production of the target form when receiving recasts](task-complexity-no-effect-child-oral-production.md) — related

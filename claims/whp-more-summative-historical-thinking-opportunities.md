@@ -44,7 +44,7 @@ Quasi-experimental comparison of 119 WHP and 149 comparison curricular activity 
 
 ## Related Claims
 - [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — a broader claim this one bears on
-- [World History Project students show comparable competency to comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
+- [An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
 - [World History Project does not engage students more than business-as-usual curricula on first implementation, with somewhat negative perception trends](whp-first-year-engagement-negative-trend.md) — related
 - [Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories](whp-first-year-overwhelm-and-modifications.md) — related
 - [World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments](whp-assignments-scored-higher-opportunity-rubrics.md) — possibly the same claim (merge candidate)

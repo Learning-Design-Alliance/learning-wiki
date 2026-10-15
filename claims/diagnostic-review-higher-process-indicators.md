@@ -15,18 +15,12 @@ sources:
     i: 3
     kind: causal
     rigour: 2
-  - id: yao-x-c-and-fan-l-2026-2
-    title: Yao X-C and Fan L 2026 (2)
-    q: 2
-    i: 3
-    kind: causal
-    rigour: 1
 ---
 
 # The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2` · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Diagnostic accuracy means were 0.696, 0.721, and 0.775 in Diagnostic Review versus 0.590, 0.619, and 0.619 in Control, with Hedges' g of 1.35, 1.17, and 1.71 (all p < 0.001). [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

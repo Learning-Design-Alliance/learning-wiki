@@ -60,6 +60,20 @@ Wehmeyer, M. L., Palmer, S. B., Shogren, K., Williams-Diehm, K., & Soukup, J. H.
 
 A three-year randomized trial in which 371 high school students receiving special education services (intellectual disability or learning disability) were randomly assigned by campus to an intervention group (receiving multiple curricular components — Whose Future Is It Anyway?, the Next S.T.E.P. Survey/curriculum, and the Self-Directed IEP — to teach self-determination component skills) or a control group. Using multilevel latent growth curve modeling of two self-report self-determination scales (the AIR Self-Determination Scale and The Arc's Self-Determination Scale), the authors found a significant intervention-group effect and a significant intervention-by-time interaction on the AIR Self-Determination Scale, F(1, 365) = 8.62, p < .005, and F(1, 446) = 6.70, p = .01 respectively, with the intervention group showing steeper growth. On the second measure (The Arc's Self-Determination Scale), however, the intervention-group effect and the group-by-time interaction were both nonsignificant, F(1, 368) = 1.05, p = .31, and F(1, 448) = 0.21, p = .65 — all students improved over time regardless of group. When disability and gender were added as covariates, the AIR-S result was unaffected, but growth on a third instrument (The Arc's Scale) differed by disability/gender/intervention combination in a more complex, only marginally significant pattern, F(2, 442) = 2.96, p = .05, driven mainly by steeper gains for students with intellectual disability in the intervention condition.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching students with intellectual or other disabilities to set goals, make decisions and lead their own planning raise their self-determination and participation?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (4 causal, 1 quant-synthesis), `q1`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Burke et al. 2018](https://doi.org/10.1177/0741932518802274) | q3 · quant-synthesis · r? | i? | this claim |
+| [Wehmeyer et al. 2013](https://doi.org/10.1177/0022466910392377) | q3 · causal · r2 | i? | this claim |
+| [Wehmeyer et al 2012](https://doi.org/10.1177/001440291207800201) | q3 · causal · r2 | i1 · small effect, between-group d=0.23 (SDS, final time point); within-group d=0.31 (AIR) and d=0.24 (SDS) | [Students taught with the Self-Determined Learning Model of Instruction gain in self-determ](self-determined-learning-model-of-instruction-improves-self-determination.md) (qualifies) |
+| [Martin et al. 2006](https://doi.org/10.1177/001440290607200303) | q3 · causal · r? | i? | [Self Directed IEP Increases Student Participation](self-directed-iep-increases-student-participation.md) (supports) |
+| [Allen et al. 2001](https://doi.org/10.1177/088572880102400202) | q1 · causal · r1 | i? | [Self Directed IEP Increases Student Participation](self-directed-iep-increases-student-participation.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **What the recorded evidence shows.** A meta-analysis of school-based self-determination interventions reports them effective across grade levels, disability labels and settings, but was read as an abstract without a pooled effect size, and the authors flag limited methodological rigor in the field. The strongest single study, a three-year campus-randomized trial with 371 high-school students, found greater growth on one self-determination scale (the AIR) and no group difference on the other (The Arc's scale). So the evidence supports the claim for self-determination as measured on some instruments, not uniformly.

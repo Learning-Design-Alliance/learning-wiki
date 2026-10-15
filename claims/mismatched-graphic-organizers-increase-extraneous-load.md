@@ -64,6 +64,8 @@ Well-aligned organizers and advance organizers can support learning — see [Adv
 
 ## Related Claims
 
+- [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — the general claim this finding bears on, with the studies behind it
+
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Advance organizers improve learning](../claims/advance-organizers-improve-learning.md) — well-matched advance organizers are the constructive counterpart to the mismatch penalty claimed here.

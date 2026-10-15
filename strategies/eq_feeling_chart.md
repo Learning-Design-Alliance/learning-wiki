@@ -13,7 +13,7 @@ generated:
 # EQ Feeling Chart
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q3`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q3`–`q4` · 2 of 7 report an effect size
 
 ## Description
 The EQ Feeling Chart is a structured [check-in](../principles/check-ins.md) activity in which students identify and name their current emotional state using a visual chart of feeling words, then discuss it with a partner using facilitation questions ("What is the feeling? Where does it come from?"). Pairs then share observations with the whole class. The activity operationalizes emotional granularity — the ability to label emotions with precision — which is the foundation of most social-emotional learning curricula.
@@ -43,7 +43,7 @@ Naming an emotion (affect labeling) reliably reduces amygdala reactivity and sel
 - Routine use without variation can produce performative, ritualized responses rather than genuine reflection [-W]
 - In classrooms without established psychological safety, forced sharing can increase anxiety rather than reduce it [-M]
 - Students hesitant to disclose emotions will not benefit from the discussion component; forced sharing can increase social threat rather than reduce it [-M] — participation in the pair discussion must remain voluntary in content even if the check-in itself is routine
-- One-off use produces little benefit; the labeling skill develops only through repeated, distributed practice [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- One-off use produces little benefit; the labeling skill develops only through repeated, distributed practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - In groups with low trust or recent conflict, whole-class sharing can expose students to ridicule; the debrief should focus on "what did you notice" rather than "who felt what"
 - Students with limited emotion vocabulary may point at faces without internalizing labels; the chart must be paired with explicit vocabulary teaching, not used as a substitute for it
 - If the routine becomes perfunctory (same answer every day), the labeling practice loses its regulatory effect; teachers should vary prompts and push for granular labels [~W]
@@ -145,7 +145,7 @@ The strategy operationalizes **affect labeling**: putting feelings into words re
 
 #### Constraints
 - Students hesitant to disclose emotions will not benefit from the discussion component; forced sharing can increase social threat rather than reduce it [-M] — participation in the pair discussion must remain voluntary in content even if the check-in itself is routine
-- One-off use produces little benefit; the labeling skill develops only through repeated, distributed practice [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- One-off use produces little benefit; the labeling skill develops only through repeated, distributed practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - In groups with low trust or recent conflict, whole-class sharing can expose students to ridicule; the debrief should focus on "what did you notice" rather than "who felt what"
 - Students with limited emotion vocabulary may point at faces without internalizing labels; the chart must be paired with explicit vocabulary teaching, not used as a substitute for it
 - If the routine becomes perfunctory (same answer every day), the labeling practice loses its regulatory effect; teachers should vary prompts and push for granular labels [~W]

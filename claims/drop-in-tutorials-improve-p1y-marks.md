@@ -39,6 +39,18 @@ Observational comparison in the 2007-08 class: only ~10% of the class attended t
 
 > "those students who did attend exhibited an average increase of 2.9% between their P1X and P1Y marks whilst the class as a whole averaged a drop of 1.6% between P1X and P1Y."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners who use optional one-to-one help do better, and do the learners who need help use it?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (2 associational, 1 design), `q2`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| MM Casey and S McVitie 2009 | q2 · design · r2 | i? | this claim |
+| Cooper 2010 | q2 · associational · r2 | i?; i1 | [Freshmen who visited the tutoring center more than 10 times per quarter had statistically ](high-use-tutoring-center-visits-higher-persistence.md) (supports); [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitor](tutoring-center-visits-higher-cumulative-gpa.md) (supports); [Tutoring center visits showed a delayed significant correlation with cumulative GPA in sub](delayed-correlation-visits-cumulative-gpa.md) (supports); [In one university's records, minority students visit a drop-in tutoring center more often ](minority-students-more-tutoring-visits-lower-gpas.md) (qualifies) |
+| Andy Gray 2026 | q2 · associational · r1 | i? | [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% som](students-avoid-help-seeking-despite-need.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

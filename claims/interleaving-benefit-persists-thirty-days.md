@@ -60,8 +60,9 @@ Two-way ANOVA testing whether the interleaving benefit decreased over time. The 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — the general claim this finding bears on, with the studies behind it
 - [At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)](interleaved-benefit-one-day-delay-d042.md) — related
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related
 - [Interleaved practice provided near immunity against forgetting over a 30-fold increase in test delay](interleaved-practice-near-immunity-forgetting.md) — related

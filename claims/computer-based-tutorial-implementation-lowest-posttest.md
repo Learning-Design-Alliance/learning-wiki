@@ -42,8 +42,9 @@ Quasi-experimental comparison of five implementation styles with 200 volunteers 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it
 - [The computer-based implementation showed no significant difference from individual paper-based work with brief written answers](computer-based-no-better-than-individual-paper.md) — related: consistent, not opposite (that comparison group, individual paper-based work, came from the prior study and is not one of the styles this entry reports it lower than) <!-- relabelled 2026-10-05: was "reports the opposite" -->
 - [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](novel-material-instructor-support-less-important.md) — related
 - [For material students have prior knowledge of (work-energy theorem), tutorial effectiveness depends significantly on teaching quality, with the ideal Socratic implementation best](instructor-quality-matters-with-prior-knowledge.md) — related

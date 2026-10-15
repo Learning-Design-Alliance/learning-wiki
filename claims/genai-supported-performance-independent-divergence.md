@@ -15,18 +15,12 @@ sources:
     i: "?"
     kind: causal
     rigour: 2
-  - id: chen-x-2026-2
-    title: Chen X 2026 (2)
-    q: 2
-    i: "?"
-    kind: causal
-    rigour: 2
 ---
 
 # Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During supported assignments, observed writing means were highest in the open collaboration condition and increased across assignments in all conditions. [→ Chen X 2026](#chen-x-2026)
@@ -60,7 +54,7 @@ Supervised Week 8 independent no-AI near-transfer essay scored blind by two rate
 
 ## Related Claims
 
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — the general claim this finding bears on, with the studies behind it
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — the general claim this finding bears on, with the studies behind it
 - [Bounded AI support outperformed open collaboration on all four Week 8 independent no-AI outcomes, though exact wild-cluster p values sat at the 0.050–0.063 boundary](bounded-beats-open-week8-independent-outcomes.md) — related
 - [Open collaboration involved more prompts, greater text incorporation, less self-generated text, and deeper idea and reasoning offloading than bounded support](open-collaboration-process-intensity-profile.md) — related
 - [Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.](ai-draft-quality-ownership-tradeoff.md) — related

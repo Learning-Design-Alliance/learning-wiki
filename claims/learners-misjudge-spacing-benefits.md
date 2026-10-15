@@ -105,17 +105,15 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) — expertise moderates how learners respond to and judge instructional conditions
 - [Adaptive learning](../principles/adaptive-learning.md) — system-controlled scheduling sidesteps learner misjudgment entirely
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — algorithmic scheduling is one route to removing the scheduling decision from the learner
-- [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
+- [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
-- [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
-- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — related
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — a narrower finding that bears on this claim
-- [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](moderate-overall-interleaving-effect.md) — related
+- [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](interleaving-improves-inductive-learning.md) — related

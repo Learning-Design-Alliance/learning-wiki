@@ -41,8 +41,9 @@ The whitepaper reports this second-hand, citing Bastani et al.: a randomized con
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [The review reports that generative AI can raise immediate performance while impairing delayed exam performance once AI access is removed](ai-performance-mastery-decoupling-review-report.md) — possibly the same claim (merge candidate)
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
 - [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related

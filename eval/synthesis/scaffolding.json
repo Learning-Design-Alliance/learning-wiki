@@ -49,6 +49,26 @@
       "question": "Must support be contingent on the learner's last response, rather than fixed?",
       "members": [
         [
+          "contingent-tutor-metacognitive-demand-matches-withholding-tutor",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-surrenders-full-answer-least",
+          "+"
+        ],
+        [
+          "perceived-load-unchanged-under-contingent-tutor",
+          "~"
+        ],
+        [
+          "student-uptake-of-support-predicts-small-group-answer-accuracy",
+          "~"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "~"
+        ],
+        [
           "tefa-formative-information-changed-lessons",
           "+"
         ],
@@ -65,28 +85,8 @@
           "~"
         ],
         [
-          "contingent-tutor-metacognitive-demand-matches-withholding-tutor",
-          "+"
-        ],
-        [
-          "contingent-scaffolding-surrenders-full-answer-least",
-          "+"
-        ],
-        [
-          "perceived-load-unchanged-under-contingent-tutor",
-          "~"
-        ],
-        [
-          "adaptive-fading-beats-fixed-and-linear-scaffolding",
-          "~"
-        ],
-        [
           "blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion",
           "+"
-        ],
-        [
-          "student-uptake-of-support-predicts-small-group-answer-accuracy",
-          "~"
         ],
         [
           "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states",
@@ -115,6 +115,22 @@
         [
           "ai-tutor-pace-adaptation-strengthened-engagement",
           "+"
+        ],
+        [
+          "forms-sel-checkins-anonymity",
+          "~"
+        ],
+        [
+          "student-self-assessments-valuable-development-information",
+          "~"
+        ],
+        [
+          "adaptive-learning-improves-outcomes",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
         ]
       ]
     },
@@ -139,12 +155,12 @@
           "+"
         ],
         [
-          "ai-scaffold-fading-independent-justification",
-          "+"
-        ],
-        [
           "faded-step-position-no-learning-outcome-effect",
           "~"
+        ],
+        [
+          "ai-scaffold-fading-independent-justification",
+          "+"
         ],
         [
           "fading-no-effect-productive-learning-events",
@@ -157,19 +173,23 @@
         [
           "scaffolding-design-features-no-moderation",
           "-"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
+          "~"
         ]
       ]
     },
     {
-      "hub": "genai-usage-mode-predicts-independent-performance",
+      "hub": "persistence-costs-concentrated-among-direct-solution-users",
       "question": "When the support can do the task for the learner (AI assistants), does it cost independent performance?",
       "members": [
         [
           "ai-assistance-impairs-unassisted-fraction-performance-exp1",
-          "+"
-        ],
-        [
-          "gpt4-access-worse-after-removal-math",
           "+"
         ],
         [
@@ -185,6 +205,10 @@
           "+"
         ],
         [
+          "gpt4-access-worse-after-removal-math",
+          "+"
+        ],
+        [
           "scaffolding-varies-by-request-and-assignment",
           "~"
         ],
@@ -194,6 +218,34 @@
         ],
         [
           "ai-scaffolding-developmental-impact-conditional",
+          "~"
+        ],
+        [
+          "genai-outcomes-differ-by-use-type",
+          "+"
+        ],
+        [
+          "answer-offloading-associated-lower-unaided-performance-exploratory",
+          "+"
+        ],
+        [
+          "metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance",
+          "+"
+        ],
+        [
+          "agentic-designs-delayed-ai-free-transfer",
+          "+"
+        ],
+        [
+          "llm-access-no-significant-lower-unaided-performance",
+          "~"
+        ],
+        [
+          "genai-learning-gain-persists-one-week",
+          "~"
+        ],
+        [
+          "gpt-output-effect-depends-on-prior-knowledge-and-domain",
           "~"
         ]
       ]

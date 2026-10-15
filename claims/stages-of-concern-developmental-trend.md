@@ -39,6 +39,19 @@ Longitudinal SoCQ study of Kansas elementary teachers implementing SCIS, assesse
 
 > "Stages of Concern for individuals in the sample followed a general developmental trend from being more intense at the lower Stages of Concern to becoming more intense at the higher Stages of Concern."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do adopters' concerns move in the expected order, from self through task to impact concerns, over a period of use?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (2 associational, 1 qualitative, 1 theoretical), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Loucks 1977 | q1 / q2 · associational · r1 | i? | this claim; [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser pattern](workshop-shifts-concerns-toward-user-profile.md) (supports); [Individual teachers' concern profiles vary widely and can diverge from group trends during](individual-concern-profiles-vary-widely.md) (qualifies) |
+| Olsen 1990 | q2 · associational · r1 | i? | [Teacher concern development is better characterized as progression and retreat than linear](teacher-concern-progression-and-retreat.md) (qualifies); [Teachers without mentors reached the impact level more often than mentored teachers, raisi](mentors-may-inhibit-concern-development.md) (qualifies) |
+| Wesley 1996 | q2 · qualitative · r2 | i? | [Early self- and task-related concerns are maintained alongside later impact concerns as ad](early-concerns-maintained-alongside-later-concerns.md) (qualifies) |
+| Hall 1983 | q1 · theoretical · r2 | i? | [Not all educators develop impact concerns even when colleagues do; concern change cannot b](not-all-educators-develop-impact-concerns.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -12,7 +12,7 @@ generated:
 # Question Answering
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 13 studies (6 causal, 6 quant-synthesis, 1 review), `q2`–`q4` · 5 of 13 report an effect size
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 15 studies (7 causal, 7 quant-synthesis, 1 review), `q2`–`q4` · 6 of 15 report an effect size
 
 ## Description
 Question Answering positions questions — not explanations — as the primary driver of a learning episode. Learners must generate an answer from memory, reasoning, or text evidence before receiving confirmation, feedback, or the correct response. The strategy spans oral questioning in class, embedded questions in texts and videos, and quiz-like prompts in adaptive software.
@@ -56,7 +56,7 @@ Answering questions forces retrieval and elaboration, which strengthens memory f
 3. Collect responses — individual, think-pair-share, or written ([Check-In](../elements/check-in.md), [Class Discussion](../elements/class-discussion.md))
 4. Probe follow-ups: "Why?", "How do you know?", "What if…?" ([Coaching](../elements/coaching.md))
 5. Give immediate corrective or confirming feedback ([Assessment](../elements/assessment.md))
-6. Re-ask the same or parallel questions later in the session or after a delay to exploit spaced retrieval [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+6. Re-ask the same or parallel questions later in the session or after a delay to exploit spaced retrieval [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 

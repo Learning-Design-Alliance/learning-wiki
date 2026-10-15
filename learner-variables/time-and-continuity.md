@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 102 claims (70 for, 20 mixed, 12 against) · 91 studies (34 causal, 19 associational, 17 review, 8 quant-synthesis, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 20 of 91 report an effect size · 98 claims rest on one study
+> **Evidence** · 101 claims (69 for, 20 mixed, 12 against) · 91 studies (34 causal, 19 associational, 17 review, 8 quant-synthesis, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 20 of 91 report an effect size · 98 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -34,8 +34,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 
 ## Claims
 
-- [Distributed practice improves retention](../claims/spaced-repetition-improves-retention.md) [+S] — the core finding
-- [Spacing improves long term retention](../claims/spaced-practice-improves-retention.md) [+S] — the same effect stated over the interval that matters
+- [Distributed practice improves retention](../claims/spaced-practice-improves-retention.md) [+S] — the core finding; the same effect stated over the interval that matters
 - [Interleaving improves learning](../claims/interleaving-improves-inductive-learning.md) [+M] — mixing problem types builds the discrimination that blocking hides
 - [Desirable difficulties improve retention](../claims/desirable-difficulties-enhance-learning.md) [~M] — the frame that explains why the better schedule feels worse
 - [Learners misjudge spacing benefits](../claims/learners-misjudge-spacing-benefits.md) [-M] — why this cannot be left to learner preference

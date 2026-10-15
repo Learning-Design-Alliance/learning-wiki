@@ -1,0 +1,36 @@
+{
+  "principle": "principles/knowledge-organization",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "concept-mapping-improves-learning",
+      "question": "Does having learners build an organization of the content as a concept map help, and against what comparison?",
+      "members": [
+        [
+          "drawing-improves-learning",
+          "+"
+        ],
+        [
+          "learner-constructed-graphic-organizers-outperform-provided",
+          "~"
+        ],
+        [
+          "closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions",
+          "~"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "~"
+        ],
+        [
+          "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
+          "-"
+        ],
+        [
+          "heavy-cognitive-demands-of-mapping-can-be-counterproductive",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

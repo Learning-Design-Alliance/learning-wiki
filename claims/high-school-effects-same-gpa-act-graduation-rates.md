@@ -63,9 +63,9 @@ The study's overview reports its central finding: "students with the same HSGPA 
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — the general claim this finding bears on, with the studies behind it
 
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce high-school variance](act-adds-little-beyond-hsgpa.md) — related
 - [ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA](act-subgroup-misprediction-and-school-variance.md) — related

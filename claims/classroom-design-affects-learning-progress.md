@@ -83,6 +83,21 @@ Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N. (2014). Designing c
 
 A review synthesising the classroom-environment literature into two channels. **Structural features** — inadequate [natural light](../strategies/natural_lighting.md), poor air quality, uncomfortable temperature, and ambient noise — impair achievement, with the largest effects observed where conditions are worst rather than where they are being optimised further. **Symbolic features** — what is displayed on the walls, and the identity cues it carries — affect students' sense of belonging and, through it, their engagement and performance, with effects that differ by student group. The review's practical contribution is the separation of the two: a room can be structurally adequate and still signal to some students that the subject is not for them.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the physical design of a classroom (light, air, temperature, layout, displays) change how much learners progress?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (3 review, 2 associational, 1 causal), `q2`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Barrett et al. 2015](https://doi.org/10.1016/j.buildenv.2015.02.013) | q2 · associational · r2 | i2 | this claim |
+| [Barrett et al. 2013](https://doi.org/10.1016/j.buildenv.2012.09.016) | q2 · associational · r? | i? | this claim |
+| [Cheryan et al. 2014](https://doi.org/10.1177/2372732214548677) | q2 · review · r? | i? | this claim |
+| [Imms and Byers 2016](https://doi.org/10.1007/s10984-016-9210-0) | q2 · causal · r? | i2 · medium-to-very-large positive effects for two classes, small negative effects for a third (d range -0.46 to +1.98) | [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) (qualifies) |
+| Digital Promise and the Institute for Applied Neuroscience 2019 | q2 · review · r2 | i? | [Physical environment elements — sunlight, nature views, temperature, and lighting — affect](physical-environment-affects-learning.md) (supports) |
+| Perez 2024 | q2 · review · r1 | i? | [Natural lighting and green window views benefit mood, sleep, cognition, and test performan](daylight-green-views-benefit-students.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Causal status.** The strongest evidence here is observational. The HEAD studies model naturally occurring variation in classroom design with pupil-level controls; they do not randomly assign pupils to rooms, so unmeasured confounding — schools that maintain their buildings well may differ in other ways — cannot be excluded. Read the 16% figure as an upper bound on what design plausibly explains, not as a demonstrated causal yield of refurbishment. This is why the claim's `evidence_strength` is moderate despite the study's scale.

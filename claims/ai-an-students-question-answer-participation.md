@@ -58,6 +58,18 @@ The report explains the mechanism: direct questioning "contradicts a norm of all
 
 > "Direct questioning of students in front of peers is not normally done in AI/AN communities because it contradicts a norm of allowing people to demonstrate their knowledge when they decide to do so"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do some learners hold back from public question-and-answer because their community's norms differ, and what do teachers use instead?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 review, 1 qualitative), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Nelson-Barber 2015 | q2 · review · r2 | i? | this claim; [Teachers of AI/AN students use collaborative response formats such as white boards and cho](collaborative-response-formats-ai-an-classrooms.md) (supports) |
+| Andrew Leichsenring 2010 | q1 · qualitative · r2 | i? | [Both learners perceived they were expected to talk more in American university English cla](us-classes-expected-more-talk-than-japanese.md) (qualifies) |
+| [Chen 2016](https://doi.org/10.7575/aiac.alls.v.7n.3p.168) | q1 · review · r2 | i? | [Review reports that reticent non-local students who resisted local classroom norms were ac](reticent-students-academically-superior-duff.md) (supports); [Sociocultural SLA literature portrays learners who resist mainstream social interaction ne](sociocultural-sla-demonizes-socially-resistant-learners.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

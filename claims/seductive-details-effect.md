@@ -137,6 +137,24 @@ Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effe
 
 This study found that the seductive details effect was not uniform: readers with lower working memory capacity were substantially more susceptible to distraction and misunderstanding from added irrelevant-but-interesting content than higher-capacity readers, suggesting the effect is at least partly a working-memory-capacity phenomenon rather than a universal property of all learners.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does making material more interesting with details that do not carry the target cost learning?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **9 distinct studies** (6 causal, 2 quant-synthesis, 1 theoretical), `q2`–`q4`, 2 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Sundararajan & Adesope 2020](https://doi.org/10.1007/s10648-020-09522-4) | q3 · quant-synthesis · r? | i? | this claim |
+| [Lenzner et al. 2013](https://doi.org/10.1007/s11251-012-9256-z) | q3 · causal · r? | i? | this claim |
+| [González et al. 2019](https://doi.org/10.14742/ajet.4577) | q3 · causal · r2 | i1 · small effect, η²=.04 (Study 1) | this claim |
+| Garner et al. 1992 | q2 · causal · r? | i? | this claim |
+| [Harp and Mayer 1998](https://doi.org/10.1037/0022-0663.90.3.414) | q3 · causal · r? | i? | this claim; [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) (supports) |
+| Sanchez and Wiley 2006 | q3 · causal · r? | i? | this claim |
+| [Mayer et al. 2001](https://doi.org/10.1037/0022-0663.93.1.187) | q3 · causal · r? | i? | [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) (supports) |
+| [Rey 2012](https://doi.org/10.1016/j.edurev.2012.05.003) | q4 · quant-synthesis · r? | i? | [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) (supports) |
+| [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · theoretical · r3 | i3 | [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The effect is usually explained through [cognitive load theory](../theories/cognitive-load-theory.md): seductive details consume limited working-memory capacity and induce attentional split between essential and incidental material, producing the same overload documented in [cognitive overload degrades learning](cognitive-overload-degrades-learning.md) [-M]. They are closely related to the [coherence principle](coherence-principle-irrelevant-material-hurts-learning.md) [+M], which generalizes the finding to irrelevant words, sounds, and graphics in multimedia design.

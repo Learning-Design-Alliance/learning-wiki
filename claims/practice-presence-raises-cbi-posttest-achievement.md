@@ -41,11 +41,34 @@ Experiment with 256 undergraduate computer literacy students randomly assigned w
 
 > "A one -way ANOVA conducted on the po sttest data yielded a significant difference between the treatment groups on the posttest, F (5, 250) = 11.689, p <.01. Follow -up Scheffe tests revealed that each of the four groups with means scores above 17, as listed above and shown in the table, scored  significantly higher than the two groups identified above that scored below 15."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **12 distinct studies** (6 causal, 2 review, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q2`–`q4`, 1 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Martin 2003 | q3 · causal · r2 | i? | this claim |
+| [Sweller & Cooper 1985](https://doi.org/10.1207/s1532690xci0201_3) | q3 · causal · r? | i? | [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) (supports) |
+| [Pratt and Savoy-Levine 1998](<https://doi.org/10.1016/s0193-3973(99)80041-0>) | q3 · causal · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| [Chi et al. 2001](https://doi.org/10.1207/s15516709cog2504_1) | q2 · causal · r1 | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| [Swanson and Lussier 2001](https://doi.org/10.3102/00346543071002321) | q4 · quant-synthesis · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| [van de Pol et al. 2010](https://doi.org/10.1007/s10648-010-9127-6) | q3 · review · r2 | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| [Wood et al. 1976](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x) | q3 · qualitative · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| Yibo Meng 2026 | q3 · causal · r2 | i3 | [In a randomised study with 40 CPR-naive lay adults in Tibet, 10 minutes of TibetCPR traini](tibetcpr-rhythm-stabilisation-exceeds-unguided-practice.md) (supports); [TibetCPR training produced depth-accuracy gains that substantially exceeded unguided pract](tibetcpr-depth-accuracy-gains-exceed-control.md) (supports) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Taking initial multiple-choice tests without feedback can lead students to later produce t](multiple-choice-lures-can-be-learned-as-false-knowledge.md) (supports) |
+| [Bastani Hamsa 2025](https://doi.org/10.1073/pnas.2422633122) | q3 · causal · r3 | i? | [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performan](gpt-tutor-improves-practice-more-than-gpt-base.md) (qualifies) |
+| Mutlu Cukurova 2026 | q2 · theoretical · r3 | i? | [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance ](gpt4-access-harms-learning-after-withdrawal.md) (qualifies) |
+| Reshaping Undergraduate Computer Science Education in the Generative AI Era 2026 | q2 · qualitative · r1 | i? | [Unrestricted GPT-4 access improved practice performance but harmed later exam performance,](unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The one study recorded here varied which instructional events a computer-based lesson included; its entry describes practice being present or absent and says nothing about the feedback given during practice, so it cannot separate practice from feedback. The size of the difference is not established: the entry prints an F test and group means but no effect size.
 
 ## Related Claims
+
+- [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — a narrower finding that bears on this claim
 - [Treatment version significantly affects student attitudes, with the lean program most negative and no-practice next](cbi-version-affects-attitudes-lean-most-negative.md) — related
 - [Ninth graders using the computer as a translation tool (utilities group) outperformed a computation group on applications problems](lesh-utilities-group-outperformed-computation-group.md) — related

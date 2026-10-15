@@ -12,14 +12,14 @@ generated:
 # Quality Homework Assignments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 14 studies (6 quant-synthesis, 4 review, 3 causal, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size
+> **Evidence** · 5 claims (5 for) · 16 studies (7 quant-synthesis, 4 causal, 4 review, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size
 
 ## Description
 Quality homework is purposefully designed out-of-class work that reinforces classroom learning, invites real-world application, and offers enriching experiences — rather than busywork assigned by routine. Effective assignments are meaningful, low-stakes, aligned with explicit learning goals, and designed so learners can complete them independently, often spacing practice over time.
 
 ## Design Implications
 
-Homework quality — not quantity — drives its contribution to achievement; time spent on homework shows only a weak relation to achievement, while teacher-designed purpose and student perception of the assignment's value show stronger relations [Cooper, Robinson, & Patall, 2006 meta-analysis](https://doi.org/10.3102/00346543076001001) [+M]. Assignments should function as [Practice](../elements/practice.md) and [Application](../elements/application.md) of classroom content, with clear structure so learners do not burn limited working memory on decoding the task itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Distributing related assignments across days and weeks produces better retention than massed packets [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Homework quality — not quantity — drives its contribution to achievement; time spent on homework shows only a weak relation to achievement, while teacher-designed purpose and student perception of the assignment's value show stronger relations [Cooper, Robinson, & Patall, 2006 meta-analysis](https://doi.org/10.3102/00346543076001001) [+M]. Assignments should function as [Practice](../elements/practice.md) and [Application](../elements/application.md) of classroom content, with clear structure so learners do not burn limited working memory on decoding the task itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Distributing related assignments across days and weeks produces better retention than massed packets [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -47,14 +47,14 @@ Homework quality — not quantity — drives its contribution to achievement; ti
 - Learners with strong home support and independent study skills; those without need in-class scaffolding or simplified independent tasks [~M]
 
 ### Target Learning Goals
-- Consolidation and long-term retention of taught skills and concepts [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Consolidation and long-term retention of taught skills and concepts [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Transfer and application of learning to authentic contexts
 - Development of self-regulated study habits and autonomy [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ### Instructions
 1. Identify the specific learning goal the assignment serves; discard any task that serves none.
 2. Design the task for independent completion — model or partially complete an example in class first ([Practice](../elements/practice.md)).
-3. Keep it short and spaced: brief assignments distributed across days beat long massed packets [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+3. Keep it short and spaced: brief assignments distributed across days beat long massed packets [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 4. Add an application or personalization element — real audiences, family involvement, or learner choice ([Choice Boards](../elements/choice-boards.md)).
 5. Review submissions and feed back into instruction; use completion as [Assessment](../elements/assessment.md) evidence, not just a grade [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 

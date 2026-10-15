@@ -73,6 +73,22 @@ Roorda, D. L., Koomen, H. M. Y., Spilt, J. L., & Oort, F. J. (2011). The influen
 
 The meta-analysis covers 99 studies of students from preschool to high school and analyses four links separately. Positive relationships and engagement: k = 61, N = 88,417. Negative relationships and engagement: k = 18, N = 5,847. Positive relationships and achievement: k = 61, N = 52,718. Negative relationships and achievement: k = 28, N = 18,944. Relationship quality was more strongly associated with engagement than with achievement. Some associations weakened after correction for methodological biases but stayed significant. Effects were stronger in the higher grades, while negative relationships mattered more in primary than in secondary school. This supports the claim for engagement more strongly than for achievement, and it is also associational evidence rather than a causal test.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a warm, personal contact with the teacher go with, or raise, students' engagement?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **7 distinct studies** (4 causal, 2 quant-synthesis, 1 review), `q1`–`q4`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Cornelius-White 2007](https://doi.org/10.3102/003465430298563) | q3 · quant-synthesis · r3 | i2 · medium association, mean r=.31 | this claim |
+| [Roorda et al. 2011](https://doi.org/10.3102/0034654311421793) | q3 · quant-synthesis · r? | i? | this claim |
+| [Cook et al. 2018](https://doi.org/10.1177/1098300717753831) | q3 · causal · r2 | i? | [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) (supports) |
+| [Allday And Pakurar 2007](https://doi.org/10.1901/jaba.2007.86-06) | q1 · causal · r1 | i? | [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) (supports) |
+| [Okonofua et al. 2016](https://doi.org/10.1073/pnas.1523698113) | q3 · causal · r? | i? | [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) (qualifies) |
+| [Okonofua et al. 2022](https://doi.org/10.1126/sciadv.abj0691) | q4 · causal · r3 | i? | [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) (qualifies) |
+| [Hernández 2022](https://doi.org/10.54300/165.102) | q3 · review · r2 | i? | [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Positive relationships are thought to operate through several channels: they satisfy students' needs for relatedness and belonging, which supports motivation more broadly (see [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) and [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md)); they increase students' willingness to invest effort and persist through difficulty; and they reduce the emotional threat that can otherwise consume working-memory resources during learning (cf. [Cognitive load management](../principles/cognitive-load-management.md)).
@@ -122,7 +138,7 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](board-certification-identifies-more-expert-teachers.md) — related
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — relational climate may moderate the effectiveness of active formats

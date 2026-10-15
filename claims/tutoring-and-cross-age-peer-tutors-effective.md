@@ -43,6 +43,6 @@ Design Principle 5 section, a narrative synthesis, states that "tutoring can be 
 
 
 ## Related Claims
-- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — a broader claim this one bears on
+- [Tutoring benefits both tutors and tutees](peer-tutoring-improves-achievement.md) — a broader claim this one bears on
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related

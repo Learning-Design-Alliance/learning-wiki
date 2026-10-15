@@ -1,0 +1,46 @@
+{
+  "principle": "principles/explicit-instruction-math-strategies",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. The first hub reuses the procedural-learning spec's question verbatim; its evidence is reading-strategy instruction (Duffy 1987, Paris 1983), with the mathematics coming from the members (Rittle-Johnson & Star 2007 inside the comparison claim, Star 2015 practice guide). The second hub is the only claim that runs explicit word-problem strategy instruction and measures the result (Stein 1998, one class, no control); the Polya/Dahmus claims are one study (Bassler 1972) comparing two strategies, and the formatted-plan claim is Zambo 1994.",
+  "findings": [
+    {
+      "hub": "strategy-instruction-needs-conditional-knowledge",
+      "question": "Does teaching when and why to use a procedure, not only its steps, improve flexible use and understanding?",
+      "members": [
+        [
+          "comparing-contrasting-cases-improves-learning",
+          "~"
+        ],
+        [
+          "procedural-strong-conceptual-limited-integral",
+          "+"
+        ],
+        [
+          "alternative-strategies-most-effective-for-procedural-flexibility",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "explicit-strategy-instruction-no-significant-gain",
+      "question": "Does explicitly teaching a strategy or plan for word problems improve how learners set up and solve them?",
+      "members": [
+        [
+          "polya-method-beats-dahmus-on-equation-criterion",
+          "~"
+        ],
+        [
+          "no-treatment-difference-problem-solution-criterion",
+          "~"
+        ],
+        [
+          "dahmus-students-translate-but-no-single-equation",
+          "~"
+        ],
+        [
+          "formatted-problem-solving-plan-posttest-advantage",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

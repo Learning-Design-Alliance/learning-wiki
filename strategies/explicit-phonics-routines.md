@@ -12,14 +12,14 @@ generated:
 # Explicit Phonics Routines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (4 review, 3 causal, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (4 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
 
 ## Description
 Explicit phonics routines are structured, teacher-directed sequences for teaching grapheme–phoneme correspondences and how to blend them into words. A typical routine moves from teacher modeling ("this letter says /m/"), to guided practice with immediate correction, to independent reading and spelling of words containing only taught patterns. Instruction follows a planned scope and sequence from simple to complex, with new content introduced in small steps and previously taught patterns reviewed cumulatively.
 
 ## Design Implications
 
-Systematic, explicit phonics produces stronger word-reading and generalization outcomes than incidental or whole-word approaches, because it teaches learners the alphabetic code rather than asking them to infer it [Systematic phonics instruction outperforms whole-word and incidental approaches for generalization to new words.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. As letter patterns become automatized, decoding consumes fewer working-memory resources, freeing capacity for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Routines work because they manage intrinsic load: each lesson introduces one or two correspondences at a time [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and cumulative review distributes retrieval of earlier patterns over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Systematic, explicit phonics produces stronger word-reading and generalization outcomes than incidental or whole-word approaches, because it teaches learners the alphabetic code rather than asking them to infer it [Systematic phonics instruction outperforms whole-word and incidental approaches for generalization to new words.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. As letter patterns become automatized, decoding consumes fewer working-memory resources, freeing capacity for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Routines work because they manage intrinsic load: each lesson introduces one or two correspondences at a time [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and cumulative review distributes retrieval of earlier patterns over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -52,14 +52,14 @@ Systematic, explicit phonics produces stronger word-reading and generalization o
 - Generalization: reading new words independently rather than memorizing a sight vocabulary [Systematic phonics instruction outperforms whole-word and incidental approaches for generalization to new words.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]
 
 ### Instructions
-1. **Open with cumulative review.** Flash previously taught graphemes and words for rapid retrieval; distribute older items across days [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+1. **Open with cumulative review.** Flash previously taught graphemes and words for rapid retrieval; distribute older items across days [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 2. **Model the new correspondence.** Present the grapheme, articulate the phoneme cleanly, and give a key-word anchor; keep the step small and isolated [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 3. **Guide blending practice.** Lead students through sound-by-sound blending into whole words containing only taught patterns, using an error-correction routine (model → lead → test) drawn from [Direct Instruction](../patterns/direct-instruction.md)
 4. **Move to independent application.** Students read decodable words, sentences, and connected text, then spell (dictate) words with the same patterns — reading and spelling reinforce each other [Practice](../elements/practice.md)
 5. **Assess and regroup.** Use brief checks to confirm mastery before adding new correspondences; reteach or regroup students who have not mastered current patterns
 
 ## Related Strategies
-- [Cumulative review and spaced retrieval](../claims/spaced-repetition-improves-retention.md) — the review segment of the routine depends on distributed retrieval for retention
+- [Cumulative review and spaced retrieval](../claims/spaced-practice-improves-retention.md) — the review segment of the routine depends on distributed retrieval for retention
 - Decodable text application — the bridge between isolated word work and authentic reading
 
 ## Examples

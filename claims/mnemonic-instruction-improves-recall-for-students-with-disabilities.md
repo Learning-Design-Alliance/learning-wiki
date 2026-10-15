@@ -59,6 +59,17 @@ Wolgemuth, J. R., Cobb, R. B., & Alwell, M. (2008). The effects of mnemonic inte
 
 This systematic review looked at 20 studies of mnemonic interventions with 669 secondary-school-age youth who had learning disabilities, emotional and behavioral disorders or mild developmental disabilities. The authors report that the studies strongly support mnemonic interventions for improving academic performance, which was usually measured as recall of word meanings or factual information. The benefit held across study methods, educational settings, student ages and disability types. Only the abstract was read, and it gives no pooled effect size. Its focus on recall outcomes fits the page's point that the evidence is strongest for factual and vocabulary content.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do cue-based (mnemonic) methods help students with mild disabilities recall academic facts and vocabulary?* This table gathers the studies behind this claim and the 0 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Scruggs and Mastropieri 2000](https://doi.org/10.1023/a:1016640214368) | q3 · quant-synthesis · r? | i3 · large effect, mean ES=1.62 | this claim |
+| [Wolgemuth et al. 2008](https://doi.org/10.1111/j.1540-5826.2007.00258.x) | q3 · review · r? | i? | this claim |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Mnemonics reduce the memory demands of arbitrary or unfamiliar associations by anchoring new information to well-known words, images, or sound-alike cues. This is consistent with the logic of [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) [+M] and with [dual coding theory](../theories/dual-coding-theory.md): pairing verbal content with concrete imagery gives learners two retrieval routes instead of one. For students with working-memory or attention-related disabilities, this offloading is often the difference between encoding and losing the material entirely.
@@ -76,7 +87,7 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — mnemonics work partly by chunking arbitrary associations into retrievable units
 - [Cognitive load management](cognitive-load-management.md) — students with disabilities are especially vulnerable to overload that mnemonics offset
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — like mnemonics, organizers provide a retrieval scaffold that reduces memory demands for unfamiliar content
-- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
 - [RTI identifies learning disabilities via dual discrepancy in level and rate of performance](rti-dual-discrepancy-level-and-rate.md) — related

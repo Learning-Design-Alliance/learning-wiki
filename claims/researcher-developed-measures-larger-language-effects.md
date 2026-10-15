@@ -79,8 +79,9 @@ Comparison across 11 early writing interventions (7 researcher-developed, 4 stan
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — the general claim this finding bears on, with the studies behind it
 - [Of 132 early literacy interventions evaluated by high-quality impact studies, 38 demonstrated effectiveness in at least one language or literacy outcome domain and 93 showed inconclusive effects](38-of-132-early-literacy-interventions-effective.md) — a broader claim this one bears on
 - [Teaching phonological awareness and print knowledge improved decoding performance even without decoding instruction, and adding decoding instruction more than doubled the weighted effect size](pa-pk-improve-decoding-without-decoding-instruction.md) — related
 - [Teaching phonological awareness and print knowledge improved early writing performance with or without early writing instruction](pa-pk-improve-early-writing.md) — related

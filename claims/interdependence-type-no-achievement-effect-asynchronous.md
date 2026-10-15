@@ -40,6 +40,17 @@ Experiment with 280 undergraduate business majors blocked by high/low affiliatio
 
 > "Results indicated no significant differences in achievement by type of interdependence in small group work, or by affiliation motive (see Table 1). Overall achievement was about 71% on the posttest"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does structuring online group discussion (roles, group rewards, a student-led group task) raise achievement, or only participation and attitudes?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (1 causal, 1 design), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Brewer 2003 | q3 · causal · r2 | i? | this claim; [In one experiment with undergraduate business majors in asynchronous online small groups, ](reward-interdependence-benefit-attitudes.md) (qualifies); [Higher numbers of interactions are associated with higher posttest scores in asynchronous ](interaction-quantity-correlates-posttest-online-groups.md) (qualifies) |
+| Pittaway 2014 | q2 · design · r2 | i? | [A student-led small-group discussion assessment sustained online participation and produce](student-led-discussion-task-sustains-online-participation.md) (qualifies); [Fortnightly web conferences with open-ended discussion supported students' academic and so](web-conferences-support-online-community.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 One experiment (Brewer & Klein 2003, 280 undergraduate business majors in triads) is recorded. An earlier version of this page described the participants as adult reentry students; the evidence entry does not say so, so the scope here follows the entry. The null result is a non-significant difference with no effect size printed, which does not establish that the conditions are equivalent.

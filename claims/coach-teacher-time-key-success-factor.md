@@ -41,8 +41,9 @@ Qualitative finding from the authors' three-year coaching research: teacher-coac
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Literature review identifies 182 candidate coaching components organized into coach, teacher, and interaction factors](literature-review-182-coaching-components-three-categories.md) — related
 - [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](coaching-focus-instructional-delivery-versus-behavior-management.md) — a narrower finding that bears on this claim
 - [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](teacher-feedback-coaching-associated-charter-success.md) — related

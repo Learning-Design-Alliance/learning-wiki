@@ -42,6 +42,7 @@ Wilcoxon signed ranks test on school-level suspension rates from the Maryland St
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — the general claim this finding bears on, with the studies behind it
 -

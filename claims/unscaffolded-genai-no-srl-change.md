@@ -48,4 +48,4 @@ One-way ANCOVA on SRL (seven-item scale) with pretest as covariate in the quasi-
 - [Unscaffolded GenAI access produced no significant advantage in pre-service teachers' AI readiness compared with traditional learning](unscaffolded-genai-no-ai-readiness-advantage.md) — related
 - [Unscaffolded GenAI access was not associated with a significant difference in pre-service teachers' critical thinking relative to traditional learning](unscaffolded-genai-no-critical-thinking-difference.md) — related
 - [Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking](within-group-gains-design-and-ai-readiness-only.md) — related
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — related
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related

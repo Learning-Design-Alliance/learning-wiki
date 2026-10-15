@@ -13,14 +13,14 @@ generated:
 # Teach Self Regulation Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 17 studies (8 quant-synthesis, 5 review, 3 causal, 1 theoretical), `q1`–`q4` · 8 of 17 report an effect size
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 18 studies (8 quant-synthesis, 6 review, 3 causal, 1 theoretical), `q1`–`q4` · 8 of 18 report an effect size
 
 ## Description
 Teaching self-regulation strategies means explicitly instructing learners in the processes they need to direct their own learning: setting goals, planning approaches, monitoring comprehension and progress, and adjusting strategies or effort based on feedback. Rather than assuming learners will acquire these skills incidentally, the instructor models, teaches, and provides practice in the strategies themselves — planning, self-monitoring, self-evaluation, and help-seeking — alongside the content. This is the instructional counterpart to the broader [Self-Regulated Learning](../theories/self-regulated-learning.md) framework.
 
 ## Design Implications
 
-Self-regulation instruction has consistent positive effects on academic performance, with the strongest effects when strategy instruction is embedded in subject-matter content rather than taught as a generic study-skills course [Self-regulation strategy instruction improves academic achievement.](../claims/self-regulation-strategy-instruction-improves-achievement.md) [+S]. Effective programs follow a cycle — forethought (goal setting, strategic planning), performance (self-monitoring, self-control), and self-reflection (self-evaluation, adaptive adjustment) — and make each phase explicit through modeling and guided practice. Because self-regulation depends on learners owning their goals and choices, it pairs naturally with [Autonomy](../principles/autonomy.md) support; controlling environments undermine the motivation that sustains strategy use [Autonomy support fosters intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
+Self-regulation instruction has consistent positive effects on academic performance, with the strongest effects when strategy instruction is embedded in subject-matter content rather than taught as a generic study-skills course [Self-regulation strategy instruction improves academic achievement.](../claims/self-regulated-learning-improves-achievement.md) [+S]. Effective programs follow a cycle — forethought (goal setting, strategic planning), performance (self-monitoring, self-control), and self-reflection (self-evaluation, adaptive adjustment) — and make each phase explicit through modeling and guided practice. Because self-regulation depends on learners owning their goals and choices, it pairs naturally with [Autonomy](../principles/autonomy.md) support; controlling environments undermine the motivation that sustains strategy use [Autonomy support fosters intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ### Context
 #### Requirements
@@ -33,7 +33,7 @@ Self-regulation instruction has consistent positive effects on academic performa
 - Feedback that targets processes and self-regulation, not just the task outcome [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 #### Constraints
-- Generic strategy instruction detached from content (standalone "study skills" courses) produces weak and non-durable effects [Self-regulation strategy instruction improves academic achievement.](../claims/self-regulation-strategy-instruction-improves-achievement.md) [-M] — strategies must be practiced within authentic subject-matter tasks
+- Generic strategy instruction detached from content (standalone "study skills" courses) produces weak and non-durable effects [Self-regulation strategy instruction improves academic achievement.](../claims/self-regulated-learning-improves-achievement.md) [-M] — strategies must be practiced within authentic subject-matter tasks
 - Strategy instruction adds instructional time and working-memory load; introducing multiple strategies simultaneously can overload novices [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]
 - If learners are never given genuine decision-making authority, taught strategies atrophy; regulatory skills require regulative opportunities [Autonomy support fosters intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [-M]
 - Effects fade without continued practice and fading of external prompts; over-scaffolding creates dependence on the supports
@@ -53,7 +53,7 @@ Self-regulation instruction has consistent positive effects on academic performa
 - Social regulation: co-regulation in [Collaborative Learning](../principles/collaborative-learning.md), where groups negotiate goals and monitor shared progress
 
 ### Target Learners
-- Struggling learners and novices, who often lack effective strategies and default to rereading or cramming [Self-regulation strategy instruction improves academic achievement.](../claims/self-regulation-strategy-instruction-improves-achievement.md) [+S]
+- Struggling learners and novices, who often lack effective strategies and default to rereading or cramming [Self-regulation strategy instruction improves academic achievement.](../claims/self-regulated-learning-improves-achievement.md) [+S]
 - Adolescents and adults, who have the metacognitive capacity to reason about their own learning; younger learners need simpler, more concrete versions of the cycle
 - Less effective when imposed on learners who see no personal relevance — strategy adoption requires learner buy-in [Autonomy support fosters intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - Adolescents and adults developing independent study habits; younger children need more external structure and co-regulation before self-regulation is realistic
@@ -112,7 +112,7 @@ This strategy makes the processes of self-regulation — goal setting, strategy 
 
 ## Design Implications
 
-Self-regulation instruction works best when strategies are taught within subject-matter tasks rather than as generic study skills; embedded instruction produces larger and more durable gains than decontextualized training [Self-regulation strategy instruction improves academic performance, especially when embedded in content.](../claims/self-regulation-strategy-instruction-improves-achievement.md) [+S]. Teachers should model the strategies aloud — making monitoring and decision-making visible — then progressively hand responsibility to learners [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+Self-regulation instruction works best when strategies are taught within subject-matter tasks rather than as generic study skills; embedded instruction produces larger and more durable gains than decontextualized training [Self-regulation strategy instruction improves academic performance, especially when embedded in content.](../claims/self-regulated-learning-improves-achievement.md) [+S]. Teachers should model the strategies aloud — making monitoring and decision-making visible — then progressively hand responsibility to learners [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ### Context
 #### Requirements
@@ -134,7 +134,7 @@ Self-regulation instruction works best when strategies are taught within subject
 - Social regulation: co-regulation in [Collaborative Learning](../principles/collaborative-learning.md), where groups negotiate goals and monitor shared progress
 
 ### Target Learners
-- Struggling learners and students with attention or executive-function challenges, who benefit most from explicit strategy instruction [Self-regulation strategy instruction improves academic performance, especially when embedded in content.](../claims/self-regulation-strategy-instruction-improves-achievement.md) [+S]
+- Struggling learners and students with attention or executive-function challenges, who benefit most from explicit strategy instruction [Self-regulation strategy instruction improves academic performance, especially when embedded in content.](../claims/self-regulated-learning-improves-achievement.md) [+S]
 - Adolescents and adults developing independent study habits; younger children need more external structure and co-regulation before self-regulation is realistic
 - Learners whose motivation is undermined by external control benefit when strategy instruction is paired with choice [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
 

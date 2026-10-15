@@ -12,7 +12,7 @@ generated:
 # Flipped Classroom
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (6 quant-synthesis, 3 causal, 1 theoretical), `q2`–`q4` · 5 of 10 report an effect size
 
 ## Description
 The flipped classroom moves direct instruction outside of class — typically as short videos or structured readings — and reserves synchronous time for application: problem-solving, discussion, and feedback with the instructor present. The instructor's role shifts from delivering content to diagnosing and correcting understanding during [Practice](../elements/practice.md).
@@ -55,7 +55,7 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 2. **Add accountability.** Attach 2–3 low-stakes questions to each pre-class asset ([Assessment](../elements/assessment.md)); use results to plan class time.
 3. **Open class with a check.** Begin with a brief quiz or [Check-In](../elements/check-in.md) to surface misconceptions from the pre-work.
 4. **Run application activities.** Spend the bulk of class on problems, [Class Discussion](../elements/class-discussion.md), or cases with the instructor circulating and coaching — enacting [Active Learning](../principles/active-learning.md).
-5. **Close with consolidation.** End with a synthesis or exit task; schedule follow-up [Practice](../elements/practice.md) distributed over subsequent sessions [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. **Close with consolidation.** End with a synthesis or exit task; schedule follow-up [Practice](../elements/practice.md) distributed over subsequent sessions [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Peer Instruction](peer-instruction.md) — a canonical in-class activity structure for flipped sessions

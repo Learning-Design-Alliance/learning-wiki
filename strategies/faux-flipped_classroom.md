@@ -12,7 +12,7 @@ generated:
 # Faux-Flipped Classroom
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q2`–`q4` · 5 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (7 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 The faux-flipped classroom adapts the [Flipped Classroom](../patterns/flipped-classroom.md) model for young learners. Instead of sending instructional videos home as homework, students watch short teacher-created videos *during* class — often in a station-rotation or small-group structure — and the teacher then circulates to provide one-to-one guidance, feedback, and coaching on practice. The "faux" label reflects that the out-of-class/in-class inversion is softened: the goal is not homework replacement per se but freeing the teacher's attention for individualized support while students still have access to direct instruction.
@@ -37,7 +37,7 @@ The model preserves the core benefit of flipped instruction — shifting first-e
 #### Implementation Variability
 - **Station rotation:** one station watches the video, others work on practice, [collaboration](../elements/collaboration.md) tasks, or hands-on activities
 - **Whole-class-then-practice:** the video replaces the live mini-lesson, then all students practice while the teacher pulls individuals or small groups
-- **Re-teach library:** videos are archived so students can rewatch explanations on demand, supporting [spaced-repetition-improves-retention](../claims/spaced-repetition-improves-retention.md) [+S]
+- **Re-teach library:** videos are archived so students can rewatch explanations on demand, supporting [spaced-repetition-improves-retention](../claims/spaced-practice-improves-retention.md) [+S]
 - **Parent-facing variant:** videos are shared with families so caregivers can support practice at home without re-teaching content incorrectly
 
 ### Target Learners

@@ -41,10 +41,11 @@ WWC synthesis of two randomized controlled trials (Ferentino 1991; Guglielmo & T
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
 - [In Ferentino (1991), social skills training produced a large significant effect on teacher-rated Vineland Socialization but not on four other social-emotional measures](ferentino-vabs-c-socialization-significant-effect.md) — a narrower finding that bears on this claim
 - [Social skills training shows no discernible effects on cognition for preschool children with disabilities](social-skills-training-no-discernible-cognition-effects.md) — related
 - [LeBlanc and Matson (1995) found a statistically significant positive effect on one social-emotional outcome but insufficient information prevented WWC verification or inclusion in the rating](leblanc-matson-insufficient-reporting-excluded.md) — a narrower finding that bears on this claim
 - [In Guglielmo and Tryon (2001), social skills training plus reinforcement increased sharing behaviors significantly more than reinforcement alone, while effects on being in a group were positive but not significant](taking-part-training-increases-sharing-behaviors.md) — a narrower finding that bears on this claim
-- [Inclusive preschool special education benefits students with and without disabilities and reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related
+- [A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related

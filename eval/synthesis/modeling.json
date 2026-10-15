@@ -1,0 +1,106 @@
+{
+  "principle": "principles/modeling",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests live or narrated modelling against a comparison; the first hub is the worked-example claim the cognitive-apprenticeship spec already uses for this question (verbatim), with single studies of modelling itself added.",
+  "findings": [
+    {
+      "hub": "worked-examples-with-practice-improve-transfer",
+      "question": "Should modelling come before the learner's first attempts?",
+      "members": [
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "worked-examples-improve-math-performance",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "+"
+        ],
+        [
+          "worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game",
+          "+"
+        ],
+        [
+          "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps",
+          "~"
+        ],
+        [
+          "solved-problems-improve-algebra-achievement",
+          "~"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ],
+        [
+          "identical-example-problem-order-advantage-not-detected-at-final-test",
+          "~"
+        ],
+        [
+          "alternating-example-problem-pairs",
+          "+"
+        ],
+        [
+          "modeling-training-improves-imaginative-play",
+          "+"
+        ],
+        [
+          "teacher-modeling-internalizes-reading-strategies",
+          "+"
+        ],
+        [
+          "mentor-modelling-strategies-transfer-mentee-behaviour-management",
+          "+"
+        ],
+        [
+          "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game",
+          "+"
+        ],
+        [
+          "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "self-explanation-improves-conceptual-understanding",
+      "question": "Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?",
+      "members": [
+        [
+          "self-explanation-effective-across-instructional-conditions",
+          "+"
+        ],
+        [
+          "self-explanation-improves-abstract-transfer",
+          "+"
+        ],
+        [
+          "self-explanation-far-transfer-geometry-classroom",
+          "~"
+        ],
+        [
+          "self-explanation-time-on-task-cost",
+          "~"
+        ],
+        [
+          "erroneous-examples-build-conceptual-knowledge",
+          "+"
+        ],
+        [
+          "constructive-learning-beats-active-passive",
+          "~"
+        ],
+        [
+          "model-comparison-noticing-lexical",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

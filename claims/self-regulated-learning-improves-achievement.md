@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: self-regulated-learning-improves-achievement
-aliases: [self-regulated-learning-improves-academic-outcomes, self-regulated-learning-improves-outcomes, self-regulated-learning-strategies-improve-achievement, self-regulated-learning-strategies-improve-performance, self-regulated-learning-strategy-instruction-improves-achievement, self-regulation-strategy-instruction-improves-academic-performance]
+aliases: [self-regulated-learning-improves-academic-outcomes, self-regulated-learning-improves-outcomes, self-regulated-learning-strategies-improve-achievement, self-regulated-learning-strategies-improve-performance, self-regulated-learning-strategy-instruction-improves-achievement, self-regulation-strategy-instruction-improves-academic-performance, self-regulation-strategy-instruction-improves-achievement]
 evidence_strength:
 sources:
   - id: dignath-büttner-2008
@@ -84,25 +84,25 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teaching and prompting self-regulation improve achievement over ordinary instruction?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **15 distinct studies** (7 quant-synthesis, 4 review, 3 causal, 1 theoretical), `q2`–`q4`, 6 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teaching and prompting self-regulation improve achievement over ordinary instruction?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **15 distinct studies** (7 quant-synthesis, 4 review, 3 causal, 1 theoretical), `q2`–`q4`, 6 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Dignath & Büttner 2008](https://doi.org/10.1007/s11409-008-9029-x) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, average ES = 0.69 | this claim; [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) (supports); [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) (supports) |
-| [Dent & Koenka 2016](https://doi.org/10.1007/s10648-015-9320-8) | q3 · quant-synthesis · r? | i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies) | this claim; [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) (supports); [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) (supports) |
+| [Dignath & Büttner 2008](https://doi.org/10.1007/s11409-008-9029-x) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, average ES = 0.69 | this claim; [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) (supports) |
+| [Dent & Koenka 2016](https://doi.org/10.1007/s10648-015-9320-8) | q3 · quant-synthesis · r? | i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies) | this claim; [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) (supports) |
 | [Wong et al. 2019](https://doi.org/10.1080/10447318.2018.1543084) | q3 · review · r3 | i? | this claim |
 | [Ergen 2017](https://doi.org/10.14689/ejer.2017.69.4) | q3 · quant-synthesis · r2 | i3; i? | [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achi](srl-strategies-large-effect-academic-achievement.md) (supports); [Publication-bias checks indicate the pooled effect is unlikely to result from publication ](srl-meta-analysis-publication-bias-absent.md) (supports) |
 | [Guntur 2024](https://doi.org/10.24059/olj.v28i3.4025) | q2 / q3 · quant-synthesis · r2 | i2; i? | [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes i](srl-interventions-moderate-effect-online-blended.md) (supports); [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random ](srl-effect-sizes-heterogeneous-random-effects.md) (qualifies); [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) (supports) |
-| [de Boer et al. 2018](https://doi.org/10.1016/j.edurev.2018.03.002) | q4 · quant-synthesis · r? | i2 · medium effect, Hedges' g=0.50 (posttest), g=0.63 (follow-up) | [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) (supports) |
-| [Adimora et al. 2017](https://doi.org/10.18844/prosoc.v3i3.1582) | q2 · causal · r1 | i? | [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) (supports) |
+| [de Boer et al. 2018](https://doi.org/10.1016/j.edurev.2018.03.002) | q4 · quant-synthesis · r? | i2 · medium effect, Hedges' g=0.50 (posttest), g=0.63 (follow-up) | [Metacognitive strategy instruction, which includes comprehension monitoring, improves acad](self-monitoring-comprehension-improves-learning.md) (supports) |
+| [Adimora et al. 2017](https://doi.org/10.18844/prosoc.v3i3.1582) | q2 · causal · r1 | i? | [Metacognitive strategy instruction, which includes comprehension monitoring, improves acad](self-monitoring-comprehension-improves-learning.md) (supports) |
 | [Zimmerman 2002](https://doi.org/10.1207/s15430421tip4102_2) | q3 · review · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
 | [Butler & Winne 1995](https://doi.org/10.3102/00346543065003245) | q3 · theoretical · r? | i? | [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) (supports) |
 | Abdul Gafoor. K. 2016 | q2 · review · r1 | i? | [Short-term self-regulatory strategy training, including within regular mathematics lessons](short-srl-strategy-training-enhances-math-performance.md) (supports) |
 | Self-Regulated Strategy Development: WWC Intervention Report 2017 | q2 · review · r3 | i? | [SRSD had potentially positive effects on writing achievement for students with a specific ](srsd-potentially-positive-writing-achievement-sld.md) (supports); [No SRSD study met WWC group design standards; 10 of 14 eligible single-case design studies](srsd-evidence-base-group-design-null.md) (qualifies) |
 | [Gollwitzer & Sheeran 2006](<https://doi.org/10.1016/s0065-2601(06)38002-1>) | q3 · quant-synthesis · r? | i2 · medium-to-large effect, d = .65, 95% CI .60 to .70 | [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) (supports) |
 | [Kizilcec & Cohen 2017](https://doi.org/10.1073/pnas.1611898114) | q3 · causal · r? | i? | [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) (supports) |
-| [Burke et al. 2018](https://doi.org/10.1177/0741932518802274) | q3 · quant-synthesis · r? | i? | [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) (supports) |
-| [Wehmeyer et al. 2013](https://doi.org/10.1177/0022466910392377) | q3 · causal · r2 | i? | [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) (supports) |
+| [Burke et al. 2018](https://doi.org/10.1177/0741932518802274) | q3 · quant-synthesis · r? | i? | [Self-determination skills instruction for students with disabilities increases self-determ](self-determination-instruction-improves-outcomes.md) (supports) |
+| [Wehmeyer et al. 2013](https://doi.org/10.1177/0022466910392377) | q3 · causal · r2 | i? | [Self-determination skills instruction for students with disabilities increases self-determ](self-determination-instruction-improves-outcomes.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -184,7 +184,15 @@ Open questions that evidence entries should address include: which strategy fami
 
 **Online and self-paced settings (Wong et al. 2019).** The two meta-analyses above are of primary and secondary school students. The online-learning review extends the direction of the claim to online environments but qualifies it: providing support is not sufficient on its own (learners gained only when they used the support), feedback alone showed no effect on performance, and the review computed no effect size, so it cannot say how large the gain is.
 
+*Merged from “Self-regulation strategy instruction improves achievement” (self-regulation-strategy-instruction-improves-achievement):* **Mechanism.** Self-regulation strategy instruction works by making learners active managers of their own cognition: they set goals, select strategies, monitor comprehension and progress, and adjust effort or approach when feedback indicates a mismatch. This aligns with the broader model described in [Self-regulated learning](../theories/self-regulated-learning.md). Strategy instruction is closely related to [metacognitive prompts and reflection](../claims/metacognitive-prompts-improve-learning.md), which operationalize the monitoring step.
+
+**Moderators and boundary conditions.** Effects are generally strongest when strategies are taught explicitly, modeled, and practiced within subject-matter content rather than as generic study-skills sessions detached from coursework. Benefits also depend on learners having enough prior knowledge to monitor meaningfully — novices who lack domain knowledge may misjudge their understanding, and strategy instruction cannot substitute for [cognitive load management](../principles/cognitive-load-management.md) during initial skill acquisition. Younger learners and low-achieving students typically need more scaffolding and external prompts before self-regulation becomes self-sustaining.
+
+**Open questions.** How durable strategy gains are after instruction ends, and how much training is needed before learners transfer strategies to new domains, remain under-established in the current evidence base for this claim. The training meta-analysis above reports larger effects when researchers rather than regular teachers delivered the training, so classroom-scale effects may be smaller than the pooled estimate.
+
 ## Related Claims
+
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback from assessment gives learners the information their self-monitoring acts on.
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — autonomous motivation sustains the effortful strategy use SRL requires.
@@ -214,10 +222,9 @@ Open questions that evidence entries should address include: which strategy fami
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — a narrower finding that bears on this claim
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — a narrower finding that bears on this claim
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
-- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — possibly the same claim (merge candidate)
 - [Short-term self-regulatory strategy training, including within regular mathematics lessons, enhances students' self-regulatory judgments and mathematics performance](short-srl-strategy-training-enhances-math-performance.md) — a narrower finding that bears on this claim
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related
@@ -253,3 +260,7 @@ Open questions that evidence entries should address include: which strategy fami
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — a narrower finding that bears on this claim
 - [Metacognitive strategy correlations with achievement vary widely across studies, from negative values near -.28 to values such as .66 and .94](metacognitive-strategy-correlations-variable-range.md) — related
 - [Learner characteristics — prior knowledge, self-regulatory skills, cognitive styles, and attitudes towards learning — moderate hypermedia learning effectiveness](learner-characteristics-moderate-hypermedia-effectiveness.md) — related
+- [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) — prompts operationalize the monitoring step of self-regulation
+- [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) — a strategy learners can be taught to deploy on their own
+- [Goal setting improves performance](../claims/goal-setting-improves-performance.md) — goal-setting is the planning phase of self-regulation
+- [Student self-graphing of CBM scores is reported as motivating during secondary prevention](self-graphing-cbm-progress-motivating.md) — related

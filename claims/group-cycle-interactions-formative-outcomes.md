@@ -15,18 +15,12 @@ sources:
     i: "?"
     kind: causal
     rigour: 2
-  - id: yao-x-c-and-fan-l-2026-2
-    title: Yao X-C and Fan L 2026 (2)
-    q: 2
-    i: "?"
-    kind: causal
-    rigour: 2
 ---
 
 # Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revision quality, and self-assessment accuracy, but not for actionability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mixed-effects models with student random intercepts yielded significant Group × Cycle interactions for diagnostic accuracy (F(2,188.4) = 3.57, p = 0.030), comprehension (F(2,188.3) = 3.18, p = 0.044), revision quality (F(2,188.6) = 4.02, p = 0.019), and self-assessment accuracy (F(2,187.9) = 10.31, p < 0.001). [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

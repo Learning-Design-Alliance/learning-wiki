@@ -41,6 +41,7 @@ The review's comparison of CT outcomes across its 33 studies (Appendix D) report
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — the general claim this finding bears on, with the studies behind it
 - [Language and early writing interventions showed larger effects on researcher-developed than standardized outcome measures, while phonological awareness, print knowledge, and decoding effects were comparable across measure types](researcher-developed-measures-larger-language-effects.md) — related

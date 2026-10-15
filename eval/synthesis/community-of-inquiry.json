@@ -1,0 +1,64 @@
+{
+  "principle": "principles/community-of-inquiry",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Hub and question reused verbatim from eval/synthesis/communities.json; directions of the members already there are kept.",
+  "findings": [
+    {
+      "hub": "social-presence-strongest-metacognition-association-cbi",
+      "question": "In an online community of inquiry, which presences go with learners' regulation and learning?",
+      "members": [
+        [
+          "co-regulation-stronger-presence-relationships-than-self-regulation",
+          "+"
+        ],
+        [
+          "cognitive-presence-highest-least-variable-online-cbi",
+          "~"
+        ],
+        [
+          "coi-presence-uneven-profile-mba",
+          "~"
+        ],
+        [
+          "peer-monitoring-exceeds-social-presence",
+          "~"
+        ],
+        [
+          "online-labs-better-with-instructor-scaffolds",
+          "~"
+        ],
+        [
+          "discussion-board-no-negative-feedback-synchrony-required",
+          "~"
+        ],
+        [
+          "motivation-social-presence-boost-engagement-agentic-ai",
+          "+"
+        ],
+        [
+          "mba-students-experience-courses-as-coi",
+          "~"
+        ],
+        [
+          "human-embodiment-video-presence-effects",
+          "~"
+        ],
+        [
+          "self-co-regulation-highly-correlated-online-cbi",
+          "~"
+        ],
+        [
+          "learner-presence-three-qualities-mba",
+          "~"
+        ],
+        [
+          "course-template-supports-learner-presence",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

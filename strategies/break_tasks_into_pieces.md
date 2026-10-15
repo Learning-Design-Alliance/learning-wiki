@@ -12,7 +12,7 @@ generated:
 # Break Tasks Into Pieces
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 22 studies (8 review, 6 causal, 5 theoretical, 3 quant-synthesis), `q1`–`q4` · 2 of 22 report an effect size · 2 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 24 studies (8 review, 7 causal, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 3 of 24 report an effect size · 2 claims rest on one study
 
 ## Description
 Breaking tasks into pieces means decomposing a complex task into smaller, sequenced sub-tasks, each with a clear goal, completion criterion, and checkpoint. Learners complete one piece at a time — often with a short break or review between pieces — rather than attempting the whole task in a single sitting. The strategy reduces perceived workload and overwhelm, and is especially useful for learners with attention or executive-function difficulties.
@@ -37,7 +37,7 @@ Chunking reduces the working-memory and attentional demands of a task by letting
 #### Implementation Variability
 - **Chunk size:** from single-step prompts for young or attention-challenged learners to multi-session project milestones for older students
 - **Who does the breaking:** instructor-provided breakdowns, co-constructed plans, or learner-generated sub-goals (the last best supports transfer of planning skill)
-- **Timing:** pieces completed in one session with micro-breaks, or distributed across sessions with spaced review [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- **Timing:** pieces completed in one session with micro-breaks, or distributed across sessions with spaced review [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Target Learners
 - Learners with attention difficulties or executive-function challenges, who cannot sustain engagement across long unstructured tasks [+W]

@@ -217,6 +217,10 @@
         [
           "revisions-no-effect-time-with-lesson",
           "~"
+        ],
+        [
+          "cognitive-load-management",
+          "-"
         ]
       ]
     },
@@ -231,6 +235,18 @@
         [
           "pretraining-principle-mayer-2008",
           "+"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "~"
+        ],
+        [
+          "whole-task-performance-improves-transfer",
+          "~"
+        ],
+        [
+          "skill-develops-through-engagement-not-drill",
+          "-"
         ]
       ]
     }

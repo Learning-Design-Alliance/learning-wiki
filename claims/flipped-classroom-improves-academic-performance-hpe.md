@@ -39,6 +39,19 @@ Random-effects inverse-variance meta-analysis of 44 studies (n = 7813) comparing
 
 > "Based on overall average effect sizes, there was better academic performance in the flipped class method of learning compared to traditional class learning (standardised mean difference [SMD] = 0.57, 95% confidence interval [CI] = 0.25 to 0.90, τ 2: 1.16; I 2: 98%; p < 0.00001, 44 studies, n = 7813)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a flipped course raise academic performance over the same course taught by lecture?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 causal, 1 review), `q2`–`q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Naing 2023](https://doi.org/10.1002/cl2.1339) | q2 / q3 · quant-synthesis · r3 | i2; i? | this claim; [The academic performance advantage of flipped classrooms persists when studies with impute](flipped-classroom-performance-sensitivity-imputed-data.md) (supports); [Only a minority of flipped-classroom studies in health professional education are RCTs, an](flipped-classroom-evidence-base-rct-shortage-high-bias.md) (qualifies) |
+| [Liu YJ 2026](https://doi.org/10.1186/s12909-026-09608-7) | q2 · causal · r1 | i? | [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy ](flipped-models-higher-question-accuracy.md) (supports) |
+| [Means et al. 2013](https://doi.org/10.1177/016146811311500307) | q3 · quant-synthesis · r? | i2 · medium effect, g+=0.35, p<.0001 | [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) (qualifies) |
+| Martella 2021 | q2 · review · r2 | i? | [Time-on-task is frequently unequal across compared conditions, with active learning condit](time-on-task-unequal-in-active-learning-comparisons.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -12,7 +12,7 @@ generated:
 # Adjust Time Frames
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 10 studies (3 causal, 3 review, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 12 studies (4 causal, 3 quant-synthesis, 3 review, 2 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Adjusting time frames means deliberately shortening the duration of instructional segments, work periods, and sustained tasks to match learners' attentional capacity, then re-engaging them at structured checkpoints. It is carried out with visible timers, clearly bounded sub-tasks, and brief check-ins or movement breaks between intervals — for example, a 10-minute work sprint followed by a two-minute progress share.
@@ -49,7 +49,7 @@ Sustained attention on a single task degrades well before learners report losing
 ### Target Learning Goals
 - Task completion and work stamina: finishing multi-step assignments that would otherwise stall
 - Self-regulation: learning to pace work and monitor progress against time [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
-- Retention of content practiced in short, distributed sessions rather than one massed block [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention of content practiced in short, distributed sessions rather than one massed block [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. Diagnose the current limit: observe where attention or on-task behavior typically breaks down, and set the first interval slightly below that duration.

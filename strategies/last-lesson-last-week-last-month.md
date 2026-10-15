@@ -12,14 +12,14 @@ generated:
 # Last Lesson, Last Week, Last Month
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 This activity involves looking back to the most important information presented yesterday, last week, and last month. The instructor selects three questions from each time period and asks students to answer them with no assistance, enacting spaced retrieval practice. It signals that learning a topic does not end with the summative assessment and that knowledge builds on knowledge.
 
 ## Design Implications
 
-Retrieval practice strengthens memory more than re-exposure, and its benefits grow when retrievals are spaced across expanding intervals [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. The strategy operationalizes this by scheduling retrievals at three fixed lags, forcing learners to reconstruct material just as it begins to fade. Because answers are produced without assistance, the activity also doubles as low-stakes formative assessment that surfaces what has actually been retained [Assessment for learning.](../principles/assessment-for-learning.md) [+M].
+Retrieval practice strengthens memory more than re-exposure, and its benefits grow when retrievals are spaced across expanding intervals [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. The strategy operationalizes this by scheduling retrievals at three fixed lags, forcing learners to reconstruct material just as it begins to fade. Because answers are produced without assistance, the activity also doubles as low-stakes formative assessment that surfaces what has actually been retained [Assessment for learning.](../principles/assessment-for-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Retrieval practice strengthens memory more than re-exposure, and its benefits gr
 - Low-stakes framing with timely feedback, so errors are corrected rather than re-learned [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 #### Constraints
-- If questions are too easy or cued immediately before the activity, learners retrieve from short-term memory rather than long-term memory, eliminating the spacing benefit [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [-M]
+- If questions are too easy or cued immediately before the activity, learners retrieve from short-term memory rather than long-term memory, eliminating the spacing benefit [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [-M]
 - Repeated failure on the same questions without corrective feedback can entrench errors and depress self-efficacy
 - Poorly chosen questions (trivia rather than core concepts) consume time without reinforcing the knowledge structure
 - In fast-paced courses, the "last month" tier may reach material no longer relevant to current goals, creating interference rather than integration
@@ -42,7 +42,7 @@ Retrieval practice strengthens memory more than re-exposure, and its benefits gr
 
 ### Target Learners
 - All learner levels; particularly effective in secondary and higher education where content is cumulative
-- Learners prone to "massed-then-forget" study patterns, who experience the contrast between easy recent recall and effortful distant recall [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+M]
+- Learners prone to "massed-then-forget" study patterns, who experience the contrast between easy recent recall and effortful distant recall [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+M]
 - Less suited to learners with severe working memory constraints unless questions are heavily chunked [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 
 ### Target Learning Goals

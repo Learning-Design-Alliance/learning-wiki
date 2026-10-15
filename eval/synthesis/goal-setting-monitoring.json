@@ -1,0 +1,39 @@
+{
+  "principle": "principles/goal-setting-monitoring",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "goal-setting-improves-performance",
+      "question": "Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?",
+      "members": [
+        [
+          "specific-difficult-goals-lead-to-higher-performance",
+          "+"
+        ],
+        [
+          "clear-specific-challenging-goals-linked-to-task-performance",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "process-goals-outperform-outcome-goals-for-novices",
+      "question": "For a learner new to the task, should the goal name the process or the result, and how near should it be?",
+      "members": [
+        [
+          "proximal-goals-feedback-peer-models-build-learning-efficacy",
+          "+"
+        ],
+        [
+          "learning-goals-raise-task-orientation",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "implementation-intentions-improve-goal-attainment",
+      "question": "Does an if-then plan for the expected obstacle add to the goal alone?",
+      "members": []
+    }
+  ]
+}

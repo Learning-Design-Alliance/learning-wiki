@@ -12,7 +12,7 @@ generated:
 # Goal Setting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (4 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Goal setting establishes specific performance or learning targets that learners pursue over a defined period. It is carried out by having learners (or instructors with learners) articulate concrete, measurable objectives — ideally proximal subgoals en route to distal aims — and then monitor progress against them. The mechanism is motivational and attentional: specific goals focus effort and persistence in ways that vague intentions ("do your best") do not.
@@ -47,7 +47,7 @@ Goal setting is one of the most robust findings in organizational and educationa
 
 ### Target Learning Goals
 - Persistence and effort regulation on extended tasks ([Self-Regulated Learning](../theories/self-regulated-learning.md))
-- Skill development requiring distributed practice over time [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Skill development requiring distributed practice over time [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Metacognitive development: planning, monitoring, and self-evaluation phases of self-regulation
 
 ### Instructions

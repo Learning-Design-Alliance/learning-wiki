@@ -83,6 +83,21 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 
 > "Elementary school students who were given praise about their intelligence after correctly solving a problem were likely to attribute future failures to lack of ability, have lower interest, show less persistence on future tasks, and have a goal for future tasks of looking smart."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should the positive comment and the assurance speak to the learner's ability, or to their work and effort?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (4 review, 1 causal, 1 theoretical), `q2`–`q3`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Mueller & Dweck 1998](https://doi.org/10.1037/0022-3514.75.1.33) | q3 · causal · r? | i? | this claim |
+| [Henderlong & Lepper 2002](https://doi.org/10.1037/0033-2909.128.5.774) | q3 · review · r? | i? | this claim |
+| Halpern 2007 | q3 · review · r2 | i? | this claim |
+| Schunk 1996 | q2 · review · r2 | i? | [Proximal goals and ability attributional feedback for early learning raise self-efficacy m](proximal-goals-feedback-peer-models-build-learning-efficacy.md) (qualifies) |
+| Walker 1989 | q2 · theoretical · r2 | i? | [Prolonged reading failure leads students to attribute failure to fixed low ability and def](reading-failure-fixed-ability-attribution.md) (supports) |
+| Fullin 1995 | q2 · review · r2 | i? | [Attributing repeated failure to lack of ability fosters learned helplessness, while extern](ability-attributions-foster-learned-helplessness-in-sport.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The claim rests on three converging mechanisms. First, praise is low in informational value: feedback improves learning to the extent it tells learners how to improve, and generic praise ("good job") carries no actionable information — see [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md). Second, person-directed praise ("you're smart") encourages a fixed view of ability, which leads learners to avoid challenge and disengage after setbacks, whereas process praise ("you used a good strategy") is less damaging and can support persistence. Third, praise directed at the self rather than the task shifts the learner's focus from the learning goal to self-presentation and external approval, consistent with concerns from [behaviorism](../theories/behaviorism.md) that extrinsic social reinforcers can crowd out intrinsic engagement, and with [self-determination theory](../theories/self-determination-theory.md), which predicts that controlling praise undermines autonomy — see [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md).
@@ -98,6 +113,8 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — the informational alternative: feedback that tells learners how to improve.
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — the motivational mechanism through which controlling praise backfires.

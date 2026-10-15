@@ -77,9 +77,9 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — the general claim this finding bears on, with the studies behind it
 
 - [Disengaged test-taking responses can distort the content representation of test items](disengaged-responses-distort-item-content-representation.md) — related
 - [Test-taking disengagement distorts both individual and aggregated test scores](disengagement-distorts-individual-and-aggregated-scores.md) — related

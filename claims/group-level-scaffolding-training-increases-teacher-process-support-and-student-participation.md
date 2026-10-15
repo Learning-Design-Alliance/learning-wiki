@@ -22,7 +22,7 @@ sources:
 # Group-level scaffolding training increases teacher process support and student participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium · n=4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam
+> **Evidence** · 1 study · causal `r1` · `q3` · n=4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam
 
 Mathematics teachers coached to use the Small-Group Scaffolding Tool diagnosed the group's collective understanding and handed responsibility back to the group significantly more often than untrained teachers, gave content support less often, and drew substantially more students into each small-group interaction — but did not improve the contingency (accuracy of calibration) of the content support they did give.
 
@@ -51,6 +51,8 @@ Four teachers (two coached on the [Small-Group Scaffolding Tool](../strategies/s
 This is a genuine, well-instrumented quasi-experiment with interrater reliability reported (Cohen's kappa .82–.95) and honest reporting of a null finding alongside the positive results, which supports trusting the positive findings as not cherry-picked. The sample is nonetheless small at the teacher level (n=4, 2 per condition) — not randomized, and with teachers matched only on experience/age — so unmeasured teacher-level confounds cannot be ruled out. The behavioral changes documented are in teacher scaffolding moves and student participation counts; the study does not measure student mathematical learning outcomes directly, so the link from "more group-level scaffolding" to "better mathematics learning" is plausible but untested here.
 
 ## Related Claims
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Summarization Effective With Training](summarization-improves-learning.md) — related
 - [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](grouping-practices-framed-labeling-problem.md) — related

@@ -41,7 +41,8 @@ Publication-bias assessment of the meta-analysis using funnel plots, Egger's tes
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](removing-disengaged-examinees-induces-bias.md) — related
 - [The proposed cognitive mechanisms explain both positive and negative effects of PS-I](mechanisms-explain-positive-and-negative-ps-i-effects.md) — related

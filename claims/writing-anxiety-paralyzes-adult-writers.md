@@ -47,5 +47,5 @@ The manual's writing-process section lists eight causes of writing anxiety and f
 
 ## Related Claims
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related
-- [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related
+- [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — related
 - [Skilled EFL writers undergo a recursive writing process in which planning, writing, and reviewing repeat and embed within each other during composing.](skilled-efl-writers-recursive-writing-process.md) — related

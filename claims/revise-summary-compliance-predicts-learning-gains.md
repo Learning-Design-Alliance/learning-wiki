@@ -22,7 +22,7 @@ sources:
 # Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Students learned more when they complied more with the revise summary prompt (F1,20 = 6.17, p=.02, ηp2 =.15). [→ Lallé 2017](#lalle-2017)

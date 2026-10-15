@@ -40,6 +40,17 @@ Theoretical argument in the paper's reliability section. The authors argue that 
 
 > "Defining and quantifying reliability and measurement error of scores is particularly challenging in the context of epistemic games for three principal reasons. First, it is very challenging to minimize measurement error from an assessment design perspective due to the complexity of the tasks, which induce dependencies across observations."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can what a learner has learned in an epistemic game be measured reliably from the record of play?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **2 distinct studies** (1 theoretical, 1 causal), `q1`–`q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Rupp 2010 | q1 / q2 · theoretical · r3 | i? | this claim; [Multidimensional latent variable models rarely support more than about four to six latent ](latent-variable-models-limit-grain-size.md) (supports); [Segmentation boundary choices differentially affect statistics computed on epistemic-game ](segmentation-boundaries-differentially-affect-statistics.md) (qualifies) |
+| [Sweet 2012](https://doi.org/10.5281/zenodo.3554649) | q2 · causal · r2 | i? | [The WD statistic is more useful for differentiating between simulated learner types when g](longer-games-sharpen-wd-learner-differentiation.md) (qualifies); [In simulated epistemic games, the weighted density statistic distinguishes simulated learn](wd-detects-simulated-learner-trajectory-differences.md) (qualifies); [Easy, highly specific simulated tasks compress the range of the WD statistic across learne](easy-highly-specific-tasks-shrink-wd-range.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

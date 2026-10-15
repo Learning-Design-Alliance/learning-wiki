@@ -61,6 +61,18 @@ Hanselman, P., Rozek, C. S., Grigg, J., & Borman, G. D. (2017). New evidence on 
 
 Following an earlier successful large-scale replication in the same Midwestern school district (all 11 middle schools, Borman et al. 2016), the same research team fielded the identical self-affirmation writing protocol with a new 7th-grade cohort the following year. Verbatim: "we found no effects of the intervention on the performance of Asian and White students... [and] estimates for all outcomes were negative, but none were statistically different from zero" for Black/Hispanic students; the grade 8 GPA effect was d = -0.072 (95% CI -0.192, 0.047), significantly different from the prior year's positive effect of d = 0.152 (p = 0.013). The authors tested and rejected essentially every theorized moderator (fidelity of delivery, teacher effects, control-group design, timing, student engagement with the writing task, race/gender subgroups, prior achievement, school racial composition and achievement gaps, and individual schools driving the result) and concluded self-affirmation's benefits at scale are likely small and difficult to predict, with a companion power analysis showing that if the "true" effect is as small as the ~0.07 SD average across large-scale trials, most published significant findings in this literature are likely to substantially overstate the true effect (expected exaggeration ~2.2x).
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a brief values-affirmation writing exercise before a threatening evaluation protect threatened learners' grades, compared with writing about an unimportant value?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Cohen et al. 2006](https://doi.org/10.1126/science.1128317) | q3 · causal · r2 | i? | this claim |
+| [Hanselman et al. 2017](https://doi.org/10.1037/edu0000141) | q3 · causal · r3 | i0 · negligible effect, d=-0.07 (95% CI -0.19 to 0.05); the interval excludes the size of the earlier benefit | this claim |
+| [Hernández 2022](https://doi.org/10.54300/165.102) | q2 · review · r1 | i? | [A policy report's narrative review states that values affirmation reduced stereotype-threa](values-affirmation-long-term-benefits-black-students.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The standard account is that affirming a valued aspect of the self provides an alternative source of self-integrity, so that a subsequent threat (a test, critical feedback, a stereotype-relevant situation) no longer demands defensive processing. Freed from defending the self, learners can attend to the task and use feedback productively.
@@ -80,7 +92,7 @@ Following an earlier successful large-scale replication in the same Midwestern s
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — a complementary motivational pathway; affirming values and supporting autonomy both address learners' sense of self rather than instruction per se
 - [District achievement data showed performance dropping off substantially in the middle grades relative to national norms](achievement-drops-in-middle-grades.md) — related
 - [Black students are more likely to complete the apprenticeship component of LC101 when accounting for all other factors, suggesting alternative STEM programs may represent vehicles for racial equity in STEM](black-students-more-likely-complete-apprenticeship.md) — related
-- [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related
+- [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — related
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related

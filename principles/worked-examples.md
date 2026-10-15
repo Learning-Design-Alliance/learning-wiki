@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (13 for, 8 mixed) · 15 studies (10 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 2 of 15 report an effect size · 17 claims rest on one study
+> **Evidence** · 21 claims (13 for, 8 mixed) · 15 studies (10 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 1 of 15 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -94,7 +94,7 @@ Each question below links a general claim that gathers the studies behind it int
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — not settled: the abstract available could not confirm the entries
-- [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+S] — checked by the judge: all 1 entries pass (abstract)
+- [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](../claims/worked-examples-improve-math-performance.md) [+S] — checked by the judge: all 1 entries pass (abstract)
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — not settled: the abstract available could not confirm the entries
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — not settled: the abstract available could not confirm the entries
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M] — not yet checked against its sources

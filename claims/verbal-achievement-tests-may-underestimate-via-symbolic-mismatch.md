@@ -41,8 +41,9 @@ Theoretical argument advanced in the review's problem statement: because instruc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](proposition-4-distinct-evidence-demands.md) — the general claim this finding bears on, with the studies behind it
 - [People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity](different-media-yield-different-knowledge-encoding.md) — related
 - [Research on minority group testing has focused on test bias, linguistic minorities, and culture-fair tests, rarely on alternative symbolic forms](minority-testing-research-neglects-alternative-symbolic-forms.md) — related
 - [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](mismatched-graphic-organizers-increase-extraneous-load.md) — related

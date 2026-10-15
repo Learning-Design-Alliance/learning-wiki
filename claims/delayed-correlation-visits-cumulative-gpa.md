@@ -41,8 +41,9 @@ Correlational analysis of TutorTrac visit counts against cumulative GPA by quart
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md) — the general claim this finding bears on, with the studies behind it
 - [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups](tutoring-center-visits-higher-cumulative-gpa.md) — related
 - [Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit](high-use-tutoring-center-visits-higher-persistence.md) — related
 - [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](tutoring-good-standing-significant-only-one-cohort.md) — related

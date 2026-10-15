@@ -81,7 +81,7 @@ A review of research on the cognitive and social processes of writing, conceptio
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does writing or presenting for a real reader beyond the teacher-as-grader improve the product?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **8 distinct studies** (3 causal, 3 design, 1 review, 1 qualitative), `q1`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does writing or presenting for a real reader beyond the teacher-as-grader improve the product?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **10 distinct studies** (3 causal, 3 design, 2 qualitative, 1 review, 1 theoretical), `q1`–`q3`, 0 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -90,6 +90,8 @@ A review of research on the cognitive and social processes of writing, conceptio
 | [Magnifico 2010](https://doi.org/10.1080/00461520.2010.493470) | q2 · review · r? | i? | this claim |
 | showcase | q1 · design · r2 | i? | [Public capstone ePortfolio showcases gave students an authentic audience and renewed energ](public-capstone-epportfolio-showcase-audience-effect.md) (supports) |
 | virtual-showcase | q1 · design · r2 | i? | [Public capstone ePortfolio showcases gave students an authentic audience and renewed energ](public-capstone-epportfolio-showcase-audience-effect.md) (supports) |
+| Yu-Ling You; Shih-Guey Joe 2001 | q2 · qualitative · r2 | i? | [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether t](skilled-writers-audience-awareness.md) (supports) |
+| de Beaugrande 1977 | q1 · theoretical · r3 | i? | [The prior knowledge of the intended audience determines a text's information density, rate](audience-prior-knowledge-determines-information-density.md) (qualifies) |
 | Jiaojiao Zhao 2026 | q1 · qualitative · r1 | i? | [Presenting prototypes to community partners created a sense of accountability among studen](community-presentation-created-accountability-pressure.md) (supports) |
 | [Sturgill 2014](https://doi.org/10.20343/teachlearninqu.2.1.81) | q2 · causal · r1 | i? | [Public versus private reflection shows mixed effects: private journals are more analytic/i](public-vs-private-reflection-mixed.md) (qualifies) |
 | [Kahn & Hall 2026](https://doi.org/10.1080/10508406.2026.2624531) | q2 · design · r2 | i? | [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) (qualifies) |

@@ -44,5 +44,5 @@ In the secondary prevention progress-monitoring section, the case study reports 
 
 ## Related Claims
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related
-- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — related
+- [Self-regulation strategy instruction improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related

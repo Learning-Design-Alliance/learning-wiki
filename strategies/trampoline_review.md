@@ -12,14 +12,14 @@ generated:
 # Trampoline Review
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 7 studies (4 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Trampoline Review is a kinesthetic strategy in which learners rehearse or retrieve academic content while bouncing on a mini-trampoline or performing comparable rhythmic gross-motor movement (marching, jumping jacks, ball tossing). The movement is intended to raise arousal and engagement while the learner performs retrieval of the target material. The strategy is best understood as retrieval practice delivered under elevated physiological arousal, not as a distinct memory mechanism.
 
 ## Design Implications
 
-The learning benefit comes almost entirely from the retrieval component, not the bouncing: active recall is among the most robust findings in memory research [Testing strengthens retention more than restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. Acute moderate exercise can modestly enhance subsequent memory performance, but the evidence for *simultaneous* movement during encoding or retrieval is weaker and mixed [~W]. Design the activity so that the motor task is automatic and low-demand; any movement requiring its own cognitive resources competes with retrieval for working memory.
+The learning benefit comes almost entirely from the retrieval component, not the bouncing: active recall is among the most robust findings in memory research [Testing strengthens retention more than restudying.](../claims/spaced-practice-improves-retention.md) [+S]. Acute moderate exercise can modestly enhance subsequent memory performance, but the evidence for *simultaneous* movement during encoding or retrieval is weaker and mixed [~W]. Design the activity so that the motor task is automatic and low-demand; any movement requiring its own cognitive resources competes with retrieval for working memory.
 
 ### Context
 #### Requirements
@@ -58,7 +58,7 @@ The learning benefit comes almost entirely from the retrieval component, not the
 5. Follow with a seated, movement-free retrieval check to confirm learning transfers out of the movement context.
 
 ## Related Strategies
-- [Spaced repetition](../claims/spaced-repetition-improves-retention.md) — the retrieval schedule matters far more than the movement; trampoline review should be scheduled across days, not massed
+- [Spaced repetition](../claims/spaced-practice-improves-retention.md) — the retrieval schedule matters far more than the movement; trampoline review should be scheduled across days, not massed
 - [Self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) — for conceptual content, replace bouncing with prompted explanation, which has stronger support
 
 ## Examples

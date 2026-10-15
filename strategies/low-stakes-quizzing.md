@@ -13,14 +13,14 @@ generated:
 # Low Stakes Quizzing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (6 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q2`–`q4` · 5 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (7 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q2`–`q4` · 6 of 13 report an effect size
 
 ## Description
 Low stakes quizzing embeds frequent, brief tests into instruction with minimal or no consequences for grades. Learners actively retrieve information — via multiple choice, short answer, or free recall — rather than rereading it. The act of retrieval itself strengthens memory, and quiz results give both learner and instructor diagnostic information while the material can still be corrected.
 
 ## Design Implications
 
-Retrieval practice produces substantially larger and more durable learning gains than restudying, with effects that persist over delays of days to months [Rowland, 2014 meta-analysis] [+S]. The benefit holds across formats, ages, and subject areas, though free-recall and short-answer formats tend to outperform simple recognition [Adesope et al., 2017] [+S]. Because stakes are low, quizzes function as learning events rather than assessments of record — the goal is error correction, not sorting. Feedback after each quiz is essential: retrieval without corrective feedback can entrench errors [~M]. Quizzing also pairs naturally with spacing; distributing quizzes across weeks compounds the retention benefit [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Retrieval practice produces substantially larger and more durable learning gains than restudying, with effects that persist over delays of days to months [Rowland, 2014 meta-analysis] [+S]. The benefit holds across formats, ages, and subject areas, though free-recall and short-answer formats tend to outperform simple recognition [Adesope et al., 2017] [+S]. Because stakes are low, quizzes function as learning events rather than assessments of record — the goal is error correction, not sorting. Feedback after each quiz is essential: retrieval without corrective feedback can entrench errors [~M]. Quizzing also pairs naturally with spacing; distributing quizzes across weeks compounds the retention benefit [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -50,7 +50,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - **Cumulative quizzes** that revisit earlier material, converting each quiz into spaced retrieval
 - **Pre-questions** placed before instruction as advance organizers — effective for directing attention even when learners answer incorrectly [~M]
 - **Format:** clickers/peer instruction, LMS quizzes, paper exit tickets, games (Kahoot!, Quizizz), pre-class reading quizzes in flipped courses
-- **Timing:** immediately after instruction (consolidation) or spaced days-to-weeks later (greater long-term retention) [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- **Timing:** immediately after instruction (consolidation) or spaced days-to-weeks later (greater long-term retention) [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - **Structure:** individual, team-based (e.g., two-stage collaborative quizzes), or open-book — two-stage formats add [Collaborative Learning](../patterns/collaborative-learning.md) benefits [+W]
 - **Confidence weighting:** asking learners to rate confidence per item surfaces illusions of knowing; errors made with high confidence are especially instructive [High-confidence errors improve retention when corrected.](../claims/high-confidence-errors-improve-retention.md) [+M]
 
@@ -135,7 +135,7 @@ Retrieval practice produces durable, transferable retention gains well beyond re
 
 #### Implementation Variability
 - **Format:** clickers/peer instruction, LMS quizzes, paper exit tickets, games (Kahoot!, Quizizz), pre-class reading quizzes in flipped courses
-- **Timing:** immediately after instruction (consolidation) or spaced days-to-weeks later (greater long-term retention) [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- **Timing:** immediately after instruction (consolidation) or spaced days-to-weeks later (greater long-term retention) [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - **Structure:** individual, team-based (e.g., two-stage collaborative quizzes), or open-book — two-stage formats add [Collaborative Learning](../patterns/collaborative-learning.md) benefits [+W]
 - **Confidence weighting:** asking learners to rate confidence per item surfaces illusions of knowing; errors made with high confidence are especially instructive [High-confidence errors improve retention when corrected.](../claims/high-confidence-errors-improve-retention.md) [+M]
 
@@ -145,7 +145,7 @@ Retrieval practice produces durable, transferable retention gains well beyond re
 - Anxious learners benefit most from the low-stakes framing, provided stakes are genuinely minimal [-M]
 
 ### Target Learning Goals
-- Retention of factual and conceptual knowledge over weeks and months [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention of factual and conceptual knowledge over weeks and months [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Formative diagnosis: identifying what to reteach and what learners believe they know
 - Transfer is supported when quiz items require application, not just recall [+M]
 - Reduced test anxiety through repeated exposure to assessment in safe conditions [+W]
@@ -155,7 +155,7 @@ Retrieval practice produces durable, transferable retention gains well beyond re
 2. Write items that require generation — short answer, brief application, or prediction — not just recognition.
 3. Deliver the quiz with explicit framing: ungraded or minimal-stakes, for learning ([Assessment](../elements/assessment.md)).
 4. Provide immediate feedback with explanations; for wrong answers, prompt a brief [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) of why the chosen answer was wrong [+M].
-5. Revisit the same ideas in later quizzes at increasing intervals ([Spaced Repetition](../claims/spaced-repetition-improves-retention.md)).
+5. Revisit the same ideas in later quizzes at increasing intervals ([Spaced Repetition](../claims/spaced-practice-improves-retention.md)).
 6. Use aggregate item data to plan reteaching; use individual data for [Check-Ins](../principles/check-ins.md) or conferences.
 
 ## Related Strategies

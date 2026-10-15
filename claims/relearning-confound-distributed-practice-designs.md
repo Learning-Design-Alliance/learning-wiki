@@ -44,6 +44,5 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 
 ## Related Claims
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
-- [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — related
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related

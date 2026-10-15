@@ -41,8 +41,9 @@ The brief summarizes referral research showing "culturally and linguistically di
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](cultural-background-influences-learning-style-measurement.md) — related
 - [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — related
 - [The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.](deficit-view-of-minority-households-lowers-academic-expectations.md) — related

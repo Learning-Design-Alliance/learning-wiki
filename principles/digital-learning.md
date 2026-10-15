@@ -23,7 +23,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (25 for, 24 mixed, 3 against) · 66 studies (15 causal, 14 review, 13 theoretical, 11 quant-synthesis, 6 associational, 5 qualitative, 2 design), `q1`–`q4` · 12 of 66 report an effect size · 43 claims rest on one study
+> **Evidence** · 52 claims (25 for, 24 mixed, 3 against) · 61 studies (15 causal, 14 review, 11 quant-synthesis, 8 theoretical, 6 associational, 5 qualitative, 2 design), `q1`–`q4` · 10 of 61 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 

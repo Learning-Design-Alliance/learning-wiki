@@ -21,6 +21,10 @@
         [
           "bds-curriculum-adds-beyond-service-learning-alone",
           "~"
+        ],
+        [
+          "bds-null-self-esteem-general-responsibility",
+          "-"
         ]
       ]
     },

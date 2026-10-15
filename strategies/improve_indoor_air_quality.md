@@ -26,7 +26,7 @@ sources:
 # Improve Indoor Air Quality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 unmarked) · 7 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 unmarked) · 9 studies (3 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy addresses the physical learning environment by increasing outdoor air supply, filtering or otherwise reducing indoor pollutants (CO₂, particulates, volatile organic compounds, allergens), and managing humidity and temperature in classrooms and study spaces. It is carried out through facility-level measures (HVAC maintenance, ventilation upgrades, CO₂ monitoring), operational routines (scheduled airing, low-emission cleaning and materials), and targeted accommodations for students with respiratory conditions such as asthma.
@@ -77,7 +77,7 @@ Air quality is a baseline condition for learning rather than an instructional te
 - Not tied to specific content objectives; serves all goals by protecting attention, working memory capacity, and attendance — the enabling conditions for any instruction
 - Health-related learning goals: modeling source control and ventilation routines doubles as authentic science content (measurement, data interpretation)
 - Not a learning goal in itself — this strategy serves *conditions for learning*: attendance, sustained attention, and working-memory capacity during instruction
-- Indirectly supports every goal that depends on consistent presence and focused cognition, including [spaced practice](../claims/spaced-repetition-improves-retention.md) schedules that break down when attendance is erratic
+- Indirectly supports every goal that depends on consistent presence and focused cognition, including [spaced practice](../claims/spaced-practice-improves-retention.md) schedules that break down when attendance is erratic
 
 ### Instructions
 1. **Measure first.** Place CO₂ monitors in occupied classrooms and log readings across a typical week to identify problem spaces before investing in fixes.
@@ -150,7 +150,7 @@ Learning depends on a physical environment that supports sustained attention and
 
 ### Target Learning Goals
 - Not a learning goal in itself — this strategy serves *conditions for learning*: attendance, sustained attention, and working-memory capacity during instruction
-- Indirectly supports every goal that depends on consistent presence and focused cognition, including [spaced practice](../claims/spaced-repetition-improves-retention.md) schedules that break down when attendance is erratic
+- Indirectly supports every goal that depends on consistent presence and focused cognition, including [spaced practice](../claims/spaced-practice-improves-retention.md) schedules that break down when attendance is erratic
 
 ### Instructions
 1. **Assess baseline conditions.** Measure CO₂, humidity, and temperature in occupied classrooms; identify pollutant sources and ventilation shortfalls.

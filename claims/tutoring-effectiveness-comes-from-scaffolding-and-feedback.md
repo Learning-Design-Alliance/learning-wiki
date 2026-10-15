@@ -62,6 +62,22 @@ VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tu
 
 A review of experiments comparing human tutoring, several classes of computer tutoring systems (answer-based, step-based, substep-based), and no-tutoring instruction on the same content. Contrary to the widely repeated belief that human tutoring produces very large gains (d = 2.0, per Bloom's two-sigma figure) far beyond intelligent tutoring systems (believed d = 1.0), the review found human tutoring's actual effect size relative to no tutoring was much lower (d = 0.79) and that intelligent tutoring systems (d = 0.76) were nearly as effective. Read from the publisher/ERIC abstract only, since the full text sits behind a paywall with no open-access copy found via Unpaywall.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What should support during practice do: explain and give feedback, prompt the learner to construct the step, or respond contingently to each attempt?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Chi et al. 2001](https://doi.org/10.1207/s15516709cog2504_1) | q2 · causal · r1 | i? | this claim; [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| [VanLehn 2011](https://doi.org/10.1080/00461520.2011.611369) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.79 (human tutoring vs. no tutoring) | this claim |
+| [Pratt and Savoy-Levine 1998](<https://doi.org/10.1016/s0193-3973(99)80041-0>) | q3 · causal · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| [Swanson and Lussier 2001](https://doi.org/10.3102/00346543071002321) | q4 · quant-synthesis · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| [van de Pol et al. 2010](https://doi.org/10.1007/s10648-010-9127-6) | q3 · review · r2 | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| [Wood et al. 1976](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x) | q3 · qualitative · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
+| Tsvetomila Mihaylova 2026 | q2 · causal · r2 | i? | [All three LLM feedback types credibly reduced attempts to success relative to the baseline](llm-feedback-fewer-attempts.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **What the recorded evidence supports.** In Chi et al. (2001), when tutors were told to withhold feedback and explanations and only prompt, students learned as much, which the authors attribute to the students' own construction rather than to tutor feedback. So the evidence recorded here supports scaffolding more than feedback as the source of tutoring's effect; the page's former title, which named both, overstated it. The paragraphs below describe the wider literature's proposed mechanisms, which no entry here tests.

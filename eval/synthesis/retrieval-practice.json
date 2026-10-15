@@ -327,7 +327,7 @@
       "question": "Will learners choose to retrieve on their own, and can they be taught to?",
       "members": [
         [
-          "learners-misjudge-retrieval-benefit",
+          "learners-misjudge-effective-learning-strategies",
           "+"
         ],
         [
@@ -357,10 +357,6 @@
         [
           "nmsa-survey-preference-practice-testing",
           "~"
-        ],
-        [
-          "learners-misjudge-effective-learning-strategies",
-          "+"
         ],
         [
           "learners-misjudge-spacing-benefits",

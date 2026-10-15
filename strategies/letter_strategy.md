@@ -12,7 +12,7 @@ generated:
 # Letter Strategy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 The letter strategy is a mnemonic technique that uses acronyms and acrostics to aid memory. Acronyms are words whose individual letters represent elements in a list (e.g., HOMES for the Great Lakes); acrostics are sentences whose first letters cue the to-be-remembered items (e.g., "My Very Educated Mother Just Served Us Nine Pizzas" for the planets). Both work by imposing a familiar, meaningful structure on arbitrary material, reducing the burden of rote rehearsal [Mnemonic devices reduce working memory load by chunking to-be-remembered items into a single retrievable unit.](../claims/chunking-reduces-working-memory-load.md) [+M].
@@ -25,7 +25,7 @@ Letter strategies convert unstructured lists into a single retrieval cue, which 
 #### Requirements
 - Content that is genuinely list-like or sequential — acronyms applied to non-list material distort it
 - A memorable, pronounceable cue word or sentence; learners should be taught how the letters map to items ([Demonstration](../elements/demonstration.md) of the mapping process)
-- Periodic retrieval practice to maintain the association [Spaced repetition improves retention of mnemonic-cued material.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Periodic retrieval practice to maintain the association [Spaced repetition improves retention of mnemonic-cued material.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Poorly constructed acronyms (unpronounceable, or letters that don't map cleanly) can interfere with recall rather than support it [~M]
@@ -53,7 +53,7 @@ Letter strategies convert unstructured lists into a single retrieval cue, which 
 2. [Demonstrate](../elements/demonstration.md) the mapping: show an existing acronym (e.g., HOMES), making explicit how each letter cues each item.
 3. Have learners construct their own acronym or acrostic, or refine a provided one; encourage pronounceable, vivid cues.
 4. Pair the letter cue with meaning — learners should be able to state what each letter stands for and explain the item ([Annotating](../principles/annotating.md) the list helps).
-5. Schedule retrieval practice with the cue removed, spaced over time [Spaced repetition improves retention of mnemonic-cued material.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Schedule retrieval practice with the cue removed, spaced over time [Spaced repetition improves retention of mnemonic-cued material.](../claims/spaced-practice-improves-retention.md) [+S].
 6. Fade the mnemonic once recall is automatic, shifting learners to direct retrieval.
 
 ## Related Strategies

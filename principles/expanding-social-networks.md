@@ -112,7 +112,7 @@ Learners, settings and outcomes differ across these claims (adults in transition
 
 ## The evidence by question
 
-- *Do peers in the same situation and mentors around adult learners help them develop skills, persist and get through transitions?* [Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners](../claims/cohort-support-improves-adult-persistence.md) [+M] (a report citing a Department of Labor synthesis second-hand; read the studies gathered under it, which are participant reports without comparison).
+- *Do peers in the same situation and mentors around adult learners help them develop skills, persist and get through transitions?* [An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence](../claims/cohort-support-improves-adult-persistence.md) [+M] (a report citing a Department of Labor synthesis second-hand; read the studies gathered under it, which are participant reports without comparison).
 
 ## Further evidence, not yet read against this model
 

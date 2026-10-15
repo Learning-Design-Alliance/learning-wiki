@@ -41,11 +41,11 @@ Narrative synthesis of rule-based learning studies: Noh et al. (2016) found bloc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](similarity-and-complexity-moderate-interleaving.md) — the general claim this finding bears on, with the studies behind it
 - [Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse](interleaving-similarity-boundary-condition.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
-- [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](moderate-overall-interleaving-effect.md) — a broader claim this one bears on
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related

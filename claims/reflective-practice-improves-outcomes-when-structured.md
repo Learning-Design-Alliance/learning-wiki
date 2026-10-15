@@ -31,7 +31,7 @@ sources:
 # Reflective Practice Improves Outcomes When Structured
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4` · `i1` small
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4`
 
 Reflection improves learning and performance when it is prompted by structure — specific questions, frameworks, or prompts — rather than left as an unguided invitation to "think about your learning."
 
@@ -59,6 +59,18 @@ Menekse, M., Anwar, S., & Akdemir, Z. G. (2022). How do different reflection pro
 
 Using a quasi-experimental design across two sections of a required first-year engineering course (N = 208), students were assigned to receive either generic or specific (i.e., more structured, content-targeted) reflection prompts and submitted 52 reflections apiece over a semester. Students in the specific-prompts condition performed significantly better than the generic-prompts condition on exams, total project score, and two of the problem sets, even though the sheer quantity of reflection was held constant between groups. This isolates prompt structure/specificity, rather than amount of reflection, as the active ingredient — directly supporting the claim's conditional framing (structure matters, not just the presence of reflection).
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do specific, guided prompts produce better reflection and learning than generic or free reflection?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q2`–`q4`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bangert-Drowns et al. 2004](https://doi.org/10.3102/00346543074001029) | q4 · quant-synthesis · r? | i1 | this claim |
+| [Menekse et al. 2022](https://doi.org/10.1080/00220973.2020.1786346) | q2 · causal · r? | i? | this claim |
+| [Sturgill 2014](https://doi.org/10.20343/teachlearninqu.2.1.81) | q2 · causal · r1 | i? | [Guided written reflection yields more analytic and integrative paragraphs than free reflec](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) (supports); [Guided reflection assignments produce roughly twice as much written reflection as free ass](guided-reflection-produces-longer-reflections.md) (qualifies); [Public versus private reflection shows mixed effects: private journals are more analytic/i](public-vs-private-reflection-mixed.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Structure is the active ingredient.** The claim's scope is deliberately conditional: unstructured reflection ("write about what you learned") frequently produces superficial or purely descriptive responses, while structured prompts — targeted questions, rubric-linked self-assessment, or frameworks such as What? So What? Now What? — direct attention to the processes and criteria that matter for improvement. This aligns with broader findings that generative activities help only when learners lack the guidance to generate the right content themselves, a condition closely tied to [Cognitive Load Theory](../theories/cognitive-load-theory.md) and to the [expertise-reversal pattern](../theories/expertise-reversal-effect.md): novices need more scaffolding for reflection, while advanced learners may benefit from more open formats.
@@ -85,9 +97,8 @@ Using a quasi-experimental design across two sections of a required first-year e
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
-- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — related
 - [Team-based discovery learning improved EFL students' research proposal writing across two action-research cycles, with cycle-two average score 85.8 above the success criterion](team-based-discovery-learning-improves-research-proposal-writing.md) — related
 - [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](metacognition-efficiency-effectiveness-outcomes-claim.md) — a broader claim this one bears on
 - [Students who formulated their own rules for when to use AI performed better on assignments in both conditions](self-set-ai-rules-better-assignments.md) — a narrower finding that bears on this claim

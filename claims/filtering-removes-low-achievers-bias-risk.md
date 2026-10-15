@@ -51,5 +51,5 @@ Table 6 descriptives for spring of 8th grade reading compare effort-moderated sc
 - [Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present](effort-moderated-scoring-more-accurate-better-fit.md) — related
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](removing-disengaged-examinees-induces-bias.md) — related
 - [Student test disengagement may bias estimates of educational effectiveness based on observed test results](disengagement-undermines-score-inferences.md) — related
-- [Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores](test-taking-motivation-negative-score-bias.md) — related
+- [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — related
 - [Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity](collider-bias-sample-truncation-at-risk.md) — related

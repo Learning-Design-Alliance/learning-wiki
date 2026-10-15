@@ -61,6 +61,7 @@ Second GLM analysis of SWIS ODR data from the SWPBIS schools across the four pos
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — the general claim this finding bears on, with the studies behind it
 -

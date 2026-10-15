@@ -1,0 +1,24 @@
+{
+  "principle": "patterns/blended-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "blended-learning-improves-outcomes",
+      "question": "Does a blended course produce better learning outcomes than the same course taught in one mode?",
+      "members": [
+        [
+          "blended-learning-effects-vary-by-intervention-and-domain",
+          "~"
+        ],
+        [
+          "no-identified-blended-learning-implementation-strategies",
+          "~"
+        ],
+        [
+          "haiti-blended-pilot-significant-gains-lowest-baseline",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

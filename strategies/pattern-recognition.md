@@ -155,7 +155,7 @@ Pattern recognition converts isolated facts into structured knowledge, reducing 
 3. Ask learners to compare, sort, or group the cases and articulate what recurs — before stating the rule ([Analogies](../elements/analogies.md), [Articulation](../elements/articulation.md)).
 4. Name and formalize the pattern, connecting it to the principle or schema it instantiates ([Advance Organizers](../elements/advance-organizers.md)).
 5. Provide practice with new instances that vary surface features, requiring learners to apply the pattern ([Practice](../elements/practice.md), [Application](../elements/application.md)).
-6. Space retrieval of the pattern across sessions so recognition becomes automatic ([Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]).
+6. Space retrieval of the pattern across sessions so recognition becomes automatic ([Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]).
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — existing schemas are the substrate new patterns attach to

@@ -41,8 +41,9 @@ Classroom interaction analysis in the same three-cohort quasi-experiment (N=68).
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence](flipped-classroom-improves-academic-performance-hpe.md) — the general claim this finding bears on, with the studies behind it
 - [The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show](ai-enhancement-raises-assignment-accuracy.md) — related
 - [The AI-enhanced flipped classroom improves comprehensive assessment and pre-class preparation/PPT quality over the flipped classroom, but not in-class presentation performance or professional knowledge mastery](ai-flipped-boundary-deep-mastery.md) — related
 - [The AI-enhanced flipped classroom yields significantly higher in-class response rates than both the flipped and traditional classrooms in pharmacology for international medical students](ai-flipped-classroom-higher-response-rate.md) — related

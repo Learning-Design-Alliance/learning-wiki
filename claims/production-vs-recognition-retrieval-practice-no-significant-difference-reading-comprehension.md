@@ -44,7 +44,7 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 
 ## Related Claims
 - [Retrieval Practice Improves Learning](retrieval-practice-improves-retention.md)
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md)
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md)
 - [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](retrieval-format-by-retention-interval-interaction-not-significant.md) — related
 - [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
 - [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) — related

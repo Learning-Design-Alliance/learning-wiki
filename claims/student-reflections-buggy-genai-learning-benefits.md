@@ -15,18 +15,12 @@ sources:
     i: "?"
     kind: qualitative
     rigour: 3
-  - id: rq3-likert
-    title: rq3-likert
-    q: 3
-    i: "?"
-    kind: associational
-    rigour: 1
 ---
 
 # Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1`, 1 qualitative `r3` · `q3`
+> **Evidence** · 1 study · qualitative `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Students framed the activity as learning by diagnosing and recovering from failure, reporting practice in reading, tracing, and repairing plausible programs. [→ rq3-reflections](#rq3-reflections)
@@ -59,6 +53,8 @@ Likert-scale responses (Q2) from the post-tasks reflection questionnaire adminis
 ## Discussion
 
 ## Related Claims
+
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — the general claim this finding bears on, with the studies behind it
 - [Injected bugs prompt more direct code edits while natural bugs prompt more reprompting in prompt-based programming tasks](injected-bugs-eliciting-direct-edits-natural-bugs-reprompting.md) — related
 - [Students make smaller code changes and fewer edit-and-run attempts after injected bugs than after natural bugs](smaller-edits-after-injected-bugs.md) — related
 - [Prompting strategies differ by bug source: natural bugs elicit specification-oriented strategies while injected bugs elicit guidance-oriented strategies](prompting-strategies-differ-by-bug-source.md) — related

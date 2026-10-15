@@ -1,0 +1,58 @@
+{
+  "principle": "principles/wise-feedback-across-difference",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests wise feedback itself (Cohen, Steele & Ross 1999 and Yeager et al. 2014 have no claim pages); the findings cover the page's premise (expectations patterned by group) and the wording of the positive comment. The brief identity-targeted interventions are separate neighbouring topics and are not grouped here. Halpern 2007 is a practice guide that reports the Mueller & Dweck finding.",
+  "findings": [
+    {
+      "hub": "teacher-expectation-effects-on-achievement",
+      "question": "Do a feedback giver's expectations of a learner, or of the learner's group, show in the feedback given and in the learner's later performance?",
+      "members": [
+        [
+          "funds-of-knowledge-research-raises-teacher-expectations",
+          "+"
+        ],
+        [
+          "deficit-view-of-minority-households-lowers-academic-expectations",
+          "+"
+        ],
+        [
+          "complex-texts-unit-changed-teacher-beliefs",
+          "+"
+        ],
+        [
+          "teacher-underreferral-diverse-gifted",
+          "+"
+        ],
+        [
+          "coach-wright-topics-track-asset-deficit-mindsets",
+          "~"
+        ],
+        [
+          "race-prompts-cultural-stereotype-feedback",
+          "~"
+        ],
+        [
+          "learning-disability-feedback-lowered-expectations",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "feedback-praise-reduces-learning",
+      "question": "Should the positive comment and the assurance speak to the learner's ability, or to their work and effort?",
+      "members": [
+        [
+          "proximal-goals-feedback-peer-models-build-learning-efficacy",
+          "~"
+        ],
+        [
+          "reading-failure-fixed-ability-attribution",
+          "+"
+        ],
+        [
+          "ability-attributions-foster-learned-helplessness-in-sport",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

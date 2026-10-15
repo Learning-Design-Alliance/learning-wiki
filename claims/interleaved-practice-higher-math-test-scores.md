@@ -49,8 +49,7 @@ Classroom experiment with 126 seventh-graders practicing the same graph and slop
 - [Interleaved practice provided near immunity against forgetting over a 30-fold increase in test delay](interleaved-practice-near-immunity-forgetting.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
-- [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](moderate-overall-interleaving-effect.md) — a broader claim this one bears on
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — a broader claim this one bears on
 - [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](interleaving-rule-based-learning-boundary.md) — related

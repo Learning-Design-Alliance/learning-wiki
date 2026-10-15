@@ -39,6 +39,26 @@
         [
           "prior-knowledge-activation-little-effect-on-retention",
           "~"
+        ],
+        [
+          "hierarchical-organization-improves-complex-task-performance",
+          "+"
+        ],
+        [
+          "no-organization-effect-on-local-tasks",
+          "~"
+        ],
+        [
+          "ability-moderates-hierarchical-organization-benefit",
+          "~"
+        ],
+        [
+          "higher-hierarchy-levels-recalled-better",
+          "~"
+        ],
+        [
+          "strong-acquisition-tasks-improve-internalization",
+          "~"
         ]
       ]
     },
@@ -90,11 +110,15 @@
         ],
         [
           "elaborative-interrogation-improves-misbelief-items-pretest-posttest",
-          "~"
+          "+"
         ],
         [
           "cooperative-conceptual-change-chemistry-misconceptions",
           "+"
+        ],
+        [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
         ]
       ]
     },

@@ -70,6 +70,10 @@ In a MOOC writing course, the study compared students given "guided rubric" trai
 
 ## Related Claims
 
+- [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — the general claim this finding bears on, with the studies behind it
+
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — the general claim this finding bears on, with the studies behind it
+
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related: criteria checklists for evaluating web sources, not peer feedback <!-- deprecated (2026-10-05, misapplied): a cautionary contrast: simple checklists may not yield quality online peer evaluation, sharpening what "rubric" must mean here. -->
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — rubric-guided peer feedback is a form of assessment *for* learning, making criteria visible to learners.
 - [Feedback improves learning outcomes](feedback-improves-learning.md) — the downstream mechanism: better feedback should only help if feedback itself improves learning.

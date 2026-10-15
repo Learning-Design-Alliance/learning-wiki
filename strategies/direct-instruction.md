@@ -150,7 +150,7 @@ Explicit instruction works because it manages working memory load during initial
 1. State the goal and success criteria; connect to prior knowledge ([Activation](../elements/activation.md), [Advance Organizers](../elements/advance-organizers.md)).
 2. Model the skill in small steps with narrated reasoning ([Demonstration](../elements/demonstration.md), [Think-Aloud](../elements/think-aloud.md)).
 3. Guide practice with frequent prompts, checks, and immediate corrective [Feedback](../elements/feedback.md) ([Coaching](../elements/coaching.md)).
-4. Fade support through [Fading](../elements/fading.md) into independent [Practice](../elements/practice.md), ideally spaced over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+4. Fade support through [Fading](../elements/fading.md) into independent [Practice](../elements/practice.md), ideally spaced over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 

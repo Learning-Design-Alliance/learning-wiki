@@ -76,7 +76,7 @@ Four high school students with moderate intellectual disability were taught a mo
 - [Self-Determination Theory](../theories/self-determination-theory.md) — the theoretical framework (autonomy, competence, relatedness) most often used to explain self-directed IEP outcomes.
 - [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) — students monitoring and articulating their own goals parallels the IEP goal-review process.
 - [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — modeling and coaching of self-advocacy skills precedes independent student-led meetings.
-- [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — a broader claim this one bears on
-- [Self Determined Learning Model Of Instruction Improves Self Determination](self-determined-learning-model-of-instruction-improves-self-determination.md) — related
+- [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — a broader claim this one bears on
+- [Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group](self-determined-learning-model-of-instruction-improves-self-determination.md) — related
 - [Differentiating special education funding by disability, disability category, or student need can lead to improved outcomes for students with disabilities, and IEP-progress metrics offer a new adequacy-study measure](differentiated-special-education-funding-improves-outcomes.md) — related
 - [IEP processes should be followed to ensure students' due process protections, including amendment, revision, and new data informing present levels](iep-processes-due-process-protections.md) — related

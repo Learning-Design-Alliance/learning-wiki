@@ -54,7 +54,7 @@ Role reversal counteracts biased assimilation — the tendency to evaluate evide
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Considering The Opposite Reduces Bias](../claims/considering-the-opposite-reduces-bias.md) [+W]
+- [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](../claims/considering-the-opposite-reduces-bias.md) [+W]
 
 ## Related Elements
 - [Perspective-Taking](perspective-taking.md) — the underlying skill; role reversal is its most demanding enactment

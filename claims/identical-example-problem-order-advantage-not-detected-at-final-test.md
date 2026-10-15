@@ -43,4 +43,8 @@ The between-subjects experiment compared example–problem–example–problem w
 
 ## Related Claims
 
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
+
 - [Four-arm novice circuit contrast](worked-example-problem-sequences.md)

@@ -22,7 +22,7 @@ sources:
 # Embodied dance improvisation supports physics engagement and sense-making
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · qualitative `r2` · `q2` · `i2` medium · n=15 high-school girls from two community-based dance centers
+> **Evidence** · 1 study · qualitative `r2` · `q2` · n=15 high-school girls from two community-based dance centers
 
 Validating culturally specific movement (e.g., krumping, stepping) as legitimate physics expression, and using dance improvisation to explore physics concepts, shifted participating Black girls' emotional relationship to physics content and gave them an embodied vocabulary for reasoning about and critiquing their own scientific models.
 
@@ -49,6 +49,8 @@ Fifteen Black (some also Caribbean or Latinx-identifying) high-school girls with
 This is exploratory, proof-of-concept research (the authors' own characterization): there is no control condition, so gains cannot be cleanly separated from novelty, facilitator enthusiasm, or the out-of-school setting, and the sample (n=15) is small and drawn entirely from community dance centers rather than a general school population. The qualitative evidence for engagement shift and cultural validation broadening participation is nonetheless detailed and specific (moment-by-moment video transcript with direct quotes), and the sodium-model episode is a genuine, if singular, instance of embodied model critique. Long-term outcomes (persistence in physics beyond the program) are unknown. See [Funds of Knowledge](../theories/funds-of-knowledge.md) for the theoretical basis extending the construct to embodied/cultural-practice resources.
 
 ## Related Claims
+
+- [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — the general claim this finding bears on, with the studies behind it
 - [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](funds-of-knowledge-tasks-reveal-computational-thinking.md) — both claims document a fund-of-knowledge mechanism revealing or supporting disciplinary competence that a decontextualized approach would miss
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related

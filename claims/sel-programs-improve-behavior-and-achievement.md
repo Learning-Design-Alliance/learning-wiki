@@ -101,6 +101,22 @@ Zhao, Y., & Sang, B. (2025). The Effect of Social–Emotional Learning Programs 
 
 A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) of SEL programs for elementary and middle school students, limited to randomised or rigorous quasi-experimental designs with quantitative achievement outcomes. SEL students showed higher overall academic achievement than controls, but the effect was very small (g = 0.08, 95% CI 0.05 to 0.12), similar across English language arts, mathematics and science, and larger for GPA (g = 0.33, from 6 effect sizes). Quasi-experimental studies showed significantly larger effects (g = 0.27, k = 12) than randomised trials (g = 0.063, k = 64), and 20 of the 22 studies were in elementary schools, so middle-school conclusions are preliminary. This does not contradict the claim's direction, but it indicates the academic benefit in rigorous recent trials is much smaller than the Durlak et al. (2011) estimate.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **7 distinct studies** (4 review, 3 quant-synthesis), `q2`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Durlak et al. 2011](https://doi.org/10.1111/j.1467-8624.2010.01564.x) | q4 · quant-synthesis · r? | i1 · small effect, ES=0.27 academic performance, ES=0.22 conduct problems | this claim |
+| [Cipriano et al. 2023](https://doi.org/10.1111/cdev.13968) | q4 · quant-synthesis · r? | i? | this claim |
+| [Zhao and Sang 2025](https://doi.org/10.3390/bs15111527) | q3 · quant-synthesis · r? | i0 · negligible effect, g=0.08 | this claim |
+| [Greenberg 2023](https://doi.org/10.54300/928.269) | q3 · review · r2 | i1; i? | [SEL programs reduce disruptive behavior problems and emotional distress and foster prosoci](sel-programs-reduce-behavior-problems-distress.md) (supports); [SEL programs improve students' engagement and academic performance, with an 11-percentile-](sel-programs-improve-academic-performance.md) (supports) |
+| Melnick 2017 | q3 · review · r2 | i? | [SEL programs improve students' engagement and academic performance, with an 11-percentile-](sel-programs-improve-academic-performance.md) (supports) |
+| National Charter School Resource Center 2022 | q2 · review · r1 | i? | [Schoolwide SEL programs are associated with long-term achievement gains, with multiple met](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) (supports) |
+| Sheppard 2015 | q2 · review · r1 | i? | [Implementing specific SEL curricula can improve academic performance, including learning t](sel-curricula-improve-academic-performance.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope and mechanism.** The claim covers universal, school-based SEL curricula (e.g., sequenced lessons teaching emotion regulation, empathy, and interpersonal problem-solving), not one-off workshops or purely punitive behavior-management systems. The proposed mechanism is that improved self-regulation and classroom climate free attentional and motivational resources for learning — connecting to [Self-regulated learning](../theories/self-regulated-learning.md) and [Belonging](../elements/belonging.md). A second, complementary pathway runs through classroom climate: students who trust peers and teachers participate more, persist longer, and are less absent, which is why SEL is often framed as a precondition for [collaborative learning](../patterns/collaborative-learning.md) rather than a competitor to academic instruction.
@@ -144,6 +160,8 @@ Open questions include the durability of achievement effects after programs end,
 
 ## Related Claims
 
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — social connectedness is a key pathway through which SEL climate affects achievement
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — formative feedback shares SEL's emphasis on self-regulation and metacognition
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — SEL skills underpin effective peer collaboration
@@ -177,7 +195,6 @@ Open questions include the durability of achievement effects after programs end,
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
-- [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-11-percentile-academic-gain.md) — reports the opposite
-- [SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — reports the opposite
+- [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-improve-academic-performance.md) — reports the opposite
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — a narrower finding that bears on this claim

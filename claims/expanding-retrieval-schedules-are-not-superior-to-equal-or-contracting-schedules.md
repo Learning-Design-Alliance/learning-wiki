@@ -123,7 +123,7 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 **Second-language evidence is split, but small either way.** Kim and Webb's (2022) meta-analysis of 48 L2 experiments found equal and expanding spacing statistically equivalent, which supports this claim, while Nakata (2015), a single L2 vocabulary experiment, found a limited but significant advantage for expanding spacing and large effects of the amount of spacing. Both read together suggest the schedule's shape matters less than whether practice is spaced and by how much; both entries rest on abstracts.
 
 ## Related Claims
-- [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md)
+- [Spaced Repetition Improves Retention](spaced-practice-improves-retention.md)
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)](expanding-versus-uniform-retrieval-no-difference.md) — related
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related

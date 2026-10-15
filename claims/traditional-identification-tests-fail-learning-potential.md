@@ -39,6 +39,18 @@ Literature review section reporting, citing Johnsen (1997) and Kanevsky (1995), 
 
 > "Most of these tests are considered IQ tests and none of them can fully determine a students learning potential (Johnsen, 1997; Kanevsky, 1995)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Is a norm-referenced score on its own an accurate basis for selection or identification?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 theoretical, 1 review), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| McGlonn-Nelson 2005 | q2 · theoretical · r2 | i? | this claim |
+| Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989 | q2 · theoretical · r1 | i? | [SAT scores underpredict the academic performance of high school girls, who average lower s](sat-underpredicts-girls-performance.md) (supports); [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math c](mit-lower-sat-math-scores-equal-performance.md) (supports); [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, w](test-scores-gate-gifted-program-entry.md) (qualifies) |
+| Gifted and talented students at risk for underachievement 2008 | q2 · review · r1 | i? | [Culturally and linguistically diverse students are underrepresented in gifted identificati](gifted-underrepresentation-diverse-students.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

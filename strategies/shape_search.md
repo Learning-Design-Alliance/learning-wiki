@@ -12,7 +12,7 @@ generated:
 # Shape Search
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 4 causal, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (6 quant-synthesis, 5 causal, 1 associational), `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Shape Search is an activity-based strategy in which learners hunt for two- and three-dimensional shapes in their physical environment — classroom objects, buildings, playground equipment, packaging — and name, classify, or sketch what they find. It converts abstract geometric vocabulary into perceptually grounded referents by anchoring each term to multiple real instances. Challenge is typically scaled by moving from prototypical shapes (circles, squares, cubes) to harder or less familiar ones (hexagons, prisms, pyramids in non-standard orientations).
@@ -58,7 +58,7 @@ Shape Search leverages the link between spatial perception and geometric reasoni
 2. Model one search example yourself, naming the shape and justifying the classification aloud.
 3. Send learners to search the environment with a checklist, sketchbook, or camera ([Application](../elements/application.md) of the vocabulary in an authentic setting).
 4. Debrief as a group: learners present finds and justify classifications; the teacher introduces [Non-Examples](../elements/non-examples.md) and borderline cases to sharpen the definitions.
-5. Repeat over time with harder shapes and fewer scaffolds; distributing searches across days improves retention relative to a single session [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Repeat over time with harder shapes and fewer scaffolds; distributing searches across days improves retention relative to a single session [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the search builds on shapes learners already recognize informally

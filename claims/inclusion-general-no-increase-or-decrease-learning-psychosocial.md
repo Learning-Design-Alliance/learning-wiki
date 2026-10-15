@@ -47,7 +47,7 @@ The review's authors' conclusion drawn from three non-significant random effects
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Dalgaard 2022](https://doi.org/10.1002/cl2.1291) | q1 / q2 · quant-synthesis · r3 | i?; i0; i1 | this claim; [Inclusion shows a negligible, non-significant pooled difference for math learning outcomes](inclusion-math-outcomes-smd-005-nonsignificant.md) (supports); [Inclusion shows a negligible, non-significant pooled difference for language and literacy ](inclusion-language-literacy-smd-004-nonsignificant.md) (supports); [Inclusion shows a small, non-significant pooled advantage over segregated placement for ov](inclusion-psychosocial-adjustment-smd-020-nonsignificant.md) (qualifies); [Prior reviews of inclusion published before 2000 reported equivocal effects, including a p](prior-inclusion-reviews-equivocal-wang-baker-033.md) (qualifies); [Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were ](inclusion-effects-heterogeneous-moderator-analyses-inconclusive.md) (qualifies); [The evidence base on inclusion effects is methodologically weak: no randomised studies and](inclusion-evidence-low-quality-serious-risk-of-bias.md) (qualifies) |
-| Doutre 2021 | q2 · associational · r2 | i? | [Inclusive preschool special education benefits students with and without disabilities and ](inclusive-preschool-benefits-reduced-identification.md) (qualifies) |
+| Doutre 2021 | q2 · associational · r2 | i? | [A state funding report's research review, citing earlier studies, states that inclusive pr](inclusive-preschool-benefits-reduced-identification.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

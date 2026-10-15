@@ -1,0 +1,68 @@
+{
+  "principle": "principles/validity-reliability-and-bias-in-classroom-assessment",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "raters-differed-severity-mfrm",
+      "question": "Do markers scoring the same responses agree, and do written criteria bring their judgements closer?",
+      "members": [
+        [
+          "engineering-rubric-low-scoring-reliability",
+          "+"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "dc-lowest-at-score-distribution-peak",
+      "question": "How far can a pass/fail or grade decision near a cut score be trusted, and how should its consistency be reported?",
+      "members": [
+        [
+          "grade-cutoffs-arbitrary-adjacent-scores",
+          "+"
+        ],
+        [
+          "conditional-reliability-low-at-score-tails",
+          "~"
+        ],
+        [
+          "cohens-kappa-paradox-decision-consistency",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "test-taking-motivation-negative-score-bias",
+      "question": "Does disengaged test taking (rapid guessing, low effort) distort scores, and when does it matter for the decision?",
+      "members": [
+        [
+          "rapid-guessing-distorts-test-scores-and-measurement",
+          "+"
+        ],
+        [
+          "rapid-guessing-construct-irrelevant-response-process",
+          "+"
+        ],
+        [
+          "differential-rapid-guessing-distorts-content-representation",
+          "+"
+        ],
+        [
+          "proctor-notification-improves-performance-and-validity",
+          "+"
+        ],
+        [
+          "school-means-stable-despite-differential-engagement",
+          "~"
+        ],
+        [
+          "positive-negative-distortion-cancellation",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

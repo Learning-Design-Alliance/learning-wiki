@@ -27,7 +27,7 @@ World History Project is a free, online, year-long high-school world-history cur
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [World History Project students show comparable competency to comparison students in the other five historical thinking skills](../claims/whp-comparable-other-five-skills.md) [+M]
+- [An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills](../claims/whp-comparable-other-five-skills.md) [+M]
 - [World History Project does not engage students more than business-as-usual curricula on first implementation, with somewhat negative perception trends](../claims/whp-first-year-engagement-negative-trend.md) [-M]
 - [Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories](../claims/whp-first-year-overwhelm-and-modifications.md) [-M]
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](../claims/whp-more-summative-historical-thinking-opportunities.md) [+M]

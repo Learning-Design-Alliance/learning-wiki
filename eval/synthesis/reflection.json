@@ -1,0 +1,66 @@
+{
+  "principle": "principles/reflection",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "reflective-practice-evidence-mixed-in-professional-education",
+      "question": "Does reflecting on a performance improve later learning over no reflection or ordinary instruction?",
+      "members": [
+        [
+          "reflective-questioning-graphical-representations-improve-algebra-outcomes",
+          "+"
+        ],
+        [
+          "analytics-feedback-reflection-strengthen-learning-gains",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
+          "~"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks",
+          "~"
+        ],
+        [
+          "reflective-practice-improves-outcomes-when-structured",
+          "+"
+        ],
+        [
+          "writing-to-learn-improves-understanding",
+          "+"
+        ],
+        [
+          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "-"
+        ],
+        [
+          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "~"
+        ],
+        [
+          "journaling-system-improves-srl-all-groups",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "reflective-practice-improves-outcomes-when-structured",
+      "question": "Do specific, guided prompts produce better reflection and learning than generic or free reflection?",
+      "members": [
+        [
+          "guided-reflection-yields-more-higher-order-paragraphs-than-free",
+          "+"
+        ],
+        [
+          "guided-reflection-produces-longer-reflections",
+          "~"
+        ],
+        [
+          "public-vs-private-reflection-mixed",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,6 +41,7 @@ Lesson from the reflection phase, derived from the authors' structured trainee f
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — the general claim this finding bears on, with the studies behind it
 - [Technology-enhanced tabletop exercises delivered via IXP across 25 exercises and 743 participants showed increased student engagement and collaboration and clearer instructor visibility.](ttx-ixp-25-exercises-743-participants-engagement.md) — related

@@ -12,7 +12,7 @@ generated:
 # RSOWV/TRAP Mnemonics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (2 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 RSOWV (Relax, Slow down, Organize, Write, Visualize) and TRAP (Translate, Repeat, A Picture, Practice) are packaged mnemonic strategies that give learners a step-by-step routine for encoding and retrieving information. RSOWV governs the study episode — settling attention, pacing reading, organizing material, writing key content, and forming visual images — while TRAP governs item-level learning: restating content in one's own words, rehearsing it, generating a mental picture, and practicing retrieval. Both routines combine established techniques (elaborative encoding, imagery, self-testing) into a single teachable procedure.
@@ -37,7 +37,7 @@ Packaged mnemonics work because they operationalize techniques with independent 
 #### Implementation Variability
 - Teach RSOWV as a whole-study-session routine and TRAP as a per-item routine; they can be used independently
 - Substitute drawing for mental imagery where learners struggle to visualize
-- Fold the "Practice" step into spaced review schedules rather than massed repetition [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Fold the "Practice" step into spaced review schedules rather than massed repetition [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Target Learners
 - Students who lack a personal study system and default to rereading [Dunlosky et al. review of learning techniques.](https://doi.org/10.1037/a0029389) [+M]

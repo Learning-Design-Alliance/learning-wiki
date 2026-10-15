@@ -22,7 +22,7 @@ sources:
 # Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2` · `i0` negligible
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Occupational therapy students tested before and after four quarters of varied learning formats exhibited no significant change in learning style. [→ Tamaoka 1985](#tamaoka-1985)

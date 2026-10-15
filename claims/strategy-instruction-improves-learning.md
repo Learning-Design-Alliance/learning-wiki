@@ -78,9 +78,8 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — explains why strategy scaffolds help novices but burden experts
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — possibly the same claim (merge candidate)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a narrower finding that bears on this claim
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — possibly the same claim (merge candidate)
-- [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — a narrower finding that bears on this claim
 - [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — a narrower finding that bears on this claim

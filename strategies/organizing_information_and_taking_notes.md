@@ -12,7 +12,7 @@ generated:
 # Organizing Information and Taking Notes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 This strategy teaches learners to structure and record information deliberately — through graphic organizers (concept maps, matrices, Venn diagrams, flow charts), sorting tasks, and structured note-taking systems such as Cornell Notes. The goal is to convert transient, linear input into an organized external representation that reveals relationships among ideas. Because note-taking skill is not spontaneous, explicit instruction and gradual release toward independent use are essential.
@@ -62,7 +62,7 @@ Organizing information reduces extraneous cognitive load by offloading working m
 - [Annotating](../principles/annotating.md) — text-marking is the reading-side counterpart; both depend on selective attention to importance
 - [Chunking](../principles/chunking.md) — the organizational units learners form are chunks; organizers make chunk boundaries visible
 - [Clear Structure](../principles/clear-structure.md) — well-structured source material is far easier to organize; disorganized input undermines note-taking
-- [Spaced review of notes](../claims/spaced-repetition-improves-retention.md) — notes only pay off when revisited on a spaced schedule, not filed away
+- [Spaced review of notes](../claims/spaced-practice-improves-retention.md) — notes only pay off when revisited on a spaced schedule, not filed away
 - [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](coaching-framework-discussion-guide-grid-questions.md)
 
 ## Examples

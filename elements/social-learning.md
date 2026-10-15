@@ -25,7 +25,7 @@ Social learning is the element in which interaction with peers, models, or commu
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](../claims/csl-one-on-one-partner-contact-disrupts-stereotypes.md) [+W]
-- [Tutoring benefits both tutors and tutees](../claims/tutoring-benefits-tutors-and-tutees.md) [+M]
+- [Tutoring benefits both tutors and tutees](../claims/peer-tutoring-improves-achievement.md) [+M]
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](../claims/students-interaction-empathy-perspective-taking.md) [+W]
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](../claims/instructors-enjoyment-peer-community-engagement.md) [+W]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+M]

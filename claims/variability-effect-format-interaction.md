@@ -44,4 +44,4 @@ Paas and van Merriënboer's (1994a) experiment in geometrical problem solving, a
 ## Related Claims
 
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — the general claim this finding bears on, with the studies behind it
-- [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — related
+- [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related

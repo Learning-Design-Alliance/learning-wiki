@@ -42,6 +42,6 @@ Meta-analysis of testing versus equal-duration restudy comparisons; the author s
 ## Related Claims
 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
-- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — possibly the same claim (merge candidate)
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — possibly the same claim (merge candidate)
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related

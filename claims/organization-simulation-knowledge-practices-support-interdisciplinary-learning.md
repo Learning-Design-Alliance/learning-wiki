@@ -50,6 +50,8 @@ This is a solid, single-context qualitative case study (q2) with real methodolog
 - [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management](cochran-smith-five-types-intellectual-work.md) — related
 - [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — related

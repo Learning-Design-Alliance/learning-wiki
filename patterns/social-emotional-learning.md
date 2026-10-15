@@ -15,7 +15,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (16 for, 9 mixed) · 37 studies (12 causal, 11 quant-synthesis, 10 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 37 report an effect size · 15 claims rest on one study
+> **Evidence** · 24 claims (15 for, 9 mixed) · 37 studies (12 causal, 11 quant-synthesis, 10 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 37 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -138,9 +138,8 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](../claims/schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) [+W]
 - [Students who learned mindfulness-based conflict resolution strategies used them outside school with siblings and friends](../claims/mindfulness-conflict-resolution-transfer-out-of-school.md) [+W]
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](../claims/sel-programs-reduce-behavior-problems-distress.md) [+W]
-- [SEL programs are associated with an 11 percentile-point improvement in academic performance](../claims/sel-programs-11-percentile-academic-gain.md) [+W]
+- [SEL programs are associated with an 11 percentile-point improvement in academic performance](../claims/sel-programs-improve-academic-performance.md) [+W]
 - [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](../claims/sel-requires-educative-inclusive-environments.md) [~W]
-- [SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis](../claims/sel-programs-improve-academic-performance.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

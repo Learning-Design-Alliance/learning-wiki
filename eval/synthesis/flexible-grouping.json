@@ -1,0 +1,32 @@
+{
+  "principle": "principles/flexible-grouping",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests flexible grouping itself; this finding gathers the claims on its comparator, fixed grouping by attainment, and on group composition. The three Chicago double-dose claims are reports from one research programme (Nomi and Allensworth 2010, 2013, 2014).",
+  "findings": [
+    {
+      "hub": "streaming-impacts-negatively-on-learning-outcomes",
+      "question": "Does grouping learners by attainment (streaming, tracking, homogeneous groups) help or harm their learning compared with mixed groups?",
+      "members": [
+        [
+          "sorting-opposite-effects-grades-vs-test-scores",
+          "~"
+        ],
+        [
+          "above-norm-score-gains-peer-ability-spillover",
+          "~"
+        ],
+        [
+          "below-norm-scores-improved-despite-lower-peers",
+          "~"
+        ],
+        [
+          "heterogeneous-teams-more-benefits-than-homogeneous",
+          "+"
+        ],
+        [
+          "mixed-homogeneous-heterogeneous-grouping",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -13,14 +13,14 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 design), `q2`–`q4` · 3 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 10 studies (4 causal, 4 quant-synthesis, 1 review, 1 design), `q2`–`q4` · 4 of 10 report an effect size · 4 claims rest on one study
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
 
 ## Design Implications
 
-Quizzes are one of the most robustly supported instructional elements: testing itself improves long-term retention, often more than restudying the same material [Rowland, 2014 meta-analysis] [+S]. The benefit comes from the act of retrieval, not merely from re-exposure to content, so quiz questions should require learners to produce or select answers from memory rather than simply reread. Feedback is essential — retrieval without corrective feedback can entrench errors, especially for high-confidence wrong answers [High-confidence errors improve retention when corrected.](../claims/high-confidence-errors-improve-retention.md) [~M]. Distributing quizzes over time multiplies the effect, since spaced retrieval produces markedly better retention than massed testing [Spaced retrieval outperforms massed.](../claims/spaced-repetition-improves-retention.md) [+S].
+Quizzes are one of the most robustly supported instructional elements: testing itself improves long-term retention, often more than restudying the same material [Rowland, 2014 meta-analysis] [+S]. The benefit comes from the act of retrieval, not merely from re-exposure to content, so quiz questions should require learners to produce or select answers from memory rather than simply reread. Feedback is essential — retrieval without corrective feedback can entrench errors, especially for high-confidence wrong answers [High-confidence errors improve retention when corrected.](../claims/high-confidence-errors-improve-retention.md) [~M]. Distributing quizzes over time multiplies the effect, since spaced retrieval produces markedly better retention than massed testing [Spaced retrieval outperforms massed.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

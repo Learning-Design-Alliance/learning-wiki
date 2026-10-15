@@ -1,0 +1,120 @@
+{
+  "principle": "patterns/worked-examples",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "worked-examples-with-practice-improve-transfer",
+      "question": "Do novices learn more from studying worked examples than from solving the same problems unaided?",
+      "members": [
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "worked-examples-improve-math-performance",
+          "+"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "+"
+        ],
+        [
+          "worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game",
+          "+"
+        ],
+        [
+          "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps",
+          "~"
+        ],
+        [
+          "solved-problems-improve-algebra-achievement",
+          "~"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ],
+        [
+          "identical-example-problem-order-advantage-not-detected-at-final-test",
+          "~"
+        ],
+        [
+          "alternating-example-problem-pairs",
+          "+"
+        ],
+        [
+          "modeling-training-improves-imaginative-play",
+          "+"
+        ],
+        [
+          "teacher-modeling-internalizes-reading-strategies",
+          "+"
+        ],
+        [
+          "mentor-modelling-strategies-transfer-mentee-behaviour-management",
+          "+"
+        ],
+        [
+          "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game",
+          "+"
+        ],
+        [
+          "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "worked-examples-less-effective-with-expertise",
+      "question": "For whom: how does the benefit change with prior knowledge?",
+      "members": [
+        [
+          "expertise-reversal-worked-examples-review",
+          "+"
+        ],
+        [
+          "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
+          "+"
+        ],
+        [
+          "prior-knowledge-by-worked-example-type-interaction-on-germane-load",
+          "~"
+        ],
+        [
+          "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest",
+          "~"
+        ],
+        [
+          "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "fading-worked-steps-facilitates-example-to-problem-transition",
+      "question": "How should learners move from studying examples to solving problems alone?",
+      "members": [
+        [
+          "fading-and-principle-prompts-improve-probability-transfer",
+          "+"
+        ],
+        [
+          "learners-learn-most-about-faded-principles",
+          "+"
+        ],
+        [
+          "faded-step-position-no-learning-outcome-effect",
+          "~"
+        ],
+        [
+          "faded-steps-hypothesized-trigger-self-explanations",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

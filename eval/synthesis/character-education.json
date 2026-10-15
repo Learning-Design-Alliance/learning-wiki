@@ -1,0 +1,66 @@
+{
+  "principle": "principles/character-education",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "positive-action-positive-effects-behavior",
+      "question": "Do schoolwide character-education programmes change students' behaviour, and do they also move knowledge, attitudes, values and achievement?",
+      "members": [
+        [
+          "csc-potentially-positive-behavior-effects",
+          "+"
+        ],
+        [
+          "positive-action-violence-reduced-boys-not-girls",
+          "~"
+        ],
+        [
+          "positive-action-positive-effects-academic-achievement",
+          "+"
+        ],
+        [
+          "positive-action-no-significant-effect-state-test-scores",
+          "~"
+        ],
+        [
+          "csc-no-discernible-kav-effects",
+          "~"
+        ],
+        [
+          "csc-no-discernible-academic-effects",
+          "~"
+        ],
+        [
+          "wwc-recalculation-nullifies-reported-cdp-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "service-learning-improves-civic-and-personal-outcomes",
+      "question": "Does community-based or service learning change civic commitment, attitudes and self-reported growth?",
+      "members": [
+        [
+          "service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment",
+          "+"
+        ],
+        [
+          "experiencing-civic-community-fosters-commitment",
+          "+"
+        ],
+        [
+          "bds-service-learning-potentially-positive-kav",
+          "+"
+        ],
+        [
+          "bds-curriculum-adds-beyond-service-learning-alone",
+          "~"
+        ],
+        [
+          "bds-null-self-esteem-general-responsibility",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

@@ -12,14 +12,14 @@ generated:
 # Syllabication Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Syllabication instruction explicitly teaches the six basic syllable types (closed, open, vowel-consonant-e, vowel team, r-controlled, and consonant-le) and the patterns that govern how written words divide into syllables. Once children understand, for example, how open, closed, and consonant-le syllables work, they can reliably predict when to double consonants in words ending with a consonant-le syllable (e.g., *bubble*, *little*). Instruction proceeds from simple to complex syllable types, with guided practice dividing, reading, and spelling words that exemplify each pattern.
 
 ## Design Implications
 
-Syllabication gives learners a structural schema for attacking multisyllable words, reducing the working-memory burden of decoding letter-by-letter and freeing resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. It works only as part of systematic, explicit phonics instruction — teaching syllable types in isolation or incidentally produces weak effects compared with structured sequences that pair each type with immediate [Practice](../elements/practice.md) and [Provide Feedback](../elements/provide-feedback.md) [Systematic phonics instruction outperforms nonsystematic or no phonics instruction.](../claims/systematic-phonics-improves-word-reading.md) [+S].
+Syllabication gives learners a structural schema for attacking multisyllable words, reducing the working-memory burden of decoding letter-by-letter and freeing resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. It works only as part of systematic, explicit phonics instruction — teaching syllable types in isolation or incidentally produces weak effects compared with structured sequences that pair each type with immediate [Practice](../elements/practice.md) and [Provide Feedback](../elements/provide-feedback.md) [Systematic phonics instruction outperforms nonsystematic or no phonics instruction.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Syllabication gives learners a structural schema for attacking multisyllable wor
 - Immediate corrective feedback during word reading and spelling attempts ([Provide Feedback](../elements/provide-feedback.md))
 
 #### Constraints
-- Ineffective when taught as an isolated rule set without application to real reading and writing of connected text [Systematic phonics instruction outperforms nonsystematic or no phonics instruction.](../claims/systematic-phonics-improves-word-reading.md) [-M]
+- Ineffective when taught as an isolated rule set without application to real reading and writing of connected text [Systematic phonics instruction outperforms nonsystematic or no phonics instruction.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [-M]
 - Requires accurate teacher knowledge of syllable structure; misclassification of syllable types (e.g., treating *-tion* as two syllables) creates confusion
 - Overreliance on syllable division routines can slow fluent readers; instruction should fade as automatic word recognition develops [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [~M]
 - English orthography is not fully regular; syllable rules are probabilistic and must be taught with exceptions acknowledged
@@ -41,7 +41,7 @@ Syllabication gives learners a structural schema for attacking multisyllable wor
 
 ### Target Learners
 - Students in grades 2–4 who have mastered single-syllable decoding and are transitioning to multisyllable words
-- Struggling readers and spellers, including students with dyslexia, who benefit from explicit structure rather than discovery [Systematic phonics instruction outperforms nonsystematic or no phonics instruction.](../claims/systematic-phonics-improves-word-reading.md) [+S]
+- Struggling readers and spellers, including students with dyslexia, who benefit from explicit structure rather than discovery [Systematic phonics instruction outperforms nonsystematic or no phonics instruction.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]
 - Older struggling readers and adolescents, for whom syllable-based strategies improve multisyllable word reading and spelling [~M]
 - Less necessary for students who have already internalized orthographic patterns through extensive reading
 

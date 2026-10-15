@@ -1,0 +1,28 @@
+{
+  "principle": "principles/functional-behavior-assessment",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. The three fba-* claims are one WWC intervention report (2016).",
+  "findings": [
+    {
+      "hub": "fba-potentially-positive-school-engagement",
+      "question": "Do interventions chosen from a functional assessment of a learner's behavior improve that learner's behavior and engagement?",
+      "members": [
+        [
+          "fba-evidence-base-single-case-only",
+          "~"
+        ],
+        [
+          "fba-social-emotional-competence-below-threshold",
+          "~"
+        ],
+        [
+          "context-unlinked-strategies-increase-problem-behavior",
+          "+"
+        ],
+        [
+          "inappropriate-behavior-maintained-by-escape-and-attention",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

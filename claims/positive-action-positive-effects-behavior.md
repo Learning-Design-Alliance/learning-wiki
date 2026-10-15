@@ -39,6 +39,17 @@ WWC aggregation of behavior-domain findings from one randomized controlled trial
 
 > "Domain average8 across studies 0.51 na +19"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do schoolwide character-education programmes change students' behaviour, and do they also move knowledge, attitudes, values and achievement?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **2 distinct studies** (2 quant-synthesis), `q2`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| WWC Intervention Report: Positive Action 2007 | q3 · quant-synthesis · r? | i2; i1; i? | this claim; [In the Hawaii randomized trial, Positive Action reduced serious violence among boys but no](positive-action-violence-reduced-boys-not-girls.md) (qualifies); [Positive Action has positive effects on elementary school students' academic achievement, ](positive-action-positive-effects-academic-achievement.md) (supports); [In the Hawaii randomized trial, Positive Action showed no statistically significant effect](positive-action-no-significant-effect-state-test-scores.md) (qualifies) |
+| What Works Clearinghouse 2007 | q2 · quant-synthesis · r1 | i? | [The Child Development Project/CSC shows potentially positive effects on student behavior, ](csc-potentially-positive-behavior-effects.md) (supports); [CSC/CDP shows no discernible effects on knowledge, attitudes, and values](csc-no-discernible-kav-effects.md) (qualifies); [CSC/CDP shows no discernible effects on academic achievement](csc-no-discernible-academic-effects.md) (qualifies); [Statistically significant effects reported by the CDP studies were not statistically signi](wwc-recalculation-nullifies-reported-cdp-effects.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

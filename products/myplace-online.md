@@ -27,7 +27,7 @@ A Philadelphia Mayor's Commission on Literacy online cohort learning programme a
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners](../claims/cohort-support-improves-adult-persistence.md) [+W]
+- [An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence](../claims/cohort-support-improves-adult-persistence.md) [+W]
 
 ## Related Products and Programmes
 -

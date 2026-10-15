@@ -1,0 +1,90 @@
+{
+  "principle": "principles/social-presence",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "social-presence-strongest-metacognition-association-cbi",
+      "question": "In an online community of inquiry, which presences go with learners' regulation and learning?",
+      "members": [
+        [
+          "co-regulation-stronger-presence-relationships-than-self-regulation",
+          "+"
+        ],
+        [
+          "cognitive-presence-highest-least-variable-online-cbi",
+          "~"
+        ],
+        [
+          "coi-presence-uneven-profile-mba",
+          "~"
+        ],
+        [
+          "peer-monitoring-exceeds-social-presence",
+          "~"
+        ],
+        [
+          "online-labs-better-with-instructor-scaffolds",
+          "~"
+        ],
+        [
+          "discussion-board-no-negative-feedback-synchrony-required",
+          "~"
+        ],
+        [
+          "motivation-social-presence-boost-engagement-agentic-ai",
+          "+"
+        ],
+        [
+          "mba-students-experience-courses-as-coi",
+          "~"
+        ],
+        [
+          "human-embodiment-video-presence-effects",
+          "~"
+        ],
+        [
+          "self-co-regulation-highly-correlated-online-cbi",
+          "~"
+        ],
+        [
+          "learner-presence-three-qualities-mba",
+          "~"
+        ],
+        [
+          "course-template-supports-learner-presence",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "online-communities-must-be-designed-and-scaffolded",
+      "question": "Does community in an online course have to be designed for, and which moves are reported to build it?",
+      "members": [
+        [
+          "online-community-requires-conscious-effort",
+          "+"
+        ],
+        [
+          "web-conferences-support-online-community",
+          "+"
+        ],
+        [
+          "virtual-communities-counter-supervision-isolation",
+          "+"
+        ],
+        [
+          "spice-learners-report-reduced-isolation",
+          "+"
+        ],
+        [
+          "microblogging-promotes-interaction-community-language-learners",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

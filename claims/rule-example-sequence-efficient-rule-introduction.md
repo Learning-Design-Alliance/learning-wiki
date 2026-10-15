@@ -1,7 +1,7 @@
 ---
 type: claim
 title: A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule
-description: Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work
+description: "A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule"
 id: rule-example-sequence-efficient-rule-introduction
 status: draft
 generated:

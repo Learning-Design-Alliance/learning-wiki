@@ -1,0 +1,42 @@
+{
+  "principle": "principles/epistemic-cognition",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "civic-online-reasoning-instruction-improves-evaluation",
+      "question": "Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?",
+      "members": [
+        [
+          "checklist-evaluation-ineffective-online",
+          "~"
+        ],
+        [
+          "ai-media-literacy-program-large-posttest-gains",
+          "+"
+        ],
+        [
+          "collaborative-evidence-critique-shifts-students-toward-procedural-objectivity",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "argumentation-improves-reasoning",
+      "question": "Does structured argument with peers improve learners' individual argument and content learning?",
+      "members": [
+        [
+          "argumentation-prompts-scaffolds-knowledge-gains",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

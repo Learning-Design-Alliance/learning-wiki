@@ -12,7 +12,7 @@ generated:
 # Latin And Greek Roots For Academic Vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 This strategy teaches learners the small set of Latin and Greek roots, prefixes, and suffixes (e.g., *spect*, *port*, *dict*; *bio-*, *-ology*, *trans-*) that generate a disproportionate share of academic and technical vocabulary. Rather than memorizing words one at a time, learners analyze morphological structure to infer meanings of novel words and to connect related words into families (*inspect*, *spectator*, *perspective*). Instruction typically combines explicit teaching of a target morpheme, analysis of example words, and application to unfamiliar words in context.
@@ -26,7 +26,7 @@ Morphological analysis functions as a generative decoding strategy: a few hundre
 - A curated set of high-frequency, high-yield morphemes (prioritize those appearing across disciplines, e.g., *form*, *struct*, *ject*, *-tion*, *con-*, *pre-*)
 - Explicit instruction with word families, not isolated root lists ([Analogies](../elements/analogies.md) and [Advance Organizers](../elements/advance-organizers.md) help structure the family)
 - Application to authentic texts where learners encounter the morphemes in discipline contexts
-- Distributed review, since root knowledge decays without spaced retrieval [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Distributed review, since root knowledge decays without spaced retrieval [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Root meanings are unreliable for many high-frequency words with obscured etymology (*circumstance*, *subject* used idiomatically); overgeneralization produces false inferences [~M]
@@ -58,7 +58,7 @@ Morphological analysis functions as a generative decoding strategy: a few hundre
 3. Build a word family with learners, sorting words by shared root and discussing meaning shifts ([Analogies](../elements/analogies.md)).
 4. Apply: present unfamiliar words containing the root and have learners infer meanings, then verify against context.
 5. Have learners [Annotate](../principles/annotating.md) morpheme boundaries in authentic discipline texts.
-6. Review previously taught roots on a spaced schedule [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Review previously taught roots on a spaced schedule [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 

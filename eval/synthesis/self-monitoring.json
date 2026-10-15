@@ -1,0 +1,62 @@
+{
+  "principle": "principles/self-monitoring",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim isolates self-monitoring against its absence on a learning outcome; the first finding gathers the nearest tests.",
+  "findings": [
+    {
+      "hub": "self-monitoring-comprehension-improves-learning",
+      "question": "Does teaching learners to check their own work during a task improve their performance on it?",
+      "members": [
+        [
+          "metacognitive-prompts-improve-learning",
+          "+"
+        ],
+        [
+          "self-monitoring-improves-self-regulation",
+          "+"
+        ],
+        [
+          "self-monitoring-improves-on-task-behavior",
+          "~"
+        ],
+        [
+          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "self-assessment-accuracy-is-low-without-training",
+      "question": "Can learners' own monitoring be trusted, and can it be trained?",
+      "members": [
+        [
+          "fluent-illusions-mislead-self-assessment",
+          "+"
+        ],
+        [
+          "prior-knowledge-needed-for-accurate-self-assessment",
+          "+"
+        ],
+        [
+          "self-assessment-improves-self-regulated-learning",
+          "~"
+        ],
+        [
+          "apca-improves-self-assessment-accuracy-overconfidence",
+          "+"
+        ],
+        [
+          "no-trace-format-supported-calibrated-self-evaluation",
+          "+"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

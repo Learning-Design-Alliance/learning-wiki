@@ -1,0 +1,72 @@
+{
+  "principle": "principles/game-based-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "serious-games-better-content-knowledge-than-traditional",
+      "question": "Does learning through a full game raise capability on a measure outside the game more than non-game instruction?",
+      "members": [
+        [
+          "simulation-games-higher-skill-based-knowledge",
+          "+"
+        ],
+        [
+          "game-based-practice-outperforms-traditional-l2-vocabulary-instruction",
+          "+"
+        ],
+        [
+          "dgbl-long-term-vocabulary-retention",
+          "+"
+        ],
+        [
+          "adventure-games-supplementary-material-vocabulary",
+          "+"
+        ],
+        [
+          "intelligent-tutor-lynnette-outperformed-dragonbox-on-test",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "game-design-moderates-dgbl-effectiveness",
+      "question": "Does what the game's moves ask of the learner decide whether it teaches?",
+      "members": [
+        [
+          "number-board-games-improve-numerical-knowledge",
+          "+"
+        ],
+        [
+          "moderate-agency-better-learning-outcomes",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game",
+      "question": "Do modelling, tutoring or bridging instruction added around play raise what learners take from a game?",
+      "members": [
+        [
+          "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game",
+          "+"
+        ],
+        [
+          "worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game",
+          "+"
+        ],
+        [
+          "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps",
+          "~"
+        ],
+        [
+          "online-tutoring-plus-game-improves-fraction-learning",
+          "+"
+        ],
+        [
+          "bridging-activities-connect-game-learning-to-instruction",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

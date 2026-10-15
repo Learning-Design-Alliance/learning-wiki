@@ -47,10 +47,10 @@ Teacher self-reports at semester's end indicated the same amount of material was
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Fitzpatrick 1985 | q2 · causal · r2 | i? | this claim; [Trained teachers allocated about 20 percent of class time to the feedback-corrective/enric](training-increases-feedback-corrective-loop-time.md) (qualifies) |
-| [Nicole Shechtman 2019](https://doi.org/10.1177/2332858419850482) | q1 · causal · r2 | i? | [The authors interpret the null result as partly reflecting a tension between adaptive mast](adaptive-mastery-versus-coverage-tension-null-result.md) (counts against) |
 | [Price 2026](https://doi.org/10.54300/810.406) | q2 · qualitative · r? | i? | [Teachers viewed district pacing calendars and standardized assessments as impediments when](pacing-calendars-standardized-assessments-impediments.md) (qualifies) |
 | Gadgil 2016 | q2 · design · r2 | i? | [In eSpark quests requiring three post-quiz attempts, students reached the 80 percent maste](espark-post-quiz-mastery-failure-rate.md) (qualifies) |
 | Alexandre Clin Deffarges 2026 | q2 · causal · r2 | i3 | [Socratic participants required nearly twice as many attempts to reach the 80% mastery thre](socratic-more-attempts-many-never-reach-mastery.md) (qualifies) |
+| [Nicole Shechtman 2019](https://doi.org/10.1177/2332858419850482) | q1 · causal · r2 | i? | [The authors interpret the null result as partly reflecting a tension between adaptive mast](adaptive-mastery-versus-coverage-tension-null-result.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion

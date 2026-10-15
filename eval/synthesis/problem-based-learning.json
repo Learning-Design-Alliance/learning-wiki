@@ -87,14 +87,6 @@
           "+"
         ],
         [
-          "explicit-instruction-beats-unassisted-discovery",
-          "+"
-        ],
-        [
-          "guided-discovery-outperforms-pure-discovery",
-          "+"
-        ],
-        [
           "minimal-guidance-inquiry-inferior-explicit-instruction",
           "+"
         ],

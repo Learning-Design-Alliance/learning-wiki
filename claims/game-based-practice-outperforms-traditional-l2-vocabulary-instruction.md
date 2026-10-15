@@ -23,7 +23,7 @@ sources:
 # Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large · n=48
+> **Evidence** · 1 study · causal `r1` · `q2` · n=48
 
 Rated weak deliberately: the result is clean and the population is unusual on every axis. The
 paper's note on articles is an implementation detail, not a finding: no article outcome was measured.
@@ -80,9 +80,13 @@ either alone](pairing-contextual-encounters-with-explicit-instruction-produces-s
 
 ## Related Claims
 
+- [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
+- [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — the general claim this finding bears on, with the studies behind it
+
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — the same first-language-gap effect, measured
 - [Pairing contextual encounters with explicit instruction produces stronger vocabulary outcomes than either alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — the stronger general claim about vocabulary instruction
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — the limit on exposure alone, which an immersion context makes easy to overestimate
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — the limit on exposure alone, which an immersion context makes easy to overestimate
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
 - [Adults may have superior language learning capabilities in vocabulary and language structure](adults-superior-vocabulary-structure-learning.md) — related

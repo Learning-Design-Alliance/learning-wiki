@@ -41,7 +41,8 @@ The review reports this finding from British progression research (attributed to
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [British empirical research concluded that students do not naturally progress in historical understanding with age but progress because of targeted instruction designed to support it](targeted-instruction-drives-historical-thinking-progression.md) — related
 - [Empirical progression research is uneven across historical thinking dimensions: most research covers causal reasoning and sourcing, while contextualization and comparison remain thin](uneven-progression-research-across-dimensions.md) — related

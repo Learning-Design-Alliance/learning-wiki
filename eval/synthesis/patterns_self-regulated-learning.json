@@ -1,0 +1,136 @@
+{
+  "principle": "patterns/self-regulated-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. All three hubs and questions are reused verbatim from eval/synthesis/self-regulated-learning.json. The four MetaTutor compliance claims are one study (Lalle et al. 2017).",
+  "findings": [
+    {
+      "hub": "self-regulated-learning-improves-achievement",
+      "question": "Does teaching and prompting self-regulation improve achievement over ordinary instruction?",
+      "members": [
+        [
+          "metacognitive-strategies-improve-learning",
+          "+"
+        ],
+        [
+          "srl-strategies-large-effect-academic-achievement",
+          "+"
+        ],
+        [
+          "srl-interventions-moderate-effect-online-blended",
+          "+"
+        ],
+        [
+          "self-monitoring-comprehension-improves-learning",
+          "+"
+        ],
+        [
+          "self-monitoring-improves-self-regulation",
+          "+"
+        ],
+        [
+          "short-srl-strategy-training-enhances-math-performance",
+          "+"
+        ],
+        [
+          "srsd-potentially-positive-writing-achievement-sld",
+          "+"
+        ],
+        [
+          "srsd-evidence-base-group-design-null",
+          "~"
+        ],
+        [
+          "srl-effect-sizes-heterogeneous-random-effects",
+          "~"
+        ],
+        [
+          "srl-meta-analysis-publication-bias-absent",
+          "+"
+        ],
+        [
+          "srl-meta-analysis-no-publication-bias",
+          "+"
+        ],
+        [
+          "implementation-intentions-improve-goal-attainment",
+          "+"
+        ],
+        [
+          "self-determination-instruction-improves-outcomes",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "metacognitive-prompts-improve-learning",
+      "question": "Do planning, monitoring and evaluation prompts help, and which ones?",
+      "members": [
+        [
+          "review-notes-compliance-predicts-learning-gains",
+          "+"
+        ],
+        [
+          "revise-summary-compliance-predicts-learning-gains",
+          "+"
+        ],
+        [
+          "suggest-subgoal-compliance-predicts-learning-gains",
+          "+"
+        ],
+        [
+          "no-learning-effect-for-four-explicit-srl-prompts",
+          "~"
+        ],
+        [
+          "no-learning-effect-for-metacognitive-monitoring-prompts",
+          "~"
+        ],
+        [
+          "metacognitive-alone-not-effective-regulation",
+          "~"
+        ],
+        [
+          "srl-change-no-posttest-association",
+          "~"
+        ],
+        [
+          "reflective-scaffolding-habituation-deskilling",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "self-assessment-accuracy-is-low-without-training",
+      "question": "Can learners' own monitoring be trusted, and can it be trained?",
+      "members": [
+        [
+          "fluent-illusions-mislead-self-assessment",
+          "+"
+        ],
+        [
+          "prior-knowledge-needed-for-accurate-self-assessment",
+          "+"
+        ],
+        [
+          "self-assessment-improves-self-regulated-learning",
+          "~"
+        ],
+        [
+          "apca-improves-self-assessment-accuracy-overconfidence",
+          "+"
+        ],
+        [
+          "no-trace-format-supported-calibrated-self-evaluation",
+          "+"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

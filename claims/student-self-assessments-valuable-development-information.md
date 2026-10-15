@@ -41,8 +41,9 @@ The study's analysis of Chicago Public Schools annual student survey results sup
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment](eportfolio-effective-self-assessment-information-literacy.md) — related
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — related
 - [Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs](response-time-metadata-gap-social-emotional-constructs.md) — related

@@ -43,7 +43,7 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **7 distinct studies** (5 review, 2 quant-synthesis), `q2`–`q4`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **9 distinct studies** (5 review, 2 quant-synthesis, 2 qualitative), `q2`–`q4`, 2 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -54,6 +54,8 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 | [Jiang Hongzhan 2026](https://doi.org/10.2196/95167) | q3 · review · r3 | i? | [AI-powered simulations show short-term gains in communication confidence and structured kn](ai-simulation-short-term-gains-nursing.md) (qualifies); [One RCT found AI-assisted simulation inferior to standardized patient simulation for breas](ai-simulation-inferior-bse-skills.md) (counts against) |
 | [Zhao J 2026](https://doi.org/10.3389/feduc.2026.1907589) | q2 · review · r3 | i? | [Controlled GenAI virtual-patient and communication studies reported short-term skill gains](genai-virtual-patient-short-term-gains-mixed.md) (qualifies) |
 | [Malikova Z 2026](https://doi.org/10.3389/feduc.2026.1964629) | q2 · review · r3 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
+| [Liang 2026](https://doi.org/10.3389/fneur.2026.1915268) | q2 · qualitative · r3 | i? | [The closer training content is to authentic clinical scenarios, the smoother its translati](contextualized-teaching-facilitates-transfer.md) (supports) |
+| [Muukkonen & Kajamaa 2024](https://doi.org/10.1080/10508406.2024.2344794) | q2 · qualitative · r3 | i? | [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -69,6 +71,8 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 **Rating withheld.** The meta-analysis recorded above compares simulation with no intervention, not with equally long non-simulation practice, so it cannot say whether simulation beats matched practice; its subgroup analyses found no consistent significant interaction with curricular integration, distributed practice, feedback, mastery learning or repetitive practice, and fidelity was not among the features the entry records. Further syntheses worth recording include the health-professions simulation meta-analytic literature (e.g., on simulation-based training versus non-simulation instruction) and aviation/military training-effectiveness research; each entry should record design conditions (feedback, repetition, fidelity, integration) so the moderators above can be tested rather than assumed.
 
 ## Related Claims
+
+- [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — the general claim this finding bears on, with the studies behind it
 
 - [Feedback improves learning.](feedback-improves-learning.md) — feedback is the core active ingredient in most simulation designs
 - [Deliberate practice improves performance.](deliberate-practice-improves-performance.md) — the practice mechanism simulation is typically built to deliver

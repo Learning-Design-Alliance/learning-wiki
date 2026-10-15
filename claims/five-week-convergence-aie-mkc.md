@@ -41,8 +41,9 @@ Between-group analysis of five-week change scores in the follow-up sample (N = 1
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](experiential-learning-engagement-skills-ethical-reasoning.md) — the general claim this finding bears on, with the studies behind it
 - [Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition](experiential-beats-instructional-immediate-aie-mkc.md) — related
 - [The experiential group showed a delayed, continued within-group increase in regulation of cognition that the instructional group did not show](experiential-delayed-mrc-increase.md) — related
 - [Both groups showed large sustained five-week gains in AI engagement](sustained-aie-gains-both-groups.md) — related

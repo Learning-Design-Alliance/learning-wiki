@@ -41,8 +41,9 @@ Theoretical argument in the situated learning section of this position paper. Th
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
 - [Analogical Reasoning Improves Transfer](analogical-reasoning-improves-transfer.md) — related
 - [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — related

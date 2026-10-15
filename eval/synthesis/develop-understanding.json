@@ -1,0 +1,62 @@
+{
+  "principle": "patterns/develop-understanding",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. The misconception hub's question is kept verbatim from the cognitive-disequilibrium spec; the self-explanation hub's question is shared with the modeling spec of this pass.",
+  "findings": [
+    {
+      "hub": "self-explanation-improves-conceptual-understanding",
+      "question": "Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?",
+      "members": [
+        [
+          "self-explanation-effective-across-instructional-conditions",
+          "+"
+        ],
+        [
+          "self-explanation-improves-abstract-transfer",
+          "+"
+        ],
+        [
+          "self-explanation-far-transfer-geometry-classroom",
+          "~"
+        ],
+        [
+          "self-explanation-time-on-task-cost",
+          "~"
+        ],
+        [
+          "erroneous-examples-build-conceptual-knowledge",
+          "+"
+        ],
+        [
+          "constructive-learning-beats-active-passive",
+          "~"
+        ],
+        [
+          "model-comparison-noticing-lexical",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "misconceptions-interfere-with-new-learning",
+      "question": "Does naming and refuting the misconception help?",
+      "members": [
+        [
+          "refutational-text-order-enhances-retention",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-improves-misbelief-items-pretest-posttest",
+          "+"
+        ],
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "+"
+        ],
+        [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,8 +41,9 @@ Follow-up outcomes from the same randomized trial of 1,224 ninth-graders: "no st
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 - [Online Algebra I credit recovery students were less likely to recover credit and scored lower on an algebra post-test than face-to-face students](online-credit-recovery-lower-credit-and-posttest.md) — reports the opposite
 - [Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses](online-credit-recovery-evidence-gap.md) — a broader claim this one bears on
 - [Students in online Algebra I credit recovery reported that the course was more difficult than students in face-to-face credit recovery reported](online-credit-recovery-perceived-more-difficult.md) — related

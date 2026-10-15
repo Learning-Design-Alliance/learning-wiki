@@ -1,0 +1,28 @@
+{
+  "principle": "principles/explicit-instruction-online-reading-strategies",
+  "note": "Wave 11 (2026-10-15). Grouping and directions by an agent from the claims' titles and evidence entries. The hub is general reading-strategy instruction on print texts, the parent of this page's topic; no claim in the wiki tests strategy instruction for online reading. Members are print-reading strategy-instruction studies (Üstündağ-Algın 2025; Yurttaş-Kumlu 2023), so the finding rests on four distinct studies including the hub's two meta-analyses.",
+  "findings": [
+    {
+      "hub": "reading-strategy-instruction-improves-comprehension",
+      "question": "Does explicitly teaching reading strategies (modelled, practised and named) improve comprehension beyond reading practice alone, and how far does that hold in ordinary classrooms?",
+      "members": [
+        [
+          "explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension",
+          "+"
+        ],
+        [
+          "teacher-modeling-internalizes-reading-strategies",
+          "+"
+        ],
+        [
+          "explicit-instruction-highest-cognitive-strategy-use",
+          "+"
+        ],
+        [
+          "strategy-instruction-increases-metacognitive-strategy-use",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

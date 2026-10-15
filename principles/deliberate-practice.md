@@ -23,7 +23,7 @@ sources:
 # Deliberate Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (9 for, 8 mixed) · 28 studies (13 quant-synthesis, 5 causal, 5 review, 5 theoretical), `q1`–`q4` · 12 of 28 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (9 for, 8 mixed) · 28 studies (13 quant-synthesis, 5 causal, 5 review, 5 theoretical), `q1`–`q4` · 11 of 28 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,7 +121,7 @@ Claims this page cited before it was rewritten, and other deliberate-practice cl
 - [Students in the deliberate practice group reported increased satisfaction with the learning process](../claims/deliberate-practice-increases-student-satisfaction.md) [+W] — the same dissertation; self-reported satisfaction in the experimental group only.
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](../claims/deliberate-practice-expands-memory-capacity.md) [+W] — a second-hand report, in the same dissertation, of the digit-span training studies; one entry at `q1`. Shows that specific practice can change a capacity thought fixed; not a design finding.
 - [Imbalanced challenge and support causes novice library learners to give up or remain dependent](../claims/challenge-support-imbalance-effects-novice-learners.md) [~W] — a practitioner assertion with no data (`q1`). Used above only to name the risk of giving up.
-- [Desirable Difficulties Enhance Learning](../claims/desirable-difficulties-enhance-learning.md) [~S] — three meta-analyses on quizzing, spaced retrieval and interleaving. Bears on how practice is scheduled, for studied material rather than performance skills.
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](../claims/desirable-difficulties-enhance-learning.md) [~S] — three meta-analyses on quizzing, spaced retrieval and interleaving. Bears on how practice is scheduled, for studied material rather than performance skills.
 - [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S] — used above for revisiting finished components; tested on retention of studied material, not on maintaining a refined skill.
 
 ## Objective and learner-valued goal

@@ -13,7 +13,7 @@ generated:
 # Tiered Vocabulary Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (5 causal, 4 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (6 causal, 5 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
 
 ## Description
 Tiered vocabulary instruction sorts words into three tiers based on frequency and utility. Tier One words (e.g., *run*, *happy*) are basic and rarely need teaching; Tier Two words (e.g., *analyze*, *coincidence*, *reluctant*) are high-frequency across contexts for mature language users and are the primary target of direct instruction; Tier Three words (e.g., *photosynthesis*, *tariff*) are low-frequency and domain-specific, best taught within content-area units rather than as general vocabulary. Instruction concentrates on Tier Two words because each one pays off across many texts, subjects, and communicative situations, giving learners more precise and mature expression.
@@ -30,7 +30,7 @@ The strategy operationalizes a core insight from vocabulary research: instructio
 - Repeated, spaced encounters with each word across days and contexts
 - A principled selection process: mine texts and content units for Tier Two candidates, then filter for utility, conceptual load, and instructional value
 - Rich, definitional-plus-contextual instruction — student-friendly explanations, multiple examples across contexts, and comparison with related words ([Analogies](../elements/analogies.md), [Non-Examples](../elements/non-examples.md))
-- Multiple spaced encounters with each word over days and weeks [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Multiple spaced encounters with each word over days and weeks [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 #### Constraints
 - Tier classification is judgment-based and unreliable when applied mechanically; a word that is Tier Two for a fifth grader may be Tier One for a tenth grader, so lists must be calibrated to the actual learners [-M]
@@ -118,7 +118,7 @@ The tiering framework is fundamentally a selection and prioritization tool: beca
 #### Requirements
 - A principled selection process: mine texts and content units for Tier Two candidates, then filter for utility, conceptual load, and instructional value
 - Rich, definitional-plus-contextual instruction — student-friendly explanations, multiple examples across contexts, and comparison with related words ([Analogies](../elements/analogies.md), [Non-Examples](../elements/non-examples.md))
-- Multiple spaced encounters with each word over days and weeks [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Multiple spaced encounters with each word over days and weeks [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Structured opportunities for active use in speaking and writing ([Practice](../elements/practice.md))
 
 #### Constraints
@@ -149,7 +149,7 @@ The tiering framework is fundamentally a selection and prioritization tool: beca
 2. **Pre-teach with context**: Introduce each word with a student-friendly explanation and examples drawn from the text where it appears ([Activating Prior Knowledge](../strategies/activating-prior-knowledge.md))
 3. **Deepen**: Run activities requiring discrimination and use — word–situation matching, "agree/disagree with the statement using the word," comparing near-synonyms ([Analogies](../elements/analogies.md))
 4. **Practice across modalities**: Have learners use the words in speaking and writing with feedback ([Practice](../elements/practice.md))
-5. **Space and revisit**: Re-encounter words in later lessons, reviews, and new texts [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+5. **Space and revisit**: Re-encounter words in later lessons, reviews, and new texts [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 6. **Assess in use**: Evaluate whether learners recognize and deploy Tier Two words in comprehension tasks and their own compositions, not just on matching quizzes
 
 ## Related Strategies

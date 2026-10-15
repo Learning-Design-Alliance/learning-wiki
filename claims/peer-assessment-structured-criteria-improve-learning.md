@@ -59,6 +59,8 @@ Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes)
 
 ## Related Claims
 
+- [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — the general claim this finding bears on, with the studies behind it
+
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — structured peer assessment is a form of assessment that feeds learning rather than merely certifying it
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related: a checklist taught for evaluating online sources, not a peer-assessment rubric; it does not test whether rubrics breed compliance <!-- deprecated (2026-10-05): a caution that criteria structure alone, without substantive judgment, can produce shallow review -->
 - [Self-regulated learning](../theories/self-regulated-learning.md) — evaluating peers against criteria exercises the self-monitoring and judgment central to self-regulation

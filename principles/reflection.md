@@ -19,7 +19,7 @@ sources:
 # Reflection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 19 studies (6 causal, 5 quant-synthesis, 3 theoretical, 2 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 19 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 19 studies (6 causal, 5 quant-synthesis, 3 theoretical, 2 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 19 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 

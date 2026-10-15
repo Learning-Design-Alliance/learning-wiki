@@ -1,0 +1,52 @@
+{
+  "principle": "patterns/elaboration-theory",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "advance-organizers-improve-learning",
+      "question": "Do organizers given before or alongside the material help, and for whom?",
+      "members": [
+        [
+          "graphic-organizers-support-novice-comprehension",
+          "+"
+        ],
+        [
+          "learner-constructed-graphic-organizers-outperform-provided",
+          "~"
+        ],
+        [
+          "mismatched-graphic-organizers-increase-extraneous-load",
+          "~"
+        ],
+        [
+          "organization-task-match-determines-benefit",
+          "~"
+        ],
+        [
+          "prior-knowledge-activation-little-effect-on-retention",
+          "~"
+        ],
+        [
+          "hierarchical-organization-improves-complex-task-performance",
+          "+"
+        ],
+        [
+          "no-organization-effect-on-local-tasks",
+          "~"
+        ],
+        [
+          "ability-moderates-hierarchical-organization-benefit",
+          "~"
+        ],
+        [
+          "higher-hierarchy-levels-recalled-better",
+          "~"
+        ],
+        [
+          "strong-acquisition-tasks-improve-internalization",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -12,14 +12,14 @@ generated:
 # Vocabulary Meaning Through Context
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 4 causal, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (6 quant-synthesis, 5 causal, 1 associational), `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Instructors present vocabulary in context so that learners can deduce meaning for themselves, aiding understanding and retention, rather than simply defining words and phrases. If learners guess incorrectly, the instructor supplies another example or has learners compare examples. Learners then practice using new words in their own words — for example, through a 5–10 minute opening conversation that requires reuse of recently learned vocabulary.
 
 ## Design Implications
 
-Inferring word meaning from context engages learners in generative processing, which produces richer lexical representations than rote definition memorization [Learners incidentally acquire word meanings from reading context, though gains per encounter are small.](https://doi.org/10.2307/747758) [+M]. The act of generating a meaning hypothesis — even an imperfect one — creates a retrieval and correction opportunity that strengthens memory [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Because single-context encounters rarely establish durable word knowledge, meaning must be consolidated through multiple encounters and spaced reuse [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Inferring word meaning from context engages learners in generative processing, which produces richer lexical representations than rote definition memorization [Learners incidentally acquire word meanings from reading context, though gains per encounter are small.](https://doi.org/10.2307/747758) [+M]. The act of generating a meaning hypothesis — even an imperfect one — creates a retrieval and correction opportunity that strengthens memory [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Because single-context encounters rarely establish durable word knowledge, meaning must be consolidated through multiple encounters and spaced reuse [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Inferring word meaning from context engages learners in generative processing, w
 
 ### Target Learning Goals
 - Vocabulary breadth and depth: meaning, connotation, and collocational behavior
-- Retention: durable memory for word meanings built through generative processing [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention: durable memory for word meanings built through generative processing [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Self-teaching: developing the transferable skill of inferring meaning from context during independent reading
 
 ### Instructions
@@ -56,7 +56,7 @@ Inferring word meaning from context engages learners in generative processing, w
 3. If guesses are wrong, provide another example or have learners compare examples rather than correcting directly [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. Confirm and refine the meaning, including typical usage and collocations.
 5. Have learners use the word productively — original sentences, role play, or a 5–10 minute opening conversation on a topic that invites reuse ([Practice](../elements/practice.md), [Act It Out](../elements/act-it-out.md)).
-6. Recycle the words in later lessons at increasing intervals [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. Recycle the words in later lessons at increasing intervals [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 

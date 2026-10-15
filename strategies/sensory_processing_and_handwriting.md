@@ -12,7 +12,7 @@ generated:
 # Sensory Processing and Handwriting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (3 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy embeds handwriting instruction in multisensory activities — tracing letters in sand or shaving cream, forming letters from playdough, tracing sandpaper letters, or writing on textured surfaces — so that letter shapes are encoded through tactile, proprioceptive, and visual channels simultaneously. It is typically paired with explicit letter-formation instruction and repeated practice, and is widely used in early childhood and occupational therapy contexts.
@@ -55,7 +55,7 @@ Multisensory input supports early letter knowledge: children who trace and explo
 2. Lead students through large-motor formation (air writing, whole-body movements)
 3. Have students trace and form the letter in multisensory media (sand tray, sandpaper letters, playdough), naming the letter and stroke sequence aloud
 4. Transition immediately to pencil-and-paper formation with visual supports (arrows, baseline cues)
-5. Provide corrective [Feedback](../elements/provide-feedback.md) on formation and distribute practice across days [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+5. Provide corrective [Feedback](../elements/provide-feedback.md) on formation and distribute practice across days [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 - [Multisensory phonics instruction](multisensory-phonics-instruction.md) — the same haptic-tracing logic applied to letter–sound learning

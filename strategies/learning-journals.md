@@ -13,7 +13,7 @@ generated:
 # Learning Journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (6 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 5 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 11 studies (7 quant-synthesis, 3 causal, 1 review), `q2`–`q4` · 6 of 11 report an effect size
 
 ## Description
 A learning journal is a sustained, learner-authored record in which students document what they did, what they understood, what confused them, and how their thinking changed. Entries are typically short, frequent, and structured by prompts or frameworks (e.g., Gibbs' reflective cycle) rather than free-form diary writing. The journal functions simultaneously as a learning activity (elaborative writing), a metacognitive mirror, and a formative assessment source for the instructor.
@@ -77,7 +77,7 @@ Learning journals work because writing forces elaboration and externalization: t
 2. **Provide prompts tied to content.** Each entry should connect to a course concept or task — e.g., "Describe one moment today where the theory did or did not match what you observed."
 3. **Establish cadence and audience.** Weekly entries with periodic instructor or peer response; consider [5-Minute Writing Conferences](5-minute_writing_conferences.md) for individual follow-up.
 4. **Respond diagnostically, not evaluatively.** Use entries to identify misconceptions and adjust instruction; keep feedback forward-looking.
-5. **Close the loop.** Ask learners to revisit earlier entries periodically and write about how their thinking changed — this re-retrieval strengthens retention [Revisiting and reprocessing earlier material improves long-term retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. **Close the loop.** Ask learners to revisit earlier entries periodically and write about how their thinking changed — this re-retrieval strengthens retention [Revisiting and reprocessing earlier material improves long-term retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 

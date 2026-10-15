@@ -32,7 +32,7 @@ sources:
 # Writing To Learn Improves Understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i1`–`i2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i2` medium
 
 Writing about to-be-learned material — rather than only reading or listening — deepens understanding by forcing learners to organize, elaborate, and articulate ideas in their own words. The claim concerns *understanding* (conceptual knowledge, transfer), not rote recall, and applies to writing as a learning activity during instruction — not to writing instruction aimed at improving composition skill, which is a distinct outcome.
 
@@ -67,9 +67,9 @@ Kayaalp, F., Meral, E., & Başcı Namlı, Z. (2022). An analysis of the effect o
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Bangert-Drowns Hurley Wilkinson 2004](https://doi.org/10.3102/00346543074001029) | q4 · quant-synthesis · r? | i1 · small effect, random-effects d = 0.22, 95% CI [0.13, 0.31] (from the full-text write-up of this study; the abstract prints no number) (was i?) | this claim |
+| [Bangert-Drowns Hurley Wilkinson 2004](https://doi.org/10.3102/00346543074001029) | q4 · quant-synthesis · r? | i1 | this claim |
 | [Kayaalp et al. 2022](https://doi.org/10.17275/per.22.18.9.1) | q2 · causal · r1 | i2 · medium effect, d=0.61 | this claim |
-| [Graham et al. 2020](https://doi.org/10.3102/0034654320914744) | q3 · quant-synthesis · r? | i1 · small effect, effect size = 0.30 | [Writing Improves Mathematical Understanding](writing-improves-mathematical-understanding.md) (supports) |
+| [Graham et al. 2020](https://doi.org/10.3102/0034654320914744) | q3 · quant-synthesis · r? | i1 · small effect, effect size = 0.30 | [Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathe](writing-improves-mathematical-understanding.md) (supports) |
 | Diaz 1988 | q1 · review · r1 | i? | [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) (supports) |
 <!-- synthesis:end -->
 
@@ -93,6 +93,8 @@ Open questions the recorded evidence does not settle: how large the effect is re
 
 ## Related Claims
 
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — self-explanation shares the generative mechanism; writing is a persistent, written form of explaining.
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) — a lighter-weight written generative activity on the same continuum.
 - [Testing effect improves retention](retrieval-practice-improves-retention.md) — retrieval practice is an alternative generative activity; comparison clarifies whether writing adds unique value.
@@ -103,9 +105,9 @@ Open questions the recorded evidence does not settle: how large the effect is re
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — writing-to-learn is one active-learning modality; this claim situates it in the broader evidence base.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — relevant to why writing mechanics can crowd out content reasoning for novice writers.
 - [Cognitive load management](cognitive-load-management.md) — managing transcription and composition demands is a precondition for writing to support content learning.
-- [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related
+- [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
-- [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [Extensive reading improves grammatical knowledge and writing style](extensive-reading-improves-grammar-and-writing-style.md) — related

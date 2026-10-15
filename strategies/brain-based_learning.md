@@ -12,7 +12,7 @@ generated:
 # Brain-Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 13 studies (6 quant-synthesis, 3 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 4 claims (4 for) · 15 studies (7 quant-synthesis, 4 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 15 report an effect size
 
 ## Description
 Brain-based learning (BBL) proposes that instruction should be organized around how "the brain learns": presenting content in small chunks, engaging multiple senses, embedding movement and social activity, and building in processing time. It originated with Caine and Caine's (1991) principles for "brain-compatible" teaching. In practice it overlaps heavily with well-established instructional techniques — chunking, multisensory presentation, active learning — but its distinctive claims about neuroscience are frequently unsupported. Critics argue BBL as a distinct framework is largely a bridge from brain science to classrooms that has not yet been built [Bruer's "bridge too far" argument](https://doi.org/10.3102/0013189X026008004) [-M].
@@ -34,7 +34,7 @@ The defensible core of BBL is not neuroscience but cognitive psychology: managin
 - Neuromyth-based differentiation (e.g., teaching to "visual" vs. "auditory" learners) wastes instructional time and can lower expectations [~S]
 
 #### Implementation Variability
-- Chunked lesson timing paired with [Practice](../elements/practice.md) and spaced review is the most evidence-aligned variant [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Chunked lesson timing paired with [Practice](../elements/practice.md) and spaced review is the most evidence-aligned variant [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Movement is most defensible when it is content-embedded (gesturing, enacting concepts) rather than as a break from content
 - Multisensory design matters most for dual-channel presentation of *the same content* (narration + relevant diagram), not for adding sensory variety for its own sake
 
@@ -53,7 +53,7 @@ The defensible core of BBL is not neuroscience but cognitive psychology: managin
 2. Present each chunk with dual-channel, content-relevant media — narration plus supporting visual, avoiding decorative extras ([Demonstration](../elements/demonstration.md))
 3. Follow each chunk with an active processing task: [Peer Discussion](../elements/peer-discussion.md), self-explanation, or [Application](../elements/application.md)
 4. Embed movement only where it represents the content (gestures, physical models, enacting processes)
-5. Schedule spaced retrieval of earlier chunks rather than relying on in-class "rest" for consolidation [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+5. Schedule spaced retrieval of earlier chunks rather than relying on in-class "rest" for consolidation [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a cognitively grounded alternative to generic "brain activation" claims

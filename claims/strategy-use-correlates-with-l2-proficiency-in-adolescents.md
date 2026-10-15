@@ -55,7 +55,7 @@ tasks](learning-strategy-instruction-contextualized-more-effective.md) [+M] says
 go looking for it.** Help placed behind an optional control therefore reaches the learners who least
 need it. This argues for putting pattern notes, worked reasoning and review into the flow rather
 than behind a hint button — the same asymmetry that makes
-[Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) [-M] a caution
+[Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) [-M] a caution
 against relying on learners to pick things up unaided.
 
 **Population.** Migrant adolescents learning the majority language in-country: a high-stakes
@@ -64,6 +64,6 @@ immersion context, not foreign-language study abroad. Self-report, cross-section
 ## Related Claims
 
 - [Strategy instruction is more effective when contextualized in authentic tasks](learning-strategy-instruction-contextualized-more-effective.md) — the instructional response to what this measures
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — the same argument against leaving acquisition to the learner's own initiative
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — the same argument against leaving acquisition to the learner's own initiative
 - [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse](italian-l2-motivation-is-ideal-self-not-instrumental.md) — the other learner-side variable in this set
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related

@@ -60,8 +60,9 @@ In the same sequential models, classroom instructional climate variables explain
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes](streaming-impacts-negatively-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Above-norm students in heterogeneous classrooms with supported below-norm classmates gained .4 additional test score points post-policy](heterogeneous-support-benefits-above-norm.md) — related
 - [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](peer-skill-explains-above-norm-test-gains.md) — related
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](double-dose-algebra-increased-academic-demand-both-groups.md) — related

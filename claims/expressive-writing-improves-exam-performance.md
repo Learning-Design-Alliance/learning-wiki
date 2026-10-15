@@ -73,6 +73,8 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 
 ## Related Claims
 
+- [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the working-memory mechanism the writing intervention targets
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — another route to freeing capacity under load
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — brief pre-assessment psychological interventions with similar logic

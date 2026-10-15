@@ -12,7 +12,7 @@ generated:
 # Leveraging Strengths to Support Processing Speed
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 12 studies (5 review, 4 quant-synthesis, 2 causal, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 5 claims (5 for) · 14 studies (5 quant-synthesis, 5 review, 3 causal, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size
 
 ## Description
 This strategy involves identifying a student's cognitive strengths and using them to compensate for or bypass challenges related to processing speed — the pace at which a learner takes in information, makes sense of it, and begins to respond. Processing speed varies across individuals and across contexts for the same person, so the strategy begins with assessment and observation rather than a fixed accommodation list. Typical moves include routing content through a stronger modality (e.g., visual organizers for a visually strong learner), reducing the volume of low-value processing (e.g., [Chunking](../principles/chunking.md) content, pre-teaching vocabulary), and protecting thinking time so speed is not confounded with ability.
@@ -47,7 +47,7 @@ Processing speed shares substantial variance with working memory and fluid reaso
 ### Target Learning Goals
 - Access goals: ensuring slow processors can reach the same conceptual objectives as peers
 - Self-regulation: recognizing one's own processing profile and selecting supports independently
-- Retention of core content when intake demands are reduced [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention of core content when intake demands are reduced [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. **Profile the learner.** Combine assessment data, work samples, and student interview to identify both the processing bottleneck and a genuine strength; do not rely on labels alone.

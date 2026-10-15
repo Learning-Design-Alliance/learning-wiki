@@ -63,4 +63,4 @@ Survey item asked of all institutions, with and without MOOCs, on belief in MOOC
 
 ## Related Claims
 - [Domain-matched experts judged 87% of Bespoke-generated lecture videos at or above the rubric midpoint corresponding to a standard MOOC lecture's quality (mean G = 3.42 of 5)](bespoke-87-percent-mooc-comparable-quality.md) — related
-- [NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15%](mooc-nlp-grading-70-percent-time-reduction.md) — related
+- [A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described](mooc-nlp-grading-70-percent-time-reduction.md) — related

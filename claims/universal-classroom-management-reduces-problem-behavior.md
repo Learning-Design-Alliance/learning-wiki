@@ -55,6 +55,18 @@ The review's conclusion over the 12 included studies, most of which were randomi
 > "Students in the treatment classrooms in all 12 studies showed less disruptive, inappropriate, and aggressive behavior in the classroom compared to untreated students in the control classrooms where "treatment as usual" or typical classroom management practices were occurring."
 -->
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a planned, whole-class management approach reduce disruptive behavior and raise engaged time compared with usual practice?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 review), `q2`–`q4`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Oliver 2011](https://doi.org/10.4073/csr.2011.4) | q3 · quant-synthesis · r2 | i3 · large effect, mean classroom ES = 0.80 (ICC=.05); 0.71 (ICC=.10); i? | this claim; [Effect sizes across classroom management studies are homogeneous, with no significant mode](homogeneous-effect-sizes-classroom-management.md) (qualifies); [Manualized COMP programs and other classroom management approaches do not differ significa](comp-no-different-from-other-classroom-management.md) (qualifies) |
+| [Korpershoek 2016](https://doi.org/10.3102/0034654315626799) | q4 · quant-synthesis · r2 | i1 | [Classroom management interventions in primary education show small but significant average](classroom-management-small-significant-effects-g022.md) (qualifies) |
+| Walker 2000 | q2 · review · r1 | i? | [Teachers who effectively implement classroom management can engage students in learning ac](effective-classroom-management-engages-students-over-90-percent-of-time.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

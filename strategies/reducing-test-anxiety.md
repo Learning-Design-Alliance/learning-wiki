@@ -12,7 +12,7 @@ generated:
 # Reducing Test Anxiety
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 3 quant-synthesis), `q3`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (5 causal, 4 quant-synthesis), `q3`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Test anxiety is a situation-specific anxiety trait combining worry (cognitive interference) and emotionality (physiological arousal) that degrades performance on high-stakes assessments. Reducing it involves two complementary moves: changing the assessment environment (frequent low-stakes testing, clear expectations, accommodations) and teaching learners regulation strategies (expressive writing, reappraisal, relaxation, study-skill training).
@@ -48,7 +48,7 @@ Test anxiety consumes working-memory resources during assessment, so its reducti
 ### Target Learning Goals
 - Valid assessment: ensuring scores reflect knowledge rather than anxiety reactivity ([Assessment](../elements/assessment.md))
 - Self-regulation: teaching learners to monitor and manage their own arousal and worry ([Self-Regulated Learning](../theories/self-regulated-learning.md))
-- Retention and transfer: low-stakes retrieval practice that reduces anxiety while strengthening memory [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention and transfer: low-stakes retrieval practice that reduces anxiety while strengthening memory [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. Diagnose the source: distinguish skill deficits (under-preparation) from pure evaluative anxiety, since the remedies differ.

@@ -12,14 +12,14 @@ generated:
 # Nighttime Blue Light Reduction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 quant-synthesis, 2 causal, 1 review), `q3`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (6 quant-synthesis, 3 causal, 1 review), `q3`–`q4` · 5 of 10 report an effect size
 
 ## Description
 Nighttime blue light reduction limits learners' exposure to short-wavelength (~460–480 nm) light from screens and LED lighting in the hours before sleep. Blue light suppresses melatonin secretion and delays circadian phase, so mitigation strategies — screen curfews, night-mode filters, blue-blocking glasses, warm ambient lighting — protect sleep onset and duration. Because sleep is when newly encoded material is consolidated into long-term memory, protecting sleep is a learning strategy, not merely a wellness measure.
 
 ## Design Implications
 
-Sleep deprivation and fragmentation degrade attention, working memory, and consolidation, undermining next-day learning [Cognitive overload degrades learning when working memory resources are exceeded.](../claims/cognitive-overload-degrades-learning.md) [+M]. Evening screen exposure is a modifiable contributor: experimental studies show blue-enriched screen light in the evening delays melatonin onset, reduces REM sleep, and increases next-morning sleepiness relative to filtered or dim conditions [+M]. Instructional programs that treat sleep hygiene as part of study skills — scheduling [Distributed Practice](distributed-practice.md) across days rather than cramming before a screen-lit late night — align encoding schedules with consolidation biology [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-repetition-improves-retention.md) [+S].
+Sleep deprivation and fragmentation degrade attention, working memory, and consolidation, undermining next-day learning [Cognitive overload degrades learning when working memory resources are exceeded.](../claims/cognitive-overload-degrades-learning.md) [+M]. Evening screen exposure is a modifiable contributor: experimental studies show blue-enriched screen light in the evening delays melatonin onset, reduces REM sleep, and increases next-morning sleepiness relative to filtered or dim conditions [+M]. Instructional programs that treat sleep hygiene as part of study skills — scheduling [Distributed Practice](distributed-practice.md) across days rather than cramming before a screen-lit late night — align encoding schedules with consolidation biology [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -46,14 +46,14 @@ Sleep deprivation and fragmentation degrade attention, working memory, and conso
 - Less applicable to learners who already complete study well before bedtime or use dim, warm lighting environments
 
 ### Target Learning Goals
-- Indirect but foundational: protecting the consolidation of any newly learned material [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Indirect but foundational: protecting the consolidation of any newly learned material [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 - Next-day attention and working-memory capacity for new encoding
 - Self-regulation habits: managing one's own study environment and schedule [Self-regulated learning improves academic outcomes.](../claims/self-regulated-learning-improves-achievement.md) [+M]
 
 ### Instructions
 1. Teach the mechanism briefly — melatonin suppression, circadian delay, and the role of sleep in consolidation — so the rule is understood rather than imposed ([Advance Organizers](../elements/advance-organizers.md) can frame a study-skills unit around "protect the consolidation window")
 2. Set a personal screen curfew 60–90 minutes before target bedtime, or enable night-mode filtering as a minimum fallback
-3. Substitute compatible evening activities: printed or audio review of the day's material ([Audiobooks](audiobooks.md)), which doubles as spaced review [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-repetition-improves-retention.md) [+S]
+3. Substitute compatible evening activities: printed or audio review of the day's material ([Audiobooks](audiobooks.md)), which doubles as spaced review [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-practice-improves-retention.md) [+S]
 4. Move devices out of the bedroom or enable do-not-disturb to prevent late-night re-engagement
 5. Track sleep timing and next-day alertness for two weeks ([Check-In](../elements/check-in.md) routines work well for self-monitoring), then adjust the curfew window
 

@@ -22,7 +22,7 @@ sources:
 # No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2` · `i0` negligible
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Basic observation dimension scores did not differ significantly between VS and AV conditions. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)

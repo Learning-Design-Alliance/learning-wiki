@@ -1,0 +1,34 @@
+{
+  "principle": "patterns/pair-c-framework",
+  "note": "Two questions the PAIR-C pattern rests on: whether guiding simulation/inquiry work helps, and whether naming and confronting a science misconception changes conceptions. The PAIR-C study itself is already a member of the guidance hub's table.",
+  "findings": [
+    {
+      "hub": "guidance-improves-inquiry-learning-outcomes",
+      "question": "Does adding guidance to inquiry and simulation work improve what learners learn?",
+      "members": [
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
+          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "misconceptions-interfere-with-new-learning",
+      "question": "Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?",
+      "members": [
+        [
+          "cognitive-disequilibrium-motivates-conceptual-change",
+          "+"
+        ],
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

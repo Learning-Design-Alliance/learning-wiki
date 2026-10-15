@@ -41,6 +41,7 @@ Historical narrative in Part II describing the community school idea piloted in 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related

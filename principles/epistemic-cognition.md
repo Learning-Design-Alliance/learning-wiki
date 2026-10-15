@@ -27,7 +27,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (9 for, 5 mixed) · 22 studies (9 causal, 3 quant-synthesis, 3 qualitative, 3 theoretical, 2 review, 1 associational, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (9 for, 5 mixed) · 22 studies (9 causal, 3 quant-synthesis, 3 qualitative, 3 theoretical, 2 review, 1 associational, 1 design), `q1`–`q4` · 3 of 22 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 

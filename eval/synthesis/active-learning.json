@@ -11,6 +11,18 @@
           "+"
         ],
         [
+          "ccct-outperformed-lecture-achievement",
+          "+"
+        ],
+        [
+          "active-learning-courses-retain-lecture-component",
+          "~"
+        ],
+        [
+          "active-learning-conditions-more-other-pedagogical-features",
+          "~"
+        ],
+        [
           "active-learning-effect-robust-bias-and-rigor",
           "+"
         ],
@@ -55,6 +67,18 @@
         [
           "active-learning-felt-learning-paradox",
           "~"
+        ],
+        [
+          "no-knowledge-difference-lecture-vs-4cid-consent-training",
+          "~"
+        ],
+        [
+          "osce-advantage-4cid-not-significant",
+          "~"
+        ],
+        [
+          "lecturing-on-values-does-not-transact-values-effectively",
+          "+"
         ]
       ]
     },
@@ -117,6 +141,14 @@
         [
           "self-explanation-improves-conceptual-understanding",
           "+"
+        ],
+        [
+          "students-learned-more-constructive-than-active",
+          "+"
+        ],
+        [
+          "constructive-beats-passive-young-children",
+          "+"
         ]
       ]
     },
@@ -150,14 +182,6 @@
         ],
         [
           "contingent-scaffolding-improves-learning",
-          "+"
-        ],
-        [
-          "explicit-instruction-beats-unassisted-discovery",
-          "+"
-        ],
-        [
-          "guided-discovery-outperforms-pure-discovery",
           "+"
         ],
         [

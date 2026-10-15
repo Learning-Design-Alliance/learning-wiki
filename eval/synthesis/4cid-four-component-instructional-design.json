@@ -1,0 +1,82 @@
+{
+  "principle": "patterns/4cid-four-component-instructional-design",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "whole-task-performance-improves-transfer",
+      "question": "Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?",
+      "members": [
+        [
+          "osce-advantage-4cid-not-significant",
+          "~"
+        ],
+        [
+          "no-knowledge-difference-lecture-vs-4cid-consent-training",
+          "~"
+        ],
+        [
+          "entrepreneur-course-trial-matches-business-majors",
+          "+"
+        ],
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "~"
+        ],
+        [
+          "skill-develops-through-engagement-not-drill",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "fading-support-promotes-transfer-of-responsibility",
+      "question": "Should support be withdrawn, and in what order?",
+      "members": [
+        [
+          "fading-worked-steps-facilitates-example-to-problem-transition",
+          "+"
+        ],
+        [
+          "fading-and-principle-prompts-improve-probability-transfer",
+          "+"
+        ],
+        [
+          "learners-learn-most-about-faded-principles",
+          "+"
+        ],
+        [
+          "fading-fewer-unproductive-learning-events",
+          "+"
+        ],
+        [
+          "faded-step-position-no-learning-outcome-effect",
+          "~"
+        ],
+        [
+          "ai-scaffold-fading-independent-justification",
+          "+"
+        ],
+        [
+          "fading-no-effect-productive-learning-events",
+          "~"
+        ],
+        [
+          "early-fading-steps-poor-cup-probes",
+          "~"
+        ],
+        [
+          "scaffolding-design-features-no-moderation",
+          "-"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

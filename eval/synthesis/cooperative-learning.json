@@ -49,6 +49,10 @@
         [
           "circ-cooperative-component-benefit-unconfirmed",
           "~"
+        ],
+        [
+          "small-group-learning-improves-stem-achievement",
+          "+"
         ]
       ]
     },
@@ -79,24 +83,24 @@
       "question": "Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?",
       "members": [
         [
-          "tbl-survey-above-neutral",
-          "~"
-        ],
-        [
-          "group-membership-alone-does-not-produce-cooperation",
-          "+"
-        ],
-        [
-          "accountability-effects-depend-on-type-context-task",
-          "~"
-        ],
-        [
           "interdependence-type-no-achievement-effect-asynchronous",
           "~"
         ],
         [
           "interdependence-type-shifts-interaction-nature",
           "~"
+        ],
+        [
+          "accountability-effects-depend-on-type-context-task",
+          "~"
+        ],
+        [
+          "tbl-survey-above-neutral",
+          "~"
+        ],
+        [
+          "group-membership-alone-does-not-produce-cooperation",
+          "+"
         ],
         [
           "reward-interdependence-benefit-attitudes",
@@ -108,6 +112,14 @@
         ],
         [
           "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ],
+        [
+          "classroom-research-supports-motivational-perspective",
+          "+"
+        ],
+        [
+          "secondary-cooperative-learning-newmann-thompson",
           "~"
         ]
       ]

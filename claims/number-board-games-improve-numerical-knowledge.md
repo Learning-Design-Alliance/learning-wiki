@@ -52,6 +52,8 @@ Boundary conditions and open questions remain. Gains are expected to be largest 
 
 ## Related Claims
 
+- [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — the general claim this finding bears on, with the studies behind it
+
 - [Block play predicts math achievement.](block-play-predicts-math-achievement.md) — another play-based, spatially grounded route to early number and spatial skills
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — board games group number words with positions and quantities, easing working-memory demands for young learners
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — overly complex game rules can consume the resources the number content requires

@@ -12,14 +12,14 @@ generated:
 # Brain Dumps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 10 studies (4 quant-synthesis, 3 causal, 2 associational, 1 review), `q2`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 associational, 1 review), `q2`–`q4` · 4 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
-A brain dump asks learners to write down everything they can recall about a topic within a set time (typically 2–10 minutes), without notes or resources. The act of retrieval is the mechanism: pulling content out of memory strengthens it more than re-reading it [Retrieval practice produces durable retention gains over restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. The resulting artifact also serves diagnostic purposes — it surfaces gaps and misconceptions for both learner and instructor, and can seed follow-up activities such as comparison, [Self-Explanation](../elements/self-explanation.md), or collaborative gap-filling.
+A brain dump asks learners to write down everything they can recall about a topic within a set time (typically 2–10 minutes), without notes or resources. The act of retrieval is the mechanism: pulling content out of memory strengthens it more than re-reading it [Retrieval practice produces durable retention gains over restudying.](../claims/spaced-practice-improves-retention.md) [+S]. The resulting artifact also serves diagnostic purposes — it surfaces gaps and misconceptions for both learner and instructor, and can seed follow-up activities such as comparison, [Self-Explanation](../elements/self-explanation.md), or collaborative gap-filling.
 
 ## Design Implications
 
-Brain dumps enact [Retrieval Practice](../principles/retrieval-practice.md) at near-zero cost: a blank page and a timer. Their value comes from two functions in one activity — retrieval strengthens memory, and the written record makes the state of knowledge visible for formative use [Retrieval practice produces durable retention gains over restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. Design decisions that matter most are timing (before instruction to activate prior knowledge, after to consolidate), whether learners then compare or extend their dumps, and whether the dump is low-stakes or graded.
+Brain dumps enact [Retrieval Practice](../principles/retrieval-practice.md) at near-zero cost: a blank page and a timer. Their value comes from two functions in one activity — retrieval strengthens memory, and the written record makes the state of knowledge visible for formative use [Retrieval practice produces durable retention gains over restudying.](../claims/spaced-practice-improves-retention.md) [+S]. Design decisions that matter most are timing (before instruction to activate prior knowledge, after to consolidate), whether learners then compare or extend their dumps, and whether the dump is low-stakes or graded.
 
 ### Context
 #### Requirements
@@ -41,12 +41,12 @@ Brain dumps enact [Retrieval Practice](../principles/retrieval-practice.md) at n
 - **Non-written variants** — diagramming, listing aloud, or sketchnoting for learners whose writing is a bottleneck
 
 ### Target Learners
-- Learners who already have some encoded knowledge to retrieve — the effect is strongest after initial study, not before it [Retrieval practice produces durable retention gains over restudying.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Learners who already have some encoded knowledge to retrieve — the effect is strongest after initial study, not before it [Retrieval practice produces durable retention gains over restudying.](../claims/spaced-practice-improves-retention.md) [+S]
 - All levels, K–12 through adult and professional education; the format scales trivially
 - Less suitable as a *first* exposure activity for complete novices [~M]
 
 ### Target Learning Goals
-- Retention and consolidation of factual and conceptual content [Retrieval practice produces durable retention gains over restudying.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention and consolidation of factual and conceptual content [Retrieval practice produces durable retention gains over restudying.](../claims/spaced-practice-improves-retention.md) [+S]
 - Metacognitive accuracy: learners discover what they do and do not know
 - Idea generation and prior-knowledge activation at the start of a unit
 

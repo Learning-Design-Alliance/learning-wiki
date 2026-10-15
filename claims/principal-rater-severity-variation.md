@@ -41,8 +41,9 @@ A measurement model of rater severity using matched observations from 84 princip
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [Principals rated some instruction components inconsistently, rating communicating with students, using assessment in instruction, and organizing physical space lower than observers, and student engagement higher](component-level-rating-inconsistencies.md) — related
 - [Principals and trained external observers gave aggregate-consistent Danielson Framework ratings in matched observations](danielson-framework-aggregate-rating-consistency.md) — possibly the same claim (merge candidate)
 - [Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers](high-end-rating-inflation.md) — related

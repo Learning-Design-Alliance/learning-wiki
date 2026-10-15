@@ -12,7 +12,7 @@ generated:
 # Play Memory Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Memory games are structured activities — matching pairs, sequence recall ("Simon"-style), concentration card games, n-back tasks — that require learners to encode, hold, and retrieve information over short intervals. They are typically used as warm-ups, free-time options, or station activities to build attention and working memory engagement. The critical design question is what the game trains: games exercise the specific skill of remembering game-like material, and claims that they broadly "strengthen the brain" are not supported [Simons et al., 2016].
@@ -55,7 +55,7 @@ Memory games reliably improve performance on the trained task and very similar t
 2. Model one round aloud, naming the strategy you use ("I'll group these three into one chunk") — see [Chunking](../principles/chunking.md).
 3. Have learners play in short sessions (5–10 minutes), with difficulty adjusted so success rates stay high.
 4. Debrief briefly: ask learners to name the strategy they used and where else it could apply [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
-5. Space sessions across days rather than massing them; distributed play supports retention of both the content and the strategy [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+5. Space sessions across days rather than massing them; distributed play supports retention of both the content and the strategy [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Spaced repetition](../strategies/spaced_repetition.md) — scheduling principle that determines whether game gains persist

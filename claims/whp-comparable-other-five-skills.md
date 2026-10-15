@@ -1,7 +1,7 @@
 ---
 type: claim
 title: An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills
-description: World History Project students show comparable competency to comparison students in the other five historical thinking skills
+description: "An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills"
 id: whp-comparable-other-five-skills
 status: draft
 generated:
@@ -42,8 +42,9 @@ In the same student-work analysis, the report found no statistically significant
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Six historical thinking dimensions — historical argumentation, causation, comparison, contextualization, continuity and change over time, and sourcing — were selected as rubric assessment targets based on convergence across U.S. national frameworks and the WHP course guide](six-historical-thinking-dimensions-rubric-targets.md) — related
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related
 - [Empirical progression research is uneven across historical thinking dimensions: most research covers causal reasoning and sourcing, while contextualization and comparison remain thin](uneven-progression-research-across-dimensions.md) — related

@@ -63,6 +63,20 @@ Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewin
 
 In three experiments, learners read a passage that came either with author-provided [graphic organizers](../claims/graphic-organizers-support-novice-comprehension.md) or with space or templates for building their own, then took retention and transfer tests. The construction task went from most complex (27 organizers built in margin space) to least complex (10 templates). On transfer the provided-organizer group did better every time: d = 0.24 (not significant), 0.43 (p < .05) and 0.84 (p < .01). Retention did not differ. The authors read this through [cognitive load theory](../theories/cognitive-load-theory.md): building the organizers added extraneous load that got in the way of generative processing. This directly contradicts the claim for studying a text passage.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does building a representation of the content teach more than studying one that is provided?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (3 quant-synthesis, 2 causal), `q3`–`q4`, 4 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect for constructing, g=0.72; studying g=0.43; i2 · medium effect, g=0.58 | this claim; [Concept mapping improves learning over most comparison conditions by a moderate average am](concept-mapping-improves-learning.md) (qualifies) |
+| [Stull & Mayer 2007](https://doi.org/10.1037/0022-0663.99.4.808) | q3 · causal · r? | i2 · transfer favoured provided organizers, d=0.24 (ns), 0.43, 0.84 | this claim |
+| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r? | i? | [Concept mapping improves learning over most comparison conditions by a moderate average am](concept-mapping-improves-learning.md) (qualifies) |
+| [Karpicke & Blunt 2011](https://doi.org/10.1126/science.1199327) | q3 · causal · r2 | i3 · large effect favoring retrieval practice over concept mapping, d=1.50 | [Concept mapping improves learning over most comparison conditions by a moderate average am](concept-mapping-improves-learning.md) (qualifies) |
+| [Zhang et al. 2021](https://doi.org/10.1109/eitt53287.2021.00025) | q3 · quant-synthesis · r? | i1 · small effect vs. not drawing, g=0.362 | [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over oth](drawing-improves-learning.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The direct evidence runs against the title.** The only head-to-head test below, Stull & Mayer (2007), found provided organizers produced better transfer than learner-built ones across three experiments, with no difference on retention. The meta-analytic comparison favouring construction (Schroeder et al. 2018) sets each condition against its own controls, so it does not test the claim directly. The title now says so.
@@ -91,7 +105,7 @@ In three experiments, learners read a passage that came either with author-provi
 - [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) — construction demands can overload learners for whom a provided organizer would have helped
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — frames the trade-off between the generative benefit and the extraneous load of construction
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — predicts the advantage of construction grows while the value of provided organizers shrinks as expertise develops
-- [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) — analogous provided-structure condition; its fading logic suggests how to scaffold organizer construction
+- [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](../claims/worked-examples-improve-math-performance.md) — analogous provided-structure condition; its fading logic suggests how to scaffold organizer construction
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — provided organizers are the comparison condition this claim is measured against
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — another learner-generated processing activity with similar generative mechanisms
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — organizers work by imposing structure that chunks content

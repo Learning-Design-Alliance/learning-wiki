@@ -1,0 +1,26 @@
+{
+  "principle": "principles/note-taking",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. The second finding reuses the hub and question from eval/synthesis/annotating.json.",
+  "findings": [
+    {
+      "hub": "guided-notes-improve-note-accuracy",
+      "question": "Does a teacher-supplied partial outline (guided notes) improve learners' notes and learning over their own or outline-only notes?",
+      "members": [
+        [
+          "guided-note-taking-supported-remote-engagement",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "laptop-notes-verbatim-shallower",
+      "question": "Does the medium of the notes (handwritten or typed) change what is learned?",
+      "members": [
+        [
+          "handwritten-notes-higher-achievement-than-typing",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

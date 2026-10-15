@@ -41,7 +41,8 @@ The guide cites a recent study of ed tech developers in which "90 percent report
 
 ## Discussion
 
-
 ## Related Claims
+
+- [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — the general claim this finding bears on, with the studies behind it
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
 - [Technology directors are the least likely to trust evidence from providers, with only 29 percent satisfied with the credibility of provider evidence](technology-directors-distrust-provider-evidence.md) — related

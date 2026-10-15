@@ -42,6 +42,18 @@ A meta-analysis (part of a US Department of Education-commissioned review) synth
 
 *Note on the citation:* the fourth author is Marianne Bakia, as the ERIC record of the underlying report (ED505824) gives it; the Crossref record for this DOI misspells the surname as "Baki".
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a blended course produce better learning outcomes than the same course taught in one mode?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 review, 1 design), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Means et al. 2013](https://doi.org/10.1177/016146811311500307) | q3 · quant-synthesis · r? | i2 · medium effect, g+=0.35, p<.0001 | this claim |
+| Mid-Atlantic Regional Educational Laboratory 2018 | q2 · review · r? | i? | [Some blended learning interventions improve student outcomes, but whether a positive effec](blended-learning-effects-vary-by-intervention-and-domain.md) (qualifies); [Research has not yet identified blended learning implementation strategies that increase t](no-identified-blended-learning-implementation-strategies.md) (qualifies) |
+| Digital Promise 2021 | q2 · design · r2 | i? | [Students in the Haiti blended learning pilot showed statistically significant learning gai](haiti-blended-pilot-significant-gains-lowest-baseline.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The comparison problem.** The central difficulty in evaluating this claim is that "blended learning" is not a single treatment. Studies comparing blended formats against face-to-face or fully online formats typically vary multiple factors at once — instructional time, materials quality, opportunities for [active learning](../principles/active-learning.md) [+S], and assessment design. When blended conditions outperform comparison conditions, it is often unclear whether the benefit comes from the blend itself or from the additional time-on-task and redesigned activities that accompany it. Any future evidence entries should record what the blended condition actually changed relative to the comparison.
@@ -57,6 +69,10 @@ A meta-analysis (part of a US Department of Education-commissioned review) synth
 **Open questions.** Key moderators still to be documented: learner self-regulation demands of the online component, instructor preparation and workload, discipline, and whether outcomes are measured immediately or on delayed retention.
 
 ## Related Claims
+
+- [Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence](flipped-classroom-improves-academic-performance-hpe.md) — the general claim this finding bears on, with the studies behind it
+
+- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 
 - [Adaptive learning improves outcomes.](adaptive-learning-improves-outcomes.md) — adaptive online components are a common mechanism proposed for blended designs
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — freed-up face-to-face time in blended models is often spent on active learning

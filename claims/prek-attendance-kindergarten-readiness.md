@@ -39,6 +39,19 @@ The summary reports, citing the Phillips et al. (2017) consensus statement on pr
 
 > "Children who attend pre-kindergarten programs are more ready for kindergarten at the end of their pre-kindergarten year than children who do not attend pre-kindergarten."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does more time in preschool instruction (attending pre-K, attending more days) raise readiness at kindergarten entry, and does the difference last?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 associational, 1 review, 1 qualitative), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| High-Quality Early Child Education is Associated With 2023 | q2 · review · r? | i? | this claim |
+| Wechsler 2016 | q2 · qualitative · r2 | i? | [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarte](wv-prek-print-awareness-gains.md) (supports) |
+| Ehrlich 2014 | q3 · associational · r2 | i? | [Four-year-olds who miss more preschool score lower on kindergarten readiness measures of m](preschool-absence-lower-kindergarten-readiness-scores.md) (supports); [Good attendance is more strongly related to academic gains for students who enter preschoo](attendance-benefits-strongest-low-incoming-skills.md) (supports) |
+| [Erik Ruzek 2020](https://doi.org/10.1037/dev0001115) | q3 · associational · r? | i? | [Pre-K benefits at the start of kindergarten diminish by a little more than half during the](pre-k-benefits-diminish-by-half-during-kindergarten.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

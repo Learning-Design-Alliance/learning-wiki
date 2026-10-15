@@ -43,4 +43,4 @@ Historical narrative review of early feedback-intervention research. The authors
 
 
 ## Related Claims
-- [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
+- [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related

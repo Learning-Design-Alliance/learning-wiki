@@ -13,7 +13,7 @@ generated:
 # Normalizing Struggle
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 25 studies (10 causal, 8 quant-synthesis, 6 review, 1 theoretical), `q2`–`q4` · 6 of 25 report an effect size · 1 claim rests on one study
+> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 27 studies (10 causal, 8 quant-synthesis, 6 review, 3 theoretical), `q2`–`q4` · 7 of 27 report an effect size · 1 claim rests on one study
 
 ## Description
 Normalizing struggle is the deliberate framing of difficulty, error, and failure as a natural and productive feature of learning rather than a signal of low ability. Teachers enact it by sharing their own problem-solving failures, highlighting and debriefing moments when students get "stuck," and establishing norms that reward persistence and strategy revision. The goal is to keep learners productively engaged with challenging material instead of retreating from it.

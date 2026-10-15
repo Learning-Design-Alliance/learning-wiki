@@ -54,4 +54,4 @@ Simulation of three CAT types (MLE-CAT, EM-CAT, EG-CAT) with 51,764 simulated te
 - [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](effort-moderated-scoring-more-accurate-than-traditional.md) — a broader claim this one bears on
 - [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — related
-- [Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores](test-taking-motivation-negative-score-bias.md) — related
+- [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — related

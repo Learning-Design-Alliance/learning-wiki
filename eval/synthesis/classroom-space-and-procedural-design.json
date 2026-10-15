@@ -1,0 +1,46 @@
+{
+  "principle": "principles/classroom-space-and-procedural-design",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. The first hub reuses the effective-classroom-management-plan spec's question verbatim (Oliver, Wehby & Reschly 2011 split into several claims; Korpershoek 2016 and Walker 2000 are separate sources). The second groups the classroom-design claims: Barrett 2013 and 2015, Cheryan 2014, Imms & Byers 2017, Digital Promise 2019, Perez 2024.",
+  "findings": [
+    {
+      "hub": "universal-classroom-management-reduces-problem-behavior",
+      "question": "Does a planned, whole-class management approach reduce disruptive behavior and raise engaged time compared with usual practice?",
+      "members": [
+        [
+          "classroom-management-small-significant-effects-g022",
+          "~"
+        ],
+        [
+          "homogeneous-effect-sizes-classroom-management",
+          "~"
+        ],
+        [
+          "comp-no-different-from-other-classroom-management",
+          "~"
+        ],
+        [
+          "effective-classroom-management-engages-students-over-90-percent-of-time",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "classroom-design-affects-learning-progress",
+      "question": "Does the physical design of a classroom (light, air, temperature, layout, displays) change how much learners progress?",
+      "members": [
+        [
+          "learning-space-redesign-alone-insufficient",
+          "~"
+        ],
+        [
+          "physical-environment-affects-learning",
+          "+"
+        ],
+        [
+          "daylight-green-views-benefit-students",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

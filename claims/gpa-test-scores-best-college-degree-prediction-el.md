@@ -60,8 +60,9 @@ A footnote to the degree-prediction finding cautions that the test-score relatio
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment](indicator-combinations-best-prediction-el.md) — a broader claim this one bears on
 - [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](gpa-most-predictive-attainment-english-learners.md) — related
 - [Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs](gpa-attendance-combination-best-graduation-prediction-el.md) — related

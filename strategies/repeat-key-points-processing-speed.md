@@ -12,14 +12,14 @@ generated:
 # Repeat Key Points (Processing Speed)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 unmarked) · 11 studies (4 causal, 4 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 unmarked) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy reinforces essential information by restating key points multiple times and in multiple forms — verbal repetition, rephrasing, visual summaries, and worked demonstrations. It is primarily an accommodation for learners with slower processing speed: because these learners need more time to encode and consolidate incoming information, deliberate redundancy prevents critical content from being lost before it is consolidated. The repetition must be *varied* — verbatim looping adds little, while rephrasing and re-modality presentation deepen encoding [Levels-of-processing research shows deeper, varied encoding improves retention.](https://doi.org/10.1016/S0010-0277(72)80001-3) [+S].
 
 ## Design Implications
 
-Repetition supports learners whose working-memory and processing-speed constraints cause them to miss or lose information presented once at pace. Multiple, varied exposures also align with [Spaced Repetition](../claims/spaced-repetition-improves-retention.md) [+S] and with multimedia principles: presenting the same point in words and pictures supports dual-channel encoding [Presenting content in complementary verbal and visual channels improves learning.](https://doi.org/10.1017/CBO9780511811678) [+S]. The design risk is redundancy that adds extraneous load rather than reducing it — repetition should restructure and re-present, not simply lengthen.
+Repetition supports learners whose working-memory and processing-speed constraints cause them to miss or lose information presented once at pace. Multiple, varied exposures also align with [Spaced Repetition](../claims/spaced-practice-improves-retention.md) [+S] and with multimedia principles: presenting the same point in words and pictures supports dual-channel encoding [Presenting content in complementary verbal and visual channels improves learning.](https://doi.org/10.1017/CBO9780511811678) [+S]. The design risk is redundancy that adds extraneous load rather than reducing it — repetition should restructure and re-present, not simply lengthen.
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Repetition supports learners whose working-memory and processing-speed constrain
 
 #### Implementation Variability
 - **Within-lesson:** state the point, rephrase it, show it visually, and have learners restate it ([Practice](../elements/practice.md), [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md))
-- **Across lessons:** revisit key points at spaced intervals rather than clustering repetitions ([Spaced Repetition](../claims/spaced-repetition-improves-retention.md) [+S])
+- **Across lessons:** revisit key points at spaced intervals rather than clustering repetitions ([Spaced Repetition](../claims/spaced-practice-improves-retention.md) [+S])
 - **Modality shifts:** pair spoken repetition with written summaries, diagrams, or gestures ([Dual Coding Theory](../theories/dual-coding-theory.md))
 - **Learner-generated repetition:** have students restate or teach the point to a peer, converting passive repetition into retrieval practice
 
@@ -46,7 +46,7 @@ Repetition supports learners whose working-memory and processing-speed constrain
 - Less beneficial for advanced learners, for whom repetition of mastered content is redundant [~M]
 
 ### Target Learning Goals
-- Retention of essential facts, definitions, and procedures ([Spaced Repetition](../claims/spaced-repetition-improves-retention.md) [+S])
+- Retention of essential facts, definitions, and procedures ([Spaced Repetition](../claims/spaced-practice-improves-retention.md) [+S])
 - Consolidation of foundational concepts before higher-order work
 - Reduced working-memory demand during initial encoding ([Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M])
 
@@ -55,7 +55,7 @@ Repetition supports learners whose working-memory and processing-speed constrain
 2. Present each key point, then rephrase it in different words and pair it with a visual ([Chunking](../principles/chunking.md))
 3. Pause and check understanding before moving on ([Check-Ins](../principles/check-ins.md))
 4. Have learners restate or apply the point themselves ([Practice](../elements/practice.md))
-5. Revisit key points in subsequent lessons at spaced intervals ([Spaced Repetition](../claims/spaced-repetition-improves-retention.md))
+5. Revisit key points in subsequent lessons at spaced intervals ([Spaced Repetition](../claims/spaced-practice-improves-retention.md))
 6. Coordinate with broader supports such as [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md)
 
 ## Related Strategies

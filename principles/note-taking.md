@@ -146,7 +146,7 @@ Note completeness, note accuracy, immediate performance, delayed retention, tran
 
 ## Claims
 
-- [Handwritten note-taking yields higher achievement than typing, grounding a learning-outcome boundary where transcription tools bypass the assessed skill](../claims/handwritten-notes-higher-achievement-than-typing.md) [~W]
+- [Taking and reviewing handwritten notes yields slightly higher achievement than typing notes among college students, by one meta-analysis reported second-hand](../claims/handwritten-notes-higher-achievement-than-typing.md) [~W]
 
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic note formats can make structure and relationships more visible.

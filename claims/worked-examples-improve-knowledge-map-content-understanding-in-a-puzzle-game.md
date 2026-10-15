@@ -39,6 +39,18 @@ Randomized two-group experiment (72 undergraduate or graduate students) with the
 
 > "First, the participants who received worked examples improved significantly more than those who did not receive worked examples on the knowledge map. The average improvement in knowledge map score of the worked example group was more than that of the control group, i.e., 2.21 (SD = 2.56) vs. 0.62 (SD = 2.45)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do modelling, tutoring or bridging instruction added around play raise what learners take from a game?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Shen 2006 | q3 · causal · r2 | i? | this claim; [Adult players who studied worked examples scored significantly higher on a game-based prob](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md) (supports); [Adult players who studied worked examples scored significantly higher on a game-based prob](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) (supports); [Worked-example gains in a puzzle game remained small relative to expert performance, with ](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) (qualifies) |
+| Roschelle 2020 | q3 · causal · r2 | i? | [Fifth graders receiving online tutoring plus a fractions game learned more about fractions](online-tutoring-plus-game-improves-fraction-learning.md) (supports) |
+| Roschelle 2017 | q2 · review · r? | i? | [Students learn more from games when bridging activities connect implicit game learning wit](bridging-activities-connect-game-learning-to-instruction.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims

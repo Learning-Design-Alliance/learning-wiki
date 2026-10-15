@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: peer-tutoring-improves-achievement
+aliases: [tutoring-benefits-tutors-and-tutees]
 evidence_strength: insufficient
 sources:
   - id: cohen-et-al-1982
@@ -71,7 +72,7 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 | [Cohen et al. 1982](https://doi.org/10.3102/00028312019002237) | q3 · quant-synthesis · r? | i? | this claim; [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) (supports) |
 | [Alegre-Ansuategui et al. 2017](https://doi.org/10.12973/ejmste/79805) | q4 · quant-synthesis · r? | i1 · small effect, Hedge's g = 0.333 | this claim |
 | [Ginsburg-Block et al. 2006](https://doi.org/10.1037/0022-0663.98.4.732) | q3 · quant-synthesis · r? | i? | [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) (supports) |
-| What Works Clearinghouse 2007 | q3 · quant-synthesis · r1 | i?; i2 | [Peer Tutoring and Response Groups has positive effects on English language development for](peer-tutoring-response-groups-positive-eld-effects.md) (supports); [Cross-age peer tutoring by either bilingual or English-only tutors shows no statistically ](cross-level-peer-tutoring-null-oral-proficiency.md) (qualifies) |
+| What Works Clearinghouse 2007 | q3 · quant-synthesis · r1 | i?; i2; i0 | [Peer Tutoring and Response Groups has positive effects on English language development for](peer-tutoring-response-groups-positive-eld-effects.md) (supports); [Cross-age peer tutoring by either bilingual or English-only tutors shows no statistically ](cross-level-peer-tutoring-null-oral-proficiency.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -86,6 +87,16 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 
 **Role assignment and structure.** Because tutor and tutee roles engage different mechanisms — elaborative explanation for the tutor, guided practice with feedback for the tutee — designs that fix one learner in each role may systematically favor one party. Reciprocal or role-swapping designs, and structured protocols that script the explanation and questioning moves, are the main implementation responses; neither is tested by the evidence recorded here.
 
+*Merged from “Tutoring benefits both tutors and tutees” (tutoring-benefits-tutors-and-tutees):* **Why tutors benefit.** The dominant explanation is that preparing to teach forces the tutor to organize, elaborate, and verbalize their knowledge, exposing gaps that passive review leaves hidden. This aligns with the generative-processing logic behind [Active learning improves exam performance](active-learning-improves-exam-performance.md) and with [Constructivism](../theories/constructivism.md): knowledge is consolidated through use rather than reception. Explaining to another person also adds social accountability, which [Social learning theory](../theories/social-learning-theory.md) treats as a powerful motivator for effortful engagement.
+
+**Why tutees benefit.** Tutees receive individualized pacing, immediate feedback, and opportunities to ask questions that whole-class settings rarely permit. One-to-one and small-group interaction also supports the social presence conditions described in [Community of inquiry](../principles/community-of-inquiry.md).
+
+**Moderators and boundary conditions.** Tutor benefits are largest when tutors are adequately prepared and the material is within reach of their current competence; asking a near-peer to tutor content they have not yet mastered can entrench errors for both parties. Structured protocols (prompt cards, scripted question sequences) tend to outperform unstructured "just help each other" arrangements, consistent with the scaffolding logic of [Cognitive load theory](../theories/cognitive-load-theory.md) — unstructured tutoring can impose extraneous load on both roles. Reciprocal designs, where partners alternate roles, distribute these benefits and avoid fixed status hierarchies.
+
+**Design implications.** Effective programs typically (a) train tutors in specific questioning and explanation routines before sessions begin, (b) provide materials that structure the interaction rather than leaving roles open-ended, and (c) build in role rotation so neither partner is permanently cast as the weaker learner. These design features echo the scaffolding-and-fading approach described in [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md), where responsibility is gradually transferred to the learner.
+
+**Open questions.** The relative magnitude of tutor versus tutee gains across age bands and domains, and the durability of tutor-side gains over time, still need systematic synthesis on this page. The recorded meta-analysis of tutoring programmes reports gains for tutors but no effect size for them.
+
 ## Related Claims
 
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — peer tutoring is a structured form of collaborative learning with assigned roles.
@@ -98,7 +109,6 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
-- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — possibly the same claim (merge candidate)
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Cross-age peer tutoring by either bilingual or English-only tutors shows no statistically significant effect on oral language proficiency (Serrano, 1987)](cross-level-peer-tutoring-null-oral-proficiency.md) — a narrower finding that bears on this claim
@@ -111,3 +121,10 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [A recent meta-analysis of 14 types of educational interventions found high-impact tutoring the most effective at improving student achievement](tutoring-most-effective-intervention-meta-analysis.md) — related
 - [Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention](its-gradual-trend-not-intervention-effect.md) — related
 - [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — a narrower finding that bears on this claim
+- [Social learning theory](../theories/social-learning-theory.md) — social accountability and modeling explain tutor-side motivation gains
+- [Constructivism](../theories/constructivism.md) — knowledge consolidation through explanation and use
+- [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — modeling, coaching, and fading map onto the tutor's role progression
+- [The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others](framework-elements-interrelated-in-practice.md) — related
+- [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related
+- [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — a narrower finding that bears on this claim
+- [Tutoring programs consistently outperform common school-based alternatives such as class-size reduction and summer school, per the review's synthesis of Kraft](tutoring-outperforms-class-size-reduction-summer-school.md) — a narrower finding that bears on this claim

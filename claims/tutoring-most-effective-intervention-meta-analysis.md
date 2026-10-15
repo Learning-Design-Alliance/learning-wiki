@@ -44,5 +44,4 @@ The brief cites a meta-analysis comparing 14 intervention types in which "high-i
 
 ## Related Claims
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
-- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
 - [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related

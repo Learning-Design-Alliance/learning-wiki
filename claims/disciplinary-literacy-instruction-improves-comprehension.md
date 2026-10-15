@@ -59,6 +59,20 @@ Reisman, A. (2012). Reading like a historian: A document-based history curriculu
 
 Eleventh-grade students in five San Francisco high schools took part in a six-month Reading Like a Historian curriculum, in which a "Document-Based Lesson" had them use background knowledge to question and reconcile historical accounts from several primary sources, instead of textbook-driven lessons. A MANCOVA comparing treatment and control classes found significant effects of the treatment on all four outcomes: historical thinking, transfer of historical thinking to contemporary issues, factual knowledge, and general reading comprehension. Only the abstract was read, so the size of these effects is not recorded here.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching a discipline's own reading and reasoning practices on its own texts improve comprehension and disciplinary thinking over usual instruction?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (4 causal, 1 review), `q2`–`q3`, 3 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Goldman et al. 2019](https://doi.org/10.3102/0002831219831041) | q3 · causal · r2 | i1 · small effect, d=0.26 (multiple-choice) and 0.32 (multiple-text comprehension) | this claim |
+| [Reisman 2012](https://doi.org/10.1080/07370008.2011.634081) | q2 · causal · r? | i? | this claim |
+| [Iwatani 2023](https://doi.org/10.51388/20.500.12265/199) | q3 · causal · r1 | i2; i? | [Students learning from World History Project demonstrate more understanding of continuity ](whp-students-continuity-change-outcomes.md) (supports); [An evaluation of the World History Project detected no statistically significant differenc](whp-comparable-other-five-skills.md) (qualifies) |
+| [Hardy 2021](https://doi.org/10.51388/20.500.12265/113) | q2 · review · r2 | i? | [British empirical research concluded that students do not naturally progress in historical](targeted-instruction-drives-historical-thinking-progression.md) (supports); [Dimensions of historical thinking are conceptually decoupled: sophistication in one second](historical-thinking-dimensions-conceptually-decoupled.md) (qualifies) |
+| [Sendur et al. 2021](https://doi.org/10.1080/10508406.2021.1939029) | q3 · causal · r2 | i2 | [Explicit contextualization instruction improves procedural aspects of historical writing w](explicit-contextualization-instruction-improves-writing-procedure-not-scores.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope and mechanism.** Disciplinary literacy rests on the premise that each discipline has its own text structures, epistemic norms, and ways of using evidence — historians source and corroborate documents, scientists attend to procedures and claims, mathematicians parse dense symbolic prose. Instruction that makes these practices explicit is hypothesized to work because it equips learners with strategies matched to the texts they actually encounter, rather than generic strategies that may transfer poorly across disciplines. This connects to broader claims that [activation](../principles/activation.md) of discipline-specific prior knowledge and [cognitive apprenticeship](../patterns/cognitive-apprenticeship.md) models of expert thinking support comprehension.

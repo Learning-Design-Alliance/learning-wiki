@@ -12,7 +12,7 @@ generated:
 # Assigned Readings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 15 studies (4 causal, 4 quant-synthesis, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 2 of 15 report an effect size
+> **Evidence** · 5 claims (4 for, 1 unmarked) · 17 studies (5 causal, 5 quant-synthesis, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 17 report an effect size
 
 ## Description
 Assigned readings are texts — textbook chapters, articles, cases, or primary sources — that learners are expected to study independently before instruction. The strategy shifts first exposure to content outside of contact time, freeing synchronous sessions for application, discussion, and feedback. It is the backbone of [Flipped Classroom](../patterns/flipped-classroom.md) designs and the standard preparation mechanism for [Case-Based Learning](../patterns/case-based-learning.md).
@@ -32,7 +32,7 @@ Assigned readings only pay off when learners actually complete them and when cla
 - Without accountability, completion rates drop sharply, especially for long or difficult texts [-M]
 - Re-lecturing assigned content in class removes the incentive to read and wastes the preparation advantage [-M]
 - Very difficult texts assigned without scaffolding produce shallow skimming or disengagement; the [expertise reversal effect](../claims/expertise-reversal-effect.md) means supports that help novices (e.g., heavy guidance in the text) can slow more knowledgeable readers [~M]
-- Long assignments undermine completion; spacing several shorter readings outperforms one massive one [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+M]
+- Long assignments undermine completion; spacing several shorter readings outperforms one massive one [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+M]
 
 #### Implementation Variability
 - **Pre-reading quizzes** — low-stakes checks before class; among the most reliably effective completion interventions [+S]

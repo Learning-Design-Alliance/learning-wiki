@@ -1,0 +1,102 @@
+{
+  "principle": "principles/cognitive-activation",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Both hubs and questions reused verbatim from eval/synthesis/active-learning.json.",
+  "findings": [
+    {
+      "hub": "constructive-learning-beats-active-passive",
+      "question": "Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?",
+      "members": [
+        [
+          "icap-hypothesis-learning-increases-i-cap",
+          "+"
+        ],
+        [
+          "active-to-constructive-largest-leap",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "interactive-requires-constructive-turn-taking",
+          "~"
+        ],
+        [
+          "self-explanation-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "students-learned-more-constructive-than-active",
+          "+"
+        ],
+        [
+          "constructive-beats-passive-young-children",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "minimal-guidance-less-effective-for-novices",
+      "question": "What makes it fail: too little guidance for novices, or tasks that are hard to design well?",
+      "members": [
+        [
+          "teachers-struggle-designing-interactive-activities",
+          "~"
+        ],
+        [
+          "balance-active-learning-independent-practice-gateway-math",
+          "~"
+        ],
+        [
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
+          "+"
+        ],
+        [
+          "minimally-guided-approaches-ignore-cognitive-architecture",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "recent-design-models-support-guidance-during-instruction",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "~"
+        ],
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "explicit-instruction-context-dependent-synthesis",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

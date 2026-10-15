@@ -41,11 +41,12 @@ Observational ANOVA of cumulative GPA by visit category for the fall 2007 cohort
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md) — the general claim this finding bears on, with the studies behind it
 - [Tutoring center visits showed a delayed significant correlation with cumulative GPA in subsequent quarters](delayed-correlation-visits-cumulative-gpa.md) — related
 - [Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit](high-use-tutoring-center-visits-higher-persistence.md) — related
-- [Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs](minority-students-more-tutoring-visits-lower-gpas.md) — related
+- [In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits](minority-students-more-tutoring-visits-lower-gpas.md) — related
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
 - [Mean program GPA differs significantly across the five standards-attainment learner groups](gpa-differs-across-standards-profiles.md) — related

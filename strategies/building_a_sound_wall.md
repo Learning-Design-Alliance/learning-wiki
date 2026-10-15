@@ -12,7 +12,7 @@ generated:
 # Building a Sound Wall
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 A sound wall is a classroom display organized around the approximately 44 phonemes of spoken English rather than the 26 letters of the alphabet. Consonants are typically grouped by manner and place of articulation (stops, nasals, fricatives, etc.) with mouth-picture cues, and vowels are arranged as a vowel valley showing the continuum of tongue position. Unlike a traditional A–Z word wall, a sound wall foregrounds the *sound* first and maps graphemes onto it, mirroring the direction of processing required in reading and spelling: learners must go from phoneme to spelling, not letter to sound.
@@ -58,7 +58,7 @@ A sound wall operationalizes the science-of-reading consensus that explicit, sys
 3. **Add words with students.** Post example words and pictures as they are taught, discussing *why* each word belongs where it does — this self-explanation step deepens the phoneme–grapheme mapping [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 4. **Build daily use routines.** During writing, prompt students to locate the sound they need; during reading, use the wall to analyze unfamiliar words ([Practice](../elements/practice.md)).
 5. **Provide corrective feedback on articulation and spelling choices.** When students misidentify a sound or spelling, return to the mouth cue and the wall ([Provide Feedback](../elements/provide-feedback.md)).
-6. **Revisit and review.** Cycle back to previously taught sounds through word sorts and dictation so mappings are consolidated over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+6. **Revisit and review.** Cycle back to previously taught sounds through word sorts and dictation so mappings are consolidated over time [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
 - [Word Walls](word-walls.md) — the letter-organized predecessor; sound walls improve on it by matching the phoneme-first direction of reading processing

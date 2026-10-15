@@ -43,6 +43,6 @@ Narrative review attributing this finding to Kraft's comprehensive review of edu
 
 
 ## Related Claims
-- [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — a broader claim this one bears on
+- [Tutoring benefits both tutors and tutees](peer-tutoring-improves-achievement.md) — a broader claim this one bears on
 - [The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation](tutoring-effect-size-aligned-with-implementation-quality.md) — related
 - [The brief compares the scale and impact of summer school with other interventions such as tutoring](summer-school-compared-tutoring-scale-impact.md) — related

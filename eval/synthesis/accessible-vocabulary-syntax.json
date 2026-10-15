@@ -7,6 +7,22 @@
       "question": "Does teaching the essential terms improve comprehension, and of which texts?",
       "members": [
         [
+          "academic-vocabulary-intensive-instruction-strong-evidence",
+          "+"
+        ],
+        [
+          "concept-model-beats-definition-model-vocabulary-ld",
+          "+"
+        ],
+        [
+          "morphological-instruction-improves-vocabulary",
+          "~"
+        ],
+        [
+          "vocabulary-programs-insufficient-to-close-vocabulary-gap",
+          "~"
+        ],
+        [
           "embedded-aids-improve-reading-comprehension",
           "+"
         ],

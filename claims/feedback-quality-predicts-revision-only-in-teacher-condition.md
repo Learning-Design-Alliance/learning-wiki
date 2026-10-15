@@ -38,7 +38,7 @@ sources:
 # Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the teacher condition, feedback quality significantly predicted revised draft quality (β = .53). [→ Farrokhnia 2026](#farrokhnia-2026)
@@ -79,8 +79,9 @@ Multiple regression in the CoT condition (model F(2, 19) = 8.80, p = .002, R2 = 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — related
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related

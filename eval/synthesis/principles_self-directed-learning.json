@@ -7,7 +7,7 @@
       "question": "When learners choose their own study strategies, do they choose the ones that work?",
       "members": [
         [
-          "learners-misjudge-retrieval-benefit",
+          "learners-misjudge-effective-learning-strategies",
           "+"
         ],
         [
@@ -37,10 +37,6 @@
         [
           "nmsa-survey-preference-practice-testing",
           "~"
-        ],
-        [
-          "learners-misjudge-effective-learning-strategies",
-          "+"
         ],
         [
           "learners-misjudge-spacing-benefits",

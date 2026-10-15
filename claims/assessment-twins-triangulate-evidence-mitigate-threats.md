@@ -41,6 +41,7 @@ This is the article's own conceptual argument, not an empirical test: the author
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](proposition-4-distinct-evidence-demands.md) — the general claim this finding bears on, with the studies behind it
 - The article reports a relative lack of literature detailing practical approaches to GenAI-driven assessment redesign — related

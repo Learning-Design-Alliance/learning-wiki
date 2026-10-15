@@ -41,6 +41,9 @@ Figure 4 scatterplot of average effect size by deciles of teacher sample size wi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 -

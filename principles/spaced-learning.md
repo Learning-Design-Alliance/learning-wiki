@@ -59,7 +59,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (22 for, 11 mixed, 1 unmarked) · 28 studies (15 causal, 7 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (21 for, 11 mixed, 1 unmarked) · 28 studies (15 causal, 7 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 27 claims rest on one study
 
 ## Description
 
@@ -113,7 +113,7 @@ Ask for three facts when the brief omits them: **how long until the knowledge is
 
 | If the brief says… | Then change… | Basis |
 |---|---|---|
-| The goal is retention of facts, terms, vocabulary or procedures over weeks or a course | Split the same total study time into several sessions on different days instead of one block; when comparing schedules, hold total practice constant | [Spaced practice improves retention](../claims/spaced-practice-improves-retention.md) [+S]; [Spaced repetition improves retention](../claims/spaced-repetition-improves-retention.md) [+M] |
+| The goal is retention of facts, terms, vocabulary or procedures over weeks or a course | Split the same total study time into several sessions on different days instead of one block; when comparing schedules, hold total practice constant | [Spaced practice improves retention](../claims/spaced-practice-improves-retention.md) [+S]; [Spaced repetition improves retention](../claims/spaced-practice-improves-retention.md) [+M] |
 | The test or use that matters is weeks or months away | Lengthen the gap between study and review as the delay grows; in one classroom simulation a review eight days after the lecture beat one after a day on a test five weeks later. Do not treat any single gap as universal | [The optimal gap grows with the retention interval](../claims/optimal-isi-increases-with-retention-interval.md) [+M]; [Eight-day review beat one-day review](../claims/eight-day-review-improves-five-week-science-test-versus-one-day-review.md) [+M] |
 | The test is the same day or the next morning | Short within-day gaps still beat massing, but expect a smaller gain; add a later check if retention beyond the test matters | [The spacing benefit holds at very short retention intervals](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+M] |
 | The programme runs a year or more (a language course, a certificate) | Revisit each item on a schedule matched to when it will next be used; do not stretch gaps to many months just because the calendar allows it | [One review argues spreading over years can be worse than over months](../claims/distributed-practice-limits-l2.md) [~W] |
@@ -123,7 +123,7 @@ Ask for three facts when the brief omits them: **how long until the knowledge is
 | Learners study on their own (`online-self-paced`, revision before exams) | Schedule the review sessions in the course (dated releases, reminders); left alone, learners mass their study and judge massing to work better | [Learners misjudge spacing benefits](../claims/learners-misjudge-spacing-benefits.md) [~M] |
 | Practice scores drop when sessions are spread out | Keep the gaps; judge the schedule on a delayed test, not on practice accuracy | [Spaced retrieval wins at the final test despite lower initial recall](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+M] |
 | The goal is application or understanding, not only recall of the items | Use new or rephrased questions on the same concepts in the reviews; the classroom spacing gain extended to rephrased application questions, less firmly than to facts | [Eight-day review beat one-day review](../claims/eight-day-review-improves-five-week-science-test-versus-one-day-review.md) [+M]; [The spaced benefit reflects transfer, not item memorisation](../claims/spaced-practice-benefit-reflects-transfer-not-item-memorization.md) [+W] |
-| The skill is a complex task or a motor skill rather than verbal recall | Still space practice, but expect a smaller benefit than for verbal material | [Spaced repetition improves retention](../claims/spaced-repetition-improves-retention.md) [~M] |
+| The skill is a complex task or a motor skill rather than verbal recall | Still space practice, but expect a smaller benefit than for verbal material | [Spaced repetition improves retention](../claims/spaced-practice-improves-retention.md) [~M] |
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

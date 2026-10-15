@@ -53,6 +53,8 @@ A meta-analysis of STEM-learning studies published 2005–2020 (35 articles, 160
 
 ## Related Claims
 
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — the general claim this finding bears on, with the studies behind it
+
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — drawing must fit within the same working-memory limits it is meant to exploit
 - [Coherence principle: irrelevant material hurts learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) — drawings must represent core content, not decorative detail
 - [Activation improves learning.](../claims/activation-improves-learning.md) — drawing activates and externalizes prior knowledge during study

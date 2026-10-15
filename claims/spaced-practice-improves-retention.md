@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: spaced-practice-improves-retention
-aliases: [spaced-practice-improves-long-term-retention, spacing-improves-long-term-retention, spacing-improves-retention]
+aliases: [spaced-practice-improves-long-term-retention, spacing-improves-long-term-retention, spacing-improves-retention, distributed-practice-improves-retention, spacing-effect-robust-verbal-recall, spaced-repetition-improves-retention]
 evidence_strength:
 sources:
   - id: cepeda-et-al-2006
@@ -75,6 +75,16 @@ Practicing or reviewing material across multiple sessions separated in time prod
 
 `q3 i?` With 128 Japanese college students learning 20 English–Japanese word pairs, the amount of spacing (massed, short, medium or long) had a significant main effect that the author reports as producing large effect sizes. [→ Nakata 2015](#nakata-2015)
 
+`q4 i?` A quantitative synthesis of the verbal-recall literature found spaced practice superior to massed practice, with the advantage increasing as the retention interval lengthened. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
+
+`q3 i?` The optimal gap scales with how long the material must be retained: gaps that maximise recall at one week are too short for a test months later. There is no fixed best interval to configure. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
+
+`q4 i2` A meta-analysis outside the verbal-learning laboratory, covering task practice, put the distribution-of-practice effect at d = 0.46 and found it moderated by task complexity. [→ Donovan & Radosevich 1999](#donovan-and-radosevich-1999)
+
+`q4 i?` Across 271 massed-versus-spaced comparisons in verbal recall tasks, spaced presentation raised final-test recall from 36.7% to 47.3% correct with study time held equal, and only 12 comparisons showed no or a negative spacing effect; the benefit appeared at short as well as long retention intervals. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
+
+`q3 i?` In a single study of more than 1,350 people learning facts, the review gap that maximised final-test performance grew as the test delay grew, but shrank as a proportion of it: from about 20–40% of a 1-week delay to about 5–10% of a 1-year delay. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
+
 ## Evidence
 
 ### Cepeda et al. 2006
@@ -85,6 +95,44 @@ Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distrib
 
 A quantitative review of 839 assessments of distributed practice in 317 experiments from 184 articles, all using verbal recall tasks. For the spacing comparison it set massed study (one uninterrupted presentation or a lag under one second) against the shortest spaced interval in each study, with study time held equal. Averaged over all retention intervals, final recall was 36.7% after massed and 47.3% after spaced study (t(540) = 6.6, p < .001). A spacing benefit appeared in every retention-interval band, from under a minute to over 30 days. Effect sizes could not be pooled for this comparison because too few studies reported the data needed. Most of the data come from young adults (714 of 839 performance differences), so evidence for children's long-term retention is thin. The authors say they "cannot say for certain" that it benefits.
 
+<!-- merged 2026-10-15 from spaced-repetition-improves-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+### Cepeda 2006
+
+Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed Practice in Verbal Recall Tasks: A Review and Quantitative Synthesis. Psychological Bulletin, 132(3), 354-380. https://doi.org/10.1037/0033-2909.132.3.354
+
+`q2 · i?` · `quant-synthesis · r2`
+
+Meta-analytic comparison of massed versus shortest spaced condition within studies, 271 retention-accuracy comparisons and 23 effect sizes, analyzed with independent samples t tests. Spaced presentations improved final-test performance by 9% at retention intervals under 1 min; overall t(540) = 6.6, p < .001.
+
+> "Spaced presentations led to markedly better final-test perfor- mance, compared with massed presentations. For retention inter- vals less than 1 min, spaced presentations improved final-test performance by 9%, compared with massed presentations"
+- ->
+-->
+
+<!-- merged 2026-10-15 from spaced-repetition-improves-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+### Cepeda et al. 2006
+
+Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+
+`q4 · meta-analysis (quantitative synthesis of accuracy differences)` · `i? · no standardised effect size for spaced vs massed; 36.7% vs 47.3% correct` · `n=839 assessments in 317 experiments from 184 articles` · `quant-synthesis · r?`
+
+A meta-analysis of verbal recall experiments (paired associates, list learning and similar tasks). For the spaced-versus-massed question it pooled 271 comparisons from 254 studies with 14,811 participants in total, and compared percentage correct, because too few studies reported effect sizes. With study time equal, spaced presentation beat massed presentation overall (47.3% vs 36.7% correct) and at every retention-interval band, including tests under a minute later (50.1% vs 41.2%); several individual bands between 10 minutes and 7 days were not statistically significant on their own because few studies fell into them. Separate lag analyses found that the interstudy interval giving the best retention increased as the retention interval increased.
+- ->
+
+<!- - merged 2026-10-13 from spacing-effect-robust-verbal-recall: that page's entry for this study, which differed from the one above, kept verbatim.
+-->
+
+<!-- merged 2026-10-15 from spaced-repetition-improves-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+### Cepeda et al. 2006
+
+Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+
+`q4` · `i? · the abstract prints no effect size; the full text may` · `quant-synthesis · r?`
+
+A review and quantitative synthesis of distributed-practice studies in verbal recall, covering several hundred experiments. Spacing beat massing broadly, and the interaction with retention interval was the robust moderator: the longer the delay before test, the larger the advantage.
+
+<!- - merged 2026-10-13 from distributed-practice-improves-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+-->
+
 ### Donovan and Radosevich 1999
 
 Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. *Journal of Applied Psychology, 84*(5), 795–805. [doi:10.1037/0021-9010.84.5.795](https://doi.org/10.1037/0021-9010.84.5.795)
@@ -93,6 +141,16 @@ Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distri
 
 A meta-analysis of 63 studies comparing spaced with massed practice on a wide range of tasks, including motor skills such as typing and rotary pursuit as well as verbal tasks. Its outcome is task performance rather than delayed retention specifically. Spaced practice produced higher performance overall, with a mean weighted effect size of 0.46. The effect depended on the type of task, the interval between trials and how the two interacted. Studies with low methodological rigour produced significantly larger effects, which is why this entry is coded q3 rather than q4. Cepeda et al. (2006) summarise this review as finding that longer lags increased effects for verbal tasks up to a point, but reduced them for skill tasks such as typing, gymnastics and music. That qualifies the claim for complex and motor skills.
 
+<!-- merged 2026-10-15 from spaced-repetition-improves-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+### Donovan & Radosevich 1999
+
+Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. *Journal of Applied Psychology, 84*(5), 795–805. [doi:10.1037/0021-9010.84.5.795](https://doi.org/10.1037/0021-9010.84.5.795)
+
+`q4` · `i2` · `quant-synthesis · r2`
+
+A meta-analysis of distribution-of-practice effects across task types, reporting d = 0.46 overall and substantial moderation by task complexity — the effect was smaller for complex tasks. Included here because it tests the generalisation outside verbal recall, where most of the other evidence sits.
+-->
+
 ### Cepeda et al. 2008
 
 Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)
@@ -100,6 +158,29 @@ Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing
 `q3 · randomised between-subjects experiment` · `i3 · large effect, d=1.1 recall (optimal gap vs zero gap)` · `n=1354` · `causal · r2`
 
 1,354 adults from an online research panel (mean age 34) learned 32 obscure trivia facts and reviewed them once, after a gap of up to 3.5 months. Each person was randomly assigned to one of 26 combinations of gap and test delay, and the final test came up to a year after the review. At every test delay, recall first rose as the gap grew and then declined. With study time held fixed, the best gap raised final recall by 64% (d = 1.1) and recognition by 26% (d = 1.5), compared with reviewing in the same session. The best gap was about 20% of the test delay when the test came a few weeks later, falling to about 5% for a one-year delay. The reported d values compare the post hoc best gap with a zero gap, so they are an upper bound for any single chosen schedule, and fewer people completed the longer conditions.
+
+<!-- merged 2026-10-15 from spaced-repetition-improves-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+### Cepeda et al. 2008
+
+Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)
+
+`q3 · large-sample experiment (not pre-registered)` · `i? · no effect size reported in the abstract` · `n=more than 1,350 participants` · `causal · r?`
+
+More than 1,350 people were taught a set of facts, reviewed them after a gap of up to 3.5 months, and were tested after a further delay of up to one year. At any given test delay, lengthening the gap first improved and then gradually reduced final-test performance, so there is an optimal gap rather than "longer is always better". The optimal gap grew with the test delay, but as a share of that delay it fell from about 20–40% (1-week test) to about 5–10% (1-year test). Only the abstract was read for this entry.
+- ->
+-->
+
+<!-- merged 2026-10-15 from spaced-repetition-improves-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+### Cepeda et al. 2008
+
+Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)
+
+`q3` · `i? · the abstract prints no effect size; the full text may` · `causal · r?`
+
+An experiment varying the gap between two study sessions and the interval before test across a wide grid, producing a ridgeline of optimal gaps rather than a single value. The optimal gap was a rising function of the retention interval. This is the study that makes spacing a parameter to tune against an intended retention horizon rather than a fixed schedule.
+
+<!- - merged 2026-10-13 from distributed-practice-improves-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+-->
 
 ### Kim and Webb 2022
 
@@ -120,18 +201,19 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **12 distinct studies** (5 causal, 4 quant-synthesis, 3 review), `q2`–`q4`, 3 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **13 distinct studies** (5 causal, 4 quant-synthesis, 4 review), `q2`–`q4`, 3 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Cepeda et al. 2006](https://doi.org/10.1037/0033-2909.132.3.354) | q2 / q4 · quant-synthesis · r? | i? | this claim; [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) (supports); [The spacing benefit holds even at very short retention intervals, contradicting the Peters](spacing-benefit-short-retention-no-peterson-paradox.md) (supports) |
-| [Donovan and Radosevich 1999](https://doi.org/10.1037/0021-9010.84.5.795) | q3 / q4 · quant-synthesis · r? | i2 · medium effect, mean weighted d=0.46; i2 | this claim; [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) (supports) |
-| [Cepeda et al. 2008](https://doi.org/10.1111/j.1467-9280.2008.02209.x) | q3 · causal · r2 | i3 · large effect, d=1.1 recall (optimal gap vs zero gap); i? | this claim; [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) (supports) |
+| [Cepeda et al. 2006](https://doi.org/10.1037/0033-2909.132.3.354) | q2 / q4 · quant-synthesis · r? | i? | this claim; [The spacing benefit holds even at very short retention intervals, contradicting the Peters](spacing-benefit-short-retention-no-peterson-paradox.md) (supports) |
+| [Donovan and Radosevich 1999](https://doi.org/10.1037/0021-9010.84.5.795) | q3 · quant-synthesis · r? | i2 · medium effect, mean weighted d=0.46 | this claim |
+| [Cepeda et al. 2008](https://doi.org/10.1111/j.1467-9280.2008.02209.x) | q3 · causal · r2 | i3 · large effect, d=1.1 recall (optimal gap vs zero gap) | this claim |
 | [Kim and Webb 2022](https://doi.org/10.1111/lang.12479) | q3 · quant-synthesis · r? | i? | this claim |
 | [Nakata 2015](https://doi.org/10.1017/s0272263114000825) | q3 · causal · r? | i? | this claim |
+| [Latimier et al. 2021](https://doi.org/10.1007/s10648-020-09572-8) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.74 | [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) (supports) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Spaced retrieval practice produces better final retention than massed retrieval even thoug](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) (supports) |
 | [Carpenter 2022](https://doi.org/10.1038/s44159-022-00089-1) | q2 · review · r? | i? | [Spacing enhances learning across various domains and across the lifespan, with emphasis on](spacing-enhances-learning-across-domains-lifespan.md) (supports) |
 | Digital Promise and the Institute for Applied Neuroscience 2019 | q2 · review · r? | i? | [Spacing content over time and interweaving different content strengthens learning and rete](spacing-interleaving-improve-retention.md) (supports) |
-| [Latimier et al. 2021](https://doi.org/10.1007/s10648-020-09572-8) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.74 | [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md) (supports) |
 | Caple 1996 | q2 · causal · r? | i? | [Structured CAI with spaced practice and spaced review produced better recall and retention](structured-cai-spacing-improves-recall-and-retention.md) (supports) |
 | [Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova 2016](https://doi.org/10.1558/cj.v33i3.26055) | q3 · causal · r2 | i? | [Supplemental computer-based spaced repetition activities nearly triple long-term vocabular](spaced-repetition-supplement-triples-vocabulary-retention.md) (supports) |
 | [Tetiana Zubenko 2022](https://doi.org/10.20535/2410-8286.250501) | q2 · causal · r1 | i? | [ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental lis](svas-spaced-listening-outperforms-comparison-end-of-experiment.md) (supports) |
@@ -186,6 +268,26 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 
 **Second-language vocabulary and learning.** Two second-language sources extend the claim beyond the verbal-recall laboratory literature above: Kim and Webb (2022) pooled 48 L2 experiments and report a medium-to-large spacing effect, with longer spacing better than shorter spacing on delayed posttests only, and Nakata (2015) found a large effect of the amount of spacing on L2 word-pair learning. Both entries rest on abstracts that print no effect sizes, so they support the direction for L2 learners, not a size.
 
+*Merged from “Spaced Repetition Improves Retention” (spaced-repetition-improves-retention):* **The spacing effect is one of the most robust findings in memory research.** The entries below are two meta-analyses (Cepeda et al. 2006; Donovan & Radosevich 1999) and one large experiment (Cepeda et al. 2008). The wider literature — beginning with Ebbinghaus's forgetting-curve experiments and extending through modern meta-analyses of verbal learning and classroom studies — consistently favors spaced over massed practice for delayed retention tests, with the advantage growing as the retention interval lengthens [+S].
+
+**Optimal gap depends on retention interval.** A recurring moderator in the literature is that the best spacing gap scales with how long the learner needs to remember: gaps that are optimal for a test one week later are too short for a test six months later [~M]. Designers of [adaptive-learning](../principles/adaptive-learning.md) systems and flashcard tools should treat spacing as a parameter to tune, not a fixed rule.
+
+**Mechanism.** Dominant accounts attribute the effect to encoding variability and to desirable-difficulty processes — spaced study requires effortful retrieval and reconstruction of fading traces, which strengthens them more than the fluent, easy processing that massed study affords [+M]. This links spacing to [retrieval practice](retrieval-practice-improves-retention.md), which compounds with spacing when spaced sessions require active recall rather than rereading [+M].
+
+**Boundary conditions.** Spacing benefits are clearest for retention of discrete, relearnable items (vocabulary, facts, skills components). Complex, integrative tasks may benefit more from interleaving and varied practice than from simple temporal spacing of identical material [~W] — see [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md).
+
+**Learner perception.** Learners often judge massed study more effective because it feels fluent, while spaced study feels harder — a metacognitive illusion that can suppress spontaneous spacing [-M]. Explicit instruction about the spacing effect can partially correct this [+W].
+
+**Design implication.** Because the effect is robust but its parameters are context-sensitive, practical implementations (expanding-interval flashcard schedules such as those in [Anki](https://apps.ankiweb.net/) or [SuperMemo](https://www.supermemo.com/), spaced homework in course design) should pair scheduling with [retrieval practice](retrieval-practice-improves-retention.md) rather than rereading, and should calibrate gaps to the intended retention horizon.
+
+*Merged from “Distributed Practice Improves Retention” (distributed-practice-improves-retention):* **Mechanism.** Two complementary accounts dominate. On a trace-strengthening or consolidation view, time between episodes allows memory traces to consolidate and partially decay, so re-encountering material at the point of near-forgetting strengthens it more than immediate repetition — an account consistent with [Information Processing Theory](../theories/information-processing-theory.md). On a study-phase retrieval view, spaced episodes force learners to retrieve the earlier episode from long-term memory, and that retrieval itself strengthens the memory. Both accounts predict the same design implication: the gap should be long enough to make re-encoding effortful, but not so long that the material is fully forgotten. Spacing is thus a form of desirable difficulty, and its benefits are conceptually distinct from the working-memory mechanisms described in [Cognitive Load Theory](../theories/cognitive-load-theory.md) — see [Cognitive load reduction improves learning](../claims/cognitive-load-reduction-improves-learning.md).
+
+**Scope and moderators.** The effect is most robust for verbal, declarative material (vocabulary, facts, definitions) and for delayed retention measures; the benefit on near-immediate tests is uneven rather than absent: Cepeda et al. (2006) found spaced study ahead even at retention intervals under one minute (50.1% vs 41.2% correct), while some short-interval bands showed small, non-significant differences (49.8% vs 48.9% at 1–10 minutes), so evaluations should still use delayed outcomes. The optimal spacing gap is not fixed: it grows with the retention interval, meaning a schedule optimal for a test next week is suboptimal for a test next semester. Spacing also interacts with retrieval practice — spaced retrieval is generally stronger than either spaced re-reading or massed retrieval — see [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md).
+
+**Boundary conditions.** Learners systematically misjudge spacing: massed study feels more effective in the moment and is what learners prefer, while spaced study feels harder and its advantage is only visible on a delayed test. This metacognitive illusion means simply offering spacing options is insufficient — see [Self-Regulated Learning](../theories/self-regulated-learning.md). Designers should build spacing into scheduling defaults (spiraled homework, cumulative quizzes, revisit-and-review cycles) and explicitly teach learners why distributed study feels worse but works better. Curriculum pacing that front-loads instruction before a single assessment pushes learners toward cramming and works against spacing.
+
+**Open questions.** Open questions for future enrichment include how spacing effects scale from laboratory verbal-learning tasks to authentic classroom content, whether benefits extend to complex skill acquisition and transfer rather than retention, and how to specify optimal gap-to-retention ratios for practical scheduling.
+
 ## Related Claims
 
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — another encoding-side strategy that changes how material is packaged across study episodes
@@ -201,12 +303,11 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — testing pairs naturally with spacing; the combination amplifies retention
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — manageable load per session is a precondition for spacing to help
 - [Interleaving improves discrimination and learning.](interleaving-improves-inductive-learning.md) — a related scheduling manipulation that mixes rather than repeats content
-- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — possibly the same claim (merge candidate)
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
-- [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md) — related
+- [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — a narrower finding that bears on this claim
@@ -219,3 +320,14 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — a narrower finding that bears on this claim
+- [Adaptive Learning Improves Outcomes](adaptive-learning-improves-outcomes.md) — adaptive platforms operationalize spacing by scheduling reviews at expanding intervals
+- [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
+- [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](spaced-repetition-supplement-triples-vocabulary-retention.md) — a narrower finding that bears on this claim
+- [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](deep-prompt-advantage-fades-at-follow-up.md) — related
+- [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related
+- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — a narrower finding that bears on this claim
+- [Cognitive load reduction improves learning.](../claims/cognitive-load-reduction-improves-learning.md) — spacing manages load across time rather than within a single episode
+- [Self-Regulated Learning](../theories/self-regulated-learning.md) — learners' spacing decisions are shaped by flawed metacognitive judgments
+- [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — related
+- [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
+- [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related

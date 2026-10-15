@@ -12,7 +12,7 @@ generated:
 # Dual Coding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 15 studies (7 causal, 4 quant-synthesis, 2 review, 2 theoretical), `q2`–`q4` · 5 of 15 report an effect size
+> **Evidence** · 6 claims (5 for, 1 against) · 14 studies (7 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 5 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 Dual coding pairs verbal information (words, narration, text) with a complementary visual representation (diagram, animation, image, graph) so that content is processed through both the verbal and visual channels of working memory. The two representations are not redundant — each carries part of the meaning — and learners benefit most when they actively integrate the two into a single coherent mental model. The strategy draws on Paivio's dual coding theory and Mayer's multimedia learning research.

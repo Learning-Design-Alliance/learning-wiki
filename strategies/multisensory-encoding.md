@@ -12,7 +12,7 @@ generated:
 # Multisensory Encoding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (2 for, 1 mixed, 4 against) · 19 studies (8 causal, 5 quant-synthesis, 4 review, 2 theoretical), `q2`–`q4` · 5 of 19 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (2 for, 1 mixed, 4 against) · 18 studies (8 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q2`–`q4` · 5 of 18 report an effect size · 2 claims rest on one study
 
 ## Description
 Multisensory encoding presents the same core content through more than one sensory modality — most commonly combining visual and auditory channels, but also including gesture, movement, and tactile experience. The goal is not decoration or redundancy but complementary representations: each channel carries part of the load or reinforces the same structure in a different format.

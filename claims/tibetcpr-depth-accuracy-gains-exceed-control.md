@@ -41,7 +41,8 @@ Randomised controlled study with 40 participants; depth accuracy was the proport
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [In a randomised study with 40 CPR-naive lay adults in Tibet, 10 minutes of TibetCPR training produced rhythm-stabilisation gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test](tibetcpr-rhythm-stabilisation-exceeds-unguided-practice.md) — related
 - [Depth accuracy rose progressively during the intervention, with the experimental group improving roughly three percentage points per minute faster than the control group](tibetcpr-depth-progressive-within-session-gain.md) — a narrower finding that bears on this claim

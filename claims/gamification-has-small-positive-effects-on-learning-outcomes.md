@@ -48,7 +48,7 @@ A meta-analysis of 38 publications reporting 40 experiments compared gamified in
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does adding a game layer to instruction raise outcomes, and which outcomes?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 2 review), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does adding a game layer to instruction raise outcomes, and which outcomes?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 quant-synthesis, 2 review), `q2`–`q3`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -56,6 +56,10 @@ A meta-analysis of 38 publications reporting 40 experiments compared gamified in
 | [A. Pradheepa 2025](https://doi.org/10.29140/ajal.v8n1.2073) | q2 · quant-synthesis · r2 | i? | [Quizizz-based gamification improved word memorization over traditional methods for interme](quizizz-gamification-better-memorization.md) (supports); [In one mixed-methods study of university students, reported in a review, gamified vocabula](gamification-raises-motivation-satisfaction.md) (supports) |
 | [Patricia D. Simon 2026](https://doi.org/10.1016/j.caeo.2026.100360) | q2 · review · r3 | i? | [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, w](gamification-engagement-mixed-evidence.md) (qualifies) |
 | [Ogunsakin IB 2026](https://doi.org/10.3389/feduc.2026.1943906) | q2 · review · r2 | i? | [Behavioural engagement indicators such as platform interaction and task completion do not ](behavioural-engagement-not-cognitive-engagement.md) (qualifies) |
+| [Tangkiengsirisin 2025](https://doi.org/10.70730/ufrc4620) | q2 · causal · r1 | i3; i? | [Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after](mangomon-rpg-gamification-improves-business-vocabulary.md) (supports); [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale mean](moderate-motivation-imi-mangomon.md) (qualifies) |
+| [Frolli et al. 2023](https://doi.org/10.3390/pediatric15030046) | q2 · causal · r1 | i? | [Game-based vocabulary practice produced larger gains than traditional instruction for newl](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) (supports) |
+| [Bingjun Li 2025](https://doi.org/10.65879/3070-5789.2025.01.07) | q2 · causal · r2 | i? | [In a prior comparative evaluation, gamified phishing-detection modules produced better lea](gamified-modules-beat-mimecast-phishing.md) (supports) |
+| Meg Guerreiro 2018 | q2 · causal · r? | i? | [Students taking gameful assessments report higher satisfaction than students taking tradit](gameful-assessments-higher-student-satisfaction.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -76,6 +80,8 @@ informal settings; none is specific to second-language learning. Narrower claims
 gamified vocabulary practice.
 
 ## Related Claims
+
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — more specific: gamified vocabulary learning
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — more specific

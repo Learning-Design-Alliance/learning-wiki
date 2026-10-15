@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance"
-description: Teachers make frequent small customizations to OpenSciEd materials, mainly for practical needs, student ideas, and equity goals
+description: "Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance"
 id: teacher-customizations-storyline-curriculum
 status: draft
 generated:

@@ -13,7 +13,7 @@ generated:
 # Activate Background Knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 7 studies (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 3 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Activating background knowledge means deliberately prompting learners to retrieve relevant prior knowledge before new content is introduced — through opening questions, brief discussions, brainstorming, or structured activities such as [Advance Organizers](../elements/advance-organizers.md) or KWL charts. The goal is to bring relevant schemas into working memory so new information can be connected to, and integrated with, what learners already hold. Retrieval of prior knowledge is itself a form of [Practice](../elements/practice.md) that strengthens the existing schema while preparing it to receive new links.
@@ -63,7 +63,7 @@ New learning is stored in relation to existing knowledge structures; when releva
 - Transfer: establishing the retrieval pathways that later support application in new contexts
 - Misconception repair: surfacing naive conceptions so they can be explicitly addressed
 - Comprehension of texts, lectures, or new domains that presuppose familiar schemas
-- Retention: knowledge connected to existing structures is recalled more reliably [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention: knowledge connected to existing structures is recalled more reliably [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Transfer: activating analogous prior experience supports analogical mapping to new problems
 
 ### Instructions
@@ -141,7 +141,7 @@ Activation improves comprehension by reducing the working-memory burden of proce
 
 ### Target Learning Goals
 - Comprehension of texts, lectures, or new domains that presuppose familiar schemas
-- Retention: knowledge connected to existing structures is recalled more reliably [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention: knowledge connected to existing structures is recalled more reliably [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Transfer: activating analogous prior experience supports analogical mapping to new problems
 
 ### Instructions

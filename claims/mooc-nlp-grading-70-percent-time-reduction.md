@@ -1,7 +1,7 @@
 ---
 type: claim
 title: A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described
-description: "NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15%"
+description: "A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described"
 id: mooc-nlp-grading-70-percent-time-reduction
 status: draft
 generated:

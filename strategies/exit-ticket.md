@@ -13,14 +13,14 @@ generated:
 # Exit Ticket
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 15 studies (7 quant-synthesis, 4 causal, 3 review, 1 theoretical), `q2`–`q4` · 6 of 15 report an effect size
+> **Evidence** · 6 claims (6 for) · 17 studies (8 quant-synthesis, 5 causal, 3 review, 1 theoretical), `q2`–`q4` · 7 of 17 report an effect size
 
 ## Description
 An exit ticket is a brief assessment activity — typically 1–3 questions or a single prompt — completed by every learner in the final minutes of a lesson and submitted before leaving. It serves two functions simultaneously: it requires learners to retrieve and consolidate the day's content, and it generates rapid evidence the instructor can use to adjust the next lesson.
 
 ## Design Implications
 
-Exit tickets enact [Assessment for Learning](../principles/assessment-for-learning.md) by making thinking visible at the moment instruction ends, when adjustment is still cheap [Formative assessment practices improve achievement when feedback is used to adapt instruction.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The retrieval demand also gives every learner a brief spaced practice opportunity rather than leaving consolidation to chance [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. The design burden falls on the instructor: tickets must be actually read and acted on, or the routine decays into compliance theater.
+Exit tickets enact [Assessment for Learning](../principles/assessment-for-learning.md) by making thinking visible at the moment instruction ends, when adjustment is still cheap [Formative assessment practices improve achievement when feedback is used to adapt instruction.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The retrieval demand also gives every learner a brief spaced practice opportunity rather than leaving consolidation to chance [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. The design burden falls on the instructor: tickets must be actually read and acted on, or the routine decays into compliance theater.
 
 ### Context
 #### Requirements
@@ -49,7 +49,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - If prompts target surface recall only, the ticket reinforces shallow processing and misses conceptual understanding
 - Tickets collected but not acted on provide no formative benefit and consume instructional time [-M]
 - End-of-class timing means learners who need help most may rush or disengage; a [Check-In](../elements/check-in.md) mid-lesson catches problems earlier
-- Only captures what learners can report at the moment of instruction; misconceptions that feel resolved may resurface later without spaced review [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [~M]
+- Only captures what learners can report at the moment of instruction; misconceptions that feel resolved may resurface later without spaced review [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [~M]
 - End-of-class timing produces rushed, shallow responses if the lesson runs over — the ticket is the first thing sacrificed
 - Self-report data is unreliable when learners lack the metacognitive skill to judge their own understanding; confidence and competence frequently diverge for novices
 - Daily use without visible instructional response trains learners to treat tickets as compliance rituals, eroding honest self-assessment
@@ -88,7 +88,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - Less useful for learners who already self-monitor accurately and for very young learners who cannot yet write fluently — oral or pictorial variants work better there [~W]
 
 ### Target Learning Goals
-- Consolidation and retention of the day's core content [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Consolidation and retention of the day's core content [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - Self-assessment and metacognitive monitoring of one's own understanding
 - Instructor-side diagnosis of misconceptions before they consolidate
 - Consolidation of the day's core concept through retrieval
@@ -238,7 +238,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - Instructor review before the next session, with a visible plan for acting on what the tickets reveal
 
 #### Constraints
-- Only captures what learners can report at the moment of instruction; misconceptions that feel resolved may resurface later without spaced review [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [~M]
+- Only captures what learners can report at the moment of instruction; misconceptions that feel resolved may resurface later without spaced review [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [~M]
 - End-of-class timing produces rushed, shallow responses if the lesson runs over — the ticket is the first thing sacrificed
 - Self-report data is unreliable when learners lack the metacognitive skill to judge their own understanding; confidence and competence frequently diverge for novices
 - Daily use without visible instructional response trains learners to treat tickets as compliance rituals, eroding honest self-assessment
@@ -318,7 +318,7 @@ An exit ticket is a brief written prompt — typically one to three questions �
 
 ## Design Implications
 
-Exit tickets enact [Assessment for Learning](../principles/assessment-for-learning.md): they create frequent, low-stakes checkpoints that let instruction respond to evidence rather than assumption. Their formative value depends on the instructor actually using the data — systematic formative evaluation produces measurable gains, while collection without feedback or adjustment does not [Fuchs & Fuchs meta-analysis of systematic formative evaluation.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Because retrieval at the end of a lesson also functions as a spaced first review, well-designed tickets can modestly support retention [Spaced retrieval improves long-term retention.](../claims/spaced-repetition-improves-retention.md) [+M].
+Exit tickets enact [Assessment for Learning](../principles/assessment-for-learning.md): they create frequent, low-stakes checkpoints that let instruction respond to evidence rather than assumption. Their formative value depends on the instructor actually using the data — systematic formative evaluation produces measurable gains, while collection without feedback or adjustment does not [Fuchs & Fuchs meta-analysis of systematic formative evaluation.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Because retrieval at the end of a lesson also functions as a spaced first review, well-designed tickets can modestly support retention [Spaced retrieval improves long-term retention.](../claims/spaced-practice-improves-retention.md) [+M].
 
 ### Context
 #### Requirements

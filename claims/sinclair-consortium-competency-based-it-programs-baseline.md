@@ -49,5 +49,4 @@ Implementation analysis of a TAACCCT-funded consortium led by Sinclair Community
 - [CBE practices at the consortium colleges were identified through document review, site visits, and stakeholder interviews](cbe-practices-identified-via-review-visits-interviews.md) — related
 - [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](cbe-participants-completion-employment-wages.md) — related
 - [The increased number and specificity of policy requirements challenged implementation flexibility, with some viewing the policy as one-size-fits-all](illinois-principal-preparation-requirements-inflexibility.md) — related
-- [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](taaccct-cbe-35-percent-program-completion.md) — related
 - [K-12 stakeholders across sectors report enthusiasm for competency-based learning, assessment, and recognition technologies](cross-sector-enthusiasm-competency-recognition-k12.md) — related

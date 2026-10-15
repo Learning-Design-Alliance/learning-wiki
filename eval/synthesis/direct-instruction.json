@@ -35,14 +35,6 @@
           "+"
         ],
         [
-          "explicit-instruction-beats-unassisted-discovery",
-          "+"
-        ],
-        [
-          "guided-discovery-outperforms-pure-discovery",
-          "+"
-        ],
-        [
           "minimal-guidance-inquiry-inferior-explicit-instruction",
           "+"
         ],
@@ -99,6 +91,14 @@
         [
           "guided-discovery-outperformed-both-extremes",
           "~"
+        ],
+        [
+          "teacher-guided-inquiry-larger-effects",
+          "+"
+        ],
+        [
+          "teacher-support-benefits-conditional-on-autonomy-balance",
+          "~"
         ]
       ]
     },
@@ -119,16 +119,36 @@
           "~"
         ],
         [
-          "problem-solving-before-instruction-boosts-conceptual-transfer",
-          "+"
-        ],
-        [
-          "productive-failure-problem-solving-before-instruction-effect",
-          "+"
-        ],
-        [
           "initial-guidance-does-not-improve-learning-from-instruction",
           "+"
+        ],
+        [
+          "publication-bias-corrected-psi-effect-strong",
+          "+"
+        ],
+        [
+          "psi-procedural-knowledge-null-pooled-effect",
+          "~"
+        ],
+        [
+          "psi-effect-increases-with-grade-level",
+          "~"
+        ],
+        [
+          "pf-fidelity-predicts-psi-effect-size",
+          "~"
+        ],
+        [
+          "psi-fidelity-time-span-interaction",
+          "~"
+        ],
+        [
+          "example-problem-sequences-reduce-cognitive-load",
+          "~"
+        ],
+        [
+          "identical-example-problem-order-advantage-not-detected-at-final-test",
+          "~"
         ]
       ]
     },
@@ -203,6 +223,10 @@
         [
           "revisions-no-effect-time-with-lesson",
           "~"
+        ],
+        [
+          "cognitive-load-management",
+          "-"
         ]
       ]
     },

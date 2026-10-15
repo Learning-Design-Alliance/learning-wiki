@@ -1,0 +1,144 @@
+{
+  "principle": "principles/assessment-for-learning",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "assessment-for-learning-improves-achievement",
+      "question": "Does using assessment evidence during instruction raise achievement compared with the usual teaching?",
+      "members": [
+        [
+          "formative-assessment-produces-substantial-learning-gains-cited",
+          "+"
+        ],
+        [
+          "teacher-feedback-moves-learning-forward",
+          "+"
+        ],
+        [
+          "hattie-high-effect-size-instructional-factors",
+          "+"
+        ],
+        [
+          "retention-and-downtracking-undermine-achievement",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks",
+          "+"
+        ],
+        [
+          "formative-assessment-la-positive-effects",
+          "+"
+        ],
+        [
+          "diagnostic-review-larger-writing-gains",
+          "+"
+        ],
+        [
+          "diagnostic-review-higher-process-indicators",
+          "+"
+        ],
+        [
+          "group-cycle-interactions-formative-outcomes",
+          "~"
+        ],
+        [
+          "tefa-formative-information-changed-lessons",
+          "+"
+        ],
+        [
+          "forms-realtime-formative-assessment-uses",
+          "+"
+        ],
+        [
+          "curricular-knowledge-enables-responsive-instructional-moves",
+          "~"
+        ],
+        [
+          "teacher-customizations-storyline-curriculum",
+          "~"
+        ],
+        [
+          "stem-more-amenable-difficulty-scaling",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "self-assessment-improves-self-regulated-learning",
+      "question": "Should learners assess their own work, and can their self-ratings be trusted?",
+      "members": [
+        [
+          "self-assessment-accuracy-is-low-without-training",
+          "~"
+        ],
+        [
+          "prior-knowledge-needed-for-accurate-self-assessment",
+          "~"
+        ],
+        [
+          "fluent-illusions-mislead-self-assessment",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ],
+        [
+          "apca-improves-self-assessment-accuracy-overconfidence",
+          "~"
+        ],
+        [
+          "guided-llm-self-assessment-calibration-alignment",
+          "~"
+        ],
+        [
+          "self-monitoring-improves-self-regulation",
+          "+"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "+"
+        ],
+        [
+          "aa-students-passive-users-of-rubrics",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "formative-assessment-implementation-barriers",
+      "question": "What stops formative assessment working in practice: stakes, grading, time and class size?",
+      "members": [
+        [
+          "openscied-formative-assessment-feasibility-challenges",
+          "+"
+        ],
+        [
+          "formative-feedback-constraints-gateway-math",
+          "+"
+        ],
+        [
+          "ai-formative-assessment-capacity-demand",
+          "+"
+        ],
+        [
+          "low-stress-tbl-higher-isat-scores",
+          "~"
+        ],
+        [
+          "automated-ai-assessment-high-impact-moderate-challenge",
+          "~"
+        ],
+        [
+          "stakeholder-feedback-llm-formative-assessment",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -43,7 +43,7 @@ An outcomes study using administrative data sources including case management da
 
 
 ## Related Claims
-- [Participants' employment rates started and remained high, and wages for employed participants grew faster than the national average after enrollment](taaccct-cbe-employment-wages-growth.md) — related
+- [Participants' employment rates started and remained high, and wages for employed participants grew faster than the national average after enrollment](cbe-participants-completion-employment-wages.md) — related
 - [LLC did not affect employment for all participants within the first 24 months of enrollment](llc-no-employment-impact-all-participants-24-months.md) — related
 - [LLC increased the likelihood of earnings among later enrollees by 11 percentage points](llc-earnings-increase-11-points-later-enrollees.md) — related
 - [Project QUEST shows no discernible effects on short-term and medium-term employment](project-quest-no-employment-effects.md) — related

@@ -65,6 +65,5 @@ The brief reports impacts from the district's randomized controlled trial of LLI
 - [Secondary students who received more LLI or were pulled out of other classes were particularly negatively affected, possibly from missing grade-level content](lli-more-dosage-pullout-negatively-affected.md) — related
 - [Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity](lli-secondary-implementation-challenges-variation.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related
-- [Students pulled out of other classes to receive LLI were particularly negatively affected](lli-pull-out-students-particularly-negatively-affected.md) — related
 - [Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2](lli-positive-effects-general-reading-achievement-k-2.md) — related
 - [Four supplemental reading comprehension curricula had no positive impact on fifth-grade students' test scores, with negative impacts in some cases](reading-comprehension-curricula-no-positive-impact-fifth-grade.md) — related

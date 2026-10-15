@@ -59,6 +59,19 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 
 305 preschoolers at high risk of developing conduct problems were randomly assigned to enhanced behavioral family intervention (EBFI, practitioner-coached plus extra support), standard BFI (SBFI, practitioner-coached), self-directed BFI (SDBFI, workbook/written materials with minimal practitioner contact), or a wait-list control. At postintervention, the two practitioner-assisted (coached) conditions outperformed the self-directed and wait-list conditions on parent-reported disruptive child behavior, dysfunctional parenting, parental competence, and consumer satisfaction, and EBFI showed the greatest reliable improvement in children's behavior overall. By one-year follow-up, all three active conditions had converged on similarly improved *observed* disruptive behavior, but the two coached conditions still showed greater improvement than self-directed on *parent-reported* disruptive behavior — a partial qualification of the claim's durability that the page's Discussion should note.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should the adults be coached through rehearsal and feedback, or is information enough?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (1 quant-synthesis, 1 causal, 1 review, 1 design), `q2`–`q4`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kaminski et al. 2008](https://doi.org/10.1007/s10802-007-9201-9) | q4 · quant-synthesis · r? | i? | this claim |
+| [Sanders et al. 2000](https://doi.org/10.1037/0022-006x.68.4.624) | q3 · causal · r? | i? | this claim |
+| Carmouche 2018 | q2 · review · r2 | i? | [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies rep](supervisory-coaching-mixed-teacher-student-outcomes.md) (qualifies) |
+| Tingey 2023 | q2 · design · r2 | i? | [Training SRAE facilitators significantly increased their self-reported knowledge of self-r](srae-co-regulation-training-increases-self-regulation-knowledge.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The proposed advantage of coaching over information-only delivery aligns with broader learning-design principles: skill acquisition requires [practice](../elements/practice.md) with feedback, not merely exposure to declarative content. Information-only formats place the full burden of translating knowledge into behavior on the parent, whereas coaching embeds modeling, guided rehearsal, and corrective feedback — consistent with [cognitive apprenticeship](../theories/cognitive-apprenticeship.md) and [demonstration](../elements/demonstration.md) as an instructional element. Coaching also leverages [feedback](../elements/feedback.md) at the point of performance, which information-only formats structurally cannot provide. In-the-moment skills such as responsive caregiving are executed under time pressure with a child present, so the translation from "knowing that" to "doing now" is exactly where information-only formats fail and coaching succeeds.
@@ -87,5 +100,5 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 - [Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers](video-self-observation-powerful-coaching-component.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related
-- [Coaching shows strong positive effects on educators' instruction and modest effects on student outcomes in P-12 settings, with larger effects for content-specific and smaller programs](coaching-meta-analysis-instruction-effects-p12.md) — related
+- [Coaching shows strong positive effects on educators' instruction and modest effects on student outcomes in P-12 settings, with larger effects for content-specific and smaller programs](coaching-pooled-instruction-effect-0-49-sd.md) — related
 - [Three recurring challenges disrupt parent-child math tutoring: cognitive misalignment, emotional escalation, and method mismatch](three-challenges-parent-child-math-tutoring.md) — a narrower finding that bears on this claim

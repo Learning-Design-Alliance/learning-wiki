@@ -17,20 +17,12 @@ sources:
     i: "?"
     kind: design
     rigour: 1
-  - id: roschelle-2017-2
-    resource: "https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad"
-    title: "Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad"
-    author: "Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.)"
-    q: 2
-    i: "?"
-    kind: review
-    rigour: 2
 ---
 
 # In the Oztoc museum game-exhibit, learning occurs when visitors explain to each other, and a combination of physical blocks and screen-based representation is needed for deeper scientific and engineering practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the Oztoc exhibit at the New York Hall of Science, learning typically occurs when visitors explain to each other how to lure different categories of fish. [→ Roschelle 2017](#roschelle-2017)

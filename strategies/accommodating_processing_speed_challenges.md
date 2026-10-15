@@ -12,7 +12,7 @@ generated:
 # Accommodating Processing Speed Challenges
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (3 for, 4 mixed) · 18 studies (7 causal, 6 review, 3 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 18 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 20 studies (8 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 20 report an effect size · 2 claims rest on one study
 
 ## Description
 Accommodating processing speed challenges means adjusting pacing, task volume, and response formats so that learners who process information slowly can demonstrate knowledge without speed acting as a confound. Processing speed — the rate at which simple cognitive operations are executed — varies widely across learners, develops through childhood and adolescence, and declines with age [Salthouse, T. A. (1996). The processing-speed theory of adult age differences in cognition. *Psychological Review, 103*(3), 403–428](https://doi.org/10.1037/0033-295X.103.3.403) [+S]. The strategy is carried out through extended time, reduced item volume, chunked tasks, extended wait time in discussion, and scaffolds that reduce the amount of novel information a learner must hold and manipulate at once.
@@ -30,7 +30,7 @@ Processing speed is a bottleneck resource: slow execution of basic operations co
 #### Constraints
 - Extended time alone produces modest and inconsistent gains; it helps most when paired with strategy instruction, and it can inflate scores for students who do not need it, threatening validity [Lovett, B. J. (2010). Extended time testing accommodations for students with disabilities: Answers to five fundamental questions. *Review of Educational Research, 80*(4), 611–638](https://doi.org/10.3102/0034654310364063) [~M]
 - Reducing pace and volume for learners who have already automatized the component skills is redundant and can depress engagement [Expertise reversal: guidance becomes less effective as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
-- Removing *all* time pressure can eliminate retrieval effort that supports retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [~W] — some timed practice remains valuable once accuracy is established
+- Removing *all* time pressure can eliminate retrieval effort that supports retention [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [~W] — some timed practice remains valuable once accuracy is established
 - Over-accommodation without fading can undermine self-efficacy and self-advocacy; supports should be contingent and progressively withdrawn [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - Accommodations applied uniformly without diagnosis can mask the actual bottleneck — a slow reader given extra time on a listening task gains nothing
 

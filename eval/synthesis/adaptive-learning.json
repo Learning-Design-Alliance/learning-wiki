@@ -57,6 +57,26 @@
       "question": "What should adapt: the support given after a response, or only difficulty and order?",
       "members": [
         [
+          "contingent-tutor-metacognitive-demand-matches-withholding-tutor",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-surrenders-full-answer-least",
+          "+"
+        ],
+        [
+          "perceived-load-unchanged-under-contingent-tutor",
+          "~"
+        ],
+        [
+          "student-uptake-of-support-predicts-small-group-answer-accuracy",
+          "~"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "~"
+        ],
+        [
           "tefa-formative-information-changed-lessons",
           "+"
         ],
@@ -73,28 +93,8 @@
           "~"
         ],
         [
-          "contingent-tutor-metacognitive-demand-matches-withholding-tutor",
-          "+"
-        ],
-        [
-          "contingent-scaffolding-surrenders-full-answer-least",
-          "+"
-        ],
-        [
-          "perceived-load-unchanged-under-contingent-tutor",
-          "~"
-        ],
-        [
-          "adaptive-fading-beats-fixed-and-linear-scaffolding",
-          "~"
-        ],
-        [
           "blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion",
           "+"
-        ],
-        [
-          "student-uptake-of-support-predicts-small-group-answer-accuracy",
-          "~"
         ],
         [
           "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states",
@@ -123,6 +123,22 @@
         [
           "ai-tutor-pace-adaptation-strengthened-engagement",
           "+"
+        ],
+        [
+          "forms-sel-checkins-anonymity",
+          "~"
+        ],
+        [
+          "student-self-assessments-valuable-development-information",
+          "~"
+        ],
+        [
+          "adaptive-learning-improves-outcomes",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
         ]
       ]
     },
@@ -197,6 +213,10 @@
         [
           "revisions-no-effect-time-with-lesson",
           "~"
+        ],
+        [
+          "cognitive-load-management",
+          "-"
         ]
       ]
     },
@@ -226,6 +246,10 @@
         ],
         [
           "learning-style-no-correlation-pictorial-elucidation-effect",
+          "+"
+        ],
+        [
+          "learner-profiles-no-moderation-adaptive-its",
           "+"
         ]
       ]

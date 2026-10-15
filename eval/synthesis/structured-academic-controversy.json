@@ -1,0 +1,70 @@
+{
+  "principle": "patterns/structured-academic-controversy",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests SAC itself; both findings are the evidence the page carries over by extrapolation.",
+  "findings": [
+    {
+      "hub": "argumentation-improves-reasoning",
+      "question": "Does structured argument with peers improve learners' individual argument and content learning?",
+      "members": [
+        [
+          "argumentation-prompts-scaffolds-knowledge-gains",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cooperative-learning-group-rewards-and-individual-accountability",
+      "question": "Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?",
+      "members": [
+        [
+          "interdependence-type-no-achievement-effect-asynchronous",
+          "~"
+        ],
+        [
+          "interdependence-type-shifts-interaction-nature",
+          "~"
+        ],
+        [
+          "accountability-effects-depend-on-type-context-task",
+          "~"
+        ],
+        [
+          "tbl-survey-above-neutral",
+          "~"
+        ],
+        [
+          "group-membership-alone-does-not-produce-cooperation",
+          "+"
+        ],
+        [
+          "reward-interdependence-benefit-attitudes",
+          "~"
+        ],
+        [
+          "structured-interdependence-contribution-obligation-attitude",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ],
+        [
+          "classroom-research-supports-motivational-perspective",
+          "+"
+        ],
+        [
+          "secondary-cooperative-learning-newmann-thompson",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

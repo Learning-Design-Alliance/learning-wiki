@@ -1,0 +1,24 @@
+{
+  "principle": "principles/evaluating-sources",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "civic-online-reasoning-instruction-improves-evaluation",
+      "question": "Does teaching fact-checkers' off-page moves over several lessons improve learners' judgments of unfamiliar online sources, and how far does it reach?",
+      "members": [
+        [
+          "checklist-evaluation-ineffective-online",
+          "~"
+        ],
+        [
+          "ai-media-literacy-program-large-posttest-gains",
+          "+"
+        ],
+        [
+          "collaborative-evidence-critique-shifts-students-toward-procedural-objectivity",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

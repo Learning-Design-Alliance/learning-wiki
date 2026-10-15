@@ -24,7 +24,7 @@ Metacognition is the element in which learners monitor, explain, and regulate th
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+W]
-- [Self Monitoring Comprehension Improves Learning](../claims/self-monitoring-comprehension-improves-learning.md) [+M]
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](../claims/self-monitoring-comprehension-improves-learning.md) [+M]
 - [Metacognitive Strategies Improve Learning](../claims/metacognitive-strategies-improve-learning.md) [+S]
 - [Learners misjudge which learning strategies are effective](../claims/learners-misjudge-effective-learning-strategies.md) [+M]
 - [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [+M]

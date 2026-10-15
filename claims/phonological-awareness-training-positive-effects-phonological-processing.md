@@ -41,8 +41,9 @@ The WWC's synthesis of six studies (four RCTs meeting standards, two RCTs meetin
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — the general claim this finding bears on, with the studies behind it
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' phonological processing](pat-lk-potentially-positive-phonological-processing.md) — related
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](daisyquest-positive-effects-phonological-processing.md) — related

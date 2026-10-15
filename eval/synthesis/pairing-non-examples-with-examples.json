@@ -17,6 +17,14 @@
         [
           "contrasting-cases-gatekeeper-repositioning",
           "+"
+        ],
+        [
+          "error-correction-effort-supports-learning",
+          "~"
+        ],
+        [
+          "student-reflections-buggy-genai-learning-benefits",
+          "~"
         ]
       ]
     }

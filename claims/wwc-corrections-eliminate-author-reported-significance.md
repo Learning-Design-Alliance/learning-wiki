@@ -41,8 +41,9 @@ WWC footnote on its re-analysis of both randomized controlled trials. The WWC ca
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research](large-type-m-errors-significance-filter-education.md) — the general claim this finding bears on, with the studies behind it
 - [Too Good for Drugs has potentially positive effects on student behavior, with a WWC-computed domain average effect size of 0.25 that is not statistically significant](too-good-for-drugs-potentially-positive-behavior-effects.md) — a narrower finding that bears on this claim
 - [At end of program, the largest Too Good for Drugs effect was on teacher-rated prosocial behaviors (effect size 0.52), not statistically significant after WWC correction](too-good-for-drugs-prosocial-behavior-end-of-program-es-052.md) — a narrower finding that bears on this claim
 - [Three of seven knowledge, attitudes, and values outcomes favor Facing History and Ourselves, including relationship maturity (best response) with effect size 0.45, but none remain statistically significant after WWC corrections](fhao-three-of-seven-outcomes-favor-program.md) — a narrower finding that bears on this claim

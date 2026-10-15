@@ -22,7 +22,7 @@ sources:
 # For domain-general skills, effect sizes favor I-PS over PS-I
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i0` negligible
 
 ## Subclaims
 `q4 i0` Unlike domain-specific subjects, learning of domain-general skills showed a low effect size in favor of the instruction-first sequence, a significant subgroup difference. [→ Tanmay Sinha and Manu Kapur 2021](#tanmay-sinha-and-manu-kapur-2021)

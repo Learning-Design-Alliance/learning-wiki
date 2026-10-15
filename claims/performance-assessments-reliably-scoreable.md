@@ -39,6 +39,18 @@ This is the report's own summary assertion, supported by its description of scor
 
 > "When they are designed appropriately and used in conjunction with other measures, performance assessments can be reliably scored, generating trustworthy and comparable scores at the student and aggregate levels."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can methods scored by judgement be scored reliably, or do they add rater variation?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (1 review, 1 associational, 1 design), `q1`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Badrinarayan 2025](https://doi.org/10.54300/411.469) | q1 · review · r2 | i? | this claim |
+| [Ilhan 2018](https://doi.org/10.14689/ejer.2018.75.6) | q3 · associational · r2 | i? | [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) (qualifies) |
+| Morzinski 2010 | q2 · design · r2 | i? | [In one community-college lab class, six scorers rating six teams with an engineering rubri](engineering-rubric-low-scoring-reliability.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

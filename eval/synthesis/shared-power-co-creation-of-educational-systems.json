@@ -1,0 +1,54 @@
+{
+  "principle": "patterns/shared-power-co-creation-of-educational-systems",
+  "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. Every claim here is qualitative or an author's argument; no study has a comparison group or an effect size.",
+  "findings": [
+    {
+      "hub": "resolving-participation-double-bind-requires-redesigned-activity-structures",
+      "question": "Does giving an excluded group a body with decision standing and a process redesigned around it sustain its participation and change what is decided, where outreach and gathering its views do not?",
+      "members": [
+        [
+          "leaders-filter-community-voices-security-retained",
+          "+"
+        ],
+        [
+          "youth-advisors-report-inadequate-involvement-in-decisions",
+          "+"
+        ],
+        [
+          "active-community-engagement-over-passive-feedback",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "inclusive-innovation-sustainability-factors",
+      "question": "What keeps a co-created arrangement going after the pilot: handing facilitation over, embedding it in standing structures, or the people who championed it?",
+      "members": [
+        [
+          "calibrated-support-co-leadership",
+          "+"
+        ],
+        [
+          "student-voice-tenet-sustained-educator-practice",
+          "+"
+        ],
+        [
+          "committee-structure-sustains-change-despite-turnover",
+          "+"
+        ],
+        [
+          "wss-sustainability-requires-institutionalization",
+          "+"
+        ],
+        [
+          "turnover-threatens-sustainability-inclusive-innovation",
+          "~"
+        ],
+        [
+          "inclusive-innovation-implementation-barriers",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

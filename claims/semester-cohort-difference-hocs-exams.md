@@ -43,5 +43,7 @@ Follow-up independent-samples t tests interpreting the significant exam question
 
 ## Related Claims
 
+- [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — the general claim this finding bears on, with the studies behind it
+
 - [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) — related

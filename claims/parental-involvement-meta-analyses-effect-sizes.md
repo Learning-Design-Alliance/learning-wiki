@@ -43,4 +43,4 @@ A series of statistical meta-analyses of parental involvement research; a 2017 m
 
 
 ## Related Claims
-- [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related

@@ -12,14 +12,14 @@ generated:
 # Cold Call To Sample Pair Responses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 14 studies (8 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 14 report an effect size
+> **Evidence** · 5 claims (5 for) · 16 studies (9 quant-synthesis, 3 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 16 report an effect size
 
 ## Description
 This strategy combines [Think-Pair-Share](../elements/class-discussion.md)-style pair work with cold calling: instead of asking for volunteers after pair discussion, the instructor names specific students and asks them to report what their pair said. Because any student may be called, every pair has an incentive to produce a discussable answer, and the instructor gains a representative sample of the class's thinking rather than a skewed sample of confident volunteers.
 
 ## Design Implications
 
-Cold calling after pair work converts discussion from optional participation into accountable engagement, and sampling pair responses doubles as a formative check on whole-class understanding [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Calling on students to report a *pair's* answer lowers the social risk of cold calling — the student speaks for two people, not alone — which mitigates the anxiety that unstructured cold calling can produce [~M]. The reported responses also serve as retrieval practice: articulating a discussed answer from memory strengthens retention more than re-exposure [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Cold calling after pair work converts discussion from optional participation into accountable engagement, and sampling pair responses doubles as a formative check on whole-class understanding [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Calling on students to report a *pair's* answer lowers the social risk of cold calling — the student speaks for two people, not alone — which mitigates the anxiety that unstructured cold calling can produce [~M]. The reported responses also serve as retrieval practice: articulating a discussed answer from memory strengthens retention more than re-exposure [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

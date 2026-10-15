@@ -46,7 +46,7 @@ Diary-based self-study: the author, an advanced learner with 1.5 years in Englis
 - [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
 - [L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
 - [Spanish business professionals develop English outside work mainly through reading in English, watching original-version television and films, and speaking with native English speaking friends](out-of-work-english-practices-spanish-professionals.md) — related
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — a narrower finding that bears on this claim
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a narrower finding that bears on this claim
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — a narrower finding that bears on this claim
 - [Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output](pushing-output-elicits-negative-input.md) — related
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — related

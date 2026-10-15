@@ -12,14 +12,14 @@ generated:
 # Demystification of Learning Challenges
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 18 studies (6 quant-synthesis, 6 review, 4 causal, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 18 report an effect size
+> **Evidence** · 7 claims (7 for) · 20 studies (7 quant-synthesis, 6 review, 5 causal, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 20 report an effect size
 
 ## Description
 Demystification is the explicit explanation of the cognitive mechanics behind learning — how working memory limits, attention, spacing, and retrieval practice operate — delivered directly to learners, particularly when they experience difficulty. Rather than leaving learners to attribute struggle to fixed ability ("I'm bad at math"), the instructor reframes difficulty as a predictable, manageable feature of how memory and attention work, and pairs the explanation with concrete strategies the learner can apply.
 
 ## Design Implications
 
-Demystification works by replacing maladaptive ability attributions with process-level explanations, which supports persistence and strategy adoption [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. It is most effective when the explanation is immediately tied to an actionable technique — telling learners that forgetting is normal is far less useful than teaching them [spaced repetition](../elements/spaced-repetition.md) as the response to it [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Explanations should be accurate and specific: describing working memory limits as a reason to [chunk](../principles/chunking.md) material gives learners a lever to pull [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Demystification works by replacing maladaptive ability attributions with process-level explanations, which supports persistence and strategy adoption [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. It is most effective when the explanation is immediately tied to an actionable technique — telling learners that forgetting is normal is far less useful than teaching them [spaced repetition](../elements/spaced-repetition.md) as the response to it [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. Explanations should be accurate and specific: describing working memory limits as a reason to [chunk](../principles/chunking.md) material gives learners a lever to pull [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements

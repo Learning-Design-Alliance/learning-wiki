@@ -12,7 +12,7 @@ generated:
 # Math Songs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Math songs are musical compositions designed to teach and reinforce math concepts and skills. They exploit rhyme, rhythm, and melody to make mathematical content more engaging and memorable, and can introduce new concepts, reinforce fluency with facts, or anchor daily classroom routines. They function as a mnemonic supplement — not a replacement — for conceptual instruction and [practice](../elements/practice.md).
@@ -24,7 +24,7 @@ Songs impose structure on verbal material, effectively chunking content into rhy
 ### Context
 #### Requirements
 - Accurate, lyrically clear songs matched to the target skill (counting, facts, procedures)
-- Repeated, spaced exposure — a single performance produces little durable learning [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Repeated, spaced exposure — a single performance produces little durable learning [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - A follow-on activity where learners apply the sung content (e.g., solving problems using the recalled fact)
 - Optional movement or gesture to add a kinesthetic encoding channel
 
@@ -52,7 +52,7 @@ Songs impose structure on verbal material, effectively chunking content into rhy
 ### Instructions
 1. Select or compose a song whose lyrics state the target content accurately and concisely, applying [Chunking](../principles/chunking.md) — one fact or rule per rhythmic unit.
 2. Introduce the song alongside a visual or concrete model of the same content ([Direct Instruction](../elements/direct-instruction.md) with manipulatives), so the verbal chain is connected to meaning.
-3. Sing repeatedly with movement, distributing rehearsals across days rather than massing them [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+3. Sing repeatedly with movement, distributing rehearsals across days rather than massing them [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 4. Follow with [Practice](../elements/practice.md) in which learners retrieve and *use* the sung content to solve problems — the song is the prompt, not the goal.
 5. Fade the song: ask learners to produce facts without singing, checking that retrieval no longer depends on the melody.
 

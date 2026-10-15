@@ -41,8 +41,9 @@ The review reports, citing Olney and Cade (2025), a mechanistic error-correction
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — the general claim this finding bears on, with the studies behind it
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related

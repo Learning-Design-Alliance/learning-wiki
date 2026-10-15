@@ -59,6 +59,20 @@ Kuhn, D., & Crowell, A. (2011). Dialogic argumentation as a vehicle for developi
 
 Over several years, two cohorts of young adolescents argued about social issues in electronically conducted peer dialogues. Comparison groups instead did extensive essay-writing practice along with whole-class [discussion](../elements/discussion.md). The dialogue groups transferred the skill to individual essays on new topics: their arguments were of higher quality than the comparison groups', and they paid more attention to how evidence bears on an argument. The authors conclude from the comparison-group data that these reasoning skills do not routinely develop during this age period; the comparison groups themselves received essay-writing practice and whole-class discussion, so this is not a no-intervention baseline. This supports the claim's transfer component, with the caveat that the design is not described as randomised.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does structured argument with peers improve learners' individual argument and content learning?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 review), `q2`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Zhou 2023](https://doi.org/10.1080/10494820.2023.2205904) | q3 · quant-synthesis · r? | i2 · medium effect, g=0.603 (learn to argue), g=0.596 (argue to learn) | this claim |
+| [Kuhn & Crowell 2011](https://doi.org/10.1177/0956797611402512) | q2 · causal · r? | i? | this claim |
+| [prompt-1](https://doi.org/10.51388/20.500.12265/251) | q2 · review · r1 | i? | [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing argumen](argumentation-prompts-scaffolds-knowledge-gains.md) (supports); [Collaborative argumentation benefits students' motivation, content learning, domain argume](collaborative-argumentation-benefits-summary.md) (supports) |
+| [Murphy et al. 2009](https://doi.org/10.1037/a0015576) | q4 · quant-synthesis · r? | i? | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
+| [Murphy et al. 2018](https://doi.org/10.3102/0002831218771303) | q2 · causal · r1 | i3 · large effect on basic comprehension, d=1.25; small-to-medium on high-level comprehension, d=0.35 | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanisms.** Argumentation is hypothesized to improve reasoning through several routes: it forces learners to make implicit assumptions explicit, requires coordination of claims with evidence and warrants, and exposes learners to counterarguments that prompt reconsideration of naive conceptions. This aligns with constructivist accounts in which cognitive conflict drives conceptual change — see [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md).
@@ -78,7 +92,7 @@ Over several years, two cohorts of young adolescents argued about social issues 
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — analogical comparison is a reasoning process argumentation can strengthen
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
-- [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
+- [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related
 - [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](explicit-reasoning-instruction-preliminary-large-gains.md) — a narrower finding that bears on this claim
 - [The online space intended to motivate production and critique was not well utilized in Year 1](youmedia-online-space-underutilized.md) — related
 - [Collaborative argumentation benefits students' motivation, content learning, domain argumentation, transferable argumentation skills, and knowledge-building practices](collaborative-argumentation-benefits-summary.md) — related

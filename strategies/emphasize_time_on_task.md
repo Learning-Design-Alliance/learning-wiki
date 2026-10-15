@@ -12,14 +12,14 @@ generated:
 # Emphasize Time on Task
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 causal), `q3`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Time plus energy equals learning. There is no substitute for time on task: learners need to allocate realistic amounts of time to learning and use that time effectively. This strategy, one of Chickering and Gamson's (1987) Seven Principles for Good Practice in Undergraduate Education, directs instructors and tutors to make time expectations explicit, structure sessions into purposeful segments, and teach learners to manage their own study time. How the tutor or instructor uses session time defines time expectations for the learner and establishes the basis for sustained effort.
 
 ## Design Implications
 
-Time on task is a core variable in classic models of school learning — Carroll (1963) defined degree of learning as the ratio of time actually spent to time needed — and engaged (not merely allocated) time predicts achievement [Fredricks et al.'s review links behavioral engagement to achievement.](https://doi.org/10.1086/499830) [+M]. But raw time is not sufficient: how time is distributed matters. Spacing study across sessions produces durable retention far better than massing it [Distributed practice improves long-term retention relative to cramming.](../claims/spaced-repetition-improves-retention.md) [+S]. The strategy therefore has two faces: ensuring enough time is allocated, and structuring that time so it is genuinely engaged rather than passive seat time.
+Time on task is a core variable in classic models of school learning — Carroll (1963) defined degree of learning as the ratio of time actually spent to time needed — and engaged (not merely allocated) time predicts achievement [Fredricks et al.'s review links behavioral engagement to achievement.](https://doi.org/10.1086/499830) [+M]. But raw time is not sufficient: how time is distributed matters. Spacing study across sessions produces durable retention far better than massing it [Distributed practice improves long-term retention relative to cramming.](../claims/spaced-practice-improves-retention.md) [+S]. The strategy therefore has two faces: ensuring enough time is allocated, and structuring that time so it is genuinely engaged rather than passive seat time.
 
 ### Context
 #### Requirements
@@ -48,13 +48,13 @@ Time on task is a core variable in classic models of school learning — Carroll
 ### Target Learning Goals
 - Study habits and self-regulation: establishing realistic pacing and steady application
 - Procedural and skill goals that require accumulated practice volume
-- Retention of foundational knowledge, where spaced regular work outperforms cramming [Distributed practice improves long-term retention relative to cramming.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Retention of foundational knowledge, where spaced regular work outperforms cramming [Distributed practice improves long-term retention relative to cramming.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ### Instructions
 1. State time expectations explicitly — communicate how much preparation each session or assignment requires, and expect completion on schedule.
 2. Structure session time — divide meetings into timed segments with distinct purposes, opening with a brief [Check-In](../elements/check-in.md) to set the agenda.
 3. Prioritize engaged time — fill segments with [Practice](../elements/practice.md) and [Active Learning](../principles/active-learning.md) activities rather than passive review.
-4. Coach scheduling — underscore regular work, steady application, self-pacing, and spacing of study over time [Distributed practice improves long-term retention relative to cramming.](../claims/spaced-repetition-improves-retention.md) [+S].
+4. Coach scheduling — underscore regular work, steady application, self-pacing, and spacing of study over time [Distributed practice improves long-term retention relative to cramming.](../claims/spaced-practice-improves-retention.md) [+S].
 5. Monitor and follow up — track assignment completion; refer learners with persistent difficulties to a learning strategist or skills center.
 
 ## Related Strategies

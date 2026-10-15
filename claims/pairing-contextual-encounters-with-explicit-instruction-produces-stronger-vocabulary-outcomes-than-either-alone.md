@@ -43,12 +43,17 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does combining explicit instruction with contextual or incidental learning outperform either alone?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does combining explicit instruction with contextual or incidental learning outperform either alone?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **7 distinct studies** (4 quant-synthesis, 3 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Stahl Fairbanks 1986](https://doi.org/10.3102/00346543056001072) | q3 · quant-synthesis · r? | i? | this claim |
 | [Zou 2019](https://doi.org/10.5539/elt.v12n12p39) | q2 · review · r2 | i? | [Combining intentional and incidental vocabulary learning produces greater gains and better](combined-intentional-incidental-greater-gains.md) (supports); [Intentional vocabulary learning yields higher, faster gains and better retention than inci](intentional-beats-incidental-vocabulary-gains.md) (qualifies) |
+| [Swanborn & de Glopper 1999](https://doi.org/10.3102/00346543069003261) | q3 · quant-synthesis · r? | i? | [Incidental vocabulary exposure produces reliable learning, but learners pick up only a sma](incidental-vocabulary-exposure-limited.md) (supports) |
+| [Uchihara et al. 2019](https://doi.org/10.1111/lang.12343) | q3 · quant-synthesis · r? | i2 · medium effect, r=.34 | [Incidental vocabulary exposure produces reliable learning, but learners pick up only a sma](incidental-vocabulary-exposure-limited.md) (supports) |
+| [Webb et al. 2023](https://doi.org/10.1017/s0261444822000507) | q3 · quant-synthesis · r2 | i3 · large effect, g = 1.14 on first posttests | [Incidental vocabulary exposure produces reliable learning, but learners pick up only a sma](incidental-vocabulary-exposure-limited.md) (supports) |
+| Kamil 2008 | q2 · review · r2 | i? | [Incidental vocabulary exposure produces reliable learning, but learners pick up only a sma](incidental-vocabulary-exposure-limited.md) (supports) |
+| Ponniah 2011 | q2 · review · r1 | i? | [Incidental vocabulary acquisition through comprehensible input is more powerful than inten](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -80,11 +85,11 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 - [Cognitive flexibility theory: multiple cases.](../claims/cognitive-flexibility-theory-multiple-cases.md) — multiple varied encounters support flexible, transferable word knowledge
 - [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) — excessive contextual processing demands can undermine the pairing for low-proficiency learners
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — related
-- [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — possibly the same claim (merge candidate)
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](extensive-reading-improves-vocabulary-and-spelling.md) — related
-- [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
 - [Vocabulary instruction should focus on procedures of meaning negotiation as much as on declarative word meanings](teach-lexical-procedures-not-only-definitions.md) — a narrower finding that bears on this claim

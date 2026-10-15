@@ -61,13 +61,13 @@ A second reviewed finding attributes greater social responsibility, community aw
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does community-based or service learning change civic commitment, attitudes and self-reported growth?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (1 review, 1 associational, 1 causal), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does community-based or service learning change civic commitment, attitudes and self-reported growth?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (1 review, 1 associational, 1 causal), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Naval 2022](https://doi.org/10.3390/educsci12040240) | q2 · review · r2 | i? | this claim |
 | Susan E. Sporte and Joseph E. Kahne 2007 | q2 · associational · r2 | i? | [Service learning and in-class civic learning opportunities are more strongly associated wi](service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) (supports); [Students who witnessed concern for community and current events at home, in the neighborho](experiencing-civic-community-fosters-commitment.md) (supports) |
-| Building Decision Skills 2006 | q2 · causal · r? | i? | [Building Decision Skills combined with service learning has potentially positive effects o](bds-service-learning-potentially-positive-kav.md) (supports); [Effects favoring the curriculum-plus-service-learning condition over service-learning alon](bds-curriculum-adds-beyond-service-learning-alone.md) (qualifies) |
+| Building Decision Skills 2006 | q2 · causal · r? | i? | [Building Decision Skills combined with service learning has potentially positive effects o](bds-service-learning-potentially-positive-kav.md) (supports); [Effects favoring the curriculum-plus-service-learning condition over service-learning alon](bds-curriculum-adds-beyond-service-learning-alone.md) (qualifies); [Building Decision Skills plus service learning showed no statistically significant effects](bds-null-self-esteem-general-responsibility.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion

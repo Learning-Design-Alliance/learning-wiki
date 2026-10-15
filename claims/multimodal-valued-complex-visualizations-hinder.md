@@ -41,8 +41,9 @@ Across the ET and MR conditions of the user study, participants reported that ov
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multiple representations improve learning](multiple-representations-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related

@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**113 entries** · 0 stable · 71 in review · 42 drafts
+**113 entries** · 0 stable · 73 in review · 40 drafts
 
 ---
 
@@ -17,6 +17,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### B {: #letter-b }
 
+* [Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis](balanced-pronunciation-curriculum-three-areas.md) - Diagnosing learners' spontaneous speech, choosing a short list of features across suprasegmentals, segmentals and fluency, teaching each explicitly and then in communicative use is expected to improve listeners' understanding of learners' spontaneous speech; no claim tests the balanced curriculum, and the nearest evidence shows explicit instruction reliably improves controlled production of targeted features, with smaller, less certain gains in spontaneous speech.
 * [Blended Learning](blended-learning.md) - A reusable course-level policy that assigns each part of a course to online or in-person work by what that mode does that the other does not, with the in-person time spent on practice and interaction and the online part supported for self-regulation and persistence; the wiki holds no test of the blend itself apart from the extra time and materials it usually brings.
 
 #### C {: #letter-c }
@@ -87,6 +88,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### P {: #letter-p }
 
+* [PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)](pair-c-framework.md) - A reusable policy for teaching an emergent phenomenon (natural selection, collective behavior) by naming five dimensions on which decentralized, collective causation differs from sequential, individual causation and having learners use them while running an agent-based simulation; one quasi-experiment with pre-service teachers tests it, finding a near-transfer advantage over the same simulations without the framing, trends on deep understanding and misconceptions, and no far transfer.
 * [Peer Instruction](peer-instruction.md) - A reusable question, individual vote, peer discussion, revote and explanation policy for conceptual questions, with an isomorphic individual check to separate revised reasoning from copying.
 * [Peer Teaching](peer-teaching.md) - Peer teaching is the short-form canonical pattern for learners teaching concepts, processes, or interpretations to one another.
 * [Positive Behavioral Interventions And Supports](positive-behavioral-interventions-and-supports.md) - For a whole school, teaching three to five positively stated expectations in every setting, acknowledging them specifically, reviewing disaggregated discipline data monthly and adding daily small-group and then function-based individual support for students who do not respond is expected to reduce referrals and exclusions; one quasi-experimental claim compares PBIS schools with matched schools and found fewer out-of-school suspensions only where all three tiers ran with fidelity, and no claim here tests the universal tier alone against usual practice.
@@ -132,7 +134,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-* [Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis](balanced-pronunciation-curriculum-three-areas.md) - The article proposes that a pronunciation curriculum balance three areas — suprasegmentals, segmentals, and fluency — because research has uncovered speech dimensions in all three that affect intelligibility and compr...
 * [Continually culling, clustering, and redefining the technology catalogue to track converging emergent technologies](evolving-technology-catalogue-for-adoption-survey.md) - The LoA instrument's technology list is treated as an evolving artifact: the authors report \"continually culling, refining, redefining and clustering our list of technologies\" to represent current emergent yet applica...
 * [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md) - This pattern holds that academic debate can serve as a laboratory for studying argumentation theory — for example, testing standards for assessing arguments and decision-making — but only if debate practices remain ac...
 * [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md) - The digest enumerates the supporting generalizations for Merrill's remaining phases.
@@ -163,7 +164,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Mediation typology of implicit-to-explicit moves in SCMC DA](scmc-da-mediation-typology.md) - Emerging from thematic analysis of the DA sessions, the mediation typology orders mediator moves from most implicit to most explicit.
 * [Nine key elements structuring a cooperative lesson](nine-key-elements-cooperative-lesson.md) - The chapter enumerates the key elements of a cooperative lesson: positive interdependence (with goal, resource, reward, identity, role, and outside enemy variants), team formation, accountability, social skills, struc...
 * [Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners](open-ended-scenario-three-phase-structure.md) - The open-ended scenario is a pedagogical device designed by DiPietro (1981) that \"resembles a role play in that it grows from a set of circumstances\" but differs in that \"the dialogues are planned collaboratively by t...
-* [PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)](pair-c-framework.md) - A five-dimension instructional scaffold for teaching emergent phenomena (e.g., natural selection, collective behavior) by explicitly contrasting decentralized, collective causal structure with sequential, individualistic causal structure.
 * [PLC facets that catalyze scholarship epistemology: trust, common goal, reflection opportunity, dialogue, and accountability for results](plc-facets-catalyze-scholarship-epistemology.md) - In contrast to traditional institutional epistemology where knowledge is transmitted from one person to another, the article describes scholarship epistemology as bringing together theory and practice and constructing...
 * [Pre-visit, on-site, post-visit field-trip activity arc](pre-visit-onsite-post-visit-field-trip-arc.md) - The Sea Turtle Trek packet structures a park field trip as three sequential activity phases: classroom preparation before the trip, hands-on activities conducted at the park, and classroom follow-up afterward.
 * [Problem-centered instruction with task-level engagement and problem progression](problem-centered-task-level-progression-pattern.md) - Within Merrill's framework, the problem-centered element holds that \"Learning is promoted when learners are engaged in solving real-world problems.\" Its corollaries specify that learners are shown the tasks they will...
