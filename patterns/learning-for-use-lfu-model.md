@@ -147,7 +147,7 @@ This pattern is scoped to units in which a task can make a concept or principle 
 
 ## Key Sources
 - Edelson, D. C. (2001). Learning-for-use: A framework for the design of technology-supported inquiry activities. *Journal of Research in Science Teaching, 38*(3), 355-385. [https://doi.org/10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m)38:3<355::AID-TEA1010>3.0.CO;2-M](https://doi.org/10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m)38:3<355::AID-TEA1010>3.0.CO;2-M)
-  - Corrected link for the entry above (Crossref-verified 2026-10-15): [doi:10.1002/1098-2736(200103)38:3<355::AID-TEA1010>3.0.CO;2-M](<https://doi.org/10.1002/1098-2736(200103)38:3<355::AID-TEA1010>3.0.CO;2-M>)
+  - Corrected link for the entry above (Crossref-verified 2026-10-15): [doi:10.1002/1098-2736(200103)38:3<355::AID-TEA1010>3.0.CO;2-M](<https://doi.org/10.1002/1098-2736(200103)38:3%3C355::AID-TEA1010%3E3.0.CO;2-M>)
 
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
