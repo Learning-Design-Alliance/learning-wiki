@@ -42,12 +42,12 @@ evidence_strength: strong
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 review `r?`, 1 causal `r?` · `q2`–`q3`
 
-By organizing discrete elements into larger, familiar patterns (chunks), learners can effectively bypass the limited capacity of short-term memory, allowing for more complex processing.
+By recoding discrete elements into larger units they already know (chunks), people hold more in immediate memory. The evidence here is from list-recall experiments: it shows that a chunk frees memory for other material held at the same time, not that it frees resources for comprehension or problem solving, which no study on this page tests.
 
 ## Subclaims
 `q2 i?` Recoding input into larger chunks lets people stretch the limit on how much information they can hold in immediate memory, a limit Miller found clustering around seven items while withholding judgment on what the recurring seven means. [→ Miller 1956](#miller-1956)
 `q2 i?` More recent estimates put the limit closer to three to five chunks for novel material, tightening rather than overturning Miller's estimate. [→ Cowan 2001](#cowan-2001)
-`q3 i?` Chunking reduces the number of units to be maintained, freeing up cognitive resources for higher-order tasks. [→ Thalmann et al. 2019](#thalmann-et-al-2019)
+`q3 i?` In four list-recall experiments, chunking improved recall of other, unchunked items held at the same time, and chunks early in a list freed capacity for material encoded after them; the benefit depended on chunk size when chunks shared elements, so capacity is not a fixed number of chunks. [→ Thalmann et al. 2019](#thalmann-et-al-2019)
 
 ## Evidence
 
@@ -75,7 +75,7 @@ Thalmann, M., Souza, A. S., & Oberauer, K. (2019). How does chunking help workin
 
 `q3 · peer-reviewed experiment` · `i? · the abstract prints no effect size; the full text may` · `n=unspecified` · `causal · r?`
 
-This series of experiments investigated the mechanism of chunking, confirming that it improves working memory by reducing the number of units that need to be maintained, thereby decreasing the overall load on the system.
+Four experiments on how chunks help working memory. Chunking improved recall not only of the chunked items but of other, unchunked information held at the same time, which the authors read as chunking reducing load. The benefit was independent of chunk size only when chunks were made of unique elements; with overlapping elements, larger chunks helped less, and this held under articulatory suppression, so capacity is not limited to a fixed number of chunks. Chunks early in a list improved recall of later material; chunks at the end did not. The authors conclude that a chunk is retrieved from long-term memory as one compact representation, which frees capacity for material encoded afterwards. The tasks were serial recall of lists; the abstract reports no learning or higher-order outcome (abstract read 2026-10-15).
 
 ## Studies bearing on this claim
 
@@ -96,6 +96,8 @@ Chunking efficiency is highly dependent on prior knowledge; an expert can form m
 The clearest demonstration is chess expertise: master players recall real board positions almost perfectly by chunking them into familiar patterns, but show no advantage over novices for randomly arranged pieces, which is evidence that the benefit comes from stored patterns rather than any larger raw capacity (Gobet et al., 2001 — citation carried over from a duplicate page and not yet DOI-verified).
 
 This has a direct design consequence: chunking imposed from outside only helps while the learner cannot yet chunk unaided. Once they can, the same segmented presentation becomes redundant and slows them down, which is the expertise-reversal effect linked below.
+
+**What this does not show.** Many design pages cite this claim for segmenting instruction or grouping content so learners can think about it. No study on this page measures learning, comprehension or problem solving after material was chunked for learners; the experiments measure recall of lists. Carrying the finding to instruction is an extrapolation, and the narrower claims in the table above (Furukawa 1978) are the nearest instructional tests.
 
 ## Related Claims
 
