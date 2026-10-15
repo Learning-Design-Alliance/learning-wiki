@@ -31,6 +31,10 @@ EXTENSIONS = ["admonition", "attr_list", "md_in_html", "footnotes", "pymdownx.de
               "pymdownx.superfences", "pymdownx.highlight", "pymdownx.tasklist", "tables", "toc"]
 EXT_CONFIG = {"pymdownx.tasklist": {"custom_checkbox": True}, "toc": {"permalink": True}}
 
+# The light pages carry mkdocs-material's palette CSS but not its JavaScript, so the body attribute
+# alone fixed every one to the light scheme: a reader in dark mode went light on opening the
+# strategies A-Z (maintainer, 2026-10-15). The script reads the choice Material saved, under the
+# same key (the site root's path + ".__palette"), before the page paints.
 TEMPLATE = """<!doctype html>
 <html lang="en">
 <head>
@@ -49,6 +53,7 @@ TEMPLATE = """<!doctype html>
 </style>
 </head>
 <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{{var s=new URL("{rel}"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){{for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}}}catch(e){{}}</script>
 <header class="lt-header">
 <a href="{rel}"><strong>Learning Design Wiki</strong></a>
 <a href="{rel}{folder}/">{label}</a>
