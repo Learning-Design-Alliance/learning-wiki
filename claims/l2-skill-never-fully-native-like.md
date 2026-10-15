@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions"
+title: "A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions"
 description: "L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions"
 id: l2-skill-never-fully-native-like
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions
+# A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+<!-- title before 2026-10-15: L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions -->
 
 ## Subclaims
 `q2 i?` On-line measures repeatedly show non-native readers are slower than natives regardless of advancement, and very advanced learners of Spanish and Italian do not make the native null/overt pronoun interpretation distinction. [→ Bill VanPatten 2010](#bill-vanpatten-2010)

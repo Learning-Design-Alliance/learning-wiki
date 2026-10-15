@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Students in the deliberate practice group reported increased satisfaction with the learning process
+title: Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group
 description: Students in the deliberate practice group reported increased satisfaction with the learning process
 id: deliberate-practice-increases-student-satisfaction
 status: draft
@@ -19,13 +19,14 @@ sources:
     rigour: 1
 ---
 
-# Students in the deliberate practice group reported increased satisfaction with the learning process
+# Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+<!-- title before 2026-10-15: Students in the deliberate practice group reported increased satisfaction with the learning process -->
 
 ## Subclaims
-`q2 i?` Experimental-group students reported higher satisfaction with the deliberate practice learning process than traditional-method students. [→ Do 2024](#do-2024)
+`q2 i?` On a post-training survey given only to the experimental group, students reported satisfaction with the deliberate practice approach; the traditional-method group was not surveyed, so no comparison is available. [→ Do 2024](#do-2024)
 
 ## Evidence
 

@@ -32,8 +32,6 @@ Interleaving — mixing different problem or category types within a practice se
 
 `q4 i2` A multilevel meta-analysis of 59 studies (238 effect sizes) finds a moderate overall benefit of interleaved over blocked inductive-learning presentation (Hedges' g = 0.42), but the effect is strongly moderated by material type — strongest for visual/perceptual category learning (paintings, photographs), smaller for mathematical tasks, and reversed (favoring blocking) for word-based category learning. [→ Brunmair & Richter 2019](#brunmair-richter-2019)
 
-`q4 i2` Across 238 effect sizes nested in 158 samples, interleaved presentation of exemplars yielded a moderate positive effect on subsequent category discrimination or classification performance (g = 0.42). [→ Brunmair 2019](#brunmair-richter-2019)
-
 ## Evidence
 
 ### Brunmair & Richter 2019

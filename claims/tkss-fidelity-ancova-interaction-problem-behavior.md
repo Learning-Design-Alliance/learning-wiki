@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)
+title: "Teachers' PBIS knowledge and fidelity (TKSS score) interacts with pre-to-post change in problem behavior among students with emotional disturbance"
 description: Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)
 id: tkss-fidelity-ancova-interaction-problem-behavior
 aliases: [low-fidelity-pbis-smaller-student-improvements]
@@ -20,10 +20,11 @@ sources:
     rigour: 2
 ---
 
-# Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)
+# Teachers' PBIS knowledge and fidelity (TKSS score) interacts with pre-to-post change in problem behavior among students with emotional disturbance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+<!-- title before 2026-10-15: Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003) -->
 
 ## Subclaims
 

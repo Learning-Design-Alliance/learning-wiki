@@ -39,6 +39,8 @@ Meta-analysis of 15 studies (5,519 participants) from Scopus, IEEE Explore, and 
 
 > "Figure 3 shows that a random effects model (RE Model) with a value of 0.65 was found. This means that self-regulated learning intervention studies affect learning results in online and blended environments by 65%"
 
+The "65%" is the source's own wording for a pooled Cohen's d of 0.65; a d of 0.65 is a standardized mean difference, not a 65% improvement.
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->

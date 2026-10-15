@@ -10,14 +10,6 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 sources:
-  - id: wise-2020
-    resource: "https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/"
-    title: "Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/"
-    author: Wise, S.
-    q: 2
-    i: "?"
-    kind: associational
-    rigour: "?"
   - id: steven-wise-2021
     resource: "https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/"
     title: "Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im. (2021). The impact of disengaged test taking on a state's accountability test results. Educational Assessment, 26(3), 163-174. https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/"
@@ -31,25 +23,13 @@ sources:
 # Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-
-`q2 i?` On a large-scale state summative assessment, disengagement has a material impact on individual test scores, while its impact on score aggregations may be relatively minor. [→ Wise 2020](#wise-2020)
 
 `q2 i?` Disengagement materially affects individual state summative test scores while its impact on score aggregations may be relatively minor. [→ Steven Wise 2021](#steven-wise-2021)
 
 ## Evidence
-
-### Wise 2020
-
-Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/
-
-`q2 · i?` · `associational · r?`
-
-The page's abstract reports a study of test-taking engagement on a large-scale state summative assessment, finding "a material impact on individual state summative test scores" while aggregation-level impact may be minor. No statistics are printed on the page.
-
-> "Overall, results of this study indicate that disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor."
 
 ### Steven Wise 2021
 
@@ -60,6 +40,18 @@ Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im. (2021). The impact of disengaged te
 Overall conclusion of the study of the Spring 2019 state summative assessment: disengagement has "a material impact on individual state summative test scores" while aggregation-level impact "may be relatively minor". No effect sizes are printed in the abstract.
 
 > "Overall, results of this study indicate that disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor."
+
+<!-- merged duplicate entry 2026-10-15: the NWEA research page below carries the same study-abstract sentence as Wise, Lee & Im (2021), so it is the same study; its listed title differs and may belong to a different NWEA item.
+### Wise 2020
+
+Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/
+
+`q2 · i?` · `associational · r?`
+
+The page's abstract reports a study of test-taking engagement on a large-scale state summative assessment, finding "a material impact on individual state summative test scores" while aggregation-level impact may be minor. No statistics are printed on the page.
+
+> "Overall, results of this study indicate that disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor."
+-->
 
 ## Discussion
 

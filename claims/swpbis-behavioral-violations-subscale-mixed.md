@@ -14,7 +14,7 @@ sources:
     title: "Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798"
     author: "Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf"
     q: 3
-    i: "?"
+    i: 3
     kind: causal
     rigour: 2
 ---
@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` The behavioral violations subscale of the SET did not reach significance across all 4 years (p = .073) but was significant comparing Year 1 and Year 4 (p = .027, d = .90). [→ Catherine P. Bradshaw 2010](#catherine-p-bradshaw-2010)
+`q3 i3` The behavioral violations subscale of the SET did not reach significance across all 4 years (p = .073) but was significant comparing Year 1 and Year 4 (p = .027, d = .90). [→ Catherine P. Bradshaw 2010](#catherine-p-bradshaw-2010)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798
 
-`q3 · i?` · `causal · r2`
+`q3 · i3 · large Year 1 to Year 4 change, d = .90` · `causal · r2`
 
 Repeated measures GLM on SET subscale data from the randomized trial; the behavioral violations subscale was the one of seven subscales not significant across all 4 years.
 

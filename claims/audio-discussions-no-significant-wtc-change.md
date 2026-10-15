@@ -14,7 +14,7 @@ sources:
     title: "Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com"
     author: Lepore, C. E.
     q: 2
-    i: 0
+    i: "?"
     kind: design
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2` · `i0` negligible
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Wilcoxon signed-rank tests on cumulative WTC scores across the three activities revealed no significant changes in WTC levels; e.g., from VT1 to VT3, 28% increased, 25% decreased, and 47% reported no change. [→ Lepore 2014](#lepore-2014)
@@ -33,7 +33,7 @@ sources:
 
 Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com
 
-`q2 · i0` · `design · r2`
+`q2 · i?` · `design · r2`
 
 Repeated-measures Wilcoxon signed-rank analysis of Part 2 self-assessment WTC scores (n = 36) across three VoiceThread activities, reported in Table 1. The article reports no significant changes, with VT1 to VT3 percentages of 28% increase, 25% decrease, and 47% no change.
 

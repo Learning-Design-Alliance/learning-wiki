@@ -39,7 +39,7 @@ Where learners in one course start from different observed responses on a task w
 
 This page owns the general relationship: individualised selection against a fixed path, whoever or whatever does the selecting. Three converted pages hold narrower models inside it. [Scaffolding](scaffolding.md) treats support versus none during an attempt, and its model of contingent support is the within-task form of adaptation. [Mastery Learning](mastery-learning.md) treats one adaptive rule, a gate with correction and a recheck before advancing. [Formative Assessment](formative-assessment.md) treats the interpretation of evidence and the contingent action that any adaptive decision depends on. This page does not repeat them. The [adaptive learning pattern](adaptive-learning.md) is a short, unconverted stub.
 
-**No claim in the wiki tests adaptation itself against the same content in a fixed sequence at scale.** The strongest evidence below compares intelligent tutoring systems, which bundle adaptation with step-level feedback, practice and a model of the task, with conventional instruction; it shows the bundle can help, not which part of it does.
+**Only small single studies in the wiki test adaptation itself against the same content without it, and none does so at scale.** In the clearest, a randomised experiment with 120 undergraduates, diagnosed personalised paths saved learning time and raised an aligned post-test over a fixed order ([Personalized paths reduced learning time and improved post-test scores](../claims/personalized-paths-experiment-outcomes.md) [+M]); adaptive task difficulty did not help second-graders against an otherwise identical tutor ([Adaptive task difficulty did not improve second-graders' posttest](../claims/task-difficulty-adaptation-no-learning-benefit-second-grade.md) [-W]). The strongest evidence below compares intelligent tutoring systems, which bundle adaptation with step-level feedback, practice and a model of the task, with conventional instruction; it shows the bundle can help, not which part of it does.
 
 ## Default design, while the relationship is untested
 
@@ -151,7 +151,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [One-shot path generation raises Validity but lowers Adaptivity and Efficiency relative to step-by-step interaction](../claims/one-shot-generation-lowers-adaptivity.md) [~W]
 - [Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition](../claims/non-adaptive-condition-higher-mastery-probabilities.md) [-W]
 - [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](../claims/genai-tutors-struggle-infer-student-knowledge.md) [-W]
-- [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](../claims/personalized-paths-experiment-outcomes.md) [+S]
+- [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](../claims/personalized-paths-experiment-outcomes.md) [+M]
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](../claims/personalized-paths-lower-cognitive-load.md) [+W]
 - [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](../claims/significant-prepost-gains-ckt-pst.md) [~W]
 - [Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness](../claims/student-context-personalization-improves-tutor-metrics.md) [+W]
@@ -168,7 +168,6 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [A stochastic (exploration) router yields a higher exercise conversion rate than the static baseline, while the greedy router is comparable](../claims/stochastic-router-higher-conversion-rate.md) [+M]
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](../claims/adult-ed-minimal-learner-data-use.md) [-W]
 - [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](../claims/drl-policy-favors-guided-examples-distribution.md) [+W]
-- Convergence Condition Stochastic Approximation [+M]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

@@ -35,7 +35,7 @@ Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). 
 
 `q3 · i?` · `causal · r?`
 
-Eye-tracking experiment measuring total fixation duration (log-transformed) on text regions. Low prior knowledge students had "greater total fixation duration on the text in the original conditions than the revised condition"; middle prior knowledge students showed the reverse, F(1, 15) = 9.82, p = .002.
+Eye-tracking experiment measuring total fixation duration (log-transformed) on text regions. Low prior knowledge students had "greater total fixation duration on the text in the original conditions than the revised condition"; middle prior knowledge students showed the reverse, F(1, 15) = 9.82, p = .002. Both values are as the chapter prints them (checked against the ERIC full text, 2026-10-15), but they are inconsistent: F(1, 15) = 9.82 corresponds to p ≈ .007, not .002, so one of the two is likely a misprint.
 
 > "There was an interaction between condition and prior knowledge group for total fixation duration on the text, F(2, 51) = 23.63, p < .001. Participants in the low prior knowledge group had greater total fixation duration on the text in the original conditions than the revised condition, F(1, 21) = 74.88, p < .001."
 

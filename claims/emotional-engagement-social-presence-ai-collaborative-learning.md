@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments
+title: "A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes"
 description: Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments
 id: emotional-engagement-social-presence-ai-collaborative-learning
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments
+# A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+<!-- title before 2026-10-15: Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments -->
 
 ## Subclaims
 `q2 i?` AI tools that increase social presence and emotional engagement make learners feel more connected to the learning process, improving collaborative learning outcomes. [→ Kovari 2025](#kovari-2025)

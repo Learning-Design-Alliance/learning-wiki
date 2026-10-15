@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement
+title: "A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners"
 description: Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement
 id: white-adverb-placement-negative-evidence-failed
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement
+# A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+<!-- title before 2026-10-15: Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement -->
 
 ## Subclaims
 `q2 i?` White's (1991) attempt to get learners to notice the ungrammaticality of French-style adverb placement in English failed; changes were purely superficial with no grammar reorganization. [→ Young-Scholten 1999](#young-scholten-1999)

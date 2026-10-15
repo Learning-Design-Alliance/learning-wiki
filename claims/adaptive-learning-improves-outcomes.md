@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Adaptive learning improves outcomes
+title: "Intelligent tutoring systems improve achievement over non-individualised instruction"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,10 +28,11 @@ sources:
     rigour: "?"
 ---
 
-# Adaptive learning improves outcomes
+# Intelligent tutoring systems improve achievement over non-individualised instruction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
+<!-- title before 2026-10-15: Adaptive learning improves outcomes -->
 
 Learning environments that adjust task difficulty, sequencing, or support to individual learner performance can improve outcomes relative to fixed, one-size-fits-all sequences — but the effect depends heavily on how adaptation is implemented and for whom.
 

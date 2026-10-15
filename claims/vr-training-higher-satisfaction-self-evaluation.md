@@ -14,7 +14,7 @@ sources:
     title: "Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin. (2026). Development and Educational Evaluation of a Radiation Visualization System in a Virtual Reality Training Module for Radiopharmaceutical Administration: Mixed Methods Study of Students’ Learning Experiences. JMIR Medical Education. https://doi.org/10.2196/104397"
     author: Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin
     q: 2
-    i: 3
+    i: "?"
     kind: causal
     rigour: 1
 ---
@@ -22,10 +22,10 @@ sources:
 # VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i3` Learning satisfaction (F) and self-evaluation (G) were rated significantly higher after VR-based training (F: 4.52 vs 3.88; G: 4.48 vs 3.81), both P<.001 with large effect sizes. [→ Kakimoto Akihiro 2026](#kakimoto-akihiro-2026)
+`q2 i?` Learning satisfaction (F) and self-evaluation (G) were rated significantly higher after VR-based training (F: 4.52 vs 3.88; G: 4.48 vs 3.81), both P<.001 with large effect sizes. [→ Kakimoto Akihiro 2026](#kakimoto-akihiro-2026)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin. (2026). Development and Educational Evaluation of a Radiation Visualization System in a Virtual Reality Training Module for Radiopharmaceutical Administration: Mixed Methods Study of Students’ Learning Experiences. JMIR Medical Education. https://doi.org/10.2196/104397
 
-`q2 · i3` · `causal · r1`
+`q2 · i?` · `causal · r1`
 
 Primary outcome domains F and G in the within-participants comparison of 20 students; Wilcoxon signed-rank tests P<.001 with effect sizes r=0.835 (F) and r=0.811 (G). Secondary items F1, F2, G1, and G4 were individually significant at the adjusted threshold.
 

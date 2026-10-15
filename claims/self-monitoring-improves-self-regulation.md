@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Self-monitoring improves self-regulation and supports better learning decisions.
+title: Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy
 status: review
 generated:
   by: codex/unspecified
@@ -28,10 +28,11 @@ id: self-monitoring-improves-self-regulation
 evidence_strength: moderate
 ---
 
-# Self-monitoring improves self-regulation and supports better learning decisions.
+# Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r?`, 1 theoretical `r?` · `q3`
+<!-- title before 2026-10-15: Self-monitoring improves self-regulation and supports better learning decisions. -->
 
 When learners are prompted to check their current performance against a goal or criterion, they are more likely to notice gaps, adjust strategy, and persist in purposeful ways.
 

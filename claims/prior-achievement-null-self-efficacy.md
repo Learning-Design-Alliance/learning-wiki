@@ -14,7 +14,7 @@ sources:
     title: "Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual Understanding and Self-Efficacy in Calculus Courses. Pegem Journal of Education and Instruction, Vol. 12, No. 3, 154-168. https://doi.org/10.47750/pegegog.12.03.17"
     author: Ramadoni, Mustofa
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i2` Prior achievement level showed no significant effect on self-efficacy, F(2,64)=1.59, p=.213, partial η2=.047. [→ Ramadoni 2022](#ramadoni-2022)
+`q2 i?` Prior achievement level showed no significant effect on self-efficacy, F(2,64)=1.59, p=.213, partial η2=.047. [→ Ramadoni 2022](#ramadoni-2022)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual Understanding and Self-Efficacy in Calculus Courses. Pegem Journal of Education and Instruction, Vol. 12, No. 3, 154-168. https://doi.org/10.47750/pegegog.12.03.17
 
-`q2 · i2` · `causal · r2`
+`q2 · i? · non-significant; partial η² only, no d` · `causal · r2`
 
 Two-way ANOVA on self-efficacy (PTFC n=36, CFC n=34): prior achievement level "was no significant difference with F(2,64) =1.59, p=.213>.05, partial η2=.047"; descriptive means high 84.75, medium 81.54, low 82.50. The method main effect was significant (p=.018).
 

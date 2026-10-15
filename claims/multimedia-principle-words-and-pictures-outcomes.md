@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally
+title: A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words
 description: Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally
 id: multimedia-principle-words-and-pictures-outcomes
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally
+# A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+<!-- title before 2026-10-15: Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally -->
 
 ## Subclaims
 `q2 i?` Studies cited by the article demonstrated improved post-test learning outcomes when both words and pictures were presented instead of words alone, with Herrlinger et al. (2017) finding learning improved especially when words were delivered orally. [→ Marjorie Ceballos 2022](#ceballos-nutta-2022)

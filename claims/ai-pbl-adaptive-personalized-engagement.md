@@ -1,6 +1,6 @@
 ---
 type: claim
-title: AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL
+title: "A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving"
 description: AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL
 id: ai-pbl-adaptive-personalized-engagement
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL
+# A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+<!-- title before 2026-10-15: AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL -->
 
 ## Subclaims
 `q2 i?` AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills. [→ MOHAMMAD ANIQ AMDAN 2026](#mohammad-aniq-amdan-2026)

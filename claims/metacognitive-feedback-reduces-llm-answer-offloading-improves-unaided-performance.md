@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance"
+title: "In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect"
 description: "Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance"
 id: metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance
 status: draft
@@ -27,10 +27,12 @@ sources:
     rigour: 3
 ---
 
-# Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance
+# In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+
+<!-- title before 2026-10-15: Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance -->
 
 ## Subclaims
 `q3 i?` Participants who received metacognitive feedback had lower odds of answer offloading than those who did not (OR = 0.47). [→ Sebastian Maier 2026](#sebastian-maier-2026)

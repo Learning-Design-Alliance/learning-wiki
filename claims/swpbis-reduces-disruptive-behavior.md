@@ -1,6 +1,6 @@
 ---
 type: claim
-title: SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)
+title: "SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)"
 description: SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)
 id: swpbis-reduces-disruptive-behavior
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)
+# SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+<!-- title before 2026-10-15: SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12) -->
 <!-- title before 2026-10-14: SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years -->
 
 ## Subclaims

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning
+title: "Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)"
 description: Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning
 id: tuga-negative-direct-effect-sdl
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning
+# Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+<!-- title before 2026-10-15: Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning -->
 
 ## Subclaims
 `q2 i?` TUGA significantly and negatively predicts SDL (β = −0.42, p < .001) in a PLS-SEM of 487 undergraduates. [→ Hui Zhao & Huijuan Gu 2026](#hui-zhao-huijuan-gu-2026)

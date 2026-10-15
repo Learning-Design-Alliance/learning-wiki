@@ -14,7 +14,7 @@ sources:
     title: "Kang, S. H. K., Eglington, L. G., Schuetze, B. A., Lu, X., Hinterstoisser, T. M., & Huaco, J. (2023). Using Cognitive Science and Technology to Enhance Financial Education: The Effect of Spaced Retrieval Practice. Journal of Financial Counseling and Planning, 34(1), 20–31. https://doi.org/10.1891/JFCP-2021-0032"
     author: "Kang, S. H. K., Eglington, L. G., Schuetze, B. A., Lu, X., Hinterstoisser, T. M., & Huaco, J."
     q: 3
-    i: 2
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i2` Practice condition had a significant omnibus effect on final-assessment knowledge performance (partial η2 = .062). [→ Kang 2023](#kang-2023)
+`q3 i?` Practice condition had a significant omnibus effect on final-assessment knowledge performance (partial η2 = .062). [→ Kang 2023](#kang-2023)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Kang, S. H. K., Eglington, L. G., Schuetze, B. A., Lu, X., Hinterstoisser, T. M., & Huaco, J. (2023). Using Cognitive Science and Technology to Enhance Financial Education: The Effect of Spaced Retrieval Practice. Journal of Financial Counseling and Planning, 34(1), 20–31. https://doi.org/10.1891/JFCP-2021-0032
 
-`q3 · i2` · `causal · r2`
+`q3 · i? · partial η2 = .062 is the omnibus effect of three practice conditions, not an effect size for spaced against the others` · `causal · r2`
 
 Field experiment with 175 Champlain College sophomores randomly assigned to spaced, massed, or control conditions after a credit workshop. The ANOVA on final-assessment knowledge questions showed "a significant effect of practice condition, F(2, 172) = 5.654, p = .004, and partial η2 = .062."
 

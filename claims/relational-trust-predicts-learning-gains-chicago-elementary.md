@@ -9,9 +9,9 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 sources:
-  - id: bryk-1988
+  - id: bryk-2002
     resource: "https://www.amazon.com"
-    title: "Bryk, A. S. and Schneider, B. (1988). Trust in Schools: A Core Resource for Improvement. https://www.amazon.com"
+    title: "Bryk, A. S. and Schneider, B. (2002). Trust in Schools: A Core Resource for Improvement. New York: Russell Sage Foundation. https://www.amazon.com"
     author: Bryk, A. S. and Schneider, B.
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
-`q2 i?` In schools with high relational trust, gains in student learning were marked, whereas schools with weak trust relations saw virtually no improvement in reading or mathematics scores. [→ Bryk 1988](#bryk-1988)
+`q2 i?` In schools with high relational trust, gains in student learning were marked, whereas schools with weak trust relations saw virtually no improvement in reading or mathematics scores. [→ Bryk 2002](#bryk-2002)
 
 ## Evidence
 
-### Bryk 1988
+### Bryk 2002
 
-Bryk, A. S. and Schneider, B. (1988). Trust in Schools: A Core Resource for Improvement. https://www.amazon.com
+Bryk, A. S. and Schneider, B. (2002). Trust in Schools: A Core Resource for Improvement. New York: Russell Sage Foundation. https://www.amazon.com
 
 `q2 · i?` · `associational · r?`
 

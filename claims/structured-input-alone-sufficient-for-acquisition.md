@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge
+title: "A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge"
 description: Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge
 id: structured-input-alone-sufficient-for-acquisition
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge
+# A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+<!-- title before 2026-10-15: Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge -->
 
 ## Subclaims
 `q2 i?` Research on processing instruction has repeatedly shown that explicit information is not needed; structured input alone causes changes in learner knowledge. [→ Bill VanPatten 2010](#bill-vanpatten-2010)

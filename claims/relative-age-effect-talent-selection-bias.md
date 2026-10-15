@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Relative-age effects, not innate talent, bias selection into elite youth sports
+title: "A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey"
 description: Relative-age effects, not innate talent, bias selection into elite youth sports
 id: relative-age-effect-talent-selection-bias
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Relative-age effects, not innate talent, bias selection into elite youth sports
+# A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+<!-- title before 2026-10-15: Relative-age effects, not innate talent, bias selection into elite youth sports -->
 
 ## Subclaims
 `q2 i?` Professional soccer and hockey players are born 3–6 times more frequently in some months, and shifting cohort cutoff dates shifted which birth months were selected. [→ Ericsson 2005](#ericsson-2005)

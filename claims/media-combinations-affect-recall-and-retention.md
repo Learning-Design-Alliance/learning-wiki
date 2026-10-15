@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Different media combinations significantly affect the recall and retention of information
+title: In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts
 status: review
 generated:
   by: "claude/unspecified"
@@ -19,10 +19,11 @@ id: media-combinations-affect-recall-and-retention
 evidence_strength: moderate
 ---
 
-# Different media combinations significantly affect the recall and retention of information
+# In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=37
+<!-- title before 2026-10-15: Different media combinations significantly affect the recall and retention of information -->
 
 How information is distributed across media channels (e.g., text, images, narration) changes how well learners recall and retain it, in line with the predictions of [Dual Coding Theory](../theories/dual-coding-theory.md).
 

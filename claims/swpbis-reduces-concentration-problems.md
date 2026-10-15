@@ -1,6 +1,6 @@
 ---
 type: claim
-title: SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)
+title: "SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)"
 description: SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)
 id: swpbis-reduces-concentration-problems
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)
+# SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+<!-- title before 2026-10-15: SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08) -->
 <!-- title before 2026-10-14: SWPBIS reduces concentration problems among elementary school children -->
 
 ## Subclaims

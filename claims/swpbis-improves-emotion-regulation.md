@@ -1,6 +1,6 @@
 ---
 type: claim
-title: SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)
+title: "SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)"
 description: SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)
 id: swpbis-improves-emotion-regulation
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)
+# SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+<!-- title before 2026-10-15: SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11) -->
 <!-- title before 2026-10-14: SWPBIS improves emotion regulation among elementary school children -->
 
 ## Subclaims

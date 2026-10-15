@@ -1,6 +1,6 @@
 ---
 type: claim
-title: AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning
+title: "A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning"
 description: AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning
 id: awe-enhance-organization-quality-self-directed-learning
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning
+# A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+<!-- title before 2026-10-15: AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning -->
 
 ## Subclaims
 `q3 i?` The review finds AWE tools can enhance the organization of writing and overall writing quality while also encouraging self-directed learning. [→ Gres 2026](#gres-2026)

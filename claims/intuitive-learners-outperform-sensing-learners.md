@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Intuitive learners tend to outperform sensing learners in media-based presentations
+title: "In one author's classroom media experiments, intuitive learners tended to score above sensing learners, though not in every format comparison"
 status: review
 generated:
   by: "claude/unspecified"
@@ -18,10 +18,12 @@ sources:
 id: intuitive-learners-outperform-sensing-learners
 ---
 
-# Intuitive learners tend to outperform sensing learners in media-based presentations
+# In one author's classroom media experiments, intuitive learners tended to score above sensing learners, though not in every format comparison
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+
+<!-- title before 2026-10-15: Intuitive learners tend to outperform sensing learners in media-based presentations -->
 
 Across a series of computer-based media experiments, learners with a preference for intuitive processing (abstract, symbolic) scored higher than sensing-preferring learners (concrete, factual), but the advantage was not uniform across presentation formats.
 
@@ -45,9 +47,9 @@ In an extended student-class experiment comparing text-only, voice, diagram, and
 
 ## Discussion
 
-**Format moderates the effect.** The intuitive-over-sensing advantage held across presentation types, but the voice/diagrams exception shows it is not a fixed learner property: a concrete, dual-channel presentation (spoken narration plus visual diagrams) lifted sensing learners above intuitives receiving text alone [+M]. This aligns with the mechanism Alty proposes via dual coding theory — combining verbal and visual channels reduces reliance on a single representational system and lowers extraneous load, echoing [cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) [~M].
+**Format moderates the effect.** The intuitive-over-sensing advantage held across presentation types, but the voice/diagrams exception shows it is not a fixed learner property: a concrete, dual-channel presentation (spoken narration plus visual diagrams) lifted sensing learners above intuitives receiving text alone. This aligns with the mechanism Alty proposes via dual coding theory — combining verbal and visual channels reduces reliance on a single representational system and lowers extraneous load, echoing [cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md).
 
-**Caution on learner-preference inference.** This claim concerns measured performance differences associated with sensing/intuitive preference on an instrument (Myers–Briggs-style dimensions), not a validated learning-styles treatment. It should not be read as support for tailoring media to learner style; the data here point the other way — the presentation format, not the preference match, drove the reversal [+M].
+**Caution on learner-preference inference.** This claim concerns measured performance differences associated with sensing/intuitive preference on an instrument (Myers–Briggs-style dimensions), not a validated learning-styles treatment. It should not be read as support for tailoring media to learner style; the data here point the other way — the presentation format, not the preference match, drove the reversal.
 
 **Single-source limitation.** Both subclaims rest on one conference-report series of classroom experiments by a single author, with sample sizes and effect magnitudes not fully specified. Replication in independent labs and with modern multimedia would be needed before treating the intuitive advantage as robust.
 
@@ -59,5 +61,5 @@ In an extended student-class experiment comparing text-only, voice, diagram, and
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — overload explains why text-only formats disadvantage sensing learners
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — a design lever that can offset learner differences in media presentations
 - [Dual coding theory](../theories/dual-coding-theory.md) — the theoretical framework underlying Alty's media experiments
-- [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — related
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows](expertise-reversal-effect.md) — related
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — related

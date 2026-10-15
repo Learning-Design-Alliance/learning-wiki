@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions
+title: "In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly"
 description: Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions
 id: feedback-quality-predicts-revision-only-in-teacher-condition
 status: draft
@@ -35,10 +35,11 @@ sources:
     rigour: 2
 ---
 
-# Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions
+# In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
+<!-- title before 2026-10-15: Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions -->
 
 ## Subclaims
 `q3 i?` In the teacher condition, feedback quality significantly predicted revised draft quality (β = .53). [→ Farrokhnia 2026](#farrokhnia-2026)

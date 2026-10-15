@@ -79,7 +79,7 @@ Practicing or reviewing material across multiple sessions separated in time prod
 
 `q3 i?` The optimal gap scales with how long the material must be retained: gaps that maximise recall at one week are too short for a test months later. There is no fixed best interval to configure. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
 
-`q4 i2` A meta-analysis outside the verbal-learning laboratory, covering task practice, put the distribution-of-practice effect at d = 0.46 and found it moderated by task complexity. [→ Donovan & Radosevich 1999](#donovan-and-radosevich-1999)
+`q3 i2` A meta-analysis outside the verbal-learning laboratory, covering task practice, put the distribution-of-practice effect at d = 0.46 and found it moderated by task complexity. [→ Donovan & Radosevich 1999](#donovan-and-radosevich-1999)
 
 `q4 i?` Across 271 massed-versus-spaced comparisons in verbal recall tasks, spaced presentation raised final-test recall from 36.7% to 47.3% correct with study time held equal, and only 12 comparisons showed no or a negative spacing effect; the benefit appeared at short as well as long retention intervals. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
 
@@ -230,7 +230,7 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 
 **Scope and moderators.** The spacing effect is among the most replicated findings in memory research [+S], but most demonstrations use verbal recall or simple facts; whether the benefit holds equally for complex skills (e.g., multi-step procedures, motor skills) is an open question [~W], and the optimal gap may differ as expertise grows — a question related to the [expertise reversal effect](../theories/expertise-reversal-effect.md). Because spacing imposes a desirable difficulty, it also interacts with [cognitive overload](cognitive-overload-degrades-learning.md): gaps that are too short leave little reconstruction benefit, while gaps that are too long can push learners past what they can recover [~M], so gap calibration is a load-management problem as much as a memory one.
 
-**Evidence status.** The evidence section for this claim still needs to be populated with the key experimental and meta-analytic studies before the strength rating can be set. Until then, treat the claim as well-established in direction but unrated in strength.
+**Evidence status.** The evidence section records two meta-analyses (Cepeda et al. 2006; Donovan & Radosevich 1999), one large randomised experiment (Cepeda et al. 2008) and two second-language sources (Kim & Webb 2022; Nakata 2015). `evidence_strength:` is not set; the per-entry codes are the rating.
 
 *Merged from “Spaced Practice Improves Long Term Retention” (spaced-practice-improves-long-term-retention):* **Scope.** This claim concerns the *spacing* of practice over time — the temporal distribution of study or rehearsal episodes — and its effect on delayed retention. It is distinct from (though often confounded with) the benefit of retrieving information during practice; spacing and retrieval are separable manipulations, and claims about retrieval belong on their own pages.
 
@@ -242,7 +242,7 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 
 **Design implications.** Because learners systematically misjudge spacing as less effective, designers should not rely on learner preference when scheduling review [~S]. Curriculum-level scheduling — revisiting core content at expanding intervals across units, rather than blocking all practice of a topic into one session — operationalizes the effect at a scale learners cannot easily opt out of. Where learners control their own schedules, brief instruction on the spacing effect and on the unreliability of fluency as a cue for learning can support better [self-regulated learning](../theories/self-regulated-learning.md).
 
-**Open questions.** The draft currently has no evidence entries, so the strength of this claim on this wiki is not yet established. Studies still need to be added before the subclaims and evidence strength can be finalized. Open empirical questions include how the spacing effect scales with complex, skill-based material (as opposed to verbal recall), and how spacing interacts with feedback timing.
+**Open questions.** Open empirical questions include how the spacing effect scales with complex, skill-based material (as opposed to verbal recall), and how spacing interacts with feedback timing.
 
 *Merged from “Spacing Improves Long Term Retention” (spacing-improves-long-term-retention):* **Mechanism.** Spacing is commonly explained by encoding variability and by desirable-difficulty accounts: a delayed re-encounter forces partial retrieval and reconsolidation rather than a low-effort repetition of still-active memory traces. This places spacing in the same family as retrieval-based strategies, where the effort of reconstruction — not mere re-exposure — drives durable memory, consistent with general accounts of consolidation in [information processing theory](../theories/information-processing-theory.md).
 
@@ -254,7 +254,7 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 
 **Design implication.** Spacing pairs naturally with retrieval practice: a spaced schedule in which each re-encounter is a [retrieval attempt rather than rereading](../claims/retrieval-practice-improves-retention.md) compounds the benefit, since both the schedule and the encoding operation exploit desirable difficulty. Curriculum designers should build spaced review into course structure (e.g., cumulative quizzes, spiraled homework) rather than leaving it to learner choice, because learners left to their own preferences tend to mass.
 
-**Open questions.** The stub currently contains no evidence entries; meta-analytic support (e.g., Cepeda et al.'s work on distributed practice) still needs to be added before this claim can carry an evidence-strength rating. Open questions include how spacing interacts with complex-skill learning versus verbal recall, and whether optimal gaps differ for novices and experts.
+**Open questions.** Open questions include how spacing interacts with complex-skill learning versus verbal recall, and whether optimal gaps differ for novices and experts.
 
 *Merged from “Spacing Improves Retention” (spacing-improves-retention):* **Mechanism.** The dominant theoretical account is that spaced episodes create retrieval difficulty: after a delay, the learner must partially reconstruct the memory trace, and this effortful retrieval strengthens it more than easy, immediate review [+S]. Massed practice feels effective because performance during study is fluent, but this fluency is a poor index of durable learning — a classic dissociation between performance during instruction and long-term retention [+S]. This is why learners frequently misjudge spacing as inefficient and prefer massing, a metacognitive error that designers should anticipate when scheduling review [+S].
 

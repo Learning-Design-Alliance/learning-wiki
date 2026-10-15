@@ -59,7 +59,7 @@ Catherine P. Bradshaw, Tracy E. Waasdorp, Philip J. Leaf. (2012). Effects of Sch
 
 Annual SET assessments by trained assessors blind to condition in all 37 schools; "all SWPBIS schools reached and maintained high- ﬁdelity implementation" and 66% met the 80% threshold within the first year. Comparison schools did not consistently reach high fidelity.
 
-> "b o t hi n - dicated that all SWPBIS schools reached and maintained high- ﬁdelity implementation (eg, 80% on the School-wide Evaluation Tool) 18 by the end of the trial, and no schools in the comparison condition consis- tently reached high ﬁdelity"
+> "both indicated that all SWPBIS schools reached and maintained high- ﬁdelity implementation (eg, 80% on the School-wide Evaluation Tool) 18 by the end of the trial, and no schools in the comparison condition consis- tently reached high ﬁdelity"
 
 ## Discussion
 

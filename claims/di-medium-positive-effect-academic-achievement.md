@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values
+title: "A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero"
 description: Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values
 id: di-medium-positive-effect-academic-achievement
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values
+# A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+<!-- title before 2026-10-15: Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values -->
 
 ## Subclaims
 `q3 i?` Across three DI studies analyzed under a random-effects model, the pooled effect size was 0.729, interpreted as medium, but the 95% confidence interval ranged from -3.659 to 5.117. [→ Şenel Elaldı 2016](#senel-elald-2016)
@@ -35,9 +36,9 @@ sources:
 
 `q3 · i?` · `quant-synthesis · r1`
 
-Random-effects meta-analysis of three differentiated-instruction studies; pooled ES 0.729 with a very wide 95% CI (-3.659 to 5.117). The FEM Q of 92.781 exceeded the critical value of 5.991, indicating heterogeneity. No standardized effect-size magnitude beyond the ES is printed for the subclaim.
+Random-effects meta-analysis of three differentiated-instruction studies; pooled ES 0.729 with a very wide 95% CI (-3.659 to 5.117). The FEM Q of 92.781 exceeded the critical value of 5.991, indicating heterogeneity. No standardized effect-size magnitude beyond the ES is printed for the subclaim. The source prints the same value, 0.729, for both the standard error and the effect size (quoted below), so one of the two is probably a misprint; the interval's width is consistent with a much larger standard error than 0.729.
 
-> "As a result of the analysis carried out with REM , the standard error was 0.729 and the upper limit for 95% of the confidence interval was 5.117 while the lower limit was -3.659 and the effect size was 0.729 and therefore, it can be interpreted that the use of DI has more positive effects on students’ ac ademic achievement than traditional method."
+> "As a result of the analysis carried out with REM , the standard error was 0.729 and the upper limit for 95% of the confidence interval was 5.117 while the lower limit was -3.659 and the effect size was 0.729 and therefore, it can be interpreted that the use of DI has more positive effects on students’ academic achievement than traditional method."
 
 ## Discussion
 

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence
+title: "A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition"
 description: Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence
 id: instruction-little-effect-on-route-of-acquisition
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence
+# A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+<!-- title before 2026-10-15: Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence -->
 
 ## Subclaims
 `q2 i?` Instruction has repeatedly been shown to have little or no effect on the route of second language acquisition. [→ Young-Scholten 1999](#young-scholten-1999)

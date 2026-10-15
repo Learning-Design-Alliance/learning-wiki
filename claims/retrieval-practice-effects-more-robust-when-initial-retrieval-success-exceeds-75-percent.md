@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects"
+title: A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects
 description: "Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects"
 id: retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent
 status: draft
@@ -27,10 +27,11 @@ sources:
     rigour: 2
 ---
 
-# Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects
+# A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
+<!-- title before 2026-10-15: Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects -->
 
 ## Subclaims
 `q3 i?` The chapter reports that in Rowland's (2014) meta-analysis retrieval practice effects become more robust as initial retrieval success increases, especially when it is greater than 75%. [→ Karpicke 2017](#karpicke-2017)

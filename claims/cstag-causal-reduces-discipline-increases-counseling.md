@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Causal studies find CSTAG reduces exclusionary discipline and bullying and increases counseling, with fidelity moderating effects
+title: Randomized studies, as reviewed, find that students who make threats in CSTAG schools more often receive counseling and less often long-term suspension or transfer, with the largest changes in higher-fidelity schools
 description: Causal studies find CSTAG reduces exclusionary discipline and bullying and increases counseling, with fidelity moderating effects
 id: cstag-causal-reduces-discipline-increases-counseling
 status: draft
@@ -27,10 +27,11 @@ sources:
     rigour: 3
 ---
 
-# Causal studies find CSTAG reduces exclusionary discipline and bullying and increases counseling, with fidelity moderating effects
+# Randomized studies, as reviewed, find that students who make threats in CSTAG schools more often receive counseling and less often long-term suspension or transfer, with the largest changes in higher-fidelity schools
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+<!-- title before 2026-10-15: Causal studies find CSTAG reduces exclusionary discipline and bullying and increases counseling, with fidelity moderating effects -->
 
 ## Subclaims
 `q3 i?` In randomized studies, CSTAG students making threats were significantly more likely to receive counseling services and a parent conference, while control students were significantly more likely to receive long-term suspension or transfer. [→ DePaoli 2025](#depaoli-2025)

@@ -67,7 +67,7 @@ Systematic review of 22 peer-reviewed studies of morphological intervention with
 
 **Instructional form.** Morphological instruction can be delivered as direct explanation of high-value affixes and roots, as structured word inquiry (investigating word families and etymology), or embedded in content-area teaching where disciplinary vocabulary (e.g., *bio-*, *geo-*, *-ology* in science) carries transparent morphology. Because the payoff is generative, instruction should emphasize analysis and word-building routines over rote memorization of word lists; pairing it with [accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) in texts gives learners authentic material to apply the strategy to.
 
-**Open questions.** The meta-analysis recorded above finds a moderate overall effect on literacy, largest for decoding and morphological knowledge, and no reliable effect on reading comprehension or fluency. Vocabulary specifically is not separately estimated in what is recorded here, and dosage requirements are not characterized.
+**Open questions.** The meta-analysis recorded above finds a moderate overall effect on literacy, largest for decoding and morphological knowledge, and no reliable effect on reading comprehension or fluency. For vocabulary specifically it reports a significant pooled effect of d̄ = 0.34 (small on this wiki's scale); dosage requirements are not characterized.
 
 ## Related Claims
 

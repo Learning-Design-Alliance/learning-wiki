@@ -35,7 +35,7 @@ Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). 
 
 `q3 · i?` · `causal · r2`
 
-Eye-tracking experiment measuring total fixation duration on math-relevant visuals. The article states "revisions appeared to reduce cognitive processing for students in the low prior knowledge group, but increased cognitive processing for students in the middle prior knowledge group" (F(1, 15) = 9.74, p = .003).
+Eye-tracking experiment measuring total fixation duration on math-relevant visuals. The article states "revisions appeared to reduce cognitive processing for students in the low prior knowledge group, but increased cognitive processing for students in the middle prior knowledge group" (F(1, 15) = 9.74, p = .003). Both values are as the chapter prints them (checked against the ERIC full text, 2026-10-15), but they are inconsistent: F(1, 15) = 9.74 corresponds to p ≈ .007, not .003, so one of the two is likely a misprint.
 
 > "There was an interaction between condition and prior knowledge group for total fixation duration on the math-relevant visuals, F(2, 51) = 6.57, p = .002 (see Figure 7). Participants in the low prior knowledge group had longer total fixation duration on the math-relevant visuals in the original condition than in the revised condition, F(1, 21) = 6.43, p = .01."
 

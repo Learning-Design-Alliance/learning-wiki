@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge"
+title: "Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught"
 description: "The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge"
 id: local-indigenous-culture-student-interest
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge
+# Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+
+<!-- title before 2026-10-15: The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge -->
 
 ## Subclaims
 `q2 i?` Students, both Indigenous and non-Indigenous, express keen interest in local Indigenous culture and participate avidly in learning about it when it is introduced. [→ McGloin 2009](#mcgloin-2009)
@@ -35,9 +37,9 @@ McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowle
 
 `q2 · i?` · `qualitative · r1`
 
-Observational finding reported from the Leading the Way research into teaching and learning at the Woolyungah Indigenous Centre. The authors report that students "express a keen inter est in local Indigenous culture" and participate avidly when it is introduced; no numbers or tests are printed.
+Observational finding reported from the Leading the Way research into teaching and learning at the Woolyungah Indigenous Centre. The authors report that students "express a keen interest in local Indigenous culture" and participate avidly when it is introduced; no numbers or tests are printed.
 
-> "many of our students, both Indigenous and non-Indigenous express a keen inter est in local Indigenous culture, and where this is introduced, avidly participate i n learning whether at the level of academic inquiry or field work."
+> "many of our students, both Indigenous and non-Indigenous express a keen interest in local Indigenous culture, and where this is introduced, avidly participate in learning whether at the level of academic inquiry or field work."
 
 ## Discussion
 

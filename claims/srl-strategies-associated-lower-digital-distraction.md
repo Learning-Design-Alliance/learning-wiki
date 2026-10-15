@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses
+title: "In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction"
 description: Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses
 id: srl-strategies-associated-lower-digital-distraction
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses
+# In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+
+<!-- title before 2026-10-15: Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses -->
 
 ## Subclaims
 `q2 i?` Among 530 college students, SRL strategies of goal setting, environment structuring, and time management emerged as the most prominent factor associated with lower digital distraction scores. [→ Shi 2025](#shi-2025)

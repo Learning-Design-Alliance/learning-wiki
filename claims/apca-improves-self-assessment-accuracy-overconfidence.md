@@ -1,6 +1,6 @@
 ---
 type: claim
-title: APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration
+title: "In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further"
 description: APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration
 id: apca-improves-self-assessment-accuracy-overconfidence
 status: draft
@@ -27,10 +27,12 @@ sources:
     rigour: 2
 ---
 
-# APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration
+# In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+
+<!-- title before 2026-10-15: APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration -->
 
 ## Subclaims
 `q3 i?` The APCA group showed the lowest self-assessment error at T1 and T3, and the combined group did not consistently outperform the APCA-only group. [→ Dai 2026](#dai-2026)

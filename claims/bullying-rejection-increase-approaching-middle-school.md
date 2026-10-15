@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: waasdorp-te-2012
-    resource: "https://jamanetwork.com/journals/archpediatrics/fullarticle/"
-    title: "Waasdorp TE, Bradshaw CP, Leaf PJ. (2012). The Impact of Schoolwide Positive Behavioral Interventions and Supports on Bullying and Peer Rejection: A Randomized Controlled Effectiveness Trial. Arch Pediatr Adolesc Med. 2012;166(2):149-156. https://jamanetwork.com/journals/archpediatrics/fullarticle/"
+    resource: "https://doi.org/10.1001/archpediatrics.2011.755"
+    title: "Waasdorp TE, Bradshaw CP, Leaf PJ. (2012). The Impact of Schoolwide Positive Behavioral Interventions and Supports on Bullying and Peer Rejection: A Randomized Controlled Effectiveness Trial. Arch Pediatr Adolesc Med. 2012;166(2):149-156. https://doi.org/10.1001/archpediatrics.2011.755"
     author: Waasdorp TE, Bradshaw CP, Leaf PJ
     q: 3
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Waasdorp TE 2012
 
-Waasdorp TE, Bradshaw CP, Leaf PJ. (2012). The Impact of Schoolwide Positive Behavioral Interventions and Supports on Bullying and Peer Rejection: A Randomized Controlled Effectiveness Trial. Arch Pediatr Adolesc Med. 2012;166(2):149-156. https://jamanetwork.com/journals/archpediatrics/fullarticle/
+Waasdorp TE, Bradshaw CP, Leaf PJ. (2012). The Impact of Schoolwide Positive Behavioral Interventions and Supports on Bullying and Peer Rejection: A Randomized Controlled Effectiveness Trial. Arch Pediatr Adolesc Med. 2012;166(2):149-156. https://doi.org/10.1001/archpediatrics.2011.755
 
 `q3 · i?` · `causal · r2`
 

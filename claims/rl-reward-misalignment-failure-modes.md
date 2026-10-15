@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency"
+title: "An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards"
 description: "RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency"
 id: rl-reward-misalignment-failure-modes
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency
+# An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+
+<!-- title before 2026-10-15: RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency -->
 
 ## Subclaims
 `q1 i?` If reward functions and state representations are defined poorly, RL produces adaptive behavior that appears intelligent while being pedagogically hollow, through reward hacking via memorization, engagement optimization over learning, and scaffolding dependency. [→ Tripathi 2026](#tripathi-2026)

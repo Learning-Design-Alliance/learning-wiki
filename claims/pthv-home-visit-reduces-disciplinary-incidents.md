@@ -37,7 +37,7 @@ sources:
 
 `q2 i0` Students who received a home visit before the school year were less likely to have a disciplinary incident that year (9.27 percent vs. 12.22 percent; effect size = +0.10). [→ Academic Performance — Parent Teacher Home Visits 2021](#academic-performance-parent-teacher-home-visits-2021)
 
-`q2 i?` Students who received a home visit before the start of the school year were less likely to have a disciplinary incident that year (9.27%) than matched nonvisited comparison students (12.22%). [→ Allison McKie 2021](#allison-mckie-2021)
+<!-- subclaim of merged duplicate entry 2026-10-15: `q2 i?` Students who received a home visit before the start of the school year were less likely to have a disciplinary incident that year (9.27%) than matched nonvisited comparison students (12.22%). [→ Allison McKie 2021](#allison-mckie-2021) -->
 
 ## Evidence
 
@@ -51,6 +51,7 @@ The Mathematica quasi-experimental study with a propensity-score matched compari
 
 > "During the school year following a home visit, 9.27 percent of visited students had a disciplinary incident compared with 12.22 percent of non-visited comparison students (effect size = +0.10)."
 
+<!-- merged duplicate entry 2026-10-15:
 ### Allison McKie 2021
 
 Allison McKie, Jeffrey Terziev, Brian Gill. (2021). Impacts of Home Visits on Students in District of Columbia Public Schools. Regional Educational Laboratory Mid-Atlantic, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/edlabs
@@ -60,6 +61,8 @@ Allison McKie, Jeffrey Terziev, Brian Gill. (2021). Impacts of Home Visits on St
 Matched comparison group study of structured relationship-building teacher home visits in grades 1-5 in DC Public Schools. The study found "9.27 percent of visited students had a disciplinary incident compared with 12.22 percent of nonvisited comparison students." No effect size or significance test is printed.
 
 > "During the school year following a home visit, 9.27 percent of visited students had a disciplinary incident compared with 12.22 percent of nonvisited comparison students."
+-->
+
 
 ## Discussion
 

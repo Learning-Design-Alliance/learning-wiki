@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula"
+title: "A technical review reports that one reinforcement-learning adaptive platform raised average course grades by 12%, task completion by 20% and cut dropout by 10% against static curricula (uncontrolled case report)"
 description: "A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula"
 id: rl-adaptive-system-grade-engagement-gains
 status: draft
@@ -27,10 +27,11 @@ sources:
     rigour: 2
 ---
 
-# A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula
+# A technical review reports that one reinforcement-learning adaptive platform raised average course grades by 12%, task completion by 20% and cut dropout by 10% against static curricula (uncontrolled case report)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+<!-- title before 2026-10-15: A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula -->
 
 ## Subclaims
 `q2 i?` An institutional adaptive learning platform using reinforcement learning raised average course grades by 12% compared to static curricula. [→ Mahamad 2025](#mahamad-2025)

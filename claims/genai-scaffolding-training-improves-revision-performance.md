@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems"
+title: "Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)"
 description: "Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems"
 id: genai-scaffolding-training-improves-revision-performance
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems
+# Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+<!-- title before 2026-10-15: Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems -->
 
 ## Subclaims
 `q3 i3` The experimental group achieved a significantly higher posttest CSEM score than the control group (d = 0.814). [→ Huang 2026](#huang-2026)

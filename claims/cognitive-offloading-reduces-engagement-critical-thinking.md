@@ -10,16 +10,14 @@ generated:
 evidence_strength: weak
 sources:
   - id: shan-li-2026
-    resource: "https://orcid/org/0000-0001-6001-1586"
-    title: "Shan Li, Juan Zheng. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence. https://orcid/org/0000-0001-6001-1586"
+    title: "Shan Li, Juan Zheng. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence."
     author: Shan Li, Juan Zheng
     q: 2
     i: "?"
     kind: theoretical
     rigour: 3
   - id: shan-li-2026-2
-    resource: "https://orcid/org/0000-0001-6001-1586"
-    title: "Shan Li, Juan Zheng. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence. https://orcid/org/0000-0001-6001-1586"
+    title: "Shan Li, Juan Zheng. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence."
     author: Shan Li, Juan Zheng
     q: 2
     i: "?"
@@ -40,7 +38,7 @@ sources:
 
 ### Shan Li 2026
 
-Shan Li, Juan Zheng. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence. https://orcid/org/0000-0001-6001-1586
+Shan Li, Juan Zheng. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence. (No DOI or URL: the ORCID link recorded at ingest was malformed, and no record was found on Crossref or DataCite, 2026-10-15.)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -50,7 +48,7 @@ The article reports, citing Gerlich (2025), a significant negative correlation b
 
 ### Shan Li 2026 (2)
 
-Shan Li, Juan Zheng. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence. https://orcid/org/0000-0001-6001-1586
+Shan Li, Juan Zheng. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence. (No DOI or URL: the ORCID link recorded at ingest was malformed, and no record was found on Crossref or DataCite, 2026-10-15.)
 
 `q2 · i?` · `causal · r?`
 

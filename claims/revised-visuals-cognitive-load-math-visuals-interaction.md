@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students
+title: In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students
 description: Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students
 id: revised-visuals-cognitive-load-math-visuals-interaction
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: "?"
 ---
 
-# Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students
+# In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+<!-- title before 2026-10-15: Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students -->
 
 ## Subclaims
 `q3 i?` Average fixation length on math-relevant visuals showed a condition by prior knowledge interaction, F(2, 51) = 8.58, p < .001, with low prior knowledge students showing longer fixations in the original condition, middle prior knowledge students shorter in the original, and high prior knowledge students longer in the original. [→ Clinton 2017](#clinton-2017)

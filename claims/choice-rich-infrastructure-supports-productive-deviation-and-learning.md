@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope
+title: "In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope"
 id: choice-rich-infrastructure-supports-productive-deviation-and-learning
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope
+# In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · n=2 focal sixth-grade students (embedded within a larger ethnography of 7 studio implementations across 3 schools), one school year (2015-2016)
+<!-- title before 2026-10-15: Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope -->
 
 Two sixth-grade students, given sustained access to a choice-rich, ungraded in-school STEAM infrastructure, extended a single game-design challenge into a year-long, self-directed project involving skills and practices the challenge never taught, encountering and independently resolving 23 discrete technical problems along the way.
 

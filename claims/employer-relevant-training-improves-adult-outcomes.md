@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Adult training yields better results the more closely it is related to a real job or occupation
+title: An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation
 description: Adult training yields better results the more closely it is related to a real job or occupation
 id: employer-relevant-training-improves-adult-outcomes
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Adult training yields better results the more closely it is related to a real job or occupation
+# An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+<!-- title before 2026-10-15: Adult training yields better results the more closely it is related to a real job or occupation -->
 
 ## Subclaims
 `q2 i?` Research shows training participants get better results the more closely training relates to a real job or occupation, which the report links to apprenticeships' strong record of success. [→ DeSchryver 2015](#deschryver-2015)

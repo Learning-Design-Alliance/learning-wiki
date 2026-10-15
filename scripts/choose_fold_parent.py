@@ -128,7 +128,8 @@ def latest() -> dict:
 def adjudicate(api_key: str, workers: int) -> None:
     todo = [d for d in latest().values() if not d.get("parent") and d.get("candidates")
             and (d.get("first") or {}).get("parent") and (d.get("second") or {}).get("parent")
-            and d["first"]["parent"] != d["second"]["parent"]]
+            and d["first"]["parent"] != d["second"]["parent"]
+            and (WIKI_ROOT / f"{d['page']}.md").exists()]
 
     def one(d):
         prompt = PROMPT.format(key=d["page"], page=summary(d["page"]),

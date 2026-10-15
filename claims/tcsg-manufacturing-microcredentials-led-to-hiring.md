@@ -30,7 +30,7 @@ sources:
 
 ## Subclaims
 `q2 i?` Two participants of the Savannah Technical College pilot were offered manufacturing jobs, and companies that normally did not hire anyone under 21 made an exception due to observed skills and certifications. [→ tcsg-hiring](#tcsg-hiring)
-`q2 i?` The summer 2021 pilot cohort was six Black/African-American and one White recent high school graduates who completed the fast-track program with virtual reality forklift training and earned forklift safety and Six Sigma White belt micro-credentials plus OSHA 10 and first aid/CPR certification. [→ tcsg-cohort](#tcsg-cohort)
+`q2 i?` The summer 2021 pilot cohort was six Black/African-American and one White recent high school graduates who completed the fast-track program with virtual reality forklift training and earned forklift safety and Six Sigma White belt micro-credentials plus OSHA 10 and first aid/CPR certification. [→ tcsg-hiring](#tcsg-hiring)
 
 ## Evidence
 
@@ -44,6 +44,7 @@ Georgia case study based on administrator interviews and program records of the 
 
 > "Although those companies had the practice of not hiring anyone under the age of 21, according to Executive Director, Keith Fletcher, they made an exception to this practice due to the observed skills and certifications."
 
+<!-- merged duplicate entry 2026-10-15:
 ### tcsg-cohort
 
 Tinsley, B., Cacicio, S., Shah, Z., Parker, D., Younge, O. & Luke Luna C. (2022, March). Micro-credentials for social mobility in rural postsecondary communities: A landscape report. Digital Promise. https://doi.org/10.51388/20.500.12265/151
@@ -53,6 +54,8 @@ Tinsley, B., Cacicio, S., Shah, Z., Parker, D., Younge, O. & Luke Luna C. (2022,
 Program description of the fast-track manufacturing pilot at Savannah Technical College, including virtual reality forklift simulator training; learners obtained forklift safety and Six Sigma White belt micro-credentials, OSHA 10 and first aid/CPR certification. Descriptive program data; no outcome statistics printed.
 
 > "The initial cohort of the summer 2021 pilot program were six Black/African-American and one White recent high school graduates, who were uncertain of what they wanted to do"
+-->
+
 
 ## Discussion
 

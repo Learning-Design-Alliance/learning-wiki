@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Morphological Instruction Improves Literacy
+title: "Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,12 +28,13 @@ sources:
     rigour: "?"
 ---
 
-# Morphological Instruction Improves Literacy
+# Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i1` small
+<!-- title before 2026-10-15: Morphological Instruction Improves Literacy -->
 
-Explicit teaching of morphemes (roots, prefixes, suffixes) and how they combine to form words improves students' word reading, spelling, vocabulary, and comprehension outcomes.
+Explicit teaching of morphemes (roots, prefixes, suffixes) and how they combine to form words improves students' word reading, spelling, vocabulary and morphological knowledge; the meta-analysis on this page with pooled effects found no reliable effect on reading comprehension or fluency.
 
 ## Subclaims
 
@@ -63,11 +64,12 @@ Meta-analysis of 22 peer-reviewed studies of morphological intervention with par
 
 **Scope and mechanism.** Morphological instruction is typically delivered as explicit, structured teaching of common morphemes and morphological problem-solving (e.g., analyzing *un + help + ful*), often integrated with vocabulary and spelling work. The proposed mechanism is that morphological awareness gives learners a generative strategy for decoding and inferring the meaning of unfamiliar multisyllabic words, rather than relying on memorization of whole words — consistent with the idea that [automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md). Morphemes also function as meaningful [chunks](../principles/chunking.md) within long words, reducing the processing burden of polysyllabic vocabulary — see [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md)
 
-**Moderators to establish.** The literature generally suggests effects vary by learner profile and outcome measure: benefits are often reported as larger for less-skilled readers and for morphologically transparent words, and comprehension effects tend to be smaller and more indirect than word-level (reading, spelling) effects. Whether gains transfer to broad reading comprehension, or remain largely at the word level, is a key open question that the evidence on this page must document before the claim can be rated. Orthographic depth of the language is another plausible moderator: morphemes are more consistently signaled in spelling in some languages than in English, so effects documented in one orthography may not generalize directly.
+**Moderators to establish.** The literature generally suggests effects vary by learner profile and outcome measure: benefits are often reported as larger for less-skilled readers and for morphologically transparent words, and comprehension effects tend to be smaller and more indirect than word-level (reading, spelling) effects. Whether gains transfer to broad reading comprehension, or remain largely at the word level, is a key open question; Goodwin and Ahn (2013) found significant effects at the word level but none on reading comprehension or fluency. Orthographic depth of the language is another plausible moderator: morphemes are more consistently signaled in spelling in some languages than in English, so effects documented in one orthography may not generalize directly.
 
 **Integration with broader literacy programs.** Morphological instruction is usually most plausible as a complement to — not a replacement for — phonemic decoding instruction and rich text experience. Claims of standalone sufficiency should be treated cautiously until supported. A practical design implication is sequencing: morphological work is most coherent once learners have basic alphabetic decoding, since morphological analysis presupposes the ability to segment and blend letter sequences. It also pairs naturally with [activating prior knowledge](activation-improves-learning.md), since morphological analysis prompts learners to retrieve known words sharing a root when encountering unfamiliar vocabulary. Because morphological analysis is itself a strategy that must be executed while reading, instruction should build toward independent application rather than remain teacher-led — echoing the general finding that [worked examples and modeling are most valuable for novices and should be faded as expertise grows](../theories/expertise-reversal-effect.md).
 
-**Evidence status.** This page currently has no documented evidence entries. Well-known meta-analytic syntheses of morphological intervention studies (e.g., Bowers, Kirby, & Deacon, 2010; Goodwin & Ahn, 2013) are candidates for inclusion, but per wiki policy they must be added through a future enrichment pass with verified citations rather than asserted here. Until then, no evidence-strength rating can be assigned, and the claim should be treated as plausible but unverified.
+**Evidence status.** Two meta-analyses are recorded. Goodwin and Ahn (2013; 30 studies, 92 effect sizes) report a pooled d̄ = 0.32, with significant effects on morphological knowledge, phonological awareness, vocabulary, decoding and spelling but not on reading comprehension or fluency. Bowers, Kirby and Deacon (2010; 22 studies) conclude that morphological instruction benefits learners overall, especially less-able readers, but only their abstract was read and it prints no pooled effect size.
+<!-- deprecated (2026-10-15, stale: entries had been added): **Evidence status.** This page currently has no documented evidence entries. Well-known meta-analytic syntheses of morphological intervention studies (e.g., Bowers, Kirby, & Deacon, 2010; Goodwin & Ahn, 2013) are candidates for inclusion, but per wiki policy they must be added through a future enrichment pass with verified citations rather than asserted here. Until then, no evidence-strength rating can be assigned, and the claim should be treated as plausible but unverified. -->
 
 ## Related Claims
 

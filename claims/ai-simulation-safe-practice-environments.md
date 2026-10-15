@@ -44,7 +44,7 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 
 ## Related Claims
 - [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related
-- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — possibly the same claim (merge candidate)
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
 - [Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer](ai-enables-authentic-contextualized-science-experiences.md) — related
 - [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](ai-improves-speaking-proficiency-feedback-practice.md) — related

@@ -34,7 +34,7 @@ sources:
 
 ## Subclaims
 `q2 i?` After two years of the Restorative Whole School Approach, full treatment students reported statistically significantly less bullying overall, including physical and exclusion bullying, than control students. [→ Fronius 2019](#fronius-2019)
-`q2 i?` Full treatment students exhibited larger gains in empathy and self-esteem than control students. [→ Fronius 2019 (2)](#fronius-2019-2)
+`q2 i?` Full treatment students exhibited larger gains in empathy and self-esteem than control students. [→ Fronius 2019](#fronius-2019)
 
 ## Evidence
 
@@ -48,6 +48,7 @@ The review reports a quasi-experimental analysis of 1,480 students in grades 7-9
 
 > "after two years of RWSA, the full treatment students indicated experiencing statistically significantly less bullying overall, and specifically less physical and exclusion bullying, than control students"
 
+<!-- merged duplicate entry 2026-10-15:
 ### Fronius 2019 (2)
 
 Fronius, Darling-Hammond, Persson, Guckenburg, Hurley, & Petrosino. (2019). Restorative Justice in U.S. Schools: An Updated Research Review. WestEd Justice & Prevention Research Center. https://eric.ed.gov/?id=ED595733
@@ -57,6 +58,8 @@ Fronius, Darling-Hammond, Persson, Guckenburg, Hurley, & Petrosino. (2019). Rest
 The review attributes this secondary outcome to the same Hong Kong quasi-experiment (Wong et al., 2011): "full treatment students exhibited larger gains in empathy and self-esteem than control students." No effect sizes are printed.
 
 > "The authors also found that full treatment students exhibited larger gains in empathy and self-esteem than control students."
+-->
+
 
 ## Discussion
 

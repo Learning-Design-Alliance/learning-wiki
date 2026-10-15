@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer
+title: "In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work"
 description: Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer
 id: ai-enables-authentic-contextualized-science-experiences
 status: draft
@@ -27,10 +27,12 @@ sources:
     rigour: "?"
 ---
 
-# Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer
+# In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+
+<!-- title before 2026-10-15: Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer -->
 
 ## Subclaims
 `q2 i?` AI lets students safely experience scientific phenomena that are distant, risky, or beyond human perception, such as high-voltage circuits. [→ Li 2025](#li-2025)

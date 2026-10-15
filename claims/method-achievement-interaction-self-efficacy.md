@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest"
+title: In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy
 description: "Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest"
 id: method-achievement-interaction-self-efficacy
 status: draft
@@ -14,18 +14,19 @@ sources:
     title: "Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual Understanding and Self-Efficacy in Calculus Courses. Pegem Journal of Education and Instruction, Vol. 12, No. 3, 154-168. https://doi.org/10.47750/pegegog.12.03.17"
     author: Ramadoni, Mustofa
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 1
 ---
 
-# Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest
+# In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2`
+<!-- title before 2026-10-15: Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest -->
 
 ## Subclaims
-`q2 i2` The method × prior achievement level interaction on self-efficacy was significant, F(2,64)=3.84, p=.027, partial η2=.107. [→ Ramadoni 2022](#ramadoni-2022)
+`q2 i?` The method × prior achievement level interaction on self-efficacy was significant, F(2,64)=3.84, p=.027, partial η2=.107. [→ Ramadoni 2022](#ramadoni-2022)
 
 ## Evidence
 
@@ -33,7 +34,7 @@ sources:
 
 Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual Understanding and Self-Efficacy in Calculus Courses. Pegem Journal of Education and Instruction, Vol. 12, No. 3, 154-168. https://doi.org/10.47750/pegegog.12.03.17
 
-`q2 · i2` · `causal · r1`
+`q2 · i? · partial η² only, no d printed` · `causal · r1`
 
 Two-way ANOVA on self-efficacy: "The interaction between method and prior achievement level is significant with F(2,64)=3.84, p=.027<.05, partial η2=.107." Prior achievement alone was not significant (F(2,64)=1.59, p=.213).
 

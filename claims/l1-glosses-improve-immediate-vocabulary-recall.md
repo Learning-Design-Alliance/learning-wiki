@@ -43,7 +43,7 @@ Posttest comparison of 135 Taiwanese undergraduates randomly assigned within int
 
 
 ## Related Claims
-- [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) — reports the opposite
+- [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) — qualifies
 - [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4](proficiency-moderates-gloss-vocabulary-effects.md) — related
 - [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](l1-glosses-no-reading-comprehension-gain.md) — related
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related

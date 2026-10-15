@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers
+title: In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone
 description: Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers
 id: formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks
 status: draft
@@ -27,10 +27,11 @@ sources:
     rigour: 1
 ---
 
-# Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers
+# In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+<!-- title before 2026-10-15: Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers -->
 
 ## Subclaims
 `q2 i?` Post-test NOSS means were significantly higher in the experimental group than the control group (t = 6.678 in the article's Table 5; its prose prints 6.964, the control group's SD in that table; p < 0.05). [→ Mustafa Metin 2022](#mustafa-metin-2022)
