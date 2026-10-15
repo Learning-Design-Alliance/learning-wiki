@@ -13,7 +13,7 @@ sources:
     title: "Longmuss, J., & Hohne, B. P. (2017). Agile learning for vocationally trained expert workers: Expanding workplace-based learning one sprint at a time. *Procedia Manufacturing, 9*, 262-268"
     author: "Longmuss, J., & Hohne, B. P"
   - id: mcburney-2020
-    resource: "https://doi.org/10.1353/pla.2020.0022"
+    resource: "https://doi.org/10.1353/pla.2020.0016"
     title: "McBurney, J., Hunt, S. L., Gyendina, M., & Brown, S. J. (2020). Library research sprints as a tool to engage faculty and promote collaboration. *portal: Libraries and the Academy, 20*(2), 373-396"
     author: "McBurney, J., Hunt, S. L., Gyendina, M., & Brown, S. J"
 ---

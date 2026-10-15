@@ -10,8 +10,8 @@ generated:
   at: 2026-10-15
 sources:
   - id: darcy-2018
-    resource: "http://languageinstinct.blogspot.com/2006/09/what-is-clt.html"
-    title: "Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html"
+    resource: "https://doi.org/10.5070/b5.35963"
+    title: "Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). https://doi.org/10.5070/b5.35963"
     author: Darcy, I
 ---
 
@@ -140,7 +140,7 @@ This pattern is scoped to pronunciation for intelligibility and comprehensibilit
 - *Illustrative, not a tested course:* a 12-week evening class for care workers, described under the illustrative design instance above.
 
 ## Key Sources
-- Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html. [doi:10.5070/b5.35963](https://doi.org/10.5070/b5.35963)
+- Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). [doi:10.5070/b5.35963](https://doi.org/10.5070/b5.35963)
 - Lee, J., Jang, J., & Plonsky, L. (2015). The Effectiveness of Second Language Pronunciation Instruction: A Meta-Analysis. *Applied Linguistics, 36*(3), 345–366. [doi:10.1093/applin/amu040](https://doi.org/10.1093/applin/amu040) (via the explicit-instruction claim)
 - Saito, K., & Plonsky, L. (2019). Effects of Second Language Pronunciation Teaching Revisited: A Proposed Measurement Framework and Meta‐Analysis. *Language Learning, 69*(3), 652–708. [doi:10.1111/lang.12345](https://doi.org/10.1111/lang.12345) (via the explicit-instruction claim)
 - Ngo, T. T.-N., Chen, H. H.-J., & Lai, K. K.-W. (2024). The effectiveness of automatic speech recognition in ESL/EFL pronunciation: A meta-analysis. *ReCALL, 36*(1), 4–21. [doi:10.1017/S0958344023000113](https://doi.org/10.1017/S0958344023000113) (via the ASR claims)

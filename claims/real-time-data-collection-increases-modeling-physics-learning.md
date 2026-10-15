@@ -37,6 +37,8 @@ Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collec
 
 Quasi-experimental comparison of two intact Fall sections (2004 no-tech, 2005 tech) of the same algebra-based mechanics course with the same instructor. The article reports "the two classes differed significantly on Posttest score t(87) = 2.80, p < .01" with effect sizes d = 2.13 (post) and d = 4.06 (Hake gain).
 
+Note (2026-10-15): both d values are printed by the source (arXiv 0709.2738, results section), so the `i3` stands on them. They are not consistent with the printed tests, though: with t(87) = 2.80 and t(87) = 2.90 across two classes of 89 students in all, d is roughly 0.6, a medium effect. Read the `i3` with that in mind.
+
 > "the two classes differed significantly on Posttest score t(87) = 2.80, p < .01 and Hake gain t(87) = 2.90, p < .01."
 
 ## Discussion

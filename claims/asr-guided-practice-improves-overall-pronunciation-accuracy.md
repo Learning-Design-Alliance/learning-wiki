@@ -22,7 +22,7 @@ sources:
     title: "Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3"
     author: "Dillon, Thomas, & Wells, Donald"
     q: 2
-    i: 3
+    i: "?"
     kind: causal
     rigour: 2
   - id: ngo-et-al-2024
@@ -43,7 +43,7 @@ sources:
 
 ## Subclaims
 `q2 i2` The treatment group showed a significant reduction in segmental error rate with a moderate effect size (d = 0.52), while the control group showed a slight non-significant increase. [→ Dillon 2023](#dillon-2023)
-`q2 i3` The between-group difference in SER error rate was statistically significant, with the treatment group outperforming the control group. [→ Dillon 2023 (2)](#dillon-2023-2)
+`q2 i?` The between-group difference in SER error rate was statistically significant, with the treatment group outperforming the control group. [→ Dillon 2023 (2)](#dillon-2023-2)
 `q3 i2` Across 15 studies, ESL/EFL learners practising with ASR outperformed a non-ASR condition on pronunciation (g = 0.69), with a larger effect for learners 18 and over (g = 1.20) and a negligible one for treatments of one to four weeks (g = 0.07). [→ Ngo et al. 2024](#ngo-et-al-2024)
 
 ## Evidence
@@ -62,9 +62,9 @@ Paired samples t-test on pre/post segmental error rate in a four-week quasi-expe
 
 Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3
 
-`q2 · i3` · `causal · r2`
+`q2 · i?` · `causal · r2`
 
-One-way ANOVA comparing SER error rate between treatment (n=34) and control (n=25) groups in the quasi-experiment; the article reports a "statistically significant difference in SER error rate between the treatment and control group" (F(1,57) = 5.176, p = 0.027, ηp2 = 0.83 as printed).
+One-way ANOVA comparing SER error rate between treatment (n=34) and control (n=25) groups in the quasi-experiment; the article reports a "statistically significant difference in SER error rate between the treatment and control group" (F(1,57) = 5.176, p = 0.027, ηp2 = 0.83 as printed). Coded `i?` (2026-10-15): the printed ηp2 = 0.83 cannot follow from F(1,57) = 5.176, which gives about 0.08, and the authors themselves call the effect moderate, so the printed value does not establish a magnitude.
 
 > "As shown in Table 4 above there was a statistically significant difference in SER error rate between the treatment and control group with a moderate effect size. (F(1,57) = 5.176, p = 0.027, ηp 2 = 0.83)."
 

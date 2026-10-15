@@ -1,6 +1,6 @@
 ---
 type: claim
-title: CF treatment improved irregular past tense performance on both GJT and EIT with large effects
+title: Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types
 description: CF treatment improved irregular past tense performance on both GJT and EIT with large effects
 id: cf-treatment-improves-irregular-past-tense-gjt-eit
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# CF treatment improved irregular past tense performance on both GJT and EIT with large effects
+# Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+<!-- title before 2026-10-15: CF treatment improved irregular past tense performance on both GJT and EIT with large effects -->
 
 ## Subclaims
 `q2 i3` All three feedback groups improved GJT scores for irregular past tense (partial η² = .26) and EIT scores (partial η² = .21) after treatment. [→ Yusuke Sato 2023](#yusuke-sato-2023)

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)"
+title: A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content
 description: "Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)"
 id: cft-hypertext-design-higher-achievement-scores
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)
+# A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+<!-- title before 2026-10-15: Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%) -->
 
 ## Subclaims
 `q2 i?` The experimental group using flexible instruction based on cognitive flexibility hypertext theory averaged 76% on achievement tests versus 59% for the control group using direct online course design. [→ Chokri Barhoumi; Pier Giuseppe Rossi 2013](#chokri-barhoumi-pier-giuseppe-rossi-2013)

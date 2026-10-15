@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety
+title: Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower
 description: Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety
 id: contextual-factors-increase-test-anxiety
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety
+# Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+<!-- title before 2026-10-15: Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety -->
 
 ## Subclaims
 `q2 i?` Students with access to reliable technology showed lower test anxiety, while students with a lack of study space or financial issues showed higher test anxiety. [→ Conijn 2022](#conijn-2022)

@@ -10,11 +10,11 @@ generated:
   at: 2026-10-15
 sources:
   - id: baecher-2015
-    resource: "https://doi.org/10.1080/09500782.2014.994528"
+    resource: "https://doi.org/10.1080/09500782.2014.992905"
     title: "Baecher, L., & McCormack, B. (2015). The impact of video review on supervisory conferencing. *Language and Education, 29*(2), 153-167"
     author: "Baecher, L., & McCormack, B"
   - id: dovigo-2020
-    resource: "https://doi.org/10.1080/02619768.2019.1693993"
+    resource: "https://doi.org/10.1080/02619768.2019.1693996"
     title: "Dovigo, F. (2020). Through the eyes of inclusion: An evaluation of video analysis as a reflective tool for student teachers within special education. *European Journal of Teacher Education, 43*(1), 110-126"
     author: Dovigo, F
   - id: nagro-2020

@@ -69,7 +69,7 @@ A meta-analysis of 36 elementary-school peer-assisted-learning studies examined 
 
 **Open questions.** The relative contribution of each structural component (training vs. scripting vs. monitoring) is not well separated in the literature; most effective implementations bundle them. Whether reciprocal role reversal adds gains beyond fixed roles, and how much structure to fade as tutors gain experience, remain unsettled design questions.
 
-**Note on evidence.** This page currently has no curated Evidence entries; the claim reflects a broad pattern in the peer-assisted learning literature but specific studies still need to be added and tagged.
+**Note on evidence.** This page has two Evidence entries, both meta-analyses (Cohen et al. 1982; Ginsburg-Block et al. 2006); neither reports a numeric effect size for the structured-versus-unstructured moderator, and the mechanism and boundary-condition points above are not sourced on this page.
 
 ## Related Claims
 

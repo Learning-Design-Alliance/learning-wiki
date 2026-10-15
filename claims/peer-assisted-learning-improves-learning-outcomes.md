@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction
+title: A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction
 description: Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction
 id: peer-assisted-learning-improves-learning-outcomes
 status: draft
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction
+# A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+<!-- title before 2026-10-15: Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction -->
 
 ## Subclaims
 `q2 i?` Acquiring knowledge and skills through peers' assistance and support, including peer tutoring, peer modeling, peer education, peer counseling, peer monitoring, and peer assessment, promotes knowledge construction, collaboration ability, and interpersonal interaction. [→ Online peer assisted learning community model and its application in ZJNU 2008](#gaofeng-yeyu-2007)

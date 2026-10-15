@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: wechsler-2016
-    resource: "http://creativecommons.org/licenses/by-nc/4.0/"
-    title: "Wechsler, M., Kirp, D., Tinubu Ali, T., Gardner, M., Maier, A., Melnick, H., & Shields, P. (2016). The road to high-quality early learning: Lessons from the states. Palo Alto: Learning Policy Institute. http://creativecommons.org/licenses/by-nc/4.0/"
+    resource: "https://learningpolicyinstitute.org/product/road-high-quality-early-learning-lessons-states"
+    title: "Wechsler, M., Kirp, D., Tinubu Ali, T., Gardner, M., Maier, A., Melnick, H., & Shields, P. (2016). The road to high-quality early learning: Lessons from the states. Palo Alto: Learning Policy Institute. https://learningpolicyinstitute.org/product/road-high-quality-early-learning-lessons-states"
     author: "Wechsler, M., Kirp, D., Tinubu Ali, T., Gardner, M., Maier, A., Melnick, H., & Shields, P."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Wechsler 2016
 
-Wechsler, M., Kirp, D., Tinubu Ali, T., Gardner, M., Maier, A., Melnick, H., & Shields, P. (2016). The road to high-quality early learning: Lessons from the states. Palo Alto: Learning Policy Institute. http://creativecommons.org/licenses/by-nc/4.0/
+Wechsler, M., Kirp, D., Tinubu Ali, T., Gardner, M., Maier, A., Melnick, H., & Shields, P. (2016). The road to high-quality early learning: Lessons from the states. Palo Alto: Learning Policy Institute. https://learningpolicyinstitute.org/product/road-high-quality-early-learning-lessons-states
 
 `q2 · i?` · `qualitative · r2`
 

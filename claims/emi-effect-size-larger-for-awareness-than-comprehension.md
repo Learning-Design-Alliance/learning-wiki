@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)
+title: Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)
 description: Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)
 id: emi-effect-size-larger-for-awareness-than-comprehension
 status: draft
@@ -27,10 +27,11 @@ sources:
     rigour: 2
 ---
 
-# Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)
+# Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i1` small
+<!-- title before 2026-10-15: Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum) -->
 
 ## Subclaims
 `q2 i1` Blake's modified gain ratio for morphological awareness was 1.28, above the minimum accepted value of 1.2; for reading comprehension it was 1.06, slightly below 1.2. [→ Mohamed Farrag Ahmed Badawi 2019](#mohamed-farrag-ahmed-badawi-2019)

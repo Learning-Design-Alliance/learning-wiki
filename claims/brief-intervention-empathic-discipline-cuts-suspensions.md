@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Brief Intervention Empathic Discipline Cuts Suspensions
+title: A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities
 status: draft
 generated:
   by: claude/unspecified
@@ -37,10 +37,11 @@ sources:
     rigour: 2
 ---
 
-# Brief Intervention Empathic Discipline Cuts Suspensions
+# A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r3`, 1 review `r2` · `q3`–`q4`
+<!-- title before 2026-10-15: Brief Intervention Empathic Discipline Cuts Suspensions -->
 
 A short, scalable intervention that reframes discipline as an opportunity to maintain relationships with students — rather than to punish — can reduce suspension rates, particularly for students from historically disciplined groups.
 
