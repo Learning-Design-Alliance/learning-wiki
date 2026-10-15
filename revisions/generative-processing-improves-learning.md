@@ -22,3 +22,8 @@ Evidence copied from a verified near-duplicate (gap-fill)
 
 ### 2026-10-13 · ingest · process:wiki-ingest
 Ingested from syn-bisra-2018-inducing-self-explanation-a-meta-analysis (Inducing Self-Explanation: a Meta-Analysis) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/elaborative-encoding-improves-retention
+
+### 2026-09-25 · ingest · claude/unspecified
+Evidence filled from Crossref-verified sources (gap-fill)

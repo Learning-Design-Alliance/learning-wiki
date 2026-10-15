@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":17907,
+"claim":17901,
 "design":719,
 "element":1080,
 "learner-variable":14,
@@ -22702,6 +22702,7 @@
 "type":"claim"
 },
 {
+"aliases":["think-first-chatgpt-creativity-reversal"],
 "description":"Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed",
 "evidence_strength":"moderate",
 "id":"chatgpt-free-use-originality-gains-vanish-unassisted",
@@ -34496,21 +34497,21 @@
 "type":"claim"
 },
 {
-"description":"Parent-implemented dialogic reading showed no statistically significant differences from a no-treatment comparison on any language measure (Crain-Thoreson & Dale, 1999)",
+"description":"Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)",
 "evidence_strength":"moderate",
 "id":"crain-thoreson-dale-1999-parent-led-null-effects",
 "path":"claims/crain-thoreson-dale-1999-parent-led-null-effects.md",
 "status":"draft",
-"title":"Parent-implemented dialogic reading showed no statistically significant differences from a no-treatment comparison on any language measure (Crain-Thoreson & Dale, 1999)",
+"title":"Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)",
 "type":"claim"
 },
 {
-"description":"CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect",
+"description":"Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)",
 "evidence_strength":"moderate",
 "id":"creact-improves-creative-thinking-drawing-arts",
 "path":"claims/creact-improves-creative-thinking-drawing-arts.md",
 "status":"draft",
-"title":"CREACT improves 5th-grade students' creative thinking performance in drawing arts with a large pretest-posttest effect",
+"title":"Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)",
 "type":"claim"
 },
 {
@@ -39478,14 +39479,7 @@
 "type":"claim"
 },
 {
-"description":"",
-"id":"dialogic-reading-improves-expressive-language",
-"path":"claims/dialogic-reading-improves-expressive-language.md",
-"status":"draft",
-"title":"Dialogic Reading Improves Expressive Language",
-"type":"claim"
-},
-{
+"aliases":["dialogic-reading-improves-expressive-language"],
 "description":"",
 "id":"dialogic-reading-improves-language-outcomes",
 "path":"claims/dialogic-reading-improves-language-outcomes.md",
@@ -46954,15 +46948,6 @@
 "type":"claim"
 },
 {
-"description":"",
-"evidence_strength":"pending",
-"id":"elaborative-encoding-improves-retention",
-"path":"claims/elaborative-encoding-improves-retention.md",
-"status":"draft",
-"title":"Elaborative Encoding Improves Retention",
-"type":"claim"
-},
-{
 "description":"Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores",
 "evidence_strength":"moderate",
 "id":"elaborative-interrogation-answer-quality-poor-correlates-with-posttest",
@@ -51780,12 +51765,12 @@
 "type":"claim"
 },
 {
-"description":"Experiencing civic community at home, in the neighborhood, and at school fosters students' commitment to civic participation",
+"description":"Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation",
 "evidence_strength":"moderate",
 "id":"experiencing-civic-community-fosters-commitment",
 "path":"claims/experiencing-civic-community-fosters-commitment.md",
 "status":"draft",
-"title":"Experiencing civic community at home, in the neighborhood, and at school fosters students' commitment to civic participation",
+"title":"Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation",
 "type":"claim"
 },
 {
@@ -53122,12 +53107,12 @@
 "type":"claim"
 },
 {
-"description":"Facilitated self-directed learning and peer discussion empower adult learners",
+"description":"One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor",
 "evidence_strength":"weak",
 "id":"facilitated-self-directed-learning-empowers-adults",
 "path":"claims/facilitated-self-directed-learning-empowers-adults.md",
 "status":"draft",
-"title":"Facilitated self-directed learning and peer discussion empower adult learners",
+"title":"One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor",
 "type":"claim"
 },
 {
@@ -54651,6 +54636,7 @@
 "type":"claim"
 },
 {
+"aliases":["intelligence-praise-versus-effort-praise-effects"],
 "description":"",
 "evidence_strength":"weak",
 "id":"feedback-praise-reduces-learning",
@@ -63609,7 +63595,7 @@
 "type":"claim"
 },
 {
-"aliases":["generative-learning-improves-retention","generative-learning-improves-comprehension","self-explanation-prompts-meta-analysis-g-055"],
+"aliases":["generative-learning-improves-retention","generative-learning-improves-comprehension","self-explanation-prompts-meta-analysis-g-055","elaborative-encoding-improves-retention"],
 "description":"",
 "id":"generative-processing-improves-learning",
 "path":"claims/generative-processing-improves-learning.md",
@@ -74676,15 +74662,6 @@
 "path":"claims/intelligence-locus-correlation-both-groups.md",
 "status":"draft",
 "title":"Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents",
-"type":"claim"
-},
-{
-"description":"Praise focused on global intelligence has negative effects on future learning behavior compared with praise about effort",
-"evidence_strength":"moderate",
-"id":"intelligence-praise-versus-effort-praise-effects",
-"path":"claims/intelligence-praise-versus-effort-praise-effects.md",
-"status":"draft",
-"title":"Praise focused on global intelligence has negative effects on future learning behavior compared with praise about effort",
 "type":"claim"
 },
 {
@@ -92781,6 +92758,7 @@
 "type":"claim"
 },
 {
+"aliases":["mindfulness-training-teacher-wellbeing-gains"],
 "description":"Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction",
 "evidence_strength":"weak",
 "id":"mindfulness-positive-effects-educator-wellbeing",
@@ -92799,21 +92777,12 @@
 "type":"claim"
 },
 {
-"description":"Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults",
+"description":"A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults",
 "evidence_strength":"moderate",
 "id":"mindfulness-programs-benefit-adolescent-regulation",
 "path":"claims/mindfulness-programs-benefit-adolescent-regulation.md",
 "status":"draft",
-"title":"Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults",
-"type":"claim"
-},
-{
-"description":"Teacher mindfulness and stress-management training is linked to gains in educator well-being and self-regulation skills",
-"evidence_strength":"weak",
-"id":"mindfulness-training-teacher-wellbeing-gains",
-"path":"claims/mindfulness-training-teacher-wellbeing-gains.md",
-"status":"draft",
-"title":"Teacher mindfulness and stress-management training is linked to gains in educator well-being and self-regulation skills",
+"title":"A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults",
 "type":"claim"
 },
 {
@@ -111175,12 +111144,12 @@
 "type":"claim"
 },
 {
-"description":"Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance",
+"description":"Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance",
 "evidence_strength":"moderate",
 "id":"positive-affective-path-encouragement-mediation",
 "path":"claims/positive-affective-path-encouragement-mediation.md",
 "status":"draft",
-"title":"Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance",
+"title":"Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance",
 "type":"claim"
 },
 {
@@ -135369,15 +135338,6 @@
 "type":"claim"
 },
 {
-"description":"Some students may be overwhelmed by Ecree's feedback about their writing",
-"evidence_strength":"weak",
-"id":"some-students-overwhelmed-by-ecree-feedback",
-"path":"claims/some-students-overwhelmed-by-ecree-feedback.md",
-"status":"draft",
-"title":"Some students may be overwhelmed by Ecree's feedback about their writing",
-"type":"claim"
-},
-{
 "description":"Some students struggled to use Ecree's and MI Write's automated feedback",
 "evidence_strength":"moderate",
 "id":"some-students-struggled-automated-feedback-use",
@@ -147114,12 +147074,12 @@
 "type":"claim"
 },
 {
-"description":"Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it",
+"description":"A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking",
 "evidence_strength":"weak",
 "id":"teacher-responses-can-close-off-pupil-thinking",
 "path":"claims/teacher-responses-can-close-off-pupil-thinking.md",
 "status":"draft",
-"title":"Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it",
+"title":"A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking",
 "type":"claim"
 },
 {
@@ -147762,6 +147722,7 @@
 "type":"claim"
 },
 {
+"aliases":["some-students-overwhelmed-by-ecree-feedback"],
 "description":"More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback",
 "evidence_strength":"weak",
 "id":"teachers-found-ecree-useful-but-some-students-overwhelmed",
@@ -150389,15 +150350,6 @@
 "path":"claims/think-aloud-strategic-planning-correlate-program-placement.md",
 "status":"draft",
 "title":"Metacognitive strategic planning measured by think-aloud protocol showed a .94 correlation with science program placement in one study of 34 eleventh-graders",
-"type":"claim"
-},
-{
-"description":"Reported study: free ChatGPT use aided the assisted creative task but the advantage reversed on a later task without ChatGPT",
-"evidence_strength":"weak",
-"id":"think-first-chatgpt-creativity-reversal",
-"path":"claims/think-first-chatgpt-creativity-reversal.md",
-"status":"draft",
-"title":"Reported study: free ChatGPT use aided the assisted creative task but the advantage reversed on a later task without ChatGPT",
 "type":"claim"
 },
 {
@@ -156818,12 +156770,12 @@
 "type":"claim"
 },
 {
-"description":"Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years",
+"description":"A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later",
 "evidence_strength":"moderate",
 "id":"values-affirmation-long-term-benefits-black-students",
 "path":"claims/values-affirmation-long-term-benefits-black-students.md",
 "status":"draft",
-"title":"Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years",
+"title":"A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later",
 "type":"claim"
 },
 {
@@ -257363,7 +257315,7 @@
 "diagrams-help-posttest-only-read-twice-condition":"diagrams-help-posttest-only-read-twice-condition",
 "dialang-cefr-levels-miss-zpd-differences":"dialang-cefr-levels-miss-zpd-differences",
 "dialogic-competence-prerequisite-meaningful-ai-engagement":"dialogic-competence-prerequisite-meaningful-ai-engagement",
-"dialogic-reading-improves-expressive-language":"dialogic-reading-improves-expressive-language",
+"dialogic-reading-improves-expressive-language":"dialogic-reading-improves-language-outcomes",
 "dialogic-reading-improves-language-outcomes":"dialogic-reading-improves-language-outcomes",
 "dialogic-reading-no-phonological-processing-effects":"dialogic-reading-no-phonological-processing-effects",
 "dialogic-reading-oral-language-improvement-index":"dialogic-reading-oral-language-improvement-index",
@@ -258206,7 +258158,7 @@
 "elaborated-posts-higher-engagement-ai-agents":"elaborated-posts-higher-engagement-ai-agents",
 "elaboration-strategy-affects-posttest-performance":"elaboration-strategy-affects-posttest-performance",
 "elaboration-strategy-no-attitude-effect":"elaboration-strategy-no-attitude-effect",
-"elaborative-encoding-improves-retention":"elaborative-encoding-improves-retention",
+"elaborative-encoding-improves-retention":"generative-processing-improves-learning",
 "elaborative-interrogation-answer-quality-poor-correlates-with-posttest":"elaborative-interrogation-answer-quality-poor-correlates-with-posttest",
 "elaborative-interrogation-biology-course-context":"elaborative-interrogation-biology-course-context",
 "elaborative-interrogation-improves-learning":"elaborative-interrogation-improves-learning",
@@ -261340,7 +261292,7 @@
 "intellectual-test-performances-correlated":"intellectual-test-performances-correlated",
 "intellectually-ambitious-instruction-improves-learning":"intellectually-ambitious-instruction-improves-learning",
 "intelligence-locus-correlation-both-groups":"intelligence-locus-correlation-both-groups",
-"intelligence-praise-versus-effort-praise-effects":"intelligence-praise-versus-effort-praise-effects",
+"intelligence-praise-versus-effort-praise-effects":"feedback-praise-reduces-learning",
 "intelligences-not-interchangeable":"intelligences-not-interchangeable",
 "intelligent-environment-support-inverted-u-quantile":"intelligent-environment-support-inverted-u-quantile",
 "intelligent-reading-tutor-time-efficiency-over-human-tutoring":"intelligent-reading-tutor-time-efficiency-over-human-tutoring",
@@ -263389,7 +263341,7 @@
 "mindfulness-positive-effects-educator-wellbeing":"mindfulness-positive-effects-educator-wellbeing",
 "mindfulness-positive-school-climate-outcomes":"mindfulness-positive-school-climate-outcomes",
 "mindfulness-programs-benefit-adolescent-regulation":"mindfulness-programs-benefit-adolescent-regulation",
-"mindfulness-training-teacher-wellbeing-gains":"mindfulness-training-teacher-wellbeing-gains",
+"mindfulness-training-teacher-wellbeing-gains":"mindfulness-positive-effects-educator-wellbeing",
 "mindmatters-evaluation-mixed-effects":"mindmatters-evaluation-mixed-effects",
 "mindset-achievement-heterogeneity-high":"mindset-achievement-heterogeneity-high",
 "mindset-behavior-predict-on-track-performance-avoidance-does-not":"mindset-behavior-predict-on-track-performance-avoidance-does-not",
@@ -268221,7 +268173,7 @@
 "some-charter-students-grow-faster-than-tps-peers":"some-charter-students-grow-faster-than-tps-peers",
 "some-essentials-associated-with-site-quality-metrics":"some-essentials-associated-with-site-quality-metrics",
 "some-schools-mitigate-homicide-effects":"some-schools-mitigate-homicide-effects",
-"some-students-overwhelmed-by-ecree-feedback":"some-students-overwhelmed-by-ecree-feedback",
+"some-students-overwhelmed-by-ecree-feedback":"teachers-found-ecree-useful-but-some-students-overwhelmed",
 "some-students-struggled-automated-feedback-use":"some-students-struggled-automated-feedback-use",
 "some-users-prefer-people-contexts-institutions-over-subject-browsing":"some-users-prefer-people-contexts-institutions-over-subject-browsing",
 "sophie2-high-perceived-usability-and-value":"sophie2-high-perceived-usability-and-value",
@@ -269926,7 +269878,7 @@
 "thermos-lad-supported-appraisal-phase":"thermos-lad-supported-appraisal-phase",
 "thermos-lad-sus-good-excellent-usability":"thermos-lad-sus-good-excellent-usability",
 "think-aloud-strategic-planning-correlate-program-placement":"think-aloud-strategic-planning-correlate-program-placement",
-"think-first-chatgpt-creativity-reversal":"think-first-chatgpt-creativity-reversal",
+"think-first-chatgpt-creativity-reversal":"chatgpt-free-use-originality-gains-vanish-unassisted",
 "thinking-aversion-predicts-speedup-illusion":"thinking-aversion-predicts-speedup-illusion",
 "thinking-math-grade-level-moderation":"thinking-math-grade-level-moderation",
 "thinking-math-two-year-effect-024":"thinking-math-two-year-effect-024",

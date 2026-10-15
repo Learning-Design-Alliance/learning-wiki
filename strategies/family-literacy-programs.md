@@ -12,14 +12,14 @@ generated:
 # Family Literacy Programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 2 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
 
 ## Description
 Family literacy programs are structured interventions that work with parents (or primary caregivers) and children — sometimes together, sometimes in separate but coordinated sessions — to improve the home literacy environment and caregivers' ability to support children's language and reading development. Typical components include parent education about literacy development, modeled or coached parent–child interaction (e.g., shared book reading), literacy activities to use at home, and often adult literacy or ESL instruction for the parents themselves. Programs are delivered through schools, libraries, community organizations, and adult education systems (in the U.S., often under the Even Start or family literacy provisions of adult education legislation).
 
 ## Design Implications
 
-Family literacy programs work by changing the *distribution and quality* of literacy interactions in children's daily environments, not by adding instructional hours — making them an application of [Situated Learning](../theories/situated-learning.md), where learning is embedded in culturally meaningful home routines. The most effective programs actively coach caregiver behavior rather than merely exhorting it: modeling dialogic questioning during shared reading, then observing and giving feedback as the caregiver practices, mirrors the modeling–coaching–fading sequence of [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md). Coaching caregivers in interactive reading styles produces measurable gains in children's expressive language [Dialogic reading improves children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S].
+Family literacy programs work by changing the *distribution and quality* of literacy interactions in children's daily environments, not by adding instructional hours — making them an application of [Situated Learning](../theories/situated-learning.md), where learning is embedded in culturally meaningful home routines. The most effective programs actively coach caregiver behavior rather than merely exhorting it: modeling dialogic questioning during shared reading, then observing and giving feedback as the caregiver practices, mirrors the modeling–coaching–fading sequence of [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md). Coaching caregivers in interactive reading styles produces measurable gains in children's expressive language [Dialogic reading improves children's expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S].
 
 ### Context
 #### Requirements

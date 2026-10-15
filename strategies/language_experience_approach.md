@@ -12,14 +12,14 @@ generated:
 # Language Experience Approach
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q3` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q3` · 2 of 7 report an effect size
 
 ## Description
 The language experience approach (LEA) is a whole language method that integrates the development of reading, writing, listening, and speaking skills through the use of learners' experiences. Learners share an experience (an outing, a science demonstration, a personal story), and the instructor records their dictation verbatim on a chart or board. The resulting text — written in the learner's own words — then becomes the material for reading, rereading, word study, and writing activities.
 
 ## Design Implications
 
-LEA works because it makes text personally meaningful and fully decodable within the learner's oral vocabulary: the learner already knows what the sentence *says*, so instructional attention can go to how print maps onto known speech [Activation of prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M]. Because the text is generated from the learner's own language, it naturally satisfies [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) — there is no vocabulary gap between reader and text. Repeated rereading of the dictated chart supports fluency growth, and fluency in turn frees cognitive resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. For young children, the shared book and dictation routine resembles the interactive reading that builds oral language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M].
+LEA works because it makes text personally meaningful and fully decodable within the learner's oral vocabulary: the learner already knows what the sentence *says*, so instructional attention can go to how print maps onto known speech [Activation of prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M]. Because the text is generated from the learner's own language, it naturally satisfies [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) — there is no vocabulary gap between reader and text. Repeated rereading of the dictated chart supports fluency growth, and fluency in turn frees cognitive resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. For young children, the shared book and dictation routine resembles the interactive reading that builds oral language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M].
 
 ### Context
 #### Requirements

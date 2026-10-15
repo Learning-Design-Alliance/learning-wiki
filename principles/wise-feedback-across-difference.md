@@ -13,7 +13,7 @@ generated:
 # Wise Feedback Across Racial and Ethnic Difference
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (5 for, 6 mixed, 1 against) · 20 studies (8 causal, 8 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 7 of 20 report an effect size · 2 claims rest on one study
+> **Evidence** · 12 claims (5 for, 6 mixed, 1 against) · 21 studies (8 causal, 8 quant-synthesis, 4 review, 1 associational), `q2`–`q4` · 7 of 21 report an effect size · 2 claims rest on one study
 
 ## Conditional relationship
 

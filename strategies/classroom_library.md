@@ -12,7 +12,7 @@ generated:
 # Classroom Library
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q3` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q3` · 2 of 7 report an effect size
 
 ## Description
 A classroom library is a dedicated space within the classroom stocked with a diverse, well-organized collection of books spanning multiple reading levels, genres, languages, and cultural backgrounds. Unlike a school-wide media center, it puts books within arm's reach of daily instruction, enabling immediate self-selection, quick book exchanges, and teacher modeling of reading behaviors. Effective libraries pair the physical collection with routines — browsing, book talks, independent reading time — that convert access into actual reading.
@@ -62,7 +62,7 @@ Access to books is one of the strongest environmental predictors of reading volu
 
 ## Related Strategies
 - [Independent Reading](independent-reading-time.md) — the classroom library is the infrastructure that makes sustained silent reading feasible
-- [Read-Alouds](read-alouds.md) — read-alouds drive interest in library titles; dialogic reading around shared books builds expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- [Read-Alouds](read-alouds.md) — read-alouds drive interest in library titles; dialogic reading around shared books builds expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - [Literacy-Rich Environment](literacy-rich-environment.md) — the library as one component of a broader print-saturated classroom
 
 ## Examples

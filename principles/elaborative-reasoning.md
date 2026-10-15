@@ -35,7 +35,7 @@ sources:
 # Elaborative Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (22 for, 10 mixed, 1 against) · 25 studies (12 causal, 7 quant-synthesis, 3 review, 2 associational, 1 qualitative), `q2`–`q4` · 9 of 25 report an effect size · 27 claims rest on one study
+> **Evidence** · 32 claims (21 for, 10 mixed, 1 against) · 25 studies (12 causal, 7 quant-synthesis, 3 review, 2 associational, 1 qualitative), `q2`–`q4` · 9 of 25 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,14 +135,14 @@ These rows are proposals, untested with learners as diagnostics. A probe is itse
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](../claims/response-quality-little-effect-on-elaborative-interrogation-retention.md) [~M]: in the grade 6 and 7 science-fact study, items answered adequately, inadequately or not at all were retained about equally. It points the other way from the probability study, which suggests answer quality matters more when the target is a principle learners do not yet know; that reading is this page's, not a tested moderator.
 - [Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting](../claims/self-generated-elaboration-improves-procedural-knowledge-accounting.md) [+M]: one introductory accounting class, three groups of about 26, a short materials-based treatment; self-generated beat instructor-assisted at the 5% level but not the combined strategy. The authors note the small single-class sample.
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]: four studies including two meta-analyses (69 effect sizes, g = .55; and one in mathematics finding delayed and classroom evidence much more limited). It supports the neighbouring form of elaboration (explaining while studying examples, text or problems), mostly on immediate tests.
-- [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md) [+M]: the same self-explanation meta-analysis (g = .55) read as evidence for elaboration generally; it does not test elaborative interrogation itself. [Generative Learning Improves Retention](../claims/generative-processing-improves-learning.md) [+M] rests on the same meta-analysis, so the two are not independent support.
+- [Elaborative Encoding Improves Retention](../claims/generative-processing-improves-learning.md) [+M]: the same self-explanation meta-analysis (g = .55) read as evidence for elaboration generally; it does not test elaborative interrogation itself. [Generative Learning Improves Retention](../claims/generative-processing-improves-learning.md) [+M] rests on the same meta-analysis, so the two are not independent support.
 
 Learners, materials and outcomes differ across these (grade 6 and 7 science facts, an undergraduate biology text, an undergraduate probability lesson, an accounting class), so do not rank them by effect label. The only delayed evidence is one study's recognition tests and one report's one-week and one-month recall.
 
 ## The evidence by question
 
 - *Does answering "why is this true?" about each statement improve memory and understanding of it over reading it, and when does it not?* [Elaborative Interrogation Improves Learning](../claims/elaborative-interrogation-improves-learning.md) [+M]
-- *Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md) [+M]
+- *Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* [Elaborative Encoding Improves Retention](../claims/generative-processing-improves-learning.md) [+M]
 - *Does knowing more about the material beforehand mean learning more from it?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [~M] (its table counts 3 distinct studies before this page's additions; a meta-analysis there finds prior knowledge strongly predicts later knowledge but barely predicts normalised gains)
 
 ## Further evidence, not yet read against this model
@@ -309,7 +309,7 @@ Elaboration works because it changes how information is encoded and organized. A
 - [Elaboration strategy does not significantly affect students' attitudes toward the learning method](../claims/elaboration-strategy-no-attitude-effect.md) [~W]
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](../claims/gpa-pretest-elaboration-interaction-intellectual-skills.md) [+W]
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md) [+M]
+- [Elaborative Encoding Improves Retention](../claims/generative-processing-improves-learning.md) [+M]
 - [Generative Learning Improves Retention](../claims/generative-processing-improves-learning.md) [+M]
 - [Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume](../claims/depth-predicts-task-quality.md) [+W]
 - [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](../claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) [~W]
@@ -495,7 +495,7 @@ The article concludes that instructional strategies should let students generate
 - [Elaboration strategy does not significantly affect students' attitudes toward the learning method](../claims/elaboration-strategy-no-attitude-effect.md) [~W]
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](../claims/gpa-pretest-elaboration-interaction-intellectual-skills.md) [+W]
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md) [+M]
+- [Elaborative Encoding Improves Retention](../claims/generative-processing-improves-learning.md) [+M]
 - [Generative Learning Improves Retention](../claims/generative-processing-improves-learning.md) [+M]
 
 ## Related Principles

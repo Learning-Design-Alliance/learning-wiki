@@ -1,7 +1,7 @@
 ---
 type: claim
 title: One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor
-description: Facilitated self-directed learning and peer discussion empower adult learners
+description: "One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor"
 id: facilitated-self-directed-learning-empowers-adults
 status: draft
 generated:
@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ellis-2012
-    resource: "http://www.historylearningsite.co.uk/Mexico_1968.htm"
-    title: "Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm"
+    resource: "https://eric.ed.gov/?id=ED536865"
+    title: "Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865"
     author: Ellis, M. L.
     q: 1
     i: "?"
@@ -44,14 +44,14 @@ First-person case reflection from the author's adult education classroom experie
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does facilitated discussion of learners' own views and of social issues build their sense of voice, critical reflection and readiness to act?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (1 theoretical, 1 design, 1 qualitative, 1 associational), `q1`–`q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does facilitated discussion of learners' own views and of social issues build their sense of voice, critical reflection and readiness to act?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (1 theoretical, 1 design, 1 qualitative, 1 associational), `q1`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Ellis 2012 | q1 · theoretical · r2 | i? | this claim |
 | [Higgs, Kaimana & Isero 2026](https://doi.org/10.1080/10508406.2026.2686084) | q2 · design · r2 | i? | [Positioning personal experience as an epistemic resource supports expansion from inward to](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) (supports) |
 | [Arad et al. 2023](https://doi.org/10.1080/10508406.2022.2154158) | q2 · qualitative · r2 | i2 · clear, well-documented qualitative patterns across multiple data sources (annotations, exit tickets, interviews, artifacts) for the focal cases, not quantified or causally isolated | [Critical speculative design pedagogy supports critical consciousness and justice-oriented ](critical-speculative-design-supports-critical-consciousness-in-science.md) (supports) |
-| [Rosenbach 2022](https://doi.org/10.1002/pits.22513) | q3 · associational · r2 | i1; i? | [Discussing immigration more frequently than fellow GSA members predicts increased perceive](immigration-discussion-in-gsas-predicts-peer-validation.md) (supports); [More frequent immigration discussion predicts increased hope for immigrant-origin GSA memb](immigration-discussion-hope-immigrant-origin-only.md) (qualifies); [Immigration discussion frequency shows no significant association with critical reflection](immigration-discussion-null-critical-consciousness.md) (counts against); [Collective GSA-level immigration discussion frequency is not associated with group-level g](gsa-collective-discussion-null-group-level.md) (counts against) |
+| [Rosenbach 2022](https://doi.org/10.1002/pits.22513) | q3 · associational · r2 | i? | [Discussing immigration more frequently than fellow GSA members predicts increased perceive](immigration-discussion-in-gsas-predicts-peer-validation.md) (supports); [More frequent immigration discussion predicts increased hope for immigrant-origin GSA memb](immigration-discussion-hope-immigrant-origin-only.md) (qualifies); [Immigration discussion frequency shows no significant association with critical reflection](immigration-discussion-null-critical-consciousness.md) (counts against); [Collective GSA-level immigration discussion frequency is not associated with group-level g](gsa-collective-discussion-null-group-level.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion

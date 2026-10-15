@@ -12,7 +12,7 @@ generated:
 # Non-intensive Home Numeracy Environment (HNE) Intervention Program
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 2 associational), `q2`–`q3` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 2 associational), `q2`–`q3` · 2 of 4 report an effect size
 
 ## Description
 A non-intensive HNE intervention is a low-burden, teacher-initiated program in which educators supply families with guidance, activity suggestions, and concrete materials (games, manipulatives, take-home kits) to enrich the math experiences children encounter at home. Rather than prescribing structured homework, the strategy aims to raise the *frequency* of informal, playful numeracy interactions — board games, counting during routines, measuring while cooking — that research links to children's mathematical development.
@@ -61,7 +61,7 @@ The home numeracy environment — especially the frequency of parent–child act
 
 ## Related Strategies
 
-- Take-home reading programs — the literacy analogue; the same lending-library mechanics apply, and dialogic reading research shows guided parent–child interaction outperforms unstructured exposure [Dialogic reading improves children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Take-home reading programs — the literacy analogue; the same lending-library mechanics apply, and dialogic reading research shows guided parent–child interaction outperforms unstructured exposure [Dialogic reading improves children's expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Family math nights — the in-person modeling component of a non-intensive HNE program
 - Classroom math games — the same games used at school first, then sent home, create continuity
 - [Engage parents through home-learning packets with videos, tips, and activity suggestions](redi-parent-home-learning-packets.md)

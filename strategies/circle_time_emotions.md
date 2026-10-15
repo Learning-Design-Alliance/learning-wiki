@@ -12,7 +12,7 @@ generated:
 # Circle Time Emotions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 4 causal), `q3`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 4 causal), `q3`–`q4` · 3 of 10 report an effect size
 
 ## Description
 End each week with a group circle where students discuss different topics and share their feelings. Students can use Circle Time to discuss conflict, repair fractured relationships, and connect with their emotions. Start with "What makes you happy?" and add other emotions as students become familiar with the format.
@@ -40,7 +40,7 @@ Structured social-emotional discussion builds emotional vocabulary and peer rela
 - **Sentence stems**: "I felt ___ when ___ because ___" scaffold emotional vocabulary for younger or less verbal students
 
 ### Target Learners
-- Early grade students, who are still building emotion vocabulary and benefit from modeled expression [Dialogic discussion improves expressive language development.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Early grade students, who are still building emotion vocabulary and benefit from modeled expression [Dialogic discussion improves expressive language development.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Classrooms with relational conflict or low cohesion, where structured peer sharing builds intergroup attitudes [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
 - Less suitable as-is for adolescents without adaptation — older students often respond better to smaller circles or written-first formats [~W]
 

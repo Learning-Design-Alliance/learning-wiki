@@ -27,7 +27,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (24 for, 14 mixed, 2 against) · 47 studies (15 review, 11 causal, 7 quant-synthesis, 6 qualitative, 5 theoretical, 2 design, 1 associational), `q1`–`q4` · 6 of 47 report an effect size · 29 claims rest on one study
+> **Evidence** · 39 claims (23 for, 14 mixed, 2 against) · 47 studies (15 review, 11 causal, 7 quant-synthesis, 6 qualitative, 5 theoretical, 2 design, 1 associational), `q1`–`q4` · 6 of 47 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,7 +147,7 @@ Claims that bear on the relationship but are not part of the model above; severa
 - [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker](../claims/sdt-path-strengths-effort.md) [+W] — attached 2026-10-07 from Takahashi et al. (2020), which proposed "Foster learners' enjoyment and accumulated L2 learning experience to motivate effort".
 - [Students who received a personalized message about their potential to succeed in AP coursework were 49 percentage points more likely to participate in AP classes than peers who did not receive the message](../claims/ability-signal-increases-ap-participation-49-points.md) [+W] — attached 2026-10-08 from Naihobe Gonzalez (2017), which proposed "Use personalized messages added to existing communications to encourage student participation in advanced coursework"; tests this page's relationship.
 - [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](../claims/four-academic-mindsets-increase-perseverance-and-behaviors.md) [+W] — attached 2026-10-09 from Jenny Nagaoka et al. (2013), which proposed "Build perseverance indirectly through mindsets, skills, and learning strategies rather than by assigning more or harder work"; tests this page's relationship.
-- [Praise focused on global intelligence has negative effects on future learning behavior compared with praise about effort](../claims/intelligence-praise-versus-effort-praise-effects.md) [+W] — attached 2026-10-10 from Halpern et al. (2007), which proposed "Explicitly teach students that academic abilities are expandable and improvable through effort"; tests this page's relationship.
+- [Praise focused on global intelligence has negative effects on future learning behavior compared with praise about effort](../claims/feedback-praise-reduces-learning.md) [+W] — attached 2026-10-10 from Halpern et al. (2007), which proposed "Explicitly teach students that academic abilities are expandable and improvable through effort"; tests this page's relationship.
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](../claims/girls-confidence-interest-gap-self-concept-predicts-choices.md) [+W] — attached 2026-10-10 from Halpern et al. (2007), which proposed "Explicitly teach students that academic abilities are expandable and improvable through effort".
 - [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [~W] — attached 2026-10-14 from Allen et al. (2018), which proposed "Improve secondary students' school belonging by building student qualities and changing school systems and processes".
 

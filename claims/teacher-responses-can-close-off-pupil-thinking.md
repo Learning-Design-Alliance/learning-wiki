@@ -1,7 +1,7 @@
 ---
 type: claim
 title: A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking
-description: Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it
+description: "A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking"
 id: teacher-responses-can-close-off-pupil-thinking
 status: draft
 generated:

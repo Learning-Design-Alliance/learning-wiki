@@ -12,7 +12,7 @@ generated:
 # SEL Integration through Literature
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (7 quant-synthesis, 6 causal), `q3`–`q4` · 5 of 13 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (7 quant-synthesis, 6 causal), `q3`–`q4` · 4 of 13 report an effect size
 
 ## Description
 Integrating social and emotional learning (SEL) into language arts uses carefully chosen literature as the vehicle for exploring emotions, perspective-taking, conflict resolution, and identity. Characters facing realistic dilemmas give students a safe, third-person entry point for discussing feelings and relationships that would be harder to discuss directly. Structured discussion and reflection prompt students to connect narrative events to their own backgrounds, emotions, and social worlds, distinguishing conflict from violence and analyzing how characters resolve — or fail to resolve — their problems.
@@ -36,7 +36,7 @@ Literature-based SEL works because narrative provides psychologically safe dista
 
 #### Implementation Variability
 - Whole-class novel study with structured discussion vs. literature circles with role-based talk (e.g., "feelings tracker," "conflict mapper")
-- Read-alouds with [Dialogic Reading](../elements/dialogic-reading.md) prompts for younger learners [Dialogic reading improves expressive language in young children.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Read-alouds with [Dialogic Reading](../elements/dialogic-reading.md) prompts for younger learners [Dialogic reading improves expressive language in young children.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - [Act It Out](../elements/act-it-out.md) / role-play of character dilemmas to rehearse conflict resolution
 - Cross-curricular variants pairing texts with [Case-Based Learning](../patterns/case-based-learning.md) for older students
 

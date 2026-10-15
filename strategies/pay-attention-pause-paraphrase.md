@@ -12,7 +12,7 @@ generated:
 # Pay Attention, Pause, Paraphrase
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 3 causal, 1 review), `q2`–`q3` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 3 causal, 1 review), `q2`–`q3` · 3 of 8 report an effect size
 
 ## Description
 Pay Attention, Pause, Paraphrase is a structured conversation strategy for pairs or small groups that enforces active listening. Only one learner speaks at a time; listeners do not formulate responses while the speaker talks, but focus solely on understanding. After the speaker finishes, the listener pauses, then paraphrases what was said — and the speaker confirms or corrects the paraphrase — before offering their own thoughts. Sentence starters ("What I hear you saying is…") can scaffold the paraphrase move.
@@ -42,7 +42,7 @@ The protocol converts discussion from a competition for airtime into a comprehen
 
 ### Target Learners
 - All levels; especially valuable for learners still developing discussion and communication skills
-- Multilingual learners, when sentence starters are adapted to their language level — paraphrasing a peer's utterance provides comprehensible input and output practice [Dialogic reading improves expressive language through structured conversational turns.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Multilingual learners, when sentence starters are adapted to their language level — paraphrasing a peer's utterance provides comprehensible input and output practice [Dialogic reading improves expressive language through structured conversational turns.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Adolescents and adults in discussion-heavy courses where perspective-taking matters; high-quality listening increases speakers' willingness to articulate and revise their views [~M]
 
 ### Target Learning Goals

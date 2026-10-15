@@ -13,7 +13,7 @@ generated:
 # Identify Feelings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies (2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 5 studies (2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Identify Feelings is a strategy in which students recognize, name, or match emotional states — typically from facial expressions, body language, tone, or situational cues — and label them with accurate vocabulary. It is carried out through activities such as emotion-card matching, feelings check-ins, analyzing characters' emotions in stories, or photographing and categorizing expressions. The core move is converting an internal or observed affective state into a precise verbal label.
@@ -44,7 +44,7 @@ Labeling emotions is the foundational skill of emotional literacy: students cann
 - **Narrative embedding:** identifying characters' feelings during read-alouds, which adds perspective-taking to labeling
 - **Self-report routines:** mood meters (e.g., the RULER approach's Mood Meter) where students locate their own state on valence–arousal axes
 - **Multimodal:** voice tone, posture, and situational cues, not faces alone
-- **Literature-based**: analyzing characters' feelings in fiction, which supports both comprehension and emotion vocabulary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- **Literature-based**: analyzing characters' feelings in fiction, which supports both comprehension and emotion vocabulary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - **Somatic**: learners scan bodily sensations and match them to labels ("tight chest = worried?")
 - **Intensity mapping**: placing feelings on a pleasantness/energy grid (Mood Meter) rather than binary categories
 - **Game formats**: matching, charades, or [Act-It-Out](../elements/act-it-out.md) for younger learners
@@ -127,7 +127,7 @@ Putting feelings into words — affect labeling — reliably reduces amygdala re
 - Isolated face-card drills produce recognition of posed expressions but transfer weakly to real social perception; context-rich practice is needed [-W]
 
 #### Implementation Variability
-- **Literature-based**: analyzing characters' feelings in fiction, which supports both comprehension and emotion vocabulary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- **Literature-based**: analyzing characters' feelings in fiction, which supports both comprehension and emotion vocabulary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - **Somatic**: learners scan bodily sensations and match them to labels ("tight chest = worried?")
 - **Intensity mapping**: placing feelings on a pleasantness/energy grid (Mood Meter) rather than binary categories
 - **Game formats**: matching, charades, or [Act-It-Out](../elements/act-it-out.md) for younger learners

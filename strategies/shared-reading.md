@@ -13,28 +13,28 @@ generated:
 # Shared Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (3 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q1`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies (3 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Shared reading is an interactive reading experience in which an adult reads aloud from an enlarged or shared text while learners follow along, connecting spoken words to print. The adult models fluent reading and expressive intonation, pauses for prediction, uses picture walks, and asks comprehension questions; with older or more capable readers, the adult and learners take turns reading aloud. It functions as a bridge between being read to and independent reading.
 
 ## Design Implications
 
-Shared reading works because it makes expert reading behavior observable and imitable before learners must produce it themselves — a form of modeling consistent with [Social Learning Theory](../theories/social-learning-theory.md). Interactive styles that go beyond reading aloud — pointing to print, asking questions, discussing vocabulary — produce larger language and literacy gains than non-interactive read-alouds [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]. The adult's modeling of fluency matters because automatic word recognition frees attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
+Shared reading works because it makes expert reading behavior observable and imitable before learners must produce it themselves — a form of modeling consistent with [Social Learning Theory](../theories/social-learning-theory.md). Interactive styles that go beyond reading aloud — pointing to print, asking questions, discussing vocabulary — produce larger language and literacy gains than non-interactive read-alouds [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]. The adult's modeling of fluency matters because automatic word recognition frees attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
 - An age-appropriate, engaging book with print large enough (or enlarged enough) for all learners to track
 - A fluent adult reader who can model prosody and manage interactive questioning
 - Repeated readings of the same text, which allow learners to shift attention from decoding to meaning and participation
-- Time for interactive sessions — the interaction, not the reading alone, carries the benefit [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Time for interactive sessions — the interaction, not the reading alone, carries the benefit [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Text visible to all learners (big books, projected pages, or individual copies) so print can be tracked while it is read
 - An adult fluent enough to model prosody and expressive reading accurately
 - Repeated readings of the same text across sessions, so children can join in progressively as the text becomes familiar
 - Deliberate interactive moves: prediction prompts, picture walks, comprehension questions, and print-referencing (pointing to words, letters, and punctuation)
 
 #### Constraints
-- Effectiveness drops sharply when the adult reads straight through without interaction; passive listening produces minimal print-related learning [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [-M]
+- Effectiveness drops sharply when the adult reads straight through without interaction; passive listening produces minimal print-related learning [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [-M]
 - A non-fluent or disengaged reader models poor prosody and undermines the fluency demonstration
 - Children with significant decoding gaps may need individualized [coaching](../elements/coaching.md) beyond what group shared reading provides
 - Questioning that is only recall-level limits comprehension growth; questions should target prediction, inference, and vocabulary
@@ -44,7 +44,7 @@ Shared reading works because it makes expert reading behavior observable and imi
 - Does not by itself teach systematic decoding; it complements rather than replaces explicit phonics instruction [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]
 
 #### Implementation Variability
-- **Dialogic reading (Whitehurst):** child becomes the teller; adult prompts with completion, recall, open-ended, wh-, and distancing questions — the best-evidenced variant for language gains [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- **Dialogic reading (Whitehurst):** child becomes the teller; adult prompts with completion, recall, open-ended, wh-, and distancing questions — the best-evidenced variant for language gains [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - **Echo/turn-taking reading:** older or developing readers alternate reading aloud with the adult, adding [practice](../elements/act-it-out.md)-like oral rehearsal
 - **Picture walk first:** previewing images and vocabulary before reading supports prediction and reduces load for novices
 - **Home-based parent delivery:** same structure with parents; training parents in specific literacy-building strategies (print referencing, questioning) is what drives gains, not mere reading frequency
@@ -54,7 +54,7 @@ Shared reading works because it makes expert reading behavior observable and imi
 - **Repeated reading of familiar favorites**: rereading builds automaticity and lets children join in on memorized text, connecting print to speech
 
 ### Target Learners
-- Beginning readers in preschool through early elementary, who need print-to-speech connections modeled [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Beginning readers in preschool through early elementary, who need print-to-speech connections modeled [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Children with limited home literacy exposure, who benefit most from explicit print referencing and vocabulary support
 - Seasoned early readers, for whom turn-taking reading builds fluency and expression
 - Less suited to fluent independent readers, for whom the modeling is redundant

@@ -10,15 +10,6 @@ generated:
   at: 2026-09-24
 evidence_strength: weak
 sources:
-  - id: ellsworth-2018
-    resource: "https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models"
-    title: "Ellsworth, J. B. (2018). A survey of educational change models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 339–345). EdTech Books. [https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models](https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models)"
-    author: Ellsworth, J. B.
-    q: 2
-    i: "?"
-    n: N/A
-    kind: review
-    rigour: 1
   - id: ellsworth-2000
     resource: "https://eric.ed.gov/?id=ED444597"
     title: "Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. https://eric.ed.gov/?id=ED444597"
@@ -67,11 +58,10 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does an innovation's adoption and effect depend on the rest of the system it enters, beyond the innovation itself?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **8 distinct studies** (5 review, 3 theoretical), `q1`–`q2`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does an innovation's adoption and effect depend on the rest of the system it enters, beyond the innovation itself?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (4 review, 3 theoretical), `q1`–`q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Ellsworth 2018 | q2 · review · r1 | i? | this claim |
 | Ellsworth 2000 | q2 · review · r2 | i? | this claim |
 | Gilbert 1999 | q2 · theoretical · r3 | i? | [A tool's effectiveness results from the whole configuration of events, activities, and con](tool-effectiveness-depends-on-context-configuration.md) (supports) |
 | Trout 2021 | q1 · theoretical · r2 | i? | [Technical restorative practices implementation falls short when the adaptive components of](adaptive-shift-precedes-technical-restorative-success.md) (supports); [Relational elements — trust, voice and agency, and equity — are preconditions for restorat](relational-elements-precede-technical-restorative-results.md) (supports) |

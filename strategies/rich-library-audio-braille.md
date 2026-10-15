@@ -12,7 +12,7 @@ generated:
 # Rich Library Audio & Braille
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (5 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q1`–`q4` · 6 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (5 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q1`–`q4` · 5 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 A rich library of audio and braille materials gives learners multiple, equivalent pathways to the same content: professionally narrated or synthetic-speech audiobooks, and braille (contracted or uncontracted, tactile graphics included) for learners who read by touch. The strategy is carried out by curating a deep collection — not a token accessible shelf — and by ensuring formats are available *simultaneously* with print, so learners using audio or braille participate in the same discussion, on the same schedule, as their peers.
@@ -31,7 +31,7 @@ Access to the same content through a preferred sensory modality removes the deco
 
 #### Constraints
 - Audio alone does not build decoding or spelling; learners who need phonics and print conventions still require print or braille literacy instruction [Phonics instruction outperforms whole word for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S] — substituting audio for all reading can leave decoding deficits unaddressed
-- Passive listening without engagement structures (preview, questions, discussion) yields weaker comprehension than interactive reading [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S] — audio played "at" learners, with no discussion or retelling, loses much of its value
+- Passive listening without engagement structures (preview, questions, discussion) yields weaker comprehension than interactive reading [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S] — audio played "at" learners, with no discussion or retelling, loses much of its value
 - Poorly structured audio (no navigation, no chapter markers) imposes heavy re-listening costs on longer texts
 - Braille production is slow and expensive; ad hoc, late-arriving braille transcriptions put braille readers weeks behind their peers [-M]
 - If audio/braille is offered only as a remedial fallback, stigma reduces uptake; it works best as a universal option available to all learners
@@ -58,7 +58,7 @@ Access to the same content through a preferred sensory modality removes the deco
 ### Instructions
 1. **Assess the learner's reading channel and goals.** Determine whether audio, braille, enlarged print, or a combination serves both access and literacy development; involve a [TVI or specialist](../elements/accommodations.md) for braille decisions.
 2. **Curate simultaneous-format availability.** Ensure every core text exists in audio and/or braille at the same time as print; use repositories such as [Bookshare](https://www.bookshare.org) and [NLS BARD](https://www.loc.gov/nls/) rather than one-off transcriptions.
-3. **Structure the listening/reading experience.** Pair audio with preview questions, retelling, or [discussion](../elements/class-discussion.md) so listening is active, not passive [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S].
+3. **Structure the listening/reading experience.** Pair audio with preview questions, retelling, or [discussion](../elements/class-discussion.md) so listening is active, not passive [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S].
 4. **Keep literacy instruction in the learner's primary medium.** Use braille or print for phonics, spelling, and writing instruction; use audio for volume and content access.
 5. **Normalize the formats.** Make audio and braille available to all learners (e.g., a classroom listening station) so the formats carry no stigma.
 6. **Teach the tools.** Provide explicit instruction in navigating DAISY/EPUB audio, refreshable displays, and note-taking in the accessible format.

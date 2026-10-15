@@ -62,7 +62,7 @@ Univariate posttest comparison from Table 3: the self-generated group (mean 3.89
 
 ## Related Claims
 
-- [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — the general claim this finding bears on, with the studies behind it
+- [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
 - [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](gpa-predicts-knowledge-not-attitudes.md) — related
 - [Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy](self-generated-elaboration-improves-intellectual-skills.md) — related

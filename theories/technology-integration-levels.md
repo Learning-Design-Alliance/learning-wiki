@@ -13,7 +13,7 @@ generated:
 # Technology Integration Levels (SAMR / RAT / PIC-RAT)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 8 studies (3 theoretical, 2 review, 1 causal, 1 associational, 1 design), `q1`–`q3` · 1 of 8 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 9 studies (4 theoretical, 2 review, 1 causal, 1 associational, 1 design), `q1`–`q3` · 1 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Several closely related models help teachers and designers judge the *effect* a specific use of technology is having on instruction, rather than whether technology is used at all (Kimmons, 2018):

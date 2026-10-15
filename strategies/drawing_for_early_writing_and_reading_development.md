@@ -12,14 +12,14 @@ generated:
 # Drawing for Early Writing and Reading Development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (6 causal, 3 quant-synthesis, 2 review), `q2`–`q3` · 3 of 11 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (6 causal, 3 quant-synthesis, 2 review), `q2`–`q3` · 2 of 11 report an effect size
 
 ## Description
 Drawing serves as a "picture writing" pre-writing activity in which young children express ideas through illustration before attempting conventional text. Children draw a picture, talk about it, "write" about it to the best of their ability, and then "read" what they have written, with the instructor modeling correct writing underneath. This sequence helps children understand that pictures represent ideas that can be turned into words, connecting writing and reading before formal decoding and encoding are established.
 
 ## Design Implications
 
-Drawing functions as an external planning surface that offloads idea generation and composition planning while emergent writers' transcription skills are still developing [chunking-reduces-working-memory-load](../claims/chunking-reduces-working-memory-load.md) [+M]. Because young children can often compose more complex ideas in pictures than in writing, drawing lets the oral-language and narrative-composition systems develop ahead of handwriting and spelling rather than being bottlenecked by them. The talk surrounding the drawing is as important as the drawing itself — adult-child conversation about the picture builds the expressive language that writing will later encode [Dialogic reading improves children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S].
+Drawing functions as an external planning surface that offloads idea generation and composition planning while emergent writers' transcription skills are still developing [chunking-reduces-working-memory-load](../claims/chunking-reduces-working-memory-load.md) [+M]. Because young children can often compose more complex ideas in pictures than in writing, drawing lets the oral-language and narrative-composition systems develop ahead of handwriting and spelling rather than being bottlenecked by them. The talk surrounding the drawing is as important as the drawing itself — adult-child conversation about the picture builds the expressive language that writing will later encode [Dialogic reading improves children's expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S].
 
 ### Context
 #### Requirements

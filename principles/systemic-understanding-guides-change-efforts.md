@@ -18,7 +18,7 @@ sources:
 # Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (16 for, 6 mixed) · 19 studies (7 theoretical, 5 review, 2 causal, 2 associational, 2 qualitative, 1 design), `q1`–`q2` · 1 of 19 report an effect size · 21 claims rest on one study
+> **Evidence** · 22 claims (16 for, 6 mixed) · 18 studies (7 theoretical, 4 review, 2 causal, 2 associational, 2 qualitative, 1 design), `q1`–`q2` · 1 of 18 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ellis-2012
-    resource: "http://www.historylearningsite.co.uk/Mexico_1968.htm"
-    title: "Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm"
+    resource: "https://eric.ed.gov/?id=ED536865"
+    title: "Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865"
     author: Ellis, M. L.
     q: 1
     i: "?"

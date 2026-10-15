@@ -48,7 +48,7 @@ Longitudinal survey study of 3,805 students in 47 Chicago Public Schools high sc
 
 ## Related Claims
 - [Student demographics were not significantly related to civic commitment among Chicago public high school students](demographics-not-destiny-civic-commitment.md) — related
-- [Experiencing civic community at home, in the neighborhood, and at school fosters students' commitment to civic participation](experiencing-civic-community-fosters-commitment.md) — related
+- [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](experiencing-civic-community-fosters-commitment.md) — related
 - [Extracurricular activities provide only modest support for civic commitment, and sports participation is unrelated to it](extracurriculars-modest-sports-unrelated-civic-commitment.md) — related
 - [General academic supports and quality instruction are insufficient to foster civic commitment; supportive teachers and quality instruction were not statistically related to it](academic-outcomes-focus-insufficient-civic-commitment.md) — related
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related

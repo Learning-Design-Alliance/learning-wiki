@@ -16,7 +16,7 @@ sources:
 # Informal social learning networks as the coordinating mechanism of systemwide improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 review), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 review), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The book proposes that coherence in Chicago's district reform did not come from formal mandates alone but from informal social learning networks operating across the system. The overview states that the authors "detail how informal social learning networks functioned as the invisible hand lending coordination and coherence to improvement efforts over time." The framework treats learning among educators, leaders, and civic actors as the connective tissue that made coherent systemwide change emerge "amidst the cacophony that typically characterizes school district reforms."

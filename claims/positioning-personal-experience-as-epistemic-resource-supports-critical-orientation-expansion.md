@@ -44,7 +44,7 @@ This is a single-site design-based study (evidence tier q2) without a comparison
 
 ## Related Claims
 
-- [Facilitated self-directed learning and peer discussion empower adult learners](facilitated-self-directed-learning-empowers-adults.md) — the general claim this finding bears on, with the studies behind it
+- [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — the general claim this finding bears on, with the studies behind it
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — both claims concern how personal/situated meaning-making either narrows or expands toward a design's intended broader learning object, depending on how explicitly the design connects the two
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — both describe personal/embodied experience functioning as a legitimate analytic anchor that supports broader critical sensemaking, in different content domains (critical AI awareness vs. pandemic data)
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md) — related

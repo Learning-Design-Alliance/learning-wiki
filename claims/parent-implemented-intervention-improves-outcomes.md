@@ -80,7 +80,7 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
-- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related
-- [Parent-implemented dialogic reading showed no statistically significant differences from a no-treatment comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — a narrower finding that bears on this claim
+- [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-language-outcomes.md) — related
+- [Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — a narrower finding that bears on this claim
 - Calculating average effect sizes in meta-analyses involves methodological issues that warrant dedicated examination in research on children and families. — a broader claim this one bears on
 - [ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report](parentcorps-parent-involvement-rater-mixed.md) — related

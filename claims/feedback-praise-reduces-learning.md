@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: feedback-praise-reduces-learning
+aliases: [intelligence-praise-versus-effort-praise-effects]
 evidence_strength: weak
 sources:
   - id: mueller-dweck-1998
@@ -26,12 +27,20 @@ sources:
     n: N/A (review)
     kind: review
     rigour: "?"
+  - id: halpern-2007
+    resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/5"
+    title: "Halpern, D., Aronson, J., Reimer, N., Simpkins, S., Star, J., and Wentzel, K. (2007). Encouraging Girls in Math and Science (NCER 2007-2003). Washington, DC: National Center for Education Research, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/5"
+    author: Halpern, D., Aronson, J., Reimer, N., Simpkins, S., Star, J., and Wentzel, K.
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 review `r?` · `q3`
+> **Evidence** · 3 studies · 2 review `r2`, 1 causal `r?` · `q3`
 <!-- deprecated title (2026-10-05, overstated its evidence): Feedback Praise Reduces Learning -->
 
 Both recorded entries concern person- or ability-oriented praise ("You must be smart at these problems") given to children after success, and its effects once the children later fail: one set of experiments with fifth graders (Mueller & Dweck 1998) and one narrative review (Henderlong & Lepper 2002). Neither tests praise in general, praise as a component of feedback on academic work, or learning outcomes beyond performance on the problem set after failure; the review finds sincere process or effort praise can enhance motivation, and that the harm of person praise is moderated by age and gender.
@@ -43,6 +52,8 @@ Both recorded entries concern person- or ability-oriented praise ("You must be s
 `q3 i?` Praise for intelligence after success leads children to prefer performance over learning goals, and to show less task persistence, less task enjoyment, more low-ability attributions, and worse task performance after a later failure than children praised for effort. [→ Mueller & Dweck 1998](#mueller-dweck-1998)
 
 `q3 i?` Person- or ability-oriented praise ("you're a good boy," "you must be really good at puzzles") can increase vulnerability to helplessness after failure and dampen intrinsic motivation relative to process praise or neutral feedback, but the effect is moderated by the child's age and gender and depends on having a no-praise control condition. [→ Henderlong & Lepper 2002](#henderlong-lepper-2002)
+
+`q3 i?` Elementary students praised for intelligence after success were likely to attribute future failures to lack of ability, show lower interest and less persistence, and adopt performance goals, whereas effort-praised children attributed failure to lack of effort and persisted more. [→ Halpern 2007](#halpern-2007)
 
 ## Evidence
 
@@ -62,6 +73,16 @@ Henderlong, J., & Lepper, M. R. (2002). The effects of praise on children's intr
 
 A narrative review and synthesis of the experimental literature on praise and children's intrinsic motivation and perseverance. The authors conclude that person- or ability-oriented praise can undermine motivation and increase helplessness after later failure relative to process-oriented praise (citing Kamins & Dweck, 1999, and Mueller & Dweck, 1998), and that in upper-elementary children person praise dampened intrinsic motivation relative to a neutral-feedback control — but only for girls, not boys — showing the negative effect is real but moderated rather than universal. Provided praise is sincere and process/effort-focused, the review finds it can instead enhance motivation; the harm is specific to person/ability-focused praise and to postfailure conditions.
 
+### Halpern 2007
+
+Halpern, D., Aronson, J., Reimer, N., Simpkins, S., Star, J., and Wentzel, K. (2007). Encouraging Girls in Math and Science (NCER 2007-2003). Washington, DC: National Center for Education Research, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/5
+
+`q3 · i?` · `review · r2`
+
+Small randomized experimental studies (Mueller and Dweck 1998) cited under Recommendation 2. The guide contrasts these children with those given effort praise, who "were more likely to believe that subsequent failure was due to lack of effort, show higher persistence." No effect sizes printed.
+
+> "Elementary school students who were given praise about their intelligence after correctly solving a problem were likely to attribute future failures to lack of ability, have lower interest, show less persistence on future tasks, and have a goal for future tasks of looking smart."
+
 ## Discussion
 
 **Mechanism.** The claim rests on three converging mechanisms. First, praise is low in informational value: feedback improves learning to the extent it tells learners how to improve, and generic praise ("good job") carries no actionable information — see [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md). Second, person-directed praise ("you're smart") encourages a fixed view of ability, which leads learners to avoid challenge and disengage after setbacks, whereas process praise ("you used a good strategy") is less damaging and can support persistence. Third, praise directed at the self rather than the task shifts the learner's focus from the learning goal to self-presentation and external approval, consistent with concerns from [behaviorism](../theories/behaviorism.md) that extrinsic social reinforcers can crowd out intrinsic engagement, and with [self-determination theory](../theories/self-determination-theory.md), which predicts that controlling praise undermines autonomy — see [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md).
@@ -73,6 +94,7 @@ A narrative review and synthesis of the experimental literature on praise and ch
 **Open questions.** The precise dose–response relationship between praise frequency and learning outcomes, and whether process praise produces measurable learning gains (as opposed to merely avoiding harm), remain contested in the literature. The Evidence section records one set of experiments (Mueller & Dweck 1998) and one narrative review (Henderlong & Lepper 2002), both on person or ability praise followed by failure; the broader mechanisms above (informational dilution, crowding out of task focus) are not tested by either, and no recorded study measures learning gains from or against praise in routine feedback. <!-- deprecated 2026-10-05 (stale): Until controlled studies are added to the Evidence section above, this claim should be treated as a well-motivated theoretical prediction rather than an empirically established effect. -->
 
 ## Learner Variables
+
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
@@ -94,7 +116,6 @@ A narrative review and synthesis of the experimental literature on praise and ch
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - [Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations](annevelink-personalised-instruction-path-test.md) — related
 - [Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency](scripts-improve-skills-prescriptive-scripts-harm-motivation.md) — related
-- [Praise focused on global intelligence has negative effects on future learning behavior compared with praise about effort](intelligence-praise-versus-effort-praise-effects.md) — possibly the same claim (merge candidate)
 - [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](resilience-teachable-skill-unsupported.md) — related
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related

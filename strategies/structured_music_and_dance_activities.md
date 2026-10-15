@@ -12,7 +12,7 @@ generated:
 # Structured Music and Dance Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 11 studies (6 causal, 3 review, 2 quant-synthesis), `q2`–`q3` · 2 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 11 studies (6 causal, 3 review, 2 quant-synthesis), `q2`–`q3` · 1 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Structured music and dance activities use rhythm, song, and sequenced movement as the medium for learning academic content (counting, phonological awareness, vocabulary, science concepts) while simultaneously developing motor coordination and social participation skills. "Structured" distinguishes these from free movement play: activities have explicit learning objectives, predictable routines, and teacher-guided sequences that connect the movement or music directly to the target content.
@@ -42,7 +42,7 @@ Movement that is meaningfully tied to content — rather than incidental — sup
 
 ### Target Learners
 - Preschool and early elementary learners, for whom embodied, rhythmic formats align with developmental readiness [Physical experience enhances science learning.](../claims/physical-experience-enhances-science-learning.md) [+M]
-- Learners developing phonological awareness — rhythm activities support segmentation of speech sounds [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [~W]
+- Learners developing phonological awareness — rhythm activities support segmentation of speech sounds [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [~W]
 - Second-language learners, for whom melody and gesture provide additional retrieval cues
 - Less suitable as a primary format for older learners with strong verbal encoding skills, where it can feel infantilizing and add no encoding advantage
 

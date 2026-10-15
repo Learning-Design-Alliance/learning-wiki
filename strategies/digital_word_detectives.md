@@ -12,14 +12,14 @@ generated:
 # Digital Word Detectives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 11 studies (6 quant-synthesis, 3 causal, 1 review, 1 theoretical), `q1`–`q4` · 6 of 11 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 11 studies (6 quant-synthesis, 3 causal, 1 review, 1 theoretical), `q1`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Students read e-books and use digital tools — embedded dictionaries and digital note-taking — to figure out the meanings of teacher-selected vocabulary words, adopting the role of "word detectives." The teacher pre-identifies roughly 3–4 target words per chapter, checks which are already known, and students record their own definitions and examples as digital notes anchored to the words in the text. Notes are then compared and discussed in small groups and as a whole class.
 
 ## Design Implications
 
-The strategy combines repeated, meaningful encounters with new words in authentic text with generative processing — students must construct and record a definition in their own words rather than receive one [Vocabulary instruction is most effective when students process words deeply and repeatedly in meaningful contexts.](../claims/activation-improves-learning.md) [+M]. The digital annotation layer makes word learning an active, visible investigation rather than passive lookup, and the peer discussion adds the interpersonal processing that strengthens word knowledge [Dialogic discussion of texts improves students' expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M].
+The strategy combines repeated, meaningful encounters with new words in authentic text with generative processing — students must construct and record a definition in their own words rather than receive one [Vocabulary instruction is most effective when students process words deeply and repeatedly in meaningful contexts.](../claims/activation-improves-learning.md) [+M]. The digital annotation layer makes word learning an active, visible investigation rather than passive lookup, and the peer discussion adds the interpersonal processing that strengthens word knowledge [Dialogic discussion of texts improves students' expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M].
 
 ### Context
 #### Requirements

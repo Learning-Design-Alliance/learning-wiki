@@ -12,7 +12,7 @@ generated:
 # Home Language Reading Demonstrations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 12 studies (4 causal, 4 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 4 of 12 report an effect size
+> **Evidence** · 5 claims (5 for) · 12 studies (4 causal, 4 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 3 of 12 report an effect size
 
 ## Description
 When newcomer multilingual students arrive in a classroom, the teacher asks them to read a book in their home language — aloud to the teacher, a peer, or a small group — as a [Demonstration](../elements/demonstration.md) of what they already know about reading. The teacher observes fluency, comprehension strategies, print conventions, and expression without needing to speak the language, then uses what is observed to plan instruction. By using the collective skills and knowledge of all students (both ELL and English-L1 students) in the classroom, even a monolingual teacher can tap into these valuable language resources that ELLs have, with confidence that these methods will promote language development in English as well as the home language.
@@ -48,7 +48,7 @@ The strategy rests on the linguistic interdependence hypothesis: literacy-relate
 ### Target Learning Goals
 - Assessment: establishing a baseline of literacy skills in the home language to inform English reading instruction
 - Identity and belonging: affirming that home languages and cultures are valued classroom resources [Belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M]
-- Oral language development: expressive reading aloud supports language growth in both languages [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Oral language development: expressive reading aloud supports language growth in both languages [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 
 ### Instructions
 1. Survey the class's home languages and gather books at a range of levels; invite families to contribute favorites.

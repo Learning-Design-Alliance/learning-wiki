@@ -12,14 +12,14 @@ generated:
 # Blackout Conversation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 4 causal), `q3`–`q4` · 5 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 4 causal), `q3`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Students transform conversational text selections into poetry by blacking out sections to reveal only key terms and phrases, focusing on the meaning, nuances, and silences of each character's dialogue. Working in pairs, students read the dialogue aloud, then independently examine their assigned character's subtext — what they are really saying, hiding, feeling, or withholding. After blacking out the "background noise," partners reread the remaining words together and highlight the essence of the conversation. The strategy adapts blackout poetry (popularized by Austin Kleon's *Newspaper Blackout*) to dramatic dialogue as a vehicle for social-emotional learning.
 
 ## Design Implications
 
-Blackout Conversation combines constrained text-marking with perspective-taking: the physical constraint of keeping only a small fraction of words forces selective attention to what a character actually says versus what they mean. Restructuring source text into a new, self-authored artifact supports deeper processing than passive reading [~M], and fiction-based perspective-taking activities show modest but reliable effects on empathy and intergroup attitudes [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. The paired read-aloud structure adds a dialogic component that supports comprehension and expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M].
+Blackout Conversation combines constrained text-marking with perspective-taking: the physical constraint of keeping only a small fraction of words forces selective attention to what a character actually says versus what they mean. Restructuring source text into a new, self-authored artifact supports deeper processing than passive reading [~M], and fiction-based perspective-taking activities show modest but reliable effects on empathy and intergroup attitudes [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. The paired read-aloud structure adds a dialogic component that supports comprehension and expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M].
 
 ### Context
 #### Requirements

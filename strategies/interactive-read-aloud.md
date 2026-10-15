@@ -13,7 +13,7 @@ generated:
 # Interactive Read Aloud
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q3` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q3` · 2 of 7 report an effect size
 
 ## Description
 An interactive read aloud is a whole-class or small-group activity in which the teacher reads a text aloud — typically above students' independent reading levels — and deliberately pauses to think aloud, ask questions, and invite student talk about the story or content. Unlike a performance reading, the interaction is planned: the teacher selects stopping points in advance to model comprehension moves, build vocabulary, and surface students' thinking. The read aloud makes sophisticated texts accessible to learners who could not yet read them independently, decoupling comprehension instruction from decoding skill.
@@ -70,7 +70,7 @@ Interactive read alouds work because listening comprehension draws on the same l
 - Older striving readers, who can access age-appropriate ideas through read alouds without being confined to decodable texts
 - Students with limited background knowledge, when the read aloud is paired with [activating prior knowledge](activating-prior-knowledge.md) [Activation improves learning.](../claims/activation-improves-learning.md) [+M]
 - K–12 learners, especially emergent and developing readers who benefit from comprehension modeling above their decoding level
-- English language learners, who gain vocabulary and syntax exposure with scaffolds like sentence starters and visuals [Dialogic reading, in which adults prompt and expand on children's talk about a book, improves language outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- English language learners, who gain vocabulary and syntax exposure with scaffolds like sentence starters and visuals [Dialogic reading, in which adults prompt and expand on children's talk about a book, improves language outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Adult literacy learners, where read-alouds decouple comprehension practice from decoding embarrassment
 - Less suited to advanced readers who can already access the text independently; they benefit more from direct text engagement
 - Emergent and early readers (preK–3), who gain vocabulary and story comprehension from interactive reading well before they can access such texts independently [Dialogic reading with children improves language and vocabulary development.](https://doi.org/10.1037/0012-1649.24.4.552) [+S]
@@ -143,7 +143,7 @@ Interactive read-alouds involve a facilitator reading a text aloud while stoppin
 
 ## Design Implications
 
-Interactive read-alouds convert passive listening into [Active Learning](../principles/active-learning.md) by inserting structured response opportunities throughout a text rather than after it [Dialogic reading, in which adults prompt and expand on children's talk about a book, improves language outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+S]. Pausing to activate relevant knowledge before and during reading improves comprehension [Activating prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M], and the facilitator's think-aloud modeling of comprehension strategies gives novices an expert model of inferencing they could not yet perform independently.
+Interactive read-alouds convert passive listening into [Active Learning](../principles/active-learning.md) by inserting structured response opportunities throughout a text rather than after it [Dialogic reading, in which adults prompt and expand on children's talk about a book, improves language outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]. Pausing to activate relevant knowledge before and during reading improves comprehension [Activating prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M], and the facilitator's think-aloud modeling of comprehension strategies gives novices an expert model of inferencing they could not yet perform independently.
 
 ### Context
 #### Requirements
@@ -177,7 +177,7 @@ Interactive read-alouds convert passive listening into [Active Learning](../prin
 
 ### Target Learners
 - K–12 learners, especially emergent and developing readers who benefit from comprehension modeling above their decoding level
-- English language learners, who gain vocabulary and syntax exposure with scaffolds like sentence starters and visuals [Dialogic reading, in which adults prompt and expand on children's talk about a book, improves language outcomes.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- English language learners, who gain vocabulary and syntax exposure with scaffolds like sentence starters and visuals [Dialogic reading, in which adults prompt and expand on children's talk about a book, improves language outcomes.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Adult literacy learners, where read-alouds decouple comprehension practice from decoding embarrassment
 - Less suited to advanced readers who can already access the text independently; they benefit more from direct text engagement
 - Emergent and early readers (preK–3), who gain vocabulary and story comprehension from interactive reading well before they can access such texts independently [Dialogic reading with children improves language and vocabulary development.](https://doi.org/10.1037/0012-1649.24.4.552) [+S]

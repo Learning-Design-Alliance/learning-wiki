@@ -43,5 +43,5 @@ In the longitudinal analysis of Chicago students' civic commitments, two factors
 
 
 ## Related Claims
-- [Experiencing civic community at home, in the neighborhood, and at school fosters students' commitment to civic participation](experiencing-civic-community-fosters-commitment.md) — related
+- [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](experiencing-civic-community-fosters-commitment.md) — related
 - [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related

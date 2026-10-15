@@ -12,7 +12,7 @@ generated:
 # Read Aloud Routines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (5 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q4` · 6 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies (5 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q4` · 5 of 9 report an effect size
 
 ## Description
 Read aloud routines are scheduled, repeated episodes in which a more proficient reader reads a text aloud to learners while making the reading process visible — through expressive delivery, pauses for prediction or vocabulary, and discussion before, during, and after the text. The routine differs from incidental reading aloud in its predictability, text selection logic, and intentional interaction structure (e.g., [Dialogic Reading](../elements/dialogic-reading.md) prompts such as CROWD questions and PEER sequences).
@@ -29,7 +29,7 @@ Reading aloud exposes learners to language and text structures above their indep
 - A visible text (big book, projected page) when print-referencing or tracking is a goal
 
 #### Constraints
-- Passive listening without interaction produces weak vocabulary gains; dialogic variants outperform non-interactive reading [Dialogic reading improves expressive language in young children.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Passive listening without interaction produces weak vocabulary gains; dialogic variants outperform non-interactive reading [Dialogic reading improves expressive language in young children.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Excessive interruption degrades comprehension and motivation — pauses must be few and purposeful [~M]
 - Benefits attenuate when texts are consistently far beyond learners' conceptual knowledge; prior knowledge of the topic, not just decoding, limits comprehension [~M]
 - For adolescent and adult learners, read alouds perceived as childish can reduce engagement unless framed around complex, age-appropriate texts [~W]

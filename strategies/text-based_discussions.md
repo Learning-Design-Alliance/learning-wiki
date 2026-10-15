@@ -12,7 +12,7 @@ generated:
 # Text-Based Discussions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 causal), `q2`–`q4` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 causal), `q2`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Text-based discussions are structured conversations in which a group of learners jointly interprets a shared text — an article, story, dataset, or document — and is expected to ground claims in evidence from the text itself. The teacher or facilitator acts primarily as a discussion leader who poses open questions, presses for textual evidence, and manages turn-taking, rather than as a lecturer. Well-known variants include [Reciprocal Teaching](../elements/reciprocal-teaching.md), Quality Talk, Collaborative Reasoning, and Socratic seminar.
@@ -42,7 +42,7 @@ Discussion quality, not discussion presence, drives comprehension gains: approac
 
 ### Target Learners
 - Upper elementary through adult learners; effects on comprehension are documented from grade 3 upward, with strong results for adolescents [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
-- Struggling readers benefit when discussion is paired with [Dialogic Reading](../claims/dialogic-reading-improves-expressive-language.md) [+M]-style support and explicit vocabulary work, since oral language practice builds the language resources comprehension depends on
+- Struggling readers benefit when discussion is paired with [Dialogic Reading](../claims/dialogic-reading-improves-language-outcomes.md) [+M]-style support and explicit vocabulary work, since oral language practice builds the language resources comprehension depends on
 - Multilingual learners benefit from the dual language exposure and production, provided sentence frames and wait time are offered
 
 ### Target Learning Goals

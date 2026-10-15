@@ -13,14 +13,14 @@ generated:
 # Read-Alouds
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 18 studies (8 causal, 5 quant-synthesis, 3 review, 2 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 18 studies (8 causal, 5 quant-synthesis, 3 review, 2 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 1 claim rests on one study
 
 ## Description
 Read-alouds involve an educator reading a text aloud to learners, often pausing to model effective reading and thinking strategies such as questioning, inferencing, and using context cues. Because the educator carries the decoding load, learners can attend to meaning, story structure, and vocabulary beyond their independent reading level. Interactive variants — sometimes called dialogic reading or interactive read-alouds — embed deliberate pauses for prediction, discussion, and strategy modeling, making the read-aloud a form of [Demonstration](../elements/demonstration.md) of expert reading behavior.
 
 ## Design Implications
 
-Read-alouds work by removing the decoding burden so working memory is freed for comprehension, and by making expert thinking visible through think-aloud modeling [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Their effectiveness depends heavily on interactivity: dialogic read-alouds with deliberate pauses, questions, and vocabulary elaboration outperform straight reading aloud [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]. Text selection and discussion quality matter as much as the reading itself — skilled facilitation turns a passive listening session into an active comprehension experience.
+Read-alouds work by removing the decoding burden so working memory is freed for comprehension, and by making expert thinking visible through think-aloud modeling [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Their effectiveness depends heavily on interactivity: dialogic read-alouds with deliberate pauses, questions, and vocabulary elaboration outperform straight reading aloud [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]. Text selection and discussion quality matter as much as the reading itself — skilled facilitation turns a passive listening session into an active comprehension experience.
 
 ### Context
 #### Requirements
@@ -39,7 +39,7 @@ Read-alouds work by removing the decoding burden so working memory is freed for 
 - A low-stakes environment: whisper-reading, reading to a partner, or private recording reduces self-consciousness
 
 #### Constraints
-- Straight reading aloud without discussion or interaction produces markedly weaker vocabulary and language gains [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [-S] — passive listening alone does not drive the effect
+- Straight reading aloud without discussion or interaction produces markedly weaker vocabulary and language gains [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [-S] — passive listening alone does not drive the effect
 - Learners with low interest in the selected text disengage; text choice must be actively matched to learner interests and experiences
 - Effectiveness collapses without skilled facilitation — poorly guided discussion drifts to low-level recall questions
 - Gains are strongest for oral language and vocabulary; transfer to independent decoding and writing is indirect and requires complementary instruction
@@ -72,7 +72,7 @@ Read-alouds work by removing the decoding burden so working memory is freed for 
 - **Teacher read-alouds of model texts** — builds an internalized "ear" for genre conventions before students write
 
 ### Target Learners
-- Beginning readers and writers (K–3) who cannot yet decode texts at their listening-comprehension level [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Beginning readers and writers (K–3) who cannot yet decode texts at their listening-comprehension level [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - English language learners, who benefit from contextualized vocabulary exposure and sentence starters during discussion
 - Adult learners with emerging literacy, where read-alouds decouple comprehension growth from decoding skill
 - Less valuable for fluent independent readers, who gain more from independent reading with strategy instruction [~M]
@@ -87,7 +87,7 @@ Read-alouds work by removing the decoding burden so working memory is freed for 
 - Less useful for strong silent readers working through extended texts, where vocalization adds time without adding comprehension [~W]
 
 ### Target Learning Goals
-- Vocabulary acquisition and oral language development [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Vocabulary acquisition and oral language development [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Narrative skills and understanding of story structures
 - Comprehension strategy modeling: questioning, inferencing, using context cues
 - Motivation to read and extending worldview through literature [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+W]

@@ -8,12 +8,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 17,907 |
-| Evidence entries | 21,224 |
-| Distinct studies | 5,118 |
-| Claims resting on one study | 17,438 (97%) |
+| Claims | 17,901 |
+| Evidence entries | 21,218 |
+| Distinct studies | 5,117 |
+| Claims resting on one study | 17,433 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 1,003 of 5,118 (20%) |
+| Studies reporting an effect size | 1,001 of 5,117 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
@@ -21,7 +21,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 |---|---|---|---|---|---|
 | causal | 68 | 550 | 203 | 372 | 1,193 |
 | quant-synthesis | 43 | 93 | 38 | 116 | 290 |
-| review | 57 | 297 | 113 | 114 | 581 |
+| review | 57 | 297 | 112 | 114 | 580 |
 | associational | 29 | 627 | 301 | 254 | 1,211 |
 | qualitative | 113 | 276 | 72 | 89 | 550 |
 | design | 62 | 547 | 165 | 37 | 811 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 771 (15%) | 3,264 (64%) | 971 (19%) | 112 (2%) |
+| 771 (15%) | 3,263 (64%) | 971 (19%) | 112 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,438, 2: 392, 3: 64, 4 or more: 13.
+**Studies per claim:** 0: 0, 1: 17,433, 2: 390, 3: 65, 4 or more: 13.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -102,7 +102,7 @@ Of the 37 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-196 claims are cited both ways.
+195 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 21 | 4 | 11 | 4 |
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 1 | 1 | 11 | 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 6 | 197 | 10 | 3 |
-| [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 7 | 8 | 2 |
+| [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 7 | 8 | 3 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 281 | 21 | 8 | 2 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 44 | 1 | 8 | 2 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 61 | 10 | 6 | 1 |

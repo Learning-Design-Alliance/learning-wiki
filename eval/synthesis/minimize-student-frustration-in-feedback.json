@@ -1,20 +1,54 @@
-{"principle": "principles/minimize-student-frustration-in-feedback",
+{
+ "principle": "principles/minimize-student-frustration-in-feedback",
  "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. The four Ecree/MI Write claims are Mathematica briefs on one organisation's 2021-22 studies, so the distinct-study count will be small.",
  "findings": [
-  {"hub": "some-students-struggled-automated-feedback-use",
+  {
+   "hub": "some-students-struggled-automated-feedback-use",
    "question": "Does the amount of feedback a learner receives at once overwhelm some learners, and what reduces it?",
    "members": [
-     ["teachers-found-ecree-useful-but-some-students-overwhelmed", "~"],
-     ["some-students-overwhelmed-by-ecree-feedback", "~"],
-     ["students-need-guidance-ecree-feedback-advanced-writers", "~"],
-     ["synthesizer-expected-reduce-overload-support-affect", "+"],
-     ["llm-feedback-volume-vs-quality", "~"]]},
-  {"hub": "ai-feedback-higher-perceived-quality-value",
+    [
+     "teachers-found-ecree-useful-but-some-students-overwhelmed",
+     "~"
+    ],
+    [
+     "students-need-guidance-ecree-feedback-advanced-writers",
+     "~"
+    ],
+    [
+     "synthesizer-expected-reduce-overload-support-affect",
+     "+"
+    ],
+    [
+     "llm-feedback-volume-vs-quality",
+     "~"
+    ]
+   ]
+  },
+  {
+   "hub": "ai-feedback-higher-perceived-quality-value",
    "question": "Do learners rate clearer, more specific, more structured feedback as easier to understand and use?",
    "members": [
-     ["elaborate-feedback-raises-engagement-perceptions", "+"],
-     ["students-value-detailed-rubric-aligned-genai-feedback", "+"],
-     ["human-feedback-rated-superior-to-ai-feedback", "~"],
-     ["divergent-perceptions-genai-feedback-redundancy", "~"],
-     ["feedback-source-discrepancies-cause-confusion", "~"]]}
- ]}
+    [
+     "elaborate-feedback-raises-engagement-perceptions",
+     "+"
+    ],
+    [
+     "students-value-detailed-rubric-aligned-genai-feedback",
+     "+"
+    ],
+    [
+     "human-feedback-rated-superior-to-ai-feedback",
+     "~"
+    ],
+    [
+     "divergent-perceptions-genai-feedback-redundancy",
+     "~"
+    ],
+    [
+     "feedback-source-discrepancies-cause-confusion",
+     "~"
+    ]
+   ]
+  }
+ ]
+}

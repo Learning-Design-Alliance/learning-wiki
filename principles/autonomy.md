@@ -31,7 +31,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (7 for, 19 mixed, 1 against) · 33 studies (11 review, 6 causal, 5 qualitative, 5 theoretical, 3 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 4 of 33 report an effect size · 20 claims rest on one study
+> **Evidence** · 26 claims (7 for, 18 mixed, 1 against) · 33 studies (11 review, 6 causal, 5 qualitative, 5 theoretical, 3 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 4 of 33 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -68,7 +68,7 @@ Ask for three facts when the brief omits them: **which outcome counts** (volunta
 |---|---|---|
 | The goal is sustained voluntary engagement or persistence with the subject | Offer choices that change how the objective is reached (topic, medium, order), give a reason for required work, and use informational rather than controlling language | [Autonomy support increases intrinsic motivation and engagement](../claims/autonomy-supports-intrinsic-motivation.md) [+M]; [Autonomy-supportive versus controlling teaching](../claims/autonomy-support-versus-controlling-teaching.md) [+W] |
 | The plan uses points, prizes or other tangible rewards for doing a task learners already find interesting | Drop rewards for merely doing the task; keep feedback about competence, which did not undermine engagement | [Expected tangible rewards reduce later free-choice engagement](../claims/rewards-undermine-intrinsic-motivation.md) [~M] |
-| Praise is part of the routine (children, after success) | Praise the effort or strategy used, not the learner's intelligence | [Praise for intelligence undermines motivation after failure](../claims/feedback-praise-reduces-learning.md) [~M]; [Intelligence praise against effort praise](../claims/intelligence-praise-versus-effort-praise-effects.md) [~M] |
+| Praise is part of the routine (children, after success) | Praise the effort or strategy used, not the learner's intelligence | [Praise for intelligence undermines motivation after failure](../claims/feedback-praise-reduces-learning.md) [~M]; [Intelligence praise against effort praise](../claims/feedback-praise-reduces-learning.md) [~M] |
 | The goal is achievement, and the plan is to give learners control of the software or sequence | Do not expect control in general to raise achievement; if any control is given, give control of pace on complex, high element-interactivity material | [Learner pacing helped on complex material; learner control in general showed almost no effect](../claims/learner-paced-beats-system-paced-complex-material.md) [~M] |
 | Learners can ask for feedback or hints during practice | Let them ask after they have seen how an attempt went, not decide in advance; check whether this carries over from the motor task it was found on | [Deciding on feedback after the trial improved motor retention](../claims/self-controlled-kr-decided-after-trial-improves-motor-retention.md) [~M]; [Deciding only before the trial showed no benefit](../claims/self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) [~M] |
 | An open, self-directed course with little structure (`online-self-paced`, MOOC-style) | Keep the choice of topic or project, but supply a plan, milestones and a few vetted options; teach planning as in [Self-Regulated Learning](self-regulated-learning.md) | [Not all students in connectivist courses could direct their own learning](../claims/connectivist-courses-student-agency-problems.md) [~M] |

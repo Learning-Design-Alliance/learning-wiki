@@ -12,7 +12,7 @@ generated:
 # Audiobooks for Literacy Reinforcement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q3` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q3` · 2 of 7 report an effect size
 
 ## Description
 Audiobooks present literature and informational texts in audio form, either alone or paired with the printed text for learners to follow. They allow students — including emerging readers and ESL/ELL learners — to experience texts beyond their current decoding level, building vocabulary, background knowledge, and motivation to read. Formats range from audio-only recordings to synchronized audio-plus-text and interactive e-books.
@@ -43,7 +43,7 @@ Audiobooks leverage the auditory channel to deliver rich language input while by
 
 ### Target Learners
 - Emerging readers who can comprehend stories beyond their decoding level, keeping them engaged with grade-level ideas while print skills develop [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
-- ESL/ELL learners, who benefit from hearing prosody, pronunciation, and intonation modeled while building vocabulary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- ESL/ELL learners, who benefit from hearing prosody, pronunciation, and intonation modeled while building vocabulary [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Students with print disabilities (dyslexia, visual impairment) for whom audio is an [accommodation](../elements/accommodations.md) that provides equitable access to curriculum
 - Proficient readers, for whom audiobooks primarily add volume of reading and enjoyment rather than new skill [~W]
 

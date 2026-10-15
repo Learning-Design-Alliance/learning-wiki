@@ -2,15 +2,35 @@
   "principle": "principles/supporting-early-language-development",
   "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries; dialogic-reading-improves-expressive-language duplicates the hub's two meta-analyses (merge candidate).",
   "findings": [
-    {"hub": "dialogic-reading-improves-language-outcomes",
-     "question": "Does interactive, dialogic shared reading raise young children's oral language more than ordinary shared reading or no extra reading?",
-     "members": [
-       ["dialogic-reading-improves-expressive-language", "+"],
-       ["dialogic-reading-positive-oral-language-effects", "+"],
-       ["dale-1996-significant-lexical-diversity-play-total-utterances-book-reading", "+"],
-       ["dialogic-reading-potentially-positive-communication-language-disabilities", "+"],
-       ["crain-thoreson-dale-1999-parent-led-null-effects", "-"],
-       ["implementation-level-moderates-dialogic-reading-effects", "~"],
-       ["dialogic-reading-no-phonological-processing-effects", "~"]]}
+    {
+      "hub": "dialogic-reading-improves-language-outcomes",
+      "question": "Does interactive, dialogic shared reading raise young children's oral language more than ordinary shared reading or no extra reading?",
+      "members": [
+        [
+          "dialogic-reading-positive-oral-language-effects",
+          "+"
+        ],
+        [
+          "dale-1996-significant-lexical-diversity-play-total-utterances-book-reading",
+          "+"
+        ],
+        [
+          "dialogic-reading-potentially-positive-communication-language-disabilities",
+          "+"
+        ],
+        [
+          "crain-thoreson-dale-1999-parent-led-null-effects",
+          "-"
+        ],
+        [
+          "implementation-level-moderates-dialogic-reading-effects",
+          "~"
+        ],
+        [
+          "dialogic-reading-no-phonological-processing-effects",
+          "~"
+        ]
+      ]
+    }
   ]
 }

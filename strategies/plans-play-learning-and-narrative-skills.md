@@ -12,14 +12,14 @@ generated:
 # PLaNS (Play Learning and Narrative Skills)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 14 studies (5 quant-synthesis, 3 causal, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size
+> **Evidence** · 5 claims (5 for) · 14 studies (5 quant-synthesis, 3 causal, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size
 
 ## Description
 PLaNS is a guided-play approach to early literacy in which children develop narrative and writing skills by building stories together through structured play — constructing settings and characters (often with physical materials or digital tools), acting out story events, and then drafting written narratives from the shared story. The teacher's role is to set up the play context, join or observe the play, and guide children's narrative moves with prompts and questions rather than direct instruction.
 
 ## Design Implications
 
-Guided play combines children's self-direction with intentional adult scaffolding, and meta-analytic evidence indicates it outperforms both free play and direct instruction for early-years learning outcomes [Guidance during play improves learning outcomes relative to free play.](../claims/contingent-scaffolding-improves-learning.md) [+S]. Narrative play is especially productive for literacy: children who rehearse story structure orally through play show stronger narrative production when they come to write [Dialogic, interactive story experiences improve children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]. The play context also supports motivation by giving children autonomy over story content [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M].
+Guided play combines children's self-direction with intentional adult scaffolding, and meta-analytic evidence indicates it outperforms both free play and direct instruction for early-years learning outcomes [Guidance during play improves learning outcomes relative to free play.](../claims/contingent-scaffolding-improves-learning.md) [+S]. Narrative play is especially productive for literacy: children who rehearse story structure orally through play show stronger narrative production when they come to write [Dialogic, interactive story experiences improve children's expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]. The play context also supports motivation by giving children autonomy over story content [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M].
 
 ### Context
 #### Requirements
@@ -43,13 +43,13 @@ Guided play combines children's self-direction with intentional adult scaffoldin
 ### Target Learners
 - Primary/early-years learners (roughly ages 4–9) developing narrative competence
 - Reluctant writers, who can generate content orally through play before facing the blank page
-- Children developing oral language; interactive story talk improves expressive language [Dialogic, interactive story experiences improve children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Children developing oral language; interactive story talk improves expressive language [Dialogic, interactive story experiences improve children's expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Less appropriate for older learners who have automatized narrative structure and need genre-specific writing instruction
 
 ### Target Learning Goals
 - Narrative structure: setting, characters, sequence, problem–resolution
 - Oral-to-written composition: translating told stories into written text
-- Vocabulary and expressive language growth [Dialogic, interactive story experiences improve children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Vocabulary and expressive language growth [Dialogic, interactive story experiences improve children's expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 - Collaboration and perspective-taking through shared story construction
 
 ### Instructions

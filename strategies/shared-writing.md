@@ -13,7 +13,7 @@ generated:
 # Shared Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 15 studies (6 quant-synthesis, 5 causal, 3 review, 1 theoretical), `q2`–`q4` · 8 of 15 report an effect size
+> **Evidence** · 6 claims (6 for) · 15 studies (6 quant-synthesis, 5 causal, 3 review, 1 theoretical), `q2`–`q4` · 7 of 15 report an effect size
 
 ## Description
 Shared writing involves a teacher and students collaboratively composing a single text, with the teacher acting as scribe while students generate ideas, phrasing, and vocabulary. The teacher records contributions on chart paper or a shared display, then guides the group to revise and refine the draft — improving word choice, structure, and conceptual accuracy. Because the teacher holds the transcription burden, students can devote their full attention to composing and reasoning rather than to the mechanics of writing.
@@ -68,7 +68,7 @@ Shared writing makes the composition process visible and distributed: students o
 - Composition skills: planning, generating, and revising text at the discourse level
 - Genre knowledge: internalizing the structure and language of a text type through joint construction
 - Concept internalization: articulating content-area understanding in precise written language
-- Oral language development: negotiating sentences aloud builds expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Oral language development: negotiating sentences aloud builds expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 
 ### Instructions
 1. Activate prior knowledge of the topic and co-create a word bank of key terms with students.
@@ -145,7 +145,7 @@ Shared writing is a form of collaborative modeling: the teacher makes expert com
 - Composition skills: planning, generating, and revising text at the discourse level
 - Genre knowledge: internalizing the structure and language of a text type through joint construction
 - Concept internalization: articulating content-area understanding in precise written language
-- Oral language development: negotiating sentences aloud builds expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M]
+- Oral language development: negotiating sentences aloud builds expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]
 
 ### Instructions
 1. **Establish purpose.** Identify an authentic reason for the text (a class book, a letter, a summary for another class) [Authentic audiences improve student work.](../claims/authentic-audiences-improve-student-work.md) [+M]

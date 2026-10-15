@@ -66,7 +66,7 @@ The review reports, citing Vahedi et al. (2016), that multiple glosses combining
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [A. Pradheepa 2025](https://doi.org/10.29140/ajal.v8n1.2073) | q2 · quant-synthesis · r2 | i? | this claim |
-| Cheng 2009 | q2 / q3 · causal · r2 | i? | [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss ](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) (supports); [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not ](proficiency-moderates-gloss-vocabulary-effects.md) (qualifies); [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type](gloss-perceptions-mismatch-performance.md) (qualifies) |
+| [Cheng 2009](https://doi.org/10.64152/10125/66828) | q2 / q3 · causal · r2 | i? | [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss ](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) (supports); [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not ](proficiency-moderates-gloss-vocabulary-effects.md) (qualifies); [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type](gloss-perceptions-mismatch-performance.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

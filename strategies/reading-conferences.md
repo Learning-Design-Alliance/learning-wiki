@@ -13,7 +13,7 @@ generated:
 # Reading Conferences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies (6 quant-synthesis, 4 causal, 2 review, 1 qualitative), `q2`–`q4` · 6 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies (6 quant-synthesis, 4 causal, 2 review, 1 qualitative), `q2`–`q4` · 5 of 13 report an effect size
 
 ## Description
 A reading conference is a brief, structured one-on-one conversation between an instructor and a learner during independent reading time. The instructor asks targeted questions about the learner's book and thinking, models or prompts a comprehension strategy, provides immediate feedback, and records observations to plan future instruction. Conferences function simultaneously as coaching, formative assessment, and personalized practice in an authentic reading context.
@@ -56,7 +56,7 @@ Reading conferences operationalize individualized instruction within a workshop 
 
 ### Target Learners
 - K–12 learners, especially struggling readers who need individualized diagnosis and support [~M]
-- Emerging readers benefit from the dialogic interaction pattern similar to shared book reading [Dialogic reading improves children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- Emerging readers benefit from the dialogic interaction pattern similar to shared book reading [Dialogic reading improves children's expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
 - Advanced readers benefit from conferences that push genre range and deeper analysis, where whole-class instruction is too coarse [~W]
 - Struggling and disengaged adolescent readers, for whom personal accountability and book-match conversations increase engagement [+W]
 - Less effective as a stand-alone intervention for students needing systematic code-based instruction; conferences supplement but do not replace explicit phonics [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]

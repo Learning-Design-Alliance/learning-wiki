@@ -62,5 +62,5 @@ The report states the elaborative-processing effect on retrieval was replicated 
 
 ## Related Claims
 
-- [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — the general claim this finding bears on, with the studies behind it
+- [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages](trained-elaboration-beats-question-stimulated-elaboration.md) — related

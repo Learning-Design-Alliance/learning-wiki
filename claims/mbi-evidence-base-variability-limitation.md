@@ -47,7 +47,7 @@ Narrative review statement in the brief's universal supports section. It notes t
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Browning 2020 | q1 / q2 · review · r2 | i? | this claim; [Mindfulness practices are linked to positive school climate outcomes including compassion,](mindfulness-positive-school-climate-outcomes.md) (supports); [Mindfulness practices are linked to academic improvements including reduced test anxiety, ](mindfulness-academic-improvement-links.md) (supports); [Students who learned mindfulness-based conflict resolution strategies used them outside sc](mindfulness-conflict-resolution-transfer-out-of-school.md) (supports) |
-| Murray 2017 | q2 · review · r2 | i? | [Mindfulness programs show substantial benefits across cognitive and emotional regulation a](mindfulness-programs-benefit-adolescent-regulation.md) (supports) |
+| Murray 2017 | q2 · review · r2 | i? | [A practice brief reviewing self-regulation interventions reports substantial benefits of m](mindfulness-programs-benefit-adolescent-regulation.md) (supports) |
 | Tingey 2023 | q2 · design · r2 | i? | [Co-regulation strategies were reported to create a safe, positive classroom climate and to](co-regulation-supports-climate-and-youth-emotion-regulation.md) (supports) |
 <!-- synthesis:end -->
 
