@@ -74,4 +74,4 @@ percentages reported.
 
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — the same conditional-transfer shape in phonology, with effect sizes
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — the other claim in this wiki about heritage speakers
-- [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — bilingualism as an asset, where this is a place it does not straightforwardly help
+- [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — bilingualism as an asset, where this is a place it does not straightforwardly help

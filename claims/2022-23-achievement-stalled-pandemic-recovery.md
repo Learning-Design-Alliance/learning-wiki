@@ -29,7 +29,7 @@ sources:
 
 `q2 i?` Academic gains in the 2022-23 school year, measured against pre-pandemic years, indicated stalled progress toward recovery from pandemic learning disruptions. [→ Karyn Lewis 2023](#karyn-lewis-2023)
 
-`q2 i?` While learning did continue, progress toward academic recovery stalled in the 2022-23 school year. [→ Karyn Lewis 2023](#karyn-lewis-2023)
+`q2 i?` The technical appendix describes the sample and methods behind the brief's 2022-23 results and tracked the achievement gap between the COVID-year student group and their pre-pandemic peers; it does not itself print the gains. [→ Karyn Lewis 2023](#karyn-lewis-2023)
 
 ## Evidence
 

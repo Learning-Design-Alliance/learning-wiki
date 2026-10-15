@@ -34,7 +34,7 @@ Spanish MAP Reading Fluency is NWEA's adaptive Spanish-language assessment for o
 
 ### Claims
 
-- [Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks](../claims/sentence-reading-fluency-routing-threshold.md) [+W]
+- [In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks](../claims/sentence-reading-fluency-routing-threshold.md) [+W]
 - [In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension](../claims/spanish-transparent-orthography-rate-predictor.md) [+W]
 - [Four oral reading scores together best predict passage comprehension and enable individualized instruction](../claims/four-scores-predict-passage-comprehension.md) [+W]
 - [MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021](../claims/map-rf-2020-21-operational-scale.md) [+W]

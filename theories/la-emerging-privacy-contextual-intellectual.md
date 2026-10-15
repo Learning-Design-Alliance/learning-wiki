@@ -39,7 +39,7 @@ Beyond the established categories, the review identifies two emerging, LA-releva
 ### Claims
 
 - [La Privacy Conceptual Unclarity Ethics Conflation](../claims/la-privacy-conceptual-unclarity-ethics-conflation.md) [+M]
-- [Most LA research articles (74%) address privacy without defining or conceptualizing it](../claims/74-percent-la-articles-no-privacy-definition.md) [+W]
+- [In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it](../claims/74-percent-la-articles-no-privacy-definition.md) [+W]
 - [Among LA articles that define privacy, control (15%) is the most common established definition; none define privacy as a commodity](../claims/la-privacy-definitions-distribution-control-most-common.md) [+W]
 
 ## Related Theories

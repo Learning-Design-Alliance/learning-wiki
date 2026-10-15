@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Most LA research articles (74%) address privacy without defining or conceptualizing it"
-description: "Most LA research articles (74%) address privacy without defining or conceptualizing it"
+title: "In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it"
+description: "In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it"
 id: 74-percent-la-articles-no-privacy-definition
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Most LA research articles (74%) address privacy without defining or conceptualizing it
+# In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+
+<!-- title before 2026-10-15: Most LA research articles (74%) address privacy without defining or conceptualizing it -->
 
 ## Subclaims
 `q2 i?` In a scoping review of 59 LA articles, a majority (74%) addressed privacy without defining or conceptualizing it. [→ Olga Viberg 2022](#olga-viberg-2022)

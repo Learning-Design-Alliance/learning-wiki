@@ -14,7 +14,7 @@ sources:
     title: "Knowledge Is Power Program (KIPP). (2018). What Works Clearinghouse Intervention Report: Charter Schools. https://ies.ed.gov/ncee/wwc/InterventionReport/688"
     author: Knowledge Is Power Program (KIPP)
     q: 3
-    i: "?"
+    i: 1
     kind: quant-synthesis
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # KIPP charter schools have positive effects on mathematics achievement for middle and high school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i?` Across four studies including 19,542 students, KIPP had positive effects on mathematics achievement, with an average improvement index of +12 percentile points (range +7 to +20). [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)
+`q3 i1` Across four studies including 19,542 students, KIPP had positive effects on mathematics achievement, with an average improvement index of +12 percentile points (range +7 to +20). [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Knowledge Is Power Program (KIPP). (2018). What Works Clearinghouse Intervention Report: Charter Schools. https://ies.ed.gov/ncee/wwc/InterventionReport/688
 
-`q3 · i?` · `quant-synthesis · r2`
+`q3 · i1 · small effect, average effect size 0.29` · `quant-synthesis · r2`
 
-WWC systematic review of four studies meeting group design standards. Table 1 reports mathematics achievement rated "Positive effects" with average improvement index +12, range +7 to +20, from "4" studies including "19,542" students; extent of evidence medium to large. No standardized effect size is printed, so impact is null.
+WWC systematic review of four studies meeting group design standards. Table 1 reports mathematics achievement rated "Positive effects" with average improvement index +12, range +7 to +20, from "4" studies including "19,542" students; extent of evidence medium to large. Appendix C.1 prints the WWC-computed effect sizes: domain averages of 0.18, 0.27 and 0.20 for the Tuttle et al. (2015) analyses and 0.52 for Woodworth et al. (2008), and 0.29 across all studies (the +12 improvement index is computed from it).
 
 > "KIPP had positive effects on mathematics achievement and English language arts achievement, and potentially positive effects on science achievement and social studies achievement for middle and high school students"
 

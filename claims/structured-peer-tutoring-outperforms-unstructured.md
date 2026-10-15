@@ -39,7 +39,7 @@ Peer tutoring produces larger learning gains when the tutoring relationship is s
 
 `q3 i?` Across a meta-analysis of 52 tutoring-achievement studies, structured tutoring programs produced significantly larger achievement gains than nonstructured tutoring programs, though no numeric effect-size split was reported for this specific moderator. [→ Cohen et al. 1982](#cohen-et-al-1982)
 
-`q3 i?` Across 36 elementary-school peer-assisted-learning studies, structured student roles were one of the program features significantly related to the size of social, self-concept and behavioral effects. [→ Ginsburg-Block et al. 2006](#ginsburg-block-et-al-2006)
+`q3 i?` Across 36 elementary-school peer-assisted-learning studies, structured student roles were one of the program components the abstract reports as related to the size of social, self-concept and behavioral effects; the abstract gives neither the direction nor the magnitude of that relationship, so this entry does not by itself show that structured tutoring outperforms unstructured tutoring. [→ Ginsburg-Block et al. 2006](#ginsburg-block-et-al-2006)
 
 ## Evidence
 
@@ -57,7 +57,7 @@ Ginsburg-Block, M. D., Rohrbeck, C. A., & Fantuzzo, J. W. (2006). A meta-analyti
 
 `q3 · meta-analysis, moderator analysis (abstract only)` · `i? · no effect size reported for this moderator` · `n=36 studies` · `quant-synthesis · r?`
 
-A meta-analysis of 36 elementary-school peer-assisted-learning studies examined social, self-concept, and behavioral (not just achievement) outcomes. Program components including student autonomy, individualized (ipsative) evaluation, structured student roles, interdependent group rewards, and same-gender grouping were each related to the size of these effects. This corroborates the structure-matters pattern found by Cohen et al. for achievement outcomes, extending it to non-academic outcomes, though only the abstract was available and it does not give a directional magnitude specifically for "structured roles" in isolation.
+A meta-analysis of 36 elementary-school peer-assisted-learning studies examined social, self-concept, and behavioral (not just achievement) outcomes. Program components including student autonomy, individualized (ipsative) evaluation, structured student roles, interdependent group rewards, and same-gender grouping were each related to the size of these effects. This is consistent with Cohen et al.'s finding for achievement outcomes, but only the abstract was available, and it says only that these components "were related to effect sizes": it does not state the direction or magnitude of the relationship for "structured roles", so it cannot show that structured tutoring outperformed unstructured tutoring on these outcomes.
 
 ## Discussion
 

@@ -42,7 +42,7 @@ sources:
 
 `q2 i?` Employment rates started and remained high, and wages for employed participants increased after program enrollment at a higher rate than the national average. [→ Ann Person 2016](#ann-person-2016)
 
-`q2 i?` Consortium-wide, 35 percent of participants completed a grant-funded program of study, including IT industry certification preparatory courses, college certificates, and associate's degrees. [→ Person 2016](#person-2016)
+`q2 i?` Consortium-wide, 35 percent of participants completed a grant-funded program of study. [→ Person 2016](#person-2016)
 
 `q2 i?` Participants' employment rates started and remained high, and wages for employed participants increased after program enrollment at a higher rate than the national average. [→ Person 2016](#person-2016)
 

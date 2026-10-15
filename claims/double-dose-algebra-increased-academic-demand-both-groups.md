@@ -54,7 +54,7 @@ Takako Nomi, Elaine M. Allensworth. (2010). The Effects of Tracking with Support
 
 `q3 · i?` · `causal · r2`
 
-Cross-cohort discontinuity analysis at the 50th-percentile ITBS cutoff. Below-norm students' demand rose 0.12 SD (0.05+0.07) after adjusting for peer ability, suggesting instructional time and pedagogy, not composition, drove the gain.
+Cross-cohort discontinuity analysis at the 50th-percentile ITBS cutoff. Below-norm students' demand rose 0.12 SD (0.05+0.07) after adjusting for peer ability, so the increase "was not due to changes in academic composition"; the authors say it "likely occurred because of other aspects of the policy, such as increased instructional time and pedagogical practices", and note that the policy's simultaneous changes in time, supports and composition are difficult to disentangle.
 
 > "academic demand actually increased among below-norm students as much as among above-norm students with the policy; the post-policy difference compared to above-norm students was  -0.02 SD and not statistically significant (p>0.1)."
 

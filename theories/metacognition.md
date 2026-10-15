@@ -42,7 +42,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 
 ## Claims
 
-- [Fluent bilingualism enhances metalinguistic awareness](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+M]
+- [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+M]
 - [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](../claims/ai-access-inflates-confidence.md) [+W] — attached 2026-10-10 from Chiara Marcoccia et al. (2026), which proposed "Epistemia: acceptance of AI output for surface fluency lowers the metacognitive threshold for answering".
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](../claims/subjective-expectations-drive-offloading.md) [+W] — attached 2026-10-10 from Yufei Guo et al. (2026), which proposed "Nelson and Narens's dynamic metacognitive model applied to cognitive offloading: object level and meta level with monitoring and control"; tests this page's relationship.
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](../claims/feedback-effects-on-offloading-mixed.md) [~W] — attached 2026-10-10 from Yufei Guo et al. (2026), which proposed "Nelson and Narens's dynamic metacognitive model applied to cognitive offloading: object level and meta level with monitoring and control"; tests this page's relationship.

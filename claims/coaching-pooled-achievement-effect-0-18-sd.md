@@ -11,7 +11,7 @@ evidence_strength: strong
 sources:
   - id: kraft-2018
     resource: "https://doi.org/10.3102/0034654318759268"
-    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
+    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 4
     i: 0
@@ -19,7 +19,7 @@ sources:
     rigour: 2
   - id: kraft-2018-2
     resource: "https://doi.org/10.3102/0034654318759268"
-    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
+    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 4
     i: 0
@@ -40,7 +40,7 @@ sources:
 
 ### Kraft 2018
 
-Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
+Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
 `q4 · i0 · d=0.18 (below 0.2)` · `quant-synthesis · r2`
 
@@ -50,7 +50,7 @@ Random-effects meta-analysis of 113 achievement effect sizes from 60 causal stud
 
 ### Kraft 2018 (2)
 
-Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
+Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
 `q4 · i0 · d=0.12 (below 0.2)` · `quant-synthesis · r3`
 

@@ -18,7 +18,7 @@ sources:
 # Waterford Early Reading Program™
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (2 for, 5 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (2 for, 5 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2` · 1 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 Waterford Early Reading Program™ is a software-based K–2 reading curriculum developed and provided by Waterford.org, combining individualized computer sessions with literacy activities, multimedia content, and teacher management tools.

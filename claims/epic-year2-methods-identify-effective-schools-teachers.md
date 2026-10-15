@@ -43,5 +43,5 @@ The report's own abstract states it "presents the methods used to identify effec
 
 
 ## Related Claims
-- [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](charter-consortium-effective-school-identification-method.md) — related
+- [Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](charter-consortium-effective-school-identification-method.md) — related
 - [Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general](epic-principals-positive-attitudes-merit-pay.md) — related

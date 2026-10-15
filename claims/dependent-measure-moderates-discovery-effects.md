@@ -44,5 +44,5 @@ Dependent-measure moderator analysis in the enhanced-discovery meta-analysis, Q(
 
 ## Related Claims
 - [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](domain-moderates-unassisted-discovery-deficit.md) — related
-- [Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery](age-moderates-discovery-effects.md) — related
+- [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](age-moderates-discovery-effects.md) — related
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on

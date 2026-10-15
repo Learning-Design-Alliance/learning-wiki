@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (61 for, 16 mixed, 26 against) · 87 studies (25 causal, 18 quant-synthesis, 18 review, 13 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 20 of 87 report an effect size · 95 claims rest on one study
+> **Evidence** · 103 claims (61 for, 16 mixed, 26 against) · 87 studies (25 causal, 18 quant-synthesis, 18 review, 13 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 21 of 87 report an effect size · 95 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -39,7 +39,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Morphological instruction improves literacy](../claims/morphological-instruction-improves-literacy.md) [+M] — teaches word structure so unfamiliar words are partly decodable
 - [Reciprocal teaching improves reading comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M] — a strategy-level rather than a code-level intervention
 - [Incidental vocabulary exposure limited](../claims/incidental-vocabulary-exposure-limited.md) [-M] — why 'they will pick it up from reading' is not a plan
-- [Fluent bilingualism enhances metalinguistic awareness](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+W] — a reminder that this dimension is not only a deficit axis
+- [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+W] — a reminder that this dimension is not only a deficit axis
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](../claims/l1-predicts-l2-phoneme-perception-more-than-proficiency.md) [+S] — which language a learner brings is a sharper predictor than their level, so this dimension is not one scale
 - [Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally](../claims/italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md) [~M] — heritage and second-language speakers come apart, so one mastery number over both describes neither
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](../claims/mother-tongue-affects-sla-production.md) [+W] — learners who differ on it differ in outcomes

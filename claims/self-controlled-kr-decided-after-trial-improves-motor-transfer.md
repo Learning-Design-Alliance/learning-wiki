@@ -14,7 +14,7 @@ sources:
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 1
   - id: carter-2014-2
@@ -30,10 +30,10 @@ sources:
 # Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) showed less error on a 24-h transfer test to a new target distance than Self-Before learners and their yoked counterparts.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
-`q3 i3` A significant Choice × Decision interaction on transfer absolute error was found (F(2,42) = 3.46, p= 0.041, ηp2 = 0.14). [→ Carter 2014](#carter-2014)
+`q3 i?` A significant Choice × Decision interaction on transfer absolute error was found (F(2,42) = 3.46, p= 0.041, ηp2 = 0.14). [→ Carter 2014](#carter-2014)
 `q3 i?` Self-After (M = 13.31) and Self-Both (M = 13.96) performed with significantly less transfer AE than Self-Before (M = 23.77) and than Yoked-After (M = 23.06) and Yoked-Both (M = 27.80). [→ Carter 2014 (2)](#carter-2014-2)
 
 ## Evidence
@@ -42,9 +42,9 @@ sources:
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i3` · `causal · r1`
+`q3 · i? · partial η² only, no standardised mean difference` · `causal · r1`
 
-Laboratory experiment in which university volunteers learned a slider-positioning task under six knowledge-of-results (KR) conditions; the transfer test required adapting to a new target distance. The article reports "a significant Choice × Decision interaction, F(2,42) = 3.46, p= 0.041, ηp2 = 0.14".
+Laboratory experiment in which 48 volunteers (mean age 21.35, run at the University of Ottawa) learned to propel a slider to a target distance under six knowledge-of-results (KR) conditions (n = 8 each), with retention and transfer tests on the next day; the transfer test required adapting to a new target distance. The article reports "a significant Choice × Decision interaction, F(2,42) = 3.46, p= 0.041, ηp2 = 0.14".
 
 > "Similar to retention, the main effects for Choice and Decision during the transfer test were superseded by a significant Choice × Decision interaction, F(2,42) = 3.46, p= 0.041, ηp2 = 0.14."
 

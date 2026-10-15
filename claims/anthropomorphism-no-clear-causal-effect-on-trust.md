@@ -63,7 +63,7 @@ The review attributes this long-term-use finding to Huang et al. (2024), and sep
 
 ## Related Claims
 - Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — a broader claim this one bears on
-- [Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — reports the opposite
+- [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — reports the opposite
 - [Different humanlike design dimensions cue distinct classes of anthropomorphism inferences](design-dimensions-cue-distinct-attribution-classes.md) — related
 - [Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust](explainability-mixed-effect-on-trust.md) — related
 - Self-report remains the dominant trust measurement method in post-2023 AI trust research, used as the sole measure in 72.73% of studies — related

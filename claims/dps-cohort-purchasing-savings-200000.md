@@ -35,7 +35,7 @@ Noakes, S., Shell, A., & Karim, S. (2025). Driving Edtech Coherence and Intentio
 
 `q2 · i?` · `qualitative · r2`
 
-Case-study interviews and document review of DPS's first-year rollout report the district's own accounting of cohort purchasing savings. The report states "significant savings of nearly $200,000" and notes a roughly 50 percent user discount for most agreements; no effect size is printed.
+A Digital Promise case study of DPS's first-year rollout (interviews and focus groups with 23 district leaders, school leaders, teachers and community members, plus classroom observations in three schools) reports the district's own figures for cohort purchasing savings. The report states "significant savings of nearly $200,000" and that "for most of these agreements, the district is finding a 50 percent user discount"; no effect size is printed.
 
 > "Cohort purchasing has already made significant savings of nearly $200,000, and enables teachers to continue using the same tools that already have high user engagement."
 

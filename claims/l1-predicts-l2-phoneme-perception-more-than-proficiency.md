@@ -69,7 +69,7 @@ some configurations.
 
 - [Italian grammatical gender stays incomplete for L2 and heritage speakers alike](italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md) — the same "L1 helps, but conditionally" shape, in morphology rather than phonology
 - [Game-based practice outperforms traditional L2 vocabulary instruction](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — carries the parallel finding that Italian articles are disproportionately hard for learners whose L1 has no article system
-- [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — the other direction: what a learner's language background gives them rather than costs them
+- [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — the other direction: what a learner's language background gives them rather than costs them
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — phonemic sensitivity as a predictor, in first-language reading
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general principle this instantiates
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related

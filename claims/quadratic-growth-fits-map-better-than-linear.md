@@ -43,5 +43,5 @@ Nested model comparisons of linear versus quadratic MLGM fitted to MAP reading a
 
 ## Related Claims
 - [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related
-- [A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states](map-cat-unidimensional-factor-structure.md) — related
-- [The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)](map-cat-longitudinal-construct-invariance-ten-states.md) — related
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
+- [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](map-cat-longitudinal-construct-invariance-ten-states.md) — related

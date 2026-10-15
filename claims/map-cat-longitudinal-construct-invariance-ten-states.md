@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)
-description: The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)
+title: The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states
+description: The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states
 id: map-cat-longitudinal-construct-invariance-ten-states
 status: draft
 generated:
@@ -24,14 +24,15 @@ sources:
     rigour: 2
 ---
 
-# The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)
+# The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+<!-- title before 2026-10-15: The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics) -->
 
 ## Subclaims
-`q2 i?` With repeated measures, the construct of both MAP reading and mathematics remained consistent at different points in time, supporting configural, weak and strong invariance across states except Indiana mathematics. [→ Wang 2013](#wang-2013)
-`q2 i?` All ΔCFI values between nested invariance models were less than 0.01 in both tests, indicating constrained parameters were invariant across time. [→ Wang 2013 (2)](#wang-2013-2)
+`q2 i?` With repeated measures, the construct of both MAP reading and mathematics remained consistent at different points in time, which the authors read as support for configural, weak and strong invariance across states except Indiana mathematics. [→ Wang 2013](#wang-2013)
+`q2 i?` The text states that all ΔCFI values between nested invariance models were less than 0.01 in both tests, but the mathematics table (Table 8) shows the weak-to-strong invariance drop in CFI exceeding 0.01 in eight of the nine states other than Indiana (e.g. Colorado .985 to .974, Minnesota .967 to .947), so strong invariance in mathematics is less clearly supported than the prose says. [→ Wang 2013 (2)](#wang-2013-2)
 
 ## Evidence
 
@@ -51,7 +52,7 @@ Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement 
 
 `q2 · i?` · `associational · r2`
 
-Nested linear MLGM model comparisons for measurement invariance across five waves, evaluated with Δχ2 and the Cheung and Rensvold ΔCFI criterion. The article reports "all ΔCFIs less than 0.01 in both tests", so constrained parameters were judged invariant; no effect size is printed.
+Nested linear MLGM model comparisons for measurement invariance across five waves, evaluated with Δχ2 and the Cheung and Rensvold ΔCFI criterion. The article reports "all ΔCFIs less than 0.01 in both tests", so constrained parameters were judged invariant; no effect size is printed. Its own Table 8 does not bear this out for mathematics at the strong-invariance step: CFI falls from weak to strong invariance by more than 0.01 in Colorado (.985 to .974), Illinois (.980 to .967), Kansas (.977 to .957), Kentucky (.982 to .970), Michigan (.980 to .966), Minnesota (.967 to .947), South Carolina (.977 to .965) and Washington (.975 to .962); only Wisconsin (.979 to .970) stays under it, and Indiana's models fit poorly throughout.
 
 > "The value of all ΔCFIs less than 0.01 in both tests indicates that constrained parameters are invariant across time."
 
@@ -61,7 +62,7 @@ Nested linear MLGM model comparisons for measurement invariance across five wave
 ## Related Claims
 - [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](map-cat-metric-invariance-across-grades.md) — related
-- [A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states](map-cat-unidimensional-factor-structure.md) — related
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related
 - [Chi-square difference tests show significant loading invariance constraints for Kansas Reading but all constraints significant for Michigan Mathematics](mgcfa-chi-square-difference-patterns-kansas-michigan.md) — related
 - [The 2020 norms report states the MAP Growth scale remains stable while status patterns shifted relative to the 2015 norms](map-growth-scale-stable-2020-norms.md) — related

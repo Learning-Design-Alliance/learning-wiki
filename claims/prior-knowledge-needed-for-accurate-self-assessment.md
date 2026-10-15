@@ -37,7 +37,7 @@ Learners need sufficient domain knowledge to accurately judge their own understa
 
 ## Subclaims
 
-`q4 i2` Across 22 meta-analyses of self-evaluated versus objectively measured ability, self-other agreement is only moderate (mean r=.29) and rises when the judgment is domain-specific and the performance task is familiar rather than novel — evidence that self-assessment accuracy depends on having enough grounded, task-specific experience/knowledge to judge against. [→ Zell & Krizan 2014](#zell-krizan-2014)
+`q4 i2` Across 22 meta-analyses of self-evaluated versus objectively measured ability, the correlation between self-evaluations and performance is only moderate (mean r=.29) and is stronger when the self-evaluation is domain-specific and the performance task is objective, familiar or low in complexity. These are correlational moderators: they fit, but do not establish, the idea that accuracy depends on task-specific knowledge or experience. [→ Zell & Krizan 2014](#zell-krizan-2014)
 
 `q2 i?` In a semester-long undergraduate course, students who scored highest on exams predicted and postdicted their performance accurately, and their accuracy grew across successive exams, while the lowest-performing students were grossly overconfident in both predicting and postdicting their scores — the students with the least command of the material were the least able to judge it. [→ Hacker et al. 2000](#hacker-et-al-2000)
 
@@ -49,7 +49,7 @@ Zell, E., & Krizan, Z. (2014). Do people have insight into their abilities? A me
 
 `q4 · meta-analysis of 22 meta-analyses` · `i2 · medium, mean r=.29 (SD=.11), individual meta-analytic effects .09–.63` · `n=22 meta-analyses` · `quant-synthesis · r?`
 
-A meta-synthesis pooling 22 published meta-analyses that each compared people's self-evaluations of ability (academic ability, intelligence, language competence, medical skills, sports ability, vocational skills) against objective performance measures (test scores, grades, supervisor ratings). The overall correlation between self-evaluation and performance was moderate rather than strong. Accuracy was significantly higher when the self-evaluation was specific to a defined domain rather than broad, and when the performance task was objective, familiar, or low in complexity — conditions under which a rater has more direct, concrete experience to calibrate against, consistent with prior domain knowledge/experience being a precondition for accurate [self-assessment](self-assessment-improves-self-regulated-learning.md).
+A meta-synthesis pooling 22 published meta-analyses that each compared people's self-evaluations of ability (academic ability, intelligence, language competence, medical skills, sports ability, vocational skills) against objective performance measures (test scores, grades, supervisor ratings). The overall correlation between self-evaluation and performance was moderate rather than strong. Accuracy was significantly higher when the self-evaluation was specific to a defined domain rather than broad, and when the performance task was objective, familiar, or low in complexity The synthesis reports these moderators of a correlation; it does not measure prior knowledge or show that knowledge or experience is necessary for, or causes, accurate [self-assessment](self-assessment-improves-self-regulated-learning.md). Reading familiarity as a stand-in for domain knowledge is this page's interpretation, not the authors' finding.
 
 ### Hacker et al. 2000
 

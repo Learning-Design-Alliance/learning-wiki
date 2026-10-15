@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: kraft-2018
     resource: "https://doi.org/10.3102/0034654318759268"
-    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
+    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kraft 2018
 
-Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
+Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
 `q2 · i?` · `quant-synthesis · r?`
 
@@ -56,5 +56,5 @@ Exploratory meta-analytic regressions across the 60 studies; the authors call th
 
 ## Related Claims
 
-- [Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
+- [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 -

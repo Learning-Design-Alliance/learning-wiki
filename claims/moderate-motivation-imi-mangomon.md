@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: tangkiengsirisin-2025
     resource: "https://doi.org/10.70730/UFRC4620"
-    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
+    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
     author: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tangkiengsirisin 2025
 
-Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
+Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
 
 `q2 · i?` · `causal · r1`
 
@@ -45,7 +45,7 @@ Descriptive analysis of a 22-item IMI questionnaire completed by the 21 particip
 
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related
-- [Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
+- [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
 - [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related
 - [The LLM evaluator score discriminates between simulated-student motivation profiles](llm-evaluator-discriminates-student-profiles.md) — related

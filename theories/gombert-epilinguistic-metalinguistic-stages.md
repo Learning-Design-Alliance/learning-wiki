@@ -39,7 +39,7 @@ The paper adopts Gombert's (1992) account in which children pass from an initial
 
 ### Claims
 
-- [Fluent bilingualism enhances metalinguistic awareness](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+W]
+- [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+W]
 
 ## Related Theories
 

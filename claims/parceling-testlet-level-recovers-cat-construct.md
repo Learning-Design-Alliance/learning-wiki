@@ -45,7 +45,7 @@ Simulation results at the testlet level (Tables 7 and 8): the article reports "C
 ## Related Claims
 - [The study examines how CAT test design and item bank distribution affect content coverage and test efficiency in a CCSS-aligned reading comprehension test](cat-design-and-bank-distribution-affect-coverage-and-efficiency.md) — related
 - [CAT data cannot be fit into factor models at the item level, making item-level construct validity investigation meaningless for CAT](cat-item-level-construct-recovery-impossible.md) — reports the opposite
-- [A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states](map-cat-unidimensional-factor-structure.md) — related
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
 - [MCAR item and response missingness in linear tests shows no differential effect on model fit across Designs 1 to 4](mcar-missingness-linear-tests-no-fit-effect.md) — related
 - [Parceling over-fits models: at the testlet level, data from more complex models fit well with simpler models](parceling-overfits-factor-models.md) — related
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related

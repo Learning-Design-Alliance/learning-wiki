@@ -20,8 +20,8 @@ sources:
     author: Clark, I
   - id: pollard-2025
     resource: "https://doi.org/10.24059/olj.v29i3.4555"
-    title: "Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555"
-    author: "Pollard, V. & Armatas, C"
+    title: "Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555"
+    author: "Pollard, V., Armatas, C., & Pepe, A."
   - id: baker-a-weisgrau-j
     resource: "https://doi.org/10.51388/20.500.12265/155"
     title: "Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155"
@@ -192,7 +192,7 @@ Following the information on the corrected item, unaided performance on a new it
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81-112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249. [https://doi.org/10.1007/s10648-011-9191-6](https://doi.org/10.1007/s10648-011-9191-6)
-- Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
+- Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555
 - Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
 - Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
 
@@ -293,7 +293,7 @@ The article recommends explicitly designing task-based formative feedback into a
 -
 
 ## Key Sources
-- Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
+- Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555
 -->
 
 <!-- merged 2026-10-15 from principles/prefer-feedback-loops-over-feedback-systems ("Prefer feedback loops over one-directional feedback systems when direct benefits for all participants matter"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

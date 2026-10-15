@@ -45,4 +45,4 @@ Multiple regression analysis in the 436-student study. The article reports that 
 ## Related Claims
 - [Higher irrational beliefs, obsessive attachment and anxiety accompany lower cognitive flexibility, while negligent attachment shows an unexpected positive relationship](direction-of-predictor-flexibility-relationships.md) — related
 - [Attachment styles, irrational beliefs and psychological symptoms jointly explain approximately 41% of the variance in university students' cognitive flexibility](psychosocial-variables-explain-41-percent-cognitive-flexibility.md) — a broader claim this one bears on
-- [Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility, together explaining 30% of variance](irrational-beliefs-obsessive-attachment-anxiety-predict-flexibility.md) — a narrower finding that bears on this claim
+- [Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility in one correlational study of university students](irrational-beliefs-obsessive-attachment-anxiety-predict-flexibility.md) — a narrower finding that bears on this claim

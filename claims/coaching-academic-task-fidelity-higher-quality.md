@@ -44,7 +44,7 @@ Review discussion comparing quality-indicator adherence across the 16 studies. T
 
 ## Related Claims
 
-- [Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
+- [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors](supervisory-coaching-mixed-teacher-student-outcomes.md) — related
 - [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — related
 - [Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed](coaching-maintenance-rarely-measured.md) — related

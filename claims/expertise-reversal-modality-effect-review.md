@@ -55,4 +55,4 @@ The review attributes this to Kalyuga et al. (2000), experiments on using indust
 ## Related Claims
 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
-- [Presentation pacing moderates the modality effect: large under system-paced conditions and absent under self-paced conditions](modality-effect-moderated-by-pacing.md) — related
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse](modality-effect-moderated-by-pacing.md) — related

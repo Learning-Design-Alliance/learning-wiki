@@ -50,7 +50,7 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
 - [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+M]
 - [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
-- [Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery](../claims/age-moderates-discovery-effects.md) [~W]
+- [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](../claims/age-moderates-discovery-effects.md) [~W]
 - [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](../claims/dependent-measure-moderates-discovery-effects.md) [~W]
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
 

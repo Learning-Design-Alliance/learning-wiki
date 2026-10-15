@@ -29,7 +29,7 @@ Explicit, teacher-led instruction — clear objectives, modeling, guided practic
 
 ## Subclaims
 
-`q4 i?` A meta-analysis of half a century of research on Direct Instruction curricula finds consistently positive, statistically significant effects on academic, ability and affective outcomes across reading, math, language and spelling. [→ Stockard et al. 2018](#stockard-et-al-2018)
+`q4 i?` A meta-analysis of half a century of research on Direct Instruction curricula finds positive estimated effects on academic, ability and affective outcomes across reading, math, language and spelling, all statistically significant except results from metaregressions involving affective outcomes. [→ Stockard et al. 2018](#stockard-et-al-2018)
 
 ## Evidence
 

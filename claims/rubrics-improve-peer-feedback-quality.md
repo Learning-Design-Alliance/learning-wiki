@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback"
+title: "In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,19 +28,20 @@ sources:
     rigour: "?"
 ---
 
-# Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback
+# In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1` · `q2`
 <!-- deprecated title (2026-10-05, overstated its evidence): Rubrics Improve Peer Feedback Quality -->
+<!-- title before 2026-10-15: Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback -->
 
 Rubrics — explicit criteria describing expected performance levels — guide peer reviewers toward specific, criterion-referenced comments rather than vague or purely affective feedback.
 
 ## Subclaims
 
-`q2 i?` A rubric guiding peer reviewers on what to attend to (feedback content categories) changed the substance of peer feedback compared with no rubric, though the same rubric-guided condition showed reduced reflective/divergent commentary. [→ Li et al. 2022](#li-et-al-2022)
+`q2 i?` A rubric guiding peer reviewers on what to attend to (feedback content categories) changed the proportions of peer feedback content categories compared with no rubric, though the authors conclude that the rubric may restrain students' reflective and divergent thinking (not reported as a measured feedback category). [→ Li et al. 2022](#li-et-al-2022)
 
-`q2 i?` Guided-rubric training helped MOOC writing-course peers differentiate quality levels (novice/intermediate/advanced) more successfully than no guidance, with the benefit concentrated on subjective, technically complex criteria and negligible for simple objective criteria. [→ Ashton And Davies 2015](#ashton-and-davies-2015)
+`q2 i?` Guided-rubric training helped MOOC writing-course peers differentiate quality levels (novice/intermediate/advanced) more successfully than no guidance, with the benefit greatest on subjective, technically complex and unfamiliar criteria; simple, objective criteria were less likely to be improved by rubric guidance. [→ Ashton And Davies 2015](#ashton-and-davies-2015)
 
 ## Evidence
 
@@ -48,17 +49,17 @@ Rubrics — explicit criteria describing expected performance levels — guide p
 
 Li, X., Zhou, X., & Zhang, Y. (2022). Exploring the impact of the rubric on peer feedback content quality in online learning. *Proceedings of the 7th International Conference on Distance Education and Learning*, 144–149. [doi:10.1145/3543321.3543344](https://doi.org/10.1145/3543321.3543344)
 
-`q2 · quasi-experimental comparison of rubric vs. no-rubric conditions` · `i? · no standardized effect size reported (Chi-square test of category proportions)` · `n=47` · `causal · r1`
+`q2 · comparison of rubric vs. no-rubric conditions (how students were assigned is not stated in the abstract)` · `i? · no standardized effect size reported (Chi-square test of category proportions)` · `n=47` · `causal · r1`
 
-A graduate "research methods in educational technology" course (N = 47) compared peer feedback on an online discussion board under two conditions: no rubric (control) and a peer-assessment rubric (experiment). Feedback messages were content-analyzed and compared by chi-square test on three category sets: judgments, feedback-content focus, and cognitive vs. metacognitive feedback type. The rubric condition produced significantly different proportions of feedback content across these categories, but the authors also report the rubric "restrained" reviewers' reflective and divergent thinking — a caution against reading the rubric's effect on content quality as uniformly positive.
+A graduate "research methods in educational technology" course (N = 47) compared peer feedback on an online discussion board under two conditions: no rubric (control) and a peer-assessment rubric (experiment). Feedback messages were content-analyzed and compared by chi-square test on three category sets: judgments, feedback-content focus, and cognitive vs. metacognitive feedback type. The rubric condition produced significantly different proportions of feedback content across these categories, but the authors also conclude the rubric could "restraint students' reflective thinking and divergent thinking" — a caution against reading the rubric's effect on content quality as uniformly positive.
 
 ### Ashton And Davies 2015
 
 Ashton, S., & Davies, R. S. (2015). Using scaffolded rubrics to improve peer assessment in a MOOC writing course. *Distance Education, 36*(3), 312–334. [doi:10.1080/01587919.2015.1081733](https://doi.org/10.1080/01587919.2015.1081733)
 
-`q2 · quasi-experimental comparison of guided vs. unguided peer raters` · `i? · no standardized effect size reported (multivariate factorial analysis of rating differences)` · `n=not stated in abstract` · `causal · r?`
+`q2 · comparison of guided vs. unguided peer raters (how students were assigned is not stated in the abstract)` · `i? · no standardized effect size reported (multivariate factorial analysis of rating differences)` · `n=not stated in abstract` · `causal · r?`
 
-In a MOOC writing course, the study compared students given "guided rubric" training on rating peer writing samples against students given no such guidance, using multivariate factorial analysis of their assessments. On average, unguided raters were less able to correctly place peer writing samples into novice/intermediate/advanced tiers than rubric-guided raters. The benefit of rubric guidance was concentrated on criteria that were subjective, technically complex, and unfamiliar to raters; for simple, objective criteria, rubric guidance made little difference — a boundary condition on the general claim.
+In a MOOC writing course, the study compared students given "guided rubric" training on rating peer writing samples against students given no such guidance, using multivariate factorial analysis of their assessments. On average, unguided raters were less able to correctly place peer writing samples into novice/intermediate/advanced tiers than rubric-guided raters. The benefit of rubric guidance was concentrated on criteria that were subjective, technically complex, and unfamiliar to raters; items addressing relatively simple, objective constructs "were less likely to be improved by rubric guidance" — a boundary condition on the general claim.
 
 ## Discussion
 

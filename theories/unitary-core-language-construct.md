@@ -16,7 +16,7 @@ sources:
 # Unitary language construct: vocabulary, grammar, and listening comprehension reflect a common language factor
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (2 for, 1 mixed, 2 against) · 2 studies (1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (2 for, 1 mixed, 2 against) · 2 studies (1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The review's first theoretical perspective holds that linguistic comprehension develops with high interdependence across domains and modalities. Citing longitudinal latent-variable studies, it reports that "Bornstein et al. (2014) found a unitary core language construct from early childhood to adolescence" and that Klem et al. (2015) found a unidimensional latent language factor defined by sentence repetition, vocabulary, and grammatical skills. A latent language factor explained 95% of the variation in listening comprehension (Lervåg et al., 2017). The review uses this to justify synthesizing effects across language outcome measures.

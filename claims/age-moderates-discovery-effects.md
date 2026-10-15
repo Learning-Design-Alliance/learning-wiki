@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery"
-description: "Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery"
+title: "Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children"
+description: "Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children"
 id: age-moderates-discovery-effects
 status: draft
 generated:
@@ -19,13 +19,15 @@ sources:
     rigour: 2
 ---
 
-# Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery
+# Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 
+<!-- title before 2026-10-15: Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery -->
+
 ## Subclaims
-`q3 i2` In the unassisted meta-analysis, the effect size for adolescents (d = -0.53) was significantly greater than for adults (d = -0.26); in the enhanced meta-analysis, adults' effect size exceeded children's, Q(1) = 7.64, p < .01. [→ Alfieri 2011](#alfieri-2011)
+`q3 i2` In the unassisted meta-analysis, the effect size for adolescents (d = -0.53) was significantly greater than for adults (d = -0.26); in the enhanced meta-analysis, adults' effect size exceeded children's, Q(1) = 7.64, p < .01; the larger-looking adult-adolescent difference was not significant. [→ Alfieri 2011](#alfieri-2011)
 
 ## Evidence
 
@@ -35,7 +37,7 @@ Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Disc
 
 `q3 · i2` · `quant-synthesis · r2`
 
-Age moderator analysis in the unassisted-discovery meta-analysis, Q(2) = 12.29, p < .01. All age groups showed significant advantages for explicit instruction; the quote shows adolescents (d = -0.53) were hurt more than adults (d = -0.26).
+Age moderator analysis in the unassisted-discovery meta-analysis, Q(2) = 12.29, p < .01. All age groups showed significant advantages for explicit instruction; the quote shows the effect size favoring explicit instruction was larger for adolescents (d = -0.53) than for adults (d = -0.26).
 
 > "Post hoc comparisons revealed that the mean effect size for adolescents ( d = –0.53) was significantly greater than the mean effect size for adults ( d = –0.26), Q(1) = 10.41, p = .001."
 

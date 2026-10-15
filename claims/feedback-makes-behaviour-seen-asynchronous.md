@@ -11,8 +11,8 @@ evidence_strength: weak
 sources:
   - id: pollard-2025
     resource: "https://doi.org/10.24059/olj.v29i3.4555"
-    title: "Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555"
-    author: "Pollard, V. & Armatas, C."
+    title: "Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555"
+    author: "Pollard, V., Armatas, C., & Pepe, A."
     q: 1
     i: "?"
     kind: design
@@ -31,11 +31,11 @@ sources:
 
 ### Pollard 2025
 
-Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
+Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555
 
 `q1 · i?` · `design · r2`
 
-Authors' interpretive argument from the case-study audit, addressing their third research question. They argue feedback on outputs lets asynchronous student behaviour be "seen" and would enhance learning analytics; no effect size is reported.
+Authors' interpretive argument from their audit of an eight-unit asynchronous online postgraduate course, addressing their third research question (the value of adding feedback to the ICAP Framework). They argue feedback on outputs lets asynchronous student behaviour be "seen" and would enhance learning analytics; no effect size is reported.
 
 > "we believe feedback to be a critical to allow students' behaviour to be "seen" in a learning mode where the teacher is not physically present. For many of the activities in the course, without an output that received feedback, the information about what the student did would be limited."
 

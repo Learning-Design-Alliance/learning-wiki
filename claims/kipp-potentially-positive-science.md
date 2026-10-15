@@ -14,7 +14,7 @@ sources:
     title: "Knowledge Is Power Program (KIPP). (2018). What Works Clearinghouse Intervention Report: Charter Schools. https://ies.ed.gov/ncee/wwc/InterventionReport/688"
     author: Knowledge Is Power Program (KIPP)
     q: 2
-    i: "?"
+    i: 1
     kind: quant-synthesis
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # KIPP charter schools have potentially positive effects on science achievement for middle and high school students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i1` small
 
 ## Subclaims
-`q2 i?` Two studies including 18,712 students reported positive and statistically significant effects on science achievement, with an average improvement index of +11 (range +10 to +13). [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)
+`q2 i1` Two studies including 18,712 students reported positive and statistically significant effects on science achievement, with an average improvement index of +11 (range +10 to +13). [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Knowledge Is Power Program (KIPP). (2018). What Works Clearinghouse Intervention Report: Charter Schools. https://ies.ed.gov/ncee/wwc/InterventionReport/688
 
-`q2 · i?` · `quant-synthesis · r2`
+`q2 · i1 · small effect, average effect size 0.29` · `quant-synthesis · r2`
 
-Two quasi-experimental studies (Tuttle et al. 2015 middle school QED and high school analysis) met standards with reservations; both reported statistically significant positive state standardized science test effects, yielding a "potentially positive effects" rating. No standardized effect size is printed, so impact is null.
+Two quasi-experimental studies (Tuttle et al. 2015 middle school QED and high school analysis) met standards with reservations; both reported statistically significant positive state standardized science test effects, yielding a "potentially positive effects" rating. Appendix C.3 prints the WWC-computed effect sizes: 0.25 (+10) for the middle school QED and 0.33 (+13) for the high school analysis, and 0.29 (+11) across both studies.
 
 > "In the t wo studies that reported findings, the estimated impact of the intervention on outcomes in the science achievement domain was positive and statistically significant."
 

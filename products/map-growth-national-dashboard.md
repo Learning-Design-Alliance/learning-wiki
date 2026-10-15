@@ -34,7 +34,7 @@ sources:
 # MAP Growth National Dashboard
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 11 claims (8 for, 3 mixed) · 12 studies (11 associational, 1 design), `q1`–`q2` · 0 of 12 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (8 for, 3 mixed) · 13 studies (12 associational, 1 design), `q1`–`q2` · 0 of 13 report an effect size · 10 claims rest on one study
 
 ## Description
 NWEA's dashboard software product that presents national student achievement and growth trend data from MAP Growth assessments.

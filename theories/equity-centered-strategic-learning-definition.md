@@ -37,7 +37,7 @@ The article defines equity-centered strategic learning as an organizational capa
 
 ### Claims
 
-- [The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership](../claims/cbsl-pilot-capacity-building-approach.md) [+W]
+- [The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership](../claims/cbsl-pilot-capacity-building-approach.md) [+W]
 
 ## Related Theories
 

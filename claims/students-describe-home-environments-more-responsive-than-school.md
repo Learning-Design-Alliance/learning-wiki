@@ -43,4 +43,4 @@ A qualitative virtual focus group with five students spanning elementary, middle
 
 
 ## Related Claims
-- [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](long-recorded-lectures-impeded-focus.md) — related
+- [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](long-recorded-lectures-impeded-focus.md) — related

@@ -22,7 +22,7 @@ sources:
 # Lindamood Phoneme Sequencing (LiPS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 13 claims (5 for, 5 mixed, 3 against) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 4 report an effect size · 13 claims rest on one study
+> **Evidence** · 13 claims (5 for, 5 mixed, 3 against) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 3 of 4 report an effect size · 13 claims rest on one study
 
 ## Description
 A branded phonological-awareness and decoding intervention developed by Lindamood-Bell Learning Processes for emergent and struggling readers, including students with dyslexia.

@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
-`q3 i?` In a multischool randomized study of first graders, schools assigned to Math Expressions and Saxon Math achieved significantly higher math achievement than schools assigned to Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics. [→ Agodini 2009](#agodini-2009)
+`q3 i?` In a multischool experimental study of first graders (the summary read does not say how schools were assigned), schools assigned to Math Expressions and Saxon Math achieved significantly higher math achievement than schools assigned to Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics. [→ Agodini 2009](#agodini-2009)
 
 ## Evidence
 

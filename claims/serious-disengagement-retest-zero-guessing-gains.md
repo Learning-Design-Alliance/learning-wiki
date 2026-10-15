@@ -35,7 +35,7 @@ Wise, S. (2019). The Relationship Between Test-Taking Disengagement and Performa
 
 `q3 · i?` · `associational · r2`
 
-Observational analysis of same-day retests shown in Figures 1-4: students serious (30% or more) rapid-guessing initially but showing "zero rapid guesses on the retest" averaged large RIT gains; gains exceeded typical standard errors of roughly 3.5 points in Reading and 3.0 in Math. No inferential statistics or effect sizes are printed.
+Observational analysis of retests taken no more than one day after the initial test, shown in Figures 1-4: students serious (30% or more) rapid-guessing initially but showing "zero rapid guesses on the retest" averaged large RIT gains; gains exceeded typical standard errors of roughly 3.5 points in Reading and 3.0 in Math. No inferential statistics or effect sizes are printed.
 
 > "For each of the figures, less rapid guessing on the retest was associated with a higher positive RIT score difference. For example, when there were zero rapid guesses on the retest, the RIT differences tended to be large, averaging around 6 points for the two Reading tests and about 12 points for the two Math tests."
 

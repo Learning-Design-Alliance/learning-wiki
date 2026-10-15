@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects
-description: Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects
+title: "Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction"
+description: "Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction"
 id: coaching-complementary-elements-moderators
 status: draft
 generated:
@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: kraft-2018
     resource: "https://doi.org/10.3102/0034654318759268"
-    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
+    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 2
     i: "?"
@@ -19,7 +19,7 @@ sources:
     rigour: 2
   - id: kraft-2018-2
     resource: "https://doi.org/10.3102/0034654318759268"
-    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
+    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 2
     i: "?"
@@ -27,10 +27,12 @@ sources:
     rigour: 2
 ---
 
-# Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects
+# Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+
+<!-- title before 2026-10-15: Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects -->
 
 ## Subclaims
 `q2 i?` Pairing coaching with group trainings is associated with a 0.31 SD larger effect on instruction and 0.12 SD larger on achievement. [→ Kraft 2018](#kraft-2018)
@@ -40,7 +42,7 @@ sources:
 
 ### Kraft 2018
 
-Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
+Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
 `q2 · i?` · `quant-synthesis · r2`
 
@@ -50,7 +52,7 @@ Exploratory meta-analytic regression (Table 4) across the 60 causal studies; the
 
 ### Kraft 2018 (2)
 
-Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
+Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
 `q2 · i?` · `quant-synthesis · r2`
 

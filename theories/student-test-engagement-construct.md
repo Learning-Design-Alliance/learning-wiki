@@ -16,7 +16,7 @@ sources:
 # Student test engagement as a measurable construct affecting testing-day effort
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (3 theoretical, 1 causal), `q1`–`q2` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 5 studies (3 theoretical, 1 causal, 1 associational), `q1`–`q2` · 0 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief treats student test engagement as a construct that varies during a test session and shapes the effort students give on testing day. It asks "How do you help make sure students give their best effort on testing day?" and reports "New research on student test engagement," framing disengagement as an observable, monitorable state that interventions such as proctor notification can address.

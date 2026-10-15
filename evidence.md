@@ -9,7 +9,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | | |
 |---|---|
 | Claims | 15,385 |
-| Evidence entries | 18,325 |
+| Evidence entries | 18,326 |
 | Distinct studies | 4,605 |
 | Claims resting on one study | 14,943 (97%) |
 | Claims with no coded evidence | 0 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 680 (15%) | 2,898 (63%) | 912 (20%) | 115 (2%) |
+| 681 (15%) | 2,896 (63%) | 913 (20%) | 115 (2%) |
 
-**Studies per claim:** 0: 0, 1: 14,943, 2: 365, 3: 62, 4 or more: 15.
+**Studies per claim:** 0: 0, 1: 14,943, 2: 364, 3: 63, 4 or more: 15.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 

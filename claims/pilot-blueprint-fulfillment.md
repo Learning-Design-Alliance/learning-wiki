@@ -44,7 +44,7 @@ J. Patrick Meyer, Ann Hu, Sylvia Li. (2023). Content Proximity Spring 2022 Pilot
 
 `q2 · i?` · `causal · r2`
 
-Analysis of extant pilot test events against blueprints showed in K-2 math "over 95% of test events achieved the target number items per instructional area"; 2-5 and 6+ bands were at least 90% within 2 items of target.
+Analysis of extant pilot test events against blueprints showed in K-2 math "over 95% of test events achieved the target number items per instructional area"; in math, 2-5 and 6+ bands had 90% or more of test events within 2 items of target. Reading tests in the 2-5 and 6+ bands varied more: 65% to 80% of test events were within two items of target per instructional area (81% to 93% within three).
 
 > "In the K-2 band for math, over 95% of test events achieved the target number items per instructional area and 100% were within 1 item of the target number."
 

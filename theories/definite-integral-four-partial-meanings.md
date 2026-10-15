@@ -9,8 +9,8 @@ generated:
 sources:
   - id: burgos-2021
     resource: "https://doi.org/10.17583/redimat.2021.6778"
-    title: "Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778"
-    author: "Burgos, M., Bueno, S., Godino, J.D., & Pérez, O"
+    title: "Burgos, M., Bueno, S., Pérez, O., & Godino, J. D. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778"
+    author: "Burgos, M., Bueno, S., Pérez, O., & Godino, J. D."
 ---
 
 # Four partial meanings of the definite integral articulated as a global meaning
@@ -49,4 +49,4 @@ The article proposes that instruction should distinguish four partial meanings o
 - [Plan integral instruction around the articulation of partial meanings, since the intuitive meaning alone is insufficient](../principles/sequencing.md)
 
 ## Key Sources
-- Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
+- Burgos, M., Bueno, S., Pérez, O., & Godino, J. D. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778

@@ -66,7 +66,7 @@ Sequential invariance tests met Chen's criteria: metric transition ΔCFI = −0.
 
 ## Related Claims
 - [Procedural justice shows a within-person association with subsequent intrinsic motivation that is numerically larger than its association with extrinsic motivation, though the coefficient difference is not statistically significant](procedural-justice-intrinsic-motivation-within-person.md) — related
-- [The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)](map-cat-longitudinal-construct-invariance-ten-states.md) — related
+- [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](map-cat-longitudinal-construct-invariance-ten-states.md) — related
 - [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](structural-similarity-unsupported-ai-motivation-profiles.md) — related
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
 - [Three latent profiles of psychological adaptation to AI-assisted Japanese learning (maladaptive, moderate, positive) are identified at each of three waves](three-adaptation-profiles-ai-japanese-learning.md) — related

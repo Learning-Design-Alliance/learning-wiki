@@ -34,7 +34,7 @@ sources:
 # KIPP
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 16 claims (15 for, 1 mixed) · 8 studies (7 causal, 1 theoretical), `q2`–`q3` · 0 of 8 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (15 for, 1 mixed) · 8 studies (7 causal, 1 theoretical), `q2`–`q3` · 1 of 8 report an effect size · 13 claims rest on one study
 
 ## Description
 KIPP is a network of public charter schools operated by the KIPP Foundation and affiliated local KIPP organizations, serving students through its school model.

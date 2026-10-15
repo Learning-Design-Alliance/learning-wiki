@@ -75,7 +75,7 @@ Practicing or reviewing material across multiple sessions separated in time prod
 
 `q3 i?` With 128 Japanese college students learning 20 English–Japanese word pairs, the amount of spacing (massed, short, medium or long) had a significant main effect that the author reports as producing large effect sizes. [→ Nakata 2015](#nakata-2015)
 
-`q4 i?` A quantitative synthesis of the verbal-recall literature found spaced practice superior to massed practice, with the advantage increasing as the retention interval lengthened. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
+`q4 i?` A quantitative synthesis of the verbal-recall literature found spaced practice superior to massed practice at every retention interval examined, from under a minute to over 30 days, and found that the gap between study sessions giving the best retention increased as the retention interval lengthened. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
 
 `q3 i?` The optimal gap scales with how long the material must be retained: gaps that maximise recall at one week are too short for a test months later. There is no fixed best interval to configure. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
 
@@ -93,7 +93,7 @@ Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distrib
 
 `q4 · meta-analysis` · `i? · no standardised effect size for massed vs spaced; accuracy difference 36.7% vs 47.3% correct` · `n=271 comparisons / 254 studies / 14,811 participants` · `quant-synthesis · r?`
 
-A quantitative review of 839 assessments of distributed practice in 317 experiments from 184 articles, all using verbal recall tasks. For the spacing comparison it set massed study (one uninterrupted presentation or a lag under one second) against the shortest spaced interval in each study, with study time held equal. Averaged over all retention intervals, final recall was 36.7% after massed and 47.3% after spaced study (t(540) = 6.6, p < .001). A spacing benefit appeared in every retention-interval band, from under a minute to over 30 days. Effect sizes could not be pooled for this comparison because too few studies reported the data needed. Most of the data come from young adults (714 of 839 performance differences), so evidence for children's long-term retention is thin. The authors say they "cannot say for certain" that it benefits.
+A quantitative review of 839 assessments of distributed practice in 317 experiments from 184 articles, all using verbal recall tasks. For the spacing comparison it set massed study (one uninterrupted presentation or a lag under one second) against the shortest spaced interval in each study, with study time held equal. Averaged over all retention intervals, final recall was 36.7% after massed and 47.3% after spaced study (t(540) = 6.6, p < .001). A spacing benefit appeared in every retention-interval band, from under a minute to over 30 days. Effect sizes could not be pooled for this comparison because too few studies reported the data needed. Most of the data come from young adults (Table 10 counts 714 performance differences for ages 18–35, against 29 preschool, 26 elementary, 29 junior high and 14 high school), so evidence for children's long-term retention is thin: the authors say they "cannot say for certain that children's long-term memory will benefit from distributed practice."
 
 <!-- merged 2026-10-15 from spaced-repetition-improves-retention: that page's entry for this study, which differed from the one above, kept verbatim.
 ### Cepeda 2006

@@ -44,7 +44,7 @@ A comparison of oversubscribed and non-oversubscribed charter middle schools in 
 
 ## Related Claims
 - [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related
-- [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](charter-consortium-effective-school-identification-method.md) — related
+- [Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](charter-consortium-effective-school-identification-method.md) — related
 - [On average, charter middle schools' impacts on student achievement were negative but not statistically significant](charter-middle-schools-average-achievement-impacts-negative-nonsignificant.md) — related
 - [Charter middle school impacts were more positive for more disadvantaged schools and students and more negative for the more advantaged](charter-impacts-more-positive-for-disadvantaged-students.md) — related
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related

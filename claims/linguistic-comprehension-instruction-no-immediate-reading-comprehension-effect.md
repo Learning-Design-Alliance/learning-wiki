@@ -14,7 +14,7 @@ sources:
     title: "Rogde K, Hagen ÅM, Melby‐Lervåg M, Lervåg A. (2019). The effect of linguistic comprehension instruction on generalized language and reading comprehension skills: A systematic review. Campbell Systematic Reviews. https://doi.org/10.1002/cl2.1059"
     author: Rogde K, Hagen ÅM, Melby‐Lervåg M, Lervåg A.
     q: 3
-    i: "?"
+    i: 0
     kind: quant-synthesis
     rigour: "?"
 ---
@@ -22,10 +22,10 @@ sources:
 # Linguistic comprehension instruction shows no clear immediate effect on generalized reading comprehension outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` Linguistic comprehension instruction has no immediate effect on generalized outcomes of reading comprehension in the trials included in this review. [→ Rogde K 2019](#rogde-k-2019)
+`q3 i0` The review found no clear evidence of an immediate effect of linguistic comprehension instruction on generalized reading comprehension outcomes in the trials it included: the pooled posttest effect was close to zero and not significant (g = 0.05, 95% CI [−0.01, 0.12], p = .13, 16 effect sizes), which does not show the true effect is zero. [→ Rogde K 2019](#rogde-k-2019)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Rogde K, Hagen ÅM, Melby‐Lervåg M, Lervåg A. (2019). The effect of linguistic comprehension instruction on generalized language and reading comprehension skills: A systematic review. Campbell Systematic Reviews. https://doi.org/10.1002/cl2.1059
 
-`q3 · i?` · `quant-synthesis · r?`
+`q3 · i0 · negligible, g=0.05 [−0.01, 0.12], p=.13` · `quant-synthesis · r?`
 
-Meta-analytic synthesis across the 43 included RCTs and QEs. The review reports "no clear evidence of effect" on general reading comprehension outcomes; no pooled effect size or test statistic for this null finding is printed in the available text, and equivalence was not tested.
+Meta-analytic synthesis across the 43 included RCTs and QEs. The review reports "no clear evidence of effect" on general reading comprehension outcomes. Its Table 6 gives the immediate (posttest) pooled estimate for reading comprehension as g = 0.05, 95% CI [−0.01, 0.12], p = .13, from 16 effect sizes (9,758 treatment, 8,045 control), with heterogeneity (I² = 59.87); equivalence was not tested, so this is an absence of a detected effect rather than evidence of none.
 
 > "However, there was no clear evidence of effect of linguistic comprehension instruction on general reading comprehension outcomes from the type of trials included in this review."
 

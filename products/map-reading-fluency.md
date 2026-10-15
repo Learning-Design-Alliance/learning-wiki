@@ -60,7 +60,7 @@ MAP Reading Fluency is NWEA's online adaptive assessment for pre-K through grade
 
 ### Claims
 - [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](../claims/word-recognition-fluency-predicts-comprehension-grades-1-3.md) [+W]
-- [Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks](../claims/sentence-reading-fluency-routing-threshold.md) [+M]
+- [In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks](../claims/sentence-reading-fluency-routing-threshold.md) [+M]
 - [Adaptive routing and comprehension-based passage leveling structure the MAP Reading Fluency assessment](../claims/map-rf-adaptive-routing-and-passage-leveling.md) [+M]
 - [NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension](../claims/map-rf-theory-action-overarching-goal.md) [+W]
 - [MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021](../claims/map-rf-2020-21-operational-scale.md) [+M]

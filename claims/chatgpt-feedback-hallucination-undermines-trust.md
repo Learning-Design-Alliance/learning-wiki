@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis"
-description: "ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis"
+title: "In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis"
+description: "In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis"
 id: chatgpt-feedback-hallucination-undermines-trust
 status: draft
 generated:
@@ -27,14 +27,16 @@ sources:
     rigour: "?"
 ---
 
-# ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis
+# In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
+<!-- title before 2026-10-15: ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis -->
+
 ## Subclaims
-`q2 i?` ChatGPT's immediacy and alternative interpretations broadened students' thinking in statistical analysis. [→ Xie 2025](#xie-2025)
-`q2 i?` Perceived hallucination in ChatGPT answers hindered deep learning and undermined trust in complex data analysis. [→ Xie 2025 (2)](#xie-2025-2)
+`q2 i?` In the ChatGPT feedback group, one student (Mary) valued its immediacy and another (John) said its alternative interpretations of data broadened his thinking in statistical analysis. [→ Xie 2025](#xie-2025)
+`q2 i?` One student (Tina) said ChatGPT's answers were "often made up" and that she did not fully trust it for complex data analysis; the authors file this under a theme of hallucination hindering deep learning and undermining trust. It is her perception, not a measured effect. [→ Xie 2025 (2)](#xie-2025-2)
 
 ## Evidence
 
@@ -54,7 +56,7 @@ Xie, X., Zhang, L. J., & Wilson, A. J. (2025). Comparing ChatGPT Feedback and Pe
 
 `q2 · i?` · `qualitative · r?`
 
-Interview response from Tina, a ChatGPT feedback participant, coded under hallucination hindering deep learning and undermining trust; she reports answers are "often made up".
+Interview response from Tina, one of three students in the ChatGPT feedback group, which the authors code under the theme "hallucination hindering deep learning and undermining trust"; she reports answers are "often made up". The study reports her perception; it does not check whether the answers were wrong or measure an effect on learning.
 
 > "The answers given by ChatGPT are often made up and not based on anything solid, so I don't fully trust it to handle complex data analysis"
 

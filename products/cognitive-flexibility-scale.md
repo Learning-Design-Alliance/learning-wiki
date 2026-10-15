@@ -30,7 +30,7 @@ A 19-item adjective-pair self-report assessment developed by Bilgin to measure i
 ### Claims
 - [Higher irrational beliefs, obsessive attachment and anxiety accompany lower cognitive flexibility, while negligent attachment shows an unexpected positive relationship](../claims/direction-of-predictor-flexibility-relationships.md) [+W]
 - [Hostility and afraid attachment do not meaningfully predict cognitive flexibility, while the other variables do](../claims/hostility-afraid-attachment-null-predictors-flexibility.md) [+W]
-- [Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility, together explaining 30% of variance](../claims/irrational-beliefs-obsessive-attachment-anxiety-predict-flexibility.md) [+W]
+- [Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility in one correlational study of university students](../claims/irrational-beliefs-obsessive-attachment-anxiety-predict-flexibility.md) [+W]
 - [Attachment styles, irrational beliefs and psychological symptoms jointly explain approximately 41% of the variance in university students' cognitive flexibility](../claims/psychosocial-variables-explain-41-percent-cognitive-flexibility.md) [+W]
 
 ## Related Products and Programmes

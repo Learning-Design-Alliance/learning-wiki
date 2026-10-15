@@ -10,7 +10,7 @@ generated:
 sources:
   - id: kraft-2018
     resource: "https://doi.org/10.3102/0034654318759268"
-    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
+    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D
 ---
 
@@ -43,4 +43,4 @@ In the policy discussion, the authors recommend that given the tens of billions 
 -
 
 ## Key Sources
-- Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
+- Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268

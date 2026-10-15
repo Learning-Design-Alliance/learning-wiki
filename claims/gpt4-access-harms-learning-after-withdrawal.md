@@ -149,7 +149,7 @@ Reshaping Undergraduate Computer Science Education in the Generative AI Era. (20
 
 `q2 · i?` · `qualitative · r1`
 
-The whitepaper reports this second-hand, citing Bastani et al.: a randomized controlled trial with nearly 1,000 students in which "unrestricted GPT -4 access" raised practice performance 48% but exam scores fell 17% once AI was removed. No effect size is printed, so impact is null.
+The whitepaper reports this second-hand, citing Bastani et al.: a randomized controlled trial with nearly 1,000 students in which "unrestricted GPT -4 access" raised practice performance 48% but exam scores fell 17% once AI was removed. The whitepaper does not name the students' level or subject in this passage; its reference list gives the trial's title as "Generative AI without guardrails can harm learning: Evidence from high school mathematics". The 48% and 17% are percentage differences, not a d-family effect size, so impact is coded `i?` (not reported), which is not a null effect.
 
 > "Bastani et al. [3] conducted a randomized controlled trial with nearly 1,000 students and found that unrestricted GPT -4 access, while improving practice performance by 48%, led to a 17% decline in exam scores when AI was subsequently removed."
 
@@ -159,7 +159,7 @@ Zemin Guo, Wenhui Li, Laure Lu Chen, Qianru Liang, & Yuxuan Wu. (2026). Reconcep
 
 `q1 · i?` · `review · r2`
 
-The review attributes this finding to Bastani et al. (2025) in its micro-level ecology section, using it to illustrate the performance–mastery distinction: AI may inflate observable performance "without necessarily producing durable acquisition." The underlying study's design was not read for this extraction.
+The review attributes this finding to Bastani et al. (2025) in its micro-level ecology section, using it to illustrate the performance–mastery distinction: AI may inflate observable performance "without necessarily producing durable acquisition." The review names neither the model (GPT-4), the subject, the students' level nor an unrestricted-access condition; it says only "generative AI", and its reference list gives the study as Bastani et al. (2025), "Generative AI without guardrails can harm learning: Evidence from high school mathematics". The underlying study's design was not read for this extraction.
 
 > "Bastani et al. (2025) found that, relative to traditional instruction, generative AI could raise students' immediate performance but impair delayed exam scores when AI access is removed."
 
@@ -169,7 +169,7 @@ Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., De
 
 `q2 · i?` · `theoretical · r3`
 
-The paper reports, citing a large randomised experiment in high school mathematics, that AI access improved in-task problem solving but harmed durable independent learning after removal. No effect size is printed in the supplied text.
+The paper reports, citing a large randomised experiment in high school mathematics (its reference [10], Bastani et al., 2025), that AI access improved in-task problem solving but harmed durable independent learning after removal. It calls the tool only "an AI assistant": it does not name GPT-4 or say access was unrestricted. No effect size is printed in the supplied text.
 
 > "students given access to an AI assistant showed improved problem-solving during learning but suffered significant harm to their durable, independent learning once the AI was removed"
 

@@ -12,7 +12,7 @@ evidence_strength: strong
 sources:
   - id: kraft-2018
     resource: "https://doi.org/10.3102/0034654318759268"
-    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
+    title: "Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268"
     author: Kraft, M.A., Blazar, D., Hogan, D.
     q: 4
     i: 2
@@ -45,7 +45,7 @@ sources:
 
 ### Kraft 2018
 
-Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teaching coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
+Kraft, M.A., Blazar, D., Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. Review of Educational Research, 88(4), 547-588. https://doi.org/10.3102/0034654318759268
 
 `q4 · i2` · `quant-synthesis · r?`
 
@@ -70,7 +70,7 @@ The report's literature review attributes this to a recent meta-analysis of "60 
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Kraft 2018](https://doi.org/10.3102/0034654318759268) | q2 / q4 · quant-synthesis · r? | i2; i0 · d=0.18 (below 0.2); i0 · d=0.12 (below 0.2); i? | this claim; [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD acro](coaching-pooled-achievement-effect-0-18-sd.md) (supports); [Pairing coaching with group trainings and instructional materials is associated with large](coaching-complementary-elements-moderators.md) (qualifies); [Coaching effects on instruction and achievement are positively correlated, but large instr](instruction-achievement-weak-link-coaching.md) (qualifies); [Coaching program effects shrink substantially at scale: effectiveness trials of larger pro](coaching-scale-up-diminishing-effects.md) (qualifies) |
+| [Kraft 2018](https://doi.org/10.3102/0034654318759268) | q2 / q4 · quant-synthesis · r? | i2; i0 · d=0.18 (below 0.2); i0 · d=0.12 (below 0.2); i? | this claim; [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD acro](coaching-pooled-achievement-effect-0-18-sd.md) (supports); [Pairing coaching with group trainings is associated with larger effects on instruction and](coaching-complementary-elements-moderators.md) (qualifies); [Coaching effects on instruction and achievement are positively correlated, but large instr](instruction-achievement-weak-link-coaching.md) (qualifies); [Coaching program effects shrink substantially at scale: effectiveness trials of larger pro](coaching-scale-up-diminishing-effects.md) (qualifies) |
 | [Schachner 2024](https://doi.org/10.54300/984.909) | q2 · qualitative · r2 | i? | this claim |
 | Carmouche 2018 | q2 · review · r3 | i? | [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) (supports); [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies rep](supervisory-coaching-mixed-teacher-student-outcomes.md) (qualifies) |
 | [Calor et al. 2022](https://doi.org/10.1080/10508406.2021.2024834) | q3 · causal · r1 | i? | [Group-level scaffolding training increases teacher process support and student participati](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) (supports) |

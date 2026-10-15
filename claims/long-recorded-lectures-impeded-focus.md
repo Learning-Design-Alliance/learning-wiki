@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated
-description: Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated
+title: Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos
+description: Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos
 id: long-recorded-lectures-impeded-focus
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated
+# Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+<!-- title before 2026-10-15: Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated -->
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -36,7 +37,7 @@ Means, B., Peters, V., Neisler, J., & Griffiths, R. (2020). STEM Courses During 
 
 `q1 · i?` · `qualitative · r2`
 
-Case study data: a biology student described retaining little across 20-minute viewing stretches, while a student in a course where the instructor split lecture material into about eight shorter videos appreciated that choice, noting a hearing disability made re-watching easier.
+Case study data: a biology student described retaining little across 20-minute viewing stretches, while a student in a different biology course, where the instructor split lecture material into about eight shorter videos, appreciated that choice, saying that with a hearing disability "having one long lecture wouldn't have worked". These are individual students' accounts from case studies, not a measure of how widely shorter segments were appreciated.
 
 > "A number of students in interviews and focus groups commented on the length of recorded course lecture material as an impediment to maintaining focus on course content."
 

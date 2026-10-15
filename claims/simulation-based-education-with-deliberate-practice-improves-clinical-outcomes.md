@@ -48,7 +48,7 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.71 | this claim |
-| [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes ~1.09–1.20 for knowledge/skills/behaviors | [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) (qualifies) |
+| [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes 1.09–1.20 for knowledge and skills; 0.79–0.81 for behaviors | [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) (qualifies) |
 | Do 2024 | q2 · causal · r1 | i? | [Deliberate practice interventions produce higher real estate licensing exam pass rates tha](deliberate-practice-raises-licensing-pass-rate.md) (supports) |
 <!-- synthesis:end -->
 

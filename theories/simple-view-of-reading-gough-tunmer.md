@@ -16,7 +16,7 @@ sources:
 # Simple View of Reading: reading comprehension as the product of decoding and linguistic comprehension
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Simple View of Reading is a theoretical model of reading comprehension that the review adopts as a core framework. It "presents reading comprehension as the product of decoding and linguistic comprehension skills and is formalized as the equation 'Decoding × Linguistic comprehension = Reading Comprehension.'" Within this model, linguistic comprehension is an important underpinning of reading comprehension beyond word-level reading, and becomes an essential predictor as decoding is mastered. The review uses it to motivate examining transfer from language instruction to reading outcomes.

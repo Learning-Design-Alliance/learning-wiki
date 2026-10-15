@@ -44,7 +44,7 @@ Leones, T., Kamdar, D., Huynh, K., Gedney, M., & Dominguez, X. (2021). Splash an
 
 `q2 · i?` · `design · r2`
 
-Survey data from the complete data sample in the station study. The one family not reporting use at survey later reported using the app during the interview, perhaps indicating they tried it after the survey.
+Survey and interview data from the complete data sample in the station study (the 29 families who completed both the survey and the interview). App use (96.55%) comes from the survey; the one family not reporting use at survey later reported using the app during the interview, perhaps indicating they tried it after the survey. The helpfulness figure comes from the interviews: "Almost all (96.55%) families thought the app helped them and their child/children learn science and have rich conversations."
 
 > "Almost all (96.55%) of the participating families reported using the app in the survey. The one parent/caregiver that indicated not using the app in the survey subsequently reported using the app and some of its features during the interview"
 

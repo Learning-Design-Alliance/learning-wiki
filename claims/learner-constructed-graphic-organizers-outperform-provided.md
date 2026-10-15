@@ -43,7 +43,7 @@ The hypothesis that learners who construct their own graphic organizers (concept
 
 `q4 i2` A meta-analysis of 142 effect sizes finds that creating concept maps (g = 0.72) shows a larger benefit over its comparison conditions than studying provided concept maps (g = 0.43), but this is a moderator contrast across different comparisons, not a head-to-head test of constructing versus studying. [→ Schroeder et al. 2018](#schroeder-et-al-2018)
 
-`q3 i2` In three direct experiments with college readers of a textbook passage, author-provided graphic organizers beat learner-constructed ones on transfer (d = 0.24 ns, 0.43, 0.84, with the gap growing as the construction task got simpler), with no difference on retention, which contradicts the claim for this setting. [→ Stull & Mayer 2007](#stull-mayer-2007)
+`q3 i2` In three direct experiments with readers of a passage, author-provided graphic organizers beat learner-constructed ones on transfer (d = 0.24 ns, 0.43, 0.84, with the gap growing as the construction task got simpler), with no significant differences on retention, which contradicts the claim for this setting. [→ Stull & Mayer 2007](#stull-mayer-2007)
 
 ## Evidence
 
@@ -61,7 +61,7 @@ Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewin
 
 `q3 · three peer-reviewed experiments` · `i2 · transfer favoured provided organizers, d=0.24 (ns), 0.43, 0.84` · `n=3 experiments (participant counts not in the abstract)` · `causal · r?`
 
-In three experiments, learners read a passage that came either with author-provided [graphic organizers](../claims/graphic-organizers-support-novice-comprehension.md) or with space or templates for building their own, then took retention and transfer tests. The construction task went from most complex (27 organizers built in margin space) to least complex (10 templates). On transfer the provided-organizer group did better every time: d = 0.24 (not significant), 0.43 (p < .05) and 0.84 (p < .01). Retention did not differ. The authors read this through [cognitive load theory](../theories/cognitive-load-theory.md): building the organizers added extraneous load that got in the way of generative processing. This directly contradicts the claim for studying a text passage.
+In three experiments, learners read a passage that came either with author-provided [graphic organizers](../claims/graphic-organizers-support-novice-comprehension.md) or with space or templates for building their own, then took retention and transfer tests. The construction task went from most complex (27 organizers built in margin space) to least complex (10 templates). On transfer the provided-organizer group did better every time: d = 0.24 (not significant), 0.43 (p < .05) and 0.84 (p < .01). On retention there were no significant differences. The authors say the results are consistent with [cognitive load theory](../theories/cognitive-load-theory.md), which posits that excessive activity can create extraneous cognitive load that disrupts generative processing; extraneous load itself is not reported as measured in the abstract. This directly contradicts the claim for studying a text passage.
 
 ## Studies bearing on this claim
 

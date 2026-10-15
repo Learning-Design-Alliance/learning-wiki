@@ -53,7 +53,7 @@ Because working memory is severely limited and attention is selective, instructi
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](../claims/long-recorded-lectures-impeded-focus.md) [+W]
+- [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](../claims/long-recorded-lectures-impeded-focus.md) [+W]
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](../claims/auto-updates-drew-users-from-explanations.md) [-W]
 - [Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time](../claims/part-whole-coordination-preserves-initial-idea.md) [+W]
 

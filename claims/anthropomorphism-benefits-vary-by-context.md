@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations
-description: Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations
+title: A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations
+description: A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations
 id: anthropomorphism-benefits-vary-by-context
 status: draft
 generated:
@@ -13,19 +13,21 @@ sources:
     resource: "https://doi.org/10.3389/fcogn.2026.1786256"
     title: "Phillips, E. K., & de Visser, E. J. (2026). Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction. Frontiers in Cognition. https://doi.org/10.3389/fcogn.2026.1786256"
     author: "Phillips, E. K., & de Visser, E. J."
-    q: 2
+    q: 1
     i: "?"
     kind: theoretical
     rigour: 3
 ---
 
-# Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations
+# A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Evidence** · 1 study · theoretical `r3` · `q1`
+
+<!-- title before 2026-10-15: Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations -->
 
 ## Subclaims
-`q2 i?` Meta-analytic evidence suggests anthropomorphism can meaningfully benefit human-robot interaction, with effects varying substantially across task contexts, application domains, and design implementations. [→ Phillips 2026](#phillips-2026)
+`q1 i?` A conceptual framework paper states, citing Roesler et al. (2021), that meta-analytic evidence suggests anthropomorphism can meaningfully benefit human-robot interaction, with effects varying substantially across task contexts, application domains, and design implementations. [→ Phillips 2026](#phillips-2026)
 
 ## Evidence
 
@@ -33,9 +35,9 @@ sources:
 
 Phillips, E. K., & de Visser, E. J. (2026). Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction. Frontiers in Cognition. https://doi.org/10.3389/fcogn.2026.1786256
 
-`q2 · i?` · `theoretical · r3`
+`q1 · i?` · `theoretical · r3`
 
-The review reports, citing Roesler et al. (2021), a meta-analysis finding anthropomorphism can benefit HRI with substantial moderator variation across contexts and designs. The review does not print pooled effect sizes, so no magnitude is reported.
+A conceptual framework paper distinguishing humanlikeness (a design property) from anthropomorphism (a psychological attribution); it is not an empirical review and reports no data of its own. In passing it cites a meta-analysis (Roesler et al., 2021) as finding that anthropomorphism can benefit HRI with substantial moderator variation across contexts and designs. The paper prints no pooled effect size, so no magnitude is reported; the meta-analysis itself is the primary evidence for this claim.
 
 > "meta-analytic evidence suggests that anthropomorphism can meaningfully benefit human–robot interaction, and that these effects vary substantially across task contexts, application domains, and design implementations, highlighting the importance of moderators in this process (Roesler et al., 2021)."
 

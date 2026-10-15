@@ -11,7 +11,7 @@ generated:
 sources:
   - id: tangkiengsirisin-2025
     resource: "https://doi.org/10.70730/UFRC4620"
-    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
+    title: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620"
     author: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P"
 ---
 
@@ -28,7 +28,7 @@ Mangomon is a CEFR-based role-playing gamification mobile application developed 
 
 ### Claims
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](../claims/cefr-band-shift-business-vocabulary-mangomon.md) [+W]
-- [Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](../claims/mangomon-rpg-gamification-improves-business-vocabulary.md) [+W]
+- [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](../claims/mangomon-rpg-gamification-improves-business-vocabulary.md) [+W]
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](../claims/moderate-motivation-imi-mangomon.md) [+W]
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](../claims/rpg-mechanics-not-yet-serve-autonomy.md) [-W]
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](../claims/gamification-raises-motivation-satisfaction.md) [+W]
@@ -37,7 +37,7 @@ Mangomon is a CEFR-based role-playing gamification mobile application developed 
 -
 
 ## Key Sources
-- Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
+- Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
 
 <!-- merged 2026-10-10 from elements/mangomon-rpg-language-app ("Mangomon: a CEFR-based role-playing gamification mobile application for out-of-class business English vocabulary learning"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -82,5 +82,5 @@ Mangomon is a gamified mobile application developed by a Thai software company w
 - [Games](../strategies/games.md)
 
 ## Key Sources
-- Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
+- Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of role-playing gamification on business vocabulary learning and motivation: A study of CEFR-based language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
 -->

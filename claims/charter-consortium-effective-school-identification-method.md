@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year."
-description: "A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year."
+title: "Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year."
+description: "Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year."
 id: charter-consortium-effective-school-identification-method
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.
+# Mathematica designed a method to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+
+<!-- title before 2026-10-15: A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year. -->
 
 ## Subclaims
 `q1 i?` In the first year of the project, Mathematica applied a designed method to identify effective schools for a 99-school charter consortium spanning 18 states and the District of Columbia. [→ Kevin Booker 2008](#kevin-booker-2008)

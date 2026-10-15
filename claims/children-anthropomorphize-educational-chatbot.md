@@ -45,7 +45,7 @@ Thematic analysis of student dialog transcripts identified three themes, includi
 ## Related Claims
 - [Dinosaurs was the most popular chatbot topic, especially among first graders, with sneakers and shoes second](ama-topic-popularity-dinosaurs.md) — related
 - [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related
-- [Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related
+- [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related
 - [Degree of anthropomorphism attributed to the agent was shaped by both interaction modality and, within audio conditions, voice accent](anthropomorphism-shaped-by-modality-and-accent.md) — related
 - [Course syllabi anthropomorphize GenAI — 39% attribute living characteristics such as a GenAI Assistant — a theme absent from institutional guidelines](course-syllabi-anthropomorphize-genai.md) — related
 - [An Indian-accented agent was integrated as a trustworthy conversational peer through repeated, contextually useful contributions](indian-accent-agent-integrated-as-trusted-peer.md) — related
