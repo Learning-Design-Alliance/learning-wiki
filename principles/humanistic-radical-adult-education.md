@@ -23,7 +23,7 @@ sources:
 # Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (5 for) · 5 studies (2 qualitative, 2 theoretical, 1 design), `q1`–`q2` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 10 studies (4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q3` · 2 of 10 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 

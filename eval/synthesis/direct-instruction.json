@@ -107,6 +107,18 @@
       "question": "Teach the method first, or let learners attempt problems before instruction?",
       "members": [
         [
+          "invention-tasks-prepare-future-learning",
+          "+"
+        ],
+        [
+          "ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions",
+          "~"
+        ],
+        [
+          "domain-general-skills-favor-ips",
+          "~"
+        ],
+        [
           "problem-solving-before-instruction-boosts-conceptual-transfer",
           "+"
         ],

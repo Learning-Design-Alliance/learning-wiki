@@ -1,0 +1,15 @@
+{
+  "principle": "principles/humanistic-radical-adult-education",
+  "note": "Wave 9 (2026-10-15). Grouping and directions by an agent from the claims' titles and evidence entries; review before relying on it. The hub is the only adult claim and the most general statement on the question; the members are school-age studies. service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment bears too but is already a member in community-based-learning.json, so it is left out here.",
+  "findings": [
+    {"hub": "facilitated-self-directed-learning-empowers-adults",
+     "question": "Does facilitated discussion of learners' own views and of social issues build their sense of voice, critical reflection and readiness to act?",
+     "members": [
+       ["positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion", "+"],
+       ["critical-speculative-design-supports-critical-consciousness-in-science", "+"],
+       ["immigration-discussion-in-gsas-predicts-peer-validation", "+"],
+       ["immigration-discussion-hope-immigrant-origin-only", "~"],
+       ["immigration-discussion-null-critical-consciousness", "-"],
+       ["gsa-collective-discussion-null-group-level", "-"]]}
+  ]
+}

@@ -15,7 +15,7 @@ grain_size: lesson
 # Game-Based Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (3 quant-synthesis, 2 review, 1 causal), `q3`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 17 claims (10 for, 6 mixed, 1 against) · 16 studies (6 causal, 5 quant-synthesis, 4 review, 1 design), `q2`–`q4` · 4 of 16 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 

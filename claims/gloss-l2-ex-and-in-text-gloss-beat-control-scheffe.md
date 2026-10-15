@@ -41,8 +41,9 @@ Scheffé post-hoc multiple comparisons on the three delayed-design vocabulary te
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode](glossing-medium-large-effects-l2-vocabulary.md) — the general claim this finding bears on, with the studies behind it
 - [All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading](l1-glosses-improve-immediate-vocabulary-recall.md) — reports the opposite
 - [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](l1-glosses-no-reading-comprehension-gain.md) — related
 - [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4](proficiency-moderates-gloss-vocabulary-effects.md) — related

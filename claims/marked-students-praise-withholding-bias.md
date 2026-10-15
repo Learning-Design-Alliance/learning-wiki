@@ -38,6 +38,18 @@ Cross-condition lexical comparison of feedback generated for the same 600 essays
 
 > "students identified as Black, Hispanic, Asian, female, unmotivated, and learning-disabled received less constructive criticism and more praise, reflecting both feedback withholding [ 11] and positive feedback biases [ 20]."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does automated feedback on student work substitute praise for critique, and for whom?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 associational, 1 causal), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Tan et al. 2026](https://doi.org/10.1145/3785022.3785113) | q2 · causal · r2 | i? | this claim; [Motivation prompts shift feedback tone: unmotivated students receive enthusiastic, collabo](motivation-prompt-enthusiasm-pedagogy.md) (supports); [Gender prompts shift feedback stance: female students receive affective, first-person, emp](gender-prompt-emotional-connection-pedagogy.md) (qualifies) |
+| Jerin George Mathew 2026 | q2 · associational · r2 | i? | [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high s](llm-feedback-sentiment-tracks-scores.md) (qualifies) |
+| validation-content | q2 · associational · r2 | i? | [The agent's praise was indiscriminate affirmation: validation followed about half of parti](indiscriminate-affirmation-reflection-agent.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

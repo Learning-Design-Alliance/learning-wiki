@@ -39,6 +39,21 @@ A 3 (Learning Group) × 2 (Creative Task) mixed ANOVA on originality scores from
 
 > "the general-AI ( M = 4.08, SD = 1.22) group produced more original solutions than both the human-only ( M = 3.06, SD = 1.37) and regulated-AI (M = 3.30, SD = 1.30) groups, p <.001 and p =.002, d = 0.79 and − 0.62"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does using generative AI while producing creative work leave learners more original when they later work without it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (2 review, 1 causal, 1 theoretical, 1 design, 1 associational), `q2`–`q3`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Wong 2026](https://doi.org/10.1007/s10648-026-10118-7) | q3 · causal · r3 | i0 | this claim; [The regulated 'think first, ChatGPT later' group outperformed both other groups in indepen](regulated-ai-outperforms-independent-originality.md) (qualifies) |
+| [Halani 2026](https://doi.org/10.35542/osf.io/t4cd2_v1) | q2 · theoretical · r2 | i? | [Reported study: free ChatGPT use aided the assisted creative task but the advantage revers](think-first-chatgpt-creativity-reversal.md) (supports) |
+| [Gres 2026](https://doi.org/10.31943/wej.v10i2.572) | q3 · review · r2 | i? | [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) (supports) |
+| Mahbub Ul Alam 2026 | q2 · design · r1 | i? | [LLM access boosts individual story creativity while significantly homogenising output acro](llm-access-homogenises-creative-output.md) (qualifies) |
+| [Niu T 2026](https://doi.org/10.3389/fpsyg.2026.1880052) | q2 · review · r3 | i? | [Primary studies report possible benefits of GenAI for children's divergent thinking, narra](genai-possible-benefits-children-creative-thinking.md) (qualifies) |
+| Stefana Broadbent 2026 | q2 · associational · r1 | i? | [Prototype generation is the only GenAI activity significantly associated with perceived lo](prototype-generation-linked-ownership-loss.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

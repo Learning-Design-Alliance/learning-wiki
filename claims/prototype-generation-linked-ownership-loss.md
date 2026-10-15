@@ -41,8 +41,9 @@ Correlation analysis of survey responses relating ownership and creativity items
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — the general claim this finding bears on, with the studies behind it
 - Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes — related
 - [Only about a third of design students report reduced creativity or project ownership from GenAI use](ownership-creativity-largely-unaffected-genai.md) — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related

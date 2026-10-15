@@ -41,8 +41,9 @@ The review's opening synthesis of international evidence asserts that "education
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [Building capacity is critical for educational reform](building-capacity-critical-for-reform.md) — possibly the same claim (merge candidate)
 - [Teachers in CHSRI small schools report significantly more supportive contexts for reform than similar teachers in other Chicago high schools](chsri-teachers-report-supportive-reform-context.md) — a narrower finding that bears on this claim
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — a broader claim this one bears on

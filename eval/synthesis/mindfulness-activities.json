@@ -1,0 +1,32 @@
+{
+ "principle": "principles/mindfulness-activities",
+ "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. The first finding's members are all practice briefs or second-hand reports (two briefs, Browning 2020 and Murray 2017, plus one implementation report); the second finding's members are all from one classroom experiment (Rief 2026), so its table will show one distinct study.",
+ "findings": [
+  {
+   "hub": "mbi-evidence-base-variability-limitation",
+   "question": "Do school and youth mindfulness programmes improve students' regulation, wellbeing and academic outcomes?",
+   "members": [
+    [
+     "mindfulness-programs-benefit-adolescent-regulation",
+     "+"
+    ],
+    [
+     "mindfulness-positive-school-climate-outcomes",
+     "+"
+    ],
+    [
+     "mindfulness-academic-improvement-links",
+     "+"
+    ],
+    [
+     "mindfulness-conflict-resolution-transfer-out-of-school",
+     "+"
+    ],
+    [
+     "co-regulation-supports-climate-and-youth-emotion-regulation",
+     "+"
+    ]
+   ]
+  }
+ ]
+}

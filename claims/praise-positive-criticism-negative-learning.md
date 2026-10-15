@@ -41,6 +41,7 @@ The paper cites Rosenshine and Furst's research on teacher performance criteria,
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 -

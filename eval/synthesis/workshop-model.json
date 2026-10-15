@@ -1,0 +1,24 @@
+{
+  "principle": "patterns/workshop-model",
+  "note": "Wave 9 (2026-10-15). Reuses the existing hub process-writing-improves-writing-quality (eval/synthesis/authentic-audiences.json, which already lists rubrics-improve-student-work). Members read in full by the agent converting patterns/workshop-model.md; directions from their evidence entries. peer-response-groups-writing-idea-units is also a member of the peer-feedback-improves-writing hub in authentic-audiences.json.",
+  "findings": [
+    {
+      "hub": "process-writing-improves-writing-quality",
+      "question": "Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?",
+      "members": [
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ],
+        [
+          "strategy-instruction-improves-writing-quality",
+          "~"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

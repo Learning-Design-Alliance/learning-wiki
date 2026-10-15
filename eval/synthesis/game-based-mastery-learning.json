@@ -1,0 +1,28 @@
+{
+  "principle": "patterns/game-based-mastery-learning",
+  "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' pages, read in full; review before applying. The first finding rests on one study (Portnoff et al. 2021, the Duolingo case study) read as four claims, so its table will count one distinct study. The gate's own questions are on eval/synthesis/mastery-learning.json and are not repeated here.",
+  "findings": [
+    {
+      "hub": "gamification-has-small-positive-effects-on-learning-outcomes",
+      "question": "Does adding a game layer to instruction raise outcomes, and which outcomes?",
+      "members": [
+        [
+          "quizizz-gamification-better-memorization",
+          "+"
+        ],
+        [
+          "gamification-raises-motivation-satisfaction",
+          "+"
+        ],
+        [
+          "gamification-engagement-mixed-evidence",
+          "~"
+        ],
+        [
+          "behavioural-engagement-not-cognitive-engagement",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

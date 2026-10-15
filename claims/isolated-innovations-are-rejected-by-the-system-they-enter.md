@@ -62,6 +62,23 @@ In its Succeeding Systemically section, the digest asserts, drawing on the class
 
 > "Yet a single innovation (like a new technology or teaching philosophy) that is foreign to the rest of the system may be rejected, like an incompatible organ transplant is rejected by a living system. Success depends on a coordinated "bundle" of innovations-generally affecting several groups of stakeholders-that results in a coherent system after implementation."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does an innovation's adoption and effect depend on the rest of the system it enters, beyond the innovation itself?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **8 distinct studies** (5 review, 3 theoretical), `q1`–`q2`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Ellsworth 2018 | q2 · review · r1 | i? | this claim |
+| Ellsworth 2000 | q2 · review · r2 | i? | this claim |
+| Gilbert 1999 | q2 · theoretical · r3 | i? | [A tool's effectiveness results from the whole configuration of events, activities, and con](tool-effectiveness-depends-on-context-configuration.md) (supports) |
+| Trout 2021 | q1 · theoretical · r2 | i? | [Technical restorative practices implementation falls short when the adaptive components of](adaptive-shift-precedes-technical-restorative-success.md) (supports); [Relational elements — trust, voice and agency, and equity — are preconditions for restorat](relational-elements-precede-technical-restorative-results.md) (supports) |
+| Roschelle 2021 | q1 · review · r3 | i? | [Inquiry environments are hard to scale because they are ambitious learning activity system](inquiry-environments-ambitious-systems-hard-to-scale.md) (supports) |
+| [Stoll 2006](https://doi.org/10.1007/s10833-006-0001-8) | q2 · review · r? | i? | [Educational reform's progress depends on teachers' individual and collective capacity and ](reform-progress-depends-on-teacher-and-school-capacity.md) (supports) |
+| How the Organization of Schools and Local Communities Shape Educational Improvement 2017 | q1 · review · r? | i? | [Teachers' ability to deliver strong instruction depends substantially on the school contex](instruction-delivery-depends-on-school-context.md) (supports) |
+| [Katia Tödt 2026](https://doi.org/10.1007/978-3-032-26816-7_1) | q1 · theoretical · r2 | i? | [Digital education innovations are an interplay of technological, pedagogical, organisation](digital-education-innovation-four-dimension-interplay.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **For a designer.** A well-designed course, tool or practice can fail at adoption for reasons outside the design: it clashes with assessment, scheduling, incentives or other stakeholders' roles. The practical step is to identify what else in the system would have to change for the design to fit, and to plan those changes with it. [Stakeholder Mapping](../methods/stakeholder-mapping.md) and [Theory of Change](../methods/theory-of-change.md) are the wiki's methods for that. See [Ellsworth's Framework of Educational Change](../theories/ellsworth-framework-of-educational-change.md) for the models that address each part of the problem.

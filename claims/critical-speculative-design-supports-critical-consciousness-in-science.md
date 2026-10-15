@@ -47,6 +47,8 @@ Two 8th-grade physics classes replaced a standard unit on light waves with [Thre
 This is a qualitative, ethnographic design study (q2), not an efficacy trial: there is no comparison condition and no quantified learning-outcome measure, and the most detailed evidence comes from two focal students out of 158 tracked (13 with sufficient data for broader pathway analysis). Implementation was affected by a COVID-driven mid-unit reduction in instructional time (from 75 to 28 minutes per session), which the authors note as a real-world constraint rather than a controlled variable. The pattern of increased engagement with anti-racist, emotionally resonant content is well-documented in the two focal cases but not established as reliable across the full cohort or across other content domains.
 
 ## Related Claims
+
+- [Facilitated self-directed learning and peer discussion empower adult learners](facilitated-self-directed-learning-empowers-adults.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — related
 - [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md) — related

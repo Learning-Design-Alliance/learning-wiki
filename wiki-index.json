@@ -176975,7 +176975,7 @@
 },
 {
 "canonical":true,
-"description":"Game-Based Mastery Learning is the short-form canonical target for mastery designs that combine progression gates, repeated practice, feedback, and game-like incentives or progression signals.",
+"description":"A reusable policy in which progress through short, cumulative levels depends on passing a check on the target, with attempt-feedback-retry lessons, review of earlier levels and points paid for accuracy and improvement rather than activity; expected to raise performance outside the app for itemisable, practice-heavy skills, but no claim tests the combination as a whole, only a mastery gate without a game layer, a game layer without a gate, and one app's level system on in-app measures.",
 "grain_size":"lesson",
 "id":"game-based-mastery-learning",
 "path":"patterns/game-based-mastery-learning.md",
@@ -177592,7 +177592,7 @@
 },
 {
 "canonical":true,
-"description":"The workshop model structures lessons as a short focused mini-lesson followed by an extended block of independent student work with conferring and small-group support, closing with shared reflection.",
+"description":"A reusable lesson and unit structure (a short mini-lesson teaching one strategy, a protected block of learners' own work while the teacher confers, then a share) expected to build skill in a practice when the mini-lesson teaches strategies explicitly and support is matched and faded; no claim in this wiki tests the workshop model as a whole, and the nearest, on process writing, found a modest gain that did not reach struggling writers.",
 "grain_size":"lesson, unit",
 "id":"workshop-model",
 "path":"patterns/workshop-model.md",
@@ -178410,7 +178410,7 @@
 {
 "aliases":["model-and-monitor-elaborative-interrogation-answer-quality","precise-meaningful-elaboration-facilitates-encoding","promote-self-generated-elaboration-for-expertise","teach-information-with-prior-related-knowledge"],
 "canonical":true,
-"description":"Elaborative reasoning asks learners to go beyond restating material by generating connections, explanations, examples, and inferences that tie new content to prior knowledge.",
+"description":"For a learner with relevant prior knowledge studying facts or prose, answering why-questions about each statement or generating their own connections is expected to improve recall and recognition over reading it, at a cost in time; randomised experiments with school students test this for science facts, and one experiment finds the reverse for novice undergraduates learning a probability calculation.",
 "id":"elaborative-reasoning",
 "path":"principles/elaborative-reasoning.md",
 "status":"review",
@@ -178670,10 +178670,10 @@
 {
 "aliases":["assess-process-over-product-maker-education","low-stakes-nonjudgmental-creativity-environment"],
 "canonical":true,
-"description":"Creative thinking — generating ideas that are new, useful, and appropriate — can be deliberately stimulated through divergent-thinking prompts, protecting intrinsic motivation from constant evaluation, and finding room for experimentation alongside necessary assessment.",
+"description":"For learners producing ideas or products in a domain they partly know, open prompts with many answers, generating kept apart in time from judging, grading and reward, and own ideas before AI are expected to yield more varied ideas, sustained interest and better unaided generation later; no claim in the wiki tests the relationship as a whole, though neighbouring claims test rewards, praise and AI sequencing.",
 "id":"fostering-creative-thinking",
 "path":"principles/fostering-creative-thinking.md",
-"status":"draft",
+"status":"review",
 "title":"Fostering Creative Thinking",
 "type":"principle"
 },
@@ -178793,7 +178793,7 @@
 },
 {
 "canonical":true,
-"description":"Handouts, online guides, and visual reading aids support learning by externalizing structure, highlighting key information, and reducing the amount learners must infer or hold in working memory while reading.",
+"description":"For a reader who cannot yet tell what matters in a dense or unfamiliar text or task, a supplied guide that marks the essential points, shows the structure, glosses unknown terms and asks the reader to use it is expected to improve comprehension and recall over the same material without it; claims test its components (cues, guided notes, organizers, pictures, glosses), and none tests a whole handout or reading guide as such.",
 "id":"handoutsonline-guidesvisual-reading-aids",
 "path":"principles/handoutsonline-guidesvisual-reading-aids.md",
 "status":"review",
@@ -178803,10 +178803,10 @@
 {
 "aliases":["combine-communicative-with-traditional-methods","combine-pb-and-simulation-il-instruction","teach-scientist-and-poet-truths","lateral-transmission-alongside-vertical"],
 "canonical":true,
-"description":"Applying Newton's third law as a metaphor, the essay argues every educational change provokes an equal and opposite reaction, so \\\"the best course may be to strike a balance between competing ideas\\\".",
+"description":"When a target has components that competing methods serve unequally (content knowledge and application, language form and use, precise and expressive language), giving each component to the method its evidence favours and checking each separately is expected to cover more of the target than adopting either method wholesale; no claim tests this as a general rule, though one trial shows two methods each winning on a different outcome and vocabulary syntheses report combined instruction ahead of either alone.",
 "id":"harmonize-opposites-in-educational-change",
 "path":"principles/harmonize-opposites-in-educational-change.md",
-"status":"draft",
+"status":"review",
 "title":"Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale",
 "type":"principle"
 },
@@ -178855,10 +178855,10 @@
 {
 "aliases":["ecologically-just-speculative-futurity-for-praxis","expand-ccp-sphere-of-concern-to-more-than-human"],
 "canonical":true,
-"description":"The article presents two further approaches within the pragmatic progressive stance.",
+"description":"For adult learners, a course in which the educator hears and answers views unlike their own, brings social events in as material to question and leaves action to the learner is expected to strengthen learners' sense of voice, systemic accounts of social problems and readiness to act, but no claim in the wiki tests this, and the one controlled survey found more frequent discussion did not predict more critical reflection.",
 "id":"humanistic-radical-adult-education",
 "path":"principles/humanistic-radical-adult-education.md",
-"status":"draft",
+"status":"review",
 "title":"Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice",
 "type":"principle"
 },
@@ -179163,7 +179163,7 @@
 },
 {
 "canonical":true,
-"description":"Mindfulness activities are short structured practices that help learners attend to the present moment, notice internal state, and regulate reaction before acting.",
+"description":"For a learner unsettled at the start of demanding work, a short optional attention routine tied to the next task is expected to support settling and self-regulation, and only through that the task itself; no claim here tests a classroom routine, and the one tutor experiment that added mindfulness found no gain in learning or anxiety.",
 "id":"mindfulness-activities",
 "path":"principles/mindfulness-activities.md",
 "status":"review",
@@ -179181,10 +179181,10 @@
 },
 {
 "canonical":true,
-"description":"Teachers should avoid responding in ways that cause frustration: unclear or cryptic comments such as confusing symbols, abbreviations, single-word questions, vague remarks, and grammar jargon; illegible handwriting; a...",
+"description":"For student writers receiving comments on their work, comments written as complete, specific sentences, legible, limited to a few priorities and following a routine explained in advance are expected to be understood and acted on with less frustration than cryptic, illegible or exhaustive commentary; no claim in the wiki tests this directly, and the nearest evidence is learners' ratings of clearer feedback and reports that some students are overwhelmed by automated feedback.",
 "id":"minimize-student-frustration-in-feedback",
 "path":"principles/minimize-student-frustration-in-feedback.md",
-"status":"draft",
+"status":"review",
 "title":"Minimize student frustration by making feedback clear, legible, focused, and transparent",
 "type":"principle"
 },
@@ -179651,10 +179651,10 @@
 },
 {
 "canonical":true,
-"description":"Because instructional feedback is inherently evaluative and can pose identity threats, teachers should acknowledge positive aspects of student work and highlight the strengths of their writing.",
+"description":"For a student writer who will revise a draft, a response that names specific strengths of the text alongside a few prioritised critical comments is expected to keep the writer acting on the critique and to improve the revision, more than critique alone or generic or ability praise; no claim in the wiki tests this, and the nearest evidence (feedback meta-analyses, praise experiments with children, AI feedback audits) bounds it.",
 "id":"provide-positive-comments-on-student-writing",
 "path":"principles/provide-positive-comments-on-student-writing.md",
-"status":"draft",
+"status":"review",
 "title":"Provide positive comments alongside constructive criticism when responding to student writing",
 "type":"principle"
 },
@@ -179819,7 +179819,7 @@
 },
 {
 "canonical":true,
-"description":"Brief values-affirmation activities in which learners reflect on personally important values reduce threat and defensive responses, protecting learning and performance in evaluative or stereotype-laden contexts.",
+"description":"For learners who expect an evaluation to confirm a negative judgement of their group or of them, a 10–15 minute private essay on a personally important value, given to the whole class before the threat, is expected to protect later grades compared with writing about an unimportant value; one claim tests this, with two positive small field experiments and a null large replication, so effects are small and unpredictable.",
 "id":"self-affirmation",
 "path":"principles/self-affirmation.md",
 "status":"review",
@@ -180007,10 +180007,10 @@
 },
 {
 "canonical":true,
-"description":"Early language development is fastest in environments with responsive, reciprocal adult-child interaction — conversational turn-taking, varied input, and immediate feedback — rather than passive exposure to language alone.",
+"description":"For young children building a first language, frequent responsive exchanges in which an adult answers and expands the child's own turns are expected to grow the child's expressive language more than language the child only hears; one routine, dialogic shared reading, is tested against ordinary reading, and the general relationship rests on associational evidence.",
 "id":"supporting-early-language-development",
 "path":"principles/supporting-early-language-development.md",
-"status":"draft",
+"status":"review",
 "title":"Support Early Language Development",
 "type":"principle"
 },
@@ -180059,10 +180059,10 @@
 },
 {
 "canonical":true,
-"description":"The digest's central recommendation is that practitioners \\\"must strive to guide all our change efforts with a systemic understanding of the context\\\" in which they undertake them.",
+"description":"For a team introducing an innovation that others must adopt, mapping the system it enters, planning the other changes it needs as one coordinated bundle and working on whichever part blocks now is expected to produce more lasting use than introducing the innovation alone; no claim in the wiki tests this, and the evidence is mostly the change literature's own argument.",
 "id":"systemic-understanding-guides-change-efforts",
 "path":"principles/systemic-understanding-guides-change-efforts.md",
-"status":"draft",
+"status":"review",
 "title":"Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed",
 "type":"principle"
 },
@@ -180280,10 +180280,10 @@
 {
 "aliases":["instructor-indirect-narration-studio"],
 "canonical":true,
-"description":"The paper's Table 1 asserts that \\\"Wisdom cannot be 'told'\\\" and that understanding must be cultivated rather than described, with understanding becoming deeper as learners \\\"get to know\\\" and explore it.",
+"description":"For a learner who can make attempts at a new concept or principle, exploration guided by clues, questions on the learner's own ideas and critique of everyone's work, with the principle then named from that work, is expected to deepen understanding more than being told first or exploring unguided, though no claim tests indirect against direct guidance.",
 "id":"understanding-cultivated-not-described",
 "path":"principles/understanding-cultivated-not-described.md",
-"status":"draft",
+"status":"review",
 "title":"Understanding must be cultivated through exploration, not described or told",
 "type":"principle"
 },
@@ -180339,10 +180339,10 @@
 },
 {
 "canonical":true,
-"description":"User-centered design applies human-computer-interaction methods — personas, prototyping, and usability evaluation — to reduce the extraneous cognitive load a learning interface imposes, alongside pedagogical design.",
+"description":"For learners who reach instruction through a digital interface, revising that interface against what representative users actually do on the real learning tasks (finding, reading, submitting, interpreting) is expected to remove avoidable effort and failed attempts that compete with the content, though no claim in the wiki compares a user-tested interface with an untested one on a learning outcome.",
 "id":"user-centered-design-for-learning",
 "path":"principles/user-centered-design-for-learning.md",
-"status":"draft",
+"status":"review",
 "title":"User-Centered Design for Learning",
 "type":"principle"
 },

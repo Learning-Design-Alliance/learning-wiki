@@ -1,0 +1,42 @@
+{
+ "principle": "principles/harmonize-opposites-in-educational-change",
+ "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. The first hub already carries a table from eval/synthesis/problem-based-learning.json; the Newell members repeat there with the same directions.",
+ "findings": [
+  {
+   "hub": "pbl-null-basic-knowledge-positive-transfer",
+   "question": "Which method wins depends on which outcome is measured: basic knowledge, or application and transfer?",
+   "members": [
+    [
+     "problem-based-larger-knowledge-gains",
+     "~"
+    ],
+    [
+     "simulation-larger-application-gains",
+     "~"
+    ],
+    [
+     "simulation-larger-overall-il-gains",
+     "~"
+    ],
+    [
+     "problem-based-principal-preparation-self-efficacy",
+     "+"
+    ]
+   ]
+  },
+  {
+   "hub": "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone",
+   "question": "Does combining explicit instruction with contextual or incidental learning outperform either alone?",
+   "members": [
+    [
+     "combined-intentional-incidental-greater-gains",
+     "+"
+    ],
+    [
+     "intentional-beats-incidental-vocabulary-gains",
+     "~"
+    ]
+   ]
+  }
+ ]
+}

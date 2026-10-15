@@ -60,8 +60,9 @@ Tutors preferred learner feedback because they felt "the automated system could 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — the general claim this finding bears on, with the studies behind it
 - [Tutors on Ringle rated automated feedback significantly more negatively than learner feedback across six of seven perception dimensions](tutors-rate-automated-feedback-more-negatively-than-learner-feedback.md) — related
 - [Learner feedback on Ringle was often missing and positively skewed, while automated feedback was consistently available with a broader, more fine-grained score distribution](learner-feedback-skewed-automated-fine-grained.md) — related
 - [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](trust-customized-agents-accuracy-contextual-alignment.md) — related

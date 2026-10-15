@@ -1,0 +1,15 @@
+{
+  "principle": "principles/handoutsonline-guidesvisual-reading-aids",
+  "note": "Wave 9 (2026-10-15). Grouping and directions by an agent from the claims' full pages. The three member claims all rest on one experiment (Cheng & Good 2009, EFL readers); the hub rests on a language-games review that cites earlier gloss meta-analyses. Other questions on this page (cueing, organizers, guided notes) already have hubs owned by the signaling, clear-structure and annotating specs, or fewer than three claims.",
+  "findings": [
+    {
+      "hub": "glossing-medium-large-effects-l2-vocabulary",
+      "question": "Do glosses beside a second-language text help readers learn its vocabulary, and for whom?",
+      "members": [
+        ["gloss-l2-ex-and-in-text-gloss-beat-control-scheffe", "+"],
+        ["proficiency-moderates-gloss-vocabulary-effects", "~"],
+        ["gloss-perceptions-mismatch-performance", "~"]
+      ]
+    }
+  ]
+}

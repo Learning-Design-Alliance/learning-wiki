@@ -26,7 +26,7 @@ sources:
 # Mindfulness Activities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 mixed, 1 against) · 4 studies (2 review, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 18 claims (8 for, 9 mixed, 1 against) · 10 studies (4 review, 3 quant-synthesis, 1 causal, 1 design, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 

@@ -41,8 +41,9 @@ Practitioner-guide assertion (expert interpretation, no empirical study reported
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [Relational elements — trust, voice and agency, and equity — are preconditions for restorative practices to work](relational-elements-precede-technical-restorative-results.md) — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [Restorative practices outcomes follow a slow trajectory: quick low-level successes after training, high-level success in three to five years or more](restorative-practices-three-to-five-year-timeline.md) — related

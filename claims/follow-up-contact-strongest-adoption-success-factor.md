@@ -41,7 +41,8 @@ Finding from the SRI National Diffusion Network evaluation (Emrick et al., 1977a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [Two independent research efforts identified the same three pre-use phases of the adoption process](three-pre-use-phases-independently-identified.md) — related
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

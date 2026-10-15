@@ -40,6 +40,19 @@ Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2018). Inducing s
 
 A systematic search of bibliographic databases identified 69 effect sizes from 64 research reports comparing learning outcomes for participants who received self-explanation prompts against comparison conditions while studying or solving problems. A random-effects model gave an overall weighted mean effect size of Hedges' g = 0.55, and the authors coded 20 moderator variables (task type — solving problems, studying worked examples, studying text — subject area, education level, type of inducement, and treatment duration), concluding self-explanation prompts are a potentially powerful intervention across a range of instructional conditions.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 quant-synthesis, 1 review), `q2`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bisra et al. 2018](https://doi.org/10.1007/s10648-018-9434-x) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.55 | this claim |
+| [Xiong 2014](https://doi.org/10.5539/jel.v3n4p1) | q2 · causal · r2 | i? | [Self-generated elaboration improves procedural knowledge more than instructor-assisted ela](self-generated-elaboration-improves-procedural-knowledge-accounting.md) (supports); [Self-generated elaboration improves intellectual skills more than instructor-assisted elab](self-generated-elaboration-improves-intellectual-skills.md) (supports); [Cognitive elaboration strategy significantly affects overall posttest performance, with se](elaboration-strategy-affects-posttest-performance.md) (supports); [Elaboration strategy does not significantly affect students' attitudes toward the learning](elaboration-strategy-no-attitude-effect.md) (qualifies); [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but](gpa-pretest-elaboration-interaction-intellectual-skills.md) (qualifies) |
+| Gagne 1981 | q2 · causal · r? | i2; i? | [Elaborative processing of prose enhances later retrievability, accounting for roughly 30% ](elaborative-processing-enhances-retrieval.md) (supports) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Whether prompting students to construct explanations during retrieval adds benefit beyond ](adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Elaboration is typically explained through the depth-of-processing framework: richer, more meaningful processing creates more retrieval routes than shallow repetition. In practice, elaboration overlaps with several related operations — [activation](activation-improves-learning.md) of prior knowledge, [analogical reasoning](analogical-reasoning-improves-transfer.md), and [chunking](chunking-reduces-working-memory-load.md) — so isolating its unique contribution is difficult. Elaborative interrogation ("why is this true?") and self-explanation are the two most-studied operationalizations; both ask learners to integrate new material with what they already know rather than re-read it.

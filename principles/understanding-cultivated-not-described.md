@@ -23,7 +23,7 @@ sources:
 # Understanding must be cultivated through exploration, not described or told
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 design, 1 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 17 claims (9 for, 6 mixed, 2 against) · 19 studies (6 causal, 4 quant-synthesis, 4 review, 3 design, 2 qualitative), `q1`–`q4` · 5 of 19 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 

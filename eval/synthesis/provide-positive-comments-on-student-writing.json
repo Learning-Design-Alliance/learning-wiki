@@ -1,0 +1,70 @@
+{
+ "principle": "principles/provide-positive-comments-on-student-writing",
+ "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. Directions are relative to each hub. None of the members tests positive comments on student writing.",
+ "findings": [
+  {
+   "hub": "rewards-undermine-intrinsic-motivation",
+   "question": "Does praise help or harm learners' motivation and later performance, and which kind of praise?",
+   "members": [
+    [
+     "feedback-praise-reduces-learning",
+     "~"
+    ],
+    [
+     "intelligence-praise-versus-effort-praise-effects",
+     "~"
+    ],
+    [
+     "praise-positive-criticism-negative-learning",
+     "+"
+    ],
+    [
+     "annevelink-personalised-instruction-path-test",
+     "+"
+    ],
+    [
+     "teacher-responses-can-close-off-pupil-thinking",
+     "~"
+    ],
+    [
+     "concrete-reward-increases-mean-ideational-fluency",
+     "~"
+    ],
+    [
+     "reward-effects-hold-across-individual-tasks",
+     "~"
+    ],
+    [
+     "good-idea-reward-no-incentive-effect",
+     "~"
+    ],
+    [
+     "grading-harms-maker-education-outcomes",
+     "+"
+    ]
+   ]
+  },
+  {
+   "hub": "marked-students-praise-withholding-bias",
+   "question": "Does automated feedback on student work substitute praise for critique, and for whom?",
+   "members": [
+    [
+     "motivation-prompt-enthusiasm-pedagogy",
+     "+"
+    ],
+    [
+     "gender-prompt-emotional-connection-pedagogy",
+     "~"
+    ],
+    [
+     "llm-feedback-sentiment-tracks-scores",
+     "~"
+    ],
+    [
+     "indiscriminate-affirmation-reflection-agent",
+     "~"
+    ]
+   ]
+  }
+ ]
+}

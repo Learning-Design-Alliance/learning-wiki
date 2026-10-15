@@ -58,6 +58,17 @@ The review reports, citing Vahedi et al. (2016), that multiple glosses combining
 
 > "including both text meanings and illustrations of words is more effective for increasing the size of the reader’s vocabulary than using only one type of gloss"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do glosses beside a second-language text help readers learn its vocabulary, and for whom?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 causal), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [A. Pradheepa 2025](https://doi.org/10.29140/ajal.v8n1.2073) | q2 · quant-synthesis · r2 | i? | this claim |
+| Cheng 2009 | q2 / q3 · causal · r2 | i? | [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss ](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) (supports); [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not ](proficiency-moderates-gloss-vocabulary-effects.md) (qualifies); [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type](gloss-perceptions-mismatch-performance.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

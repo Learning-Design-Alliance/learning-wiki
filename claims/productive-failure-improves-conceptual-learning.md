@@ -65,12 +65,14 @@ Two randomized controlled studies compared teaching a new math concept first wit
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Teach the method first, or let learners attempt problems before instruction?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 theoretical, 1 quant-synthesis, 1 causal), `q2`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (2 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Sinha & Kapur 2021](https://doi.org/10.3102/00346543211019105) | q4 · quant-synthesis · r? | i1 · small effect, g=0.36 | this claim |
+| [Sinha & Kapur 2021](https://doi.org/10.3102/00346543211019105) | q4 · quant-synthesis · r? | i1 · small effect, g=0.36; i? | this claim; [For domain-general skills, effect sizes favor I-PS over PS-I](domain-general-skills-favor-ips.md) (qualifies) |
 | [Kapur 2014](https://doi.org/10.1111/cogs.12107) | q3 · causal · r? | i? | this claim |
+| [Schwartz & Martin 2004](https://doi.org/10.1207/s1532690xci2202_1) | q3 · causal · r2 | i? | [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) (supports) |
+| [Loibl 2017](https://doi.org/10.1007/s10648-016-9379-x) | q3 · review · r? | i? | [PS-I fosters learning only if specific design features (contrasting cases or building inst](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) (qualifies) |
 | [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | [Solving novel problems before instruction improves conceptual understanding and transfer b](problem-solving-before-instruction-boosts-conceptual-transfer.md) (supports); [Guidance during initial problem solving does not translate into better learning from subse](initial-guidance-does-not-improve-learning-from-instruction.md) (supports) |
 | Mario Brcic 2026 | q2 · theoretical · r2 | i1 | [Productive failure, problem-solving before instruction, shows a measured benefit of about ](productive-failure-problem-solving-before-instruction-effect.md) (supports) |
 <!-- synthesis:end -->

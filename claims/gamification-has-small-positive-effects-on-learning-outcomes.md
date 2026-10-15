@@ -45,6 +45,19 @@ A meta-analysis of 38 publications reporting 40 experiments compared gamified in
 
 > "Results from random effects models showed significant small effects of gamification on cognitive (g = .49, 95% CI [0.30, 0.69], k = 19, N = 1686), motivational (g = .36, 95% CI [0.18, 0.54], k = 16, N = 2246), and behavioral learning outcomes (g = .25, 95% CI [0.04, 0.46], k = 9, N = 951)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does adding a game layer to instruction raise outcomes, and which outcomes?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 2 review), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Sailer & Homner 2020](https://doi.org/10.1007/s10648-019-09498-w) | q3 · quant-synthesis · r3 | i1 · small effects, g = .25 (behavioral) to g = .49 (cognitive) | this claim |
+| [A. Pradheepa 2025](https://doi.org/10.29140/ajal.v8n1.2073) | q2 · quant-synthesis · r2 | i? | [Quizizz-based gamification improved word memorization over traditional methods for interme](quizizz-gamification-better-memorization.md) (supports); [In one mixed-methods study of university students, reported in a review, gamified vocabula](gamification-raises-motivation-satisfaction.md) (supports) |
+| [Patricia D. Simon 2026](https://doi.org/10.1016/j.caeo.2026.100360) | q2 · review · r3 | i? | [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, w](gamification-engagement-mixed-evidence.md) (qualifies) |
+| [Ogunsakin IB 2026](https://doi.org/10.3389/feduc.2026.1943906) | q2 · review · r2 | i? | [Behavioural engagement indicators such as platform interaction and task completion do not ](behavioural-engagement-not-cognitive-engagement.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The motivational effect is the weakest-founded of the three.** Gamification is usually adopted for

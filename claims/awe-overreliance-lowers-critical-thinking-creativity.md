@@ -41,8 +41,9 @@ Risk finding from the systematic review's thematic analysis of 50 empirical stud
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — the general claim this finding bears on, with the studies behind it
 - [AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning](awe-enhance-organization-quality-self-directed-learning.md) — related
 - [AWE tools such as Grammarly, Quillbot and DeepL Write significantly improve writing precision, fluency and grammatical proficiency through immediate and customized feedback](awe-improve-precision-fluency-grammatical-proficiency.md) — related
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related

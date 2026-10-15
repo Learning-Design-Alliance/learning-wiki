@@ -13,7 +13,7 @@ generated:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 9 studies (6 design, 2 causal, 1 qualitative), `q2`–`q3` · 0 of 9 report an effect size · 10 claims rest on one study
+> **Evidence** · 19 claims (12 for, 6 mixed, 1 against) · 16 studies (6 causal, 6 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 16 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 

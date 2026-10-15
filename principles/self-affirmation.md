@@ -13,7 +13,7 @@ generated:
 # Self Affirmation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies (4 causal, 1 review), `q2`–`q3` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 13 claims (6 for, 7 mixed) · 15 studies (6 causal, 3 design, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 15 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 

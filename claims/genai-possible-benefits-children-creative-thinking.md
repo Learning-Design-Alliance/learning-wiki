@@ -39,7 +39,8 @@ The review's narrative synthesis of 22 primary empirical studies, summarized des
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — the general claim this finding bears on, with the studies behind it
 - The evidence base on GenAI and children's creative thinking is dominated by small, short-term, exploratory studies with few controlled comparisons and no longitudinal designs — related
 - The review included 24 evidence sources: 22 primary empirical studies and two secondary syntheses used only for contextual interpretation — related

@@ -18,7 +18,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (3 for, 4 mixed) · 6 studies (2 qualitative, 1 causal, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 19 claims (7 for, 12 mixed) · 19 studies (5 causal, 5 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 

@@ -60,8 +60,9 @@ The chapter reports Smith et al. (2016), in which "prompting students to describ
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — related
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related

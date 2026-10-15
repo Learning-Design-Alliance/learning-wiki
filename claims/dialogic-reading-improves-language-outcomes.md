@@ -59,6 +59,19 @@ Mol, S. E., Bus, A. G., & de Jong, M. T. (2009). Interactive book reading in ear
 
 A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in which educators were trained to get children actively involved before, during and after shared book reading in early-education settings. The abstract reports a moderate effect on oral language skills, and attributes 7% of the variance in kindergartners' alphabetic knowledge to the intervention. Effects found when experimenters did the reading did not replicate in natural classrooms with the children's own teachers, which bears on the page's point that implementation fidelity matters. The abstract does not split oral language into expressive and receptive measures.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does interactive, dialogic shared reading raise young children's oral language more than ordinary shared reading or no extra reading?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **4 distinct studies** (3 quant-synthesis, 1 causal), `q2`–`q3`, 3 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Mol et al. 2008](https://doi.org/10.1080/10409280701838603) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.59 (95% CI 0.44–0.75) on expressive vocabulary | this claim; [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) (supports) |
+| [Mol et al. 2009](https://doi.org/10.3102/0034654309332561) | q3 · quant-synthesis · r? | i2 · moderate effect on oral language (abstract gives no d) | this claim; [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) (supports) |
+| WWC Intervention Report: Dialogic Reading 2007 | q2 / q3 · quant-synthesis · r2 | i? | [Dialogic Reading has positive effects on preschool children's oral language, per WWC synth](dialogic-reading-positive-oral-language-effects.md) (supports); [Level of implementation moderates Dialogic Reading's effects on children's oral language](implementation-level-moderates-dialogic-reading-effects.md) (qualifies); [Dialogic Reading shows no discernible effects on phonological processing](dialogic-reading-no-phonological-processing-effects.md) (qualifies) |
+| Dialogic Reading 2010 | q3 · causal · r2 | i2; i? | [Dialogic reading favored significant gains on lexical diversity during play and total utte](dale-1996-significant-lexical-diversity-play-total-utterances-book-reading.md) (supports); [Dialogic reading has potentially positive effects on communication and language competenci](dialogic-reading-potentially-positive-communication-language-disabilities.md) (supports); [Parent-implemented dialogic reading showed no statistically significant differences from a](crain-thoreson-dale-1999-parent-led-null-effects.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** Dialogic reading converts a passive read-aloud into an active, scaffolded conversation. The adult's wh- and completion prompts elicit child utterances, which the adult then expands and recasts; this feedback loop is thought to drive vocabulary growth and expressive language gains beyond what listening alone provides. The technique is closely related to scaffolding within a [cognitive apprenticeship](../theories/cognitive-apprenticeship.md) frame: the adult models language slightly above the child's current level and gradually shifts responsibility to the child. In this sense it is an activation-plus-feedback routine — see [Activation improves learning.](activation-improves-learning.md)

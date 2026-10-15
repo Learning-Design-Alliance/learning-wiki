@@ -27,7 +27,7 @@ sources:
 # Fostering Creative Thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 17 studies (5 review, 4 causal, 3 theoretical, 2 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 3 of 17 report an effect size · 9 claims rest on one study
+> **Evidence** · 20 claims (12 for, 6 mixed, 2 against) · 21 studies (6 causal, 5 review, 4 theoretical, 3 design, 2 quant-synthesis, 1 associational), `q1`–`q4` · 5 of 21 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 

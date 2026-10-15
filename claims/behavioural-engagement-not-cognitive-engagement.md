@@ -39,8 +39,9 @@ The review's interpretive analysis of engagement evidence across included studie
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [AI Tutors are positioned as cognition interpretation agents that read behavioural signals as indicators of underlying cognition structures over time](ai-tutor-cognition-interpretation-layer.md) — related
 - [Learners using a GenAI system issued prompts that offloaded tasks that may have been important for them to perform themselves, such as differentiating concepts and deciding what to learn](genai-prompt-offloading-learning-tasks.md) — related
 - [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](platform-modality-no-relationship-cognitive-engagement.md) — related

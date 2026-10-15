@@ -13,7 +13,7 @@ generated:
 # Support Early Language Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size
+> **Evidence** · 16 claims (12 for, 2 mixed, 2 against) · 21 studies (10 quant-synthesis, 5 causal, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 21 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 

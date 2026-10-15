@@ -44,13 +44,15 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do time for revision and explicit criteria condition the gain?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q2`–`q4`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (3 quant-synthesis, 2 causal), `q2`–`q4`, 3 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Graham and Sandmel 2011](https://doi.org/10.1080/00220671.2010.488703) | q4 · quant-synthesis · r? | i1 · small-to-modest effect, ES=0.34 | this claim |
 | [Andrade et al. 2010](https://doi.org/10.1080/09695941003696172) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
 | [Panadero & Romero 2014](https://doi.org/10.1080/0969594x.2013.877872) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
+| [Graham & Perin 2007](https://doi.org/10.1037/0022-0663.99.3.445) | q3 · quant-synthesis · r? | i3 · large effect, weighted mean d=0.82 (95% CI 0.69–0.95) | [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) (qualifies) |
+| What Works Clearinghouse 2007 | q3 · quant-synthesis · r1 | i2; i? | [Peer response groups increase the number of idea units in English learners' writing but sh](peer-response-groups-writing-idea-units.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
