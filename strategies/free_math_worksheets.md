@@ -19,7 +19,7 @@ Free math worksheets are openly available sets of practice problems organized by
 
 ## Design Implications
 
-Worksheets enact [Practice](../elements/practice.md) at scale, and their effectiveness follows the same evidence base as practice generally: retrieval and application strengthen retention [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S], and problem sequences that begin with worked examples reduce the load on novice learners [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Design decisions that matter most are spacing and mixing problem types rather than blocking them, and ensuring learners get feedback rather than completing large volumes of uncorrected work.
+Worksheets enact [Practice](../elements/practice.md) at scale, and their effectiveness follows the same evidence base as practice generally: retrieval and application strengthen retention [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S], and problem sequences that begin with worked examples reduce the load on novice learners [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]. Design decisions that matter most are spacing and mixing problem types rather than blocking them, and ensuring learners get feedback rather than completing large volumes of uncorrected work.
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Worksheets enact [Practice](../elements/practice.md) at scale, and their effecti
 #### Implementation Variability
 - **Spaced sets**: distribute a few problems across days rather than 30 in one sitting [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 - **Interleaved sets**: mix problem types on one page so learners must choose a strategy, not just execute one [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+M]
-- **Example–problem pairs**: alternate a worked example with an isomorphic problem for novices [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- **Example–problem pairs**: alternate a worked example with an isomorphic problem for novices [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]
 - **Error analysis worksheets**: present solved problems containing mistakes for learners to find and fix [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+W]
 - **Generative variants**: blank templates (number bonds, fraction bars) learners complete themselves rather than pre-filled drill
 
@@ -52,7 +52,7 @@ Worksheets enact [Practice](../elements/practice.md) at scale, and their effecti
 
 ### Instructions
 1. Diagnose the target skill and select or generate a worksheet matched to current ability, not grade level.
-2. For novices, place one or two [Worked Examples](../elements/worked-examples.md) at the top of the set [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M].
+2. For novices, place one or two [Worked Examples](../elements/worked-examples.md) at the top of the set [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M].
 3. Keep sets short (8–12 problems) and mix problem types once initial accuracy is established [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+M].
 4. Have learners complete the set, then [Assess Performance](../elements/assess-performance.md) against the answer key.
 5. [Provide Feedback](../elements/provide-feedback.md) promptly — review errors together and re-teach before assigning more practice.

@@ -13,7 +13,7 @@ generated:
 # Active Listening
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 12 studies (6 quant-synthesis, 2 causal, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 12 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (6 quant-synthesis, 3 review, 2 causal, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
 
 ## Description
 Active listening is a deliberate practice in which the listener gives full attention to the speaker, suspends judgment and premature problem-solving, and demonstrates comprehension through paraphrasing, clarifying questions, and reflective summaries. Originating in client-centered counseling (Rogers, 1951) and popularized for management by the Harvard Negotiation Project, it is carried out through behaviors such as maintaining focus on the speaker, restating what was heard ("So what I'm hearing is…"), asking open-ended clarifying questions, and withholding evaluation until understanding is confirmed.

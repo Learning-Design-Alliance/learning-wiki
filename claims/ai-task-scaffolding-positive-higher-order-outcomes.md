@@ -45,7 +45,7 @@ Structural equation modeling of survey data from 533 Ghanaian university student
 ## Related Claims
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — related
 - [AI verification literacy does not directly predict critical thinking or technical problem-solving](ai-verification-literacy-no-direct-effect.md) — related
-- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — related
+- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
 - [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](sem-variance-explained-outcomes.md) — related

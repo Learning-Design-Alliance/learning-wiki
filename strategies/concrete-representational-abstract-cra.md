@@ -20,7 +20,7 @@ CRA is an instructional approach that uses concrete materials, visual representa
 
 ## Design Implications
 
-CRA manages intrinsic cognitive load by giving abstract notation a referent learners can see and touch, reducing the risk that symbols are manipulated procedurally without meaning [Overloaded working memory degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+M]. Pairing representations with symbols also exploits dual channels of processing [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+M]. However, concrete materials are not automatically helpful: poorly chosen manipulatives can distract from the target structure rather than illuminate it [Manipulatives support learning only when they make the target structure salient.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M].
+CRA manages intrinsic cognitive load by giving abstract notation a referent learners can see and touch, reducing the risk that symbols are manipulated procedurally without meaning [Overloaded working memory degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+M]. Pairing representations with symbols also exploits dual channels of processing [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+M]. However, concrete materials are not automatically helpful: poorly chosen manipulatives can distract from the target structure rather than illuminate it [Manipulatives support learning only when they make the target structure salient.](../claims/worked-example-problem-sequences.md) [~M].
 
 ### Context
 #### Requirements
@@ -84,7 +84,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - **CSA (Concrete–Semiconcrete–Abstract)**: an older variant where "semiconcrete" uses pictures of real objects rather than schematic drawings
 
 ### Target Learners
-- Learners with mathematics learning difficulties and disabilities — the strongest evidence base [CRA instruction improves math outcomes for students with learning disabilities.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Learners with mathematics learning difficulties and disabilities — the strongest evidence base [CRA instruction improves math outcomes for students with learning disabilities.](../claims/worked-example-problem-sequences.md) [+M]
 - Young learners encountering a concept for the first time, for whom symbols alone carry no meaning
 - Less beneficial for advanced learners who already operate symbolically [Guidance and support become less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 - Novices in a symbol-heavy domain (typically early mathematics, but also science notation and music) [Concrete representations reduce working-memory demands for learners without existing symbolic schemas.](../claims/chunking-reduces-working-memory-load.md) [+M]
@@ -364,7 +364,7 @@ Concrete Representational Abstract (CRA) sequencing teaches a new concept in thr
 
 ## Design Implications
 
-CRA sequencing manages the transition from embodied, perceptual understanding to symbolic fluency, reducing the risk that symbols are manipulated without meaning [Cognitive overload degrades learning when representational demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [+M]. The critical design feature is *fading* — the sequence works because representations become progressively more abstract, not because concrete materials are used per se; staying too long at the concrete stage can impede generalization [Concreteness fading supports transfer better than sustained concrete or early abstract instruction.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]. Explicit linking across stages (e.g., writing the equation beside the drawing while manipulating objects) is what builds the mapping between representations.
+CRA sequencing manages the transition from embodied, perceptual understanding to symbolic fluency, reducing the risk that symbols are manipulated without meaning [Cognitive overload degrades learning when representational demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [+M]. The critical design feature is *fading* — the sequence works because representations become progressively more abstract, not because concrete materials are used per se; staying too long at the concrete stage can impede generalization [Concreteness fading supports transfer better than sustained concrete or early abstract instruction.](../claims/worked-example-problem-sequences.md) [~M]. Explicit linking across stages (e.g., writing the equation beside the drawing while manipulating objects) is what builds the mapping between representations.
 
 ### Context
 #### Requirements

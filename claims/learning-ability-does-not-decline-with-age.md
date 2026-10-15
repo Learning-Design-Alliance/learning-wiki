@@ -43,6 +43,6 @@ The digest reports, citing Ostwald and Williams, studies on aging showing that "
 
 
 ## Related Claims
-- [No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children](no-evidence-older-adults-cannot-learn-language.md) — possibly the same claim (merge candidate)
+- [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — possibly the same claim (merge candidate)
 - [No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches](no-critical-age-language-learning.md) — related
 - [Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning](aging-does-not-reduce-informal-learning.md) — related

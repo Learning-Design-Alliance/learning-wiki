@@ -3,7 +3,7 @@ type: claim
 title: Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
 description: Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
 id: gpt4-access-harms-learning-after-withdrawal
-aliases: [gpt4-practice-gains-exam-loss-cognitive-debt, unrestricted-chatgpt-worse-exam-scores, guarded-ai-placement-prevents-unaided-exam-harm, gpt-access-supported-practice-poorer-unaided-test, offloading-to-ai-costs-learning]
+aliases: [gpt4-practice-gains-exam-loss-cognitive-debt, unrestricted-chatgpt-worse-exam-scores, guarded-ai-placement-prevents-unaided-exam-harm, gpt-access-supported-practice-poorer-unaided-test, offloading-to-ai-costs-learning, unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates, ai-performance-mastery-decoupling-review-report, ai-assistant-short-term-gains-harm-durable-learning, learning-performance-paradox-ai]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -18,12 +18,36 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 3
+  - id: reshaping-undergraduate-computer-science-education-in-the-generative-ai-era-2026
+    resource: "https://arxiv.org/abs/2606.07545"
+    title: "Reshaping Undergraduate Computer Science Education in the Generative AI Era. (2026). https://arxiv.org/abs/2606.07545"
+    author: Reshaping Undergraduate Computer Science Education in the Generative AI Era
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 1
+  - id: zemin-guo-2026
+    resource: "https://doi.org/10.1016/j.caeai.2026.100679"
+    title: "Zemin Guo, Wenhui Li, Laure Lu Chen, Qianru Liang, & Yuxuan Wu. (2026). Reconceptualizing digital literacy in the AI era: A systematic review of validated frameworks from an ecological perspective. Computers and Education: Artificial Intelligence, 11, 100679. https://doi.org/10.1016/j.caeai.2026.100679"
+    author: "Zemin Guo, Wenhui Li, Laure Lu Chen, Qianru Liang, & Yuxuan Wu"
+    q: 1
+    i: "?"
+    kind: review
+    rigour: 2
+  - id: khosravi-2026
+    resource: "https://arxiv.org/abs/2605.04816"
+    title: "Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). Building AI Companions that Prioritise Learning over Performance. arXiv. https://arxiv.org/abs/2605.04816"
+    author: "Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S."
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Evidence** · 4 studies · 2 theoretical `r3`, 1 review `r2`, 1 qualitative `r1` · `q1`–`q2`
 
 ## Subclaims
 
@@ -38,6 +62,14 @@ sources:
 <!-- subclaim of merged duplicate entry 2026-10-15: `q2 i?` The review reports, citing Bastani et al. (2025), that access to a general-purpose GPT interface improved performance during supported practice among nearly 1,000 high-school mathematics students but was followed by poorer unaided test performance after access was removed, with a guarded tutor mitigating that loss. [→ Lin J and Al-Hada NM 2026](#lin-j-and-al-hada-nm-2026) -->
 
 <!-- subclaim of merged duplicate entry 2026-10-15: `q2 i?` Students given a tutor that withheld answers learned, while those given a model that handed answers over scored lower on an unassisted exam, supporting the processing-depth claim. [→ Marcus Kubsch 2026](#marcus-kubsch-2026) -->
+
+`q2 i?` The whitepaper reports that a randomized controlled trial with nearly 1,000 students found unrestricted GPT-4 access improved practice performance by 48% but led to a 17% decline in exam scores when AI was removed, and that a guardrail version providing hints rather than direct answers mitigated these negative effects. [→ Reshaping Undergraduate Computer Science Education in the Generative AI Era 2026](#reshaping-undergraduate-computer-science-education-in-the-generative-ai-era-2026)
+
+`q1 i?` The review reports, citing Bastani et al. (2025), that relative to traditional instruction, generative AI raised students' immediate performance but impaired delayed exam scores when AI access was removed. [→ Zemin Guo 2026](#zemin-guo-2026)
+
+`q2 i?` Students given access to an AI assistant in high school mathematics showed improved problem-solving during learning but significant harm to durable independent learning once the AI was removed. [→ Khosravi 2026](#khosravi-2026)
+
+`q2 i?` In a large randomised high school mathematics experiment, students with AI access improved problem-solving during learning but showed significant harm to durable independent learning after AI removal. [→ Khosravi 2026](#khosravi-2026)
 
 ## Evidence
 
@@ -111,6 +143,38 @@ The paper reports, citing Bastani et al. (2024), an experiment where only the pr
 > "Changing only the prompt at a fixed model, students given a tutor that withheld answers learned, while those given a model that handed answers over did well during practice and then scored lower on an unassisted exam (Bastani et al., 2024); the model was the same in both arms, so what moved the outcome was whether the student did the processing or let the machine do it."
 -->
 
+### Reshaping Undergraduate Computer Science Education in the Generative AI Era 2026
+
+Reshaping Undergraduate Computer Science Education in the Generative AI Era. (2026). https://arxiv.org/abs/2606.07545
+
+`q2 · i?` · `qualitative · r1`
+
+The whitepaper reports this second-hand, citing Bastani et al.: a randomized controlled trial with nearly 1,000 students in which "unrestricted GPT -4 access" raised practice performance 48% but exam scores fell 17% once AI was removed. No effect size is printed, so impact is null.
+
+> "Bastani et al. [3] conducted a randomized controlled trial with nearly 1,000 students and found that unrestricted GPT -4 access, while improving practice performance by 48%, led to a 17% decline in exam scores when AI was subsequently removed."
+
+### Zemin Guo 2026
+
+Zemin Guo, Wenhui Li, Laure Lu Chen, Qianru Liang, & Yuxuan Wu. (2026). Reconceptualizing digital literacy in the AI era: A systematic review of validated frameworks from an ecological perspective. Computers and Education: Artificial Intelligence, 11, 100679. https://doi.org/10.1016/j.caeai.2026.100679
+
+`q1 · i?` · `review · r2`
+
+The review attributes this finding to Bastani et al. (2025) in its micro-level ecology section, using it to illustrate the performance–mastery distinction: AI may inflate observable performance "without necessarily producing durable acquisition." The underlying study's design was not read for this extraction.
+
+> "Bastani et al. (2025) found that, relative to traditional instruction, generative AI could raise students' immediate performance but impair delayed exam scores when AI access is removed."
+
+### Khosravi 2026
+
+Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). Building AI Companions that Prioritise Learning over Performance. arXiv. https://arxiv.org/abs/2605.04816
+
+`q2 · i?` · `theoretical · r3`
+
+The paper reports, citing a large randomised experiment in high school mathematics, that AI access improved in-task problem solving but harmed durable independent learning after removal. No effect size is printed in the supplied text.
+
+> "students given access to an AI assistant showed improved problem-solving during learning but suffered significant harm to their durable, independent learning once the AI was removed"
+
+<!-- merged 2026-10-13 from ai-assistant-short-term-gains-harm-durable-learning: that page's entry for this study, which differed from the one above, kept verbatim.
+
 ## Discussion
 
 Every entry this page had was a second-hand report of one trial (Bastani et al., 2025, high-school mathematics, nearly 1,000 students), so they are kept as one entry; the other five reports are in comments under it. The trial itself has no entry here yet.
@@ -124,8 +188,6 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants](ai-assistance-impairs-unassisted-fraction-performance-exp1.md) — related
 - [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related
 - [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](gpt4-access-worse-after-removal-math.md) — possibly the same claim (merge candidate)
-- [AI assistants can improve short-term task performance while harming durable, independent learning once the AI is removed](learning-performance-paradox-ai.md) — possibly the same claim (merge candidate)
-- [The review reports that generative AI can raise immediate performance while impairing delayed exam performance once AI access is removed](ai-performance-mastery-decoupling-review-report.md) — possibly the same claim (merge candidate)
 - [Access to a standard GPT-4 chat tutor during practice substantially improves practice performance in high school mathematics](gpt-base-improves-assisted-practice-performance.md) — related
 - [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related
 - [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related
@@ -153,7 +215,7 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
 - [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](cognitive-debt-reactive-ai-approaches-insufficient.md) — a broader claim this one bears on
 - [Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance](llm-access-no-significant-lower-unaided-performance.md) — reports the opposite
-- [Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance](metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) — related
+- [In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect](metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) — related
 - [In math problem solving, a tutor-plus-peers LLM arrangement produced the strongest unassisted post-task test accuracy, with accuracy increasing monotonically from Control to Tutor + Peers](tutor-plus-peers-strongest-unassisted-math-accuracy.md) — related
 - [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — a broader claim this one bears on
 - [Most introductory physics students preferred a combination chatbot (guidance first, answers when stuck), while few preferred pure guided Q&A](students-prefer-combination-chatbot-over-guided-qa.md) — related
@@ -179,3 +241,19 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](developmental-shift-cognitive-offloading.md) — related
 - [Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips](ai-practice-beat-editor-feedback-and-google-search.md) — related
 - [Tutors with Tutor CoPilot access use more understanding-fostering strategies (e.g., prompting students to explain) and rely less on giving away answers than control tutors](tutor-copilot-shifts-tutors-toward-understanding-fostering-strategies.md) — a narrower finding that bears on this claim
+- [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — a broader claim this one bears on
+- [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — a narrower finding that bears on this claim
+- [A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences](ai-math-review-14-studies-outcomes.md) — related
+- [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](ai-pbl-adaptive-personalized-engagement.md) — reports the opposite
+- [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
+- [Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students](genai-self-efficacy-paradox-technological-dependence.md) — related
+- [High-achieving students less often endorse AI-supported autonomy, effective learning, and active engagement, and more often agree that reliance on AI hinders critical thinking and independent problem solving](item-level-high-achievers-hinder-critical-thinking.md) — related
+- [Effectiveness of AI-driven personalized learning is context-dependent, with CS and Mathematics students showing contrasting engagement and performance trajectories](context-sensitive-personalization-disciplinary-backgrounds.md) — related
+- [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — a broader claim this one bears on
+- [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](ai-substitution-inclusion-and-time-tradeoffs.md) — a narrower finding that bears on this claim
+- [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — related
+- [In simulation, AI-assisted students showed increased scores and reduced solving time, attributed to personalized assistance](simulation-ai-assisted-students-score-increase.md) — reports the opposite
+- [GenAI literacy predicted immediate independent writing performance after AI removal for Visual Data Integration, Critical Thinking, and overall Composite Score](genai-literacy-predicts-independent-writing-performance.md) — related
+- [Staff observed increased student engagement, independence, and communication skills during the AI-supported project](staff-observed-increased-engagement-independence.md) — related
+- [Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit](personalization-reduces-solution-time-efficiency.md) — related

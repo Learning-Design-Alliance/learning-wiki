@@ -56,7 +56,7 @@ Direct Instruction manages working memory load by sequencing content in small st
 - Novices and struggling learners, who lack the schemas to benefit from unguided exploration [Novices learn more from explicit guidance than minimal-guidance approaches.](../claims/worked-examples-reduce-novice-search.md) [+S]
 - Early literacy and numeracy learners, where DI programs show consistent effects [DI programs improve achievement across reading and math.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 - Less beneficial for advanced learners, per the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) [~M]
-- Novices and low-prior-knowledge learners, who benefit most from reduced search and clear procedure [Unguided approaches disadvantage novices specifically.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]
+- Novices and low-prior-knowledge learners, who benefit most from reduced search and clear procedure [Unguided approaches disadvantage novices specifically.](../claims/worked-example-problem-sequences.md) [+S]
 - Younger learners and learners with learning difficulties; meta-analytic evidence in special education favors explicit formats [Direct instruction is effective for students with learning disabilities.](../claims/part-task-practice-reduces-load-for-novices.md) [+S]
 
 ### Target Learning Goals
@@ -114,7 +114,7 @@ Explicit (direct) instruction is a teacher-led, highly structured approach in wh
 
 ## Design Implications
 
-Explicit instruction works because it manages working memory load during initial acquisition: novices lack the schemas to search unstructured problem spaces productively, so unguided or minimally guided approaches tend to underperform for them [Kirschner et al.'s argument that minimal guidance overloads novice working memory.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. Its effectiveness depends on the full sequence being present — modeling alone, or explanation without guided practice and feedback, does not produce the gains seen in the complete cycle [Rosenshine's principles emphasize short segments with student practice after each.](../claims/part-task-practice-reduces-load-for-novices.md) [+M].
+Explicit instruction works because it manages working memory load during initial acquisition: novices lack the schemas to search unstructured problem spaces productively, so unguided or minimally guided approaches tend to underperform for them [Kirschner et al.'s argument that minimal guidance overloads novice working memory.](../claims/worked-example-problem-sequences.md) [+S]. Its effectiveness depends on the full sequence being present — modeling alone, or explanation without guided practice and feedback, does not produce the gains seen in the complete cycle [Rosenshine's principles emphasize short segments with student practice after each.](../claims/part-task-practice-reduces-load-for-novices.md) [+M].
 
 ### Context
 #### Requirements
@@ -137,7 +137,7 @@ Explicit instruction works because it manages working memory load during initial
 - **Hybrid designs** open with explicit instruction, then hand off to [Case-Based Learning](../elements/case-based-learning.md) or inquiry once core procedures are secure
 
 ### Target Learners
-- Novices and low-prior-knowledge learners, who benefit most from reduced search and clear procedure [Unguided approaches disadvantage novices specifically.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]
+- Novices and low-prior-knowledge learners, who benefit most from reduced search and clear procedure [Unguided approaches disadvantage novices specifically.](../claims/worked-example-problem-sequences.md) [+S]
 - Younger learners and learners with learning difficulties; meta-analytic evidence in special education favors explicit formats [Direct instruction is effective for students with learning disabilities.](../claims/part-task-practice-reduces-load-for-novices.md) [+S]
 - Advanced learners, for whom the same guidance should be reduced or removed [Guidance that helps novices can hurt more knowledgeable learners.](../claims/expertise-reversal-effect.md) [~S]
 

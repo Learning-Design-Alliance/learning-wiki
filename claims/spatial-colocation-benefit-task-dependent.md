@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing"
-description: "The benefit of spatially co-located AI guidance varies by task: it matters most when instructions and task share a unified spatial frame"
+description: The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing
 id: spatial-colocation-benefit-task-dependent
 status: draft
 generated:

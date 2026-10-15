@@ -45,4 +45,4 @@ The review's authors' conclusion about the state of the evidence base. Study-des
 ## Related Claims
 - [Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies](risk-of-bias-varies-by-study-design.md) — a broader claim this one bears on
 - [Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty](flipped-classroom-student-satisfaction-positive.md) — related
-- [Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence](flipped-classroom-improves-academic-performance-hpe.md) — related
+- [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — related

@@ -43,7 +43,7 @@
           "~"
         ],
         [
-          "example-problem-sequences-reduce-cognitive-load",
+          "worked-example-problem-sequences",
           "~"
         ],
         [
@@ -56,10 +56,6 @@
       "hub": "inquiry-based-teaching-improves-science-achievement",
       "question": "Does guided inquiry raise science learning over the usual instruction, and is it the guidance that carries it?",
       "members": [
-        [
-          "furtak-metaanalysis-37-studies-inquiry-positive",
-          "+"
-        ],
         [
           "inquiry-based-lab-learning-improves-ct",
           "+"

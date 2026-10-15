@@ -38,7 +38,7 @@ Cognitive apprenticeship works because it externalizes the tacit decision-making
 - **Reciprocal teaching** (Palincsar & Brown) applies the cycle to reading: teacher models comprehension strategies, then students take turns leading with scaffolding that fades
 - **Cognitive apprenticeship in programming** uses live-coding demonstrations followed by paired programming with instructor circulation
 - **Medical and clinical education** uses observed case workups with attending physicians narrating diagnostic reasoning
-- Digital variants replace live coaching with adaptive hints and worked-example sequences [Example-problem pairs lower cognitive load for novices relative to problem solving alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Digital variants replace live coaching with adaptive hints and worked-example sequences [Example-problem pairs lower cognitive load for novices relative to problem solving alone.](../claims/worked-example-problem-sequences.md) [+M]
 
 ### Target Learners
 - Novices who cannot yet see the reasoning behind expert performance and would otherwise engage in unguided search [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]

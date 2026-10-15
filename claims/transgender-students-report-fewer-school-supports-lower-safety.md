@@ -54,7 +54,7 @@ Descriptive analysis of pooled 2017–19 California Healthy Kids Survey response
 - [Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students](transgender-students-suicide-ideation-45-57-percent.md) — related
 - [Transgender students are more than twice as likely as non-transgender peers to report bullying, harassment, and fear of physical violence](transgender-students-twice-likely-bullying-fear.md) — a narrower finding that bears on this claim
 - [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
-- [After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
+- [After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
 - [Youth-led action research found that many California high school students did not feel cared for by adults at school](youth-survey-adult-care-deficit.md) — related
 - [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related

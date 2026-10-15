@@ -45,7 +45,7 @@ Meta-analysis of 21 Turkish empirical (9) and relational (12) studies, total sam
 
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)](cbl-large-positive-effect-academic-achievement.md) — related
-- [Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values](di-medium-positive-effect-academic-achievement.md) — related
+- [A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero](di-medium-positive-effect-academic-achievement.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
 - The pooled effect of self-regulated learning does not differ significantly between empirical and relational study designs — related
 - Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related

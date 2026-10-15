@@ -18,7 +18,7 @@ sources:
 # Professional development should guide teachers on integrating digital content and tools, not just offer technical know-how
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (1 associational, 1 qualitative, 1 theoretical), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 19 claims (15 for, 4 mixed) · 17 studies (5 qualitative, 4 review, 4 associational, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 17 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -92,7 +92,7 @@ These rows are untested proposals. A check-in is itself support and changes what
 
 No claim in the wiki compares PD on integrating a tool with PD on operating it, with the tool, teachers and hours held equal. The claims below bear on parts of the relationship.
 
-- [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](../claims/pd-integration-training-doubles-reliance.md) [+M]: the page's founding claim, from the CEO Forum's 2000 report, which cites survey statistics: 48 percent of teachers with 11 or more hours of integration training in the previous year said they relied on software and the Internet to a "very great" or "moderate" extent, almost double the percentage of untrained teachers. It compares trained with untrained teachers, not integration with technical training; it cannot separate the training from which teachers sought it; the outcome is self-reported reliance; no effect size or test is printed. Coded theoretical `r2`, `q2`.
+- [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](../claims/pd-integration-training-doubles-reliance.md) [+M]: the page's founding claim, from the CEO Forum's 2000 report, which cites survey statistics: 48 percent of teachers with 11 or more hours of integration training in the previous year said they relied on software and the Internet to a "very great" or "moderate" extent, almost double the percentage of untrained teachers. It compares trained with untrained teachers, not integration with technical training; it cannot separate the training from which teachers sought it; the outcome is self-reported reliance; no effect size or test is printed. Coded theoretical `r2`, `q2`.
 - [Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses](../claims/integrated-hours-beat-standalone-tech-courses.md) [+M]: from the CEO Forum's 1999 report, on pre-service preparation programs: technology instruction built into methods and curriculum courses correlated more positively with technology skills and integration ability than stand-alone courses. It is the nearest comparison of PD content in the wiki, but it is pre-service, correlational, and prints no coefficient.
 - [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](../claims/teacher-interviews-obstacles-and-pd-needs.md) [+M]: one interview study of 21 in-service science teachers: subject-specific examples of AI use were named most often as PD content (11), ahead of general use (7); output quality and students' cognitive engagement were the most cited obstacles (9 each). Teachers' stated needs, not an effect of PD.
 - [Teachers need tailored technical support and time to understand how to use Ecree and integrate it with their instruction](../claims/teachers-need-tailored-support-time-ecree-integration.md) [+W] and [Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching](../claims/regular-tailored-support-helped-teachers-integrate-tools.md) [+M]: Mathematica briefs on writing-feedback tools in grade 8–11 English classrooms, 2021–2022. The first is a key finding stated in an implementation brief; the second a synthesis brief across the Ecree and MI Write studies. Both support follow-up support and time; neither compares PD content. The two may be one finding from overlapping studies (the second is marked a merge candidate on the first's page).
@@ -105,7 +105,7 @@ Learners, tools, dates and outcomes differ (a 1999–2000 national survey, a 200
 
 ## The evidence by question
 
-- *Does professional development that shows teachers how to use digital tools in their own teaching go with more classroom use of those tools?* [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](../claims/pd-integration-training-doubles-reliance.md) [+M]
+- *Does professional development that shows teachers how to use digital tools in their own teaching go with more classroom use of those tools?* [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](../claims/pd-integration-training-doubles-reliance.md) [+M]
 
 ## Further evidence, not yet read against this model
 
@@ -120,7 +120,7 @@ Claims found while rewriting this page that bear on it but are not part of the m
 - [Only 20 percent of U.S. teachers felt well prepared to integrate educational technology into classroom instruction (1998)](../claims/only-20-percent-teachers-prepared-integrate-technology.md) [+W]: context from the same report series; the need, not a test.
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](../claims/teacher-technology-training-gap.md) [+M]: context; does not separate technical from integration training.
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](../claims/technology-training-spending-inadequate.md) [+W]: 1998–1999 spending projections; context for budgeting PD, not evidence on its content.
-- [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training](../claims/experts-superficial-technology-integration.md) [+W]: seven expert interviews; the claim's evidence entry speaks of superficial, device-focused integration but does not itself mention teacher training.
+- [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach](../claims/experts-superficial-technology-integration.md) [+W]: seven expert interviews; the claim's evidence entry speaks of superficial, device-focused integration but does not itself mention teacher training.
 
 ## Objective and learner-valued goal
 

@@ -13,7 +13,7 @@ generated:
 # Morphological Analysis Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 against, 1 unmarked) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 4 claims (2 for, 1 against, 1 unmarked) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Morphological analysis instruction teaches learners to decompose words into morphemes — the smallest units of meaning, such as roots, prefixes, and suffixes — and to use that structure to pronounce, spell, and infer the meanings of unfamiliar words. Instruction typically combines explicit teaching of high-frequency morphemes (e.g., *-tion*, *re-*, *struct*) with guided practice analyzing novel words, often framed around the generative logic of the language ("struct" → *construct*, *destruction*, *restructure*).
@@ -112,7 +112,7 @@ Morphological analysis converts vocabulary learning from rote memorization of th
 
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — known morphemes serve as anchors for inferring new words
 - [Comparing Contrasting Cases](../strategies/comparing-contrasting-cases.md) — contrasting word families sharpens morpheme discrimination
-- [Analogical Reasoning](../principles/analogical-reasoning.md) — extending a known root to a new word is analogical transfer [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- [Analogical Reasoning](../principles/analogical-reasoning.md) — extending a known root to a new word is analogical transfer [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
 - [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 - Context-clue instruction — complementary inference route; morphology handles what context alone often cannot resolve

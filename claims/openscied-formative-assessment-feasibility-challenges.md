@@ -68,4 +68,4 @@ Focus group vignette in which teachers described difficulty fitting OpenSciEd wo
 - [Sesame Street is presented as a model of research-based educational media whose curriculum-plus-formative-and-summative-research model drove measurable impact](sesame-street-research-model-example.md) — related
 - [OpenSciEd curriculum design goals, especially coherence from the student perspective, come into tension during unit design](open-scied-design-tensions-coherence.md) — related
 - [A goal gap misaligns the measurable-performance aims promoted by current technologies with education's broader developmental aims](goal-gap-performance-vs-development.md) — related
-- [Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning](decoupling-evaluation-from-grades-improves-feedback.md) — related
+- [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — related

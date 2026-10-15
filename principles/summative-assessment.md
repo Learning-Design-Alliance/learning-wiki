@@ -18,7 +18,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (13 for, 14 mixed, 7 against) · 27 studies (9 theoretical, 6 associational, 4 design, 3 causal, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 4 of 27 report an effect size · 32 claims rest on one study
+> **Evidence** · 34 claims (13 for, 15 mixed, 6 against) · 26 studies (9 theoretical, 5 associational, 4 design, 3 causal, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 4 of 26 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 

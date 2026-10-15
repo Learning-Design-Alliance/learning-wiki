@@ -128,7 +128,7 @@ Open questions: most of the evidence base predates modern multimedia learning re
 
 - [Activation improves learning.](activation-improves-learning.md) — organizers are a designer-led way of activating relevant prior knowledge before instruction
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — organizers impose an initial structure that chunks incoming information
-- [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — comparative organizers work by mapping new content onto familiar structures
+- [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — comparative organizers work by mapping new content onto familiar structures
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — organizers must be lean and relevant to avoid adding extraneous load
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — signaling discourse structure is one of the mechanisms by which organizers may act
 - [Advance organizers](../elements/advance-organizers.md) — the instructional element this claim evaluates

@@ -78,7 +78,7 @@ Each question below links a general claim that gathers the studies behind it int
 
 - Does structured perspective-taking or contact improve learners' attitudes towards another person or group, and does it reach behaviour? [Building Empathy Improves Intergroup Attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [~S]: 9 distinct studies.
 - Do sustained, structured programmes produce social-emotional gains, and do they last? [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [~S]: 8 distinct studies.
-- When the learners are adults who act on others (teachers), does an empathy exercise change their conduct? [Brief Intervention Empathic Discipline Cuts Suspensions](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [~S]: 3 distinct studies.
+- When the learners are adults who act on others (teachers), does an empathy exercise change their conduct? [A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [~S]: 3 distinct studies.
 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->

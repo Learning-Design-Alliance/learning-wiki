@@ -68,7 +68,7 @@ A systematic review of 36 vocabulary interventions with comprehension outcomes, 
 |---|---|---|---|
 | [Elleman et al. 2009](https://doi.org/10.1080/19345740802539200) | q4 · quant-synthesis · r? | i2 · medium effect on custom measures, d=0.50 (d=0.10 on standardized measures) | this claim |
 | [Wright and Cervetti 2017](https://doi.org/10.1002/rrq.163) | q3 · review · r3 | i? | this claim |
-| Baker 2014 | q2 · review · r2 | i? | [Intensive academic vocabulary instruction across several days is supported by strong evide](academic-vocabulary-intensive-instruction-strong-evidence.md) (supports) |
+| Baker 2014 | q2 · review · r2 | i? | [A WWC practice guide rests its recommendation to teach academic vocabulary intensively acr](academic-vocabulary-intensive-instruction-strong-evidence.md) (supports) |
 | Fore III 2007 | q2 · causal · r2 | i? | [The concept model of vocabulary instruction produced larger gains in content-area vocabula](concept-model-beats-definition-model-vocabulary-ld.md) (supports) |
 | [Goodwin Ahn 2013](https://doi.org/10.1080/10888438.2012.689791) | q3 · quant-synthesis · r? | i1 · small effect, d = 0.34 | [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) (qualifies) |
 | [Bowers Kirby Deacon 2010](https://doi.org/10.3102/0034654309359353) | q3 · quant-synthesis · r? | i? | [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) (qualifies) |

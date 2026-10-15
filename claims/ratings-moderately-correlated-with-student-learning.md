@@ -44,7 +44,7 @@ The article's summary of validity evidence from the Chicago Public Schools analy
 
 ## Related Claims
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
-- [Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD](classroom-composition-affects-teacher-ratings.md) — related
+- [In one quasi-experimental study of Chicago teachers, a classroom one SD higher on a quality index raised the same teacher's observation scores by 0.07 SD and student survey ratings by 0.13 SD](classroom-composition-affects-teacher-ratings.md) — related
 - [Component measure ratings had low to moderate positive correlations with each other, suggesting the components measure distinct dimensions of principal performance](component-measures-distinct-dimensions-principal-performance.md) — related
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
 - [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](reach-observation-value-added-correlation-0349.md) — related

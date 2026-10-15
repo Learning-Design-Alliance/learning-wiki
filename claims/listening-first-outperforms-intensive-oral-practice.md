@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice"
-description: Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice
+description: A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice
 id: listening-first-outperforms-intensive-oral-practice
 status: draft
 generated:

@@ -37,7 +37,7 @@ The strategy combines two evidence-backed mechanisms: observing a modeled perfor
 #### Implementation Variability
 - Partial flip: only the most precision-critical topics are demonstrated on video; the rest stays live
 - Interactive video (e.g., Edpuzzle, H5P) embeds questions to enforce active viewing
-- Demonstration–problem pairs: each video is followed immediately by an isomorphic problem, mirroring [example–problem sequencing](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Demonstration–problem pairs: each video is followed immediately by an isomorphic problem, mirroring [example–problem sequencing](../claims/worked-example-problem-sequences.md) [+M]
 - Student-generated demonstrations as an assessment form, deepening processing through teaching
 
 ### Target Learners

@@ -19,7 +19,7 @@ grain_size: course
 # Traditional Lecture / Reading / Midterm / Final Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (6 mixed, 1 against) · 14 studies (6 review, 3 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q2`–`q4` · 0 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (6 mixed, 1 against) · 15 studies (6 review, 3 causal, 3 theoretical, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 0 of 15 report an effect size · 3 claims rest on one study
 
 ## Description
 This pattern describes the common lecture-dominant course model in which instructors deliver content primarily through lecture, assign readings for independent study, and evaluate learning mainly through high-stakes midterm and final assessments. It is useful in this wiki as a baseline reference pattern because many other designs are defined partly in response to its limitations.
@@ -64,10 +64,10 @@ The pattern can work reasonably well for broad content coverage and for learners
 ### Claims
 #### Supporting
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
 #### Contradicting
 
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](../claims/active-learning-conditions-more-other-pedagogical-features.md) [~W]
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [-W]

@@ -18,20 +18,12 @@ sources:
     i: 0
     kind: causal
     rigour: 2
-  - id: allison-mckie-2021
-    resource: "https://ies.ed.gov/ncee/edlabs"
-    title: "Allison McKie, Jeffrey Terziev, Brian Gill. (2021). Impacts of Home Visits on Students in District of Columbia Public Schools. Regional Educational Laboratory Mid-Atlantic, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/edlabs"
-    author: Allison McKie, Jeffrey Terziev, Brian Gill
-    q: 2
-    i: "?"
-    kind: causal
-    rigour: "?"
 ---
 
 # A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 

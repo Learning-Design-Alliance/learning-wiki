@@ -17,7 +17,7 @@ sources:
 # Dual-Process Account of Discovery in Writing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The **problem-solving account** of writing (Flower & Hayes; Bereiter & Scardamalia's knowledge-transforming) holds that discovery — the deepening of a writer's own understanding through the act of writing — happens because writers deliberately adapt content to rhetorical goals through controlled, iterative problem-solving. On this view, discovery and text quality should rise together, since both stem from the same rhetorical-planning process.
@@ -38,7 +38,7 @@ The **dual-process account** (Galbraith) proposes instead that discovery arises 
 - Distinguishing writing-to-communicate from writing-to-think as separate instructional goals
 
 ## Claims
-- [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](../claims/spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) [~M]
+- [In one keystroke-logging study, spontaneous sentence production under minimal planning is associated with gains in writers' self-rated understanding and with lower initial text quality](../claims/spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) [~M]
 
 ## Related Theories
 - (none yet linked)

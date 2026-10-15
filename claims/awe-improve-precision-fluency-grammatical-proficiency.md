@@ -43,7 +43,7 @@ Systematic literature review synthesizing 50 empirical studies published 2019–
 
 
 ## Related Claims
-- [AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning](awe-enhance-organization-quality-self-directed-learning.md) — related
+- [A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning](awe-enhance-organization-quality-self-directed-learning.md) — related
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related
 - [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — related
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related

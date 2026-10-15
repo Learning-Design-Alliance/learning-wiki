@@ -50,7 +50,7 @@ A meta-analysis of 8,776 effect sizes examined the relationship between domain-s
 | [Simonsmeier et al. 2022](https://doi.org/10.1080/00461520.2021.1939700) | q4 · quant-synthesis · r3 | i3 · large stability correlation, r=.534; near-zero for normalized gains, r=-.059 | this claim |
 | Ye Mao 2018 | q2 · associational · r1 | i3 | [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) (supports) |
 | [Yusuke Sato 2023](https://doi.org/10.52598/jpll/5/1/4) | q2 · associational · r2 | i? | [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) (qualifies) |
-| Gagne 1981 | q2 · causal · r? | i3 · large effect, r = 0.52; i?; i0 | [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familia](passage-familiarity-correlates-with-recall.md) (supports); [Passage cohesion showed no effect on delayed recall; means showed greater recall from less](cohesion-no-effect-delayed-recall.md) (qualifies) |
+| Gagne 1981 | q2 · causal · r? | i3 · large effect, r = 0.52; i? | [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familia](passage-familiarity-correlates-with-recall.md) (supports); [Passage cohesion showed no effect on delayed recall; means showed greater recall from less](cohesion-no-effect-delayed-recall.md) (qualifies) |
 | Bigenho 1992 | q2 · review · r3 | i? | [Subjects with a more developed schema for a body of knowledge show higher recall for mater](developed-schema-higher-recall.md) (supports) |
 <!-- synthesis:end -->
 
@@ -68,14 +68,14 @@ This claim is one of the most robust premises in educational psychology, but its
 
 **Design implications.** Because prior knowledge governs what instruction can accomplish, designers should (a) assess prior knowledge before selecting treatments, (b) activate relevant knowledge at the point of need rather than assuming it will be retrieved spontaneously, and (c) diagnose misconceptions early, since unaddressed inaccuracies distort how new content is encoded. Sequencing decisions — from [advance organizers](../elements/advance-organizers.md) to fading of [worked examples](../elements/demonstration.md) — should be driven by measured learner starting points, not by a one-size-fits-all progression.
 
-**Open questions.** How durable misconception correction is across time, and how precisely prior knowledge must match new content (versus merely being analogically related), remain active areas. Analogies can bridge partial gaps [~M] — see [analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md)
+**Open questions.** How durable misconception correction is across time, and how precisely prior knowledge must match new content (versus merely being analogically related), remain active areas. Analogies can bridge partial gaps [~M] — see [analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md)
 
 ## Related Claims
 
 - [Activation improves learning.](activation-improves-learning.md) — possessing prior knowledge only helps when it is activated at the right moment
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — a structured bridge from existing knowledge to new material
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — prior knowledge supplies the chunks that free working-memory capacity
-- [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — analogies leverage existing knowledge to structure unfamiliar content
+- [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — analogies leverage existing knowledge to structure unfamiliar content
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — how inaccurate prior knowledge is confronted and revised
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — prior knowledge determines which scaffolds help and which hinder
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — reports the opposite

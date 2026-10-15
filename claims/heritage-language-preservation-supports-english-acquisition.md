@@ -86,7 +86,7 @@ This account describes how preserving two shared languages between parent and ch
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Hansen, Umeda, and McKinney 2002 | q2 · causal · r? | i? | this claim |
+| [Hansen, Umeda, and McKinney 2002](https://doi.org/10.1111/1467-9922.00200) | q2 · causal · r? | i? | this claim |
 | [Kohnert et al. 2005](<https://doi.org/10.1044/0161-1461(2005/025)>) | q2 · causal · r? | i? | this claim |
 | Ebert 2005 | q1 · theoretical · r? | i? | this claim |
 | [Cummins 1979](https://doi.org/10.3102/00346543049002222) | q2 · theoretical · r3 | i? | [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) (supports); [Preservation of the mother tongue predicts second-language achievement among migrant child](mother-tongue-preservation-predicts-l2-achievement.md) (supports); [Semilingualism — less than native-like skill in both languages — is associated with detrim](semilingualism-associated-with-negative-cognitive-effects.md) (qualifies) |

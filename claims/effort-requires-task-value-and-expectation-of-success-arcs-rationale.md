@@ -46,7 +46,7 @@ Theoretical argument in the digest, not a tested result. It states that in expec
 - [Task Value Increases Motivation And Engagement](task-value-increases-motivation-and-engagement.md)
 - [The ARCS Model is described as an easy-to-apply heuristic approach to increasing the motivational appeal of instruction, asserted without evidence in this digest](arcs-model-increases-motivational-appeal-assertion.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Teachers who believe AI use will contribute to their professional success and identity (attainment value) may be more motivated to use it (theoretical argument).](teacher-attainment-value-increases-motivation-to-use-ai.md) — related
 - [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related

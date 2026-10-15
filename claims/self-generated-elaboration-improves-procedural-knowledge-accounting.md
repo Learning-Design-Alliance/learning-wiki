@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy"
-description: Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting
+description: In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy
 id: self-generated-elaboration-improves-procedural-knowledge-accounting
 status: draft
 generated:
@@ -47,6 +47,6 @@ Univariate t-tests among three treatment groups (n = 26, 26, 25) in a pretest/po
 
 - [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
-- [Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy](self-generated-elaboration-improves-intellectual-skills.md) — related
+- [In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy](self-generated-elaboration-improves-intellectual-skills.md) — related
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](gpa-predicts-knowledge-not-attitudes.md) — related

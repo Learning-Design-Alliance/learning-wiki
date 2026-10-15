@@ -64,7 +64,7 @@ Paired samples t-tests within the control group (n = 33) comparing pre-test and 
 ## Related Claims
 - [All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes](all-treatments-produced-significant-gains.md) — related
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
-- [Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) — related
+- [In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) — related
 - [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](no-significant-posttest-retention-decline-either-group.md) — related
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related (a different study; not a merge candidate)

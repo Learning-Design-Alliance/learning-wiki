@@ -24,7 +24,7 @@ sources:
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (3 for, 11 mixed, 1 against) · 24 studies (7 review, 6 causal, 5 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 24 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (3 for, 11 mixed, 1 against) · 25 studies (7 review, 6 causal, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -102,7 +102,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate](../claims/survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) [~W] — not yet checked against its sources
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debaters benefit from explicit routines for claim-evidence-reasoning rather than only being told to "argue well"
 

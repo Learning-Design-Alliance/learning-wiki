@@ -49,6 +49,8 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 
 ## Related Claims
 
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction](children-imitate-beyond-independent-capability.md) — related

@@ -15,7 +15,7 @@ grain_size: unit, lesson
 # 5E Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 24 studies (10 quant-synthesis, 7 causal, 4 review, 2 theoretical, 1 associational), `q2`–`q4` · 10 of 24 report an effect size · 1 claim rests on one study
+> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 25 studies (10 quant-synthesis, 7 causal, 5 review, 2 theoretical, 1 associational), `q2`–`q4` · 10 of 25 report an effect size · 1 claim rests on one study
 
 ## Description
 The 5E Learning Cycle is an instructional sequence for science (and other inquiry-oriented) teaching built on the earlier Karplus learning cycle. Learners first **Engage** with a phenomenon that surfaces prior ideas and creates curiosity, then **Explore** it through hands-on or data-based investigation, then receive formal **Explain** instruction that connects their experience to canonical concepts, then **Elaborate** by applying concepts to new situations, and finally **Evaluate** their own and others' understanding. Its core design move is delaying direct explanation until after concrete experience, so that new concepts answer questions learners have already begun to ask.

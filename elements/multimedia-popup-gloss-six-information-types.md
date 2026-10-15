@@ -41,7 +41,7 @@ The study's gloss is a pop-up window that appears when a reader clicks an underl
 
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](../claims/multimedia-glosses-improve-efl-vocabulary-acquisition.md) [+W]
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](../claims/multimedia-glosses-improve-efl-vocabulary-retention.md) [+W]
-- [Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode](../claims/glossing-medium-large-effects-l2-vocabulary.md) [+W]
+- [Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses](../claims/glossing-medium-large-effects-l2-vocabulary.md) [+W]
 
 ## Related Elements
 - 

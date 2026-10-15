@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards"
-description: "RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency"
+description: An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards
 id: rl-reward-misalignment-failure-modes
 status: draft
 generated:

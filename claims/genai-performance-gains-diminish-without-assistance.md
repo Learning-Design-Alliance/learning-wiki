@@ -45,7 +45,6 @@ The article reports, citing Darvishi et al., a study finding significant boosts 
 ## Related Claims
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — possibly the same claim (merge candidate)
 - [Heavy reliance on generative AI can undermine learning: students with GPT-4 access performed better on practice problems but worse on exams once the tool was removed](gpt4-access-harms-learning-after-withdrawal.md) — a broader claim this one bears on
-- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — a broader claim this one bears on
 - [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — reports the opposite
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related

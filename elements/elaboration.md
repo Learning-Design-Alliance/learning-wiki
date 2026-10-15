@@ -13,7 +13,7 @@ generated:
 # Elaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 19 studies (10 causal, 5 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 6 of 19 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 20 studies (11 causal, 5 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 6 of 20 report an effect size · 6 claims rest on one study
 
 ## Description
 Elaboration is the process of expanding on new information by relating it to what one already knows — generating explanations, examples, analogies, or "why" and "how" questions. As an instructional element, it means designing prompts and activities that require learners to produce these connections rather than passively rereading material. Elaboration deepens encoding by integrating new content into existing knowledge structures, making it more retrievable and more transferable.
@@ -43,7 +43,7 @@ Elaboration improves retention and comprehension because deeper processing at en
 ### Target Learning Goals
 - Long-term retention of factual and conceptual knowledge
 - Conceptual understanding: explaining *why* procedures and principles work
-- Transfer: building multiple retrieval routes and cross-domain connections [Analogical reasoning supports transfer to novel problems.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer: building multiple retrieval routes and cross-domain connections [Analogical reasoning supports transfer to novel problems.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Affordances
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — generating an analogy is elaboration in its most structured form; the learner maps new material onto a familiar domain, which both deepens encoding and supports transfer

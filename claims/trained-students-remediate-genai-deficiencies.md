@@ -43,7 +43,7 @@ Qualitative transcript analysis (RQ4). Illustrative cases include student D poin
 
 
 ## Related Claims
-- [Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems](genai-scaffolding-training-improves-revision-performance.md) — related
+- [Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)](genai-scaffolding-training-improves-revision-performance.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions](problem-solving-preparation-yields-uncritical-or-misconception-based-critiques.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related

@@ -3,13 +3,9 @@
   "note": "Group 5 helper (2026-10-14). Groupings and directions by an agent from the claims' titles and evidence entries. Thin: about six distinct studies across nine claims, and the first two hubs share Alfieri et al. (2013) and Gentner et al. (2003). Also covers the case-based-learning pattern's evidence (no separate spec for anchored instruction or case-based learning). Review before applying.",
   "findings": [
     {
-      "hub": "analogical-reasoning-improves-transfer",
+      "hub": "comparing-contrasting-cases-improves-learning",
       "question": "Does comparing analogous cases improve transfer more than studying cases one at a time?",
       "members": [
-        [
-          "comparing-contrasting-cases-improves-learning",
-          "~"
-        ],
         [
           "cognitive-flexibility-theory-multiple-cases",
           "~"

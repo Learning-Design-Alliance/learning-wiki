@@ -30,7 +30,7 @@ Building a strategy repertoire shifts instruction from single-procedure mastery 
 
 #### Constraints
 - Requires significant preparation and instructional time; teaching multiple strategies effectively is slower than teaching one
-- Presenting too many methods at once overwhelms novices and increases extraneous load [Example–problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [-M] — breadth must be built incrementally
+- Presenting too many methods at once overwhelms novices and increases extraneous load [Example–problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [-M] — breadth must be built incrementally
 - Premature comparison before any method is understood produces shallow, confusable knowledge rather than flexibility
 - Weaker students can fixate on an inefficient preferred strategy if comparison is left unstructured [~M]
 

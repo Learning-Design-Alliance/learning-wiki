@@ -9,14 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 sources:
-  - id: seet-relevance
-    title: seet-relevance
-    q: 2
-    i: "?"
-    kind: review
-    rigour: 2
-  - id: seet-coherence
-    title: seet-coherence
+  - id: mcelhaney-et-al-2023
+    title: McElhaney et al. 2023
     q: 2
     i: "?"
     kind: review
@@ -26,7 +20,7 @@ sources:
 # Students find OpenSciEd units relevant and coherent, with over 90% reporting relevance and 87% reporting the lesson ties to the bigger picture
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` More than 90% of students reported instruction to be relevant to them, across racial backgrounds, including during remote pandemic enactment. [→ McElhaney et al. 2023](#mcelhaney-et-al-2023)

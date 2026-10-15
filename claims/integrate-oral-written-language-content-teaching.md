@@ -44,5 +44,5 @@ The guide's evidence summary for Recommendation 2 reports "Five randomized contr
 
 ## Related Claims
 - [Small-group instructional intervention for students struggling in literacy and English language development is supported by six RCTs at moderate evidence level](small-group-intervention-literacy-eld-moderate-evidence.md) — related
-- [Intensive academic vocabulary instruction across several days is supported by strong evidence from six WWC-standard studies](academic-vocabulary-intensive-instruction-strong-evidence.md) — related
+- [A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)](academic-vocabulary-intensive-instruction-strong-evidence.md) — related
 - [Structured opportunities to develop written language skills carry only minimal evidence, resting on two secondary-level studies](structured-writing-opportunities-minimal-evidence.md) — related

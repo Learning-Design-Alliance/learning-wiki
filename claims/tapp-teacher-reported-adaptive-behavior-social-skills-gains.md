@@ -47,4 +47,4 @@ First randomized controlled trial (2012, 21 Midwestern elementary schools, 207 K
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](getting-ready-replication-relationships.md) — related
 - [TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)](tapp-rural-trial-behavior-problems-improvement.md) — related
 - [Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior](tapp-observation-on-task-prosocial-behavior-gains.md) — related
-- [TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial](tapp-strengthens-parent-teacher-relationships.md) — related
+- [In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships](tapp-strengthens-parent-teacher-relationships.md) — related

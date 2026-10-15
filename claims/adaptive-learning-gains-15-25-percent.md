@@ -43,6 +43,6 @@ The review reports, citing Yuensook et al. (2025), a synthesis of AI-driven adap
 
 ## Related Claims
 
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — a broader claim this one bears on
-- [A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula](rl-adaptive-system-grade-engagement-gains.md) — related
+- [A technical review reports that one reinforcement-learning adaptive platform raised average course grades by 12%, task completion by 20% and cut dropout by 10% against static curricula (uncontrolled case report)](rl-adaptive-system-grade-engagement-gains.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)"
-description: SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)
+description: SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)
 id: swpbis-improves-prosocial-behavior
 status: draft
 generated:
@@ -45,9 +45,9 @@ In the 4-year group RCT, HLM on teacher TOCA-C prosocial behavior ratings showed
 
 
 ## Related Claims
-- [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
+- [SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
 - [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](swpbis-strongest-kindergarten-exposure.md) — related
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
 - [At end of program, the largest Too Good for Drugs effect was on teacher-rated prosocial behaviors (effect size 0.52), not statistically significant after WWC correction](too-good-for-drugs-prosocial-behavior-end-of-program-es-052.md) — related
-- [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
-- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
+- [SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
+- [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related

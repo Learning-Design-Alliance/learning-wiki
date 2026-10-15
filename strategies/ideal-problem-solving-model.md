@@ -13,7 +13,7 @@ generated:
 # IDEAL Problem-Solving Model
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 IDEAL (Bransford & Steen, 1984) is a general problem-solving system usable across curriculum areas and problem types, named for its five stages:
@@ -46,7 +46,7 @@ Many other systems for teaching problem-solving exist for specific domains — g
 ### Target Learners
 - Learners across a wide range of curriculum areas who need an explicit, transferable structure for approaching complex problems, rather than a domain-specific technique
 - Novices who jump to solutions without representing the problem, producing pattern-matching errors [~M]
-- Intermediate learners preparing for transfer to unfamiliar problem types, where the Look back phase builds analogical comparison habits [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Intermediate learners preparing for transfer to unfamiliar problem types, where the Look back phase builds analogical comparison habits [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Less useful for advanced learners with established domain strategies, who find the general cycle redundant [~W]
 
 ### Target Learning Goals
@@ -125,13 +125,13 @@ The strategy operationalizes research on expert–novice differences: experts sp
 
 ### Target Learners
 - Novices who jump to solutions without representing the problem, producing pattern-matching errors [~M]
-- Intermediate learners preparing for transfer to unfamiliar problem types, where the Look back phase builds analogical comparison habits [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Intermediate learners preparing for transfer to unfamiliar problem types, where the Look back phase builds analogical comparison habits [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Less useful for advanced learners with established domain strategies, who find the general cycle redundant [~W]
 
 ### Target Learning Goals
 - Problem representation: translating a situation into a defined, solvable form
 - Metacognitive regulation: planning, monitoring, and evaluating one's own problem solving
-- Transfer: recognizing when problems share deep structure despite surface differences [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer: recognizing when problems share deep structure despite surface differences [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. **Model the full cycle.** Solve a problem aloud, making each IDEAL phase explicit — including a false start and revision during Look back, so learners see the cycle as iterative rather than linear.

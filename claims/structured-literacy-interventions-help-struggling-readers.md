@@ -81,7 +81,7 @@ A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 1
 - [Direct instruction.](../patterns/direct-instruction.md) — the explicit, teacher-guided delivery model structured literacy depends on
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — related
 - [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
-- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
 - [Systematic Phonics Improves Word Reading](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related

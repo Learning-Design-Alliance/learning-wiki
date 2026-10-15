@@ -9,20 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: mixed
 sources:
-  - id: project-fatigue
-    title: project-fatigue
-    q: 2
-    i: "?"
-    kind: review
-    rigour: 2
-  - id: pacing-challenge
-    title: pacing-challenge
-    q: 2
-    i: "?"
-    kind: review
-    rigour: 2
-  - id: pseudoagency-gaps
-    title: pseudoagency-gaps
+  - id: mcelhaney-et-al-2023
+    title: McElhaney et al. 2023
     q: 2
     i: "?"
     kind: review
@@ -32,7 +20,7 @@ sources:
 # OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 3 review `r2` · `q2`
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Some teachers reported students' interest in the anchoring phenomenon declines over time (project fatigue). [→ McElhaney et al. 2023](#mcelhaney-et-al-2023)

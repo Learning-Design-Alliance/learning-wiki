@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge"
-description: Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge
+description: A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge
 id: structured-input-alone-sufficient-for-acquisition
 status: draft
 generated:

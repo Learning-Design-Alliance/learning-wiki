@@ -77,9 +77,9 @@ Systematic review of 22 peer-reviewed studies of morphological intervention with
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — morphemes function as meaningful chunks, reducing the load of processing long words
 - [Accessible vocabulary and syntax.](../principles/accessible-vocabulary-syntax.md) — accessible texts provide the authentic word material learners apply morphological analysis to
 - [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
-- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
-- [Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)](emi-effect-size-larger-for-awareness-than-comprehension.md) — related
+- [Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)](emi-effect-size-larger-for-awareness-than-comprehension.md) — related
 - [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](emi-raises-efl-morphological-awareness.md) — a narrower finding that bears on this claim
 - [Morphology+ showed larger positive effects in the informational text (+0.17) and vocabulary (+0.18) subdomains than the overall reading effect](morphology-plus-subdomain-effects-informational-vocabulary.md) — related
 - [One year of STARI significantly improves word recognition, basic reading comprehension efficiency, and morphological awareness in struggling middle school readers](stari-improves-word-recognition-comprehension-morphological-awareness.md) — related

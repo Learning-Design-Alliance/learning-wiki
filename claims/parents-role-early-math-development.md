@@ -46,5 +46,5 @@ The brief states it draws on research to explain "the important role parents pla
 - [Supporting early childhood math development is important for young children's development](early-math-development-importance.md) — related
 - [Exposing young children to early math concepts supports reasoning, problem solving, and later success in and out of school](early-math-exposure-supports-reasoning-and-later-success.md) — related
 - [The home environment plays an important role in early childhood development](home-environment-role-early-childhood-development.md) — related
-- [Guided Play Improves Academic Outcomes](guided-play-improves-academic-outcomes.md) — related
+- [Guided Play Improves Academic Outcomes](play-based-learning-improves-outcomes.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related

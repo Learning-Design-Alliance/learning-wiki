@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A WWC practice-guide panel rates developing and using clear behavior expectations as supported by strong evidence from 14 studies"
-description: Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards
+description: A WWC practice-guide panel rates developing and using clear behavior expectations as supported by strong evidence from 14 studies
 id: clear-behavior-expectations-strong-evidence-14-studies
 status: draft
 generated:

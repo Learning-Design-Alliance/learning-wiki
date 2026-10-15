@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught"
-description: "The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge"
+description: Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught
 id: local-indigenous-culture-student-interest
 status: draft
 generated:

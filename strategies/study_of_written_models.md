@@ -19,7 +19,7 @@ Study of written models asks learners to closely examine exemplary texts — the
 
 ## Design Implications
 
-Models work the way worked examples do in problem solving: they eliminate unguided search by showing a complete, correct product before learners attempt their own [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. But the benefit depends on analysis, not just exposure — learners who explain *why* a model works (its moves, its structure) gain more than those who merely read it [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Models should therefore be paired with annotation, comparison, and imitation tasks rather than presented as reading material.
+Models work the way worked examples do in problem solving: they eliminate unguided search by showing a complete, correct product before learners attempt their own [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]. But the benefit depends on analysis, not just exposure — learners who explain *why* a model works (its moves, its structure) gain more than those who merely read it [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Models should therefore be paired with annotation, comparison, and imitation tasks rather than presented as reading material.
 
 ### Context
 #### Requirements

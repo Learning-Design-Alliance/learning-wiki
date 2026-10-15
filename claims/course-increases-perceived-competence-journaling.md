@@ -67,6 +67,6 @@ ANOVAs on the IMI perceived-choice and pressure sub-scales among active particip
 ## Related Claims
 - [Both the course and the assistant increase behavioral engagement, measured as characters written per journaling prompt](course-and-assistant-increase-writing-engagement.md) — related
 - [Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not](robot-adaptiveness-mixed-autonomy-effects.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Course users create their journal entries earlier relative to the daily notification, while assistant access shows no significant timing effect](course-users-earlier-journal-entry-timing.md) — related
 - [The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal](journaling-assistant-no-intrinsic-motivation-effect.md) — related

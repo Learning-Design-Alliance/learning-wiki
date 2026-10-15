@@ -16,7 +16,7 @@ grain_size: lesson
 # Gagné's 9 Events of Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 13 claims (4 for, 8 mixed, 1 against) · 26 studies (10 causal, 6 quant-synthesis, 5 review, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 26 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (4 for, 8 mixed, 1 against) · 27 studies (10 causal, 6 quant-synthesis, 6 review, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 27 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -99,7 +99,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 
 ## Illustrative design instance and observation record
 

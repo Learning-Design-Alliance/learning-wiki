@@ -44,7 +44,7 @@ The report asserts, citing Priniski et al., that purpose fosters meaning in lear
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — a narrower finding that bears on this claim

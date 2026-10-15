@@ -12,7 +12,7 @@ generated:
 # Categorization
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Categorization asks learners to actively sort, group, or label cases — problems, examples, specimens, arguments — according to their deep structure rather than surface features. Instead of reading a taxonomy, learners construct it, deciding which items belong together and articulating why.
@@ -46,7 +46,7 @@ Expertise research shows that what distinguishes experts is not only richer know
 
 ### Target Learning Goals
 - Conceptual understanding: discriminating when concepts apply versus when they do not
-- Transfer: mapping new problems to known problem types [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer: mapping new problems to known problem types [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Preparation for future learning: building intuitions that make subsequent instruction more productive [Schwartz & Bransford, 1998](https://doi.org/10.1207/s1532690xci1701_2) [+S]
 
 ### Instructions

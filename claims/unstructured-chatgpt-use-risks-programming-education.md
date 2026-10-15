@@ -62,7 +62,7 @@ The chapter reports, citing Cowan et al. (2023), that "only 30% of ChatGPT outpu
 
 
 ## Related Claims
-- [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — reports the opposite
+- [A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — reports the opposite
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related

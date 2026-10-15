@@ -43,10 +43,10 @@ The author's review of studies on input manipulation in adult second language ac
 
 
 ## Related Claims
-- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](white-adverb-placement-negative-evidence-failed.md) — a narrower finding that bears on this claim
+- [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](white-adverb-placement-negative-evidence-failed.md) — a narrower finding that bears on this claim
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — a broader claim this one bears on
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
-- [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](instruction-little-effect-on-route-of-acquisition.md) — a broader claim this one bears on
+- [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](instruction-little-effect-on-route-of-acquisition.md) — a broader claim this one bears on
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — reports the opposite
 - [Grammar instruction and skill drills show little carryover to composition success](grammar-drills-little-carryover-composition.md) — a narrower finding that bears on this claim
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related

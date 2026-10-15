@@ -36,7 +36,7 @@ Learning tasks drive learning because they force learners to *use* knowledge rat
 - Learners with high prior knowledge may find heavily scaffolded early tasks redundant and demotivating [Expertise reversal: guidance that helps novices can hinder more knowledgeable learners.](../claims/expertise-reversal-effect.md) [~M]
 
 ### Target Learners
-- Novices, provided early tasks are heavily scaffolded and complexity is carefully sequenced [Example–problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Novices, provided early tasks are heavily scaffolded and complexity is carefully sequenced [Example–problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+M]
 - Intermediate learners, who benefit most from task variety and fading support [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 - Advanced learners, who need less scaffolding and more task variability to discriminate between situations
 

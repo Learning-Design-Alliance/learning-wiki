@@ -44,7 +44,7 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 
 ## Claims
 
-- [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](../claims/lab-technology-gains-depend-on-active-engagement-pedagogy.md) [+M]
+- [The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within](../claims/lab-technology-gains-depend-on-active-engagement-pedagogy.md) [+M]
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](../claims/serial-mediation-ai-literacy-tpack-efficacy-intention.md) [+W] — attached 2026-10-10 from Zou J et al. (2026), which proposed "AI-TPACK as a professional knowledge bridge linking general AI literacy, science teaching self-efficacy, and AI integration intention".
 - [AI literacy positively predicts AI-TPACK among Chinese pre-service science teachers](../claims/ai-literacy-predicts-ai-tpack-preservice-science-teachers.md) [+W] — attached 2026-10-10 from Zou J et al. (2026), which proposed "AI-TPACK as a professional knowledge bridge linking general AI literacy, science teaching self-efficacy, and AI integration intention".
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](../claims/ai-tpack-predicts-science-teaching-self-efficacy.md) [+W] — attached 2026-10-10 from Zou J et al. (2026), which proposed "AI-TPACK as a professional knowledge bridge linking general AI literacy, science teaching self-efficacy, and AI integration intention".

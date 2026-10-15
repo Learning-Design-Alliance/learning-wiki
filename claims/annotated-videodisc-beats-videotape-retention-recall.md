@@ -41,6 +41,7 @@ Comparison study in the McKay Institute projects section: an intermediate Spanis
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - [The interactive videodisc combines the capabilities of books, movies, and computer-assisted instruction in one delivery medium](videodisc-combines-books-movies-cai-capabilities.md) — related

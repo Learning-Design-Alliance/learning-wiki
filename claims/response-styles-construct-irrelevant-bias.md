@@ -62,4 +62,3 @@ Background assertion stated in the abstract, attributed to prior research rather
 ## Related Claims
 
 - [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs, with effects varying by psychological construct, response style, and model used](response-style-growth-effects-vary-by-construct-and-model.md) — related
-- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](response-styles-affect-growth-parameter-estimates.md) — related

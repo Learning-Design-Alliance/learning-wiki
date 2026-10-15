@@ -47,6 +47,6 @@ The author's practitioner distinction, drawn from experience teaching an older-b
 
 ## Related Claims
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](older-beginners-excluded-from-standard-adl-esl.md) — related
-- [Students in the author's older-beginner Step One class made measured gains, including an average 128-point BEST Plus gain over 6 months and two former absolute beginners passing the citizenship test](older-beginner-esl-outcome-gains.md) — related
+- [In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test](older-beginner-esl-outcome-gains.md) — related
 - [Utah Schools for the Deaf and Blind adapted the Resilience, Rights & Respectful Relationships curriculum for intentional, direct SEL instruction with deaf students](intentional-sel-instruction-deaf-students.md) — a narrower finding that bears on this claim
 - [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](trauma-informed-practices-mitigate-trauma-promote-resilience.md) — related

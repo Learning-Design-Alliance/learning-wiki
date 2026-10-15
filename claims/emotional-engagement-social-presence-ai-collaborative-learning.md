@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes"
-description: Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments
+description: A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes
 id: emotional-engagement-social-presence-ai-collaborative-learning
 status: draft
 generated:
@@ -48,4 +48,4 @@ The review's synthesis of affective-factor studies (narrative review attributing
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — a narrower finding that bears on this claim
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — a broader claim this one bears on
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](motivation-social-presence-boost-engagement-agentic-ai.md) — a narrower finding that bears on this claim
-- [Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
+- [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related

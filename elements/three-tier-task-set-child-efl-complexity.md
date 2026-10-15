@@ -38,7 +38,7 @@ The study operationalized task complexity through three classroom tasks around L
 
 ## Claims
 
-- [Recasts facilitate child EFL learners' acquisition of the third person singular -s verb form in task-based lessons](../claims/recasts-facilitate-child-efl-third-person-s-development.md) [+W]
+- [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](../claims/recasts-facilitate-child-efl-third-person-s-development.md) [+W]
 - [Higher task complexity is associated with lower written production of the target form among child learners receiving recasts](../claims/task-complexity-negatively-related-child-written-production.md) [+W]
 - [Task complexity shows no significant effect on child learners' oral production of the target form when receiving recasts](../claims/task-complexity-no-effect-child-oral-production.md) [+W]
 

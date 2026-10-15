@@ -19,7 +19,7 @@ Learners are shown two dot cards, identify which card has more dots, and determi
 
 ## Design Implications
 
-Comparison-based subtraction tasks connect the operation to a meaningful question rather than a procedure, which supports conceptual understanding alongside fluency [Visual and concrete representations in early mathematics support number sense and operational understanding.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]. Well-structured dot arrangements (subitizable groups, consistent layouts) reduce counting errors so working memory is spent on the comparison, not on re-counting [Chunking dot patterns into recognizable groups reduces working-memory load during comparison.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Comparison-based subtraction tasks connect the operation to a meaningful question rather than a procedure, which supports conceptual understanding alongside fluency [Visual and concrete representations in early mathematics support number sense and operational understanding.](../claims/worked-example-problem-sequences.md) [~M]. Well-structured dot arrangements (subitizable groups, consistent layouts) reduce counting errors so working memory is spent on the comparison, not on re-counting [Chunking dot patterns into recognizable groups reduces working-memory load during comparison.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements

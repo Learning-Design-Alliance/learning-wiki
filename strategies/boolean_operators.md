@@ -52,7 +52,7 @@ Search is a problem-solving task with a hidden logic layer; without instruction,
 
 ### Instructions
 1. Diagnose: have learners run a natural-language search on a research question and record the number and quality of results.
-2. Model: demonstrate each operator with a think-aloud, showing the query, the result count, and why the change helps (AND narrows, OR broadens with synonyms, NOT excludes, parentheses group, * truncates) — a form of [worked example](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M].
+2. Model: demonstrate each operator with a think-aloud, showing the query, the result count, and why the change helps (AND narrows, OR broadens with synonyms, NOT excludes, parentheses group, * truncates) — a form of [worked example](../claims/worked-example-problem-sequences.md) [+M].
 3. Contrast: learners re-run the identical search using operators and compare result sets side by side.
 4. Practice: assign search challenges requiring a target result set size (e.g., "get between 20 and 50 relevant results"), forcing deliberate operator use [Practice](../elements/practice.md).
 5. Reflect: learners explain which operators helped and why, connecting syntax to the information need.

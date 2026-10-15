@@ -77,7 +77,7 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does feedback after retrieval add to the benefit?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **8 distinct studies** (3 quant-synthesis, 3 causal, 2 review), `q2`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does feedback after retrieval add to the benefit?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (3 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q2`–`q4`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -89,6 +89,7 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 | [Fazio & Marsh 2009](https://doi.org/10.3758/pbr.16.1.88) | q3 · causal · r? | i? | [High-confidence errors lead to better retention after correction than low-confidence error](high-confidence-errors-improve-retention.md) (supports) |
 | [Kluger 1996](https://doi.org/10.1037/0033-2909.119.2.254) | q2 · quant-synthesis · r2 | i? | [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the mult](outcome-feedback-impedes-complex-task-learning-mcpl.md) (qualifies) |
 | Weiss 1980 | q2 · causal · r? | i? | [Immediate knowledge of results during computerized achievement testing produces essentiall](knowledge-of-results-no-effect-achievement-test-dimensionality.md) (qualifies) |
+| Glaser 1966 | q2 · theoretical · r3 | i? | [Overt correction of errors speeds young children's learning compared with knowledge of cor](overt-error-correction-speeds-young-children-learning.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

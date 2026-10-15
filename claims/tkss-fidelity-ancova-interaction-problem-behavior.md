@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Teachers' PBIS knowledge and fidelity (TKSS score) interacts with pre-to-post change in problem behavior among students with emotional disturbance"
-description: Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)
+description: Teachers' PBIS knowledge and fidelity (TKSS score) interacts with pre-to-post change in problem behavior among students with emotional disturbance
 id: tkss-fidelity-ancova-interaction-problem-behavior
 aliases: [low-fidelity-pbis-smaller-student-improvements]
 status: draft
@@ -60,6 +60,6 @@ Authors' discussion interpretation (type e) of the fidelity findings: low-fideli
 
 ## Related Claims
 
-- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — the general claim this finding bears on, with the studies behind it
+- [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — the general claim this finding bears on, with the studies behind it
 
 - [The percentage of students with ED meeting clinically significant problem-behavior criteria declined significantly from pre- to post-test](pbis-reduces-externalizing-total-problems-ed-self-contained.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A 2016 WWC practice guide reports, citing Scott-Clayton (2012), that 24-33% of students were misplaced at matriculation, more often into developmental courses than the reverse"
-description: A substantial share of students are misplaced by single placement tests, more often into developmental courses than the reverse
+description: A 2016 WWC practice guide reports, citing Scott-Clayton (2012), that 24-33% of students were misplaced at matriculation, more often into developmental courses than the reverse
 id: misplacement-rates-24-33-percent
 status: draft
 generated:

@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: feedback-most-effective-at-task-and-process-levels
+aliases: [high-information-feedback-d099-versus-reinforcement-d024]
 evidence_strength:
 sources:
   - id: wisniewski-et-al-2020
@@ -41,6 +42,8 @@ Feedback directed at the task (how well the work meets the goal) and at the proc
 
 `q4 i2` In a meta-analysis of feedback interventions on performance generally (not only education), feedback effectiveness decreased as feedback drew attention up the hierarchy toward the self and away from the task, although the average effect was positive (d = .41) and over a third of interventions lowered performance. [→ Kluger & DeNisi 1996](#kluger-denisi-1996)
 
+`q3 i3` Type of feedback is a statistically significant moderator: high-information feedback (k = 42, d = 0.99) outperforms corrective feedback (k = 238, d = 0.46) and reinforcement/punishment (k = 39, d = 0.24). [→ Wisniewski B 2020](#wisniewski-et-al-2020)
+
 ## Evidence
 
 ### Wisniewski et al. 2020
@@ -50,6 +53,18 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 `q4 · meta-analysis (random effects, not pre-registered)` · `i3 · very large effect for high-information feedback, d=0.99` · `n=435 studies` · `quant-synthesis · r?`
 
 A random-effects meta-analysis of 435 studies (994 effect sizes, more than 61,000 learners) of feedback on student learning, set up to test the Hattie and Timperley (2007) model. The overall effect was medium (d = 0.48 after removing outliers) with very high heterogeneity (I² about 83%). Studies were coded by the type of information feedback carried: reinforcement or punishment (d = 0.24), corrective feedback (d = 0.46), and high-information feedback that addresses the task, the process and sometimes self-regulation (d = 0.99). Motivational outcomes showed smaller effects (d = 0.33) than cognitive ones (d = 0.51). The authors did not code self-level praise as its own category, so the self-level contrast here rests on the reinforcement/punishment group and on their summary of Hattie and Timperley.
+
+<!-- merged 2026-10-15 from high-information-feedback-d099-versus-reinforcement-d024: that page's entry for this study, which differed from the one above, kept verbatim.
+### Wisniewski B 2020
+
+Wisniewski B, Zierer K and Hattie J (2020) The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research. Front. Psychol. 10:3087. https://doi.org/10.3389/fpsyg.2019.03087
+
+`q3 · i3` · `quant-synthesis · r3`
+
+Mixed-effects moderator analysis (Table 3) of 994 effect sizes coded by feedback type. High-information feedback, containing task, process and sometimes self-regulation information, shows d = 0.99 [0.82–1.15]; reinforcement/punishment shows d = 0.24 [0.06–0.43].
+
+> "Reinforcement or punishment 39 0.24 [0.06 – 0.43] 123.54 69.2% Corrective feedback 238 0.46 [0.39 – 0.55] 1260.41 81.2% High-information feedback 42 0.99 [0.82 – 1.15] 157.12 73.9%"
+-->
 
 ### Kluger & DeNisi 1996
 
@@ -88,5 +103,5 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related
 - [In the expectations meta-analysis, the amount of feedback agents provided had only a meager relation to performance (r = .07) whereas the climate agents created had a strong one (r = .36)](agent-feedback-amount-weak-climate-strong-performance.md) — related
-- [Feedback interventions improve performance on average with a moderate effect (d = .41), but over 38% of feedback-intervention effects are negative](fi-meta-analysis-mean-d-41-over-38-percent-negative.md) — related
-- [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](high-information-feedback-d099-versus-reinforcement-d024.md) — possibly the same claim (merge candidate)
+- [On the immediate posttest of explicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-explicit-short-term-differences.md) — related
+- [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related

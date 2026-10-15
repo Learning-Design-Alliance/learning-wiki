@@ -18,7 +18,7 @@ sources:
 # Guided Discovery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 6 studies (3 quant-synthesis, 1 causal, 1 review, 1 design), `q2`–`q4` · 2 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 7 studies (3 quant-synthesis, 2 review, 1 causal, 1 design), `q2`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive. It is useful when the goal is active sensemaking without leaving learners entirely unguided.

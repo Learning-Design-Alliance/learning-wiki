@@ -63,14 +63,14 @@ A systematic review and random-effects meta-analysis of randomized controlled tr
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Wood et al. 1987](https://doi.org/10.1037/0021-9010.72.3.416) | q3 · quant-synthesis · r? | i2 · medium effect, d=.42 (complex tasks) to d=.76 (simple tasks) | this claim |
 | [Epton et al. 2017](https://doi.org/10.1037/ccp0000260) | q4 · quant-synthesis · r? | i1 · small effect, d=.34 (95% CI .28–.41) | this claim |
 | [Locke & Latham 2002](https://doi.org/10.1037/0003-066x.57.9.705) | q2 · review · r? | i? | [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" g](specific-difficult-goals-lead-to-higher-performance.md) (supports) |
-| Nagaoka 2014 | q1 · theoretical · r? | i? | [The paper reports that clear, specific, and challenging goals have been linked to higher t](clear-specific-challenging-goals-linked-to-task-performance.md) (supports) |
+| Nagaoka 2014 | q1 · theoretical · r? | i? | [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" g](specific-difficult-goals-lead-to-higher-performance.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -94,4 +94,3 @@ A systematic review and random-effects meta-analysis of randomized controlled tr
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
-- [The paper reports that clear, specific, and challenging goals have been linked to higher task performance than simple encouragement, under stated conditions](clear-specific-challenging-goals-linked-to-task-performance.md) — related

@@ -43,7 +43,7 @@ DL2F treats language proficiency as an ongoing journey rather than a fixed desti
 ### Claims
 
 - [Dl2F Dynamic Language Learning Framework](../theories/dl2f-dynamic-language-learning-framework.md) [+M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ## Related Principles
 - 

@@ -66,7 +66,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 ## Claims
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — articulation in social settings often improves understanding beyond passive exposure alone
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — comparing one’s thinking with others can improve judgment about current understanding and next steps
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — comparing one’s thinking with others can improve judgment about current understanding and next steps
 - [Dynamic systems theory and sociocultural theory are incommensurable because language is a complex adaptable, not adaptive, system](../claims/dst-sct-incommensurable-language-adaptable-system.md) [-W]
 - [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+W]
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [+W]

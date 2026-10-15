@@ -63,5 +63,5 @@ The guide reports, citing Stern, that "older learners can benefit more than youn
 
 ## Related Claims
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — related
-- [No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children](no-evidence-older-adults-cannot-learn-language.md) — related
+- [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — related
 - [Adults learn languages more quickly than children in the early stages of second language acquisition](adults-faster-early-stage-language-learning.md) — related

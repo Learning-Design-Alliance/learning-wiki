@@ -85,6 +85,6 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related
-- [Individual internet penetration in rural Bangladesh stands at 36.5% versus 71.4% in urban areas, rendering cloud-dependent AI tools functionally inaccessible to rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related
+- [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related
 - [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — related

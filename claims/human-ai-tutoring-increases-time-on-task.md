@@ -69,4 +69,4 @@ DiD comparison of proactive versus reactive groups on IXL time on task (Table 5)
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
 - [At the median cutoff, proactive and reactive tutoring show no significant difference in MAP growth, with proactive benefits increasing for students farther below the cutoff](didc-cutoff-null-proactive-benefit-increases-below-cutoff.md) — related
 - [Proactive tutoring produced larger relative MAP growth than reactive tutoring on average (75% marginally significant in the IK bandwidth)](proactive-tutoring-larger-relative-map-growth.md) — related
-- [Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students](human-ai-tutoring-skill-proficiency-gap-widens.md) — related
+- [Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)](human-ai-tutoring-skill-proficiency-gap-widens.md) — related

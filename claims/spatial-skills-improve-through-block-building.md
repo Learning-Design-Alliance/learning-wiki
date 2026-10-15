@@ -53,7 +53,7 @@ Boundary conditions and open questions remain. It is not established whether gai
 ## Related Claims
 
 - [Block play predicts math achievement](block-play-predicts-math-achievement.md) — correlational link between block play and later math outcomes; complements the causal spatial-skills claim
-- [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — spatial assembly tasks rely on structural comparison and mapping
+- [Analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md) — spatial assembly tasks rely on structural comparison and mapping
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — building strategies that group pieces reduce the spatial working-memory demands of construction
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — framework for why spatial manipulation tasks can overload novice learners without scaffolding
 - [Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade](block-play-complexity-predicts-later-math-achievement.md) — related

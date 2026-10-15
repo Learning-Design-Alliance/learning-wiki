@@ -104,14 +104,14 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the framework in which learners' scheduling decisions are made, and where this illusion does its damage
 - [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) — expertise moderates how learners respond to and judge instructional conditions
 - [Adaptive learning](../principles/adaptive-learning.md) — system-controlled scheduling sidesteps learner misjudgment entirely
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — algorithmic scheduling is one route to removing the scheduling decision from the learner
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — algorithmic scheduling is one route to removing the scheduling decision from the learner
 - [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
-- [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — related
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](self-monitoring-improves-self-regulation.md) — related
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related

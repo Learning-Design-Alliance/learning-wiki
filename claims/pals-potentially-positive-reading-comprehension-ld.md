@@ -41,11 +41,12 @@ WWC synthesis of two RCTs measuring reading comprehension with the CRAB Question
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — the general claim this finding bears on, with the studies behind it
 - [PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders](pals-fluency-no-significant-effects-first-grade.md) — related
 - [PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately](pals-full-sample-significant-ld-subset-not.md) — related
 - [PALS shows no discernible effects on mathematics for students with learning disabilities](pals-no-discernible-math-effects-ld.md) — related
-- [PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering](pals-potentially-positive-comprehension-effect-adolescent.md) — related
+- [The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering](pals-potentially-positive-comprehension-effect-adolescent.md) — related
 - [For first-grade nonresponders, PALS showed a substantively important negative (but statistically non-significant) effect on reading comprehension versus adult tutoring](pals-mcmaster-comprehension-negative-effect.md) — related
-- [PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant)](pals-potentially-positive-reading-fluency-ld.md) — related
+- [PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)](pals-potentially-positive-reading-fluency-ld.md) — related

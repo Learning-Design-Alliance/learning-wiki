@@ -1,7 +1,7 @@
 ---
 type: claim
 title: A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language
-description: No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children
+description: A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language
 id: no-evidence-older-adults-cannot-learn-language
 status: draft
 generated:

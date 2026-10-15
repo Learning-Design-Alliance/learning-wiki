@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed"
-description: Trainees consistently wanted more debriefing time than scheduled, and structured reflection connecting exercise data to actionable outputs is where deeper learning happens.
+description: In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed
 id: reflection-debriefing-time-underscheduled
 status: draft
 generated:

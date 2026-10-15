@@ -3,6 +3,7 @@ type: claim
 title: Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading
 description: Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading
 id: ai-reliance-correlated-lower-critical-thinking-offloading
+aliases: [llm-substitution-negative-critical-thinking-correlation]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 3
+  - id: mahbub-ul-alam-2026
+    resource: "https://arxiv.org/abs/2609.13155"
+    title: "Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155"
+    author: Mahbub Ul Alam
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Evidence** · 2 studies · 1 design `r1`, 1 theoretical `r3` · `q2`
 
 ## Subclaims
+
 `q2 i?` A user study across age and education levels found higher AI reliance correlated with lower HCTA critical-thinking performance, mediated by cognitive offloading. [→ Favero 2025](#favero-2025)
+
+`q2 i?` Among 666 participants, AI tool use correlated negatively with critical thinking, with cognitive offloading as mediator and a stronger association in younger users. [→ Mahbub Ul Alam 2026](#mahbub-ul-alam-2026)
 
 ## Evidence
 
@@ -39,14 +51,27 @@ The paper reports, citing Gerlich, a user study across age and education levels 
 
 > "A user study by Gerlich [9] across age and education levels found that a higher reliance on AI was correlated with lower performance on the HCTA critical thinking assessment by Halpern [18] mediated by cognitive offloading."
 
+### Mahbub Ul Alam 2026
+
+Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155
+
+`q2 · i?` · `design · r1`
+
+The review reports, citing Gerlich (2025a), a mixed-methods study of 666 participants finding a "significant negative correlation between AI tool use and critical thinking". No effect size is printed in the review.
+
+> "Gerlich (2025a), in a mixed-methods study of 666 participants, found a significant negative correlation between AI tool use and critical thinking, mediated by cognitive offloading and strongest in younger users."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [A moderate negative correlation exists between cognitive offloading tendency and critical thinking while the constructs remain empirically distinct](cot-cts-correlation-distinct-constructs.md) — related
 - [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — possibly the same claim (merge candidate)
 - [High-achieving students less often endorse AI-supported autonomy, effective learning, and active engagement, and more often agree that reliance on AI hinders critical thinking and independent problem solving](item-level-high-achievers-hinder-critical-thinking.md) — a narrower finding that bears on this claim
 - [Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes](polychronicity-moderates-ai-use-learning-relationships.md) — related
-- [AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)](llm-substitution-negative-critical-thinking-correlation.md) — possibly the same claim (merge candidate)
+- [GenAI's effects on higher-order thinking are mixed: support for reflection and idea expansion alongside cognitive offloading and no overall innovativeness gain](genai-higher-order-thinking-mixed.md) — a broader claim this one bears on
+- [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](nfc-correlates-critical-use-and-skeptical-usefulness.md) — related

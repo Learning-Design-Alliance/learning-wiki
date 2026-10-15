@@ -39,7 +39,7 @@ sources:
 # Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 1 causal `r2`, 1 quant-synthesis `r2` · `q2`–`q3` · `i2`–`i3` · n=15 studies (38 effect sizes)
+> **Evidence** · 2 studies (3 entries) · 1 causal `r2`, 1 quant-synthesis `r2` · `q2`–`q3` · `i2` medium · n=15 studies (38 effect sizes)
 
 ## Subclaims
 `q2 i2` The treatment group showed a significant reduction in segmental error rate with a moderate effect size (d = 0.52), while the control group showed a slight non-significant increase. [→ Dillon 2023](#dillon-2023)

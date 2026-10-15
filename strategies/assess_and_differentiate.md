@@ -30,7 +30,7 @@ Assessment only improves learning when the results actually change subsequent in
 
 #### Constraints
 - Differentiation without accurate assessment becomes guesswork and can mis-scaffold, either over-supporting competent learners or under-supporting struggling ones [Contingent scaffolding, calibrated to observed learner needs, improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [-M]
-- Differentiated tasks that reduce cognitive demand too far for struggling learners lower the ceiling of the curriculum rather than raising support [Reducing task difficulty for novices can remove the productive struggle needed for learning.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Differentiated tasks that reduce cognitive demand too far for struggling learners lower the ceiling of the curriculum rather than raising support [Reducing task difficulty for novices can remove the productive struggle needed for learning.](../claims/worked-example-problem-sequences.md) [~M]
 - Time-intensive: without streamlined routines (shared rubrics, quick checks), teachers cannot sustain assessment of both content and language across a full class
 - Over-differentiation can fragment the classroom community and stigmatize lower-proficiency groups if grouping is visible and static
 

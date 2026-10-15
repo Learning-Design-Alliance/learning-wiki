@@ -64,5 +64,5 @@ Second interview scenario on right- versus left-hand gift giving, a culturally d
 ## Related Claims
 - [A two-eyed seeing approach in early childhood education challenged the dominance of Western knowledges over Indigenous knowledges and created awareness of an Indigenous worldview](two-eyed-seeing-challenges-western-knowledge-dominance-eccd.md) — related
 - [Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies](premodern-narratives-assimilate-language-to-world.md) — related
-- [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](local-indigenous-culture-student-interest.md) — related
+- [Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught](local-indigenous-culture-student-interest.md) — related
 - [Participating in Elder-led Indigenous teaching changed the teacher's pedagogical practice and deepened her connection to the community](elder-coteaching-changes-teacher-pedagogy.md) — related

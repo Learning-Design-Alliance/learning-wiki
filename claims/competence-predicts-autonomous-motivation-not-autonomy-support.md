@@ -43,7 +43,7 @@ Same PLS-SEM structural model of 297 students. The hypothesis-testing results sh
 
 ## Related Claims
 - [Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use](perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related

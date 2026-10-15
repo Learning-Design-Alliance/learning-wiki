@@ -48,7 +48,7 @@ generated:
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [~W]
+- [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [~W]
 - [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](../claims/small-pdsa-cycles-narrow-first-problem.md) [~W]
 
 ## Related Elements

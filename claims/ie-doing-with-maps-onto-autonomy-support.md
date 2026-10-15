@@ -46,7 +46,7 @@ Conceptual comparison from the article's autonomy section: doing things to peopl
 - [In SDT, autonomy is not synonymous with independence nor the opposite of dependence](autonomy-not-synonymous-with-independence.md) — related
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related
 - [Interpretive problem-solving action seeks understanding of meanings through democratic communication with those involved](interpretive-mode-democratic-communication.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [IE and SDT share common roots in humanistic psychology's rejection of behaviorism](ie-sdt-common-humanistic-roots.md) — related
 - [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — related
 - [The seven levers can describe environments for robust understanding with or without AI, mapping onto the TRU dimensions](levers-map-to-tru-dimensions.md) — related

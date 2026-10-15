@@ -39,9 +39,21 @@ Group randomized controlled effectiveness trial in 37 Maryland elementary school
 
 > "the hierarchical linear modeling results indicated that children in the SWPBIS schools displayed significantly less bullying behavior (/H9253=−0.02, t= −2.60, P < .05, SE=0.01)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do schoolwide programmes (a positive behaviour framework, organised recess, a restorative whole-school approach) reduce bullying compared with schools without them?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Waasdorp TE 2012](https://doi.org/10.1001/archpediatrics.2011.755) | q3 · causal · r3 | i? | this claim; [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary sch](swpbis-reduces-growth-peer-rejection.md) (supports); [Teacher-rated bullying and peer rejection rose over four years of elementary school in bot](bullying-rejection-increase-approaching-middle-school.md) (qualifies); [Sex and special education status did not significantly moderate SWPBIS effects on teacher-](swpbis-main-effects-robust-across-demographics.md) (qualifies) |
+| Martha Bleeker 2012 | q3 · causal · r? | i? | [Teachers in Playworks schools reported less bullying and exclusionary behavior during rece](playworks-reduced-teacher-reported-recess-bullying.md) (supports) |
+| Fronius 2019 | q2 · review · r3 | i? | [A two-year quasi-experimental study in Hong Kong found full-implementation restorative who](rwsa-hong-kong-less-bullying-empathy-gains.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims
 
-- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — the general claim this finding bears on, with the studies behind it
+- [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — the general claim this finding bears on, with the studies behind it
 -

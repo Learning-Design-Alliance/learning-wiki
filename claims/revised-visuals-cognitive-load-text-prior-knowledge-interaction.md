@@ -48,7 +48,7 @@ Eye-tracking experiment with 62 middle-school students reading a CMP2-derived le
 ## Related Claims
 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
-- [Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students](revised-visuals-cognitive-load-math-visuals-interaction.md) — related
+- [In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students](revised-visuals-cognitive-load-math-visuals-interaction.md) — related
 - [Revised visuals reduce cognitive processing of lesson text for low prior knowledge students but increase it for middle prior knowledge students](revised-visuals-processing-text-prior-knowledge-interaction.md) — possibly the same claim (merge candidate)
 - [Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students](revised-visuals-processing-math-visuals-interaction.md) — related
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related

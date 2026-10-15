@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (26 for, 28 mixed, 1 against, 1 unmarked) · 26 studies (9 quant-synthesis, 7 causal, 6 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 26 report an effect size · 50 claims rest on one study
+> **Evidence** · 56 claims (26 for, 28 mixed, 1 against, 1 unmarked) · 29 studies (9 quant-synthesis, 7 causal, 7 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 29 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,7 +127,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - **Not settled:** the feedback comparisons are across studies, and Adesope et al. (2017) found no moderation by feedback (g = 0.63 against 0.60); feedback timing and elaborated against answer-only feedback after retrieval have no wiki evidence.
 
 ### How hard should retrieval be?
-- **Default:** pitch retrieval so it usually succeeds, or follow it with feedback; with no feedback and initial success at or below 50% the effect was about zero (g = 0.03), and effects were more robust above 75% success — [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M], [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
+- **Default:** pitch retrieval so it usually succeeds, or follow it with feedback; with no feedback and initial success at or below 50% the effect was about zero (g = 0.03), and effects were more robust above 75% success — [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M], [A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
 - **Changes when:** retrieval is made easy with many cues → more initial cues gave smaller effects; free recall beat recognition and fewer letter cues beat more, despite lower success during practice — [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](../claims/less-initial-retrieval-support-produces-better-retention.md) [~M]
 - **Tested with:** lab word lists and word pairs reported in one review chapter; the Rowland moderator analysis.
 - **Not settled:** the success threshold comes from a between-study moderator analysis, not a manipulation; where "effortful but achievable" lies for a given learner is not given.
@@ -140,7 +140,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - **Not settled:** whether matching practice format to the final exam matters is answered only for exact matching (it is not required) — [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](../claims/retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) [+M].
 
 ### When should retrieval happen?
-- **Default:** space retrieval across sessions after a delay rather than straight after study; spaced beat massed retrieval at g = 0.74, and massed retrieval immediately after study produced very little learning — [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M], [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
+- **Default:** space retrieval across sessions after a delay rather than straight after study; spaced beat massed retrieval at g = 0.74, and massed retrieval immediately after study produced very little learning — [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M], [A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
 - **Changes when:** the outcome is measured within a day → the effect is smaller (g = 0.41) than at intervals over a day (g = 0.69) — [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](../claims/retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) [~M]
 - **Tested with:** 29 studies of spaced against massed retrieval; the Rowland meta-analysis.
 - **Not settled:** gap lengths for retrieval are not given on these pages; see [Spaced Repetition](../elements/spaced-repetition.md) for gap decisions.

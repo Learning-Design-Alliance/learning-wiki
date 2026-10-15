@@ -44,5 +44,5 @@ Structural model analysis (PLS-SEM, bootstrapping with 5,000 resamples) of surve
 ## Related Claims
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related

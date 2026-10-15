@@ -52,7 +52,7 @@ This page captures the demonstration-focused slice of Merrill's First Principles
 - Demonstration should lead into practice, feedback, and integration rather than remain passive viewing.
 
 ### Claims
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design

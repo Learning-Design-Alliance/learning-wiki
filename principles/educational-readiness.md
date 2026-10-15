@@ -13,7 +13,7 @@ generated:
 # Educational Readiness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (14 for, 5 mixed) · 17 studies (6 associational, 3 review, 2 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 1 of 17 report an effect size · 18 claims rest on one study
+> **Evidence** · 18 claims (13 for, 5 mixed) · 17 studies (6 associational, 3 review, 2 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 1 of 17 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -91,7 +91,7 @@ These rows are proposals, untested with learners as diagnostics. A check at entr
 
 No claim in the wiki compares diagnosing and adjusting at entry with holding learners back, or with one uniform start. The claims below bear on parts of the relationship. None prints an effect size for its finding.
 
-- [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades](../claims/entry-age-growth-rate-tradeoff.md) [+M]: a multi-state regression discontinuity analysis of assessment data (Johnson & Kuhfeld 2020, `causal`, q3) finds that being a year older gives higher initial achievement and faster kindergarten growth, but slower growth in first and second grade. It is the strongest design here; the abstract only was read. [The early academic advantage of entering school older may fade in later grades](../claims/school-entry-age-early-advantage-fades-by-later-grades.md) [+M] is the brief announcing the same study, so the two are one study, not two.
+- [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades](../claims/entry-age-growth-rate-tradeoff.md) [+M]: a multi-state regression discontinuity analysis of assessment data (Johnson & Kuhfeld 2020, `causal`, q3) finds that being a year older gives higher initial achievement and faster kindergarten growth, but slower growth in first and second grade. It is the strongest design here; the abstract only was read. [The early academic advantage of entering school older may fade in later grades](../claims/entry-age-growth-rate-tradeoff.md) [+M] is the brief announcing the same study, so the two are one study, not two.
 - [Redshirted students' early-grade academic advantage over on-time peers fades as students move through school](../claims/redshirting-academic-advantage-short-lived.md) [+W]: an NWEA fact sheet summarising "multiple studies"; no studies are named on the claim page.
 - [Redshirting kindergartners likely carries costs that outweigh its academic benefits](../claims/redshirting-costs-outweigh-academic-benefits.md) [+W]: the title of an NWEA brief analysing MAP Growth data; the claim page records the conclusion only, not the costs counted.
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](../claims/delayed-entrants-behind-in-math-first-grade.md) [+M] and [… slightly higher reading knowledge and skills](../claims/delayed-entrants-slightly-higher-reading-first-grade.md) [~M]: one ECLS-K report (Malone et al. 2006, associational, q3). The two results point in opposite directions by subject, which is a reason not to read the redshirting evidence as "delay always hurts".

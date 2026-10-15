@@ -49,7 +49,7 @@ Specific indirect effects assessed with a 10,000-resample bootstrapping procedur
 - [AI Prompting Literacy significantly positively predicts Perceived Competence, Intrinsic Motivation, and Psychological Safety among Chinese university EFL learners](apl-predicts-psychological-needs-satisfaction.md) — a narrower finding that bears on this claim
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — a narrower finding that bears on this claim
 - [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](serial-mediation-affordance-efficacy-motivation-srl.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) — related
 - [Convenience–learning divergence proposition: satisfaction and adaptation may rise under AI mediation while intercultural engagement and frame revision fall](convenience-learning-divergence-proposition.md) — related
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related

@@ -57,7 +57,6 @@ The review reports, citing DiVesta and Peverly (1984), an experiment manipulatin
 ## Related Claims
 
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — the general claim this finding bears on, with the studies behind it
-- [Analogical Reasoning Improves Transfer](analogical-reasoning-improves-transfer.md) — related
-- [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
+- [Analogical Reasoning Improves Transfer](comparing-contrasting-cases-improves-learning.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
 - [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](task-variety-enables-transfer-same-task-type.md) — related

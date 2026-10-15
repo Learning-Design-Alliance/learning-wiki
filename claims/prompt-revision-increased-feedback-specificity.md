@@ -43,5 +43,5 @@ Mixed-effects logistic models with student random intercepts and homework number
 
 
 ## Related Claims
-- [Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
+- [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related

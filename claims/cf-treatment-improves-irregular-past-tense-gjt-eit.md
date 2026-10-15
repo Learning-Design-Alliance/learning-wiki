@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types
-description: CF treatment improved irregular past tense performance on both GJT and EIT with large effects
+description: Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types
 id: cf-treatment-improves-irregular-past-tense-gjt-eit
 status: draft
 generated:

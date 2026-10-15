@@ -17,20 +17,12 @@ sources:
     i: "?"
     kind: review
     rigour: 3
-  - id: fronius-2019-2
-    resource: "https://eric.ed.gov/?id=ED595733"
-    title: "Fronius, Darling-Hammond, Persson, Guckenburg, Hurley, & Petrosino. (2019). Restorative Justice in U.S. Schools: An Updated Research Review. WestEd Justice & Prevention Research Center. https://eric.ed.gov/?id=ED595733"
-    author: "Fronius, Darling-Hammond, Persson, Guckenburg, Hurley, & Petrosino"
-    q: 2
-    i: "?"
-    kind: review
-    rigour: 2
 ---
 
 # A two-year quasi-experimental study in Hong Kong found full-implementation restorative whole-school approach students reported significantly less bullying and larger empathy and self-esteem gains than control students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` After two years of the Restorative Whole School Approach, full treatment students reported statistically significantly less bullying overall, including physical and exclusion bullying, than control students. [→ Fronius 2019](#fronius-2019)
@@ -60,11 +52,12 @@ The review attributes this secondary outcome to the same Hong Kong quasi-experim
 > "The authors also found that full treatment students exhibited larger gains in empathy and self-esteem than control students."
 -->
 
-
 ## Discussion
 
 ## Related Claims
 
+- [SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school](swpbis-reduces-growth-teacher-reported-bullying.md) — the general claim this finding bears on, with the studies behind it
+
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
-- [After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
+- [After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](shooters-not-bullied-loners.md) — related

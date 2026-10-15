@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors"
-description: Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors
+description: A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors
 id: four-academic-mindsets-increase-perseverance-and-behaviors
 status: draft
 generated:

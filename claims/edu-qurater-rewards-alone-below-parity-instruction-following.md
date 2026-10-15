@@ -44,6 +44,6 @@ Same held-out pairwise judge evaluation of GRPO checkpoints against the Qwen3-4B
 
 ## Related Claims
 - [In held-out pairwise judge evaluation, combining Edu-QuRater and answer-structure GRPO rewards yields the highest pedagogical-quality win rate (81.08%) while retaining instruction-following above parity (68.24%) against the Qwen3-4B base model](edu-qurater-grpo-rewards-improve-responses.md) — related
-- [RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency](rl-reward-misalignment-failure-modes.md) — a broader claim this one bears on
+- [An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards](rl-reward-misalignment-failure-modes.md) — a broader claim this one bears on
 - [A screenshot-only reward was reward-hacked into producing visually convincing but unplayable games; hardening the reward with an interactivity probe and hard-fail gate reversed the collapse](reward-hacking-games-interactivity-probe.md) — related
 - [Edu-QuRaters recover held-out GPT-4.1-mini pairwise educational preferences from single-text scores, with mean accuracy rising from 0.895 (Sheared-LLaMA-1.3B) to 0.917 (Gemma-3-4B-PT)](edu-quraters-distill-pairwise-educational-preferences.md) — related

@@ -94,7 +94,7 @@ Kühl, T., & Bertrams, A. (2019). Is Learning With Elaborative Interrogation Les
 
 ## Discussion
 
-Elaborative interrogation works through elaborative processing: generating an answer to a "why" question forces the learner to search prior knowledge for a causal or explanatory link, which integrates the new fact into existing schemas. This mechanism places it in the same family as [self-explanation](../elements/self-explanation.md) and [analogical reasoning](analogical-reasoning-improves-transfer.md), and it presupposes that relevant prior knowledge is available — see [Activation improves learning](activation-improves-learning.md).
+Elaborative interrogation works through elaborative processing: generating an answer to a "why" question forces the learner to search prior knowledge for a causal or explanatory link, which integrates the new fact into existing schemas. This mechanism places it in the same family as [self-explanation](../elements/self-explanation.md) and [analogical reasoning](comparing-contrasting-cases-improves-learning.md), and it presupposes that relevant prior knowledge is available — see [Activation improves learning](activation-improves-learning.md).
 
 Expected moderators, to be confirmed once evidence entries are added: the technique appears most effective for learners with sufficient domain knowledge to generate plausible answers, and for fact-dense material where individual statements can be interrogated one at a time. Learners with sparse prior knowledge may produce weak or incorrect explanations, and the technique is less suited to procedural skills or complex tasks where the unit of analysis is a whole procedure rather than an isolated fact. Generating explanations also consumes working-memory resources, so it should be considered alongside [cognitive load theory](../theories/cognitive-load-theory.md) and [chunking](chunking-reduces-working-memory-load.md) when material is high in element interactivity.
 
@@ -107,7 +107,7 @@ Open questions for future enrichment: effect sizes relative to other learning te
 ## Related Claims
 
 - [Activation improves learning](activation-improves-learning.md) — elaborative interrogation depends on accessible prior knowledge to generate answers.
-- [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — both techniques build understanding by relating new material to known structures.
+- [Analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md) — both techniques build understanding by relating new material to known structures.
 - [Chunking reduces working-memory load](chunking-reduces-working-memory-load.md) — explanation generation consumes working memory, so material organization matters.
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — both approaches scaffold integration of new facts with existing knowledge structures.
 - [Elaboration theory](../patterns/elaboration-theory.md) — a broader instructional pattern built on progressively elaborated content.

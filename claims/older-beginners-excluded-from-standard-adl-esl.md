@@ -44,7 +44,7 @@ The author's practitioner analysis of federally-funded adult education and commu
 
 ## Related Claims
 - [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](modifications-essential-for-vulnerable-learners.md) — related
-- [Students in the author's older-beginner Step One class made measured gains, including an average 128-point BEST Plus gain over 6 months and two former absolute beginners passing the citizenship test](older-beginner-esl-outcome-gains.md) — related
+- [In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test](older-beginner-esl-outcome-gains.md) — related
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related
 - [Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce and achieve economic self-sufficiency](43-million-adults-lack-basic-english-literacy.md) — related
 - [US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs](adult-ed-delivery-structures-fractured.md) — related

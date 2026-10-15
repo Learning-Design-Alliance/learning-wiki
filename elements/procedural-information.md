@@ -43,7 +43,7 @@ Procedural information reduces the working-memory burden of executing routine ta
 - A plan for fading: as steps become automated, the information should be withdrawn [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 #### Constraints
-- Presenting all procedural detail before practice overloads novices and produces inert knowledge; just-in-time presentation outperforms just-in-case presentation [Timing of information presentation affects learning outcomes.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Presenting all procedural detail before practice overloads novices and produces inert knowledge; just-in-time presentation outperforms just-in-case presentation [Timing of information presentation affects learning outcomes.](../claims/worked-example-problem-sequences.md) [~M]
 - Over-reliance on step-by-step guidance can produce dependency: learners follow rules without understanding when they apply, harming transfer to variant tasks [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - Poorly suited to non-recurrent, heuristic task aspects, where rigid steps mislead; those require [Mental Models](mental-models.md) and [Cognitive Strategies](cognitive-strategies.md) instead
 

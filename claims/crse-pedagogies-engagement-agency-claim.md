@@ -61,7 +61,7 @@ In its CRSE section, the paper attributes this finding to prior research, citing
 
 ## Related Claims
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Collective enterprise and care in equitable classroom cultures are positively associated with students' science interest](collective-enterprise-care-science-interest.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related

@@ -63,5 +63,5 @@ The same statistical modeling of classroom instruction showed challenge alone is
 
 ## Related Claims
 - [Students show the highest learning gains in classes that are both challenging and where students actually do work aligned with teachers' expectations; grades are higher in challenging classrooms with high support than in easier classrooms with little support](challenge-plus-support-highest-gains.md) — possibly the same claim (merge candidate)
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related

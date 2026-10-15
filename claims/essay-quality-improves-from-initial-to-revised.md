@@ -46,6 +46,6 @@ Repeated-measures ANOVA across the three conditions (total N = 70) showed a sign
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
 - [Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback](cot-prompting-higher-feedback-quality-than-zero-shot-and-teacher.md) — related
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related
-- [Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
+- [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
 - [Students in a scaffolded LLM-collaboration course improved significantly on initial argument quality, prompt engineering, and response to AI feedback from the first to the fifth assignment](argumentative-writing-gains-scaffolded-llm-assignments.md) — related

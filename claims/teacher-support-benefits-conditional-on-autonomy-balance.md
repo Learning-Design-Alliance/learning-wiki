@@ -43,9 +43,9 @@ The review reports, citing Wu and Yang (2022), that "teacher support mainly cont
 
 
 ## Related Claims
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — reports the opposite
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — reports the opposite
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
-- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — related
+- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [High-achieving students less often endorse AI-supported autonomy, effective learning, and active engagement, and more often agree that reliance on AI hinders critical thinking and independent problem solving](item-level-high-achievers-hinder-critical-thinking.md) — related

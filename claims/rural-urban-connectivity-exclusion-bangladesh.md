@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners"
-description: "Individual internet penetration in rural Bangladesh stands at 36.5% versus 71.4% in urban areas, rendering cloud-dependent AI tools functionally inaccessible to rural learners"
+description: Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners
 id: rural-urban-connectivity-exclusion-bangladesh
 status: draft
 generated:

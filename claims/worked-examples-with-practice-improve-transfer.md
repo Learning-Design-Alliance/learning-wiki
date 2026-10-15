@@ -64,11 +64,11 @@ Renkl and Atkinson argue that instructional design should not stop at example st
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do novices learn more from studying worked examples than from solving the same problems unaided?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **12 distinct studies** (6 causal, 2 review, 2 qualitative, 1 theoretical, 1 quant-synthesis), `q1`–`q3`, 1 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do novices learn more from studying worked examples than from solving the same problems unaided?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **12 distinct studies** (6 causal, 2 review, 2 qualitative, 1 theoretical, 1 quant-synthesis), `q1`–`q3`, 1 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | this claim; [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) (supports); [Example-first conditions outperformed problem-first conditions on an immediate circuit tes](worked-example-problem-sequences.md) (supports) |
+| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | this claim; [Example-first conditions outperformed problem-first conditions on an immediate circuit tes](worked-example-problem-sequences.md) (supports) |
 | [Renkl & Atkinson 2003](https://doi.org/10.1207/s15326985ep3801_3) | q3 · theoretical · r? | i? | this claim |
 | [Sweller & Cooper 1985](https://doi.org/10.1207/s1532690xci0201_3) | q3 · causal · r? | i? | [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) (supports); [Studying worked examples improves novices' algebra performance on problems with the same s](worked-examples-improve-math-performance.md) (supports) |
 | [Barbieri & Booth 2016](https://doi.org/10.1016/j.lindif.2016.04.001) | q2 · causal · r? | i? | [Studying worked examples improves novices' algebra performance on problems with the same s](worked-examples-improve-math-performance.md) (supports) |
@@ -89,7 +89,6 @@ This claim is about sequence design, not mere inclusion. Examples that are never
 ## Related Claims
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md)
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](example-problem-sequences-reduce-cognitive-load.md)
-- [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — a narrower finding that bears on this claim
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-example-problem-sequences.md)
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](fading-worked-steps-facilitates-example-to-problem-transition.md) — related

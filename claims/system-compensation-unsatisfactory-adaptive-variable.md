@@ -44,4 +44,4 @@ Experimental finding from the comparison of three adaptive variables. The report
 
 ## Related Claims
 - [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](manual-adaptation-slightly-superior-automatic-adaptive-training.md) — related
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related

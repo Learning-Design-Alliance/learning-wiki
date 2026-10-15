@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: comparing-contrasting-cases-improves-learning
-aliases: [comparing-contrasting-cases-improve-learning, multiple-contrasting-cases-support-abstraction]
+aliases: [comparing-contrasting-cases-improve-learning, multiple-contrasting-cases-support-abstraction, analogical-reasoning-improves-transfer]
 evidence_strength:
 sources:
   - id: alfieri-et-al-2013
@@ -60,6 +60,10 @@ Learners who compare two or more cases that differ on key features — side by s
 `q3 i?` Undergraduates who compared two negotiation cases side by side were more than twice as likely to transfer the underlying principle to a new negotiation as those who studied the same two cases separately (48% vs 19%), showing that comparison, not exposure to multiple cases, drives schema abstraction. [→ Gentner et al. 2003](#gentner-et-al-2003)
 -->
 
+`q4 i2` Across 57 experiments (336 tests), case-comparison activities produced greater learning than sequential, single-case or non-analogous case study, traditional instruction and controls (d = .50), with larger gains when learners look for similarities, receive the principle after comparing, and are tested immediately. [→ Alfieri et al. 2013](#alfieri-et-al-2013)
+
+`q3 i?` Novice undergraduates who compared two negotiation cases were more than twice as likely to transfer the underlying principle to a new negotiation (48%) as those who studied the same two cases separately (19%); no standardised effect size is reported. [→ Gentner et al. 2003](#gentner-et-al-2003)
+
 ## Evidence
 
 ### Alfieri et al. 2013
@@ -80,6 +84,16 @@ Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case 
 A random-effects meta-analysis of 57 experiments, in laboratory and classroom settings, comparing case-comparison activities against other ways of studying cases (sequential, single case, nonanalogous) and against traditional instruction and controls. Comparison led to greater learning overall (d = .50). Of 15 candidate moderators, four reliably moderated the effect: asking learners to find similarities, presenting the principle after the comparison, using perceptual content, and testing immediately were each associated with larger gains. The review pools comparison of cases in general; it does not isolate *minimally contrasting* cases, so the page's narrower framing is a subset of what it tests.
 -->
 
+<!-- merged 2026-10-15 from analogical-reasoning-improves-transfer: that page's entry for this study, which differed from the one above, kept verbatim.
+### Alfieri et al. 2013
+
+Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)
+
+`q4 · meta-analysis` · `i2 · medium effect, d=.50, 95% CI [.44, .56]` · `n=57 experiments (336 tests)` · `quant-synthesis · r?`
+
+A random-effects meta-analysis of 57 laboratory and classroom experiments (336 tests) comparing case-comparison activities against other forms of case study (sequential, single-case, non-analogous), traditional instruction and controls. Comparing cases led to greater learning overall. Of 15 moderators tested, four reliably changed the benefit: asking learners to find similarities between cases, presenting the principle after the comparison, using perceptual content, and testing immediately were each associated with larger gains. Read from the abstract only, so the moderator effect sizes are not recorded here.
+-->
+
 ### Gentner et al. 2003
 
 Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)
@@ -98,6 +112,16 @@ Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A ge
 Three experiments taught novices negotiation strategies (trade-offs, contingent contracts) from short cases. In Experiment 2, 128 undergraduates were randomly assigned to read two cases on one page and describe their similarities, or to read and describe each case separately; they then negotiated a new lease case. Comparers were more than twice as likely to use the principle in the new negotiation (48% vs 19%), and the benefit held for both strategy types. Experiment 1 found a benefit of comparison over no case study, and Experiment 3 found that more comparison support raised transfer in a face-to-face negotiation. The compared cases were analogous, sharing a principle across different surface stories, rather than contrasting on one dimension.
 -->
 
+<!-- merged 2026-10-15 from analogical-reasoning-improves-transfer: that page's entry for this study, which differed from the one above, kept verbatim.
+### Gentner et al. 2003
+
+Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)
+
+`q3 · peer-reviewed randomised experiments (3 studies)` · `i? · no standardised effect size reported (48% vs 19% transfer, χ²(1, N=128)=11.85)` · `n=334 undergraduates across 3 experiments (48, 128, 158)` · `causal · r3`
+
+Three experiments taught novice undergraduates negotiation strategies (trade-offs or contingent contracts) through two example cases, then tested whether they used the principle in a new negotiation. In Experiment 2, 128 students were randomly assigned to compare the two cases on one page or to analyse each separately; 48% of comparers transferred the principle against 19% of the separate-case group, and the advantage held for both principles. Experiment 1 showed a benefit of guided analogical training over no case study, and Experiment 3 (158 students, a face-to-face negotiation) showed that more comparison support raised the rate of transfer. The design isolates structural comparison itself, since both groups saw the same cases. The n code counts all three experiments; the 48% vs 19% comparison and its χ² come from Experiment 2 alone (n=128), which is the n the other claim pages citing this paper record. Rigour is `r?`: the article is closed access, its openly available abstract does not show how the experiments were controlled, and two other pages coding the same study give `r?`. <!- - 2026-10-05: rigour is r3 here and r? on comparing-contrasting-cases-improves-learning and multiple-contrasting-cases-support-abstraction; the r3 was coded from a fuller text than the abstract available now, so it is kept, and re-coding from the full article would settle all three - ->
+-->
+
 ### Rittle-Johnson & Star 2007
 
 Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? An experimental study on learning to solve equations. *Journal of Educational Psychology, 99*(3), 561–574. [doi:10.1037/0022-0663.99.3.561](https://doi.org/10.1037/0022-0663.99.3.561)
@@ -106,9 +130,23 @@ Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facili
 
 Seventy seventh-grade students learning to solve algebra equations were randomly assigned to compare and contrast alternative solution methods or to reflect on the same methods one at a time. At posttest the compare group had made greater gains in procedural knowledge and procedural flexibility, and comparable gains in conceptual knowledge. This qualifies the claim: here comparison helped learners use and choose methods, not their grasp of the underlying concepts. Only the abstract was read.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does comparing analogous cases improve transfer more than studying cases one at a time?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (3 causal, 2 quant-synthesis), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Alfieri et al. 2013](https://doi.org/10.1080/00461520.2013.775712) | q4 · quant-synthesis · r? | i2 · medium effect, d=0.50, 95% CI [.44, .56]; i2 · medium effect, d = .50, 95% CI [.44, .56] | this claim; [Presenting multiple cases from different perspectives supports transfer in ill-structured ](cognitive-flexibility-theory-multiple-cases.md) (qualifies) |
+| [Gentner et al. 2003](https://doi.org/10.1037/0022-0663.95.2.393) | q3 · causal · r? | i? | this claim |
+| [Rittle-Johnson & Star 2007](https://doi.org/10.1037/0022-0663.99.3.561) | q3 · causal · r? | i? | this claim |
+| [Jacobson & Spiro 1995](https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn) | q3 · causal · r2 | i? | [Presenting multiple cases from different perspectives supports transfer in ill-structured ](cognitive-flexibility-theory-multiple-cases.md) (qualifies) |
+| [Şenel Elaldı 2016](https://doi.org/10.11114/jets.v4i1.1097) | q2 · quant-synthesis · r2 | i? | [Individually analyzed method and approach studies show widely varying effects, with analog](method-approach-effect-sizes-vary-analogy-largest.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-**Why comparison helps.** Contrasting cases make the deep structure of a domain visible: features that remain constant across cases are likely central to the principle, while features that vary are incidental. Comparison also prompts learners to notice dimensions they would otherwise overlook, supporting [analogical reasoning](../principles/analogical-reasoning.md) and transfer to novel situations. This aligns with the broader claim that [analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md).
+**Why comparison helps.** Contrasting cases make the deep structure of a domain visible: features that remain constant across cases are likely central to the principle, while features that vary are incidental. Comparison also prompts learners to notice dimensions they would otherwise overlook, supporting [analogical reasoning](../principles/analogical-reasoning.md) and transfer to novel situations. This aligns with the broader claim that [analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md).
 
 **Multiple cases and cognitive flexibility.** Studying multiple cases with varied surface features is a core prescription of cognitive flexibility theory; the specific benefit claimed here depends on learners actively *comparing* the cases rather than merely encountering them sequentially — see [Cognitive flexibility theory: multiple cases support transfer.](cognitive-flexibility-theory-multiple-cases.md).
 
@@ -120,7 +158,7 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 <!-- deprecated (2026-09-30, stale once evidence was recorded): **Open questions.** The evidence base for this page has not yet been populated; the strength of the claim, its moderators (novice vs. advanced learners, domain, case format), and its effect sizes need to be established from the literature before the claim can be rated. -->
 
 <!-- 2026-10-05: evidence markers ([+W], [~M] and similar) were removed from the merged paragraphs below: most had no claim behind them, and on a claim page a link to another claim is a related-claim relation, not a citation. -->
-*Merged from “Comparing contrasting cases improves learning” (comparing-contrasting-cases-improve-learning):* **Mechanism.** Contrasting cases work by making discriminating features visible. When two cases differ on exactly the dimension the designer wants learned, learners' attention is drawn to that dimension in a way that studying a single case cannot achieve. This aligns with the broader claim that [analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md): comparison invites learners to map structure from one case onto another, and the mapping process surfaces the relational schema that supports transfer.
+*Merged from “Comparing contrasting cases improves learning” (comparing-contrasting-cases-improve-learning):* **Mechanism.** Contrasting cases work by making discriminating features visible. When two cases differ on exactly the dimension the designer wants learned, learners' attention is drawn to that dimension in a way that studying a single case cannot achieve. This aligns with the broader claim that [analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md): comparison invites learners to map structure from one case onto another, and the mapping process surfaces the relational schema that supports transfer.
 
 **Relation to multiple-case instruction.** The claim is closely related to [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) and its recommendation of multiple representations and cases for ill-structured domains — see [Cognitive flexibility theory: multiple cases support transfer in ill-structured domains.](cognitive-flexibility-theory-multiple-cases.md). It also underpins [case-based learning](../patterns/case-based-learning.md) designs, where [case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) under some conditions.
 
@@ -133,7 +171,7 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 *Merged from “Multiple Contrasting Cases Support Abstraction” (multiple-contrasting-cases-support-abstraction):* **Mechanism.** Contrasting cases make the deep structure of a domain visible by highlighting what varies and what stays constant across examples. When learners compare cases that differ on surface features but share a principle, they are pushed to explain the differences, which supports abstraction and transfer. This is the core rationale of [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md), which argues for multiple representations and cases in ill-structured domains — see [Cognitive flexibility theory: multiple cases support flexible transfer.](../claims/cognitive-flexibility-theory-multiple-cases.md).
 
-**Comparison as the active ingredient.** The benefit is generally attributed to comparison itself, not mere exposure to multiple cases. Learners need prompts to align the cases and articulate similarities and differences; simply presenting several examples side by side without comparison support is unlikely to produce the same abstraction. This connects closely to [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md), where structured comparison of analogs drives schema formation. Structured comparison prompts — asking learners to identify what is the same, what differs, and why — function as a form of [self-explanation](self-explanation-improves-conceptual-understanding.md) applied across cases rather than within one.
+**Comparison as the active ingredient.** The benefit is generally attributed to comparison itself, not mere exposure to multiple cases. Learners need prompts to align the cases and articulate similarities and differences; simply presenting several examples side by side without comparison support is unlikely to produce the same abstraction. This connects closely to [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md), where structured comparison of analogs drives schema formation. Structured comparison prompts — asking learners to identify what is the same, what differs, and why — function as a form of [self-explanation](self-explanation-improves-conceptual-understanding.md) applied across cases rather than within one.
 
 **Case selection matters.** Cases should be minimally contrasting — similar enough to align, but differing on the dimension the learner is meant to abstract. Overly dissimilar cases are hard to align; overly similar cases highlight nothing. This mirrors the use of contrasting examples and non-examples in [Concept Attainment](../patterns/concept-attainment.md), where the boundary between instances and non-instances carries the definitional information.
 
@@ -143,13 +181,20 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 **Open questions.** <!-- deprecated (2026-10-05, stale: entries had been added): The claim currently lacks a populated evidence base. Key studies on contrasting cases in mathematics and physics instruction, and on simultaneous versus sequential comparison formats, still need to be added before an evidence strength can be assigned. Until then, designers should treat the claim as theoretically well-motivated but empirically unverified on this page, and weight --> The three entries above bear on this folded claim: Gentner et al. (2003) found comparing two cases beat studying the same two cases separately, which supports comparison rather than exposure as the active ingredient, and Rittle-Johnson & Star (2007) is the one mathematics study recorded. No entry compares simultaneous with successive presentation or covers physics, and none tests the single-case limitation for novices. Designers should weight design decisions toward the comparison-support and case-selection conditions described above, which are the moderators most likely to determine whether multiple cases help or merely add load.
 
+*Merged from “Analogical Reasoning Improves Transfer” (analogical-reasoning-improves-transfer):* **Mechanism.** Analogical reasoning supports transfer because it directs attention to the deep, relational structure shared by source and target situations rather than to surface features. Comparing two or more cases side by side — a common instructional implementation — makes that shared structure visible and supports schema abstraction, which is what learners carry into novel problems. This aligns with the broader argument that [comparing and contrasting cases improve learning](comparing-contrasting-cases-improves-learning.md) and with [cognitive flexibility theory](../theories/cognitive-flexibility-theory.md)'s recommendation of multiple, varied cases.
+
+**Boundary conditions.** The benefit depends on learners actually engaging in the mapping. Surface similarity can mislead: learners may over-extend a source case to targets that look alike but differ structurally, producing negative transfer. Novices also often fail to retrieve relevant source analogs spontaneously, so instruction typically needs to supply the analog, prompt comparison, or activate relevant prior knowledge — see [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md) and [Activation](activation-improves-learning.md). Without such scaffolding, analogy instruction can consume working memory without producing structural insight, a concern consistent with [cognitive load theory](../theories/cognitive-load-theory.md).
+
+**Design implications.** Effective implementations tend to (a) supply the source analog rather than hoping learners retrieve one, (b) prompt explicit mapping of relations ("how is this like the last problem, and how is it different?"), and (c) use at least two cases so the shared structure can be abstracted rather than bound to a single context. Self-generated analogies may produce deeper processing for learners who already have relevant knowledge, but risk failure for novices — a moderation pattern consistent with the [expertise reversal effect](../theories/expertise-reversal-effect.md).
+
+**Open questions.** Two sources are recorded: the Alfieri et al. (2013) meta-analysis of case comparison (d = .50, larger with immediate testing) and Gentner et al. (2003)'s randomised experiments with novice undergraduates learning negotiation. Key moderators still to document: learner expertise, degree of surface vs. structural similarity between cases, whether the analog is provided or self-generated, and domain (well-structured domains such as mathematics vs. ill-structured ones).
+
 ## Related Claims
 
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — the general claim this finding bears on, with the studies behind it
 
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — the general claim this finding bears on, with the studies behind it
 
-- [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — comparison is the mechanism by which analogies transfer structure between cases
 - [Cognitive flexibility theory: multiple cases support transfer.](cognitive-flexibility-theory-multiple-cases.md) — multiple varied cases are the raw material for flexible knowledge
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — cases as instructional units, of which contrasting cases are a structured variant
 - [Concept attainment.](../patterns/concept-attainment.md) — comparing positive and negative examples to induce a concept is the classic contrasting-cases pattern
@@ -160,7 +205,6 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](multiple-contexts-generalization-transfer.md) — related
 - [Cognitive flexibility theory: multiple cases support flexible transfer.](../claims/cognitive-flexibility-theory-multiple-cases.md) — the theoretical framework behind multiple-case instruction in ill-structured domains
-- [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) — structured comparison of analogs drives schema abstraction
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — the prompts that make case comparison productive operate through self-explanation
 - [Case-based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) — cases as the unit of instruction in professional education
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — worked examples are a single-case alternative whose multi-case extensions raise the same design questions
@@ -169,3 +213,5 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
 - [Relational understandings of the equals sign are associated with middle grades mathematics success](relational-equals-sign-understanding-middle-grades-success.md) — related
 - [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) — related
+- [Activation improves learning.](activation-improves-learning.md) — retrieval of relevant prior knowledge supplies the source analog
+- [Advance organizers improve learning.](advance-organizers-improve-learning.md) — organizers can frame new material as analogous to known structures

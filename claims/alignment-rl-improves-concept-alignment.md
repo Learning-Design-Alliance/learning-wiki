@@ -45,7 +45,7 @@ Ablation on the XES3G5M Application Module evaluating questions generated for tr
 ## Related Claims
 - [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](rl-sequencing-beats-fixed-oral-curriculum.md) — related
 - [Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation](rl-stages-needed-faithful-student-simulation.md) — related
-- [RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency](rl-reward-misalignment-failure-modes.md) — related
+- [An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards](rl-reward-misalignment-failure-modes.md) — related
 - [ProfileRL outperforms prompting and fine-tuning baselines on turn-level student simulation, with statistically significant gains on Acts, Correctness, and Errors](profilerl-outperforms-student-simulation-baselines.md) — related
 - [Without alignment training, generated questions collapse to similar content regardless of the intended knowledge concept, whereas KT4EQG questions spread across many verified KCs](alignment-training-prevents-question-collapse.md) — related
 - [KT4EQG achieves the highest exam score across all practice-round counts, while methods without effective concept selection show only marginal gains as rounds increase](consistent-gains-across-practice-rounds.md) — related

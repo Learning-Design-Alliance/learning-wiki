@@ -12,7 +12,7 @@ generated:
 # Take Home_Practice_Sets
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 against) · 16 studies (9 quant-synthesis, 7 causal), `q3`–`q4` · 9 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 2 against) · 17 studies (9 quant-synthesis, 7 causal, 1 review), `q3`–`q4` · 10 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Take-home practice sets are curated collections of problems, exercises, or tasks assigned for completion outside of instructional sessions. They extend the [Practice](../elements/practice.md) cycle beyond limited class time, typically pairing items at varied difficulty with feedback mechanisms such as answer keys, worked solutions, or automated grading.

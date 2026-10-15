@@ -41,8 +41,9 @@ Experimental design with N = 51 first-year Ukrainian ESL students randomly assig
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — the general claim this finding bears on, with the studies behind it
 - [Audio lessons training vocabulary from L1 to L2 yield better L1-to-L2 translation than traditional L2-to-L1 training](l1-to-l2-audio-training-improves-translation.md) — related
 - [Amount of listening time while active was not significantly related to End-of-Unit exam performance](listening-time-not-significantly-related-to-exam-score.md) — related
 - [The LWPA advantage on the End-of-Unit exam persists after removing oral comprehension scores](lwpa-advantage-persists-without-oral-comprehension.md) — a narrower finding that bears on this claim

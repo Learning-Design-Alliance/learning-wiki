@@ -46,7 +46,7 @@ The review reports, citing Zhu et al. (2026), a three-wave study of 589 universi
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — a broader claim this one bears on
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related

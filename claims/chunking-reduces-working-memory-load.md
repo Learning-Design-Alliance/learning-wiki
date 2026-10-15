@@ -98,6 +98,8 @@ The clearest demonstration is chess expertise: master players recall real board 
 This has a direct design consequence: chunking imposed from outside only helps while the learner cannot yet chunk unaided. Once they can, the same segmented presentation becomes redundant and slows them down, which is the expertise-reversal effect linked below.
 
 ## Related Claims
+
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related

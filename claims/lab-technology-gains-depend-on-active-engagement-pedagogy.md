@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within"
-description: Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy
+description: The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within
 id: lab-technology-gains-depend-on-active-engagement-pedagogy
 status: draft
 generated:

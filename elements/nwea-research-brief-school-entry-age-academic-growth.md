@@ -38,7 +38,7 @@ A June 2020 NWEA research brief by Angela Johnson and Megan Kuhfeld addressing t
 
 ## Claims
 
-- [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](../claims/school-entry-age-early-advantage-fades-by-later-grades.md) [+W]
+- [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](../claims/entry-age-growth-rate-tradeoff.md) [+W]
 - [The school-entry-age findings were produced with a multi-state regression discontinuity analysis covering academic growth through second grade](../claims/school-entry-age-multistate-regression-discontinuity-analysis.md) [+W]
 
 ## Related Elements

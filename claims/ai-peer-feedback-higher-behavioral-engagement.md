@@ -42,5 +42,5 @@ One-way ANCOVA on posttest behavioral engagement with pretest covariate in the q
 
 ## Related Claims
 - [AI-peer integrated feedback produces significantly higher posttest affective engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-affective-engagement.md) — related
-- [AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-cognitive-engagement.md) — related
+- [In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](ai-peer-feedback-writing-gains-differential.md) — related

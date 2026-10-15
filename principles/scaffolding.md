@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (10 for, 16 mixed, 3 against) · 24 studies (11 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 23 claims rest on one study
+> **Evidence** · 29 claims (10 for, 16 mixed, 3 against) · 24 studies (11 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 24 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 

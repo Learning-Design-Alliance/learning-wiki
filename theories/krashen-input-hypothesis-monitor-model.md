@@ -47,7 +47,7 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - [Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition](../claims/morpheme-order-similarity-across-l1-backgrounds.md) [+W]
 - [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](../claims/monitoring-improves-learnable-rule-accuracy.md) [+W]
 - [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](../claims/monitoring-lowers-preposition-accuracy.md) [~W]
-- [Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
+- [A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
 - [Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles](../claims/monitoring-variable-not-all-or-nothing.md) [-W]
 - [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](../claims/no-direct-evidence-input-hypothesis.md) [-W]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]

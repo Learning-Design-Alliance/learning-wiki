@@ -45,6 +45,6 @@ Summary statement in the publication’s overview describing what research on IP
 ## Related Claims
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — a broader claim this one bears on

@@ -71,4 +71,4 @@ The synthesis reports that collaboration toward a common goal, rather than split
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related
 - [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — related
-- [Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments](emotional-engagement-social-presence-ai-collaborative-learning.md) — a narrower finding that bears on this claim
+- [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — a narrower finding that bears on this claim

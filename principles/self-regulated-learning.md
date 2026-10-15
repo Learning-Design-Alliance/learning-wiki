@@ -27,7 +27,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (24 for, 20 mixed, 2 against) · 42 studies (13 causal, 7 quant-synthesis, 7 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 42 report an effect size · 36 claims rest on one study
+> **Evidence** · 46 claims (22 for, 22 mixed, 2 against) · 42 studies (13 causal, 7 quant-synthesis, 7 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 13 of 42 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,7 +97,7 @@ Each question below links a general claim that gathers the studies behind it int
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. Re-read 2026-10-15: the claims worked into the model were removed from this list. -->
 Claims read against the model above that do not bear on its relationship, steps or situation rows closely enough to be worked in.
 
-- [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](../claims/srl-strategies-associated-lower-digital-distraction.md) [+W] — read 2026-10-15: an association-rule analysis of a one-time survey of 530 students' self-reported strategies; it does not test teaching or prompting regulation, so it bears on the model only as a correlate. Attached 2026-10-10 from Shi et al. (2025).
+- [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](../claims/srl-strategies-associated-lower-digital-distraction.md) [+W] — read 2026-10-15: an association-rule analysis of a one-time survey of 530 students' self-reported strategies; it does not test teaching or prompting regulation, so it bears on the model only as a correlate. Attached 2026-10-10 from Shi et al. (2025).
 
 ## Objective and learner-valued goal
 

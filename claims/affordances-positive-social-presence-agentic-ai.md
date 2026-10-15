@@ -44,9 +44,9 @@ Same PLS-SEM survey study (N = 398); the model tested the Social Presence Theory
 
 ## Related Claims
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](motivation-social-presence-boost-engagement-agentic-ai.md) — related
-- [Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
+- [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
 - [Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course](co-regulation-stronger-presence-relationships-than-self-regulation.md) — related
 - [Learner engagement is positively associated with perceived learner performance in agentic AI-supported online learning](engagement-positive-perceived-performance-agentic-ai.md) — related
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments](agent-realism-predicts-social-presence-xr.md) — related
-- [Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments](emotional-engagement-social-presence-ai-collaborative-learning.md) — a broader claim this one bears on
+- [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — a broader claim this one bears on

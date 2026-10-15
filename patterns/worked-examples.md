@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (6 for, 4 mixed, 1 against, 3 unmarked) · 11 studies (6 causal, 3 review, 1 design, 1 theoretical), `q2`–`q3` · 0 of 11 report an effect size · 12 claims rest on one study
+> **Evidence** · 13 claims (5 for, 4 mixed, 1 against, 3 unmarked) · 11 studies (6 causal, 3 review, 1 design, 1 theoretical), `q2`–`q3` · 0 of 11 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -62,7 +62,7 @@ Ask for three facts when the brief omits them: **what a learner does on a first 
 
 | If the brief says… | Then change… | Basis |
 |---|---|---|
-| A first lesson on a structured procedure for learners who have not met it | Open with a fully worked example with the reasoning for each step visible, then a comparable problem | [Example-based sequences outperform problem-only practice for novices](../claims/worked-examples-with-practice-improve-transfer.md) [+M]; [Example–problem sequences reduce cognitive load](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M] |
+| A first lesson on a structured procedure for learners who have not met it | Open with a fully worked example with the reasoning for each step visible, then a comparable problem | [Example-based sequences outperform problem-only practice for novices](../claims/worked-examples-with-practice-improve-transfer.md) [+M]; [Example–problem sequences reduce cognitive load](../claims/worked-example-problem-sequences.md) [+M] |
 | One lesson with room for about four pairs | Sequence example → problem in each pair, never problem → example | [Example-first beat problem-first on an immediate test](../claims/worked-example-problem-sequences.md) [+M] |
 | The paired problem is identical to the example | Vary the paired problem's surface or numbers, and do not expect an order effect to last to a final test | [Order advantage not detected at the final test](../claims/identical-example-problem-order-advantage-not-detected-at-final-test.md) [~M] |
 | A unit of several lessons | Move from full examples to examples with the last step left out, then two steps, then bare problems | [Fading worked steps eases the move to problem solving](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+M] |
@@ -84,7 +84,7 @@ Ask for three facts when the brief omits them: **what a learner does on a first 
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+W] — not settled: the abstract available could not confirm the entries
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W] — not yet checked against its sources
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+W] — not yet checked against its sources
 
 ## Illustrative design instance and observation record
 

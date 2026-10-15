@@ -44,7 +44,7 @@ In the same interview study's autonomy theme, participants described AI providin
 
 ## Related Claims
 - [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](ai-enhances-learning-relevance-goal-career.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment](lad-dominant-system-type-lecturer-decision-support.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related

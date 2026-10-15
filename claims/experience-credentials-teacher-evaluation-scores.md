@@ -3,6 +3,7 @@ type: claim
 title: Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations
 description: Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations
 id: experience-credentials-teacher-evaluation-scores
+aliases: [credentials-difference-observation-only-not-value-added]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: associational
     rigour: 2
+  - id: jiang-2016
+    resource: "https://eric.ed.gov/?id=ED562786"
+    title: "Jiang, J. Y., & Sporte, S. E. (2016). Teacher Evaluation in Chicago: Differences in Observation and Value-Added Scores by Teacher, Student, and School Characteristics. UChicago Consortium on School Research. https://eric.ed.gov/?id=ED562786"
+    author: "Jiang, J. Y., & Sporte, S. E."
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
+
 `q2 i?` Teachers with more experience score higher on value-added and observations than new teachers; National Board Certification and advanced-degree differences appear only on observation scores, not value-added. [→ Jennie Y. Jiang 2016](#jennie-y-jiang-2016)
+
+`q3 i?` Differences between teachers with National Board Certification or advanced degrees and those without were found only on observation scores, not value added. [→ Jiang 2016](#jiang-2016)
 
 ## Evidence
 
@@ -39,11 +51,23 @@ Key finding from the REACH Students observational analysis: "Teachers with more 
 
 > "Teachers with more experience have higher scores on value-added and observations than new teachers. Differences between teachers with National Board Certification or advanced degrees, compared to those without those credentials, were found only on observation scores, not value added."
 
+### Jiang 2016
+
+Jiang, J. Y., & Sporte, S. E. (2016). Teacher Evaluation in Chicago: Differences in Observation and Value-Added Scores by Teacher, Student, and School Characteristics. UChicago Consortium on School Research. https://eric.ed.gov/?id=ED562786
+
+`q3 · i?` · `associational · r3`
+
+Analysis of 2013-14 REACH scores by teacher credentials, comparing teachers with National Board Certification (8 percent of CPS teachers) and advanced degrees (33 percent) to those without, on both observation and value-added measures.
+
+> "Differences between teachers with National Board Certification or advanced degrees, compared to those without those credentials, were found only on observation scores, not value added."
+
 ## Discussion
 
 
+
 ## Related Claims
-- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](credentials-difference-observation-only-not-value-added.md) — possibly the same claim (merge candidate)
+
 - [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — related
 - [Educational background relates only to the personal-experiences dimension of AI perception, with master's degree holders scoring higher than bachelor's degree holders](educational-background-limited-ai-perception-effect.md) — related
+- [An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply](board-certification-identifies-more-expert-teachers.md) — reports the opposite

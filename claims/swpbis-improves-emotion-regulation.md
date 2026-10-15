@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)"
-description: SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)
+description: SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)
 id: swpbis-improves-emotion-regulation
 status: draft
 generated:
@@ -49,7 +49,7 @@ Multilevel HLM in the 4-year group RCT showed children in the intervention schoo
 
 ## Related Claims
 - [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](swpbis-strongest-kindergarten-exposure.md) — related
-- [SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related
-- [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
+- [SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related
+- [SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
-- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
+- [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related

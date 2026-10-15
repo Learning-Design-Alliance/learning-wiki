@@ -62,6 +62,6 @@ Access-log data on learning activities (individual exercise and online discussio
 
 
 ## Related Claims
-- [Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)](cft-hypertext-design-higher-achievement-scores.md) — related
+- [A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content](cft-hypertext-design-higher-achievement-scores.md) — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)](cft-hypertext-design-more-positive-attitudes.md) — related

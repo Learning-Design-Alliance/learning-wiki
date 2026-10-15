@@ -55,12 +55,12 @@ Writing models function as worked examples for a domain where the "procedure" is
 1. Select 2–3 authentic models of the target genre at an attainable level of quality.
 2. Have learners read and [annotating](../principles/annotating.md)-analyze the models against explicit criteria (structure, moves, language choices), ideally comparing texts to abstract shared features [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 3. Co-construct a criteria list or rubric from the analysis so learners articulate the standards themselves.
-4. Move into guided drafting — a partially completed model text learners extend, then independent writing — following a worked-example-to-problem sequence [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M].
+4. Move into guided drafting — a partially completed model text learners extend, then independent writing — following a worked-example-to-problem sequence [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M].
 5. Return to the models during revision as reference points for self- and peer-evaluation.
 
 ## Related Strategies
 - Use of contrasting good and weak texts pairs naturally with erroneous-example analysis [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
-- Model analysis followed by independent drafting mirrors example–problem sequencing [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Model analysis followed by independent drafting mirrors example–problem sequencing [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]
 
 ## Examples
 - **[The Writing Revolution](https://www.thewritingrevolution.org)** — Hochman & Wexler's method builds sentence-level and genre writing through explicit models and guided practice, with exemplars preceding independent composition.

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher retention and transfer scores than lecturer-designed instruction, controlling for prior knowledge and memory span
-description: A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span
+description: In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher retention and transfer scores than lecturer-designed instruction, controlling for prior knowledge and memory span
 id: clt-instructional-design-raises-retention-transfer-thermodynamics
 status: draft
 generated:

@@ -69,11 +69,11 @@ Adults (Experiment 1, N=207) and youth (Experiment 2, N=193) were each randomly 
 |---|---|---|---|
 | [Seufert et al. 2025](https://doi.org/10.3389/fpsyg.2025.1480935) | q3 · causal · r2 | i2 · medium-to-large effect, η²=.09–.14 | this claim |
 | [Lively et al. 2023](https://doi.org/10.1177/00938548221093283) | q3 · causal · r2 | i0 · negligible effect for animation on top of a text/audio channel; d=−0.07 [−0.62, 0.48] (caption alone vs. animation+caption) | this claim |
-| Ceballos & Nutta 2022 | q2 · review · r2 | i? | [Presenting words together with instructionally relevant pictures (multimedia principle) is](multimedia-principle-words-and-pictures-outcomes.md) (supports) |
+| Ceballos & Nutta 2022 | q2 · review · r2 | i? | [A practice article reports that the studies it cites found better post-test outcomes from ](multimedia-principle-words-and-pictures-outcomes.md) (supports) |
 | [Hahn and Klein 2025](https://doi.org/10.3389/fpsyg.2025.1544764) | q2 · causal · r1 | i2 · medium effect, d=0.40 | [Multiple representations improve learning](multiple-representations-improve-learning.md) (supports) |
 | [Rau 2017](https://doi.org/10.1007/s10648-016-9365-3) | q2 · review · r? | i? | [Multiple representations improve learning](multiple-representations-improve-learning.md) (supports) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · theoretical · r3 | i3 | [Generative processing principles: words with pictures and conversational-style words impro](generative-processing-principles-mayer-2008.md) (supports) |
-| Alty 2002 | q3 · causal · r? | i? | [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) (supports) |
+| Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, recall and retention differ across media combinati](media-combinations-affect-recall-and-retention.md) (supports) |
 | Kutbay 2020 | q2 · causal · r2 | i3 | [All ten multimedia treatment conditions produced significant pre-to-post achievement gains](all-treatments-produced-significant-gains.md) (supports) |
 <!-- synthesis:end -->
 
@@ -132,19 +132,19 @@ Open questions include how the effect scales across media formats (static illust
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — another way of supporting mental model construction before or during instruction
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the broader family of effects the multimedia principle belongs to
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — the overload condition the multimedia principle is designed to avoid
-- [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — pictures often carry the analogical structure that supports transfer from words
+- [Analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md) — pictures often carry the analogical structure that supports transfer from words
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — a narrower finding that bears on this claim
 - [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — a narrower finding that bears on this claim
-- [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — a broader claim this one bears on
+- [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — a broader claim this one bears on
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — a narrower finding that bears on this claim
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a narrower finding that bears on this claim
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — a narrower finding that bears on this claim
 - [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
-- [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related
+- [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](multimedia-principle-words-and-pictures-outcomes.md) — related
 - [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — a narrower finding that bears on this claim
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — a broader claim this one bears on

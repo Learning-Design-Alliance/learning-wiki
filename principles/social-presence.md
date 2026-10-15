@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (19 for, 11 mixed, 1 against) · 25 studies (5 qualitative, 5 design, 4 causal, 4 review, 3 associational, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 2 of 25 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (19 for, 11 mixed, 1 against) · 26 studies (5 review, 5 qualitative, 5 design, 4 causal, 3 associational, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 1 of 26 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,8 +136,8 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](../claims/affordances-positive-social-presence-agentic-ai.md) [+W]
 - [Both students and teachers believe AI cannot capture social dynamics and emotional feelings, but only teachers additionally feared AI use would reduce interpersonal interactions in class](../claims/ai-cannot-capture-social-emotional-dynamics.md) [+M]
-- [Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement](../claims/avatar-social-presence-increases-tutor-engagement.md) [+W]
-- [Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments](../claims/emotional-engagement-social-presence-ai-collaborative-learning.md) [+W]
+- [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](../claims/avatar-social-presence-increases-tutor-engagement.md) [+W]
+- [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](../claims/emotional-engagement-social-presence-ai-collaborative-learning.md) [+W]
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](../claims/motivation-social-presence-boost-engagement-agentic-ai.md) [+W]
 - [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](../claims/nd-nt-prefer-some-instructor-involvement-in-person.md) [~W]
 - [A significant portion of participants said they would have exited LER onboarding without live human support](../claims/live-support-prevents-ler-onboarding-exit.md) [+W]

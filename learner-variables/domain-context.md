@@ -12,7 +12,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 39 claims (32 for, 6 mixed, 1 against) · 41 studies (11 review, 11 qualitative, 7 design, 5 causal, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 41 report an effect size · 35 claims rest on one study
+> **Evidence** · 39 claims (32 for, 6 mixed, 1 against) · 42 studies (11 review, 11 qualitative, 7 design, 6 causal, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 42 report an effect size · 35 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -34,7 +34,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 
 ## Claims
 - [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M] — situating content in cases has measurable outcome effects
-- [Analogical reasoning improves transfer](../claims/analogical-reasoning-improves-transfer.md) [+M] — comparing across contexts is what makes structure visible
+- [Analogical reasoning improves transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M] — comparing across contexts is what makes structure visible
 - [Authentic audiences improve student work](../claims/authentic-audiences-improve-student-work.md) [+M] — context includes who the work is for, not only where it is set
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](../claims/life-science-examples-increase-interest-and-relevance.md) [+M] — instruction changes it
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](../claims/ai-authenticity-evaluation-reshaping.md) [+M] — instruction changes it

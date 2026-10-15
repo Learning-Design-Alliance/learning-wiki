@@ -45,7 +45,7 @@ The review attributes this to meta-analyses by VanLehn and by Kulik and Fletcher
 
 - [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — the general claim this finding bears on, with the studies behind it
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — a broader claim this one bears on
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — a narrower finding that bears on this claim
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a narrower finding that bears on this claim
 - [Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains](its-improve-outcomes-structured-domains.md) — a narrower finding that bears on this claim
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related

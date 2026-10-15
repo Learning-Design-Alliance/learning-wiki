@@ -50,7 +50,7 @@ Meta-analytic lag analyses binning accuracy differences and absolute accuracy by
 | Robert DeKeyser 2010 | q2 · review · r2 | i? | [Distributed practice benefits L2 learning, and one review argues that spreading it over ye](distributed-practice-limits-l2.md) (qualifies) |
 | [Kim and Webb 2022](https://doi.org/10.1111/lang.12479) | q3 · quant-synthesis · r? | i? | [Distributed practice benefits L2 learning, and one review argues that spreading it over ye](distributed-practice-limits-l2.md) (qualifies) |
 | [Kapler et al. 2015](https://doi.org/10.1016/j.learninstruc.2014.11.001) | q3 · causal · r? | i? | [Eight-day review improved a five-week science test versus one-day review in a simulated un](eight-day-review-improves-five-week-science-test-versus-one-day-review.md) (supports) |
-| [Kang 2023](https://doi.org/10.1891/jfcp-2021-0032) | q3 · causal · r2 | i? | [The spaced-practice knowledge benefit reflects deeper learning or transfer rather than mem](spaced-practice-benefit-reflects-transfer-not-item-memorization.md) (supports) |
+| [Kang 2023](https://doi.org/10.1891/jfcp-2021-0032) | q3 · causal · r2 | i? | [The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer](spaced-practice-benefit-reflects-transfer-not-item-memorization.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

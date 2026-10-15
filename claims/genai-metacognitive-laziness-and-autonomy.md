@@ -69,7 +69,7 @@ The article reports, citing Zhai et al., that frequent chatbot interaction for a
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — possibly the same claim (merge candidate)
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [The availability of AI assistants improved the quality of submitted admissions essays, particularly mechanical aspects and especially for international applicants](ai-availability-improved-essay-quality.md) — related
 - [Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)](chatbot-use-dose-dependent-loneliness.md) — related
 - [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — possibly the same claim (merge candidate)

@@ -65,5 +65,5 @@ Hierarchical linear regression of step duration in Unit 10. Students previously 
 
 - [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](personalization-improves-hard-kc-accuracy-algebra-its.md) — related
-- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — related
+- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit](personalization-struggling-students-moderation.md) — related

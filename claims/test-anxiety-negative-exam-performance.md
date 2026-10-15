@@ -65,4 +65,4 @@ Multi-level model of exam grades with student and course as random factors and t
 - [Proctored online exams show no effect on students' exam performance](proctoring-no-effect-exam-performance.md) — related
 - [Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety](familiarity-no-effect-test-anxiety.md) — related
 - [Higher internet literacy is associated with lower test anxiety in online exams](internet-literacy-lower-test-anxiety.md) — related
-- [Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety](contextual-factors-increase-test-anxiety.md) — related
+- [Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower](contextual-factors-increase-test-anxiety.md) — related

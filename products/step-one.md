@@ -27,7 +27,7 @@ Step One is a free age-friendly pre-beginning ESL and U.S. citizenship curriculu
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Students in the author's older-beginner Step One class made measured gains, including an average 128-point BEST Plus gain over 6 months and two former absolute beginners passing the citizenship test](../claims/older-beginner-esl-outcome-gains.md) [+M]
+- [In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test](../claims/older-beginner-esl-outcome-gains.md) [+M]
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](../claims/older-beginners-excluded-from-standard-adl-esl.md) [+W]
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](../claims/rote-drills-disadvantage-older-learners.md) [+M]
 - [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](../claims/modifications-essential-for-vulnerable-learners.md) [+W]

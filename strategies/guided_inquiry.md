@@ -50,7 +50,7 @@ Guided inquiry outperforms unguided discovery because learners lack the prior kn
 - Conceptual understanding: why phenomena behave as they do, not just how to execute procedures [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+S]
 - Scientific practices: hypothesis formation, evidence evaluation, argumentation
 - Transfer and epistemic flexibility: applying reasoning to novel problems
-- Less suited to rapid procedural skill acquisition, where worked examples are more efficient [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]
+- Less suited to rapid procedural skill acquisition, where worked examples are more efficient [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+S]
 
 ### Instructions
 1. **Frame the investigation.** Present a phenomenon, problem, or discrepant event and activate relevant prior knowledge ([Activation](../principles/activation.md), [Analogies](../elements/analogies.md)).

@@ -47,4 +47,4 @@ Correlation analyses on the student questionnaire sample (n = 226) showed that "
 - [Security intentions and objective knowledge correlate with preparedness, and self-efficacy correlates with confidence](scales-correlate-with-attitude-factors.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](self-efficacy-predicts-cluster-membership.md) — related
-- [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
+- [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related

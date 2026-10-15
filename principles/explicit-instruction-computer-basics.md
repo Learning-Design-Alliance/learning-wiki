@@ -30,7 +30,7 @@ sources:
 # Explicit Instruction: Computer Basics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 causal, 3 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 11 report an effect size
+> **Evidence** · 17 claims (11 for, 6 mixed) · 25 studies (10 causal, 6 review, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 25 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 

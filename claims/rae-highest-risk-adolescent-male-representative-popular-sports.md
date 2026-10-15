@@ -47,4 +47,4 @@ Follow-up moderator analysis of the pooled samples identified the highest-risk c
 - [RAE effect size increases linearly with relative age differences](rae-effect-size-increases-with-relative-age-difference.md) — related
 - [Age category, skill level and sport context moderate RAE magnitude](rae-moderators-age-skill-sport-context.md) — a broader claim this one bears on
 - [RAE mechanisms and generalization to female and culturally diverse contexts remain unconfirmed research needs](rae-open-questions-female-diverse-contexts.md) — related
-- [Relative-age effects, not innate talent, bias selection into elite youth sports](relative-age-effect-talent-selection-bias.md) — related
+- [A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey](relative-age-effect-talent-selection-bias.md) — related

@@ -30,14 +30,14 @@ Multiple examples work because comparing across cases directs attention to the s
 
 #### Constraints
 - May be time-consuming; each additional example competes for instructional time
-- Students may become overwhelmed by too many examples or by examples with high extraneous load [Example–problem sequences reduce cognitive load relative to problem-only practice.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Students may become overwhelmed by too many examples or by examples with high extraneous load [Example–problem sequences reduce cognitive load relative to problem-only practice.](../claims/worked-example-problem-sequences.md) [~M]
 - Unprompted passive reading of examples produces shallow processing and illusions of understanding [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Requires careful selection: examples that are irrelevant or inaccessible to students waste the variation advantage
 - Learners with strong prior knowledge may find extensive example sets redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 #### Implementation Variability
 - **Contrasting cases**: present examples side by side and ask what differs and why [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
-- **Example–problem pairs**: alternate one example with one practice problem rather than presenting all examples first [Example–problem sequences reduce cognitive load relative to problem-only practice.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- **Example–problem pairs**: alternate one example with one practice problem rather than presenting all examples first [Example–problem sequences reduce cognitive load relative to problem-only practice.](../claims/worked-example-problem-sequences.md) [+M]
 - **Erroneous examples**: include a flawed example for students to diagnose [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 - **Student-generated examples**: after analysis, students produce their own instances, which doubles as assessment evidence
 
@@ -55,7 +55,7 @@ Multiple examples work because comparing across cases directs attention to the s
 1. Select 3–4 examples that vary in surface context but share the target structure; include at least one [Non-Examples](../elements/non-examples.md) if discrimination matters
 2. Open with a [Demonstration](../elements/demonstration.md) of one example, making the technique's moves explicit
 3. Have students [Comparing Cases](../elements/comparing-cases.md) across the remaining examples, prompted to articulate what stays constant
-4. Provide [Practice](../elements/practice.md) — ideally an example–problem alternation rather than examples-then-problems [Example–problem sequences reduce cognitive load relative to problem-only practice.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+4. Provide [Practice](../elements/practice.md) — ideally an example–problem alternation rather than examples-then-problems [Example–problem sequences reduce cognitive load relative to problem-only practice.](../claims/worked-example-problem-sequences.md) [+M]
 5. Move to [Application](../elements/application.md): students apply the technique in their own writing and optionally generate a new example
 
 ## Related Strategies

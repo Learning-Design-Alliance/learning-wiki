@@ -79,9 +79,9 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self Regulated Learning](../theories/self-regulated-learning.md) — the underlying theory of goal-setting, monitoring, and strategy adaptation
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback learners can act on supports the monitoring phase of SRL
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — autonomy is a motivational precondition for self-regulated effort
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — adaptive systems can offload regulation decisions learners cannot yet make
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — adaptive systems can offload regulation decisions learners cannot yet make
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why novices need external scaffolding before self-regulation is effective
-- [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — a narrower finding that bears on this claim
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](self-monitoring-improves-self-regulation.md) — a narrower finding that bears on this claim
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
 - [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) — a narrower finding that bears on this claim

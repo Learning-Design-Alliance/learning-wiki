@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)
-description: Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)
+description: Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)
 id: emi-effect-size-larger-for-awareness-than-comprehension
 status: draft
 generated:
@@ -64,7 +64,7 @@ Blake's modified gain ratio computed from the experimental group's pre/post MAT 
 
 ## Related Claims
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
-- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
 - [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](emi-raises-efl-morphological-awareness.md) — related
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — related
 - [Morphology+ showed larger positive effects in the informational text (+0.17) and vocabulary (+0.18) subdomains than the overall reading effect](morphology-plus-subdomain-effects-informational-vocabulary.md) — related

@@ -42,7 +42,7 @@ The most commonly inverted finding concerns wall display. Visual stimulation is 
 - A specific interaction pattern to design toward — discussion, small-group work, individual practice — since layouts that serve one obstruct another
 - Attention to the basics before the visible ones: ventilation, temperature, glare, and acoustics precede colour and furniture
 - Room to change the arrangement as activity changes, or a deliberate choice of which activity the fixed layout will favour
-- Student involvement in decisions about display and territory, which is where the ownership component of the effect comes from [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
+- Student involvement in decisions about display and territory, which is where the ownership component of the effect comes from [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
 
 #### Constraints
 - Dense wall display competes directly for visual attention; the youngest learners are most affected and least able to filter [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [-S]

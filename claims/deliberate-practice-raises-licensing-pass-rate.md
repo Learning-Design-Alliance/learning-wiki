@@ -43,7 +43,7 @@ Quasi-experimental study comparing two self-selected groups of real estate licen
 
 
 ## Related Claims
-- [Students in the deliberate practice group reported increased satisfaction with the learning process](deliberate-practice-increases-student-satisfaction.md) — related
+- [Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group](deliberate-practice-increases-student-satisfaction.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related

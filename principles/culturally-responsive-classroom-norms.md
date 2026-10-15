@@ -14,7 +14,7 @@ generated:
 # Culturally Responsive Classroom Norms
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 24 studies (7 causal, 7 quant-synthesis, 6 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 25 studies (7 causal, 7 quant-synthesis, 7 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,7 +110,7 @@ Learners, settings and outcomes differ across these claims (school and college s
 
 - *Does a longer pause after a question, before anyone answers, improve the responses that follow?* [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](../claims/increasing-wait-time-improves-response-quality.md) [+M]
 - *Do some learners hold back from public question-and-answer because their community's norms differ, and what do teachers use instead?* [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](../claims/ai-an-students-question-answer-participation.md) [+W]
-- *When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?* [Brief Intervention Empathic Discipline Cuts Suspensions](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M]
+- *When the learners are adults who act on others (teachers), does an empathy exercise change their conduct?* [A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M]
 
 ## Further evidence, not yet read against this model
 

@@ -44,7 +44,7 @@ The review reports, citing Fisher & Baird (2020), that adaptive platforms person
 
 ## Related Claims
 - [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — related
-- [A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula](rl-adaptive-system-grade-engagement-gains.md) — related
+- [A technical review reports that one reinforcement-learning adaptive platform raised average course grades by 12%, task completion by 20% and cut dropout by 10% against static curricula (uncontrolled case report)](rl-adaptive-system-grade-engagement-gains.md) — related
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
 - [The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs](ai-personalized-learning-reported-benefits.md) — related
 - [Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)](ai-contextual-affordances-scaffolding-simulation.md) — related

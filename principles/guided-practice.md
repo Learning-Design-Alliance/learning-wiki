@@ -26,7 +26,7 @@ sources:
 # Guided Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (6 for, 8 mixed) · 19 studies (8 causal, 4 review, 2 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 1 of 19 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (6 for, 7 mixed) · 21 studies (8 causal, 5 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 1 of 21 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -113,7 +113,7 @@ Learners, tasks, settings and outcomes differ across these claims (undergraduate
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] — not settled: the text available could not confirm the entries (abstract)
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M] — not yet checked against its sources
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M] — not yet checked against its sources
 
 ## Objective and learner-valued goal
 
@@ -130,7 +130,7 @@ Assisted success during practice, unaided immediate performance, delayed retenti
 ## Claims
 
 - [All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback](../claims/llm-feedback-fewer-attempts.md) [~W]
-- [Unrestricted GPT-4 access improved practice performance but harmed later exam performance, and a guardrailed hint-based version mitigated the harm, as reported by the whitepaper citing Bastani et al.](../claims/unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates.md) [~W]
+- [Unrestricted GPT-4 access improved practice performance but harmed later exam performance, and a guardrailed hint-based version mitigated the harm, as reported by the whitepaper citing Bastani et al.](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~W]
 
 ## Related Principles
 - [Worked Examples](worked-examples.md) — guided practice often follows worked examples so learners can apply a model immediately.
@@ -156,7 +156,7 @@ Assisted success during practice, unaided immediate performance, delayed retenti
 Guided practice is the instructional principle of giving learners repeated opportunities to apply a skill or concept while support is still available. It sits between initial explanation or modeling and independent performance. The purpose is not mere repetition: guided practice lets learners attempt the task, receive targeted feedback, and gradually assume more of the work as scaffolds are faded. It is especially important when a skill has multiple steps, hidden decision points, or a high likelihood of early error.
 
 ## Implications
-Guided practice matters because early application is where misunderstanding becomes visible, but also where novices are most likely to rehearse errors if left alone too soon. Multiple supported attempts, contingent feedback, and gradual fading help learners stabilize a new routine without turning support into dependency [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S] [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]. The design challenge is calibration: too little guidance leaves learners floundering, while too much held for too long creates redundancy and weak transfer [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M]. Strong guided practice therefore stays close to the learner’s current need and points clearly toward independence, often by moving from modeled examples into near-transfer attempts rather than into independent performance immediately [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S].
+Guided practice matters because early application is where misunderstanding becomes visible, but also where novices are most likely to rehearse errors if left alone too soon. Multiple supported attempts, contingent feedback, and gradual fading help learners stabilize a new routine without turning support into dependency [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S] [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]. The design challenge is calibration: too little guidance leaves learners floundering, while too much held for too long creates redundancy and weak transfer [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M]. Strong guided practice therefore stays close to the learner’s current need and points clearly toward independence, often by moving from modeled examples into near-transfer attempts rather than into independent performance immediately [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+S].
 
 ### Context
 #### Requirements
@@ -195,7 +195,7 @@ Guided practice matters because early application is where misunderstanding beco
 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S] — guided practice works best when support responds to the learner’s actual error pattern and current need
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — guidance should narrow as competence grows so practice leads toward independent performance
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S] — guided practice is especially effective when learners move from modeled examples into closely related attempts
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+S] — guided practice is especially effective when learners move from modeled examples into closely related attempts
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — prolonged high guidance can become redundant once learners no longer need the same level of support
 
 -->

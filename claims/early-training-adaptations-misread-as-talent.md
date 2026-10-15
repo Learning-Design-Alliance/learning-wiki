@@ -47,5 +47,5 @@ Review of neuroimaging and developmental findings (Elbert et al., 1995; Schlaug 
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — a broader claim this one bears on
 - [Daily physiological changes in non-experimental situations influence measures of brain structure and function](daily-physiological-changes-influence-brain-measures.md) — related
 - [Historical increases in peak performance contradict fixed innate upper limits](historical-improvements-reject-immutable-limits.md) — related
-- [Relative-age effects, not innate talent, bias selection into elite youth sports](relative-age-effect-talent-selection-bias.md) — related
+- [A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey](relative-age-effect-talent-selection-bias.md) — related
 - [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — a broader claim this one bears on

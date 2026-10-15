@@ -68,7 +68,7 @@ The review cites Mardianti et al. (2021) for the contrast: difficult texts with 
 - [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Extensive reading improves reading comprehension and reading fluency](extensive-reading-improves-comprehension-and-fluency.md) — related
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — a narrower finding that bears on this claim

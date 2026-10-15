@@ -15,7 +15,7 @@ grain_size: unit
 # Learning-for-Use (LfU) Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 16 claims (8 for, 8 mixed) · 26 studies (7 causal, 7 quant-synthesis, 6 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 26 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -115,7 +115,7 @@ Do not rank LfU against direct instruction or other inquiry designs from these c
 
 Claims bearing on the page that are not used as core evidence above.
 
-- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/furtak-metaanalysis-37-studies-inquiry-positive.md) [+M]: a handbook chapter's report of the same meta-analysis (Furtak et al. 2012) that the inquiry-based teaching claim already holds; adds the moderator of epistemic focus, no new study.
+- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]: a handbook chapter's report of the same meta-analysis (Furtak et al. 2012) that the inquiry-based teaching claim already holds; adds the moderator of epistemic focus, no new study.
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](../claims/inquiry-first-stimulates-interest-and-organizes-course.md) [+W]: one author's 1969 experience in English language study; bears on the motivate phase's interest rationale, not tested.
 
 ## Illustrative design instance and observation record

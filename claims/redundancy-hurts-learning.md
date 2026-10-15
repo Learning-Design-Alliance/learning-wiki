@@ -66,7 +66,7 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Without a competing picture, do the same words spoken and written help or hurt, and for whom?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Without a competing picture, do the same words spoken and written help or hurt, and for whom?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **8 distinct studies** (3 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4`, 3 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -77,6 +77,7 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 | Kutbay 2020 | q2 · causal · r2 | i? | [In one middle-school quasi-experiment, adding written text to spoken narration makes no si](redundancy-effect-not-significant-middle-school.md) (qualifies) |
 | [Clinton 2016](https://doi.org/10.1080/00220973.2015.1048847) | q3 · causal · r2 | i? | [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) (qualifies) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i2 | [Redundancy principle: animation plus narration beats animation, narration, and on-screen t](redundancy-principle-mayer-2008.md) (supports) |
+| [Darcy 2018](https://doi.org/10.5070/b5.35963) | q1 · theoretical · r3 | i? | [Bimodal captioned input improved L2 listening skills, generalizing to unfamiliar sentences](bimodal-captioned-input-improves-segmentation.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -107,7 +108,7 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — a broader claim this one bears on
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
-- [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related
+- [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](multimedia-principle-words-and-pictures-outcomes.md) — related
 - [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — a narrower finding that bears on this claim
 - [A narrative review cites one study in which simultaneous notes, worked example and explanation aided understanding, and another in which temporally contiguous instruction lowered perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
 - [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](voice-media-outperform-picture-text-overall.md) — related

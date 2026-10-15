@@ -44,5 +44,5 @@ Ordinal logistic regression on 79 participants' AI-removal task scores, controll
 
 ## Related Claims
 - [Performance during the AI-supported task consistently predicted performance on the subsequent AI-removal task across all writing dimensions](ai-support-performance-continuity-to-independent-performance.md) — related
-- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — related
+- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [No significant GenAI-literacy-by-agent-condition interaction emerged, so the formal models did not support different literacy slopes across designs](no-literacy-by-agent-interaction.md) — related

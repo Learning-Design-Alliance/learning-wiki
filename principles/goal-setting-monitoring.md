@@ -26,7 +26,7 @@ sources:
 # Goal Setting & Monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 14 studies (5 quant-synthesis, 4 review, 3 theoretical, 2 causal), `q1`–`q4` · 3 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 14 studies (5 quant-synthesis, 4 review, 3 theoretical, 2 causal), `q1`–`q4` · 3 of 14 report an effect size · 2 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,5 +175,5 @@ Goal setting and monitoring improve learning because they give effort a target a
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — clear, challenging goals focus effort and make progress interpretable
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices often learn more effectively when goals specify the next process to execute rather than only the final outcome to reach
 -->
-- [The paper reports that clear, specific, and challenging goals have been linked to higher task performance than simple encouragement, under stated conditions](../claims/clear-specific-challenging-goals-linked-to-task-performance.md) [+W]
+- [The paper reports that clear, specific, and challenging goals have been linked to higher task performance than simple encouragement, under stated conditions](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+W]
 - [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](../claims/progress-monitoring-guides-next-steps-instruction.md) [~W]

@@ -64,7 +64,7 @@ Independent-sample t-test comparing signaled written plus spoken text versus wri
 
 - [Signaling Improves Learning](signaling-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](abstract-concrete-representation-no-difference.md) — related
-- [The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation](modality-effect-holds-middle-school-electricity.md) — related
+- [In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)](modality-effect-holds-middle-school-electricity.md) — related
 - [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — related
 - [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](signaling-effect-abstract-only.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on

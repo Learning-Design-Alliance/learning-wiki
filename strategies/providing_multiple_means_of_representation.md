@@ -12,7 +12,7 @@ generated:
 # Providing Multiple Means of Representation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (7 causal, 4 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 4 of 15 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 15 studies (7 causal, 4 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 4 of 15 report an effect size
 
 ## Description
 Providing multiple means of representation is the first principle of Universal Design for Learning (UDL): content is offered in more than one format — text, audio, video, diagrams, worked models — so that perceptual, linguistic, and prior-knowledge differences do not become barriers to access. It goes beyond redundancy: each representation should be pedagogically functional, not merely a duplicate, and should include options that adjust vocabulary, syntax, and background demands.
@@ -49,7 +49,7 @@ Multiple representations work because they distribute information across verbal 
 ### Target Learning Goals
 - Foundational knowledge acquisition: making content accessible regardless of entry format
 - Conceptual understanding: multiple representations support building flexible mental models [Analogical and multi-case comparison improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
-- Transfer: seeing the same idea in multiple forms supports recognizing it in novel contexts [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer: seeing the same idea in multiple forms supports recognizing it in novel contexts [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Identify the core content and the barriers embedded in the default representation (reading level, sensory modality, assumed background).

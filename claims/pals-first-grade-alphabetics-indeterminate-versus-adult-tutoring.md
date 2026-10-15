@@ -41,8 +41,9 @@ Randomized field trial by McMaster et al. (2005) with 41 first-grade nonresponde
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — the general claim this finding bears on, with the studies behind it
 - [For first-grade nonresponders, PALS showed a substantively important negative (but statistically non-significant) effect on reading comprehension versus adult tutoring](pals-mcmaster-comprehension-negative-effect.md) — related
 - [PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders](pals-fluency-no-significant-effects-first-grade.md) — related
 - [K-PALS shows statistically significant positive effects on Rapid Letter Sounds for kindergarten students in all three training-support conditions](pals-k-pals-significant-rapid-letter-sound-gains.md) — related

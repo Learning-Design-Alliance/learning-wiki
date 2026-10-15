@@ -49,6 +49,6 @@ The only entry is Chi et al.'s (2018) one-sentence summary of a prior study they
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
-- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — related
+- [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
 - [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — a broader claim this one bears on

@@ -17,7 +17,7 @@ sources:
 # When implementing peer-teaching flipped classrooms, form groups and assign roles with attention to students' majors' background and prior achievement level
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that group division in a peer-teaching flipped classroom account for learner background variables. After finding that majors' background and prior achievement level shaped outcomes, the authors state that "the group division must consider the students majors' background besides we must also consider the prior achievement level", and suggest also considering majors' background in the division of in-class roles. This makes grouping an explicit design decision rather than a random assignment.
@@ -41,7 +41,7 @@ The article recommends that group division in a peer-teaching flipped classroom 
 
 - [Majors Background Affects Outcomes](../claims/majors-background-affects-outcomes.md) [+M]
 - [Prior Achievement Affects Conceptual Understanding](../claims/prior-achievement-affects-conceptual-understanding.md) [+M]
-- [Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest](../claims/method-achievement-interaction-self-efficacy.md) [+W]
+- [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](../claims/method-achievement-interaction-self-efficacy.md) [+W]
 - [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](../claims/prior-achievement-null-self-efficacy.md) [~W]
 
 ## Related Principles

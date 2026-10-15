@@ -1,7 +1,7 @@
 ---
 type: claim
 title: In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy
-description: "Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest"
+description: In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy
 id: method-achievement-interaction-self-efficacy
 status: draft
 generated:

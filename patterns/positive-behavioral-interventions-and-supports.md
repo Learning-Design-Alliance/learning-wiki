@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (17 for, 3 mixed, 1 against) · 27 studies (11 causal, 6 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 7 of 27 report an effect size · 16 claims rest on one study
+> **Evidence** · 44 claims (32 for, 10 mixed, 2 against) · 30 studies (14 causal, 6 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 30 report an effect size · 38 claims rest on one study
 
 ## Description and scope
 
@@ -111,7 +111,7 @@ Do not read a fall in suspensions in one school after adoption as an effect of P
 ## The evidence by question
 
 - *Does school-wide PBIS reduce office discipline referrals and exclusions compared with schools not running it?* [SWPBIS reduces the odds of receiving an office discipline referral](../claims/swpbis-reduces-office-discipline-referrals.md) [+M]
-- *Does PBIS reduce students' problem behaviour and raise prosocial behaviour, as teachers rate it?* [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](../claims/swpbis-reduces-disruptive-behavior.md) [+M]
+- *Does PBIS reduce students' problem behaviour and raise prosocial behaviour, as teachers rate it?* [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](../claims/swpbis-reduces-disruptive-behavior.md) [+M]
 
 ## Further evidence, not yet read against this model
 

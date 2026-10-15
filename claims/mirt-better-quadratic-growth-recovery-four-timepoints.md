@@ -45,5 +45,5 @@ Simulation Study 2 generated data for an eight-item measure with N=2,000 simulat
 ## Related Claims
 - [In a three-timepoint simulation, MIRT-based scores recover true linear growth slope parameters better than sum scores and unidimensional IRT approaches, which understate the slope](mirt-recovers-growth-slope-better-than-sum-scores.md) — related
 - [Standardized sum scores greatly compress individual differences in simulated growth trajectories, while only MIRT scores capture the wide variation in true trajectories](sum-scores-compress-growth-trajectory-variability.md) — related
-- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](response-styles-affect-growth-parameter-estimates.md) — related
+- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](response-style-growth-effects-vary-by-construct-and-model.md) — related
 - [Correlations between estimated and true scores diminish over time mainly with easy items, especially with a true slope of .5 and only four items, likely due to ceiling effects](score-true-correlations-diminish-easy-items-ceiling.md) — related

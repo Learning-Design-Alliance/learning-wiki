@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero"
-description: Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values
+description: A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero
 id: di-medium-positive-effect-academic-achievement
 status: draft
 generated:

@@ -62,6 +62,8 @@ An independent replication with three conditions (unguided problem solving, guid
 
 ## Related Claims
 
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
+
 - [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](pf-fidelity-predicts-psi-effect-size.md) — the general claim this finding bears on, with the studies behind it
 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it

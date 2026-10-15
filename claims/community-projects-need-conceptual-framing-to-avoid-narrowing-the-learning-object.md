@@ -44,6 +44,8 @@ This is a single interpretive case study (evidence tier q1) with no comparison c
 
 ## Related Claims
 
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
+
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — the general claim this finding bears on, with the studies behind it
 
 - [A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes](syllabus-service-content-connection-strongest-pedagogical-relationship.md) — the general claim this finding bears on, with the studies behind it
@@ -54,7 +56,7 @@ This is a single interpretive case study (evidence tier q1) with no comparison c
 - [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
 - [Research on value education in India reports that lecturing on values does not transact values effectively to children](lecturing-on-values-does-not-transact-values-effectively.md) — related
 - [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
-- [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](local-indigenous-culture-student-interest.md) — related
+- [Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught](local-indigenous-culture-student-interest.md) — related
 - [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](online-communities-must-be-designed-and-scaffolded.md) — related
 - [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](entrepreneur-course-trial-matches-business-majors.md) — related
 - [The authors argue that analyzing power imbalances, misshapen structures, and hidden assumptions are familiar critical thinking tasks for hesitant readers](power-analysis-as-familiar-critical-thinking.md) — related

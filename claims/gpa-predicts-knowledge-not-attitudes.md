@@ -45,5 +45,5 @@ ANOVA of GPA effects (Table 4) in the same experiment; the GPA–attitudes relat
 ## Related Claims
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
-- [Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting](self-generated-elaboration-improves-procedural-knowledge-accounting.md) — related
+- [In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy](self-generated-elaboration-improves-procedural-knowledge-accounting.md) — related
 - [Favorability scores were not associated with posttest scores, suggesting they reflect general attitudes toward the practice method](favorability-not-associated-with-posttest-scores.md) — related

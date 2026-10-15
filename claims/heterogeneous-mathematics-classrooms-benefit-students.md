@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings"
-description: Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings
+description: A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings
 id: heterogeneous-mathematics-classrooms-benefit-students
 status: draft
 generated:
@@ -45,4 +45,4 @@ Narrative review attribution: the article reports, citing Boaler & Staples (2008
 
 
 ## Related Claims
-- [Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes](streaming-impacts-negatively-on-learning-outcomes.md) — a broader claim this one bears on
+- [A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested](streaming-impacts-negatively-on-learning-outcomes.md) — a broader claim this one bears on

@@ -93,5 +93,5 @@ either alone](pairing-contextual-encounters-with-explicit-instruction-produces-s
 - [Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy](extramural-gaming-vocabulary-effects-mixed.md) — related
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — related
-- [Intensive academic vocabulary instruction across several days is supported by strong evidence from six WWC-standard studies](academic-vocabulary-intensive-instruction-strong-evidence.md) — related
+- [A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)](academic-vocabulary-intensive-instruction-strong-evidence.md) — related
 - [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — related

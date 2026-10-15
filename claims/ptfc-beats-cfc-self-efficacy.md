@@ -43,7 +43,7 @@ Same nonequivalent-groups pretest-posttest experiment; ANCOVA on posttest self-e
 
 
 ## Related Claims
-- [Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest](method-achievement-interaction-self-efficacy.md) — related
+- [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
 - [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](prior-achievement-null-self-efficacy.md) — related
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
 - [PTFC and CFC differ on general and future self-efficacy dimensions but not on grade-anxiety, in-class, or assignment dimensions](self-efficacy-dimension-differences-ptfc-cfc.md) — related

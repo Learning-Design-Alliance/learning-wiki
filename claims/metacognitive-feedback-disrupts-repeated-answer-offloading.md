@@ -60,11 +60,12 @@ Descriptive comparison of the metacognitive feedback and AI-only conditions in t
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — the general claim this finding bears on, with the studies behind it
 - [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
 - [The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it](reward-reduced-assistant-use-feedback-changed-use-composition.md) — related
-- [Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance](metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) — a broader claim this one bears on
+- [In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect](metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) — a broader claim this one bears on

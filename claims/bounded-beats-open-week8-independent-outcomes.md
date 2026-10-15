@@ -15,18 +15,12 @@ sources:
     i: 3
     kind: causal
     rigour: 2
-  - id: chen-x-2026-2
-    title: Chen X 2026 (2)
-    q: 2
-    i: "?"
-    kind: causal
-    rigour: 2
 ---
 
 # Bounded AI support outperformed open collaboration on all four Week 8 independent no-AI outcomes, though exact wild-cluster p values sat at the 0.050–0.063 boundary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Student-level bounded–open effect sizes at Week 8 were large for writing quality (g = 0.83), higher-order thinking (g = 1.07), argument depth (g = 1.21), and independent revision quality (g = 1.17). [→ Chen X 2026](#chen-x-2026)

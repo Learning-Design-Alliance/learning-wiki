@@ -32,7 +32,7 @@ Embodied activity is most effective when the movement maps transparently onto th
 - Elaborate choreography can consume working memory and attention on movement execution rather than the mathematics, especially for novice dancers [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M] — the dual demand of dancing and reasoning competes for limited resources
 - Movement that is metaphorical rather than structural (dancing *about* a topic rather than *enacting* its structure) shows no learning benefit and may distract [Physical experience with abstract concepts improves understanding and test performance.](../claims/physical-experience-enhances-science-learning.md) [-M]
 - Concepts without natural spatial or sequential structure (e.g., formal proof, abstract algebra axioms) resist movement mapping; forcing one produces arbitrary, low-meaning mappings
-- Audience learning from watching alone is weak without narration or follow-up discussion — observation without application yields shallow encoding [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Audience learning from watching alone is weak without narration or follow-up discussion — observation without application yields shallow encoding [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-example-problem-sequences.md) [~M]
 
 #### Implementation Variability
 - **Performers-as-learners:** students choreograph and perform, learning through design decisions (strongest embodiment)

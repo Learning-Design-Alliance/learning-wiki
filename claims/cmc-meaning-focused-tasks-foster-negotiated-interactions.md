@@ -39,6 +39,17 @@ Analysis of interactions from 12 groups of four French NNS biology students comp
 
 > "The very first conclusion that can be drawn from the analysis of the data collected is the fact that the completion of meaning-focused tasks through computer-mediated communication does foster negotiated interactions."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*In meaning-focused second-language tasks done through text chat and other computer-mediated modes, which task and mode features produce negotiation of meaning and corrective feedback?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **2 distinct studies** (2 causal), `q2`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Sarré 2011](https://doi.org/10.14705/rpnet.2011.9781908416001) | q2 · causal · r1 | i? | this claim; [Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than](closed-tasks-foster-more-negotiation-than-open-tasks.md) (supports); [Discussion board interactions generated no negative feedback at all, suggesting synchrony ](discussion-board-no-negative-feedback-synchrony-required.md) (supports); [Videoconferencing was conducive to more negotiation of meaning than text chat and discussi](videoconferencing-more-negotiated-turns-than-chat-and-board.md) (qualifies); [Content-related problems trigger most negotiation routines, and syntactic triggers are abs](content-triggers-dominate-syntactic-triggers-absent-text-chat.md) (qualifies); [Unprompted self-correction dominates negative feedback in NNS-NNS CMC interaction, interpr](self-correction-dominates-negative-feedback-face-saving.md) (qualifies) |
+| Arslanyilmaz 2010 | q2 · causal · r2 | i3 | [Non-native speaker dyads provided with subtitled videos before tasks produce a significant](subtitled-videos-increase-negotiation-of-meaning-online-tbll.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

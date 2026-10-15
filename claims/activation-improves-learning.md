@@ -98,7 +98,7 @@ Secondary-school students studied worked solution attempts on mean absolute devi
 
 ## Discussion
 
-**Mechanism.** Activation is typically explained through schema theory: new information is stored and retrieved more effectively when it can be connected to existing knowledge structures [+M]. Activities such as brainstorming, pre-questions, analogies, and advance organizers serve this function — see [Advance organizers improve learning](advance-organizers-improve-learning.md) and [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md). In cognitive load terms, activation reduces the extraneous processing required to situate new material, complementing broader [cognitive load management](../principles/cognitive-load-management.md) approaches.
+**Mechanism.** Activation is typically explained through schema theory: new information is stored and retrieved more effectively when it can be connected to existing knowledge structures [+M]. Activities such as brainstorming, pre-questions, analogies, and advance organizers serve this function — see [Advance organizers improve learning](advance-organizers-improve-learning.md) and [Analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md). In cognitive load terms, activation reduces the extraneous processing required to situate new material, complementing broader [cognitive load management](../principles/cognitive-load-management.md) approaches.
 
 **Boundary conditions.** Activation is only beneficial when the activated knowledge is *relevant and accurate*. Activating misconceptions or tangential knowledge can interfere with encoding rather than support it — a condition under which activation fails rather than helps [-M]. Learners with little relevant prior knowledge may gain little from activation prompts, since there is nothing meaningful to activate; for them, building background knowledge takes precedence over activating it [-M]. This makes activation a poor fit as a standalone strategy for complete novices, and connects it to the expertise-reversal pattern documented in [expertise reversal effect](../theories/expertise-reversal-effect.md): techniques that help novices consolidate knowledge can become redundant once schemas are well formed [~M].
 
@@ -117,8 +117,7 @@ Open questions include how much guidance activation prompts need (open recall vs
 ## Related Claims
 
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — structured previews are a canonical activation technique.
-- [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — analogies activate source knowledge to support new learning.
-- [Comparing contrasting cases improve learning](comparing-contrasting-cases-improves-learning.md) — contrast cases activate and differentiate prior schemas before instruction.
+- [Analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md) — analogies activate source knowledge to support new learning.
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — activation can surface misconceptions, creating the disequilibrium needed to revise them.
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — pre-questions and pretests are a well-studied activation format with errorful-generation benefits.
 - [Prior knowledge determines new learning](prior-knowledge-determines-new-learning.md) — the schema-theoretic foundation for why activation matters.

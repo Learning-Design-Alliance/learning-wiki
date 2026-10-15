@@ -111,7 +111,7 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 
 - [Activation improves learning.](activation-improves-learning.md) — activating prior conceptions is the precondition for creating a productive conflict with them
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — disequilibrium that exceeds working-memory capacity tips from motivating to overwhelming
-- [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — analogy is one route for resolving disequilibrium by mapping a familiar conception onto the anomalous case
+- [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — analogy is one route for resolving disequilibrium by mapping a familiar conception onto the anomalous case
 - [Cognitive flexibility theory: multiple cases.](cognitive-flexibility-theory-multiple-cases.md) — multiple representations and cases help learners restructure knowledge after conflict
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — conflict should come from the target conception, not from extraneous material adding load
 - [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — related

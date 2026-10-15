@@ -3,13 +3,9 @@
   "note": "Spec pass 2026-10-15: groupings by an agent from the claims it read. No claim tests concept attainment itself; the findings are the neighbouring tests the page carries over.",
   "findings": [
     {
-      "hub": "analogical-reasoning-improves-transfer",
+      "hub": "comparing-contrasting-cases-improves-learning",
       "question": "Does comparing analogous cases improve transfer more than studying cases one at a time?",
       "members": [
-        [
-          "comparing-contrasting-cases-improves-learning",
-          "~"
-        ],
         [
           "cognitive-flexibility-theory-multiple-cases",
           "~"

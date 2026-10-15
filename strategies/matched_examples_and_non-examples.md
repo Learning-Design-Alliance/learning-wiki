@@ -32,7 +32,7 @@ Contrasting cases sharpen discrimination by making the defining attribute visibl
 - Poorly chosen non-examples — differing on irrelevant attributes rather than the defining one — can teach the wrong boundary and actively mislead [-M]
 - Presenting non-examples before learners have any grasp of the concept can create confusion, especially for novices with weak prior knowledge [~M]
 - If all examples share a salient surface feature, learners overgeneralize that feature as defining; variety of surface features is essential [-S]
-- Inefficient for skills or knowledge that is inherently procedural rather than conceptual; worked examples with fading are better suited [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Inefficient for skills or knowledge that is inherently procedural rather than conceptual; worked examples with fading are better suited [Example-problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [~M]
 
 #### Implementation Variability
 - **Classification tasks**: learners sort a mixed set of examples and non-examples, receiving feedback on errors

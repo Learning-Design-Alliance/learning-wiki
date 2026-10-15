@@ -34,7 +34,7 @@ Speech-to-text converts spoken language into written text, giving learners anoth
 Speech-to-text is most effective when it is treated as a supported composing tool rather than a magical replacement for writing. Learners still need to review output, notice recognition errors, and revise for clarity, structure, and audience. In that sense, speech-to-text often works best as part of a broader writing and self-monitoring process.
 
 ## Implications
-Speech-to-text is most useful when transcription effort, not idea generation, is the main barrier. It can free learners to get language onto the page more efficiently, but its value depends on what happens after dictation: learners still need to review, monitor, and revise the output [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. Because recognition errors and awkward dictation habits vary widely, support is strongest when instructors or tools help learners build workable routines for dictating, checking, and correcting output [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. Speech-to-text supports writing access; it does not replace writing instruction.
+Speech-to-text is most useful when transcription effort, not idea generation, is the main barrier. It can free learners to get language onto the page more efficiently, but its value depends on what happens after dictation: learners still need to review, monitor, and revise the output [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]. Because recognition errors and awkward dictation habits vary widely, support is strongest when instructors or tools help learners build workable routines for dictating, checking, and correcting output [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. Speech-to-text supports writing access; it does not replace writing instruction.
 
 ### Context
 #### Requirements
@@ -71,7 +71,7 @@ Speech-to-text is most useful when transcription effort, not idea generation, is
 
 ### Claims
 
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — dictated text becomes more useful when learners actively check and revise what the tool produced
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — dictated text becomes more useful when learners actively check and revise what the tool produced
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — learners often need responsive support to develop effective dictation and editing routines
 - [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](../claims/mixed-efficiency-speed-perceptions.md) [~W]
 - [Edited voice prompts did not significantly differ from text prompts in first-attempt success](../claims/edited-voice-no-significant-difference.md) [~W]

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection"
-description: Students learn more from games when bridging activities connect implicit game learning with formal, explicit classroom instruction, and learning analytics can strengthen that connection
+description: A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection
 id: bridging-activities-connect-game-learning-to-instruction
 status: draft
 generated:

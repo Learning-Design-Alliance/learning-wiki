@@ -98,7 +98,7 @@ Open questions for future evidence entries include the durability of effects aft
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — a narrower finding that bears on this claim
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
-- [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related
+- [In one keystroke-logging study, spontaneous sentence production under minimal planning is associated with gains in writers' self-rated understanding and with lower initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — a narrower finding that bears on this claim
 - [Skilled EFL writers undergo a recursive writing process in which planning, writing, and reviewing repeat and embed within each other during composing.](skilled-efl-writers-recursive-writing-process.md) — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — prompts are a common delivery mechanism for SRL strategy instruction

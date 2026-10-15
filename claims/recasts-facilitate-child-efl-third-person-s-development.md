@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group
-description: "Recasts facilitate child EFL learners' acquisition of the third person singular -s verb form in task-based lessons"
+description: Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group
 id: recasts-facilitate-child-efl-third-person-s-development
 status: draft
 generated:

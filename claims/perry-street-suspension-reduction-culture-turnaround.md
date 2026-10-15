@@ -44,7 +44,7 @@ Descriptive before-and-after evidence from the case study's culture section: pre
 
 ## Related Claims
 - [A quasi-experimental evaluation found Perry Street students improved significantly more during turnaround than they would have at other traditional or charter schools](perry-street-quasi-experimental-achievement-gains.md) — related
-- [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — a broader claim this one bears on
+- [A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities](brief-intervention-empathic-discipline-cuts-suspensions.md) — a broader claim this one bears on
 - [Schurz High School's Cultivate-driven feedback-for-growth improvement work coincided with improved student experiences and out-of-school suspensions dropping to one-half of the prior year's number](schurz-cultivate-improvement-outcomes.md) — related
 - [A Philadelphia reform prohibiting out-of-school suspension for classroom disorder decreased classroom disorder suspensions among students suspended before the reform](philadelphia-classroom-disorder-oss-ban-reduced-suspensions.md) — related
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related

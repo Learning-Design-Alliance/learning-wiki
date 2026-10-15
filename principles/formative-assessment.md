@@ -39,7 +39,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (9 for, 14 mixed, 1 unmarked) · 35 studies (11 quant-synthesis, 9 causal, 6 review, 3 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 13 of 35 report an effect size · 14 claims rest on one study
+> **Evidence** · 24 claims (9 for, 14 mixed, 1 unmarked) · 36 studies (11 quant-synthesis, 9 causal, 7 review, 3 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 14 of 36 report an effect size · 14 claims rest on one study
 
 ## Description
 

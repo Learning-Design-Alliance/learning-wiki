@@ -53,6 +53,6 @@ Teacher exit survey and interview data from the 16 participating teachers; the r
 - [Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum](tec-summer-teacher-outcome-gains.md) — related
 - [Educators grew more confident supporting student autonomy and leading media production through the program](360-filmmakers-challenge-educator-confidence-autonomy.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Delayed Treatment teachers more frequently simplified GC/CoV-lean lessons in ways that removed opportunities for figuring out, while Treatment teachers added graphing-skill opportunities](lesson-modifications-differed-by-group.md) — related
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related

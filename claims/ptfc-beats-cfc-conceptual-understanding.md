@@ -61,5 +61,5 @@ Nonequivalent-groups pretest-posttest experiment with two intact freshman calcul
 - [Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods](self-efficacy-correlates-conceptual-understanding.md) — related
 - [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](prior-achievement-null-self-efficacy.md) — related
 - [Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction](majors-background-affects-outcomes.md) — related
-- [Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest](method-achievement-interaction-self-efficacy.md) — related
+- [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
 - [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](ai-generated-responses-higher-quadratic-achievement.md) — related

@@ -56,7 +56,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 - Novices who lack the schemas to benefit from unguided problem solving [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 - Learners who have studied worked examples but are not yet ready for independent problems
 - Less appropriate for advanced learners, who perform better solving problems directly [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
-- Novices in a structured domain (algebra, programming, physics, statistics) who would otherwise flounder in unguided search [Example–problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]
+- Novices in a structured domain (algebra, programming, physics, statistics) who would otherwise flounder in unguided search [Example–problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+S]
 - Intermediate learners transitioning from example study to independent problem solving
 
 ### Target Learning Goals
@@ -111,7 +111,7 @@ A completion problem (also called a completion strategy or fade-in problem) pres
 
 ## Design Implications
 
-Completion problems reduce the unguided search that overwhelms novices while still requiring generative processing — the learner must actually execute part of the solution rather than merely study one [Example–problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. This makes them more effective than worked examples alone at producing transferable skill, because the completion requirement combats the passive "illusion of understanding" that pure example study can induce [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The design decision is the *completion ratio*: how much is given versus left to the learner, and how that ratio shifts across a task sequence.
+Completion problems reduce the unguided search that overwhelms novices while still requiring generative processing — the learner must actually execute part of the solution rather than merely study one [Example–problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+S]. This makes them more effective than worked examples alone at producing transferable skill, because the completion requirement combats the passive "illusion of understanding" that pure example study can induce [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The design decision is the *completion ratio*: how much is given versus left to the learner, and how that ratio shifts across a task sequence.
 
 ### Context
 #### Requirements
@@ -133,7 +133,7 @@ Completion problems reduce the unguided search that overwhelms novices while sti
 - **Error-based variants**: the given portion contains a deliberate error the learner must find and fix [Erroneous examples can build conceptual knowledge by prompting learners to explain and correct flawed solutions.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+W]
 
 ### Target Learners
-- Novices in a structured domain (algebra, programming, physics, statistics) who would otherwise flounder in unguided search [Example–problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]
+- Novices in a structured domain (algebra, programming, physics, statistics) who would otherwise flounder in unguided search [Example–problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+S]
 - Intermediate learners transitioning from example study to independent problem solving
 - Not recommended as the default for experts, who benefit more from problem solving with minimal support [Guidance becomes less effective — and can reverse in benefit — as expertise grows.](../claims/expertise-reversal-effect.md) [-M]
 

@@ -18,7 +18,7 @@ sources:
 # Attitude Scale towards Scientific Knowledge (SKS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The SKS is a 25-item five-point Likert assessment developed by Ayvacı (2007) to measure attitudes toward scientific knowledge and views about its nature.
@@ -28,7 +28,7 @@ The SKS is a 25-item five-point Likert assessment developed by Ayvacı (2007) to
 
 ### Claims
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+W]
-- [Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers](../claims/formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) [+W]
+- [In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone](../claims/formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) [+W]
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](../claims/formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) [+W]
 - [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](../claims/no-significant-posttest-retention-decline-either-group.md) [+W]
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](../claims/pretest-equivalence-noss-sks-groups.md) [+W]

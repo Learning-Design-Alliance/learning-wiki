@@ -45,7 +45,7 @@ This is a single-session collaborative task in one academic context (pre-service
 ## Related Claims
 
 - [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — the general claim this finding bears on, with the studies behind it
-- [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — this claim extends the self-monitoring mechanism to the shared/group level: groups need aligned perception of the problem before individual self-monitoring translates into coordinated regulation
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](self-monitoring-improves-self-regulation.md) — this claim extends the self-monitoring mechanism to the shared/group level: groups need aligned perception of the problem before individual self-monitoring translates into coordinated regulation
 - [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md) — from the same study; shows that simply recognizing disagreement is not enough to produce the coordination benefits homogeneity provides
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
 - [Strong feelings about a community problem positively influence group growth](strong-feelings-about-problem-influence-group-growth.md) — related

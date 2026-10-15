@@ -44,4 +44,4 @@ The authors report, citing Kulik et al's (1980) meta-analysis of computer-based 
 ## Related Claims
 
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related

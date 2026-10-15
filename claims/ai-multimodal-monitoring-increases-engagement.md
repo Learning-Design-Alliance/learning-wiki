@@ -43,6 +43,6 @@ The review's discussion of its first research question reports that sensors and 
 
 
 ## Related Claims
-- [Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments](emotional-engagement-social-presence-ai-collaborative-learning.md) — related
+- [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — related
 - AIOL research shows increasing emphasis on multimodal data integration for emotion recognition and personalized learning support — related
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related

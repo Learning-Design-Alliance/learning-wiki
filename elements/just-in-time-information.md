@@ -20,7 +20,7 @@ Just-in-time information presents explanatory content — procedures, concepts, 
 
 ## Design Implications
 
-Delivering information at the point of need reduces the burden of holding unapplied content in working memory and improves the relevance and retrievability of what is learned [Presenting prerequisite information just before it is needed improves learning efficiency compared with presenting it upfront.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. In whole-task designs, supportive information is offered before the task while procedural information is embedded within it, appearing precisely at the step where it applies [Whole-task sequencing improves transfer compared with part-task sequencing.](../claims/whole-task-performance-improves-transfer.md) [+M]. The design decision is *when* to present: information given too early is forgotten or ignored; information given too late forces unproductive trial-and-error search.
+Delivering information at the point of need reduces the burden of holding unapplied content in working memory and improves the relevance and retrievability of what is learned [Presenting prerequisite information just before it is needed improves learning efficiency compared with presenting it upfront.](../claims/worked-example-problem-sequences.md) [+M]. In whole-task designs, supportive information is offered before the task while procedural information is embedded within it, appearing precisely at the step where it applies [Whole-task sequencing improves transfer compared with part-task sequencing.](../claims/whole-task-performance-improves-transfer.md) [+M]. The design decision is *when* to present: information given too early is forgotten or ignored; information given too late forces unproductive trial-and-error search.
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Delivering information at the point of need reduces the burden of holding unappl
 - In self-paced e-learning, poorly timed pop-ups can split attention between the information and the task itself [~M]
 
 ### Target Learners
-- Novices in complex, multi-step domains (STEM, software, statistics) where upfront instruction would exceed working memory capacity [Presenting prerequisite information just before it is needed improves learning efficiency compared with presenting it upfront.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Novices in complex, multi-step domains (STEM, software, statistics) where upfront instruction would exceed working memory capacity [Presenting prerequisite information just before it is needed improves learning efficiency compared with presenting it upfront.](../claims/worked-example-problem-sequences.md) [+M]
 - Self-paced learners who can control when they request support
 - Less beneficial for advanced learners, who can integrate upfront material efficiently and may find step-by-step prompting redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 

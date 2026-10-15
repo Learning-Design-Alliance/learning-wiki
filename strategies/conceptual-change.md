@@ -12,7 +12,7 @@ generated:
 # Conceptual Change
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (5 causal, 4 quant-synthesis), `q3`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (5 causal, 4 quant-synthesis), `q3`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Conceptual change instruction targets learners' entrenched intuitive theories — misconceptions that are coherent, functional, and resistant to direct correction. The strategy first makes prior conceptions explicit, then confronts them with evidence or explanations they cannot account for, and finally supports construction of the replacement conception. It is carried out through prediction tasks, contrasting cases, refutational texts, and discussion rather than simple transmission of correct information.
@@ -38,7 +38,7 @@ Learners do not enter instruction as blank slates; intuitive misconceptions (e.g
 - **Refutational texts**: explicitly state the misconception, refute it, and present the correct conception — effective in reading-to-learn contexts
 - **Predict–observe–explain (POE)**: learners commit to a prediction, observe the disconfirming event, then reconcile
 - **Contrasting cases**: side-by-side comparisons that make the critical features distinguishing correct from intuitive models visible [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
-- **Bridging analogies**: a chain of intermediate cases connecting the intuitive conception to the target one, reducing the "conceptual distance" learners must traverse [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- **Bridging analogies**: a chain of intermediate cases connecting the intuitive conception to the target one, reducing the "conceptual distance" learners must traverse [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Learners with well-established intuitive theories that conflict with target content (common in physics, biology, statistics)

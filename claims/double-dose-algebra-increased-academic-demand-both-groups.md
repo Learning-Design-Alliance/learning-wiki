@@ -62,7 +62,7 @@ Cross-cohort discontinuity analysis at the 50th-percentile ITBS cutoff. Below-no
 
 
 ## Related Claims
-- [Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01)](above-norm-score-gains-peer-ability-spillover.md) — related
+- [In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra](above-norm-score-gains-peer-ability-spillover.md) — related
 - [Academic composition of algebra classrooms affects math achievement among high-skill students](academic-composition-affects-math-achievement.md) — related
 - [Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting](below-norm-pass-rates-improved-relative-skills.md) — related
 - [Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy](below-norm-score-gains-composition-null-post-policy.md) — related
@@ -72,6 +72,5 @@ Cross-cohort discontinuity analysis at the 50th-percentile ITBS cutoff. Below-no
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
-- [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](peer-skill-explains-above-norm-test-gains.md) — related
 - [Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences](selective-top-tier-schools-improve-nonacademic-experiences.md) — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related

@@ -44,7 +44,7 @@ Five independent-sample t-tests in the quasi-experiment compared abstract with c
 ## Related Claims
 
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — the general claim this finding bears on, with the studies behind it
-- [The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation](modality-effect-holds-middle-school-electricity.md) — related
+- [In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)](modality-effect-holds-middle-school-electricity.md) — related
 - [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — related
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related
 - [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](signaling-effect-abstract-only.md) — related

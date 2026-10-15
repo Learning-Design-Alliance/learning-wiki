@@ -46,4 +46,4 @@ Archival administrative-record outcome (grade retention) in the group-randomized
 ## Related Claims
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related
-- [SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
+- [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related

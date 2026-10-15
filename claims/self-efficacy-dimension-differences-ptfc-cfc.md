@@ -62,7 +62,7 @@ Same dimension-level analysis: grade-no-anxiety F=1.19, p=.280; in-class F=.013,
 
 
 ## Related Claims
-- [Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest](method-achievement-interaction-self-efficacy.md) — related
+- [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
 - [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](prior-achievement-null-self-efficacy.md) — related
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
 - [Peer-teaching flipped classroom students show higher calculus self-efficacy than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-self-efficacy.md) — related

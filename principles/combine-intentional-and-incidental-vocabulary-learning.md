@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 7 studies (4 quant-synthesis, 3 review), `q2`–`q3` · 2 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 20 claims (16 for, 3 mixed, 1 against) · 12 studies (5 quant-synthesis, 5 review, 2 causal), `q2`–`q3` · 2 of 12 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -112,7 +112,7 @@ None of the claims varies the ratio of intentional to incidental time, the order
 ## The evidence by question
 
 - *Does combining deliberate word study with learning from meaning-focused input give more words and better retention than either alone?* [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](../claims/pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) [+M]
-- *Do glosses and dictionary use during second-language reading raise the words learned from it?* [Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode](../claims/glossing-medium-large-effects-l2-vocabulary.md) [+W]
+- *Do glosses and dictionary use during second-language reading raise the words learned from it?* [Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses](../claims/glossing-medium-large-effects-l2-vocabulary.md) [+W]
 - *How much do repeated encounters add, and do words met in input last without review?* [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+M]
 
 ## Further evidence, not yet read against this model

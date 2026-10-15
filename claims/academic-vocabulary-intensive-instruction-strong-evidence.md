@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)"
-description: Intensive academic vocabulary instruction across several days is supported by strong evidence from six WWC-standard studies
+description: A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)
 id: academic-vocabulary-intensive-instruction-strong-evidence
 status: draft
 generated:

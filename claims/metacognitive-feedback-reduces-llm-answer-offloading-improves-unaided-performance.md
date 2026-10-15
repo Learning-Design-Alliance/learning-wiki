@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect"
-description: "Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance"
+description: In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect
 id: metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance
 status: draft
 generated:
@@ -66,6 +66,8 @@ Confirmatory test of H2b on the six-item unaided final test in the same preregis
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — the general claim this finding bears on, with the studies behind it
 
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — the general claim this finding bears on, with the studies behind it
 

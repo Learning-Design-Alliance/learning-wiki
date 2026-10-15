@@ -45,7 +45,7 @@ The article recommends that, given demonstrated variation in SWPBIS responsivene
 
 - [Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk](../claims/lpa-four-baseline-risk-classes.md) [+W]
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](../claims/swpbis-effects-greatest-at-risk-high-risk-children.md) [+W]
-- [SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers](../claims/swpbis-reduces-odr-at-risk-high-risk.md) [+W]
+- [At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)](../claims/swpbis-reduces-odr-at-risk-high-risk.md) [+W]
 
 ## Related Strategies
 

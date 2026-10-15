@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach
-description: Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training
+description: Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach
 id: experts-superficial-technology-integration
 status: draft
 generated:

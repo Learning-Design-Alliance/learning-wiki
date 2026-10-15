@@ -44,7 +44,7 @@ Interview thematic analysis: students reported learning independently from ChatG
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](chatgpt-competence-experience-efl-undergraduates.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related

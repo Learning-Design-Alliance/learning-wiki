@@ -18,7 +18,7 @@ sources:
 # Compensate for age-related sensory impairments by combining audio input with visual presentation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 17 claims (8 for, 9 mixed) · 12 studies (5 review, 3 quant-synthesis, 2 causal, 2 theoretical), `q1`–`q3` · 3 of 12 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 

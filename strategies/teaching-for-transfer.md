@@ -12,14 +12,14 @@ generated:
 # Teaching For Transfer
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Teaching for transfer is the deliberate design of instruction so that what learners acquire can be applied beyond the conditions of original learning — to new problems, domains, or situations. It is carried out by teaching abstract principles alongside multiple concrete instances, prompting learners to make comparisons and abstractions themselves, and practicing application in varied contexts rather than a single one.
 
 ## Design Implications
 
-Transfer does not happen automatically; near transfer is common but far transfer is rare without explicit support [Salomon & Perkins' review finds far transfer requires deliberate abstraction and mindful application.](../claims/analogical-reasoning-improves-transfer.md) [+M]. The core mechanism is abstraction: learners must extract a general schema from specific cases, which is aided by comparing multiple cases rather than studying one in depth [Multiple varied cases support schema abstraction better than a single case.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Prompting learners to map a taught principle onto a novel problem — rather than hoping they will notice the similarity — reliably improves transfer performance [Explicit prompts to compare source and target problems improve analogical transfer.](../claims/analogical-reasoning-improves-transfer.md) [+S].
+Transfer does not happen automatically; near transfer is common but far transfer is rare without explicit support [Salomon & Perkins' review finds far transfer requires deliberate abstraction and mindful application.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The core mechanism is abstraction: learners must extract a general schema from specific cases, which is aided by comparing multiple cases rather than studying one in depth [Multiple varied cases support schema abstraction better than a single case.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Prompting learners to map a taught principle onto a novel problem — rather than hoping they will notice the similarity — reliably improves transfer performance [Explicit prompts to compare source and target problems improve analogical transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+S].
 
 ### Context
 #### Requirements

@@ -17,7 +17,7 @@ sources:
 # Develop professional learning communities as a strategy for building capacity for sustainable improvement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The review's forward-looking recommendation is that schools and systems develop professional learning communities as their route to capacity building: "Developing professional learning communities appears to hold considerable promise for capacity building for sustainable improvement." The strategy treats PLC development as an implementable organisational activity aimed at sustaining learning over time, and the review notes its spread as "a 'hot topic' in many countries."
@@ -46,7 +46,6 @@ The review's forward-looking recommendation is that schools and systems develop 
 
 - [Developing professional learning communities appears to hold considerable promise for capacity building for sustainable improvement](../claims/plcs-hold-promise-for-capacity-building.md) [+W]
 - [Educational reform's progress depends on teachers' individual and collective capacity and its link with school-wide capacity for promoting pupils' learning](../claims/reform-progress-depends-on-teacher-and-school-capacity.md) [+W]
-- [Building capacity is critical for educational reform](../claims/building-capacity-critical-for-reform.md) [+W]
 - [Participating in scoring performance assessments builds teacher capacity in several ways](../claims/scoring-activities-build-teacher-capacity.md) [+W]
 
 ## Related Strategies

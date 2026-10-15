@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further"
-description: APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration
+description: In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further
 id: apca-improves-self-assessment-accuracy-overconfidence
 status: draft
 generated:

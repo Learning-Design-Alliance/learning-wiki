@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement"
-description: Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement
+description: A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement
 id: avatar-social-presence-increases-tutor-engagement
 status: draft
 generated:
@@ -68,4 +68,4 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — related
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](motivation-social-presence-boost-engagement-agentic-ai.md) — related
-- [Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments](emotional-engagement-social-presence-ai-collaborative-learning.md) — related
+- [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — related

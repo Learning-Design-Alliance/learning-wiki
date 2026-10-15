@@ -43,7 +43,7 @@ Robust linear interaction model (Magee's pseudo R² = 0.605) on RCT data. The si
 
 
 ## Related Claims
-- [Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems](genai-scaffolding-training-improves-revision-performance.md) — related
+- [Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)](genai-scaffolding-training-improves-revision-performance.md) — related
 - [SRL skills and prior knowledge predict revision performance, while SRL predicts higher and prior knowledge lower cognitive load](learner-characteristics-predict-ai-collaboration-outcomes.md) — related
 - [GenAI dependence weakens the positive association between GenAI use and both student outcomes, attenuating it to statistical non-significance at high dependence](genai-dependence-moderates-use-outcome-links.md) — a broader claim this one bears on
 - [AI literacy moderates the pathways from perceived AI-adaptive environments to academic emotions, attenuating negative emotional effects among students with higher AI literacy](ai-literacy-moderates-emotion-pathways.md) — a broader claim this one bears on

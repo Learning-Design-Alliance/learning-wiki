@@ -48,7 +48,7 @@ Multilevel logistic regression in the 4-year group RCT on aggregated dichotomous
 |---|---|---|---|
 | [Catherine P. Bradshaw 2012](https://doi.org/10.1542/peds.2012-0243) | q3 · causal · r3 | i? | this claim; [SWPBIS does not significantly reduce out-of-school suspensions in this trial](swpbis-no-effect-suspensions.md) (counts against) |
 | [Catherine P. Bradshaw 2010](https://doi.org/10.1177/1098300709334798) | q3 · causal · r2 | i? | [In SWPBIS-trained schools the share of students with an office discipline referral fell sl](swpbis-reduced-odr-percentage.md) (supports); [School suspension rates declined significantly within SWPBIS schools but not within compar](swpbis-reduced-suspensions-not-comparisons.md) (qualifies) |
-| [Bradshaw 2015](https://doi.org/10.1037/a0037630) | q3 · causal · r2 | i0 | [SWPBIS reduced office discipline referrals among at-risk and high-risk children relative t](swpbis-reduces-odr-at-risk-high-risk.md) (qualifies) |
+| [Bradshaw 2015](https://doi.org/10.1037/a0037630) | q3 · causal · r2 | i0 | [At-risk children in SWPBIS schools are slightly less likely to receive an office disciplin](swpbis-reduces-odr-at-risk-high-risk.md) (qualifies) |
 | Gage 2025 | q2 · causal · r2 | i2; i? | [Schools implementing all three PBIS tiers with fidelity had significantly fewer students w](pbis-three-tiers-fidelity-fewer-oss-pandemic.md) (supports); [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) (qualifies) |
 | Gage 2024 | q3 · causal · r2 | i2 | [Students in MTSS-coached schools were significantly less likely to have at least one behav](mtss-coaching-lower-likelihood-behavior-incident.md) (supports) |
 | [Brundidge 2025](https://doi.org/10.20429/nyarj.2025.080103) | q2 · design · r2 | i? | [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEA](pbis-suspensions-decreased-41-percent.md) (supports) |
@@ -60,5 +60,5 @@ Multilevel logistic regression in the 4-year group RCT on aggregated dichotomous
 ## Related Claims
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — a narrower finding that bears on this claim
 - [SWPBIS does not significantly reduce out-of-school suspensions in this trial](swpbis-no-effect-suspensions.md) — related
-- [SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers](swpbis-reduces-odr-at-risk-high-risk.md) — a narrower finding that bears on this claim
+- [At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)](swpbis-reduces-odr-at-risk-high-risk.md) — a narrower finding that bears on this claim
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related

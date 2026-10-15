@@ -43,7 +43,7 @@ Conceptual argument from the article's autonomy section, presenting SDT's positi
 
 
 ## Related Claims
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related
 - [IE's doing-with stance and democratic ethos map onto SDT autonomy support](ie-doing-with-maps-onto-autonomy-support.md) — related
 - [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — related

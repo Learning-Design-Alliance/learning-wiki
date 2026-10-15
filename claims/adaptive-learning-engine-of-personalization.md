@@ -44,6 +44,6 @@ The review's synthesis of the 13 adaptive-learning studies, many adopting a thre
 
 
 ## Related Claims
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization](individualized-instruction-receded-ai-era.md) — related
 - [Simulations of adaptive, multistage, and fixed form tests show the adaptation measures can be used operationally to identify difficulties with adaptation](simulation-shows-adaptation-measures-identify-difficulties.md) — related

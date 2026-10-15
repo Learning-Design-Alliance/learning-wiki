@@ -48,7 +48,7 @@ In the same PLS-SEM structural model (N = 327), Perceived Competence was also a 
 ## Related Claims
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — a broader claim this one bears on
 - [AI Prompting Literacy significantly positively predicts Perceived Competence, Intrinsic Motivation, and Psychological Safety among Chinese university EFL learners](apl-predicts-psychological-needs-satisfaction.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker](sdt-path-strengths-effort.md) — a broader claim this one bears on
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related

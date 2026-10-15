@@ -45,6 +45,5 @@ Final-assessment metacognition questions (0–10 scale) in the same field experi
 ## Related Claims
 - [Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior](confidence-correlates-with-financial-behaviors-not-knowledge.md) — related
 - [Practice condition showed no significant association with self-reported financial behaviors about credit](practice-condition-no-effect-financial-behaviors.md) — related
-- [Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions](spaced-retrieval-practice-improves-financial-knowledge-retention.md) — related
+- [Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions](spaced-beats-massed-and-control-financial-knowledge.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
-- [Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ](spaced-beats-massed-and-control-financial-knowledge.md) — related

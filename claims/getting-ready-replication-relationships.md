@@ -43,7 +43,7 @@ Second cluster randomized trial in publicly funded Nebraska preschool programs w
 
 
 ## Related Claims
-- [TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial](tapp-strengthens-parent-teacher-relationships.md) — related
+- [In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships](tapp-strengthens-parent-teacher-relationships.md) — related
 - [TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools)](tapp-teacher-reported-adaptive-behavior-social-skills-gains.md) — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Getting Ready shows a strong evidence rating for social-emotional learning, with an average effect size of +0.22 across two studies and 487 students](getting-ready-sel-strong-rating.md) — related

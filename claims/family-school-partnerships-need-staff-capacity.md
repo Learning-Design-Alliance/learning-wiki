@@ -1,7 +1,7 @@
 ---
 type: claim
 title: A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists
-description: Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching
+description: A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists
 id: family-school-partnerships-need-staff-capacity
 status: draft
 generated:

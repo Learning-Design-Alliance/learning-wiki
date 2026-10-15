@@ -48,5 +48,5 @@ Case-study narrative of the Santa Clara–UCSF partnership reporting participant
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](relational-trust-precondition-participatory.md) — related
 - [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](face-collaborative-fostered-collaborative-leadership-behaviors.md) — related
-- [Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching](family-school-partnerships-need-staff-capacity.md) — related
+- [A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists](family-school-partnerships-need-staff-capacity.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related

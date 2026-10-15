@@ -23,7 +23,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (16 for, 8 mixed) · 30 studies (12 causal, 7 quant-synthesis, 6 review, 3 qualitative, 2 theoretical), `q2`–`q4` · 8 of 30 report an effect size · 16 claims rest on one study
+> **Evidence** · 24 claims (16 for, 8 mixed) · 31 studies (12 causal, 7 quant-synthesis, 6 review, 3 qualitative, 3 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -87,7 +87,7 @@ Each question below links a general claim that gathers the studies behind it int
 Claims this page cited before it was rewritten as a conditional model. Each was re-read against the model above on 2026-10-15 and found not to test it; each says how far it bears, and how far its own sources have been checked.
 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — not settled: the text available could not confirm the entries (abstract); read 2026-10-15: compares studying worked examples with solving problems; it is not a test of making organization explicit, and bears only by analogy (less search for novices).
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract); read 2026-10-15: syntheses of self-regulation theory with no comparison of visible versus absent progress markers; bears only on the untested course-navigation row.
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract); read 2026-10-15: syntheses of self-regulation theory with no comparison of visible versus absent progress markers; bears only on the untested course-navigation row.
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M] — not yet checked against its sources; read 2026-10-15: goal-setting, not the organization of material; one narrative review.
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract); read 2026-10-15: adaptive tutoring support, not explicit organization; bears only loosely, through the idea that support should follow what the learner already knows.
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the text available could not confirm the entries (abstract); read 2026-10-15: what a goal names (the process or the result), not how material is organized.

@@ -15,18 +15,12 @@ sources:
     i: "?"
     kind: qualitative
     rigour: 3
-  - id: tcsg-cohort
-    title: tcsg-cohort
-    q: 2
-    i: "?"
-    kind: qualitative
-    rigour: 3
 ---
 
 # In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Two participants of the Savannah Technical College pilot were offered manufacturing jobs, and companies that normally did not hire anyone under 21 made an exception due to observed skills and certifications. [→ tcsg-hiring](#tcsg-hiring)
@@ -56,11 +50,11 @@ Program description of the fast-track manufacturing pilot at Savannah Technical 
 > "The initial cohort of the summer 2021 pilot program were six Black/African-American and one White recent high school graduates, who were uncertain of what they wanted to do"
 -->
 
-
 ## Discussion
 
-
 ## Related Claims
+
+- [An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation](employer-relevant-training-improves-adult-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent](five-themes-rural-microcredential-initiatives.md) — related
 - [Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners](micro-credentials-disrupt-pathways-access-excluded-learners.md) — a broader claim this one bears on
 - [The review reports, citing Meyer et al., that stacking micro-credentials increases employment by four percent and quarterly wages by seven percent](stacking-microcredentials-increases-employment-wages.md) — related

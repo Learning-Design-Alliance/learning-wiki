@@ -45,4 +45,4 @@ The review reports, citing Hafiz & Tudor (1989), Lai (1993), and Sakurai (2017),
 ## Related Claims
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — reports the opposite
-- [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related
+- [In one keystroke-logging study, spontaneous sentence production under minimal planning is associated with gains in writers' self-rated understanding and with lower initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related

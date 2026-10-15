@@ -62,4 +62,4 @@ Same edited-MDP simulation study, high-reward regime located by bisection. With 
 
 
 ## Related Claims
-- [RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency](rl-reward-misalignment-failure-modes.md) — a broader claim this one bears on
+- [An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards](rl-reward-misalignment-failure-modes.md) — a broader claim this one bears on

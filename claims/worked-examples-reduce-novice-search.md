@@ -55,7 +55,7 @@ The claim is strongest for novices. Once learners already possess the underlying
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md)
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md)
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](example-problem-sequences-reduce-cognitive-load.md)
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-example-problem-sequences.md)
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — a narrower finding that bears on this claim
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Studying solved problems improves algebra achievement compared to solving practice problems alone, though the evidence base is rated minimal and one study found negative effects](solved-problems-improve-algebra-achievement.md) — a narrower finding that bears on this claim

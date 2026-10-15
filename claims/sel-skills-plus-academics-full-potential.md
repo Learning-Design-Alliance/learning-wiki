@@ -59,7 +59,7 @@ The consensus statement enumerates social, emotional, and academic capacities to
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — related
 - [Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success](sel-decades-of-research-benefits.md) — related
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related
-- [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
+- [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [Supporting well-being and connection is a prerequisite to academic excellence](well-being-prerequisite-academic-excellence.md) — related
 - [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](belonging-reduces-cognitive-barriers.md) — related
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related

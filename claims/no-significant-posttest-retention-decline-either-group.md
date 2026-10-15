@@ -44,6 +44,6 @@ Paired samples t-tests comparing post-test and retention-test means in both grou
 
 ## Related Claims
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related
-- [Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) — related
+- [In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) — related
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related

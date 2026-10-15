@@ -1,7 +1,7 @@
 ---
 type: claim
 title: In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test
-description: "Students in the author's older-beginner Step One class made measured gains, including an average 128-point BEST Plus gain over 6 months and two former absolute beginners passing the citizenship test"
+description: In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test
 id: older-beginner-esl-outcome-gains
 status: draft
 generated:

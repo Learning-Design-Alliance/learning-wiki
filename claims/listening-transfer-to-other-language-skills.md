@@ -49,5 +49,5 @@ The review reports, citing Reeds, Winitz and Garcia (1977), significant reading 
 - [Listening is the most frequently used of the four language skills, consuming the largest share of communication time](listening-most-used-language-skill.md) — related
 - [In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately](speaking-dominates-concurrent-oral-scale.md) — related
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
-- [Oral language competence predicts subsequent reading achievement](oral-language-predicts-reading-achievement.md) — related
+- [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — related
 - [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — reports the opposite

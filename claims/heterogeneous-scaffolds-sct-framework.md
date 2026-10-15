@@ -44,6 +44,6 @@ The authors' sociocultural-theoretical interpretation of their quasi-experimenta
 - [In university physics education, AI has been applied for tutoring and explanations, formative feedback and scaffolding, collaborative problem solving, simulation and modeling, instructional design, and AI literacy development](ai-university-physics-six-pedagogical-functions.md) — related
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) — related
 - [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](ten-cluster-feedback-types.md) — related
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related

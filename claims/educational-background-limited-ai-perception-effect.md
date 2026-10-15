@@ -44,7 +44,6 @@ One-way ANOVA by educational level in the quantitative phase (N = 302). The arti
 
 ## Related Claims
 - [Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations](experience-credentials-teacher-evaluation-scores.md) — related
-- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](credentials-difference-observation-only-not-value-added.md) — related
 - [Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree](graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more.md) — related
 - [Primary school teachers report moderately positive overall perceptions of AI in mathematics instruction, with willingness and attitudes higher than personal experience](moderately-positive-teacher-ai-perceptions-primary-math.md) — related
 - [Earlier and mid-career teachers report more positive AI perceptions than teachers with 21 or more years of experience, except in personal experiences](professional-experience-ai-perception-differences.md) — related

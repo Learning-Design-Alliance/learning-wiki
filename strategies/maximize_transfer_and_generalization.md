@@ -58,7 +58,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - Intermediate learners benefit most from contrasting-case comparison, which reveals structure they would otherwise miss [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Learners with strong prior knowledge can be given far-transfer tasks earlier; novices need near-transfer tasks first (expertise reversal pattern) [~M]
 - Learners who will apply skills in settings that differ from the instructional setting (workplace, clinical, everyday contexts)
-- Learners with some initial schema in place — complete novices benefit first from structured examples, then from varied practice [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Learners with some initial schema in place — complete novices benefit first from structured examples, then from varied practice [Example-problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+M]
 - Learners prone to overestimating their readiness to apply knowledge in new settings; varied application tasks expose gaps that single-context practice hides
 
 ### Target Learning Goals
@@ -141,7 +141,7 @@ Transfer depends on learners encoding knowledge in a form that is abstract enoug
 
 ### Target Learners
 - Learners who will apply skills in settings that differ from the instructional setting (workplace, clinical, everyday contexts)
-- Learners with some initial schema in place — complete novices benefit first from structured examples, then from varied practice [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Learners with some initial schema in place — complete novices benefit first from structured examples, then from varied practice [Example-problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+M]
 - Learners prone to overestimating their readiness to apply knowledge in new settings; varied application tasks expose gaps that single-context practice hides
 
 ### Target Learning Goals

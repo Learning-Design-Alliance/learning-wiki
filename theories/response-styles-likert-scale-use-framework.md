@@ -16,7 +16,7 @@ sources:
 # Response styles as construct-irrelevant variation in Likert scale use
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article frames response styles as differences in how respondents use the categories of a Likert scale despite having the same true score on the construct of interest. For example, respondents "may be more likely to use the extremes of the response scale independent of their true score." This framing motivates scoring surveys with IRT models that do or do not account for response styles before estimating growth.
@@ -40,7 +40,6 @@ The article frames response styles as differences in how respondents use the cat
 
 - [Response Styles Construct Irrelevant Bias Survey](../claims/response-styles-construct-irrelevant-bias.md) [+M]
 - [The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used](../claims/response-style-growth-effects-vary-by-construct-and-model.md) [+W]
-- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](../claims/response-styles-affect-growth-parameter-estimates.md) [+W]
 
 ## Related Theories
 

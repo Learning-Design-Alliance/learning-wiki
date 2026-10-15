@@ -45,7 +45,7 @@ The manual's introduction cites accumulated educational research as the rational
 ## Related Claims
 - [The GED essay is scored holistically on a six-point scale by two independent readers](ged-essay-holistic-six-point-two-readers.md) — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
-- [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](instruction-little-effect-on-route-of-acquisition.md) — a broader claim this one bears on
+- [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](instruction-little-effect-on-route-of-acquisition.md) — a broader claim this one bears on
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — a broader claim this one bears on
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
 - [Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing](ela-writing-prompts-shift-instruction.md) — related

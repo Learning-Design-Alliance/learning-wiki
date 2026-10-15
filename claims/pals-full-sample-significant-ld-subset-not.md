@@ -63,7 +63,7 @@ WWC table note on Saenz et al. (2005), an RCT across four student types in ELL c
 
 ## Related Claims
 - [PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)](pals-potentially-positive-reading-comprehension-ld.md) — related
-- [PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant)](pals-potentially-positive-reading-fluency-ld.md) — related
-- [PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering](pals-potentially-positive-comprehension-effect-adolescent.md) — related
+- [PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)](pals-potentially-positive-reading-fluency-ld.md) — related
+- [The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering](pals-potentially-positive-comprehension-effect-adolescent.md) — related
 - [The evidence base for PALS in the Adolescent Literacy review rests on a single randomized trial of 120 students across 12 schools, rated as meeting standards with reservations](pals-evidence-base-single-rct-reservations.md) — related
 - [PALS shows no discernible effects on mathematics for students with learning disabilities](pals-no-discernible-math-effects-ld.md) — related

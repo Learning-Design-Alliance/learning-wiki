@@ -19,7 +19,7 @@ sources:
 # Storyline Science Curriculum Design
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (3 review, 1 qualitative), `q2` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Rather than sequencing a science unit around disciplinary topics, a storyline unit is organized around a coherent sequence of questions that students themselves raise in response to an anchoring phenomenon — the curriculum materials are written from the student's own perspective (using "we" pronouns: "we figure out," "we wonder about"), and each lesson's activities exist to answer a question the class has already asked, not to introduce content the curriculum has pre-decided is next. Standards coverage is achieved by backward design: only phenomena that require the target disciplinary ideas to explain are selected as anchors in the first place.

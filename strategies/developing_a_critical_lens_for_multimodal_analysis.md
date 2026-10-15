@@ -32,7 +32,7 @@ This strategy applies social-semiotic analysis to composition instruction: learn
 - Students with limited prior knowledge of multimodal composition may produce only surface-level observations without scaffolded vocabulary and modeling [~M]
 - Poorly chosen examples can backfire: decorative or irrelevant imagery teaches students that visuals are ornamental, undermining the analytic goal [Decorative illustrations do not improve learning and can distract from essential content.](../claims/seductive-details-effect.md) [-M]
 - Analysis without a follow-on composition task yields recognition knowledge that does not transfer to production; the exemplar collection must be connected to [practice](../elements/practice.md) [-M]
-- Highly open-ended analysis can overload novices; constraining the first analyses to one or two modes reduces unproductive search [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Highly open-ended analysis can overload novices; constraining the first analyses to one or two modes reduces unproductive search [Example-problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+M]
 
 #### Implementation Variability
 - **Progression by complexity:** start with word–image relations in picture books, then move to layout and typography in informational texts, then to interactive and moving media

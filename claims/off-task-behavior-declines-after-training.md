@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates"
-description: "Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level"
+description: Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates
 id: off-task-behavior-declines-after-training
 status: draft
 generated:

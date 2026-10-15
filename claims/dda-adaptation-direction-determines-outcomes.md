@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty"
-description: The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes
+description: In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty
 id: dda-adaptation-direction-determines-outcomes
 status: draft
 generated:
@@ -46,4 +46,4 @@ The review reports a quasi-experimental VR study (n = 50) in which "rule-based d
 ## Related Claims
 - [AI-supported game-based learning shows positive learning effects across diverse subject domains in the majority of included studies](ai-gbl-positive-knowledge-acquisition-effects.md) — a broader claim this one bears on
 - [In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor](simulation-task-difficulty-ai-quality-set-overreliance-baseline.md) — related
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on

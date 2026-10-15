@@ -12,14 +12,14 @@ generated:
 # Analogical Encoding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 causal, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (4 causal, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 9 report an effect size
 
 ## Description
 Analogical encoding asks learners to compare two or more surface-different cases that share the same underlying structure (e.g., two negotiation dilemmas both hinging on a trade-off between value creation and value claiming). Through comparison, learners extract the shared relational schema and encode it as the case's central meaning, making it more likely they will recognize that structure in a new, surface-dissimilar problem. It is carried out by presenting paired cases, prompting explicit comparison ("How are these two situations alike?"), and naming the abstract principle the comparison reveals.
 
 ## Design Implications
 
-Comparison is what drives the abstraction: a single case tends to be encoded in terms of its surface story, while two aligned cases force attention to shared relations [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+S]. The strategy enacts [Analogical Reasoning](../principles/analogical-reasoning.md) as a learning mechanism rather than only a presentation device. Because comparing two full cases adds working-memory load, cases should be presented side by side, aligned element-by-element, and kept short [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Comparison is what drives the abstraction: a single case tends to be encoded in terms of its surface story, while two aligned cases force attention to shared relations [Analogical Reasoning Improves Transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. The strategy enacts [Analogical Reasoning](../principles/analogical-reasoning.md) as a learning mechanism rather than only a presentation device. Because comparing two full cases adds working-memory load, cases should be presented side by side, aligned element-by-element, and kept short [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Comparison is what drives the abstraction: a single case tends to be encoded in 
 - **Delayed comparison**: cases studied separately, then compared — weaker than simultaneous comparison but easier to schedule
 
 ### Target Learners
-- Novices who default to surface-based encoding and need help seeing relational structure [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+S]
+- Novices who default to surface-based encoding and need help seeing relational structure [Analogical Reasoning Improves Transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Learners in domains where problems look different on the surface but share structure (negotiation, physics, statistics, management)
 - Less useful for experts, who already abstract structure and may find comparison redundant [Expertise reverses the benefit of added instructional support.](../claims/expertise-reversal-effect.md) [~M]
 

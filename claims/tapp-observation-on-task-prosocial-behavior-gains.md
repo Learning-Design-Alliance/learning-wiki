@@ -44,5 +44,5 @@ In the second RCT (45 rural schools), direct classroom observations complemented
 
 ## Related Claims
 - [TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)](tapp-rural-trial-behavior-problems-improvement.md) — related
-- [Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level](off-task-behavior-declines-after-training.md) — related
+- [Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates](off-task-behavior-declines-after-training.md) — related
 - [TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools)](tapp-teacher-reported-adaptive-behavior-social-skills-gains.md) — related

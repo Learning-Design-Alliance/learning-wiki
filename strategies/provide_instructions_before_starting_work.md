@@ -41,7 +41,7 @@ Clear pre-task instructions reduce extraneous cognitive load by eliminating the 
 - **Modeling the instructions:** pairing verbal instructions with a brief demonstration of the first step makes abstract directives concrete
 
 ### Target Learners
-- Novices, who lack the schemas to infer task structure from a title or prompt [Novices search inefficiently without explicit task guidance.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Novices, who lack the schemas to infer task structure from a title or prompt [Novices search inefficiently without explicit task guidance.](../claims/worked-example-problem-sequences.md) [+M]
 - Learners with working memory constraints or processing-speed challenges, for whom unresolved task ambiguity is disproportionately costly
 - Less detail for experts, who experience step-level instruction as redundant and disengaging [Guidance that helps novices can hinder more knowledgeable learners.](../claims/expertise-reversal-effect.md) [~M]
 

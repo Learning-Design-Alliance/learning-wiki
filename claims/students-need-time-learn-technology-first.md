@@ -44,5 +44,5 @@ Teacher reflection from Janis's fraction unit case in the curriculum-and-materia
 
 ## Related Claims
 - [Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways](overarching-conceptions-expanded-multiple-technologies.md) — related
-- [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — related
+- [The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — related
 - [Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking](technology-group-work-engagement-student-thinking.md) — related

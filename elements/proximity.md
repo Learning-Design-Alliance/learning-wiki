@@ -52,7 +52,7 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [The benefit of spatially co-located AI guidance varies by task: it matters most when instructions and task share a unified spatial frame](../claims/spatial-colocation-benefit-task-dependent.md) [~W]
+- [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](../claims/spatial-colocation-benefit-task-dependent.md) [~W]
 
 ## Related Elements
 - [Modality](../strategies/modality.md) — the temporal companion: narrating graphics rather than separating text from them

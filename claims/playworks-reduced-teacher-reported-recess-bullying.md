@@ -41,8 +41,9 @@ In the cohort 1 randomized experiment, treatment-school teachers reported less r
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school](swpbis-reduces-growth-teacher-reported-bullying.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — a broader claim this one bears on
 - [Playworks made transitions from recess to classroom learning less difficult, per teacher reports](playworks-easier-recess-to-classroom-transitions.md) — related
 - [Playworks improved teachers' perceptions of students' safety and feeling included during recess in a randomized experiment](playworks-improved-teacher-perceived-recess-safety-inclusion.md) — related

@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (7 for, 11 mixed, 2 against) · 19 studies (5 causal, 5 quant-synthesis, 4 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 19 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (7 for, 11 mixed, 2 against) · 20 studies (5 causal, 5 quant-synthesis, 4 review, 3 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 20 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -80,7 +80,7 @@ Each question below links a general claim that gathers the studies behind it int
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
 
 ## Objective and learner-valued goal

@@ -113,7 +113,7 @@ Explicit strategy instruction names a specific procedure learners can use to acc
 
 ## Design Implications
 
-Strategy instruction works because it converts tacit expert procedures into teachable steps, reducing the unguided search that overwhelms novices [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Its effectiveness depends on the full cycle — naming, modeling, guided practice, independent use — being completed; teaching a strategy's steps without modeling and practice produces knowledge *about* the strategy but not skill *in* using it.
+Strategy instruction works because it converts tacit expert procedures into teachable steps, reducing the unguided search that overwhelms novices [Example-problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+M]. Its effectiveness depends on the full cycle — naming, modeling, guided practice, independent use — being completed; teaching a strategy's steps without modeling and practice produces knowledge *about* the strategy but not skill *in* using it.
 
 ### Context
 #### Requirements

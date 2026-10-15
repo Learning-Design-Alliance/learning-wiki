@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (18 for, 11 mixed, 3 against) · 39 studies (16 causal, 11 quant-synthesis, 6 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 10 of 39 report an effect size · 19 claims rest on one study
+> **Evidence** · 31 claims (17 for, 11 mixed, 3 against) · 39 studies (16 causal, 11 quant-synthesis, 6 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 39 report an effect size · 18 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -30,7 +30,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - Sufficient volume and spacing — one or two attempts rarely produce fluency
 
 #### Constraints
-- Unguided problem solving early in learning imposes extraneous load and can underperform worked-example study [Example-problem sequences reduce cognitive load compared to pure problem solving.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Unguided problem solving early in learning imposes extraneous load and can underperform worked-example study [Example-problem sequences reduce cognitive load compared to pure problem solving.](../claims/worked-example-problem-sequences.md) [+M]
 - Practice without feedback entrenches errors; repetition alone does not correct misconceptions
 - Blocked, predictable practice produces strong short-term performance but weak retention and transfer compared to spaced, varied practice [~S]
 - Less effective when tasks exceed working memory capacity and no load-reduction supports are in place ([Cognitive Load Management](../principles/cognitive-load-management.md))
@@ -58,7 +58,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
 - [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [~S]
 - [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [-M]
-- [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
+- [A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
 - [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
 - [Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing](../claims/expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) [~M]
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](../claims/distributed-practice-limits-l2.md) [~W]
@@ -98,9 +98,9 @@ Practice is one of the most consistently supported instructional elements: activ
 - **Not settled:** retrieval practice for procedural skills such as clinical procedures or multi-step algebra, where the claims' evidence is thin.
 
 ### How hard should each practice attempt be?
-- **Default:** pitch items so most attempts succeed, or give feedback on every failed one. Without feedback, practice at 50% initial success or lower gave no testing effect (g = 0.03), and effects grew as success rose above 75% — [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [-M], [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
+- **Default:** pitch items so most attempts succeed, or give feedback on every failed one. Without feedback, practice at 50% initial success or lower gave no testing effect (g = 0.03), and effects grew as success rose above 75% — [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [-M], [A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
 - **Changes when:** feedback follows each attempt → lower success is tolerable; studies with feedback showed the largest effects regardless of initial success — [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [~M]
-- **Changes when:** retrieval is made too easy (more cues, or recall straight after study) → the benefit shrinks — [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [~M]
+- **Changes when:** retrieval is made too easy (more cues, or recall straight after study) → the benefit shrinks — [A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [~M]
 - **Tested with:** a between-study moderator analysis of the testing-effect literature (Rowland 2014), reported again in one review chapter; not a direct manipulation of difficulty.
 - **Not settled:** a target success rate for adaptive systems; 75% is a moderator band, not a tested setting.
 

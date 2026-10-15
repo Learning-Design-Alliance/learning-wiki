@@ -43,6 +43,6 @@ Authors' discussion of their simulation results: an "increase in scores and redu
 
 
 ## Related Claims
-- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — reports the opposite
+- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — reports the opposite
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on

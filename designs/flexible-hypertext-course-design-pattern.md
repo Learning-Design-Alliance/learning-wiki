@@ -41,7 +41,7 @@ This pattern describes the flexible online course design the article built on co
 
 - [Cft Hypertext Design Higher Access Rates](../claims/cft-hypertext-design-higher-access-rates.md) [+M]
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](../claims/cft-hypertext-design-faster-test-completion.md) [+W]
-- [Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)](../claims/cft-hypertext-design-higher-achievement-scores.md) [+W]
+- [A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content](../claims/cft-hypertext-design-higher-achievement-scores.md) [+W]
 - [More experimental-group answers achieved 100% accuracy on achievement tests (23) than control-group answers (13)](../claims/cft-hypertext-design-more-perfect-scores.md) [+W]
 - [Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)](../claims/cft-hypertext-design-more-positive-attitudes.md) [+W]
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]

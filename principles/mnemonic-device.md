@@ -22,7 +22,7 @@ sources:
 # Mnemonic Device
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size
+> **Evidence** · 11 claims (4 for, 5 mixed, 2 against) · 19 studies (8 quant-synthesis, 6 review, 5 causal), `q2`–`q4` · 9 of 19 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 

@@ -46,4 +46,4 @@ Single-school report from the Results section of a written workshop report; the 
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — the general claim this finding bears on, with the studies behind it
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related
 - [Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation](student-mastery-increase-team-student.md) — related
-- [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — related
+- [A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities](brief-intervention-empathic-discipline-cuts-suspensions.md) — related

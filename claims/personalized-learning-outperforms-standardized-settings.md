@@ -59,6 +59,6 @@ Narrative review attribution: the review reports, citing [17], that empirical st
 
 
 ## Related Claims
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — related

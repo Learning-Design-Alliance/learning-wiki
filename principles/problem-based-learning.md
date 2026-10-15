@@ -121,7 +121,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](../claims/ai-supports-problem-centered-critical-thinking.md) [+W]
 - [More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)](../claims/coding-experience-associated-with-pbl-performance.md) [~W]
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W]
-- [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](../claims/ai-pbl-adaptive-personalized-engagement.md) [+W]
+- [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](../claims/ai-pbl-adaptive-personalized-engagement.md) [+W]
 - [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](../claims/srl-meta-analysis-publication-bias-absent.md) [~W]
 

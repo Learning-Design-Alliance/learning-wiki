@@ -53,7 +53,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Proactive FOF improved grammar more than reactive FOF at both beginner and upper-intermediate proficiency levels](../claims/proactive-fof-advantage-both-proficiency-levels.md) [~M]
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](../claims/dialogue-journals-meet-sla-conditions.md) [+W]
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](../claims/form-focused-input-manipulation-illusory-for-competence.md) [-M]
-- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](../claims/white-adverb-placement-negative-evidence-failed.md) [-M]
+- [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](../claims/white-adverb-placement-negative-evidence-failed.md) [-M]
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](../claims/children-drawings-notice-integration-elements.md) [+W]
 
 ## Related Theories

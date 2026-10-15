@@ -30,7 +30,7 @@ A University of Nebraska–Lincoln family-school partnership intervention in whi
 ### Claims
 - [Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior](../claims/tapp-observation-on-task-prosocial-behavior-gains.md) [+W]
 - [TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)](../claims/tapp-rural-trial-behavior-problems-improvement.md) [+W]
-- [TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial](../claims/tapp-strengthens-parent-teacher-relationships.md) [+W]
+- [In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships](../claims/tapp-strengthens-parent-teacher-relationships.md) [+W]
 - [TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools)](../claims/tapp-teacher-reported-adaptive-behavior-social-skills-gains.md) [+W]
 
 ## Related Products and Programmes

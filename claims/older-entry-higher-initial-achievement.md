@@ -44,7 +44,6 @@ Multi-state regression discontinuity analysis of assessment data from three stat
 
 ## Related Claims
 - [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades](entry-age-growth-rate-tradeoff.md) — related
-- [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](school-entry-age-early-advantage-fades-by-later-grades.md) — related
 - [The school-entry-age findings were produced with a multi-state regression discontinuity analysis covering academic growth through second grade](school-entry-age-multistate-regression-discontinuity-analysis.md) — related
 - [Kindergarten entry-age effects do not differ by gender or race](entry-age-effects-no-gender-race-differences.md) — related
 - [At the end of first grade, children whose kindergarten entry was delayed demonstrated slightly higher reading knowledge and skills than those who started on time](delayed-entrants-slightly-higher-reading-first-grade.md) — related

@@ -44,7 +44,7 @@ Schema-based instruction works because expert problem solving is driven by recog
 #### Implementation Variability
 - Schema-*based* instruction (diagram the structure, then solve) vs. schema-*broadening* instruction (teach a schema, then vary surface features and problem formats to promote transfer) [Fuchs et al., 2003](https://doi.org/10.1037/0022-0663.95.2.306)
 - Fixed diagram templates per schema vs. a single flexible "problem map" (known/unknown boxes with relation arrows)
-- Teacher-led modeling vs. worked-example pairs in which students complete partially drawn diagrams [Worked example–problem pairs reduce load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Teacher-led modeling vs. worked-example pairs in which students complete partially drawn diagrams [Worked example–problem pairs reduce load for novices.](../claims/worked-example-problem-sequences.md) [+M]
 - **Schema-based transfer instruction** (Jitendra): emphasizes the diagram (schema map) as the central representation
 - **Schema-broadening instruction** (Cooper & Sweller): uses [Worked Examples](../principles/worked-examples.md) and faded practice to automate schema application [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 - **Cross-domain variants**: the same logic underlies [Case-Based Learning](../patterns/case-based-learning.md) in professional education, where multiple cases build a flexible schema [Cognitive flexibility theory prescribes multiple representations and cases.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+W]

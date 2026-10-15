@@ -19,7 +19,7 @@ Teacher modeling is the instructor's live demonstration of a cognitive or produc
 
 ## Design Implications
 
-Modeling works because observing an expert perform a task — especially with verbalized reasoning — gives learners a template they can imitate before attempting the task themselves [van Gog & Rummel, 2010] [+M]. Its distinctive contribution over static examples is affective and metacognitive: seeing an expert struggle normalizes difficulty, supports self-efficacy, and reframes writing as revisable process rather than innate talent [Bandura, 1977] [+M]. Modeling is most effective when the teacher thinks aloud — naming what they are doing and why — rather than silently producing text [~S], and when it is immediately followed by guided student practice [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S].
+Modeling works because observing an expert perform a task — especially with verbalized reasoning — gives learners a template they can imitate before attempting the task themselves [van Gog & Rummel, 2010] [+M]. Its distinctive contribution over static examples is affective and metacognitive: seeing an expert struggle normalizes difficulty, supports self-efficacy, and reframes writing as revisable process rather than innate talent [Bandura, 1977] [+M]. Modeling is most effective when the teacher thinks aloud — naming what they are doing and why — rather than silently producing text [~S], and when it is immediately followed by guided student practice [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-example-problem-sequences.md) [+S].
 
 ### Context
 #### Requirements

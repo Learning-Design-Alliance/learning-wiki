@@ -21,7 +21,7 @@ sources:
 # Concerns-Based Adoption Model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 CBAM is an implementation framework developed by researchers at the University of Texas at Austin for assessing and supporting individuals’ adoption of educational innovations.

@@ -28,7 +28,7 @@ sources:
 # Have Explicit Conversations About Emotions and Social Issues, Including Issues of Social Justice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 9 claims (9 for) · 21 studies (10 quant-synthesis, 9 causal, 2 review), `q2`–`q4` · 8 of 21 report an effect size
+> **Evidence** · 9 claims (9 for) · 22 studies (10 quant-synthesis, 9 causal, 3 review), `q2`–`q4` · 8 of 22 report an effect size
 
 ## Description
 This strategy treats emotions and contested social realities — race, class, gender, disability, power, exclusion — as legitimate, planned subjects of classroom talk, taught with the same deliberateness as any other content. Explicit means named and scheduled: emotion vocabulary is taught rather than assumed, and social issues are raised as planned curriculum rather than only when an incident forces them. The alternative is not neutrality. A classroom that never names these things still teaches something about them — that they are unspeakable here — and the learners for whom they are daily experience are the ones who learn it most clearly.
@@ -79,7 +79,7 @@ The social-issues half rests on a different and less settled base. Jagers and co
 - Perspective-taking and reduced intergroup bias [Building Empathy Improves Intergroup Attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
 - Belonging — the sense that one's experience is speakable in this room [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - Reasoning about contested questions, including the ability to state an opposing case fairly [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+M]
-- Reduced exclusionary discipline, where relational and empathic approaches replace punitive ones [Brief Intervention Empathic Discipline Cuts Suspensions](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S]
+- Reduced exclusionary discipline, where relational and empathic approaches replace punitive ones [A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S]
 
 ### Instructions
 1. **Build norms and relationships first.** Do not open a contested topic in a group that has not agreed how disagreement works ([Norm Setting](norm_setting.md)).

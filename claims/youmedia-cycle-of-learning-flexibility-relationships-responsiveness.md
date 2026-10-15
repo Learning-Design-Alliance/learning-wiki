@@ -12,7 +12,7 @@ sources:
   - id: austin-et-al-2011
     resource: "https://youmediachicago.org"
     title: "Austin, K., Ehrlich, S. B., Puckett, C., & Singleton, J. (2011). Reimagining Learning, Literacies, and Libraries: A Snapshot of Year 1. Consortium on Chicago School Research, University of Chicago Urban Education Institute. https://youmediachicago.org"
-    author: Austin, K., Ehrlich, S. B., Puckett, C., & Singleton, J.
+    author: "Austin, K., Ehrlich, S. B., Puckett, C., & Singleton, J."
     q: 2
     i: "?"
     kind: qualitative

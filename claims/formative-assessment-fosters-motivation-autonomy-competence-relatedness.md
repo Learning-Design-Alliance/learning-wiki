@@ -46,6 +46,6 @@ The primer reports this as a theoretical account attributed to Leenknecht et al.
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
 - [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — related

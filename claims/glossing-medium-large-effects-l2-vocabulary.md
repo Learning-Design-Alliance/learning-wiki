@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses
-description: Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode
+description: Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses
 id: glossing-medium-large-effects-l2-vocabulary
 status: draft
 generated:
@@ -62,12 +62,14 @@ The review reports, citing Vahedi et al. (2016), that multiple glosses combining
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do glosses beside a second-language text help readers learn its vocabulary, and for whom?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 causal), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do glosses and look-up helps beside second-language material help learners learn its words and understand it, and for whom?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [A. Pradheepa 2025](https://doi.org/10.29140/ajal.v8n1.2073) | q2 · quant-synthesis · r2 | i? | this claim |
 | [Cheng 2009](https://doi.org/10.64152/10125/66828) | q2 / q3 · causal · r2 | i? | [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss ](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) (supports); [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not ](proficiency-moderates-gloss-vocabulary-effects.md) (qualifies); [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type](gloss-perceptions-mismatch-performance.md) (qualifies) |
+| Cheng 2009 | q3 · causal · r2 | i? | [All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-](l1-glosses-improve-immediate-vocabulary-recall.md) (supports); [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](l1-glosses-no-reading-comprehension-gain.md) (qualifies) |
+| [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q2 / q3 · review · r2 | i? | [Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively](marginal-glosses-dictionary-recurrence-improve-incidental-learning.md) (supports); [Tasks with higher involvement load, involving search and evaluation, are conducive to bett](involvement-load-tasks-improve-word-retention.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

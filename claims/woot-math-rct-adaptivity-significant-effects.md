@@ -43,7 +43,7 @@ Company-reported evaluation study: Woot Math, funded by an NSF SBIR grant, condu
 
 ## Related Claims
 
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [In a multi-site randomized controlled trial, kindergarten students in ARC Core classrooms scored significantly higher on AIMSWeb Letter Naming Fluency than control students (ES = +0.28).](arc-core-letter-naming-fluency-es-028.md)
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](barr-multisite-rct-map-math-es-008.md)

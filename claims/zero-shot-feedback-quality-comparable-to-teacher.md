@@ -45,5 +45,5 @@ Tukey HSD comparison within the RQ1 ANOVA found "no significant differences" bet
 ## Related Claims
 - [Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback](cot-prompting-higher-feedback-quality-than-zero-shot-and-teacher.md) — reports the opposite
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
-- [Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
+- [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](novices-refine-prompts-trial-and-error.md) — related

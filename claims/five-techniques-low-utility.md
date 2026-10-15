@@ -41,8 +41,9 @@ The monograph's overall assessment section lists the five low-utility techniques
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — the general claim this finding bears on, with the studies behind it
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — a narrower finding that bears on this claim
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — a narrower finding that bears on this claim

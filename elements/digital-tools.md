@@ -36,7 +36,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](../claims/pd-integration-training-doubles-reliance.md) [+W]
+- [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](../claims/pd-integration-training-doubles-reliance.md) [+W]
 - [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](../claims/social-media-tools-misappropriated-as-social-learning.md) [-W]
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](../claims/loa-pilot-self-reported-increase-all-20-technologies.md) [+W]
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](../claims/adult-ed-out-of-class-use-mobile-gap.md) [~W]

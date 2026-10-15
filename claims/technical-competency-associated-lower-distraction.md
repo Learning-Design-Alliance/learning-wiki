@@ -47,7 +47,7 @@ ARM single-antecedent rule from the 530-student survey: the OLRQ technical compe
 
 ## Related Claims
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md) — related
-- [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](srl-strategies-associated-lower-digital-distraction.md) — related
+- [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](srl-strategies-associated-lower-digital-distraction.md) — related
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](instructor-content-engagement-associated-lower-distraction.md) — related
 - [Peer-related help-seeking and learner-learner engagement strategies appear less often in profiles of students with lower digital distraction](peer-help-seeking-inversely-associated-lower-distraction.md) — related
 - [Clustering of association rules yields four distinct strategy-combination profiles characterizing lower digital distraction](four-clusters-lower-distraction-strategy-profiles.md) — related

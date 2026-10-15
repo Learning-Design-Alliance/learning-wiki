@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported"
-description: Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning
+description: Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported
 id: decoupling-evaluation-from-grades-improves-feedback
 status: draft
 generated:

@@ -43,6 +43,6 @@ The article's comparative historical analysis contrasts "John Anderson's structu
 
 
 ## Related Claims
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
 - [AI in VET is predominantly implemented through behaviorist or cognitively oriented instructional designs emphasizing drill-and-practice and adaptive feedback, while approaches fostering learner agency and critical reflection remain underrepresented](ai-vet-behaviorist-designs-learner-agency-underrepresented.md) — related

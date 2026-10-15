@@ -27,7 +27,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (13 for, 9 mixed, 3 against) · 25 studies (7 causal, 6 quant-synthesis, 4 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 6 of 25 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (13 for, 8 mixed, 3 against) · 25 studies (7 causal, 6 quant-synthesis, 4 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 6 of 25 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,7 +135,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 
 ## Claims
 
-- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/furtak-metaanalysis-37-studies-inquiry-positive.md) [~W]
+- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/inquiry-based-teaching-improves-science-achievement.md) [~W]
 - [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](../claims/ai-assisted-inquiry-largest-decision-making-gains-climate.md) [~W]
 - [A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied](../claims/remote-case-d-full-cycle-disembodied.md) [~W]
 

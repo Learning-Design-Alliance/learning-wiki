@@ -70,4 +70,4 @@ Authors' stated trade-off on the substitution opportunity: freeing time for sear
 - [Performance improvements from generative AI assistance diminished once the assistance was removed](genai-performance-gains-diminish-without-assistance.md) — related
 - [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](genai-overreliance-threatens-clinical-readiness.md) — related
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — a broader claim this one bears on
-- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — a broader claim this one bears on
+- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — a broader claim this one bears on

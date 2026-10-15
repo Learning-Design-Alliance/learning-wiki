@@ -40,7 +40,7 @@ The review assembles a corpus of 45 studies involving 8426 undergraduate student
 ## Claims
 
 - [Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high](../claims/flipped-classroom-evidence-base-rct-shortage-high-bias.md) [~W]
-- [Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+W]
+- [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+W]
 - [The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty](../claims/flipped-classroom-performance-sensitivity-imputed-data.md) [+W]
 - [Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty](../claims/flipped-classroom-student-satisfaction-positive.md) [+W]
 

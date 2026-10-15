@@ -105,7 +105,7 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](meta-analyses-validate-extensive-reading-benefits-length-moderates.md) — related
-- [Oral language competence predicts subsequent reading achievement](oral-language-predicts-reading-achievement.md) — related
+- [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — related
 - [Using Little Books in kindergarten produces potentially positive effects on general reading achievement, with all three delivery variations (home only, school only, and home and school) outperforming a comparison condition on the Metropolitan Readiness Test](little-books-potentially-positive-general-reading-achievement.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
 - [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](ses-differences-access-academically-auspicious-environments.md) — related

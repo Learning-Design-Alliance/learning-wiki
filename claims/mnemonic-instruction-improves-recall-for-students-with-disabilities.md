@@ -62,12 +62,15 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do cue-based (mnemonic) methods help students with mild disabilities recall academic facts and vocabulary?* This table gathers the studies behind this claim and the 0 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do cue-based (mnemonic) methods help students with mild disabilities recall academic facts and vocabulary?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (3 review, 2 quant-synthesis), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Scruggs and Mastropieri 2000](https://doi.org/10.1023/a:1016640214368) | q3 · quant-synthesis · r? | i3 · large effect, mean ES=1.62 | this claim |
 | [Wolgemuth et al. 2008](https://doi.org/10.1111/j.1540-5826.2007.00258.x) | q3 · review · r? | i? | this claim |
+| [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i2 · medium effect, overall d = 0.56; 0.85 distributed practice, 0.74 practice testing | [Across ten learning techniques, distributed practice and practice testing have the largest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) (qualifies) |
+| [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · review · r3 | i? | [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive](five-techniques-low-utility.md) (counts against) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r2 | i? | [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval prac](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion

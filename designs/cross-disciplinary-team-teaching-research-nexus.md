@@ -41,7 +41,7 @@ Woolyungah's academics span several disciplines and use a team-teaching approach
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](../claims/interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) [+M]
 - [Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback](../claims/interdisciplinary-collab-challenges-workload-vocabulary-feedback.md) [~W]
 - [Students believed interdisciplinary studio experiences would ease their transition into the workforce](../claims/studio-experience-prepares-students-for-workforce.md) [+W]
-- [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](../claims/local-indigenous-culture-student-interest.md) [+W]
+- [Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught](../claims/local-indigenous-culture-student-interest.md) [+W]
 
 ## Related Patterns
 - 

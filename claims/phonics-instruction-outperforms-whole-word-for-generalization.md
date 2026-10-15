@@ -146,6 +146,6 @@ Open questions include the optimal pacing of the letter–sound sequence, how mu
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — taught grapheme–phoneme correspondences let readers chunk letter strings instead of decoding letter by letter
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — untaught decoding consumes working memory that word study and comprehension need
 - [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — related
-- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
 - [Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do](science-values-imposed-on-language.md) — related
 - [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related

@@ -48,8 +48,10 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — both claims describe how enacted, in-the-moment group dynamics can diverge from a curriculum's designed intent, in opposite directions (narrowing vs. deepening)
-- [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
+- [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
 - [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — a broader claim this one bears on

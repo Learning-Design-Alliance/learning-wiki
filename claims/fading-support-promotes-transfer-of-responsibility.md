@@ -82,6 +82,8 @@ Across a field experiment and two laboratory experiments, the authors compared a
 This is sometimes called the "completion effect" in cognitive load literature. However, fading must be carefully timed; removing support too early can cause cognitive overload.
 
 ## Related Claims
+
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on

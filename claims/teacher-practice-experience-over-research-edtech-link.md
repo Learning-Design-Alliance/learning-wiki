@@ -62,4 +62,4 @@ Teacher survey cross-analysis found those relying on academic research "more lik
 
 
 ## Related Claims
-- [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related
+- [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related

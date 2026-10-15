@@ -123,7 +123,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 
 - [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](../claims/pbl-evidence-base-equivocal.md) [~W]
 - [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](../claims/ai-pbl-enhances-educator-student-collaboration.md) [~W]
-- [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](../claims/ai-pbl-adaptive-personalized-engagement.md) [~W]
+- [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](../claims/ai-pbl-adaptive-personalized-engagement.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

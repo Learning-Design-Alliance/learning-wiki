@@ -45,7 +45,7 @@ Student panel data analysis from the School District of Philadelphia using stude
 
 ## Related Claims
 - [Attendance, but not academic achievement, improved for previously suspended students following the suspension reform](suspension-reform-improved-attendance-not-achievement.md) — related
-- [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — related
+- [A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities](brief-intervention-empathic-discipline-cuts-suspensions.md) — related
 - [Negative achievement effects of suspension are robust to instrumental variable estimates leveraging a district-wide suspension policy change](suspension-effects-robust-to-iv-policy-change.md) — related
 - [Suspensions are more salient for students who personally experience suspension than for their peers](suspensions-more-salient-for-suspended-students-than-peers.md) — related
 - [Suspension is associated with lower test scores in the suspended years, with more suspended days related to larger decreases](suspension-lower-test-scores-days-related.md) — possibly the same claim (merge candidate)

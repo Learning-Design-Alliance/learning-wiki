@@ -41,8 +41,9 @@ Comprehension outcome from the randomized field trial of 41 first-grade nonrespo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — the general claim this finding bears on, with the studies behind it
 - [For first-grade nonresponders, PALS showed no statistically significant effects on seven alphabetics outcomes compared with adult tutoring](pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring.md) — related
 - [PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders](pals-fluency-no-significant-effects-first-grade.md) — related
 - [Peer-Assisted Literacy Strategies showed a substantively important positive (but statistically non-significant) effect on WRMT-R Passage Comprehension for first graders](pals-mathes-babyak-positive-comprehension-effect.md) — related

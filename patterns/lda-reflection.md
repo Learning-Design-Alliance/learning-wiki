@@ -14,7 +14,7 @@ grain_size: lesson
 # LDA Reflection
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies (2 causal, 2 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q2`–`q4` · 1 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 10 studies (3 theoretical, 2 causal, 2 quant-synthesis, 2 review, 1 associational), `q1`–`q4` · 1 of 10 report an effect size
 
 ## Description
 LDA Reflection is a lightweight reflection pattern used to help learners pause after an activity, analyze what happened, and identify what to carry forward. In this wiki, the pattern functions as a practical debrief routine rather than a named external theory model. Its value is in turning experience, discussion, or performance into something learners can interpret and reuse.
@@ -58,11 +58,11 @@ The pattern is especially useful at the end of a lesson, discussion, simulation,
 
 ### Claims
 #### Supporting
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
 #### Contradicting
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
 
 ## Design
 

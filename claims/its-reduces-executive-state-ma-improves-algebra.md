@@ -68,6 +68,6 @@ Pre/posttest of conceptual and procedural knowledge of linear systems (six items
 
 ## Related Claims
 - [The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone](no-condition-difference-state-ma.md) — related
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Cognitive-only coaching increased deep and achieving learning approaches, academic self-concept, and reduced test anxiety and anxiety/depression, but academic performance declined relative to control; behavioural-only coaching decreased test anxiety and increased academic performance with no other effects.](cognitive-versus-behavioural-coaching-differential-effects.md) — related
 - [Math learning gains did not differ between the Mindful and Cognitive conditions](no-condition-difference-math-learning.md) — related

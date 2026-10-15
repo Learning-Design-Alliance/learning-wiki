@@ -30,7 +30,7 @@ sources:
 # REACH (Recognizing Educators Advancing Chicago's Students)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 32 claims (19 for, 9 mixed, 4 against) · 10 studies (8 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 10 report an effect size · 29 claims rest on one study
+> **Evidence** · 32 claims (19 for, 9 mixed, 4 against) · 10 studies (8 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 10 report an effect size · 28 claims rest on one study
 
 ## Description
 REACH is Chicago Public Schools' teacher-evaluation programme combining classroom observations using a modified Danielson Framework rubric with student-growth measures and evaluator certification.
@@ -64,7 +64,7 @@ REACH is Chicago Public Schools' teacher-evaluation programme combining classroo
 - [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](../claims/reach-observation-process-reflection-and-feedback-use.md) [+W]
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](../claims/reach-perceptions-stable-year-two-to-year-three.md) [+W]
 - [Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair](../claims/reach-teachers-fair-observations-unfair-student-growth.md) [+W]
-- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](../claims/credentials-difference-observation-only-not-value-added.md) [+W]
+- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](../claims/experience-credentials-teacher-evaluation-scores.md) [+W]
 - [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](../claims/lower-rated-schools-tend-higher-poverty.md) [+W]
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](../claims/lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) [+W]
 - [Male teachers have lower observation and value-added scores than female teachers](../claims/male-teachers-lower-observation-and-value-added-scores.md) [+W]
@@ -275,7 +275,7 @@ REACH (Recognizing Educators Advancing Chicago's Students) is CPS's teacher eval
 
 ### Claims
 
-- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](../claims/credentials-difference-observation-only-not-value-added.md) [+W]
+- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](../claims/experience-credentials-teacher-evaluation-scores.md) [+W]
 - [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](../claims/lower-rated-schools-tend-higher-poverty.md) [+W]
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](../claims/lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) [+W]
 - [Male teachers have lower observation and value-added scores than female teachers](../claims/male-teachers-lower-observation-and-value-added-scores.md) [+W]

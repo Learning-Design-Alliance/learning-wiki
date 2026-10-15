@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey"
-description: Relative-age effects, not innate talent, bias selection into elite youth sports
+description: A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey
 id: relative-age-effect-talent-selection-bias
 status: draft
 generated:

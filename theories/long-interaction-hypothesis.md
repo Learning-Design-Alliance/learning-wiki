@@ -48,7 +48,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [The quality rather than the quantity of interactional modifications predicts comprehensible input](../claims/interaction-quality-over-quantity.md) [~M]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~M]
 - [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](../claims/no-direct-evidence-input-hypothesis.md) [-W]
-- [Recasts facilitate child EFL learners' acquisition of the third person singular -s verb form in task-based lessons](../claims/recasts-facilitate-child-efl-third-person-s-development.md) [+M]
+- [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](../claims/recasts-facilitate-child-efl-third-person-s-development.md) [+M]
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [+M]
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [~M]
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](../claims/metalinguistic-recasts-effective-immediate-wh-questions.md) [~M]

@@ -21,7 +21,7 @@ sources:
 # Skills Sprint
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (3 for, 8 mixed, 2 against) · 24 studies (8 causal, 8 quant-synthesis, 3 review, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (3 for, 8 mixed, 2 against) · 25 studies (8 causal, 8 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 6 of 25 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 

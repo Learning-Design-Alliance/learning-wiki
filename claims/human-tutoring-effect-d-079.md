@@ -45,5 +45,5 @@ The article reports, citing VanLehn (2011) and Bloom (1984), that one-to-one tut
 ## Related Claims
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — related
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on

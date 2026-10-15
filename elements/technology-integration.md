@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (11 for, 14 mixed, 3 against) · 27 studies (10 associational, 5 qualitative, 4 review, 4 design, 2 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q3` · 2 of 27 report an effect size · 28 claims rest on one study
+> **Evidence** · 28 claims (11 for, 14 mixed, 3 against) · 28 studies (10 associational, 5 qualitative, 5 design, 4 review, 2 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q3` · 2 of 28 report an effect size · 27 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -26,7 +26,7 @@ Technology integration is the element in which digital tools are used in direct 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](../claims/pd-integration-training-doubles-reliance.md) [+W]
+- [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](../claims/pd-integration-training-doubles-reliance.md) [+W]
 - [A one-to-one wireless laptop initiative in Hiawassee, Georgia was accompanied by improved test scores, a 24 percent rise in adult education enrollment and a 71 percent rise in G.E.D. completions](../claims/hiawassee-laptop-outcomes.md) [+W]
 - [Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses](../claims/integrated-hours-beat-standalone-tech-courses.md) [+W]
 - [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](../claims/increased-web-technology-use-over-project.md) [+W]
@@ -53,7 +53,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Activity-Technology alignment is the weakest quality dimension across all agents (mean = 2.19), identifying technology integration as a universal challenge](../claims/activity-technology-alignment-weakest-dimension.md) [-W]
 - [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](../claims/llm-scaffolding-over-reliance-paradox.md) [~W]
 - [University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination](../claims/genai-use-negatively-associated-genai-learning-procrastination.md) [~W]
-- [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training](../claims/experts-superficial-technology-integration.md) [~W]
+- [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach](../claims/experts-superficial-technology-integration.md) [~W]
 
 ## Related Elements
 - [Digital Tools](digital-tools.md)
