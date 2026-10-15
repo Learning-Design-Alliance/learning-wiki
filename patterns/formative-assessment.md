@@ -85,6 +85,12 @@ Ask for four facts when the brief omits them: **the length of the cycle (minutes
 | Teachers lack time to give feedback (many students, three-dimensional tasks) | Choose fewer, aligned checks that each feed a planned decision, and share the reading with peers or software | [OpenSciEd formative practice limited by grading and time](../claims/openscied-formative-assessment-feasibility-challenges.md) [~W]; [Faculty time limits targeted formative feedback](../claims/formative-feedback-constraints-gateway-math.md) [~W] |
 | The check is meant to happen several times within one lesson | Decide the in-lesson frequency locally and record what changed after each check | untested proposal |
 
+## The evidence by question
+
+- *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+M]
+- *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+M]
+- *Should learners assess their own work, and can their self-ratings be trusted?* [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

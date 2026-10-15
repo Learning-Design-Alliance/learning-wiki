@@ -87,6 +87,12 @@ Ask for three facts when the brief omits them: **the learners' age and experienc
 | Instructors are new to cooperative structures | Plan staff development with immersion sessions, peer observation and shared scripts before launch | [A threefold staff development plan supported implementation](../claims/threefold-cooperative-learning-staff-development-plan.md) [+W] |
 | One short session with no later unit | Use a short structure (individual answer, pair discussion, individual re-answer) and skip the group reward | untested proposal |
 
+## The evidence by question
+
+- *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
+- *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
+- *Does structured peer tutoring, a paired form of cooperative work, raise achievement, and does its structure matter?* [Peer Tutoring Improves Achievement](../claims/peer-tutoring-improves-achievement.md) [+S]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

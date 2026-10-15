@@ -91,6 +91,12 @@ Ask for four facts when the brief omits them: **can learners generate partial so
 | Group products will be the main evidence of learning | Add the individual reobservation at step 5 and record who contributed what; a group product does not show what each member can do | untested proposal |
 | The brief adds AI tools to the problem phase and expects higher scores | Treat the AI support as part of the configuration to be evaluated; the one comparison recorded set AI-supported PBL against lecture, so it cannot separate the AI from the PBL | [AI-supported PBL scored higher than lecture in robotics programming](../claims/ai-pbl-higher-posttest-academic-achievement.md) [~W] |
 
+## The evidence by question
+
+- *Does PBL as a curriculum format raise achievement over conventional instruction, and how reliably?* [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](../claims/pbl-overall-effect-modest-large-heterogeneity.md) [~M]
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
+- *For which outcomes: basic knowledge, application and transfer, or professional skills?* [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](../claims/pbl-null-basic-knowledge-positive-transfer.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

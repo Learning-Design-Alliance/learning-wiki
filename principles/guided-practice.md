@@ -103,6 +103,11 @@ No claim in the wiki compares guided practice with independent practice followin
 
 Learners, tasks, settings and outcomes differ across these claims (undergraduates on a computer lesson, children with a tutor, college students on recall tests), so do not rank them by effect label. None measures delayed retention of a guided-practice gain against independent practice.
 
+## The evidence by question
+
+- *After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?* [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
+- *What should support during practice do: explain and give feedback, prompt the learner to construct the step, or respond contingently to each attempt?* [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

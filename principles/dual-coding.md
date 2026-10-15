@@ -105,6 +105,11 @@ These rows are proposals, untested as diagnostics. A probe is itself practice an
 
 Learners, tasks and outcomes differ across these claims (readers of a text, STEM drawing, concept maps against recall), so do not rank them by effect size. None tests a supplied-then-constructed sequence or a delayed outcome of the full design.
 
+## The evidence by question
+
+- *Does pairing the words with a relevant visual of the same idea improve learning over the words alone, and for whom?* [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
+- *Should learners build the visual themselves, and does building it beat studying a provided one or recalling from memory?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited or that bear on this page but have not been used in the model above.
