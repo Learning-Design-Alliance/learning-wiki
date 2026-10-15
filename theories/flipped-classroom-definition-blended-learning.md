@@ -50,7 +50,6 @@ The review defines the flipped classroom as an educational technique with two pa
 
 - [Flipped Learning](../principles/flipped-learning.md)
 - [Flipped Learning](../strategies/flipped-learning.md)
-- [Flipped Classroom](../patterns/flipped-classroom.md)
 
 ## Key Sources
 - Naing, C., Whittaker, M. A., Aung, H. H., Chellappan, D. K., & Riegelman, A. (2023). The effects of flipped classrooms to improve learning outcomes in undergraduate health professional education: A systematic review. Campbell Systematic Reviews, 19, e1339. https://doi.org/10.1002/cl2.1339

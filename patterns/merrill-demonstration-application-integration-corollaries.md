@@ -41,8 +41,8 @@ The digest enumerates the supporting generalizations for Merrill's remaining pha
 
 ## Related Patterns
 
-- [Merrill's First Principles (Demonstration)](merrills-first-principles-demonstration.md)
-- [Merrill's First Principles](merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles (Demonstration)](../principles/modeling.md)
+- [Merrill's First Principles](4cid-four-component-instructional-design.md)
 
 ## Examples
 -

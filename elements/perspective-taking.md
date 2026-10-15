@@ -49,7 +49,7 @@ Perspective-taking deepens learning when learners must actively construct the ot
 ### Affordances
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking is the primary instructional mechanism for this principle; structured adoption of another's viewpoint measurably increases empathic concern and reduces stereotyping
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — by requiring learners to re-represent the same content from multiple stances, perspective-taking enacts the multiple-perspectives approach central to this principle
-- [Constructivism](../principles/constructivism.md) — learners actively construct and defend a position rather than receive a canonical account, forcing knowledge to be rebuilt from a different starting point
+- [Constructivism](../principles/cognitive-activation.md) — learners actively construct and defend a position rather than receive a canonical account, forcing knowledge to be rebuilt from a different starting point
 - [Cognitive Conflict](cognitive-conflict.md) — encountering a defensible opposing view creates the conceptual disequilibrium that drives restructuring of prior beliefs
 
 ### Claims

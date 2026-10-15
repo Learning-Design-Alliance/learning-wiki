@@ -65,7 +65,7 @@ Choice supports motivation primarily by satisfying the basic psychological need 
 ## Examples
 - **Montessori classrooms** — children select work from a prepared environment; the option set is curated so every choice is productive, an early and influential model of structured choice.
 - **[Choice Boards](../elements/choice-boards.md) in differentiated units** — a 3×3 grid of product options (write, record, build) all mapped to the same rubric, common in UDL-aligned curricula ([CAST UDL Guidelines](https://udlguidelines.cast.org)).
-- **Flipped courses with process choice** — learners choose among video, reading, or interactive-simulation paths to reach the same prerequisite understanding before class ([Flipped Classroom](../patterns/flipped-classroom.md)).
+- **Flipped courses with process choice** — learners choose among video, reading, or interactive-simulation paths to reach the same prerequisite understanding before class ([Flipped Classroom](../principles/flipped-learning.md)).
 
 ## Key Sources
 - Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic motivation and related outcomes: A meta-analysis of research findings. *Psychological Bulletin, 134*(2), 270–300. [doi:10.1037/0033-2909.134.2.270](https://doi.org/10.1037/0033-2909.134.2.270)

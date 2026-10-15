@@ -46,7 +46,7 @@ Prior knowledge activation is the element in which learners recall, surface, or 
 - [Pre-Reading Activities](pre-reading-activities.md)
 
 ## Patterns That Use This Element
-- [Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md)
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md)
 
 ## Examples

@@ -75,7 +75,7 @@ Choral Counting converts a procedural skill (skip counting) into a shared object
 1. **Choose the count deliberately.** Select start number, increment, and row length to target a specific pattern (e.g., counting by 3 in rows of 6 to surface alternating ones digits).
 2. **Count together.** Lead the class in counting aloud in unison while recording each number in the planned layout; vary volume or pace to re-engage attention.
 3. **Invite noticings.** Ask "What do you notice?" and record observations verbatim on the chart, without evaluating them yet.
-4. **Press for reasoning.** Select a pattern and ask why it must happen, connecting observations to place value or the structure of the increment — the same facilitation move used in [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md).
+4. **Press for reasoning.** Select a pattern and ask why it must happen, connecting observations to place value or the structure of the increment — the same facilitation move used in [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md).
 5. **Extend or predict.** Ask students to predict numbers beyond the recorded count or in a new row, then verify by continuing the count aloud.
 6. **Leave the chart visible.** Post the count for later reference during related lessons and [class discussion](../elements/class-discussion.md).
 

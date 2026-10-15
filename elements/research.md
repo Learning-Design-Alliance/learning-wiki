@@ -48,7 +48,7 @@ Research tasks build analytical and information literacy skills by requiring lea
 
 ### Affordances
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — research is the fullest enactment of inquiry: learners generate questions, gather evidence, and form conclusions rather than following a scripted investigation
-- [Constructivism](../principles/constructivism.md) — learners actively construct knowledge from evidence they have gathered themselves, producing more durable and better-organized schemas than transmission alone
+- [Constructivism](../principles/cognitive-activation.md) — learners actively construct knowledge from evidence they have gathered themselves, producing more durable and better-organized schemas than transmission alone
 - [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — research tasks position learners in authentic disciplinary practice, with instructor coaching and articulation mirroring the apprenticeship cycle
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — framing research for a real audience (a report, poster, or proposal) raises task value and quality of effort
 
@@ -64,7 +64,7 @@ Research tasks build analytical and information literacy skills by requiring lea
 - [Case Studies](case-studies.md) — a bounded, pre-structured form of investigation for earlier-stage learners
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — research conducted in teams with distributed roles and shared evidence
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — research conducted in teams with distributed roles and shared evidence
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — research as the self-directed study phase between problem presentation and solution
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — research as authentic practice in the disciplinary method
 

@@ -53,7 +53,7 @@ The article adopts Kolb's model in which "knowledge is created through the trans
 ## Examples
 
 - [VR-based learning environment for beginning driver instruction](../elements/vr-learning-environment-beginning-driver-instruction.md)
-- [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/kolb-derived-curriculum-guidelines.md)
+- [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/experiential-learning.md)
 - [Experiential Learning Cycle](../patterns/experiential-learning-cycle.md)
 
 ## Key Sources

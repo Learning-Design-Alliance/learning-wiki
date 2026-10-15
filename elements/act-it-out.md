@@ -65,7 +65,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — learners enact the expert practice that was previously modeled
 - [Debate](../patterns/debate.md) — assigned-position enactment of argumentative roles
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — dramatization as a discussion entry point
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — dramatization as a discussion entry point
 
 ## Examples
 

@@ -30,7 +30,7 @@ CSQ operationalizes argumentation by requiring learners to commit to a position 
 #### Constraints
 - With weak prior knowledge, learners generate claims they cannot support, producing fluency illusions rather than learning [Learners with low prior knowledge benefit less from minimally guided inquiry.](../claims/minimal-guidance-less-effective-for-novices.md) [-S] — pair with [Advance Organizers](../elements/advance-organizers.md) or source material to anchor claims
 - If the question step is skipped or treated as an afterthought, the routine collapses into assertion-and-justification and loses its inquiry function
-- In large classes without discussion structures, claims go unchallenged; combine with [Think-Pair-Share](../patterns/think-pair-share.md) or [Discussion Groups](../patterns/discussion-based-learning.md)
+- In large classes without discussion structures, claims go unchallenged; combine with [Think-Pair-Share](../patterns/think-pair-share.md) or [Discussion Groups](../principles/collaborative-learning.md)
 
 #### Implementation Variability
 - Written (exit ticket, discussion board post) or oral (whole-class or small-group discussion)
@@ -51,7 +51,7 @@ CSQ operationalizes argumentation by requiring learners to commit to a position 
 1. **Present the prompt** — a text, image, dataset, or event with genuine interpretive room; see [Case Studies](../elements/case-studies.md) or [Anchored Instruction](../elements/anchored-instruction.md) for rich prompt design.
 2. **Claim** — each learner states a clear position in one sentence. Require commitment before discussion to activate prior knowledge [Activating prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M].
 3. **Support** — learners identify evidence, examples, or reasoning from the material; the instructor models the difference between evidence and assertion.
-4. **Question** — each learner poses one question the claim leaves open; collect questions to drive the next activity or [Discussion-Based Learning](../patterns/discussion-based-learning.md) session.
+4. **Question** — each learner poses one question the claim leaves open; collect questions to drive the next activity or [Discussion-Based Learning](../principles/collaborative-learning.md) session.
 5. **Revisit** — return to claims after further instruction and ask learners to revise them, making conceptual change visible.
 
 ## Related Strategies

@@ -65,7 +65,7 @@ Delivering information at the point of need reduces the burden of holding unappl
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the coaching phase delivers hints and information as the learner works
 - [4C/ID (Four-Component Instructional Design)](../patterns/4cid-four-component-instructional-design.md) — procedural information is explicitly designed to be presented just-in-time during learning tasks
-- [Cognitive Load Reduction (CLT Scaffolding Approach)](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md) — timing of information presentation is a primary load-management lever
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](../principles/cognitive-load-theory.md) — timing of information presentation is a primary load-management lever
 
 ## Examples
 - **[Use Worked Examples](../strategies/worked-examples-first.md)** — completion problems embed explanatory information at the exact step where the learner takes over from the model.

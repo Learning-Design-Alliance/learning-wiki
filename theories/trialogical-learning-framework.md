@@ -52,7 +52,7 @@ The Trialogical Approach holds that learning occurs not only through monological
 
 - [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../products/kpe.md)
 - [KP-Lab toolset supporting four types of mediation, including the Visual Model Editor and analytic mirroring tools](../products/kp-lab.md)
-- [Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners](../principles/delegate-knowledge-creation-responsibility-to-learners.md)
+- [Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners](../principles/collaborative-learning.md)
 - [Pedagogical scenarios that organise learning around knowledge creation with shared objects](../strategies/trialogical-pedagogical-scenarios.md)
 
 ## Key Sources

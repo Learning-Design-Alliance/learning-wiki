@@ -46,7 +46,7 @@ Assigned readings support self-paced encoding and allow learners to revisit diff
 - Developing disciplinary literacy — reading primary sources and research as practitioners do
 
 ### Affordances
-- [Constructivism](../principles/constructivism.md) — readings let learners actively construct meaning from text at their own pace, connecting new information to prior knowledge rather than receiving a pre-digested account
+- [Constructivism](../principles/cognitive-activation.md) — readings let learners actively construct meaning from text at their own pace, connecting new information to prior knowledge rather than receiving a pre-digested account
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — self-paced text lets learners pause, reread, and segment material, controlling the pace of information intake in a way lectures cannot
 - [Active Learning](../principles/active-learning.md) — paired with annotation, self-explanation prompts, or social annotation, reading becomes a generative activity rather than passive exposure
 - [Activation](../principles/activation.md) — pre-reading questions and advance organizers activate relevant prior knowledge before learners encounter the text
@@ -63,7 +63,7 @@ Assigned readings support self-paced encoding and allow learners to revisit diff
 - [Advance Organizers](advance-organizers.md) — structure given before reading to support integration
 
 ## Patterns That Use This Element
-- [Flipped Classroom](../patterns/flipped-classroom.md) — readings (or videos) deliver first exposure before class
+- [Flipped Classroom](../principles/flipped-learning.md) — readings (or videos) deliver first exposure before class
 - [Case-Based Learning](../patterns/case-based-learning.md) — case texts are the primary material learners prepare in advance
 - [Traditional Lecture-Based Instruction](../patterns/direct-instruction.md) — readings supplement and extend lecture content
 

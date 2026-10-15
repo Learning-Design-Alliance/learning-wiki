@@ -1,7 +1,7 @@
 ---
 type: principle
 id: spaced-learning
-aliases: [spacing, spaced-practice, augment-single-session-workshop-with-spaced-retrieval, podcasts-as-revision-adjunct-distributed-listening]
+aliases: [spacing, spaced-practice, augment-single-session-workshop-with-spaced-retrieval, podcasts-as-revision-adjunct-distributed-listening, incorporate-spacing-effects-in-cai-design, maximize-learning-rate-when-calibrating-leitner-schedules, tailor-spacing-intervals-and-explain-approach]
 title: Spaced Learning
 description: "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy."
 canonical: true
@@ -54,12 +54,24 @@ sources:
     resource: "https://doi.org/10.1186/s12909-026-10080-6"
     title: "Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6"
     author: Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S
+  - id: caple-1996
+    resource: "https://eric.ed.gov/?id=ED427772"
+    title: "Caple, Carlous. (1996). The Effects of Spaced Practice and Spaced Review on Recall and Retention Using Computer Assisted Instruction. Doctoral Dissertation, North Carolina State University. https://eric.ed.gov/?id=ED427772"
+    author: Caple, Carlous
+  - id: reddy-2016
+    resource: "https://doi.org/10.1145/2939672.2939850"
+    title: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850"
+    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T"
+  - id: tetiana-zubenko-2022
+    resource: "https://doi.org/10.20535/2410-8286.250501"
+    title: "Tetiana Zubenko, Anastasiia Gavrylenko, Tetyana Zhyvotovska, Nadiia Vasylieva. (2022). Spaced vocabulary acquisition while incidental listening by ESL university students. Advanced Education, 20. https://doi.org/10.20535/2410-8286.250501"
+    author: Tetiana Zubenko, Anastasiia Gavrylenko, Tetyana Zhyvotovska, Nadiia Vasylieva
 ---
 
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (18 for, 13 mixed, 1 unmarked) · 28 studies (15 causal, 7 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 26 claims rest on one study
+> **Evidence** · 36 claims (21 for, 14 mixed, 1 unmarked) · 28 studies (15 causal, 7 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 30 claims rest on one study
 
 ## Description
 
@@ -142,6 +154,10 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](../claims/podcast-design-barriers-pauses-voice-monotony.md) [+W] — read 2026-10-15: learners' views of podcast design (pauses, voice); does not bear on spacing
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](../claims/podcast-gains-higher-order-domains.md) [+W] — read 2026-10-15: immediate gains on higher-order items, no spacing contrast
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](../claims/podcast-topic-wise-gain-heterogeneity.md) [~W] — read 2026-10-15: gains varied by topic; no spacing contrast
+- [Structured Cai Maintains Memory Recall To Retention](../claims/structured-cai-maintains-memory-recall-to-retention.md) [+M]
+- [Excess New Item Rate Leaves Items Stuck In First Leitner Deck](../claims/excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck.md) [+M]
+- [Optimal Leitner Schedule Reviews Lower Decks More Often](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W]
+- [Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets.](../claims/leitner-learning-rate-shows-increasing-returns-to-review-budget.md) [~W]
 
 ## Source verification and open tests
 
@@ -451,3 +467,130 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - Kang, S. H. K., Eglington, L. G., Schuetze, B. A., Lu, X., Hinterstoisser, T. M., & Huaco, J. (2023). Using Cognitive Science and Technology to Enhance Financial Education: The Effect of Spaced Retrieval Practice. Journal of Financial Counseling and Planning, 34(1), 20–31. https://doi.org/10.1891/JFCP-2021-0032
 - Kornell, N., & Bjork, R. A. (2008). Learning Concepts and Categories: Is Spacing the “Enemy of Induction”? *Psychological Science, 19*(6), 585–592. [doi:10.1111/j.1467-9280.2008.02127.x](https://doi.org/10.1111/j.1467-9280.2008.02127.x)
 - Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)
+
+<!-- merged 2026-10-15 from principles/incorporate-spacing-effects-in-cai-design ("Incorporate spacing effects into the design and structure of computer assisted instruction programs"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Incorporate spacing effects into the design and structure of computer assisted instruction programs
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The dissertation recommends that educational software developers build spacing effects — spaced practice and spaced review — into the design and structure of the CAI programs they develop, because the study found spacing effects enhanced recall and retention when incorporated within CAI. The author concludes that spacing effects affect the design of educational software and could drive innovation in the educational software arena.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Software must structurally support spaced practice (stopping and resuming practice sessions) and spaced review (gradually increasing spacing between presentations of material).
+#### Constraints
+- The supporting evidence comes from one dissertation study with college students learning content on African-American Scientists and Inventors.
+
+### Target Learners
+- college and university students
+
+### Target Learning Objectives
+- recall and retention of instructional content
+
+### Claims
+- [Structured Cai Spacing Improves Recall And Retention](../claims/structured-cai-spacing-improves-recall-and-retention.md) [+M]
+- [Structured Cai Maintains Memory Recall To Retention](../claims/structured-cai-maintains-memory-recall-to-retention.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [CAI-Structured: a computer assisted instruction program designed with spaced practice and spaced review](../elements/cai-structured-program.md)
+
+## Key Sources
+- Caple, Carlous. (1996). The Effects of Spaced Practice and Spaced Review on Recall and Retention Using Computer Assisted Instruction. Doctoral Dissertation, North Carolina State University. https://eric.ed.gov/?id=ED427772
+-->
+
+<!-- merged 2026-10-15 from principles/maximize-learning-rate-when-calibrating-leitner-schedules ("Maximize Learning Rate When Calibrating Leitner Review Schedules"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Maximize Learning Rate When Calibrating Leitner Review Schedules
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The article proposes the maximum speed of learning as the design target for spaced repetition software: its formalization "suggests the maximum speed of learning as a natural design metric for spaced rep- etition software". Deck review rates and the new-item rate are calibrated with a queueing-theory program rather than heuristics, and the new-item rate should stay below the phase-transition threshold.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A model of recall as a function of deck position and delay, and estimates of item difficulty and the learner's review budget.
+- Solving the static planning problem to set deck review rates and new-item arrival rate.
+#### Constraints
+- The authors call for better approximations of the Leitner Queue Network with rigorous performance guarantees, and policies for the transient regime such as cramming.
+- The authors say more extensive experimentation is needed to understand how closely these models apply to real-world settings.
+- In the experiment the authors could not optimize review rates ex ante because item difficulty and review budget were unknown.
+
+### Target Learners
+- Learners memorizing many items with spaced repetition software, e.g., foreign-language vocabulary
+
+### Target Learning Objectives
+- Maximizing the rate of mastered items in long-term learning
+
+### Claims
+
+- [Leitner Queue Network Phase Transition In Learning Rate](../claims/leitner-queue-network-phase-transition-in-learning-rate.md) [+M]
+- [Excess New Item Rate Leaves Items Stuck In First Leitner Deck](../claims/excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck.md) [+M]
+- [Optimal Leitner Schedule Reviews Lower Decks More Often](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W]
+- [Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets.](../claims/leitner-learning-rate-shows-increasing-returns-to-review-budget.md) [~W]
+
+## Related Principles
+- [Spaced Repetition Scheduling](../strategies/spaced-repetition-scheduling.md)
+- [Spaced Learning](spaced-learning.md)
+- [Leitner Queue Network](../theories/leitner-queue-network.md)
+
+## Examples
+-
+
+## Key Sources
+- Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850
+-->
+
+<!-- merged 2026-10-15 from principles/tailor-spacing-intervals-and-explain-approach ("When introducing spaced learning, explain the approach to learners and tailor repetition intervals to the audience and content"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# When introducing spaced learning, explain the approach to learners and tailor repetition intervals to the audience and content
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
+
+## Description
+Drawing on Toppino and Cohen (2010), the article states that introducing a spaced learning program demands presenting learners with the idea of a learning target and explaining the approach, for example "explicating the importance of taking intervals in information storage". It further holds that "the spaces between repetitions should be 'tailored' on the basis of the audience's needs, priorities, and information content". The article also cautions that spaced learning requires time management and organizational skills from trainees, which may be a challenge.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Learners must be told the learning target and the rationale for spaced intervals before the program starts
+- Interval lengths must be adjusted to audience needs, priorities and the information content
+#### Constraints
+- The approach demands time management and organizational skills from trainees that might be a challenge
+
+### Target Learners
+- Foreign language learners in higher education
+
+### Target Learning Objectives
+- Efficient storage and retention of information through spaced study
+
+### Claims
+
+- [Svas Spaced Listening Outperforms Comparison End Of Experiment](../claims/svas-spaced-listening-outperforms-comparison-end-of-experiment.md) [+M]
+- [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](../claims/distributed-practice-limits-l2.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Expanding then maintenance repetition schedule for audio vocabulary lessons](../designs/expanding-then-monthly-repetition-schedule.md)
+- [Build regular reiteration of previously covered vocabulary topics into the EFL curriculum](../strategies/curriculum-reiteration-one-step-forward-two-steps-back.md)
+
+## Key Sources
+- Tetiana Zubenko, Anastasiia Gavrylenko, Tetyana Zhyvotovska, Nadiia Vasylieva. (2022). Spaced vocabulary acquisition while incidental listening by ESL university students. Advanced Education, 20. https://doi.org/10.20535/2410-8286.250501
+-->

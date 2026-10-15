@@ -60,7 +60,7 @@ The model works only when both halves are redesigned: pre-class materials must b
 
 ## Related Strategies
 
-- See the [Flipped Classroom](../patterns/flipped-classroom.md) pattern — the standard inverted classroom is the canonical implementation of this pattern
+- See the [Flipped Classroom](../principles/flipped-learning.md) pattern — the standard inverted classroom is the canonical implementation of this pattern
 - [Use a real-time preparedness dashboard to let instructors pivot lesson plans when few students have completed pre-class work](preparedness-dashboard-pivot-to-didactic-lecture.md)
 
 ## Examples

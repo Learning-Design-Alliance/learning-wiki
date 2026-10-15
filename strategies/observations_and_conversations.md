@@ -73,7 +73,7 @@ Observation and conversation are core moves of formative assessment, and formati
 
 ## Patterns That Use This Strategy
 - [Formative Assessment](../patterns/formative-assessment.md) — observation and conversation are the primary evidence-gathering moves
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — teachers elicit and build on students' informal problem-solving strategies through conversation
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — teachers elicit and build on students' informal problem-solving strategies through conversation
 
 ## Examples
 - **Cognitively Guided Instruction (CGI)** — elementary teachers interview students about how they solved arithmetic word problems, using the conversations to select the next problems ([https://www.education.wisc.edu/ci/cognitively-guided-instruction/](https://www.education.wisc.edu/ci/cognitively-guided-instruction/)).

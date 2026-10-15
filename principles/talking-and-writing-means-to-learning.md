@@ -1,7 +1,7 @@
 ---
 type: principle
 id: talking-and-writing-means-to-learning
-aliases: [reduce-teacher-talk-increase-student-talk, relaxed-atmosphere-communicative-activities]
+aliases: [reduce-teacher-talk-increase-student-talk, relaxed-atmosphere-communicative-activities, teacher-support-and-speaking-practice-reduce-flca, dialogue-safe-environment-bildung-film-education]
 title: Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 description: "For learners meeting content they must understand, especially through a second language, moving lesson time from teacher talk to learners' own purposeful talk and short writing about the content, in a class where mistakes are safe, is expected to deepen understanding and willingness to speak; no claim tests this whole relationship, writing-to-learn and discussion-versus-lecture claims test its halves, and more talk alone does not raise comprehension."
 canonical: true
@@ -18,12 +18,20 @@ sources:
     resource: "https://journals.cces.net/index.php/elt"
     title: "Yonghong Gao. (2008). Implementing Communicative Activities in English Reading Class. English Language Teaching, Vol. 1, No. 1. https://journals.cces.net/index.php/elt"
     author: Yonghong Gao
+  - id: andrew-leichsenring-2010
+    resource: "https://eric.ed.gov/?id=ED537603"
+    title: "Andrew Leichsenring. (2010). The experiences of anxiety of Japanese EFL learners: A case study. https://eric.ed.gov/?id=ED537603"
+    author: Andrew Leichsenring
+  - id: koster-2019
+    resource: "https://doi.org/10.18546/FEJ.02.2.04"
+    title: "Koster, E. (2019). Bildung through films: How to discuss existential questions in academia. Film Education Journal. https://doi.org/10.18546/FEJ.02.2.04"
+    author: Koster, E
 ---
 
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (16 for, 6 mixed) · 22 studies (6 review, 4 causal, 3 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 18 claims rest on one study
+> **Evidence** · 23 claims (17 for, 6 mixed) · 22 studies (6 review, 4 causal, 3 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +132,7 @@ Claims this page cited, or that bear on it, which the model above does not rest 
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](../claims/flca-linked-with-oral-performance-japanese-efl.md) [~W] — the same two-learner case study as the anxiety claim above; bears on why anxiety matters for speaking, not on what reduces it.
 - [Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms](../claims/lack-of-practice-teacher-centered-anxiety.md) [~W] — the same survey as the fear-of-mistakes claim; the authors' reading that teacher-centered classes give too little speaking practice, which bears on step 2 but is an interpretation, not a finding.
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+W] — a systematic review's thematic synthesis of AI practice in EFL; bears on private practice as a way into speaking (the AI-tutor row), not on classroom talk.
+- [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](../claims/flca-influences-outcomes-four-factors.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -143,7 +152,6 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - [Peer Discussion](peer-discussion.md) — the narrower vote–discuss–revote relationship on conceptual questions.
 - [Collaborative Learning](collaborative-learning.md) — joint work in general.
 - [Process-Based Writing](process-based-writing.md) — writing as a skill to be learned, where this page uses writing to learn content.
-- [Provide supportive teacher gestures and sustained speaking practice opportunities to reduce foreign language classroom anxiety](teacher-support-and-speaking-practice-reduce-flca.md) — the anxiety-reduction recommendation from the same case study as step 1's evidence.
 
 ## Examples
 
@@ -165,10 +173,13 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - [Experience with Languaging Activities](../patterns/experience-with-languaging-activities.md) — a reusable talk-or-write question routine that applies this principle.
 - [Writing To Learn](../strategies/writing-to-learn.md) — short writing about content as a learning activity (step 5).
 - [Accountable Talk](../strategies/accountable_talk.md) — discussion norms and moves for step 4.
+- [Structured post-screening discussion using amplification followed by moral case deliberation](../strategies/film-amplification-moral-case-deliberation-strategy.md)
 
 ## Key Sources
 - Diaz, Diana M. (1988). First Language/Second Language: Acquisition, Writing, and Cognitive Development. https://eric.ed.gov/?id=ED294203
 - Yonghong Gao. (2008). Implementing Communicative Activities in English Reading Class. English Language Teaching, Vol. 1, No. 1. https://journals.cces.net/index.php/elt
+- Andrew Leichsenring. (2010). The experiences of anxiety of Japanese EFL learners: A case study. https://eric.ed.gov/?id=ED537603
+- Koster, E. (2019). Bildung through films: How to discuss existential questions in academia. Film Education Journal. https://doi.org/10.18546/FEJ.02.2.04
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -344,4 +355,86 @@ The article argues that communicative activities are harder to engage in under s
 
 ## Key Sources
 - Yonghong Gao. (2008). Implementing Communicative Activities in English Reading Class. English Language Teaching, Vol. 1, No. 1. https://journals.cces.net/index.php/elt
+-->
+
+<!-- merged 2026-10-15 from principles/teacher-support-and-speaking-practice-reduce-flca ("Provide supportive teacher gestures and sustained speaking practice opportunities to reduce foreign language classroom anxiety"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Provide supportive teacher gestures and sustained speaking practice opportunities to reduce foreign language classroom anxiety
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 associational, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+
+## Description
+The article's findings suggest that teacher encouragement and sustained opportunities for speaking practice can reduce foreign language classroom anxiety and build learner self-efficacy. Student A's receipt of a dictionary from her teacher motivated her to "want to study English language more and find the meanings of words and try harder in class," and years of English speaking club membership let her lose her fear of speaking in front of teacher and peers. The article presents this as evidence that extrinsic motivation can drive an ESL learner to participate and find satisfaction in learning.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Opportunities for speaking practice over time, such as a school English speaking club, and supportive teacher actions
+#### Constraints
+- Based on the experience of one participant in a two-person case study; not representative of Japanese EFL learners generally
+
+### Target Learners
+- secondary and tertiary EFL learners
+
+### Target Learning Objectives
+- reducing foreign language classroom anxiety; increasing willingness to speak and self-efficacy
+
+### Claims
+
+- [Speaking Practice Reduced Flca Increased Self Efficacy](../claims/speaking-practice-reduced-flca-increased-self-efficacy.md) [+M]
+- [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](../claims/flca-influences-outcomes-four-factors.md) [+W]
+- [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](../claims/fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) [~W]
+- [Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms](../claims/lack-of-practice-teacher-centered-anxiety.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Teacher strategies for alleviating EFL speaking anxiety: warm atmosphere, encouragement, L1 use, and learner-centered activities](../strategies/teacher-strategies-alleviate-speaking-anxiety.md)
+
+## Key Sources
+- Andrew Leichsenring. (2010). The experiences of anxiety of Japanese EFL learners: A case study. https://eric.ed.gov/?id=ED537603
+-->
+
+<!-- merged 2026-10-15 from principles/dialogue-safe-environment-bildung-film-education ("Dialogue in a safe environment is central to Bildung-oriented film education"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Dialogue in a safe environment is central to Bildung-oriented film education
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The article holds that dialogue is the most important ingredient in the whole process of understanding: students exchange experiences and try to understand the film from each other's perspectives, which can assist them in gaining a fuller, deeper understanding of its existential dimensions. Such dialogue requires that students be open to their partner's perspective and prepared to accept it as potentially relevant and valid, and the author states that pursuing this kind of association 'requires a safe educational environment'.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A safe educational environment
+- Students open to each other's perspectives and prepared to accept them as potentially valid
+#### Constraints
+- Dialogue with others may, following Von Humboldt, lead to antagonism and friction as well as enrichment; the experience of contrast carries both possibilities
+
+### Target Learners
+- University students working in pairs and groups
+
+### Target Learning Objectives
+- Becoming more sharply aware of the views, beliefs and convictions of others
+- Deepening understanding of existential dimensions of film
+
+### Claims
+- 
+
+## Related Principles
+
+
+## Examples
+
+- [Structured post-screening discussion using amplification followed by moral case deliberation](../strategies/film-amplification-moral-case-deliberation-strategy.md)
+
+## Key Sources
+- Koster, E. (2019). Bildung through films: How to discuss existential questions in academia. Film Education Journal. https://doi.org/10.18546/FEJ.02.2.04
 -->

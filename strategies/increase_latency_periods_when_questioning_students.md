@@ -65,7 +65,7 @@ Extended latency converts questioning from rapid recall checking into genuine [c
 ## Examples
 - **Rowe's original protocol** — teachers audiotaped their lessons, charted their own latency with a peer observer, and set a target of 3+ seconds; within weeks student response length tripled and "I don't know" responses dropped sharply ([Rowe, 1974](https://doi.org/10.1002/tea.3660110204)).
 - **Cognitively Guided Instruction mathematics classrooms** — teachers pose a problem, give extended silent and written think time, then elicit multiple solution strategies before [Direct Instruction](../patterns/direct-instruction.md) on the target method.
-- **Socratic seminar and discussion-based humanities courses** — facilitators hold Wait Time 2 after each contribution so peers, not the teacher, respond first, enacting [Discussion-Based Learning](../patterns/discussion-based-learning.md).
+- **Socratic seminar and discussion-based humanities courses** — facilitators hold Wait Time 2 after each contribution so peers, not the teacher, respond first, enacting [Discussion-Based Learning](../principles/collaborative-learning.md).
 
 ## Key Sources
 - Rowe, M. B. (1974). Wait-time and rewards as instructional variables: Their influence on language, logic, and fate control. Part one — Wait time. *Journal of Research in Science Teaching, 11*(2), 81–94. [doi:10.1002/tea.3660110202](https://doi.org/10.1002/tea.3660110202)

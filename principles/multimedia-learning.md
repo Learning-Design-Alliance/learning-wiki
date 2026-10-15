@@ -80,7 +80,7 @@ Each question below links a general claim that gathers the studies behind it int
 
 - Do words with a relevant picture beat words alone? [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]: 8 distinct studies.
 - How much do the design principles add, and when do they matter most? [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles](../claims/multimedia-design-principles-improve-learning-overall.md) [~M]: 2 distinct studies.
-- Should words sit next to, and arrive with, the picture they describe? [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+S]: 5 distinct studies.
+- Should words sit next to, and arrive with, the picture they describe? [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]: 5 distinct studies.
 - Should the words be spoken or printed? [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [~S]: 7 distinct studies.
 - Does presenting the same words twice (spoken and written) hurt or help, and for whom? [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](../claims/redundancy-hurts-learning.md) [~S]: 7 distinct studies.
 - Should interesting but unneeded material be cut? [Coherence Principle Irrelevant Material Hurts Learning](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S]: 10 distinct studies.
@@ -150,7 +150,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 
 **[Multimedia Learning](../patterns/multimedia-learning.md)** — A reusable design pattern in which text, visuals, and interaction are coordinated intentionally rather than layered arbitrarily.
 
-**[Flipped Learning](../patterns/flipped-classroom.md)** — Pre-class micro-lessons often rely on multimedia principles: concise visuals, narrated explanation, and signaling that reduce learner confusion before live practice.
+**[Flipped Learning](flipped-learning.md)** — Pre-class micro-lessons often rely on multimedia principles: concise visuals, narrated explanation, and signaling that reduce learner confusion before live practice.
 
 ## Key Sources
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

@@ -44,7 +44,7 @@ The earlier page's guidance, kept as a concrete default a designer can act on an
 8. **Judge the tool by what learners can do without it.** Measure the target unaided, on items like the ones practised and on some that differ, and do not read better in-tool performance as learning. Evidence: [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](../claims/gpt-tutor-improves-practice-more-than-gpt-base.md) [~M] beside the exam result in step 4: the tutor's large practice gain left no unaided exam gain. See also [AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content](../claims/ai-hints-aligned-exam-performance-only.md) [~W].
 9. **Plan the constraints across sessions, not only in one.** A default arc over three to six sessions:
    - *Session 1* (first 10 to 15 minutes): open exploration of the constrained tool with no written directions; the teacher or the tool's opening screen poses one question; no answer-giving AI.
-   - *Sessions 2 to 3*: challenges or puzzles that need the target interactions (the [Four-category design pattern for implicit scaffolding in simulations](../patterns/four-category-implicit-scaffolding-pattern.md) lists them); an AI assistant, if used, gives hints only, and only after the learner has entered an attempt; the learner works the first item of each kind alone before help is offered.
+   - *Sessions 2 to 3*: challenges or puzzles that need the target interactions (the [Four-category design pattern for implicit scaffolding in simulations](productive-usage-guaranteed-by-design.md) lists them); an AI assistant, if used, gives hints only, and only after the learner has entered an attempt; the learner works the first item of each kind alone before help is offered.
    - *Later sessions*: loosen the bounds as unaided success appears, moving the assistant from step-by-step tutor to a coach that checks the learner's own solution, as teachers in one focus-group study chose to configure it ([Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](../claims/teachers-preserve-student-thinking-bound-answer-giving.md) [+W]).
    - *Move a learner on* when they complete two consecutive target tasks unaided. The arc, the session counts and the threshold are untested proposals; the order (think first, then use the assistant) follows [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](../claims/regulated-ai-outperforms-independent-originality.md) [+M] (university students, creative product tasks; the claim page does not say whether the order was enforced by the tool or by instruction).
 
@@ -153,7 +153,6 @@ Productive use in the tool, assisted performance, unaided immediate performance,
 ## Examples
 
 - [Five design principles: one artifact, dependency sequencing, progressive sim-hardware integration, scaffolded bounded choice, and paired collaboration with individual evidence](../designs/five-principles-robotics-course-framework.md)
-- [Four-category design pattern for implicit scaffolding in simulations](../patterns/four-category-implicit-scaffolding-pattern.md) — the same source's design pattern for simulations.
 
 ## Key Sources
 - Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
@@ -193,6 +192,49 @@ Drawing on Norman's tool-design model, the article argues that effective designs
 ## Examples
 
 - [Five design principles: one artifact, dependency sequencing, progressive sim-hardware integration, scaffolded bounded choice, and paired collaboration with individual evidence](../designs/five-principles-robotics-course-framework.md)
+
+## Key Sources
+- Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics
+-->
+
+<!-- merged 2026-10-15 from patterns/four-category-implicit-scaffolding-pattern ("Four-category design pattern for implicit scaffolding in simulations"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Four-category design pattern for implicit scaffolding in simulations
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The article organizes implicit scaffolding strategies into four categories that work together: scaffolding the general concept (scope, sequence, interactivity), scaffolding students' framing of sim use (opening screen, initial interaction), scaffolding to enable sense making (representations, feedback, layout, range of interactions, illuminating cases), and scaffolding for continued engagement (puzzles and challenges). The authors state: "We divide our description of implicit scaffolding strategies into four categories: Scaffolding 1) the general concept, 2) students’ framing of sim use, 3) to enable sense making, and 4) for continued engagement." Together these enable agency while affording and constraining productive actions.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Strategies must be designed in coordination so learners are likely to encounter pedagogically useful scenarios through exploration
+#### Constraints
+- Developed iteratively over 10 years of PhET design work on 125 sims with over 600 student interviews
+
+### Target Learners
+- students using interactive science and mathematics simulations
+
+### Target Goals
+- conceptual understanding
+- productive inquiry
+- continued engagement
+
+### Claims
+
+- [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](../claims/flexibility-supports-agency-productive-sequence.md) [+W]
+- [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](../claims/implicit-scaffolding-supports-immediate-exploration.md) [+W]
+- [A student used slider extremes to make qualitative comparisons of skater mass effects](../claims/slider-extremes-support-qualitative-comparisons.md) [+W]
+
+## Related Patterns
+
+- [Three pedagogical design considerations for physics simulations: consistent world view, multiple representations, and game for concept testing](../designs/three-pedagogical-simulation-design-considerations.md)
+
+## Examples
+-
 
 ## Key Sources
 - Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics

@@ -69,7 +69,7 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation phase, where learners put their reasoning into words
 - [4CID Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — integration tasks are frequently writing prompts that ask learners to relate concepts to their own lives
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — pre-discussion writing prompts raise the quality of subsequent talk
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — pre-discussion writing prompts raise the quality of subsequent talk
 
 ## Examples
 

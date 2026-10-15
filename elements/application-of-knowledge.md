@@ -67,10 +67,10 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - [Demonstration](demonstration.md) — the modeling phase that should precede independent application
 
 ## Patterns That Use This Element
-- [Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md) — application is the third principle: learning is promoted when learners apply new knowledge and receive feedback
+- [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md) — application is the third principle: learning is promoted when learners apply new knowledge and receive feedback
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — the problem *is* the application; instruction is organized around it
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and reflection phases follow learner application attempts
-- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md) — learners apply frameworks to business cases under discussion facilitation
+- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md) — learners apply frameworks to business cases under discussion facilitation
 
 ## Examples
 

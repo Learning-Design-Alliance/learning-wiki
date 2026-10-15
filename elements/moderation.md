@@ -63,7 +63,7 @@ Well-moderated discussion converts unstructured peer talk into productive [Knowl
 - [Coaching](coaching.md) — shares the probing and feedback moves, applied to individual skill rather than group dialogue
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — moderation is the core facilitation mechanism
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — moderation is the core facilitation mechanism
 - [Case-Based Learning](../patterns/case-based-learning.md) — case discussions depend on the moderator pressing for analysis and defending multiple positions
 - [Socratic Seminar](../patterns/socratic-seminar.md) — a fully specified moderation protocol built on questioning
 

@@ -78,7 +78,7 @@ Scenario-based decision practice converts a social-emotional competency from an 
 
 ## Related Strategies
 - [Case-based learning](../patterns/case-based-learning.md) — the same scenario-analysis structure applied to academic content
-- [Discussion-based learning](../patterns/discussion-based-learning.md) — the whole-class sharing phase is a structured instance of it
+- [Discussion-based learning](../principles/collaborative-learning.md) — the whole-class sharing phase is a structured instance of it
 - [Role-Play](../strategies/acting-role-play.md) — enacting the scenario adds behavioral rehearsal to the reasoning practice
 - [Debate](../patterns/debate.md) — formalizes the argumentation step when dilemmas have two defensible positions
 - [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)

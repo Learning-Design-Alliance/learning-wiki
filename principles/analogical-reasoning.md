@@ -1,6 +1,7 @@
 ---
 type: principle
 id: analogical-reasoning
+aliases: [metaphors-analogies]
 title: Analogical Reasoning
 description: "Comparing a new situation with a provided analogous case, prompted to find the shared relation and followed by the principle, is expected to help learners who do not yet see that structure transfer it to a near new case at a short horizon; analogies from a familiar source domain, far transfer and delayed effects are untested here."
 canonical: true
@@ -17,12 +18,24 @@ sources:
     resource: "https://doi.org/10.1126/science.1142103"
     title: "Richland, L. E., Zur, O., & Holyoak, K. J. (2007). Cognitive supports for analogies in the mathematics classroom. *Science, 316*(5828), 1128-1129"
     author: "Richland, L. E., Zur, O., & Holyoak, K. J"
+  - id: gentner-2017
+    resource: "https://doi.org/10.1111/tops.12278"
+    title: "Gentner, D., & Hoyos, C. (2017). Analogy and abstraction. *Topics in Cognitive Science, 9*(3), 672-693"
+    author: "Gentner, D., & Hoyos, C"
+  - id: richland-2015
+    resource: "https://doi.org/10.1002/wcs.1336"
+    title: "Richland, L. E., & Simms, N. (2015). Analogy, higher order thinking, and education. *Wiley Interdisciplinary Reviews: Cognitive Science, 6*(2), 177-192"
+    author: "Richland, L. E., & Simms, N"
+  - id: thibodeau-2017
+    resource: "https://doi.org/10.1016/j.tics.2017.07.001"
+    title: "Thibodeau, P. H., Hendricks, R. K., & Boroditsky, L. (2017). How linguistic metaphor scaffolds reasoning. *Trends in Cognitive Sciences, 21*(11), 852-863"
+    author: "Thibodeau, P. H., Hendricks, R. K., & Boroditsky, L"
 ---
 
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (2 for, 7 mixed) · 18 studies (8 causal, 4 review, 3 quant-synthesis, 2 qualitative, 1 associational), `q2`–`q4` · 3 of 18 report an effect size · 3 claims rest on one study
+> **Evidence** · 15 claims (5 for, 10 mixed) · 23 studies (8 causal, 5 qualitative, 4 review, 3 quant-synthesis, 2 associational, 1 design), `q2`–`q4` · 3 of 23 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,6 +115,12 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](../claims/legitimacy-disciplinary-identity-resistance.md) [~W]
+- [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](../claims/prior-experience-shapes-view-engagement.md) [~M]
+- [Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions](../claims/metaphor-workshops-support-genai-sensemaking.md) [+W]
+- [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](../claims/concrete-eco-feedback-visualizations-preferred-over-abstract.md) [+W]
+- [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](../claims/qualities-metaphors-genai-unknowable-unreliable.md) [~W]
+- [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](../claims/role-metaphors-genai-frenemy-ambivalence.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -116,11 +135,17 @@ The model should weaken if well-controlled comparisons with comparable learners 
 Recognising that a source applies, mapping it correctly, using the principle on a near case, using it in another domain, and remembering it later are separate claims. The present evidence does not establish how many cases to use, how similar they should be, or whether analogies a learner generates for themselves help or hurt.
 
 ## Related Principles
-- [Metaphors & Analogies](metaphors-analogies.md) — analogical reasoning is one of the strongest structured forms of analogy use in teaching
 - [Activation](activation.md) — analogies often work by activating prior knowledge before introducing a new concept
-- [Constructivist Learning](constructivism.md) — analogies help learners build new understanding out of familiar structures
+- [Constructivist Learning](cognitive-activation.md) — analogies help learners build new understanding out of familiar structures
+- [Creating Visual Representations](dual-coding.md) — analogies often become more useful when represented visually.
+- [Graphic Organizers](graphic-organizers.md) — organizers can help learners map which parts of an analogy align and where it breaks.
+- [Inquiry-based Learning](inquiry-based-learning.md) — learners can generate and test analogies while exploring new concepts.
 
 ## Examples
+- **Math analogies**: A teacher uses balance-scale imagery to explain equation solving and then asks learners to test where the analogy holds.
+- **Science metaphors**: Learners compare electrical flow to water flow, then identify the limits of the comparison.
+- **Writing identity metaphors**: Learners use metaphor to describe their writing process and reflect on how that framing shapes revision habits.
+- **Digital literacy comparisons**: Learners use familiar physical systems to reason about files, networks, or information flow.
 
 ### Illustrative
 
@@ -133,6 +158,9 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 ## Key Sources
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155-170. [https://doi.org/10.1207/s15516709cog0702_3](https://doi.org/10.1207/s15516709cog0702_3)
 - Richland, L. E., Zur, O., & Holyoak, K. J. (2007). Cognitive supports for analogies in the mathematics classroom. *Science, 316*(5828), 1128-1129. [https://doi.org/10.1126/science.1142103](https://doi.org/10.1126/science.1142103)
+- Gentner, D., & Hoyos, C. (2017). Analogy and abstraction. *Topics in Cognitive Science, 9*(3), 672-693. [https://doi.org/10.1111/tops.12278](https://doi.org/10.1111/tops.12278)
+- Richland, L. E., & Simms, N. (2015). Analogy, higher order thinking, and education. *Wiley Interdisciplinary Reviews: Cognitive Science, 6*(2), 177-192. [https://doi.org/10.1002/wcs.1336](https://doi.org/10.1002/wcs.1336)
+- Thibodeau, P. H., Hendricks, R. K., & Boroditsky, L. (2017). How linguistic metaphor scaffolds reasoning. *Trends in Cognitive Sciences, 21*(11), 852-863. [https://doi.org/10.1016/j.tics.2017.07.001](https://doi.org/10.1016/j.tics.2017.07.001)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the previous body is kept verbatim.
 
@@ -166,7 +194,7 @@ Analogical reasoning is most valuable when learners need help seeing a new conce
 ### Theory
 #### Supporting
 - Structure-mapping perspectives on analogy — analogical reasoning works when relational correspondences are preserved across domains
-- [Metaphors & Analogies](metaphors-analogies.md) — provides the broader family of instructional moves that analogical reasoning belongs to
+- [Metaphors & Analogies](analogical-reasoning.md) — provides the broader family of instructional moves that analogical reasoning belongs to
 - [Information Processing Theory](../theories/information-processing-theory.md) — analogies can reduce interpretive burden by linking new content to existing schema
 
 #### Contradicting / Qualifying
@@ -179,3 +207,80 @@ Analogical reasoning is most valuable when learners need help seeing a new conce
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — analogies that trigger confident but incorrect predictions can still be instructionally useful if the mismatch is corrected explicitly
 -->
 - [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](../claims/students-audit-genai-analogy-structural-correspondence.md) [~W]
+
+<!-- merged 2026-10-15 from principles/metaphors-analogies ("Metaphors & Analogies"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Metaphors & Analogies
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 10 claims (5 for, 5 mixed) · 14 studies (5 qualitative, 2 causal, 2 quant-synthesis, 2 review, 2 associational, 1 design), `q2`–`q4` · 1 of 14 report an effect size · 7 claims rest on one study
+
+## Description
+Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images. Their instructional power lies in comparative structure: they can make abstract concepts more concrete, reveal patterns, and help learners reason about relationships they might otherwise miss. Used carefully, they support explanation, transfer, and conceptual flexibility. Used carelessly, they can oversimplify or mislead.
+
+## Implications
+Metaphors and analogies work because they let learners reason from a known structure toward an unfamiliar one. A good analogy can reduce the effort of building a concept from scratch and make abstract relationships easier to grasp [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S], especially when learners explain the mapping in their own words [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design caution is that analogies are only partial bridges: unless instructors explicitly mark where the comparison fits and where it breaks, learners may overextend the metaphor and build durable misconceptions.
+
+### Context
+#### Requirements
+- **A well-chosen source analogy**: The familiar comparison has to map meaningfully onto the target concept, not just sound catchy.
+- **Explicit mapping**: Instructors should name what carries over from the analogy and what does not.
+- **Support for interpretation**: Learners often need prompts to explain the analogy in their own words or test its limits.
+- **Alignment to the learning goal**: Analogies work best when the goal involves conceptual structure, pattern recognition, or abstraction.
+#### Constraints
+- **Misleading carryover**: Learners may overextend the analogy to places where it no longer fits.
+- **Surface similarity traps**: A comparison that shares only superficial features can create durable misconceptions.
+- **Cultural mismatch**: An analogy can fail if the supposedly familiar source domain is not actually familiar to the learners.
+- **Overreliance**: Learners still need formal language and direct explanation, not only figurative framing.
+
+### Target Learners
+- **Learners encountering abstract ideas**: Strong fit for conceptual, disciplinary, or symbolic content that needs a bridge from the known to the unknown.
+- **Learners building higher-order reasoning**: Analogies support comparison, transfer, and flexible interpretation.
+- **Learners with strong prior knowledge in another domain**: The strategy works when existing knowledge can become a scaffold.
+- **Writers and explainers**: Metaphor can support identity-building, communication, and explanatory power as well as comprehension.
+
+### Target Learning Objectives
+- **Conceptual understanding**: Building an initial model of an abstract or unfamiliar idea.
+- **Transfer and pattern recognition**: Seeing structural similarity across situations or domains.
+- **Flexible thinking**: Reframing a problem or concept through a new lens.
+- **Communication and explanation**: Expressing difficult ideas in more memorable and interpretable ways.
+
+### Theory
+#### Supporting
+- Information processing views — analogies reduce the burden of inventing structure from scratch by connecting to existing schemas.
+- Dual-coding-related perspectives — metaphor and analogy often become stronger when supported with image, gesture, or diagram as well as words.
+- Structure-mapping traditions in cognitive science — analogy supports reasoning by aligning relational patterns across domains.
+#### Contradicting / Qualifying
+- Analogies do not replace precise disciplinary explanation.
+- Learners may need help separating productive metaphor from literal truth, especially in science, mathematics, and policy topics.
+
+### Claims
+
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies teach more when learners explain how the source and target actually map
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — a strong analogy can reduce interpretive burden by giving learners a familiar structure to think with
+- [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](../claims/legitimacy-disciplinary-identity-resistance.md) [~W]
+- [Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations](../claims/personalized-analogies-more-engaging-memorable.md) [+W]
+- [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](../claims/prior-experience-shapes-view-engagement.md) [~M]
+- [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](../claims/students-audit-genai-analogy-structural-correspondence.md) [~W]
+- [Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions](../claims/metaphor-workshops-support-genai-sensemaking.md) [+W]
+- [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](../claims/concrete-eco-feedback-visualizations-preferred-over-abstract.md) [+W]
+- [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](../claims/qualities-metaphors-genai-unknowable-unreliable.md) [~W]
+- [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](../claims/role-metaphors-genai-frenemy-ambivalence.md) [+W]
+
+## Related Principles
+- [Creating Visual Representations](dual-coding.md) — analogies often become more useful when represented visually.
+- [Graphic Organizers](graphic-organizers.md) — organizers can help learners map which parts of an analogy align and where it breaks.
+- [Explaining Their Thinking](cognitive-activation.md) — asking learners to explain an analogy surfaces whether the mapping is actually understood.
+- [Inquiry-based Learning](inquiry-based-learning.md) — learners can generate and test analogies while exploring new concepts.
+
+## Examples
+- **Math analogies**: A teacher uses balance-scale imagery to explain equation solving and then asks learners to test where the analogy holds.
+- **Science metaphors**: Learners compare electrical flow to water flow, then identify the limits of the comparison.
+- **Writing identity metaphors**: Learners use metaphor to describe their writing process and reflect on how that framing shapes revision habits.
+- **Digital literacy comparisons**: Learners use familiar physical systems to reason about files, networks, or information flow.
+
+## Key Sources
+- Gentner, D., & Hoyos, C. (2017). Analogy and abstraction. *Topics in Cognitive Science, 9*(3), 672-693. [https://doi.org/10.1111/tops.12278](https://doi.org/10.1111/tops.12278)
+- Richland, L. E., & Simms, N. (2015). Analogy, higher order thinking, and education. *Wiley Interdisciplinary Reviews: Cognitive Science, 6*(2), 177-192. [https://doi.org/10.1002/wcs.1336](https://doi.org/10.1002/wcs.1336)
+- Thibodeau, P. H., Hendricks, R. K., & Boroditsky, L. (2017). How linguistic metaphor scaffolds reasoning. *Trends in Cognitive Sciences, 21*(11), 852-863. [https://doi.org/10.1016/j.tics.2017.07.001](https://doi.org/10.1016/j.tics.2017.07.001)
+-->

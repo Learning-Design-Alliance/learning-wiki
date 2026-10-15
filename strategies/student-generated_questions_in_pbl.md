@@ -63,7 +63,7 @@ Question generation activates prior knowledge and creates an information gap tha
 ## Related Strategies
 - **Driving-question design (teacher-posed)** — the complementary approach; a hybrid gives the teacher the frame and students the sub-questions
 - **Case-based learning** — cases supply the rich context from which student questions emerge ([Case-Based Learning](../patterns/case-based-learning.md))
-- **Collaborative inquiry** — group question generation and investigation extend this strategy ([Collaborative Inquiry](../patterns/collaborative-inquiry.md))
+- **Collaborative inquiry** — group question generation and investigation extend this strategy ([Collaborative Inquiry](../principles/inquiry-based-learning.md))
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — supports question refinement without taking ownership away from students
@@ -72,7 +72,7 @@ Question generation activates prior knowledge and creates an information gap tha
 - [Application](../elements/application.md) — pursuing generated questions through authentic project work
 
 ## Patterns That Use This Strategy
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — student questions define the inquiry agenda
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — student questions define the inquiry agenda
 - [Case-Based Learning](../patterns/case-based-learning.md) — questions emerge from case analysis
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — question generation plays the role of articulation and exploration phases
 

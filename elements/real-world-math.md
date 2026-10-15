@@ -19,7 +19,7 @@ generated:
 Real-world math is the element in which mathematical reasoning is embedded in practical or authentic contexts.
 
 ## Affordances
-- [Real-World Math](../principles/real-world-math.md)
+- [Real-World Math](../principles/cultural-life-experiences-connections.md)
 - [Problem-Based Learning](../principles/problem-based-learning.md)
 
 ### Claims

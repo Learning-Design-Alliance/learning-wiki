@@ -58,7 +58,7 @@ The rekenrek's 5-and-10 structure exploits subitizing and the fives-structure of
 5. [Assess Performance](../elements/assess-performance.md) by whether learners use the five-structure (e.g., sliding 8 as 5+3 in one move) rather than counting.
 
 ## Related Strategies
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — the rack is an ideal modeling tool for CGI problem types
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — the rack is an ideal modeling tool for CGI problem types
 - [Concrete-Representational-Abstract](concrete-representational-abstract-cra.md) — the app occupies the representational tier between counters and symbols
 
 ## Related Elements

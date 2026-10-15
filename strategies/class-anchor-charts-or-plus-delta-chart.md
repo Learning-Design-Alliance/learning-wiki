@@ -70,7 +70,7 @@ This strategy operationalizes [Assessment for Learning](../principles/assessment
 
 ## Patterns That Use This Strategy
 - [Formative Assessment](../patterns/formative-assessment.md) — the debrief-and-chart step closes the feedback loop
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — assessment review as a structured discussion context
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — assessment review as a structured discussion context
 
 ## Examples
 - An elementary teacher, after a math quiz on multi-digit subtraction, charts students' described methods in a plus/delta format; the class identifies "forgetting to regroup" as a delta and builds an anchor chart of regrouping steps referenced during the next unit.

@@ -50,7 +50,7 @@ The article develops LOA as a special instance of the general level-of-aspiratio
 ## Examples
 
 - [The Occupational Aspiration Scale (OAS) instrument](../products/occupational-aspiration-scale.md)
-- [Use a structured, multiple-item, complete LOA instrument such as the OAS for research and vocational counseling on occupational aspiration](../principles/use-oas-for-loa-research-and-counseling.md)
+- [Use a structured, multiple-item, complete LOA instrument such as the OAS for research and vocational counseling on occupational aspiration](../principles/validity-reliability-and-bias-in-classroom-assessment.md)
 
 ## Key Sources
 - Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712

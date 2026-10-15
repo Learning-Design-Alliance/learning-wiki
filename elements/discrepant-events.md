@@ -45,7 +45,7 @@ Discrepant events are demonstrations, observations, or scenarios that violate le
 - [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 - [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 
 ## Examples

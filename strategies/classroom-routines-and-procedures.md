@@ -45,7 +45,7 @@ Routines convert recurring logistical decisions into automatic behavior, reducin
 - Routines that are culturally inflexible (e.g., silence norms, turn-taking conventions) can disadvantage students whose home discourse patterns differ [-W]
 - Routines taught by announcement alone, without rehearsal and feedback, rarely become automatic [-M]
 - Inconsistent enforcement is worse than no routine: it teaches students that expectations are negotiable [-M]
-- Overly rigid routines can conflict with [inquiry-oriented](../patterns/discussion-based-learning.md) or collaborative activity structures that require renegotiated norms
+- Overly rigid routines can conflict with [inquiry-oriented](../principles/collaborative-learning.md) or collaborative activity structures that require renegotiated norms
 - Routines established through punishment or public shaming rather than rehearsal and reinforcement undermine relationships and motivation [-M]
 - Overly rigid routines can suppress productive variation — discussion formats, collaborative work, and inquiry activities each need their own, different routines rather than one universal script [~M]
 - Routines taught once and never revisited fade; they require periodic re-teaching after breaks and with new groupings [-W]
@@ -170,7 +170,7 @@ Routines function as procedural [chunking](../principles/chunking.md): by bundli
 - Routines taught by announcement alone, without rehearsal and feedback, rarely become automatic [-M]
 - Inconsistent enforcement is worse than no routine: it teaches students that expectations are negotiable [-M]
 - Routines imposed without rationale can undermine autonomy and produce compliance rather than ownership [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [-M] — explaining the purpose and involving students in designing routines mitigates this
-- Overly rigid routines can conflict with [inquiry-oriented](../patterns/discussion-based-learning.md) or collaborative activity structures that require renegotiated norms
+- Overly rigid routines can conflict with [inquiry-oriented](../principles/collaborative-learning.md) or collaborative activity structures that require renegotiated norms
 
 #### Implementation Variability
 - Whole-class routines (entry, transitions) vs. small-group role structures ([assigned positions](../elements/assigned-positions.md), material managers)

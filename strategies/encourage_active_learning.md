@@ -38,7 +38,7 @@ Active learning reliably improves performance relative to lecture-only instructi
 - **Individual** — minute papers, predict-then-observe, self-explanation prompts, muddiest-point reflections
 - **Pair/small group** — think-pair-share, peer instruction with clicker questions, jigsaw reading
 - **Whole class** — structured [Class Discussion](../elements/class-discussion.md), debate, case analysis
-- **Course-level** — flipped designs move exposition outside class and reserve contact time for active work ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Course-level** — flipped designs move exposition outside class and reserve contact time for active work ([Flipped Classroom](../principles/flipped-learning.md))
 
 ### Target Learners
 - Undergraduate and adult learners, where the evidence base is strongest [Active learning improves exam performance and reduces failure rates.](../claims/active-learning-improves-exam-performance.md) [+S]
@@ -67,7 +67,7 @@ Active learning reliably improves performance relative to lecture-only instructi
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — students answer a conceptual question individually, discuss with neighbors, then re-answer; widely adopted in physics and beyond ([Peer Instruction](https://www.peerinstruction.net))
-- **Flipped STEM courses** — pre-class videos replace lecture; class time runs problem-solving workshops ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Flipped STEM courses** — pre-class videos replace lecture; class time runs problem-solving workshops ([Flipped Classroom](../principles/flipped-learning.md))
 - **Case-based teaching** — learners analyze real scenarios and defend decisions, as in business and medical education ([Case-Based Learning](../patterns/case-based-learning.md))
 - **Tutoring context** — a tutor gives tutees real-life situations to analyze and models active listening and questioning behaviors, making the learning process explicit
 

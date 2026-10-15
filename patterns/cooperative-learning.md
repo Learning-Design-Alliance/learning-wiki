@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: cooperative-learning
-aliases: [jigsaw-structures-adult-learners]
+aliases: [jigsaw-structures-adult-learners, nine-key-elements-cooperative-lesson]
 title: Cooperative Learning
 description: "A reusable policy for small-group work that elicits each member's starting response, sets interdependence and individual accountability together, and uses individual checks rather than the group product to choose the next activity."
 canonical: true
@@ -20,12 +20,16 @@ sources:
     resource: "https://www.sif.it"
     title: "Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it"
     author: Benedetti R., Mariotti E., Montalbano V., Porri A
+  - id: kluge-1999
+    resource: "https://eric.ed.gov/?id=ED437840"
+    title: "Kluge, David. (1999). A Brief Introduction to Cooperative Learning. https://eric.ed.gov/?id=ED437840"
+    author: Kluge, David
 ---
 
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 23 claims (13 for, 10 mixed) · 24 studies (13 quant-synthesis, 3 review, 3 design, 2 causal, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 24 report an effect size · 15 claims rest on one study
+> **Evidence** · 25 claims (14 for, 11 mixed) · 25 studies (13 quant-synthesis, 4 design, 3 review, 2 causal, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 25 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -104,6 +108,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+M]
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](../claims/cooperative-learning-language-class-outcomes.md) [+W] — attached 2026-10-07 from Kluge (1999), which proposed "Nine key elements structuring a cooperative lesson".
 - [Three practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+W] — attached 2026-10-07 from Kluge (1999), which proposed "Nine key elements structuring a cooperative lesson".
+- [Heterogeneous Teams More Benefits Than Homogeneous](../claims/heterogeneous-teams-more-benefits-than-homogeneous.md) [+W]
+- [Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment](../claims/student-team-formation-priorities-survey.md) [~W]
 
 ## Illustrative design instance and observation record
 
@@ -127,8 +133,9 @@ This pattern is scoped to small-group work where each member's individual learni
 ## Related Patterns
 
 - [Collaborative Learning](collaborative-learning.md) — the broader category; cooperative learning is its most structured and best-evidenced form
-- [Discussion-Based Learning](discussion-based-learning.md) — shares the mechanism of peer explanation, but at whole-class scale without built-in individual accountability
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — shares the mechanism of peer explanation, but at whole-class scale without built-in individual accountability
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — complementary: peer coaching within cooperative teams can enact the coaching and articulation phases
+- [Nine types of positive interdependence teachers can structure into cooperative activities](../elements/nine-types-positive-interdependence.md)
 
 ## Examples
 
@@ -145,6 +152,10 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Jigsaw](../strategies/jigsaw.md)
 - [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](../elements/pigelleto-summer-school-physics.md)
 - [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](../designs/full-immersion-lecture-lab-day-structure.md)
+- [Cooperative Classroom Activities](../strategies/cooperative_classroom_activities.md)
+- [Cooperative Learning](../strategies/cooperative-learning.md)
+- [Encourage Cooperation](../strategies/encourage_cooperation.md)
+- [Adopt and adapt parts of several cooperative learning models to fit your teaching style and situation](../strategies/adopt-and-adapt-multiple-cl-models.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
@@ -154,6 +165,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - Mazur, E. (1997). *Peer instruction: A user's manual*. Prentice Hall.
 - Rood, M. E. (1998). Cooperative Learning Staff Development. Final Report. Fiscal Year 1997-98. Luzerne County Community College. https://eric.ed.gov/?id=ED427216
 - Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it
+- Kluge, David. (1999). A Brief Introduction to Cooperative Learning. https://eric.ed.gov/?id=ED437840
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above; the earlier body is kept verbatim below.
 
@@ -322,7 +334,7 @@ The authors organize laboratory work so that "cooperative learning is implemente
 ## Related Principles
 
 - [Cooperative Learning](../principles/cooperative-learning.md)
-- [Engage students with paradoxes and puzzles before presenting theory](../principles/paradox-puzzle-before-theory-lecture.md)
+- [Engage students with paradoxes and puzzles before presenting theory](../principles/active-learning.md)
 
 ## Examples
 
@@ -331,4 +343,55 @@ The authors organize laboratory work so that "cooperative learning is implemente
 
 ## Key Sources
 - Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it
+-->
+
+<!-- merged 2026-10-15 from patterns/nine-key-elements-cooperative-lesson ("Nine key elements structuring a cooperative lesson"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Nine key elements structuring a cooperative lesson
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 review, 2 design), `q1`–`q2` · 0 of 4 report an effect size · 3 claims rest on one study
+
+## Description
+The chapter enumerates the key elements of a cooperative lesson: positive interdependence (with goal, resource, reward, identity, role, and outside enemy variants), team formation, accountability, social skills, structures and structuring, distributed leadership, group autonomy, group processing, and face-to-face promotive interaction. Positive interdependence is "structuring group work so that in order for a group to succeed, all members in the group must meet their individual goals." Structures are "generic, content-free procedures that can be used for any subject at any age or proficiency level."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Members must be in very close physical proximity, face to face, for cooperative learning to be effective.
+- Social skills, including the language and behavior needed to work together, often need to be explicitly taught.
+- All group members should have a turn as group leader, and groups should first work to solve problems unaided.
+#### Constraints
+- 
+
+### Target Learners
+- students in language classes working in groups of two to four
+
+### Target Goals
+- cooperative completion of group tasks
+- individual accountability for learning
+- social skills for working together
+
+### Claims
+
+- [Heterogeneous Teams More Benefits Than Homogeneous](../claims/heterogeneous-teams-more-benefits-than-homogeneous.md) [+M]
+- [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](../claims/cooperative-learning-language-class-outcomes.md) [+W]
+- [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+M]
+- [Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment](../claims/student-team-formation-priorities-survey.md) [~W]
+
+## Related Patterns
+
+- [Nine types of positive interdependence teachers can structure into cooperative activities](../elements/nine-types-positive-interdependence.md)
+
+## Examples
+
+- [Cooperative Classroom Activities](../strategies/cooperative_classroom_activities.md)
+- [Cooperative Learning](../strategies/cooperative-learning.md)
+- [Cooperative Learning](../elements/cooperative-learning.md)
+- [Encourage Cooperation](../strategies/encourage_cooperation.md)
+- [Adopt and adapt parts of several cooperative learning models to fit your teaching style and situation](../strategies/adopt-and-adapt-multiple-cl-models.md)
+
+## Key Sources
+- Kluge, David. (1999). A Brief Introduction to Cooperative Learning. https://eric.ed.gov/?id=ED437840
 -->

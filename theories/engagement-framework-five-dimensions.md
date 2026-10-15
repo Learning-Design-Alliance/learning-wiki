@@ -47,7 +47,7 @@ The Engagement Framework addresses how students engage, offering "five distincti
 
 ## Examples
 
-- [Design engagement into online units through tasks that are public, social, and student-directed, releasing responsibility and ownership of learning to students](../principles/design-public-social-student-directed-tasks.md)
+- [Design engagement into online units through tasks that are public, social, and student-directed, releasing responsibility and ownership of learning to students](../principles/autonomy.md)
 
 ## Key Sources
 - Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8

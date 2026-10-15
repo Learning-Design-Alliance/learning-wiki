@@ -81,7 +81,7 @@ Visual schedules convert a verbal, memory-dependent sequence into a persistent e
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — externalizing procedural structure mirrors how scaffolds make expert routines visible
-- [Cognitive Load Reduction](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md) — the schedule externalizes sequence information that would otherwise occupy working memory
+- [Cognitive Load Reduction](../principles/cognitive-load-theory.md) — the schedule externalizes sequence information that would otherwise occupy working memory
 
 ## Tools
 - **Boardmaker** (Tobii Dynavox) — the standard symbol library for special-education visual supports

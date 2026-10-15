@@ -65,7 +65,7 @@ Discussion improves achievement when it is structured around a clear goal and re
 - [Case Studies](case-studies.md) — a common content anchor that gives discussion a shared, concrete referent
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the core pattern this element composes
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the core pattern this element composes
 - [Case-Based Learning](../patterns/case-based-learning.md) — discussion as the primary processing activity for cases
 - [Community of Inquiry](../principles/community-of-inquiry.md) — discussion as the vehicle for cognitive and social presence in online learning
 - [Debate](../patterns/debate.md) — a formalized discussion structure with assigned positions

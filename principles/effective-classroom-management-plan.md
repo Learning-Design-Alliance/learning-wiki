@@ -1,7 +1,7 @@
 ---
 type: principle
 id: effective-classroom-management-plan
-aliases: [natural-and-logical-consequences]
+aliases: [natural-and-logical-consequences, use-universal-classroom-management-approaches, reward-punishment-useful-despite-theory-rejection]
 title: Effective Classroom Management Plan Criteria
 description: "For a group of learners in a shared space, a classroom-wide plan put in place before problems arise and kept consistently (relationships, taught rules and routines, unobtrusive redirection, a short consistent response to persistent misbehavior, self-control taught with external controls planned to fade, and corrections checked for cultural meaning) is expected to reduce disruption and raise engaged time more than improvised practice; one meta-analysis tests planned universal management against usual practice and a K–5 practice guide rates taught behavior expectations as strongly supported, but no claim tests the six-part plan or any of its traditions."
 canonical: true
@@ -9,12 +9,21 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-15
+sources:
+  - id: oliver-2011
+    resource: "https://www.sree.org"
+    title: "Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org"
+    author: "Oliver, R. M., Wehby, J. H., & Reschly, D. J"
+  - id: qais-faryadi-2007
+    resource: "http://www.juliantrubin.com/bigten/skinnerbox.html"
+    title: "Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html"
+    author: Qais Faryadi
 ---
 
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (17 for, 7 mixed, 1 against) · 31 studies (11 quant-synthesis, 9 review, 6 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 5 of 31 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (17 for, 7 mixed, 2 against) · 33 studies (13 quant-synthesis, 9 review, 6 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +137,7 @@ Read against the model on 2026-10-15 and left here because none can carry a step
 - [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](../claims/pbis-suspensions-decreased-41-percent.md) [+W] — a single-school before-after count with no comparison school; bears on a schoolwide system a brief may name, but cannot attribute the drop to it.
 - [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels](../claims/contingency-reinforcement-raises-achievement.md) [+W] — a 1970 narrative survey with no effect sizes; the behavior-analytic tradition's case, on achievement rather than classroom behavior, and no comparison with other traditions.
 - [A non-peer-reviewed web essay asserts that behaviorist reinforcement methods are very effective in creating positive behavior](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand assertion with no sample; listed because the earlier page linked reinforcement theory.
+- [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](../claims/feedback-most-effective-at-task-and-process-levels.md) [-W]
 
 ## Objective and learner-valued goal
 
@@ -174,6 +184,8 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 - Weinstein, C. S., Tomlinson-Clarke, S., & Curran, M. (2004). Toward a conception of culturally responsive classroom management. *Journal of Teacher Education, 55*(1), 25-38. [doi:10.1177/0022487103259812](https://doi.org/10.1177/0022487103259812)
 - Kohn, A. (2006). *Beyond discipline: From compliance to community*. Association for Supervision and Curriculum Development.
 - Arduini-Van Hoose, N. (2020). Responding to student misbehavior. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org. [doi:10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
+- Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -295,4 +307,82 @@ A student who fails to listen faces a consequence (missing important information
 - Weinstein, C. S., Tomlinson-Clarke, S., & Curran, M. (2004). Toward a conception of culturally responsive classroom management. *Journal of Teacher Education, 55*(1), 25-38. [doi:10.1177/0022487103259812](https://doi.org/10.1177/0022487103259812)
 - Kohn, A. (2006). *Beyond discipline: From compliance to community*. Association for Supervision and Curriculum Development.
 - Arduini-Van Hoose, N. (2020). Responding to student misbehavior. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-15 from principles/use-universal-classroom-management-approaches ("Teachers should use universal, whole-classroom management approaches to reduce problem behavior and enable instruction"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Teachers should use universal, whole-classroom management approaches to reduce problem behavior and enable instruction
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article recommends that teachers adopt universal, multi-component classroom management programs implemented with the entire class, because such programs produce a significant positive effect on decreasing problem behavior. The authors state that "Teachers who use universal classroom management approaches can expect to experience improvements in student behavior, improvements that establish the context for effective instructional practices to occur." The recommendation rests on the meta-analytic mean effect size of .71 or .80.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Interventions must be delivered universally to all students in the classroom, not as pull-out or small-group interventions
+#### Constraints
+- The review notes limitations of study features reported, such as treatment fidelity
+
+### Target Learners
+- School-aged children in kindergarten through grade 12 in general or special education classrooms
+
+### Target Learning Objectives
+- Reducing disruptive, aggressive, and inappropriate behavior to support academic instruction
+
+### Claims
+
+- [Universal Classroom Management Reduces Problem Behavior](../claims/universal-classroom-management-reduces-problem-behavior.md) [+M]
+- [Comp No Different From Other Classroom Management](../claims/comp-no-different-from-other-classroom-management.md) [~M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org. [doi:10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
+-->
+
+<!-- merged 2026-10-15 from principles/reward-punishment-useful-despite-theory-rejection ("Use reward and punishment selectively in the classroom while rejecting behaviorism as a comprehensive theory"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use reward and punishment selectively in the classroom while rejecting behaviorism as a comprehensive theory
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 3 studies (2 quant-synthesis, 1 review), `q1`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+
+## Description
+The review concludes that although behaviorism should not be accepted as a comprehensive theory, its reinforcement concepts remain practically useful. It states that "one can not deny its usefulness in the classroom, notably, the concept of reward and punishment," and that behaviorism's "ideas and research must be given some due consideration."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Acknowledgment that environmental effects on human behavior cannot be totally rejected
+#### Constraints
+- The review holds that accepting behaviorism as a comprehensive theory should be discarded
+
+### Target Learners
+- classroom learners
+
+### Target Learning Objectives
+- shaping positive learning behavior through reinforcement
+
+### Claims
+
+- [Behaviorist Reinforcement Effective Positive Behavior](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W]
+- [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](../claims/feedback-most-effective-at-task-and-process-levels.md) [-W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html
 -->

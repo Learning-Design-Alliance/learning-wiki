@@ -59,7 +59,7 @@ Checklists convert fuzzy expectations into discrete, observable criteria, which 
 - [Assessment for Learning](../principles/assessment-for-learning.md) — checklists enact this principle by making criteria visible *before* performance, so assessment information shapes the work rather than only judging it afterward
 - [Chunking](../principles/chunking.md) — a checklist decomposes a complex task into discrete, checkable units, reducing the working-memory burden of tracking many requirements at once [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Clear Structure](../principles/clear-structure.md) — explicit criteria create shared expectations between educator and learner, removing ambiguity about what counts as done and done well
-- [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) — externalizing steps and standards offloads working memory, freeing capacity for the substantive work itself
+- [Cognitive Load Reduction](../principles/cognitive-load-management.md) — externalizing steps and standards offloads working memory, freeing capacity for the substantive work itself
 - [Competency-Based Assessment](../principles/competency-based-assessment.md) — criterion-by-criterion tracking maps directly onto competency attainment, making checklists a natural progress-documentation tool
 
 ### Personalization

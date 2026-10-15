@@ -114,7 +114,7 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Among AI-exposed students, open collaboration predicted higher aggregate offloading, which was associated with lower Week 8 higher-order thinking (indirect estimate −0.34)](../claims/offloading-mediation-lower-independent-hot.md) [-W]
 
 ## Related Patterns
-- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md)
 
 ## Key Sources
 - Johnson, D. W., Johnson, R. T., & Smith, K. A. (2014). Cooperative learning. *Journal on Excellence in College Teaching, 25*(3-4), 85-118.

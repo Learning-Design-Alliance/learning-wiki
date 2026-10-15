@@ -1,7 +1,7 @@
 ---
 type: principle
 id: scaffolding-and-fading
-aliases: [scaffolding-fading, cognitive-apprenticeship]
+aliases: [scaffolding-fading, cognitive-apprenticeship, adult-help-promotes-active-agents-learning, balance-challenge-and-support-library-instruction]
 title: Scaffolding and Fading
 description: "Contingent support that is withdrawn as the learner shows unaided success may improve later independent performance on a task the learner cannot yet do alone, qualified by the task-specific starting response, how support ends, the setting and the outcome horizon."
 canonical: true
@@ -30,12 +30,24 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2016.1259624"
     title: "Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. Journal of the Learning Sciences, 26(1), 131-166"
     author: "Kupers, E., van Dijk, M., & van Geert, P"
+  - id: costley-2012
+    resource: "https://eric.ed.gov/?id=ED529565"
+    title: "Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565"
+    author: Costley, K. C
+  - id: carder-1996
+    resource: "https://eric.ed.gov/?id=ED406998"
+    title: "Carder, Linda; Pracht, Carl; Willingham, J. Robert. (1996). Using Situational Leadership to Reach the Whole Population. https://eric.ed.gov/?id=ED406998"
+    author: Carder, Linda; Pracht, Carl; Willingham, J. Robert
+  - id: obikwelu-2013
+    resource: "https://www.ejel.org"
+    title: "Obikwelu, C, Read, J, and Sim, G. (2013). Children’s Problem-Solving in Serious Games: The “Fine-Tuning System (FTS)” Elaborated. The Electronic Journal of e-Learning Volume 11 Issue 1. https://www.ejel.org"
+    author: Obikwelu, C, Read, J, and Sim, G
 ---
 
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (14 for, 11 mixed, 1 against) · 29 studies (11 causal, 5 review, 5 theoretical, 3 qualitative, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 19 claims rest on one study
+> **Evidence** · 29 claims (15 for, 12 mixed, 2 against) · 32 studies (12 causal, 6 review, 6 theoretical, 3 qualitative, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 3 of 32 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -103,6 +115,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Perceived task load and germane load did not differ between the contingent tutor and either baseline](../claims/perceived-load-unchanged-under-contingent-tutor.md) [~W] — attached 2026-10-10 from Hou et al. (2026), which proposed "Preserved metacognitive demand: hold what the learner must decide constant and let carried load vary with demonstrated need"; tests this page's relationship.
 - [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+W] — attached 2026-10-13 from Renkl et al. (2004), which proposed "Fade out worked solution steps successively to support the transition from example study to problem solving"; tests this page's relationship.
 - [Fading is associated with fewer unproductive learning events, which the authors link to better learning outcomes](../claims/fading-fewer-unproductive-learning-events.md) [+W] — attached 2026-10-13 from Renkl et al. (2004), which proposed "Fade out worked solution steps successively to support the transition from example study to problem solving".
+- [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](../claims/equifinality-metacognitive-trajectories.md) [-W]
+- [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](../claims/koku-qualitative-acceptability-themes.md) [+W]
+- [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -136,6 +151,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Guided Practice](guided-practice.md) — often provides the instructional context in which fading happens
 - [Procedural Learning](procedural-learning.md) — many procedural tasks depend on fading from modeled or prompted performance to independence
 - [Observation/Shadowing](observationshadowing.md) — observation often provides the first exposure to expert practice before coached participation
+- [Assess children's cognitive development both when performing alone and when assisted](multiple-methods-of-assessment.md)
 
 ## Examples
 
@@ -144,6 +160,11 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - **Faded Worked Examples** — A sequence where the first problem is fully worked, the second is half-worked, and the third is a full problem to solve.
 - [Provide worked examples during seatwork and homework to increase exposure to problem solving and reduce learning time](../strategies/worked-examples-seatwork-homework-problem-solving.md)
 - [Design AI educational systems that fade support and require learner justification to preserve independent problem solving](../strategies/fade-ai-support-require-justification.md)
+- [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
+- [Teach Self-Regulation Skills](../strategies/teach-self-regulation-strategies.md)
+- [When uncertain about a learner's level, begin with high direction and support and keep reassessing](../strategies/start-high-support-when-in-doubt.md)
+- [Regulate fading rate per learner, distinguishing perceived fading rate (teacher-set) from actual fading rate (child-set)](../strategies/perceived-versus-actual-fading-rate-strategy.md)
+- [Use hands-on practice and immediate feedback in bibliographic instruction for ESL students](../strategies/hands-on-instruction-esl-students.md)
 
 ## Key Sources
 - Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)
@@ -154,6 +175,9 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*. [doi:10.5840/thinking19888129](https://doi.org/10.5840/thinking19888129)
 - Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. *American Educator, 15*(3), 6–11, 38–46.
+- Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565
+- Carder, Linda; Pracht, Carl; Willingham, J. Robert. (1996). Using Situational Leadership to Reach the Whole Population. https://eric.ed.gov/?id=ED406998
+- Obikwelu, C, Read, J, and Sim, G. (2013). Children’s Problem-Solving in Serious Games: The “Fine-Tuning System (FTS)” Elaborated. The Electronic Journal of e-Learning Volume 11 Issue 1. https://www.ejel.org
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The former body, kept verbatim:
 
@@ -257,7 +281,7 @@ Scaffolding and fading matter when learners are expected to perform work they ca
 
 **[Fading Scaffolding](../elements/fading-scaffolding.md)** — Hints, prompts, or partial steps become shorter, less specific, or less frequent as competence grows.
 
-**[Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md)** — Learners move from activation and demonstration toward application with progressively less support.
+**[Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md)** — Learners move from activation and demonstration toward application with progressively less support.
 
 **Worked example to independent problem sequence** — Learners first study or complete a heavily supported version, then solve increasingly less scaffolded problems on their own.
 
@@ -334,4 +358,172 @@ Cognitive apprenticeship is most valuable where the important knowledge is embed
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*.
 - Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. *American Educator, 15*(3), 6–11, 38–46.
+-->
+
+<!-- merged 2026-10-15 from principles/adult-help-promotes-active-agents-learning ("Adult help should promote children as active agents of their own learning, not only subject-matter assimilation"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Adult help should promote children as active agents of their own learning, not only subject-matter assimilation
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Citing Zaretskii (2009), the article states that adult help given to a child working on learning difficulties, whether from a teacher, psychologist, or parent, serves a dual purpose. It can support assimilation of a particular academic subject and also "promote other processes essential to developing children as active agents of their own learning." This frames adult assistance as building learner agency alongside immediate academic gains.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Adult assistance from a teacher, psychologist, or parent during work on learning difficulties
+#### Constraints
+- 
+
+### Target Learners
+- children receiving adult help on learning difficulties
+
+### Target Learning Objectives
+- assimilating academic subject matter
+- becoming active agents of their own learning
+
+### Claims
+- 
+
+## Related Principles
+
+- [Assess children's cognitive development both when performing alone and when assisted](multiple-methods-of-assessment.md)
+
+## Examples
+
+- [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
+- [Teach Self-Regulation Skills](../strategies/teach-self-regulation-strategies.md)
+
+## Key Sources
+- Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565
+-->
+
+<!-- merged 2026-10-15 from patterns/four-quadrant-library-learner-progression ("Four-quadrant progression from unready learner to independent library user with matching instructor behavior"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Four-quadrant progression from unready learner to independent library user with matching instructor behavior
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The paper organizes library learners into four developmental quadrants, each calling for a different instructor stance. Quadrant one students are unready and unable and receive high support and high direction, often more telling than teaching; quadrant two students, the "average freshman", receive high direction and support with more teaching and critical-thinking assignments; quadrant three students receive low direction and medium support as the librarian shifts to consultant; quadrant four independent users receive low direction and support, mainly through signage. The charted pattern pairs student characteristics with supportive instructor behavior at each level.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Ongoing assessment of the student's developmental level so the instructional stance can move along with the learner
+#### Constraints
+- Framed for academic library instruction contexts
+
+### Target Learners
+- academic library users from inexperienced freshmen to faculty and independent researchers
+
+### Target Goals
+- progression toward independent library use and transfer of research skills across disciplines
+
+### Claims
+
+- [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](../claims/challenge-support-imbalance-effects-novice-learners.md) [+W]
+- [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](../claims/equifinality-metacognitive-trajectories.md) [-W]
+
+## Related Patterns
+- 
+
+## Examples
+
+- [When uncertain about a learner's level, begin with high direction and support and keep reassessing](../strategies/start-high-support-when-in-doubt.md)
+
+## Key Sources
+- Carder, Linda; Pracht, Carl; Willingham, J. Robert. (1996). Using Situational Leadership to Reach the Whole Population. https://eric.ed.gov/?id=ED406998
+-->
+
+<!-- merged 2026-10-15 from patterns/fading-based-scaffolding-approaches-serious-games ("Three fading-based scaffolding approaches: supportive, intrinsic and reflective scaffolding"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Three fading-based scaffolding approaches: supportive, intrinsic and reflective scaffolding
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 5 studies (3 review, 2 causal), `q1`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+
+## Description
+The paper enumerates three scaffolding approaches based on fading, drawn from Jackson et al. (1998). "As supportive scaffolding fades, the task is the same as it was before, but the goal is for the learner to have internalized the procedures and concepts which had been scaffolded". In intrinsic scaffolding the task changes as the scaffold fades, gradually introducing underlying complexity. Reflective scaffolding makes reflection explicit by eliciting articulation, for example player-character conversation with an NPC, faded by gradually disabling conversations from most to least helpful.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Fading decisions must respect whether the task, the associations, or the reflection support is what fades
+#### Constraints
+- The paper notes it may be hard for the child to make fading decisions (citing Jackson et al., 1998)
+
+### Target Learners
+- Children playing serious games in classrooms
+
+### Target Goals
+- Internalizing scaffolded procedures and concepts
+- Progressing from simpler to more complex or abstract task variations
+- Explicit reflection on tasks such as planning, predicting and evaluating
+
+### Claims
+
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
+- [Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding](../claims/blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) [~W]
+- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](../claims/expertise-reversal-effect.md) [~W]
+
+## Related Patterns
+
+- [Four methods of reflection on performance: imitation, replay, abstracted replay, and spatial reification](../patterns/cognitive-apprenticeship.md)
+
+## Examples
+
+- [Regulate fading rate per learner, distinguishing perceived fading rate (teacher-set) from actual fading rate (child-set)](../strategies/perceived-versus-actual-fading-rate-strategy.md)
+
+## Key Sources
+- Obikwelu, C, Read, J, and Sim, G. (2013). Children’s Problem-Solving in Serious Games: The “Fine-Tuning System (FTS)” Elaborated. The Electronic Journal of e-Learning Volume 11 Issue 1. https://www.ejel.org
+-->
+
+<!-- merged 2026-10-15 from principles/balance-challenge-and-support-library-instruction ("Balance challenge and support when instructing inexperienced library users"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Balance challenge and support when instructing inexperienced library users
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 causal, 1 review, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+
+## Description
+The paper recommends that librarians provide support while consistently presenting small challenges, because both extremes harm progress: over-challenged students give up, and over-supported students stay dependent. It states "It requires skill on the instructor's part to provide the correct balance of challenge and support at this level." The balance is achieved through individualized instruction, a safe environment for asking questions, and hands-on experience.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instructor skill in assessing the student's current level and adjusting support and challenge accordingly
+#### Constraints
+- Described specifically for quadrant-one (unready and unable) learners in individual library instruction
+
+### Target Learners
+- inexperienced college library users, including adult learners and special-needs students
+
+### Target Learning Objectives
+- independent use of library resources and progression toward learner autonomy
+
+### Claims
+
+- [Challenge Support Imbalance Effects Novice Learners](../claims/challenge-support-imbalance-effects-novice-learners.md) [+M]
+- [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](../claims/koku-qualitative-acceptability-themes.md) [+W]
+- [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Four-quadrant progression from unready learner to independent library user with matching instructor behavior](scaffolding-and-fading.md)
+- [When uncertain about a learner's level, begin with high direction and support and keep reassessing](../strategies/start-high-support-when-in-doubt.md)
+- [Use hands-on practice and immediate feedback in bibliographic instruction for ESL students](../strategies/hands-on-instruction-esl-students.md)
+
+## Key Sources
+- Carder, Linda; Pracht, Carl; Willingham, J. Robert. (1996). Using Situational Leadership to Reach the Whole Population. https://eric.ed.gov/?id=ED406998
 -->

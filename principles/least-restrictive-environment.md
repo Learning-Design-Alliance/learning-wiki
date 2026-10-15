@@ -1,6 +1,7 @@
 ---
 type: principle
 id: least-restrictive-environment
+aliases: [special-classrooms-within-regular-schools-for-integration, gather-comprehensive-information-not-solely-categorical-eligibility]
 title: Least Restrictive Environment
 description: "For a student with a disability, bringing supports into the general class and school life and moving the student to a separate setting only for a documented need the supported class cannot meet, decided case by case by a team and reviewed against data, is expected to give learning no worse than separate placement and fuller participation; one review of non-randomised studies finds no average difference between inclusive and segregated placement, and no claim tests the case-by-case decision itself."
 canonical: true
@@ -8,12 +9,21 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-15
+sources:
+  - id: special-education-facilities-for-emotionally-disturbed-children-1968
+    resource: "https://eric.ed.gov/?id=ED085907"
+    title: "Special Education Facilities for Emotionally Disturbed Children. (1968). Ontario Department of Education. https://eric.ed.gov/?id=ED085907"
+    author: Special Education Facilities for Emotionally Disturbed Children
+  - id: dowdy-2007
+    resource: "https://eric.ed.gov/?id=EJ896649"
+    title: "Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649"
+    author: "Dowdy, E., & Kamphaus, R. W"
 ---
 
 # Least Restrictive Environment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (7 for, 10 mixed) · 12 studies (3 causal, 3 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (11 for, 11 mixed) · 13 studies (4 associational, 3 causal, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +137,11 @@ Every claim the earlier page cited is used in the model above. These are further
 - [Colorado's financial incentives for community alternatives and an interagency agreement were followed by a decline in residential institutional placements](../claims/colorado-deinstitutionalization-incentives-declined-placements.md) [+W]: a state policy case description (1983); bears on the out-of-district row at the level of state policy, not of a student's placement.
 - [87% of TK classrooms were inclusive of students with disabilities, and most LEAs provided adaptations and additional staff, though rising special education needs strained resources](../claims/tk-inclusion-students-with-disabilities.md) [~W]: a statewide survey of California transitional kindergarten; describes how common inclusive classes and in-class supports are, not their effect.
 - The learner-variable page [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) gathers claims about learners with learning disabilities, the largest group placed under this rule.
+- [Person Oriented Classification Best Predicts Gpa](../claims/person-oriented-classification-best-predicts-gpa.md) [+M]
+- [Dimensional Person Oriented Beat Categorical Reading Prediction](../claims/dimensional-person-oriented-beat-categorical-reading-prediction.md) [+M]
+- [Dimensional classification was superior for predicting Opportunity Room visits and suspensions](../claims/dimensional-method-superior-behavioral-outcomes.md) [+W]
+- [No classification method was significantly superior for predicting mathematics achievement](../claims/no-method-superior-predicting-math-achievement.md) [~W]
+- [Person-oriented classification predicted days absent significantly better than categorical, with no method differences for days tardy](../claims/person-oriented-predicts-absence-better-than-categorical.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -154,6 +169,8 @@ Placement, the instruction delivered in each setting, achievement, adjustment an
 ## Key Sources
 - Arduini-Van Hoose, N. (2020). Teaching students with disabilities. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - West, J., et al. (1999). Transition planning under IDEA: Implications for practice. In *Special education law and practice*.
+- Special Education Facilities for Emotionally Disturbed Children. (1968). Ontario Department of Education. https://eric.ed.gov/?id=ED085907
+- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -205,4 +222,83 @@ LRE placement typically comes with a formal **individual educational plan (IEP)*
 ## Key Sources
 - Arduini-Van Hoose, N. (2020). Teaching students with disabilities. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - West, J., et al. (1999). Transition planning under IDEA: Implications for practice. In *Special education law and practice*.
+-->
+
+<!-- merged 2026-10-15 from principles/special-classrooms-within-regular-schools-for-integration ("Locate special classrooms within regular schools near support spaces to enable integration"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Locate special classrooms within regular schools near support spaces to enable integration
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The booklet recommends that special classrooms not be isolated: "Classrooms for emotionally disturbed children belong in schools attended by normal children so that the emotionally disturbed child integrates with a regular class as his behaviour improves." Within the building, the special classroom should sit close to an outside entrance and near the gymnasium, nurse's room, and principal's office, reflecting the areas the children use frequently.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Early planning: special classrooms should be an integral part of the plans from the beginning of the building program
+#### Constraints
+- The booklet covers design only and omits Ontario Department of Education regulations, which planners must obtain separately
+
+### Target Learners
+- emotionally disturbed children in regular schools
+
+### Target Learning Objectives
+- progressive integration into regular classes as behaviour improves
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Special Education Facilities for Emotionally Disturbed Children. (1968). Ontario Department of Education. https://eric.ed.gov/?id=ED085907
+-->
+
+<!-- merged 2026-10-15 from principles/gather-comprehensive-information-not-solely-categorical-eligibility ("Gather comprehensive information about students' functioning rather than relying solely on categorical placement eligibility"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Gather comprehensive information about students' functioning rather than relying solely on categorical placement eligibility
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+
+## Description
+The article recommends that school psychologists gather comprehensive information regarding students' functioning, an approach it says is more consistent with dimensional and person-oriented methodologies. Relying solely on placement eligibility information obtained for categorical classification "might prove insufficient and further the 'wait to fail' treatment approach." The recommendation rests on the study's finding that categorical DSM-based methods were not superior for predicting any educational outcome.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Access to broad measures of student emotional and behavioral functioning, such as teacher rating scales yielding dimensional scores
+#### Constraints
+- The article notes the predictive ability of person-oriented and dimensional methods still warrants further investigation, and current classification models' ability to predict later school outcomes is questionable
+
+### Target Learners
+- school-age children, particularly those experiencing functional impairment or risk without special education placement
+
+### Target Learning Objectives
+- early identification of students at risk so prevention and early intervention services can be provided before significant impairment
+
+### Claims
+
+- [Person Oriented Classification Best Predicts Gpa](../claims/person-oriented-classification-best-predicts-gpa.md) [+M]
+- [Dimensional Person Oriented Beat Categorical Reading Prediction](../claims/dimensional-person-oriented-beat-categorical-reading-prediction.md) [+M]
+- [Dimensional classification was superior for predicting Opportunity Room visits and suspensions](../claims/dimensional-method-superior-behavioral-outcomes.md) [+W]
+- [No classification method was significantly superior for predicting mathematics achievement](../claims/no-method-superior-predicting-math-achievement.md) [~W]
+- [Person-oriented classification predicted days absent significantly better than categorical, with no method differences for days tardy](../claims/person-oriented-predicts-absence-better-than-categorical.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
 -->

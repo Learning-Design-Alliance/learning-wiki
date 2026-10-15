@@ -64,7 +64,7 @@ Explicit strategy instruction works because novices lack the schemas to recogniz
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a canonical instance of explicit strategy instruction with faded group practice
 
 ## Examples
-- **Cognitively Guided Instruction (CGI) in mathematics** — teachers elicit and build on children's informal strategies, making strategy repertoires explicit classroom content ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
+- **Cognitively Guided Instruction (CGI) in mathematics** — teachers elicit and build on children's informal strategies, making strategy repertoires explicit classroom content ([CGI for Math](../principles/responsive-teaching.md)).
 - **Polya-inspired heuristics in physics problem-solving courses** (e.g., Heller & Heller's University of Minnesota cooperative problem-solving curriculum) — explicit strategy framing ("describe, plan, implement, check") taught and practiced across varied contexts.
 - **Reciprocal Teaching (Palincsar & Brown)** — four reading-comprehension strategies explicitly taught, modeled, then rotated among students with fading support.
 

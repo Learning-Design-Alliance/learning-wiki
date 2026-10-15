@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 1 claim (1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
-Teacher As Learner positions the instructor as an active learner of content, of student thinking, or of their own practice. It takes concrete forms: teachers work through the same problems students will solve, study student work and misconceptions systematically (as in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)), rehearse new instructional moves with peer feedback, or learn an unfamiliar skill themselves to experience the learner's perspective firsthand. The strategy treats teaching expertise as something continuously rebuilt through learning, not fixed at certification.
+Teacher As Learner positions the instructor as an active learner of content, of student thinking, or of their own practice. It takes concrete forms: teachers work through the same problems students will solve, study student work and misconceptions systematically (as in [Cognitively Guided Instruction](../principles/responsive-teaching.md)), rehearse new instructional moves with peer feedback, or learn an unfamiliar skill themselves to experience the learner's perspective firsthand. The strategy treats teaching expertise as something continuously rebuilt through learning, not fixed at certification.
 
 ## Design Implications
 
@@ -66,7 +66,7 @@ Professional development that engages teachers as active learners of the actual 
 - [Professional Learning Communities](https://en.wikipedia.org/wiki/Professional_learning_community) — the ongoing group structure that sustains the stance
 
 ## Examples
-- **Cognitively Guided Instruction (CGI)** — elementary teachers study how children's informal math thinking develops, then use that knowledge to shape instruction; teachers' expectations of student capability shift measurably ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
+- **Cognitively Guided Instruction (CGI)** — elementary teachers study how children's informal math thinking develops, then use that knowledge to shape instruction; teachers' expectations of student capability shift measurably ([CGI for Math](../principles/responsive-teaching.md)).
 - **Japanese Lesson Study (jugyō kenkyū)** — teams collaboratively plan, observe, and refine a single research lesson; documented as central to Japan's approach to improving instruction ([Lewis & Tsuchida, 1998](https://doi.org/10.1177/002205749818000106)).
 - **[NCTM](https://www.nctm.org) "Problems of the Week" and teacher study groups** — teachers work rich problems together before assigning them, surfacing multiple solution paths to anticipate in class.
 - **Teacher language-learning immersion** — world-language teachers enrolled as beginners in an unfamiliar language report recalibrated patience and clearer modeling of beginner strategies.

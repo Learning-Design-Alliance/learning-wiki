@@ -136,7 +136,7 @@ This pattern is scoped to cumulative units with a definable check. Performances 
 - [Mastery learning improves students' attitudes toward the instruction and toward the subject](../claims/mastery-learning-improves-attitudes-toward-instruction.md) [+M]
 
 ## Related Patterns
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning.md)
 
 ## Examples
 - A unit where learners receive targeted reteaching and then reassess until they meet the rubric threshold.
@@ -239,7 +239,7 @@ A lesson-level instructional pattern in which "Students take frequent \"formativ
 
 ## Related Patterns
 
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning.md)
 
 ## Examples
 

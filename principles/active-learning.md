@@ -1,7 +1,7 @@
 ---
 type: principle
 id: active-learning
-aliases: [education-around-child-response]
+aliases: [education-around-child-response, paradox-puzzle-before-theory-lecture]
 title: Active Learning
 description: "For learners meeting new material in a course, class time spent generating, explaining or applying the content with feedback, rather than only listening, is expected to raise course-end exam and concept-inventory scores, qualified by guidance for novices, the kind of engagement and what else changed with the format."
 canonical: true
@@ -22,12 +22,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED422199"
     title: "Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199"
     author: Biesta, Gert J. J
+  - id: benedetti-r-2011
+    resource: "https://www.sif.it"
+    title: "Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it"
+    author: Benedetti R., Mariotti E., Montalbano V., Porri A
 ---
 
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (15 for, 17 mixed, 1 against) · 31 studies (8 causal, 6 associational, 5 quant-synthesis, 5 review, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 5 of 31 report an effect size · 26 claims rest on one study
+> **Evidence** · 34 claims (16 for, 17 mixed, 1 against) · 32 studies (8 causal, 6 associational, 5 quant-synthesis, 5 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 5 of 32 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -107,6 +111,7 @@ Claims this page cited before it was rewritten as a conditional model, and two n
 - [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](../claims/meanings-grow-out-of-social-intercourse.md) [+W]
 - [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](../claims/method-of-thought-cannot-be-transferred.md) [+W]
 - [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](../claims/acquiring-changes-the-thing-acquired.md) [+W]
+- [Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning](../claims/pigelleto-applications-doubled-positions.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -129,17 +134,24 @@ A course-end exam advantage, a narrowed achievement gap, durable retention, tran
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)
-- [Explaining Their Thinking](self-explanation.md)
+- [Explaining Their Thinking](cognitive-activation.md)
 - [Social Learning](../theories/sociocultural-theory.md)
+- [Design laboratories to satisfy all five cooperative-learning conditions](../patterns/cooperative-learning.md)
 
 ## Examples
 - Learners solve, discuss, and compare approaches instead of only hearing a lecture.
 - A lesson pauses for prediction, retrieval, or explanation before moving on.
+- [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](../elements/pigelleto-summer-school-physics.md)
+- [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](../designs/full-immersion-lecture-lab-day-structure.md)
+- [I Notice I Wonder](../strategies/i-notice-i-wonder.md)
+- [Logic Puzzles](../strategies/logic_puzzles.md)
+- [Electricity and Circuit Tasks](../strategies/electricity_and_circuit_tasks.md)
 
 ## Key Sources
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415. [https://doi.org/10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219-243. [https://doi.org/10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199
+- Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous Description and Implications sections, verbatim.
 
@@ -169,7 +181,7 @@ The effect size for active learning in STEM is unusually large and consistent fo
 
 ### Theory
 #### Supporting
-- [Constructivism](constructivism.md)
+- [Constructivism](cognitive-activation.md)
 - [Information Processing Theory](../theories/information-processing-theory.md)
 #### Contradicting / Qualifying
 - Active learning still needs structure, modeling, and feedback to be instructionally effective.
@@ -227,4 +239,49 @@ In the reconstructed lectures Mead contrasts old education, which he argues negl
 
 ## Key Sources
 - Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199
+-->
+
+<!-- merged 2026-10-15 from principles/paradox-puzzle-before-theory-lecture ("Engage students with paradoxes and puzzles before presenting theory"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Engage students with paradoxes and puzzles before presenting theory
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+In morning lectures the school implements active learning by having students do more than listen: "We often present them a paradox or a puzzle involving the concept at issue and have them struggle towards a solution, by forcing the students to work it out without some authority's solution." Discussion and thinking occur before theory is presented or after conflicting theories have been presented, so students construct the concept themselves.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Lecturers must pose problems whose resolution is the concept to be taught, withholding the authoritative solution
+#### Constraints
+- 
+
+### Target Learners
+- high-school students in introductory physics lectures
+
+### Target Learning Objectives
+- conceptual understanding of physics topics
+- active engagement during lectures
+
+### Claims
+
+- [Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning](../claims/pigelleto-applications-doubled-positions.md) [+W]
+
+## Related Principles
+
+- [Design laboratories to satisfy all five cooperative-learning conditions](../patterns/cooperative-learning.md)
+
+## Examples
+
+- [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](../elements/pigelleto-summer-school-physics.md)
+- [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](../designs/full-immersion-lecture-lab-day-structure.md)
+- [I Notice I Wonder](../strategies/i-notice-i-wonder.md)
+- [Logic Puzzles](../strategies/logic_puzzles.md)
+- [Electricity and Circuit Tasks](../strategies/electricity_and_circuit_tasks.md)
+
+## Key Sources
+- Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it
 -->

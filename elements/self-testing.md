@@ -57,7 +57,7 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - [Self-Assessment](self-assessment.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](../patterns/flipped-classroom.md)
+- [Flipped Learning](../principles/flipped-learning.md)
 - [Traditional Lecture-Based Instruction](../patterns/traditional-lecture-based-instruction.md)
 
 ## Examples

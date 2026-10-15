@@ -66,7 +66,7 @@ Performance support shifts the instructional goal from "train everything in adva
 ## Patterns That Use This Element
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — procedural information specified for just-in-time delivery alongside learning tasks
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — scaffolding and articulation phases supported by tools that prompt expert moves
-- [Cognitive Load Reduction](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md) — externalizing procedures is a primary load-reduction move for complex task environments
+- [Cognitive Load Reduction](../principles/cognitive-load-theory.md) — externalizing procedures is a primary load-reduction move for complex task environments
 
 ## Examples
 

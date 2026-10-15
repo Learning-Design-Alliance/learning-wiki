@@ -40,7 +40,7 @@ Teacher presence is one of three legs of the [Community of Inquiry](../principle
 - **Modeled sessions:** instructor uses [Demonstration](../elements/demonstration.md) and [Modeling](../elements/modeling.md) with live narration, enacting [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) in real time
 - **Interactive segments:** [Class Discussion](../elements/class-discussion.md), chat-storms, and polls interleaved every 10–15 minutes
 - **Coaching formats:** live [Coaching](../elements/coaching.md) or office-hours blocks where the instructor works problems with individuals or small groups
-- **Flipped pairing:** content delivery moved to pre-work so synchronous time is spent on interaction ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Flipped pairing:** content delivery moved to pre-work so synchronous time is spent on interaction ([Flipped Classroom](../principles/flipped-learning.md))
 
 ### Target Learners
 - Fully online learners at risk of isolation — first-year students, part-time and adult learners, and students new to online study [+M]
@@ -68,7 +68,7 @@ Teacher presence is one of three legs of the [Community of Inquiry](../principle
 
 ## Examples
 - **Zoom-based seminar courses** — instructor opens camera-on, runs a two-minute check-in, alternates mini-lectures with breakout discussions, and closes by naming student contributions.
-- **[Flipped Classroom](../patterns/flipped-classroom.md) online delivery** — recorded content before class; synchronous time devoted to problem-solving with the instructor circulating among breakout rooms.
+- **[Flipped Classroom](../principles/flipped-learning.md) online delivery** — recorded content before class; synchronous time devoted to problem-solving with the instructor circulating among breakout rooms.
 - **Live office hours / coaching blocks** — scheduled small-group sessions where the instructor works through student-submitted problems in real time.
 
 ## Key Sources

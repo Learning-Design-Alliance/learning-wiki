@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: anchored-instruction
+aliases: [storyline-science-curriculum-design]
 title: Anchored Instruction
 description: "A reusable policy for building a lesson or unit around a shared narrative or media scenario: check that solving the anchor's problem requires the target concept, guide novices through it rather than leave them to search, connect the anchor explicitly to the concept, and judge the unit on individual use of the concept in a new situation."
 canonical: true
@@ -13,6 +14,10 @@ sources:
     resource: "https://doi.org/10.1007/BF02296729"
     title: "Cognition and Technology Group at Vanderbilt. (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65-80"
     author: Cognition and Technology Group at Vanderbilt
+  - id: penuel-et-al-2022
+    resource: "https://doi.org/10.1080/07370008.2021.2010207"
+    title: "Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A. (2022). Learning Practical Design Knowledge through Co-Designing Storyline Science Curriculum Units. Cognition and Instruction, 40(1), 148-170."
+    author: "Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A."
 author: John Bransford and the Cognition and Technology Group at Vanderbilt
 grain_size: lesson
 ---
@@ -20,7 +25,7 @@ grain_size: lesson
 # Anchored Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 28 studies (12 causal, 8 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 28 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (4 for, 9 mixed, 1 against) · 30 studies (12 causal, 8 quant-synthesis, 4 review, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 30 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
@@ -95,6 +100,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](../claims/co-design-tools-support-balancing-standards-and-student-interests.md) [+M]
+- [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](../claims/openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) [~W]
 
 ## Illustrative design instance and observation record
 
@@ -117,15 +124,18 @@ This pattern is scoped to lessons and units built around one shared scenario, wi
 - [Problem-Based Learning (PBL)](problem-based-learning.md)
 - [Goal-Based Scenarios (GBS)](goal-based-scenarios.md)
 - [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md)
+- (none yet linked)
 
 ## Examples
 - Jasper-style video math problems that embed quantitative reasoning in a narrative.
 - Case launches in science or civics where learners work from a shared media scenario.
 - Professional training modules built around a realistic event or dilemma.
+- A high school unit anchored in space exploration (selected over a student-interest-matched air-pollution phenomenon because air pollution content matched middle-school, not high-school, standards).
 
 ## Key Sources
 - Bransford, J. D., Sherwood, R. D., Hasselbring, T. S., Kinzer, C. K., & Williams, S. M. (1990). Anchored instruction: Why we need it and how technology can help. In D. Nix & R. Spiro (Eds.), *Cognition, education, and multimedia* (pp. 115-141). Erlbaum.
 - Cognition and Technology Group at Vanderbilt. (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65-80. [https://doi.org/10.1007/BF02296729](https://doi.org/10.1007/BF02296729)
+- Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A. (2022). Learning Practical Design Knowledge through Co-Designing Storyline Science Curriculum Units. *Cognition and Instruction, 40*(1), 148-170. [https://doi.org/10.1080/07370008.2021.2010207](https://doi.org/10.1080/07370008.2021.2010207)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -207,4 +217,70 @@ The pattern is useful when learners need to reason through messy situations rath
 ## Impact
 - Useful for increasing engagement and helping learners connect ideas to realistic contexts.
 - Especially strong when the debrief makes underlying concepts explicit after inquiry.
+-->
+
+<!-- merged 2026-10-15 from patterns/storyline-science-curriculum-design ("Storyline Science Curriculum Design"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Storyline Science Curriculum Design
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+Rather than sequencing a science unit around disciplinary topics, a storyline unit is organized around a coherent sequence of questions that students themselves raise in response to an anchoring phenomenon — the curriculum materials are written from the student's own perspective (using "we" pronouns: "we figure out," "we wonder about"), and each lesson's activities exist to answer a question the class has already asked, not to introduce content the curriculum has pre-decided is next. Standards coverage is achieved by backward design: only phenomena that require the target disciplinary ideas to explain are selected as anchors in the first place.
+
+## Implications
+
+### Context
+#### Requirements
+- An anchoring phenomenon selected specifically because explaining it requires the standards-targeted ideas (verified via a "gateway check": co-designers write the target explanation first, then discard phenomena that don't require it)
+- A Driving Question Board or equivalent structure to capture and track the actual questions students raise, so the lesson sequence can be built to answer them
+- Materials drafted in first-person plural ("we") from the student perspective, with explicit "punchlines" naming what students figure out and what question comes next
+#### Constraints
+- Building a genuine storyline (not just adding phenomenon framing to an existing topic sequence) requires substantial front-loaded design work — unpacking standards, surveying student interest, rehearsing the anchoring-phenomenon launch — that is not a lightweight addition to conventional curriculum writing
+#### Grain Size
+Unit (a several-week instructional unit; the source co-design process itself spanned roughly 2 years of pre-work and workshop time)
+
+### Target Goals
+- Aligning standards coverage with genuine student-generated inquiry, rather than sequencing content by disciplinary logic alone
+- [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](../claims/co-design-tools-support-balancing-standards-and-student-interests.md) [+M]
+
+### Target Learners
+- K-12 science students in NGSS-aligned (or similarly phenomenon-based) instructional contexts
+
+### Theory
+#### Supporting
+- Phenomenon-based science education (Next Generation Science Standards) — anchoring instruction in an observable event students investigate using science and engineering practices
+- Backward design — writing the target student explanation before selecting the phenomenon, to guarantee standards alignment
+
+### Claims
+#### Supporting
+#### Contradicting
+
+- (none yet linked)
+- [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](../claims/openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) [~W]
+
+## Design
+
+### Sequence
+1. Select an anchoring phenomenon via backward design: write the target disciplinary explanation first, and discard any candidate phenomenon that doesn't require it.
+2. Launch the unit with the phenomenon and capture the questions students themselves raise (e.g., via a Driving Question Board).
+3. Sequence subsequent lessons to answer the class's own questions in order, rather than following a pre-set topic sequence, looping back to standards coverage as needed.
+4. Draft each lesson's materials in first-person plural ("we figure out...", "we wonder about...") from the student perspective, naming an explicit "punchline" (what was figured out) and the transition to the next question.
+5. Culminate the unit once the sequence of student-raised questions has been answered and the target disciplinary explanation has been collectively constructed.
+
+### Affordances
+- (none yet linked)
+
+### Personalization
+- The specific anchoring phenomenon and disciplinary content are interchangeable; what matters structurally is that lesson sequencing follows genuine student questions rather than a pre-set topic order, and that materials are written from the student's own perspective.
+
+## Related Patterns
+- (none yet linked)
+
+## Examples
+- A high school unit anchored in space exploration (selected over a student-interest-matched air-pollution phenomenon because air pollution content matched middle-school, not high-school, standards).
+
+## Key Sources
+- Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A. (2022). Learning Practical Design Knowledge through Co-Designing Storyline Science Curriculum Units. *Cognition and Instruction, 40*(1), 148-170. [https://doi.org/10.1080/07370008.2021.2010207](https://doi.org/10.1080/07370008.2021.2010207)
 -->

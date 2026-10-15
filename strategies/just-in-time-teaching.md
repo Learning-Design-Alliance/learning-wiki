@@ -37,7 +37,7 @@ JiTT operationalizes formative assessment: pre-class responses give the instruct
 #### Implementation Variability
 - Warm-up + mini-lecture hybrid: brief targeted lecture segment responding to common errors, then activities
 - Peer instruction variant: warm-up results seed clicker questions and peer discussion in class
-- Fully flipped variant: JiTT warm-ups replace the video-watching of a standard [Flipped Classroom](../patterns/flipped-classroom.md), with responses rather than content delivery driving class design
+- Fully flipped variant: JiTT warm-ups replace the video-watching of a standard [Flipped Classroom](../principles/flipped-learning.md), with responses rather than content delivery driving class design
 - Disciplinary adaptations: code snippets to critique in CS, clinical vignettes in health sciences, data plots to interpret in statistics
 
 ### Target Learners
@@ -67,7 +67,7 @@ JiTT operationalizes formative assessment: pre-class responses give the instruct
 
 ## Examples
 - **IUPUI introductory physics (Novak et al.)** — the original implementation: web-based warm-ups due at 6 a.m., with the 9:30 a.m. lecture rebuilt around student answers; materials published in *Just-in-Time Teaching: Blending Active Learning with Web Technology* (1999).
-- **Physics education research adaptations** — JiTT warm-ups paired with [Peer Instruction](../patterns/flipped-classroom.md) at institutions such as the U.S. Air Force Academy, showing gains on the Force Concept Inventory beyond lecture-only sections [+M].
+- **Physics education research adaptations** — JiTT warm-ups paired with [Peer Instruction](../principles/flipped-learning.md) at institutions such as the U.S. Air Force Academy, showing gains on the Force Concept Inventory beyond lecture-only sections [+M].
 - **Large-enrollment biology courses** — warm-up essays on common misconceptions (e.g., natural selection misconceptions) reviewed before class, with misconceptions addressed via small-group argumentation.
 
 ## Key Sources

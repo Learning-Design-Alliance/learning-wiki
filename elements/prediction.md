@@ -66,8 +66,8 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 
 ## Patterns That Use This Element
 - [Case-Based Learning](../patterns/case-based-learning.md) — learners predict outcomes before the case resolution is disclosed
-- [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class prediction questions prime learners for in-class resolution
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — students estimate and predict solutions before formal strategies are taught
+- [Flipped Classroom](../principles/flipped-learning.md) — pre-class prediction questions prime learners for in-class resolution
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — students estimate and predict solutions before formal strategies are taught
 
 ## Examples
 

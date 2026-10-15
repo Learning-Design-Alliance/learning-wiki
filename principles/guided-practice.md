@@ -21,6 +21,10 @@ sources:
     resource: "https://doi.org/10.1598/JAAL.47.7.5"
     title: "Massengill, D. (2004). The impact of using guided reading to teach low-literate adults. *Journal of Adolescent & Adult Literacy, 47*(7), 588-602"
     author: Massengill, D
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
 ---
 
 # Guided Practice
@@ -149,6 +153,7 @@ Assisted success during practice, unaided immediate performance, delayed retenti
 - Numrich, C., & Kennedy, A. S. (2017). Providing guided practice in discourse synthesis. *TESOL Journal, 8*(1), 28-43. [https://doi.org/10.1002/tesj.258](https://doi.org/10.1002/tesj.258)
 - Massengill, D. (2004). The impact of using guided reading to teach low-literate adults. *Journal of Adolescent & Adult Literacy, 47*(7), 588-602.
 - Hua, Y., Morgan, B. S., Kaldenberg, E. R., & Goo, M. (2012). Cognitive strategy instruction for functional mathematical skill: Effects for young adults with intellectual disability. *Education and Training in Autism and Developmental Disabilities, 47*(3), 345-358. [doi:10.1177/215416471204700309](https://doi.org/10.1177/215416471204700309)
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -203,3 +208,37 @@ Guided practice matters because early application is where misunderstanding beco
 - [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](../claims/gpt4-access-harms-learning-after-withdrawal.md) [~W]
 - [Immediate task success does not establish learning that persists without AI support](../claims/immediate-performance-not-evidence-of-independent-learning.md) [~W]
 - [Support form differentiates the scaffolding–engagement association: feedback and explaining align most with constructive engagement, with a task-ecology crossover between instructing and modelling](../claims/support-form-differentiates-engagement.md) [~W]
+
+<!-- merged 2026-10-15 from patterns/merrills-first-principles-application ("Merrill's First Principles (Application)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Merrill's First Principles (Application)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+This page is the short-form canonical target for the application move within Merrill's First Principles: learners use new knowledge or skill with support, feedback, and increasingly independent performance.
+
+## Implications
+
+### Context
+#### Requirements
+- **A task that requires use of the new learning**
+- **Support and feedback during early attempts**
+#### Constraints
+- **Application without feedback may reinforce weak performance**
+
+### Target Goals
+- Move from understanding toward usable performance.
+
+### Theory
+#### Supporting
+- [Guided Practice](../principles/guided-practice.md)
+- [Deliberate Practice](../principles/deliberate-practice.md)
+
+## Related Patterns
+- [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md)
+
+## Key Sources
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
+-->

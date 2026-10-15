@@ -35,7 +35,7 @@ Facilitation works only when it is structured, not laissez-faire: guided forms o
 - Cultural mismatch: in some classroom cultures, a reduced teacher role reads as disengagement rather than empowerment [~W]
 
 #### Implementation Variability
-- Spectrum from light-touch facilitation of [Discussion-Based Learning](../patterns/discussion-based-learning.md) to full [Collaborative Inquiry](../patterns/collaborative-inquiry.md) projects
+- Spectrum from light-touch facilitation of [Discussion-Based Learning](../principles/collaborative-learning.md) to full [Collaborative Inquiry](../principles/inquiry-based-learning.md) projects
 - Student-selected reading and presentation of culturally relevant material as a low-cost entry point
 - Rotating facilitation among students to distribute authority further
 
@@ -65,7 +65,7 @@ Facilitation works only when it is structured, not laissez-faire: guided forms o
 - **[Collaborative Learning](../patterns/collaborative-learning.md)** — the facilitator designs group tasks and monitors, while groups carry the cognitive work; structured cooperative formats show reliable achievement gains [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
 - **[Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)** — the facilitator models early, then fades into coaching as students take over the work
 - **Student-selected readings seminar (K–12 and higher ed)** — students bring in materials reflecting their cultural and social perspectives and present them to the class, with the teacher facilitating discussion rather than evaluating content
-- **[Flipped Classroom](../patterns/flipped-classroom.md)** — content delivery moves outside class time so the facilitator can devote face-to-face time to guided student activity
+- **[Flipped Classroom](../principles/flipped-learning.md)** — content delivery moves outside class time so the facilitator can devote face-to-face time to guided student activity
 
 ## Key Sources
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

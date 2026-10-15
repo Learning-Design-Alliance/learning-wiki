@@ -86,7 +86,7 @@ Learning a concept means learning which features matter and which do not; multip
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — pattern recognition across domains is the mechanism of analogy
 
 ## Examples
-- **[CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers learn to recognize problem types (result-unknown, change-unknown, etc.) by sorting and comparing varied word problems, then map student strategies to each type.
+- **[CGI for Math](../principles/responsive-teaching.md)** — teachers learn to recognize problem types (result-unknown, change-unknown, etc.) by sorting and comparing varied word problems, then map student strategies to each type.
 - **Physics problem sorting (Chi and colleagues' tradition)** — novices sort mechanics problems by surface features (pulleys, springs); training with comparison shifts sorting to deep structure (energy conservation vs. Newton's laws).
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)** — repeated case discussion across sessions builds recognition of recurring managerial decision patterns.
 - **[Concept Attainment](../patterns/concept-attainment.md)** — Bruner's model presents positive and negative instances; learners induce the defining attributes, making pattern detection the core activity.

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: epistemic-cognition
-aliases: [nexus-of-justification-and-application, disciplines-as-modes-of-inquiry, datafication-as-rhetoric-metadistrust]
+aliases: [nexus-of-justification-and-application, disciplines-as-modes-of-inquiry, datafication-as-rhetoric-metadistrust, critique-language-includes-critique-of-humanism]
 title: Epistemic Cognition
 description: "When learners must judge claims, explicit teaching and practice of the standards for a particular kind of evidence (checking who is behind a web source, judging a study's methods, justifying an argument with evidence) is associated with better judgments of that kind, measured up to five weeks later; the gains have not been shown to carry over to other kinds of evidence."
 canonical: true
@@ -22,12 +22,24 @@ sources:
     resource: "https://www.ovpes.org/"
     title: "Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/"
     author: Haarman, Susan
+  - id: rife-2025
+    resource: "https://doi.org/10.31446/JCP.2025.1.07"
+    title: "Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07"
+    author: Rife, T. S
+  - id: chinn-2002
+    resource: "https://doi.org/10.1002/sce.10001"
+    title: "Chinn, C. A., & Malhotra, B. A. (2002). Epistemologically authentic inquiry in schools: A theoretical framework for evaluating inquiry tasks. *Science Education, 86*(2), 175-218"
+    author: "Chinn, C. A., & Malhotra, B. A"
+  - id: lombardi-2013
+    resource: "https://doi.org/10.1016/j.learninstruc.2013.03.001"
+    title: "Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility reappraisals and shifts in middle school students' climate change conceptions. *Learning and Instruction, 27*, 50-62"
+    author: "Lombardi, D., Sinatra, G. M., & Nussbaum, E. M"
 ---
 
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (9 for, 5 mixed) · 22 studies (9 causal, 3 quant-synthesis, 3 qualitative, 3 theoretical, 2 review, 1 associational, 1 design), `q1`–`q4` · 3 of 22 report an effect size · 8 claims rest on one study
+> **Evidence** · 17 claims (10 for, 7 mixed) · 31 studies (12 causal, 5 review, 4 quant-synthesis, 4 qualitative, 4 theoretical, 1 associational, 1 design), `q1`–`q4` · 3 of 31 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +134,9 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](../claims/disciplinary-perspective-critical-thinking.md) [+W]
 - [Principles of reason assessment are both subject-neutral and subject-specific](../claims/reason-assessment-principles-both-neutral-and-specific.md) [+W]
 - [Data Construction Embeds Privilege In Data](../claims/data-construction-embeds-privilege-in-data.md) [+W]
+- [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](../claims/modernist-discourses-contradictory-environmental-effects.md) [+W]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Objective and learner-valued goal
 
@@ -140,12 +155,18 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - [Perspective-Taking](perspective-taking.md) — learners often need to compare competing interpretations and standards
 - [Debate](../patterns/debate.md) — argument-focused settings often require explicit epistemic norms to stay productive
 - [Collaborative Critique and Redesign of Flawed Studies](../strategies/collaborative-critique-and-redesign-of-flawed-studies.md) — a concrete instructional strategy for developing evidence-evaluation ideals in psychology/social-science instruction
-- [Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention](metacognition-prompts-in-inquiry-introduction.md)
+- [Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention](self-regulated-learning.md)
+- [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](cultural-life-experiences-connections.md)
+- [Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy](humanistic-radical-adult-education.md)
 
 ## Examples
 
 - [Four-layer workplace assessment battery with non-compensatory decision rules for competent GenAI use](../strategies/layered-workplace-genai-assessment-battery.md)
 - [Data activism through intentional participation, student-centric learning analytics, and storytelling](../strategies/data-activism-participation-storytelling.md)
+- [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
+- Earth science learners comparing climate explanations against observational data.
+- Physics learners weighing competing motion models using a shared evidence set.
+- Biology learners comparing causal explanations for a phenomenon and revising their reasoning.
 
 ### Illustrative
 
@@ -160,6 +181,10 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - Greene, J. A., Sandoval, W. A., & Bråten, I. (Eds.). (2016). *Handbook of epistemic cognition*. Routledge. [doi:10.4324/9781315795225](https://doi.org/10.4324/9781315795225)
 - Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed. (1989). Critical Thinking: Language and Inquiry across the Disciplines. Proceedings of the Annual Conference of the Institute for Critical Thinking (Upper Montclair, New Jersey, 1988). https://eric.ed.gov/?id=ED351305
 - Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/
+- Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
+- Chinn, C. A., & Malhotra, B. A. (2002). Epistemologically authentic inquiry in schools: A theoretical framework for evaluating inquiry tasks. *Science Education, 86*(2), 175-218. [https://doi.org/10.1002/sce.10001](https://doi.org/10.1002/sce.10001)
+- Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility reappraisals and shifts in middle school students' climate change conceptions. *Learning and Instruction, 27*, 50-62. [https://doi.org/10.1016/j.learninstruc.2013.03.001](https://doi.org/10.1016/j.learninstruc.2013.03.001)
+- Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56. [https://doi.org/10.1080/00461520.2015.1113134](https://doi.org/10.1080/00461520.2015.1113134)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -289,7 +314,7 @@ Sharon Bailin's plenary address extends the standard skills-and-dispositions acc
 
 ## Related Principles
 
-- [Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention](metacognition-prompts-in-inquiry-introduction.md)
+- [Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention](self-regulated-learning.md)
 - [Teach undergraduate content within a nexus of justification and application](epistemic-cognition.md)
 
 ## Examples
@@ -337,4 +362,200 @@ The article argues, citing McQuillan, that "Datafication itself is a rhetorical 
 
 ## Key Sources
 - Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/
+-->
+
+<!-- merged 2026-10-15 from principles/critique-language-includes-critique-of-humanism ("Critique of language in CCP must include critique of humanism and humanist historicization"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Critique of language in CCP must include critique of humanism and humanist historicization
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article argues that an ecologically concerned CCP "must not only localize the complex problems of the Anthropocene by thinking through its spatial scales, it must also implicate the role of humanist epistemologies in the planet's deep temporal unfolding." Drawing on Chakrabarty's four theses on climate change and humanist history, the principle holds that contextualizing terms like Anthropocene carry politics: the root anthropos frames the whole species as the primary agent of crisis, neutralizing more nuanced politics. Students therefore study competing neologisms and the rhetoricity of epochal historicization itself.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Engagement with competing neologisms such as Capitalocene, Anthrobscene, Plantationocene, and Manthropocene
+- Attention to the multiplicity of historical understanding, resonant with Sprague's recommendation to attend to heteroglossia
+#### Constraints
+- The article states the alternative neologisms are not intended as correctives but to reveal dynamics of subjugation and exploitation
+
+### Target Learners
+- upper-level undergraduate communication studies students
+
+### Target Learning Objectives
+- deconstructing temporal neologisms
+- recognizing the communicative and ideological dimensions of scientific historicization
+
+### Claims
+
+- [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](../claims/modernist-discourses-contradictory-environmental-effects.md) [+W]
+
+## Related Principles
+
+- [Render planetary ecological crisis concrete, embodied, proximal, and implicative for students](cultural-life-experiences-connections.md)
+- [Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy](humanistic-radical-adult-education.md)
+
+## Examples
+
+- [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
+
+## Key Sources
+- Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07
+-->
+
+<!-- merged 2026-10-15 from patterns/model-evidence-link-mel-reasoning-pattern ("Model-Evidence Link (MEL) Reasoning Pattern"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Model-Evidence Link (MEL) Reasoning Pattern
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 14 studies (4 causal, 4 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 14 report an effect size
+
+## Description
+The Model-Evidence Link pattern structures reasoning by having learners compare competing models or explanations against available evidence, judge which links are strong or weak, and revise their conclusions accordingly. Rather than asking learners to memorize one correct explanation, the pattern gives them practice weighing evidence, examining fit, and making scientific or disciplinary reasoning visible.
+
+It is particularly useful when learners need to evaluate explanations in the face of uncertainty, conflicting claims, or conceptual change. The pattern works best when the competing models are coherent enough to compare and the evidence is rich enough to discriminate among them.
+
+## Implications
+
+### Context
+#### Requirements
+- **Competing models or explanations**: Learners need at least two meaningful explanatory options to compare.
+- **A usable evidence set**: The evidence should support analysis rather than simply reveal the answer immediately.
+- **Reasoning scaffolds**: Learners need prompts or structures that help them articulate how evidence supports or challenges each model.
+- **Revision opportunities**: The pattern is strongest when learners can update their explanations after discussion.
+- **A model, claim, or explanation to evaluate**
+- **Evidence that can be linked explicitly to that model**
+- **Prompts that ask learners to explain the quality of the link**
+#### Constraints
+- **Weak evidence design**: If the evidence is misleading or too sparse, the reasoning exercise becomes arbitrary.
+- **Overload risk**: Too many models or too much data can swamp novices.
+- **False balance**: Not all competing models are equally plausible, so the task needs careful framing.
+- **Requires explicit debrief**: Learners may compare models superficially without teacher-supported synthesis.
+- **Learners may describe evidence without explaining how it connects**
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- **Scientific or disciplinary reasoning**: Using evidence to evaluate explanatory claims.
+- **Conceptual change**: Revising understanding when evidence better fits an alternative model.
+- **Argumentation with evidence**: Justifying interpretations explicitly.
+- Improve evidence-based reasoning and explanation revision.
+
+### Target Learners
+- **Learners in science and evidence-rich disciplines**: Strong fit where model comparison is part of expert reasoning.
+- **Learners confronting misconceptions**: Useful when contrasting explanations can surface weak reasoning.
+- **Secondary, higher education, and adult learners**: Best when learners can work with claims and evidence explicitly.
+
+### Theory
+#### Supporting
+- Inquiry-oriented perspectives — learners deepen understanding by evaluating evidence against explanations.
+- Epistemic cognition perspectives — knowledge improves when learners examine how claims are warranted.
+- Conceptual change traditions — comparing competing explanations can destabilize misconceptions and support revision.
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Constructivism](../principles/cognitive-activation.md)
+#### Contradicting / Qualifying
+- Learners often need substantial scaffolding to reason well with competing models.
+- The pattern supports explanation and evidence use but is less suited to rote foundational coverage.
+
+### Claims
+#### Supporting
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]
+#### Contradicting
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+
+## Design
+
+### Sequence
+1. Present the focal phenomenon and two or more competing models.
+2. Introduce the relevant evidence set.
+3. Have learners judge how strongly each piece of evidence supports or weakens each model.
+4. Ask learners to justify which model best fits the evidence and why.
+5. Debrief the reasoning and revise explanations.
+
+### Elements Used
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Reflection](../elements/reflection.md)
+- [Justification & Argumentation](../elements/justification-argumentation.md)
+- [Evidence-Based Reasoning](../elements/evidence-based-reasoning.md)
+
+### Affordances
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Purposeful Reflection](../principles/reflection.md)
+- [Creating Visual Representations](../principles/dual-coding.md)
+
+### Personalization
+- The number of models and complexity of the evidence can be adjusted by learner readiness.
+- Learners can work individually first and then compare reasoning in pairs or groups.
+- Supports can include comparison charts, sentence stems, or partially completed evidence tables.
+
+## Related Patterns
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md)
+- [Discussion Group](../principles/collaborative-learning.md)
+
+## Examples
+- Earth science learners comparing climate explanations against observational data.
+- Physics learners weighing competing motion models using a shared evidence set.
+- Biology learners comparing causal explanations for a phenomenon and revising their reasoning.
+
+## Impact
+- Supports evidence-based reasoning and helps learners make model comparison explicit.
+- Especially useful where misconceptions persist because learners have not been asked to weigh alternatives carefully.
+
+## Key Sources
+- Chinn, C. A., & Malhotra, B. A. (2002). Epistemologically authentic inquiry in schools: A theoretical framework for evaluating inquiry tasks. *Science Education, 86*(2), 175-218. [https://doi.org/10.1002/sce.10001](https://doi.org/10.1002/sce.10001)
+- Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility reappraisals and shifts in middle school students' climate change conceptions. *Learning and Instruction, 27*, 50-62. [https://doi.org/10.1016/j.learninstruc.2013.03.001](https://doi.org/10.1016/j.learninstruc.2013.03.001)
+- Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56. [https://doi.org/10.1080/00461520.2015.1113134](https://doi.org/10.1080/00461520.2015.1113134)
+
+<!- - merged 2026-10-02 from patterns/mel-reasoning-pattern ("MEL Reasoning Pattern"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# MEL Reasoning Pattern
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-Link reasoning pattern, which asks learners to evaluate how evidence supports, challenges, or revises a model or explanation.
+
+## Implications
+
+### Context
+#### Requirements
+- **A model, claim, or explanation to evaluate**
+- **Evidence that can be linked explicitly to that model**
+- **Prompts that ask learners to explain the quality of the link**
+#### Constraints
+- **Learners may describe evidence without explaining how it connects**
+#### Grain Size
+- Lesson
+
+### Target Goals
+- Improve evidence-based reasoning and explanation revision.
+
+### Theory
+#### Supporting
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Constructivism](../principles/cognitive-activation.md)
+
+## Design
+
+### Elements Used
+- [Justification & Argumentation](../elements/justification-argumentation.md)
+- [Evidence-Based Reasoning](../elements/evidence-based-reasoning.md)
+
+## Related Patterns
+- [Model-Evidence-Link (MEL) Reasoning Pattern](epistemic-cognition.md)
+
+## Key Sources
+- Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56. [https://doi.org/10.1080/00461520.2015.1113134](https://doi.org/10.1080/00461520.2015.1113134)
+- ->
 -->

@@ -65,7 +65,7 @@ SMARTER goals are a structured goal-setting element that asks learners to define
 - [Reassessment](reassessment.md)
 
 ## Patterns That Use This Element
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning.md)
 
 ## Examples
 - A learner defines a weekly writing goal with a concrete output and review checkpoint

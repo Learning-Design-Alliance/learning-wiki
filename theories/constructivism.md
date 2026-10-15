@@ -69,7 +69,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Peer Discussion](../principles/peer-discussion.md)
-- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Purposeful Reflection](../principles/reflection.md)
 - [Makerspace](../elements/makerspace.md)
 - [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
 

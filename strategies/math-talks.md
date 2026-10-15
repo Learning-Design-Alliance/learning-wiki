@@ -82,8 +82,8 @@ Math talks operationalize [Active Learning](../principles/active-learning.md) in
 
 ## Related Strategies
 
-- [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — math talks are the discourse engine of CGI: teachers elicit and build on children's informal strategies
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the general discussion pattern math talks specialize for mathematics
+- [Cognitively Guided Instruction](../principles/responsive-teaching.md) — math talks are the discourse engine of CGI: teachers elicit and build on children's informal strategies
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the general discussion pattern math talks specialize for mathematics
 - [Case-Based Learning](../patterns/case-based-learning.md) — shares the structure of discussing and comparing solution approaches to a shared problem
 - [Formative Assessment](../patterns/formative-assessment.md) — math talks double as a real-time window into learner reasoning
 - [Extend rich student discourse beyond Math Talks and use participation structures and story problems to broaden access and sense-making](extend-discourse-beyond-math-talks.md)
@@ -158,8 +158,8 @@ Math talks operationalize [Active Learning](../principles/active-learning.md): l
 5. **Name and consolidate** — close by highlighting key mathematical ideas and, where appropriate, connecting informal strategies toward more efficient or generalizable ones.
 
 ## Related Strategies
-- [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares the commitment to building instruction from learners' own strategies rather than prescribed procedures
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the general discourse pattern math talks specialize for mathematics
+- [Cognitively Guided Instruction](../principles/responsive-teaching.md) — shares the commitment to building instruction from learners' own strategies rather than prescribed procedures
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the general discourse pattern math talks specialize for mathematics
 - [Formative Assessment](../patterns/formative-assessment.md) — math talks double as a real-time window into learner reasoning
 
 ## Examples

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: digital-learning
-aliases: [shared-whiteboard-dual-cohort-workspace]
+aliases: [shared-whiteboard-dual-cohort-workspace, tablets-expand-science-education-approaches]
 title: Digital Learning
 description: "Putting part of a course on a digital tool is expected to help only through the method it makes affordable (more practice with feedback, adaptive hints, prompts to explain, visible progress) and not through the medium itself; no claim here tests a digital against a non-digital version of the same method."
 canonical: true
@@ -18,12 +18,16 @@ sources:
     resource: "https://doi.org/10.29140/jaltcall.v18n1.569"
     title: "Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic Systems approach to exploring language teacher agency in a blended classroom. The JALT CALL Journal, 18(1). https://doi.org/10.29140/jaltcall.v18n1.569"
     author: "Qi, G. Y., & Wang, Y"
+  - id: vom-lara-2014
+    resource: "https://arxiv.org/abs/1405.6581"
+    title: "V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581"
+    author: V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira
 ---
 
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (22 for, 26 mixed, 3 against) · 63 studies (15 causal, 15 review, 11 quant-synthesis, 9 theoretical, 6 associational, 5 qualitative, 2 design), `q1`–`q4` · 10 of 63 report an effect size · 42 claims rest on one study
+> **Evidence** · 55 claims (26 for, 26 mixed, 3 against) · 64 studies (15 causal, 15 review, 11 quant-synthesis, 9 theoretical, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 11 of 64 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +137,10 @@ Claims read against this model that bear on it only at the edges. The other clai
 - [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](../claims/online-communities-must-be-designed-and-scaffolded.md) [+W]. Authors' reflection on fully online units, coded q1. It bears on community building, which [Social Presence](social-presence.md) and [Community of Inquiry](community-of-inquiry.md) hold, more than on this page's attribution rule.
 - [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](../claims/students-prefer-technology-enhanced-task-interactivity-animation.md) [+W]. Interview data from one white paper, coded q1. Preference only; no learning outcome, so it does not bear on the relationship.
 - [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](../claims/spatial-colocation-benefit-task-dependent.md) [+W]. The authors' interpretation of one desk-robot study. It concerns where guidance appears within a digital setup for spatial tasks such as drawing, a narrow interface choice, and does not compare a digital with a non-digital version of a method.
+- [Tablet Magnetometer Linear B Current Coil](../claims/tablet-magnetometer-linear-b-current-coil.md) [+M]
+- [Tablet Demo Set Estimates Air Permeability](../claims/tablet-demo-set-estimates-air-permeability.md) [+M]
+- [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](../claims/magnet-case-cannot-determine-air-permeability.md) [+W]
+- [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](../claims/magnetic-field-inverse-cube-axial-distance-coil-magnet.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -188,10 +196,12 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](../strategies/student-co-facilitation-via-shared-chat-typing.md)
 - [CWPT Learning Management System (CWPT–LMS) software support](../products/cwpt-learning-management-system-cwptlms.md)
 - [Blended Cognitive Tutor® implementation alternating collaborative textbook periods with adaptive software lab periods](../strategies/cognitive-tutor-blended-textbook-software-schedule.md)
+- [Tablet-based magnetic-field demonstration set (coil circuit, ruler, book, MagnetMeter app)](../elements/tablet-magnetometer-demonstration-set.md)
+- [Extend tablet magnetometer experiments to other current geometries](../strategies/extend-magnetometer-experiments-other-geometries.md)
 
 ### Illustrative
 
-**[Flipped Learning](../patterns/flipped-classroom.md)** — Learners access short digital explanations before class, then use live time for practice, discussion, and feedback. The gain comes from redesigning class time, not just posting videos.
+**[Flipped Learning](flipped-learning.md)** — Learners access short digital explanations before class, then use live time for practice, discussion, and feedback. The gain comes from redesigning class time, not just posting videos.
 
 **[ASSISTments](https://www.assistments.org)** — A digital math platform that combines practice, hints, and immediate feedback. It shows the value of digital learning when the environment supports reasoning and feedback rather than just answer submission.
 
@@ -203,6 +213,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2010). *Evaluation of evidence-based practices in online learning*. U.S. Department of Education.
 - Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The difference between emergency remote teaching and online learning. *EDUCAUSE Review*. [https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning](https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning)
 - Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic Systems approach to exploring language teacher agency in a blended classroom. The JALT CALL Journal, 18(1). https://doi.org/10.29140/jaltcall.v18n1.569
+- V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -259,7 +270,7 @@ Digital learning matters when technology changes what learners can access, rehea
 
 ### Illustrative
 
-**[Flipped Learning](../patterns/flipped-classroom.md)** — Learners access short digital explanations before class, then use live time for practice, discussion, and feedback. The gain comes from redesigning class time, not just posting videos.
+**[Flipped Learning](flipped-learning.md)** — Learners access short digital explanations before class, then use live time for practice, discussion, and feedback. The gain comes from redesigning class time, not just posting videos.
 
 **[ASSISTments](https://www.assistments.org)** — A digital math platform that combines practice, hints, and immediate feedback. It shows the value of digital learning when the environment supports reasoning and feedback rather than just answer submission.
 
@@ -309,4 +320,47 @@ The article shows a teacher uploading slides to the Collaborate whiteboard rathe
 
 ## Key Sources
 - Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic Systems approach to exploring language teacher agency in a blended classroom. The JALT CALL Journal, 18(1). https://doi.org/10.29140/jaltcall.v18n1.569
+-->
+
+<!-- merged 2026-10-15 from principles/tablets-expand-science-education-approaches ("Use tablets and smartphones in science education to expand approaches that motivate understanding of physical phenomena"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use tablets and smartphones in science education to expand approaches that motivate understanding of physical phenomena
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The article opens with the design rationale that consumer mobile devices can serve as scientific measurement instruments in teaching. It states that "The use of tablets and smartphone in science education expands possibilities for approaches that motivate students to understand better several physical phenomena", and notes tablets were shown as good tools to measure magnetostatic responses. The demonstration set realizes this principle by turning an iPad's magnetometer into a quantitative field probe.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A tablet or smartphone with a magnetometer and a suitable measurement app.
+#### Constraints
+- 
+
+### Target Learners
+- science students at levels where magnetostatics is taught
+
+### Target Learning Objectives
+- conceptual understanding of magnetic phenomena through hands-on measurement
+
+### Claims
+
+- [Tablet Magnetometer Linear B Current Coil](../claims/tablet-magnetometer-linear-b-current-coil.md) [+M]
+- [Tablet Demo Set Estimates Air Permeability](../claims/tablet-demo-set-estimates-air-permeability.md) [+M]
+- [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](../claims/magnet-case-cannot-determine-air-permeability.md) [+W]
+- [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](../claims/magnetic-field-inverse-cube-axial-distance-coil-magnet.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Tablet-based magnetic-field demonstration set (coil circuit, ruler, book, MagnetMeter app)](../elements/tablet-magnetometer-demonstration-set.md)
+- [Extend tablet magnetometer experiments to other current geometries](../strategies/extend-magnetometer-experiments-other-geometries.md)
+
+## Key Sources
+- V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581
 -->

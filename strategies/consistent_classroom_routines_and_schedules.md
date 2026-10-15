@@ -66,7 +66,7 @@ Predictable structure reduces the extraneous cognitive load of constantly re-ori
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — the Morning Meeting and interactive modeling routines operationalize consistent schedules in elementary schools; interactive modeling is essentially [Demonstration](../elements/demonstration.md) applied to routines.
 - **CHAMPS** (Sprick, 2009) — a widely implemented framework in which teachers explicitly define and teach expectations for each major classroom activity phase.
-- **Secondary flipped classrooms** — a fixed weekly rhythm (video at home, structured practice in class) depends on schedule consistency for students to prepare reliably; see [Flipped Classroom](../patterns/flipped-classroom.md).
+- **Secondary flipped classrooms** — a fixed weekly rhythm (video at home, structured practice in class) depends on schedule consistency for students to prepare reliably; see [Flipped Classroom](../principles/flipped-learning.md).
 - **University LMS course design** — modules released on the same weekday with identical internal structure reduce navigation load and missed deadlines [+W].
 
 ## Key Sources

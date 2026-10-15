@@ -72,7 +72,7 @@ Connecting activates prior knowledge before or during new learning, which improv
 - [Advance Organizers](../elements/advance-organizers.md) — a pre-structured connection delivered before the new material
 
 ## Patterns That Use This Element
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — children's informal problem-solving experience is the explicit foundation for formal instruction
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — children's informal problem-solving experience is the explicit foundation for formal instruction
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the anchor is a shared experience to which subsequent problems connect
 
 ## Examples

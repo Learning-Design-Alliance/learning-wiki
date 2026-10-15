@@ -70,7 +70,7 @@ Structured team inquiry improves achievement and peer interaction quality compar
 
 ## Patterns That Use This Element
 - Process-Oriented Guided Inquiry Learning (POGIL) — the canonical pattern: teams of 3–4 with assigned roles work through guided-inquiry activity sets, followed by instructor-facilitated reporting
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — teams pose and investigate their own questions with instructor guidance
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — teams pose and investigate their own questions with instructor guidance
 - [Case-Based Learning](../patterns/case-based-learning.md) — teams analyze authentic cases, sharing the same interdependence and role structure
 
 ## Examples

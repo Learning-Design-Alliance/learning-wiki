@@ -71,7 +71,7 @@ Self-reflection on identity functions as a form of [Activation](../principles/ac
 
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — educators making their own identity-based reasoning visible, modeling the reflection they ask of students
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — staff teams investigating equity questions beginning from their own positions
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — staff teams investigating equity questions beginning from their own positions
 
 ## Examples
 - **Courageous Conversations About Race** ([courageousconversation.com](https://courageousconversation.com)) — Singleton and Linton's protocol used in district-wide staff equity work; educators examine their own racial position using the "race matters" compass before facilitating student dialogue.

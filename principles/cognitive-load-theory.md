@@ -18,12 +18,20 @@ sources:
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
     author: "Gupta, U., & Zheng, R. Z"
+  - id: sweller-2011
+    resource: "https://doi.org/10.1016/B978-0-12-387691-1.00002-8"
+    title: "Sweller, J. (2011). Cognitive load theory. *Psychology of Learning and Motivation, 55*, 37-76"
+    author: Sweller, J
+  - id: van-gog-2011
+    resource: "https://doi.org/10.1016/j.cedpsych.2010.10.004"
+    title: "van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218"
+    author: "van Gog, T., Kester, L., & Paas, F"
 ---
 
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (11 for, 14 mixed) · 25 studies (13 causal, 6 review, 4 quant-synthesis, 2 theoretical), `q1`–`q4` · 5 of 25 report an effect size · 18 claims rest on one study
+> **Evidence** · 33 claims (14 for, 19 mixed) · 37 studies (18 causal, 7 review, 6 quant-synthesis, 5 theoretical, 1 qualitative), `q1`–`q4` · 5 of 37 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -89,6 +97,14 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Extraneous Cognitive Load Correlates Negatively With Germane Load And Probability Of Success](../claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) [+M]
 - [Germane Cognitive Load Correlates Positively With Interest](../claims/germane-cognitive-load-correlates-positively-with-interest.md) [+M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [+M]
+- [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](../claims/ai-intelligent-scaffolding-lowers-knowledge-threshold.md) [~W]
+- [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](../claims/cognitive-debt-reactive-ai-approaches-insufficient.md) [~W]
+- [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](../claims/ai-raises-problem-complexity-ceiling.md) [~W]
+- [Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload](../claims/diverse-explanations-no-perceived-information-overload.md) [~W]
+- [Two-thirds of students reported limitations of data comics: information overload, limited generalisability, design-dependence, and oversimplification](../claims/data-comics-perceived-limitations-overload-design-dependence.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -115,16 +131,21 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Scaffolding](scaffolding.md)
 - [Worked Examples](worked-examples.md)
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md)
-- [Cognitive Load Reduction](cognitive-load-reduction.md)
-- [Cognitive Load Management](cognitive-load-management.md)
+- [Cognitive Load Reduction](cognitive-load-management.md)
 
 ## Examples
 - A novice algebra lesson uses a single integrated visual instead of separate text and diagram panels that learners must constantly coordinate.
 - A software onboarding flow replaces open-ended exploration with worked examples and progressively harder tasks until users can perform the workflow independently.
+- Example-problem sequences in math or programming.
+- Stepwise visual explanations paired with constrained early practice in technical training.
+- Instructional materials redesigned to remove split-attention and unnecessary visual clutter.
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
 - Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
+- Sweller, J., van Merrienboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
+- Sweller, J. (2011). Cognitive load theory. *Psychology of Learning and Motivation, 55*, 37-76. [https://doi.org/10.1016/B978-0-12-387691-1.00002-8](https://doi.org/10.1016/B978-0-12-387691-1.00002-8)
+- van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218. [https://doi.org/10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above; the principle body as it stood before the rewrite, kept verbatim.
 
@@ -189,7 +210,7 @@ Drawing on the negative extraneous-germane correlation, the authors state that "
 - [Germane Cognitive Load Correlates Positively With Interest](../claims/germane-cognitive-load-correlates-positively-with-interest.md) [+M]
 
 ## Related Principles
-- [Cognitive Load Reduction](cognitive-load-reduction.md)
+- [Cognitive Load Reduction](cognitive-load-management.md)
 - [Cognitive Load Management](cognitive-load-management.md)
 - [Cognitive Load Theory](cognitive-load-theory.md)
 
@@ -198,4 +219,114 @@ Drawing on the negative extraneous-germane correlation, the authors state that "
 
 ## Key Sources
 - Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
+-->
+
+<!-- merged 2026-10-15 from patterns/cognitive-load-reduction-clt-scaffolding-approach ("Cognitive Load Reduction (CLT Scaffolding Approach)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Cognitive Load Reduction (CLT Scaffolding Approach)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 10 claims (5 for, 5 mixed) · 15 studies (7 causal, 3 theoretical, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 0 of 15 report an effect size · 8 claims rest on one study
+
+## Description
+This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning. In practice, it often combines clear sequencing, worked examples, careful multimedia use, segmentation, and guided practice that fades over time. The aim is not to make learning effortless; it is to prevent avoidable overload so learners can focus on understanding and performance.
+
+The pattern is especially useful when material is conceptually dense or when novices face many interacting elements at once. It becomes weaker when used as an excuse for oversimplification or passive spoon-feeding.
+
+## Implications
+
+### Context
+#### Requirements
+- **High element interactivity or novice difficulty**: Best when learners are likely to overload working memory without support.
+- **Careful information design**: Explanations, examples, visuals, and practice need to be sequenced intentionally.
+- **Planned fading**: Support should decrease as learner competence grows.
+- **Alignment between explanation and practice**: Learners should move from supported examples into increasingly independent performance.
+#### Constraints
+- **Over-scaffolding risk**: Too much support can suppress active processing or become redundant for more advanced learners.
+- **Expertise differences matter**: Supports that help novices can hinder experienced learners.
+- **Poor multimedia design can backfire**: More channels do not help if they split attention or add irrelevant detail.
+- **Not a complete learning model**: Load reduction needs to be paired with meaningful practice and feedback.
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- **Initial understanding of complex material**: Helping learners build workable mental models.
+- **Efficient novice performance**: Reducing unnecessary search and confusion during early learning.
+- **Transition to independence**: Moving from examples and scaffolds toward self-directed problem solving.
+
+### Target Learners
+- **Novices in complex domains**: Strong fit when learners lack prior schemas.
+- **Learners in technical or concept-heavy instruction**: Useful in STEM, technical training, and structured professional instruction.
+- **Learners vulnerable to overload**: Particularly relevant when dense content and weak prior knowledge combine.
+
+### Theory
+#### Supporting
+
+- Cognitive load theory — instruction should manage intrinsic load and minimize extraneous load.
+- Worked-example traditions — examples can reduce unproductive search for novices.
+- Scaffolding and fading perspectives — support should adapt to current competence and then withdraw.
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/voice-media-outperform-picture-text-overall.md) [+W]
+
+#### Contradicting / Qualifying
+- Load reduction is not the only goal; learners still need productive struggle and meaningful performance.
+- Expertise reversal limits the usefulness of novice-oriented supports.
+
+### Claims
+#### Supporting
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
+#### Contradicting
+
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [+M]
+- [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](../claims/ai-intelligent-scaffolding-lowers-knowledge-threshold.md) [~W]
+- [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](../claims/cognitive-debt-reactive-ai-approaches-insufficient.md) [~W]
+- [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](../claims/ai-raises-problem-complexity-ceiling.md) [~W]
+- [Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload](../claims/diverse-explanations-no-perceived-information-overload.md) [~W]
+- [Two-thirds of students reported limitations of data comics: information overload, limited generalisability, design-dependence, and oversimplification](../claims/data-comics-perceived-limitations-overload-design-dependence.md) [~W]
+
+## Design
+
+### Sequence
+1. Present information in a simplified, well-integrated form.
+2. Use worked examples or heavily guided tasks to reduce search demands.
+3. Transition into example-problem or guided-practice sequences.
+4. Fade supports as learners demonstrate stronger schema formation.
+5. Shift toward more independent and variable tasks.
+
+### Elements Used
+- [Part-task Practice](../elements/part-task-practice.md)
+- [Practice](../elements/practice.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Assessment](../elements/assessment.md)
+
+### Affordances
+- [Worked Examples](../principles/worked-examples.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Creating Visual Representations](../principles/dual-coding.md)
+- [Multimodal Instruction](../principles/multimodal-instruction.md)
+
+### Personalization
+- The amount of guidance can be adjusted by prior knowledge.
+- Examples can be faded faster for learners who no longer need them.
+- Tasks can be chunked differently depending on where overload is occurring.
+
+## Related Patterns
+- [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md)
+- [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md)
+
+## Examples
+- Example-problem sequences in math or programming.
+- Stepwise visual explanations paired with constrained early practice in technical training.
+- Instructional materials redesigned to remove split-attention and unnecessary visual clutter.
+
+## Impact
+- Often improves early learning efficiency for novices.
+- Requires ongoing adjustment so supports do not remain longer than needed.
+
+## Key Sources
+- Sweller, J., van Merrienboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
+- Sweller, J. (2011). Cognitive load theory. *Psychology of Learning and Motivation, 55*, 37-76. [https://doi.org/10.1016/B978-0-12-387691-1.00002-8](https://doi.org/10.1016/B978-0-12-387691-1.00002-8)
+- van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218. [https://doi.org/10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
 -->

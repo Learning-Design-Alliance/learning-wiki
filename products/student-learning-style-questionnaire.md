@@ -79,7 +79,7 @@ The Student Learning Style Questionnaire developed by Grasha and Riechmann isola
 ## Examples
 
 - [Grasha-Riechmann Learning Style Inventory (Turkish adaptation) as the study's learning style measure](../products/grasha-riechmann-learning-style-inventory.md)
-- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](../principles/four-factor-teaching-compatibility.md)
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](../principles/personalization.md)
 
 ## Key Sources
 - Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635

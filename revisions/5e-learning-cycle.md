@@ -3,7 +3,7 @@ type: revisions
 page: ../patterns/5e-learning-cycle.md
 ---
 
-# Revision history: [patterns/5e-learning-cycle](../patterns/5e-learning-cycle.md)
+# Revision history: [patterns/5e-learning-cycle](../principles/inquiry-based-learning.md)
 
 Recorded as patterns/five-e-model before it was renamed, re-filed or merged.
 

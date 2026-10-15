@@ -66,7 +66,7 @@ Drawing converts verbal/numeric problem statements into a second, visual represe
 
 ## Examples
 - **Singapore Math bar models** — a national curriculum sequence in which students progress from concrete objects to standardized bar diagrams for word problems ([Thinking Blocks](https://www.mathplayground.com/thinkingblocks.html) offers an interactive version)
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers elicit and discuss students' own drawn representations of word problems, using the drawings to surface solution strategies
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — teachers elicit and discuss students' own drawn representations of word problems, using the drawings to surface solution strategies
 - **Polya's *How to Solve It* (1945)** — the original articulation of "draw a picture" as one of four phases: understand, plan (represent), carry out, look back
 
 ## Key Sources

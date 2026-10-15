@@ -85,7 +85,7 @@ Sorting forces comparison: to decide whether two items belong together, learners
 - [Card Sorting](card-sorting.md) — the physical/digital modality most often used to implement sorts
 
 ## Examples
-- **CGI math classrooms** — students sort word problems by whether the unknown is a result, change, or start quantity, building the problem-type schemas underlying [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md).
+- **CGI math classrooms** — students sort word problems by whether the unknown is a result, change, or start quantity, building the problem-type schemas underlying [Cognitively Guided Instruction](../principles/responsive-teaching.md).
 - **Biology card sorts** — learners sort organism cards into phyla, then re-sort by reproductive strategy, showing that valid classifications depend on the question asked.
 - **Programming courses** — students sort short code snippets by which data structure or algorithm each requires, before writing any code themselves.
 - **Words Their Way** (Bear, Invernizzi, Templeton, & Johnston) — developmental word study in which students sort spelling/word-feature cards into categories (e.g., short vs. long vowel patterns), then hunt for exceptions. Widely used in elementary literacy instruction.

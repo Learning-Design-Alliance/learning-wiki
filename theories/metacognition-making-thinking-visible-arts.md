@@ -50,7 +50,7 @@ The article presents metacognition as "the awareness and understanding of one's 
 - [Write Alouds](../strategies/write_alouds.md)
 - [Teaching Metacognitive Strategies](../strategies/teach-metacognitive-strategies.md)
 - [Comprehension Monitoring](../strategies/comprehension_monitoring.md)
-- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Purposeful Reflection](../principles/reflection.md)
 
 ## Key Sources
 - The Art and Science of Learning: How New Mexico School for the Arts Uses Research. (2016). Digital Promise. https://digitalpromise.dspacedirect.org/items/4e829bdc-764f-4f2e-85de-abc138e21bdd

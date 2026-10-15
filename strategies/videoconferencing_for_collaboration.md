@@ -63,9 +63,9 @@ Videoconferencing can support [Collaborative Learning](../principles/collaborati
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — synchronous videoconferencing time is best spent on interaction, not transmission, which the flipped model guarantees
+- [Flipped Classroom](../principles/flipped-learning.md) — synchronous videoconferencing time is best spent on interaction, not transmission, which the flipped model guarantees
 - [Case-Based Learning](../patterns/case-based-learning.md) — small-group case analysis translates naturally to breakout-room formats
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — videoconferencing is the remote carrier for discussion, but requires tighter facilitation
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — videoconferencing is the remote carrier for discussion, but requires tighter facilitation
 - [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](student-co-facilitation-via-shared-chat-typing.md)
 
 ## Examples

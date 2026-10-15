@@ -1,7 +1,7 @@
 ---
 type: principle
 id: technology-augments-not-supplants-processes
-aliases: [physical-world-augments-simulation-learning, vr-radiation-training-complementary-to-hands-on]
+aliases: [physical-world-augments-simulation-learning, vr-radiation-training-complementary-to-hands-on, pair-simulation-and-observation-in-research-labs]
 title: Technology should augment, not supplant, learning processes in student-centered environments
 description: "When a tool could do part of a task the learner must learn to do unaided, using it so the learner still does that part (attempt first; hints, questions and feedback rather than solutions; simulation or VR beside hands-on practice, not instead of it) is expected to give better performance once the tool is removed than letting it take the part over; single studies of generative AI with adults test this, two randomised studies limit it, and no claim tests complement against replacement for simulation or VR."
 canonical: true
@@ -22,12 +22,16 @@ sources:
     resource: "https://doi.org/10.2196/104397"
     title: "Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin. (2026). Development and Educational Evaluation of a Radiation Visualization System in a Virtual Reality Training Module for Radiopharmaceutical Administration: Mixed Methods Study of Students’ Learning Experiences. JMIR Medical Education. https://doi.org/10.2196/104397"
     author: Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin
+  - id: crumley-2015
+    resource: "https://arxiv.org/abs/0706.1985"
+    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
+    author: Crumley, Palczewski, and Kaster
 ---
 
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 132 claims (84 for, 39 mixed, 9 against) · 108 studies (26 qualitative, 24 theoretical, 22 review, 17 causal, 11 design, 8 associational), `q1`–`q4` · 7 of 108 report an effect size · 128 claims rest on one study
+> **Evidence** · 136 claims (86 for, 41 mixed, 9 against) · 109 studies (26 qualitative, 24 theoretical, 22 review, 17 causal, 12 design, 8 associational), `q1`–`q4` · 7 of 109 report an effect size · 132 claims rest on one study
 
 ## Conditional relationship
 
@@ -240,6 +244,10 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Automation bias toward fluent LLM output surrenders learners' epistemic agency](../claims/automation-bias-surrenders-epistemic-agency.md) [+W] — one study · theoretical `r2` · `q1`
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](../claims/five-faulty-assumptions-aied-dependence.md) [~W] — one study · theoretical `r2` · `q1`
 - [Five common AI misconceptions debunked: AI does not think like humans, create original ideas, replace teachers, or guarantee accuracy, and well-designed AI use need not lower rigor](../claims/five-ai-misconceptions-for-educators.md) [+W] — one study · theoretical `r1` · `q1`
+- [Students find magnetopause crossings well in magnetic field data but have more difficulty with particle data, and some data sets contain no crossings at all](../claims/magnetopause-lab-crossing-search-field-versus-particle-data.md) [~W]
+- [Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics](../claims/magnetopause-lab-reasonable-agreement-with-model-predictions.md) [+W]
+- [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](../claims/magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) [~W]
+- [Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions](../claims/stair-step-solar-wind-inputs-improve-lab-results.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -271,11 +279,13 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](../strategies/stepped-ai-simulation-integration-strategies.md)
 - [Domain-grounded mediation framework for LLM-assisted VR instruction](../designs/domain-grounded-mediation-llm-vr-instruction.md)
 - [Remora Free Body Diagram Require-GenAI task](../designs/remora-free-body-diagram-task.md)
+- [Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results](../designs/open-ended-standard-defining-magnetopause-lab.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810
 - Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
 - Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin. (2026). Development and Educational Evaluation of a Radiation Visualization System in a Virtual Reality Training Module for Radiopharmaceutical Administration: Mixed Methods Study of Students’ Learning Experiences. JMIR Medical Education. https://doi.org/10.2196/104397
+- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -540,4 +550,46 @@ The article concludes that VR-based training with radiation visualization suppor
 
 ## Key Sources
 - Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin. (2026). Development and Educational Evaluation of a Radiation Visualization System in a Virtual Reality Training Module for Radiopharmaceutical Administration: Mixed Methods Study of Students’ Learning Experiences. JMIR Medical Education. https://doi.org/10.2196/104397
+-->
+
+<!-- merged 2026-10-15 from principles/pair-simulation-and-observation-in-research-labs ("Pair simulation and observation in a research-based lab and encourage students to work on both parts in parallel so they see the connections"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Pair simulation and observation in a research-based lab and encourage students to work on both parts in parallel so they see the connections
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The authors argue that in space physics simulation and observations build upon one another, and one of the strengths of this lab is exposing students to both. Although the simulation portion is presented first because it gives a global view and cleaner results, the two parts can be done in any order. They encourage students to work on both parts in parallel for practical reasons (simulation results take days to become available) and for the philosophical reason that switching back and forth makes students more likely to see the connections between the parts.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Access to both a public simulation facility and publicly available observational data
+#### Constraints
+- Spacecraft orbits do not follow the Earth-Sun line, so spacecraft data is necessarily messier than simulation results
+
+### Target Learners
+- undergraduate physics majors
+
+### Target Learning Objectives
+- understanding the interplay between simulation and observation in current research practice
+
+### Claims
+
+- [Students find magnetopause crossings well in magnetic field data but have more difficulty with particle data, and some data sets contain no crossings at all](../claims/magnetopause-lab-crossing-search-field-versus-particle-data.md) [~W]
+- [Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics](../claims/magnetopause-lab-reasonable-agreement-with-model-predictions.md) [+W]
+- [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](../claims/magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) [~W]
+- [Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions](../claims/stair-step-solar-wind-inputs-improve-lab-results.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results](../designs/open-ended-standard-defining-magnetopause-lab.md)
+
+## Key Sources
+- Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
 -->

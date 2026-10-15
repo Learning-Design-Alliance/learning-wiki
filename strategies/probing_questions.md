@@ -75,7 +75,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the "exploration" and "articulation" phases rely on expert probing of learner reasoning
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — probing questions are the facilitation technique that keeps discussion analytical rather than anecdotal
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — probing questions are the facilitation technique that keeps discussion analytical rather than anecdotal
 
 ## Examples
 - **Socratic seminar** (secondary and college humanities): students question each other about a shared text using Paul's question types; the teacher intervenes only to redirect or deepen.

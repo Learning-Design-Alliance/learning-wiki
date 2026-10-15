@@ -43,11 +43,11 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 
 #### Implementation Variability
 - **Screencast micro-lectures** (5–10 min, single concept) vs. full lecture capture — the former is far more effective
-- **Flipped delivery**: video before class as first exposure, class time for application ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Flipped delivery**: video before class as first exposure, class time for application ([Flipped Classroom](../principles/flipped-learning.md))
 - **Demonstration video**: narrated worked examples or procedural modeling ([Demonstration](../elements/demonstration.md))
 - **Interactive video**: embedded questions (e.g., Edpuzzle, H5P) to enforce engagement
 - **Learner-created video**: students produce explanations as an assessment or elaboration task
-- **Flipped delivery**: expository videos replace in-class lecture; class time becomes [Practice](../elements/practice.md) and coaching ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Flipped delivery**: expository videos replace in-class lecture; class time becomes [Practice](../elements/practice.md) and coaching ([Flipped Classroom](../principles/flipped-learning.md))
 - **Supplemental micro-videos**: short targeted recordings addressing known misconceptions or difficult steps, alongside live teaching ([Blended Learning](../patterns/blended-learning.md))
 - **Personal video messages**: weekly check-ins and welcome videos that build instructor presence and social connection at low production cost
 
@@ -78,7 +78,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — the most common structural use of pre-recorded video as first exposure
+- [Flipped Classroom](../principles/flipped-learning.md) — the most common structural use of pre-recorded video as first exposure
 - [Demonstration](../elements/demonstration.md) — video is a natural medium for narrated modeling
 - [Direct Instruction](../elements/direct-instruction.md) — the instructional function video most often carries
 - [Blended Learning](../patterns/blended-learning.md) — pre-recording is the asynchronous component of blended course designs
@@ -92,7 +92,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - **Flipped calculus courses (e.g., Michigan's Math 115 flipped sections)** — pre-recorded explanation videos assigned before class, with class time devoted to collaborative problem solving
 - **3Blue1Brown** — animated mathematical explanation videos illustrating how signaling and visual reasoning can be carried by video when paired with viewer exercises
 - **Coursera MOOCs** — segmented 5–10 minute videos with embedded in-video questions, based on engagement research on optimal video length
-- **[Flipped Classroom](../patterns/flipped-classroom.md) implementations** (e.g., chemistry courses using [ChemTube3D](https://www.chemtube3d.com/) or instructor-recorded pre-lecture videos) — students watch short expository videos before class; class time is spent on problem-solving.
+- **[Flipped Classroom](../principles/flipped-learning.md) implementations** (e.g., chemistry courses using [ChemTube3D](https://www.chemtube3d.com/) or instructor-recorded pre-lecture videos) — students watch short expository videos before class; class time is spent on problem-solving.
 - **[Khan Academy](https://www.khanacademy.org)** — a library of short, informal, narrated demonstration videos; its low-production style aligns with engagement findings [Guo et al., 2014].
 - **[3Blue1Brown](https://www.3blue1brown.com)** — math explainer videos where animation carries the conceptual load, illustrating purposeful (not decorative) visual design.
 - **LMS-hosted weekly video messages** (Canvas, Moodle) — low-effort instructor presence videos that sustain connection in online courses.
@@ -133,7 +133,7 @@ Video is a multimedia channel: combining narration with relevant visuals can imp
 - Not suitable for content that depends on live learner questions, emergent discussion, or rapid adaptation
 
 #### Implementation Variability
-- **Flipped delivery**: expository videos replace in-class lecture; class time becomes [Practice](../elements/practice.md) and coaching ([Flipped Classroom](../patterns/flipped-classroom.md))
+- **Flipped delivery**: expository videos replace in-class lecture; class time becomes [Practice](../elements/practice.md) and coaching ([Flipped Classroom](../principles/flipped-learning.md))
 - **Supplemental micro-videos**: short targeted recordings addressing known misconceptions or difficult steps, alongside live teaching ([Blended Learning](../patterns/blended-learning.md))
 - **Reusable demonstration library**: narrated [Demonstration](../elements/demonstration.md) recordings (lab techniques, software procedures) reused across cohorts
 - **Personal video messages**: weekly check-ins and welcome videos that build instructor presence and social connection at low production cost
@@ -158,14 +158,14 @@ Video is a multimedia channel: combining narration with relevant visuals can imp
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — the dominant pattern built on pre-recorded expository video
+- [Flipped Classroom](../principles/flipped-learning.md) — the dominant pattern built on pre-recorded expository video
 - [Blended Learning](../patterns/blended-learning.md) — pre-recording is the asynchronous component of blended course designs
 - [Direct Instruction](../patterns/direct-instruction.md) — recorded lecture is a mediated form of explicit, instructor-led exposition
 - [Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged](offer-synchronous-and-recorded-lecture-options.md)
 - [Offer course lectures both live and as posted recordings to balance equity of access with schedule and accountability](offer-lectures-synchronous-and-recorded.md)
 
 ## Examples
-- **[Flipped Classroom](../patterns/flipped-classroom.md) implementations** (e.g., chemistry courses using [ChemTube3D](https://www.chemtube3d.com/) or instructor-recorded pre-lecture videos) — students watch short expository videos before class; class time is spent on problem-solving.
+- **[Flipped Classroom](../principles/flipped-learning.md) implementations** (e.g., chemistry courses using [ChemTube3D](https://www.chemtube3d.com/) or instructor-recorded pre-lecture videos) — students watch short expository videos before class; class time is spent on problem-solving.
 - **[Khan Academy](https://www.khanacademy.org)** — a library of short, informal, narrated demonstration videos; its low-production style aligns with engagement findings [Guo et al., 2014].
 - **[3Blue1Brown](https://www.3blue1brown.com)** — math explainer videos where animation carries the conceptual load, illustrating purposeful (not decorative) visual design.
 - **LMS-hosted weekly video messages** (Canvas, Moodle) — low-effort instructor presence videos that sustain connection in online courses.

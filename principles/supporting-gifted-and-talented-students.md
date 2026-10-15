@@ -1,7 +1,7 @@
 ---
 type: principle
 id: supporting-gifted-and-talented-students
-aliases: [perceived-giftedness-confers-training-resources]
+aliases: [perceived-giftedness-confers-training-resources, continuum-of-gifted-services]
 title: Supporting Gifted and Talented Students
 description: "For a student whose work on a unit shows the target already done, replacing the practice they do not need with acceleration or harder enrichment, chosen from that response rather than the label, is expected to sustain progress and engagement; no claim tests this, so the page gives a labelled default design."
 canonical: true
@@ -14,12 +14,16 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ746057"
     title: "Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057"
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W"
+  - id: gifted-and-talented-students-at-risk-for-underachievement-2008
+    resource: "https://www.centerforcsri.org"
+    title: "Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org"
+    author: Gifted and talented students at risk for underachievement
 ---
 
 # Supporting Gifted and Talented Students
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (8 for, 17 mixed) · 21 studies (9 review, 4 causal, 4 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 3 of 21 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (8 for, 18 mixed) · 22 studies (9 review, 4 causal, 4 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 22 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -29,7 +33,7 @@ This page owns how a teacher or designer plans **ordinary class instruction for 
 
 The relationship is conditional on four things. **What the student actually shows on this unit's work**: a gifted label or a test score from another year does not say whether the student already does this unit's target; the response does, and expertise is domain-specific, so a student advanced in mathematics may be a novice in the next writing unit. **Whether the replacement work is harder or only more**: extra worksheets at the same level, or enrichment the teacher cannot engage with, is what the earlier page calls busywork, not accommodation. **The kind of target**: acceleration suits cumulative subjects where the next unit builds on this one (`procedure`, `principle`); enrichment suits targets that open outwards (`complex-skill`, a talent in music, art or writing). **Who is identified at all**: under-identification of culturally and linguistically diverse students, and of girls where a test score alone gates entry, is reported in the wiki's identification claims, so a plan that serves only labelled students may miss students who show the same response.
 
-How the converted siblings sit beside this: [Mastery Learning](mastery-learning.md) holds the general gate-correct-recheck relationship; this page applies the same gate at the top, letting a student who already meets the criterion move on rather than wait. [Adaptive Learning](adaptive-learning.md) holds adjusting task difficulty and support to measured performance, which is how acceleration within a class is usually run. [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md) holds the fairness of an identification decision made from a test score, including gifted identification; this page does not repeat its model, and follows it for who gets into a programme. [Supporting Students with Intellectual Disabilities](supporting-students-with-intellectual-disabilities.md) sits at the other tail of the same distribution and shares the rule that a classification sets neither a ceiling nor a floor. [Provide a continuum of gifted services](continuum-of-gifted-services.md) is the school-level version of the same idea.
+How the converted siblings sit beside this: [Mastery Learning](mastery-learning.md) holds the general gate-correct-recheck relationship; this page applies the same gate at the top, letting a student who already meets the criterion move on rather than wait. [Adaptive Learning](adaptive-learning.md) holds adjusting task difficulty and support to measured performance, which is how acceleration within a class is usually run. [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md) holds the fairness of an identification decision made from a test score, including gifted identification; this page does not repeat its model, and follows it for who gets into a programme. [Supporting Students with Intellectual Disabilities](supporting-students-with-intellectual-disabilities.md) sits at the other tail of the same distribution and shares the rule that a classification sets neither a ceiling nor a floor. [Provide a continuum of gifted services](supporting-gifted-and-talented-students.md) is the school-level version of the same idea.
 
 ## Default design, while the relationship is untested
 
@@ -121,6 +125,7 @@ Learners, settings, outcomes and comparisons differ across these claims (trainee
 Read against the model on 2026-10-15; the rest are worked in above. These two bear on the definition of giftedness, not on provision.
 
 - [Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence](../claims/high-scorers-across-intelligences-support-g.md) [~W] and [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent](../claims/multiple-intelligences-weak-on-science-talent.md) [~W]: a review reporting a finding second-hand, and a position essay. They qualify the earlier page's link to [Multiple Intelligences Theory](../theories/multiple-intelligences-theory.md) as support for the broadened definition of giftedness; neither says what to do for a student who shows the response.
+- [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](../claims/capability-oriented-design-dimension.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -139,11 +144,9 @@ Progress on the next unit, progress on enrichment work, retention over time, eng
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — giftedness classification conventionally rests on an IQ threshold, inheriting that measure's caveats
 - [Supporting Students with Intellectual Disabilities](supporting-students-with-intellectual-disabilities.md) — sits at the opposite tail of the same IQ distribution, and shares the broader theme that a single test score is an incomplete basis for designing support
 - [Differentiated Teaching](../strategies/differentiated_teaching.md)
-- [Provide a continuum of gifted services and ensure teachers can differentiate instruction](continuum-of-gifted-services.md)
 - [Mastery Learning](mastery-learning.md) — the gate-correct-recheck relationship; this page applies the same gate at the top, letting a student who already meets the criterion move on
 - [Adaptive Learning](adaptive-learning.md) — adjusting difficulty and support to measured performance, how in-class acceleration is usually run
 - [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md) — the fairness of a gifted identification decision made from a test score
-- [Use multiple, culturally responsive assessment criteria rather than a single test cutoff to identify gifted students](multiple-criteria-gifted-identification.md)
 
 ## Examples
 
@@ -167,6 +170,7 @@ Progress on the next unit, progress on enrichment work, retention over time, eng
 - Colangelo, N., & Assouline, S. (2009). Acceleration: Meeting the academic and social needs of students. In T. Balchin, B. Hymer, & D. Matthews (Eds.), *The Routledge international companion to gifted education* (pp. 194-202). Routledge. [doi:10.1007/978-1-4020-6162-2_55](https://doi.org/10.1007/978-1-4020-6162-2_55)
 - Arduini-Van Hoose, N. (2020). Intelligence. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
+- Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -206,7 +210,7 @@ Support for gifted and talented students has historically been treated as a spec
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — giftedness classification conventionally rests on an IQ threshold, inheriting that measure's caveats
 - [Supporting Students with Intellectual Disabilities](supporting-students-with-intellectual-disabilities.md) — sits at the opposite tail of the same IQ distribution, and shares the broader theme that a single test score is an incomplete basis for designing support
 - [Differentiated Teaching](../strategies/differentiated_teaching.md)
-- [Provide a continuum of gifted services and ensure teachers can differentiate instruction](continuum-of-gifted-services.md)
+- [Provide a continuum of gifted services and ensure teachers can differentiate instruction](supporting-gifted-and-talented-students.md)
 
 ## Examples
 
@@ -263,4 +267,49 @@ The article argues that perceived "giftedness" operates mainly by giving childre
 
 ## Key Sources
 - Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
+-->
+
+<!-- merged 2026-10-15 from principles/continuum-of-gifted-services ("Provide a continuum of gifted services and ensure teachers can differentiate instruction"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Provide a continuum of gifted services and ensure teachers can differentiate instruction
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The brief recommends that schools provide a continuum of services—from general enrichment for all students to curriculum differentiation, acceleration, advanced classes, talent development, and counseling—so gifted students achieve to their potential. It also stresses teacher competency in differentiation, noting "Studies reveal that teachers rarely differentiate instruction or make accommodations for gifted students," and that professional development may build the needed skills.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers with competency in differentiating classroom instruction, potentially developed through professional development
+#### Constraints
+- Some practices, such as professional development, may require additional time and funding, while others, such as modifying grouping strategies, have no cost or are inexpensive
+
+### Target Learners
+- Gifted and talented students, including rapid learners and those at risk for underachievement
+
+### Target Learning Objectives
+- Academic achievement to potential and retention in school
+
+### Claims
+
+- Gifted Dropout Share [+M]
+- [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](../claims/capability-oriented-design-dimension.md) [~W]
+
+## Related Principles
+
+- [Use multiple, culturally responsive assessment criteria rather than a single test cutoff to identify gifted students](standardized-test-fairness-and-bias.md)
+- [Supporting Gifted and Talented Students](supporting-gifted-and-talented-students.md)
+
+## Examples
+
+- [Deploy prevention and intervention supports for underachieving gifted students](../strategies/gifted-underachievement-interventions.md)
+- [Extension Projects for Advanced Students](../strategies/extension_projects_for_advanced_students.md)
+- [Standard-Based Regrouping](../strategies/standard-based_regrouping.md)
+- [High expectations with advanced learning opportunities and productive struggle to empower Black students' genius](../strategies/advanced-learning-high-expectations-productive-struggle.md)
+
+## Key Sources
+- Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org
 -->

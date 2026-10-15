@@ -1,7 +1,7 @@
 ---
 type: principle
 id: evidence-based-teaching-and-scientific-reasoning
-aliases: [implement-research-based-pedagogy-not-untested-theories]
+aliases: [implement-research-based-pedagogy-not-untested-theories, field-test-before-full-implementation]
 title: Evidence-Based Teaching and Scientific Reasoning
 description: "For a teacher, designer or purchaser choosing an approach for other people's learners, writing the belief as a claim some result could refute, seeking a comparison that could have come out otherwise and the case against it, and adopting as a recorded local trial where no comparison exists, is expected to select approaches that do more for learners than choosing by impression, popularity or philosophy; no claim in the wiki tests this for practitioners' own decisions, and one school-reform evaluation tests a school-level version with mixed results."
 canonical: true
@@ -14,12 +14,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED500515"
     title: "Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515"
     author: Peariso, J. F
+  - id: huenecke-1975
+    resource: "https://eric.ed.gov/?id=ED123751"
+    title: "Huenecke, Dorothy M.; Stansbury, George W. (1975). A Systems Approach to Staff Development. Georgia State Dept. of Education. https://eric.ed.gov/?id=ED123751"
+    author: Huenecke, Dorothy M.; Stansbury, George W
 ---
 
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (10 for, 9 mixed, 2 against) · 21 studies (6 causal, 5 associational, 4 review, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 0 of 21 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (11 for, 9 mixed, 2 against) · 22 studies (6 causal, 5 associational, 4 review, 4 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 22 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +152,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](../claims/districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) [~W] — a survey of how districts decide (81 percent peer or consultant recommendations against 49 percent rigorous evidence); describes the starting response this page addresses.
 - [Focal math teachers relied primarily on their own observations of student behavior to understand students' feelings about math, supplemented by surveys, with disaggregated data rare](../claims/teacher-observation-primary-perception-data-source.md) [-W] — interviews with 10 middle-school maths teachers nominated as early adopters; describes reliance on personal observation for one kind of judgment; bears on this page only as a description of practice.
 - [A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate](../claims/trust-not-equivalent-to-ai-accuracy.md) [+W] — a mixed-methods study of 40 undergraduates in physics, reported in a review; bears on trust without checking, for a new kind of source, not on teachers' adoption decisions.
+- [Sequential Field Testing Go No Go](../claims/sequential-field-testing-go-no-go.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -179,6 +184,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - Stanovich, K. E. (2010). *How to think straight about psychology* (9th ed.). Allyn & Bacon.
 - Arduini-Van Hoose, N. (2020). The science of educational psychology; The scientific method. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515
+- Huenecke, Dorothy M.; Stansbury, George W. (1975). A Systems Approach to Staff Development. Georgia State Dept. of Education. https://eric.ed.gov/?id=ED123751
 
 <!-- deprecated 2026-10-14: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -288,4 +294,41 @@ The review's concluding recommendation is that the education field should choose
 
 ## Key Sources
 - Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515
+-->
+
+<!-- merged 2026-10-15 from principles/field-test-before-full-implementation ("Conduct and evaluate a field test before implementing a staff development plan at scale"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Conduct and evaluate a field test before implementing a staff development plan at scale
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The workbook instructs planners to run a trial of the plan on a small sample of staff and students, and evaluate it, before large-scale implementation. It argues that although thorough planning precedes the field test, "if aeld test is not conducted and the results evaluated before the plan is implemented, valuable human and financial resource* may be wasted." Evaluation is structured as sequential go/no-go judgments on competencies attained, objectives attained, and program efficiency and economy.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Student objectives and teacher competencies identified, strategies designed and organized, and administration techniques developed before the field test
+#### Constraints
+- A complete field test is sometimes out of the question because of funding and time demands; viewing the total program as a field test is far from the ideal
+
+### Target Learners
+- school and district staff development planners
+
+### Target Learning Objectives
+- apply managerial and evaluation techniques for implementing a staff development plan
+
+### Claims
+- [Sequential Field Testing Go No Go](../claims/sequential-field-testing-go-no-go.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Huenecke, Dorothy M.; Stansbury, George W. (1975). A Systems Approach to Staff Development. Georgia State Dept. of Education. https://eric.ed.gov/?id=ED123751
 -->

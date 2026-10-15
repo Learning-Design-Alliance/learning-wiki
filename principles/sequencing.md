@@ -1,7 +1,7 @@
 ---
 type: principle
 id: sequencing
-aliases: [articulate-partial-meanings-integral-planning, free-exploration-before-organized-plan-sequence, number-difficulty-impacts-mdc-construction, vicarious-before-mastery-teacher-development, oral-aural-before-literacy-foreign-language]
+aliases: [articulate-partial-meanings-integral-planning, free-exploration-before-organized-plan-sequence, number-difficulty-impacts-mdc-construction, vicarious-before-mastery-teacher-development, oral-aural-before-literacy-foreign-language, affective-sequencing-requires-own-principles]
 title: Sequencing
 description: "For a novice on a target whose parts depend on each other, meeting the parts in an order that puts what a step rests on before it and moves from what the learner can process toward full complexity, revised from the learner's responses, is expected to improve performance on tasks that draw on the whole; no claim tests that general rule, and tests of particular orders (example or problem first, parts or whole first, blocked or mixed) favour different orders for different learners and goals."
 canonical: true
@@ -38,6 +38,10 @@ sources:
     resource: "https://eric.ed.gov/?id=ED417613"
     title: "Neiburg, Michael S. (1997). Following Native Language Acquisition. Paper presented at the Annual Meeting of the Japan Association for Language Teaching (23rd, Hamamatsu, Japan, October 11, 1997). https://eric.ed.gov/?id=ED417613"
     author: Neiburg, Michael S
+  - id: wu-2000
+    resource: "https://eric.ed.gov/?id=ED455810"
+    title: "Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810"
+    author: Wu, Yann-Shya
 ---
 
 # Sequencing
@@ -113,7 +117,7 @@ The three facts that most change the decision:
 | A single session only | Order the session as primer or map (5 minutes), one example, guided items, one unaided check; teach only as many stages as the check can confirm, and do not claim retention | untested proposal |
 | A fixed short time budget (for example 20 minutes a day, or two sessions where three were planned) | Fit the order to the minutes: cut stages rather than compress them, keep the move-on check, and put the rest of the map on a list for later sessions | untested proposal |
 | The brief names its own sequence, scope and sequence, syllabus or categories | Keep its order and categories; change only what the evidence says matters (a prerequisite check before a stage, an example before the first problem, a mixed review once categories are met, an explicit transition) | untested proposal |
-| Content is personal or sensitive (emotions, identity, experience of harm) | Move from others' or fictional cases to the learner's own experience, from recognising to reflecting; let the learner decide whether and with whom to share their own | untested proposal; one emotional-literacy curriculum is described as ordered cognitive to behavioural to affective and external to internal ([PATHS within-lesson order](../claims/paths-within-lesson-cognitive-to-affective-sequencing.md) [+W], a document analysis, no outcome), with basic emotions taught before the complex ones built on them ([PATHS basic to complex](../claims/paths-basic-to-complex-hierarchical-spiral-sequencing.md) [+W]); see [affective sequencing](affective-sequencing-requires-own-principles.md) |
+| Content is personal or sensitive (emotions, identity, experience of harm) | Move from others' or fictional cases to the learner's own experience, from recognising to reflecting; let the learner decide whether and with whom to share their own | untested proposal; one emotional-literacy curriculum is described as ordered cognitive to behavioural to affective and external to internal ([PATHS within-lesson order](../claims/paths-within-lesson-cognitive-to-affective-sequencing.md) [+W], a document analysis, no outcome), with basic emotions taught before the complex ones built on them ([PATHS basic to complex](../claims/paths-basic-to-complex-hierarchical-spiral-sequencing.md) [+W]); see [affective sequencing](sequencing.md) |
 | Stakes are high or errors are costly (safety, compliance, a licensing exam) | Do not move on by the calendar; require unaided success at each stage on representative tasks, and keep a cumulative check of earlier stages in every later one | untested proposal |
 | The brief already names its stages or order ("first the screens, then one field, then a full note") | Use the brief's stages as the skeleton and change only what the evidence speaks to inside them: what each stage checks before moving on, where a worked example or partial task goes, and how the trainer samples work when alone with a group; keep time reserved for the brief's own final assessment | untested proposal |
 
@@ -190,7 +194,6 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Knowledge Organization](knowledge-organization.md) — which organisation the learner should end up holding
 - [Worked Examples](worked-examples.md) — what comes before the first problem
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support changes across the stages
-- [Affective sequencing](affective-sequencing-requires-own-principles.md) — ordering emotional and affective learning
 
 ## Examples
 
@@ -214,6 +217,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - Neiburg, Michael S. (1997). Following Native Language Acquisition. Paper presented at the Annual Meeting of the Japan Association for Language Teaching (23rd, Hamamatsu, Japan, October 11, 1997). https://eric.ed.gov/?id=ED417613
 - Hergenhahn, B. R. (2009). *An introduction to the history of psychology*. Wadsworth.
 - Arduini-Van Hoose, N. (2020). History of educational psychology. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -508,7 +512,7 @@ This pattern scaffolds learners into data storytelling and critical data literac
 - Topic and dataset choice in the DIY stage lets learners anchor the activity to something personally relevant, which the source study found was linked to more critical engagement.
 
 ## Related Patterns
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — the peer Q&A stage functions as a collaborative-inquiry structure, though this pattern emphasizes individual/group performance and personal stance more than shared investigation throughout
+- [Collaborative Inquiry](inquiry-based-learning.md) — the peer Q&A stage functions as a collaborative-inquiry structure, though this pattern emphasizes individual/group performance and personal stance more than shared investigation throughout
 
 ## Examples
 - Prospective mathematics and social-studies teachers used Gapminder and a Hans Rosling TED talk as the remix exemplar, then authored performances on topics like global CO2 emissions and national wealth/health measures.
@@ -620,4 +624,45 @@ The pattern is historically significant as one of the earliest attempts to syste
 ## Key Sources
 - Hergenhahn, B. R. (2009). *An introduction to the history of psychology*. Wadsworth.
 - Arduini-Van Hoose, N. (2020). History of educational psychology. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-15 from principles/affective-sequencing-requires-own-principles ("Do not simply reuse cognitive and psychomotor sequencing principles when sequencing affective learning"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Do not simply reuse cognitive and psychomotor sequencing principles when sequencing affective learning
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+Because emotional literacy curricula draw on sequencing strategies beyond those used in cognitive and psychomotor learning, instructional designers should not assume existing sequencing strategies transfer directly to the affective domain. The article concludes "it will not be appropriate, in curriculum design for affective learning, to simply reuse the sequencing principles proper to procedural and cognitive learning," and that designers should seek further guidance from research and practice for emotional development education.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Designers need analysis of the specific relationships within affective content, such as basic-to-complex emotion hierarchies and intensity, synonymous, and antonymous relationships between feelings.
+#### Constraints
+- The article's guidelines derive from analysis of one curriculum, PATHS, and only one dimension of affective learning, emotional development.
+
+### Target Learners
+- Elementary school children learning emotional literacy
+
+### Target Learning Objectives
+- Instructional sequencing of emotional literacy curricula
+
+### Claims
+
+- [Paths Topical Sequencing Four Guidelines](../claims/paths-topical-sequencing-four-guidelines.md) [+M]
+- [Paths Basic To Complex Hierarchical Spiral Sequencing](../claims/paths-basic-to-complex-hierarchical-spiral-sequencing.md) [+M]
+- [PATHS macro-level sequencing combines spiral and topical sequencing patterns](../claims/paths-macro-sequencing-spiral-topical-combination.md) [+W]
+- [Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal](../claims/paths-within-lesson-cognitive-to-affective-sequencing.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810
 -->

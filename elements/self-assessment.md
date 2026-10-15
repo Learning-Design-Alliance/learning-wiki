@@ -70,7 +70,7 @@ Self-assessment is the element in which learners judge their own work, understan
 
 ## Patterns That Use This Element
 - [Formative Assessment](../patterns/formative-assessment.md)
-- [LDA Reflection](../patterns/lda-reflection.md)
+- [LDA Reflection](../principles/reflection.md)
 
 ## Examples
 - Learners score a draft against a rubric before submission.

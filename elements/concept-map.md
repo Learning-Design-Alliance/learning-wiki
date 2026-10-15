@@ -65,7 +65,7 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Concept/semantic map](concept-semantic-map-element.md)
 
 ## Patterns That Use This Element
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — mapping in the "Explain" and "Elaborate" phases to consolidate relationships
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — mapping in the "Explain" and "Elaborate" phases to consolidate relationships
 - [Concept Attainment](../patterns/concept-attainment.md) — maps record the attributes and exemplars that define attained concepts
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — expert maps model how a domain expert organizes knowledge
 

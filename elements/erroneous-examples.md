@@ -43,7 +43,7 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 ### Affordances
 - [Error Analysis](../principles/error-analysis.md)
 - [Worked Examples](../principles/worked-examples.md)
-- [Explaining Their Thinking](../principles/self-explanation.md)
+- [Explaining Their Thinking](../principles/cognitive-activation.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -56,7 +56,7 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 
 ## Patterns That Use This Element
 - [Mastery Learning](../patterns/mastery-learning.md)
-- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 
 ## Examples
 - Students inspect a flawed algebra solution and explain where the reasoning breaks.

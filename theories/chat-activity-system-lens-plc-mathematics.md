@@ -46,7 +46,7 @@ The review uses CHAT, in which "activity systems are taken as the smallest unit 
 
 ## Examples
 
-- [Mediating artifacts in mathematics PLC are selected according to the PLC's object](../patterns/plc-mediating-artifacts-vary-by-object.md)
+- [Mediating artifacts in mathematics PLC are selected according to the PLC's object](../principles/communities-of-practice.md)
 
 ## Key Sources
 - Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397

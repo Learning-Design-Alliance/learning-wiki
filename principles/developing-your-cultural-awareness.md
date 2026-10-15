@@ -151,7 +151,7 @@ A changed scenario response, a changed tally, a changed learner experience and a
 - [Building Empathy](building-empathy.md) — empathy supports more careful interpretation of learner experience and perspective.
 - [Discussing Race](discussing-race.md) — race-conscious dialogue requires instructor reflection and cultural awareness to be facilitative rather than harmful.
 - [Strengths-Based Approach](strengths-based-approach.md) — awareness is more useful when it shifts interpretation toward learner assets and possibilities.
-- [Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses](reciprocal-bidirectional-knowledge-exchange-international-courses.md)
+- [Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses](community-based-learning.md)
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — holds the classroom norms and the reading of departures from them that this page helps an educator learn to make.
 - [Reflection](reflection.md) — holds examining a past performance against a criterion, the engine of each cycle here.
 
@@ -223,7 +223,7 @@ Developing cultural awareness improves instruction when it changes how educators
 - [Building Empathy](building-empathy.md) — empathy supports more careful interpretation of learner experience and perspective.
 - [Discussing Race](discussing-race.md) — race-conscious dialogue requires instructor reflection and cultural awareness to be facilitative rather than harmful.
 - [Strengths-Based Approach](strengths-based-approach.md) — awareness is more useful when it shifts interpretation toward learner assets and possibilities.
-- [Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses](reciprocal-bidirectional-knowledge-exchange-international-courses.md)
+- [Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses](community-based-learning.md)
 
 ## Examples
 

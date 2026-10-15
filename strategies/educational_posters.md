@@ -70,7 +70,7 @@ Posters work as external memory aids: they offload reference information from wo
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — reference posters support the guided practice phase
-- [Cognitive Load Reduction](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md) — posters offload reference information from working memory during complex tasks
+- [Cognitive Load Reduction](../principles/cognitive-load-theory.md) — posters offload reference information from working memory during complex tasks
 
 ## Examples
 - **Anchor charts in workshop-model classrooms** (e.g., Teachers College Reading & Writing Project routines) — co-created charts recording the steps of a reading strategy, referenced during independent reading ([https://readingandwritingproject.org](https://readingandwritingproject.org))

@@ -59,7 +59,7 @@ Structured questioning promotes deeper processing by requiring learners to gener
 - Inquiry skills: eventually generating one's own questions [Teaching students to generate questions improves comprehension.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 
 ### Affordances
-- [Constructivism](../principles/constructivism.md) — structured questioning enacts this principle by making learners actively construct explanations rather than receive transmitted content, while the structure prevents the failure modes of unguided discovery
+- [Constructivism](../principles/cognitive-activation.md) — structured questioning enacts this principle by making learners actively construct explanations rather than receive transmitted content, while the structure prevents the failure modes of unguided discovery
 - [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — questioning serves the coaching and articulation phases: the instructor elicits and shapes learner reasoning the way a master probes an apprentice's decisions
 - [Scaffolding](../principles/scaffolding.md) — a question sequence is scaffolding in dialogue form; the design decision is when to fade prompts toward learner-generated questions
 - [Active Learning](../principles/active-learning.md) — every learner response is generative cognitive work; questioning structures that work into a predictable routine
@@ -78,7 +78,7 @@ Structured questioning promotes deeper processing by requiring learners to gener
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — coaching and articulation phases
 - [Direct Instruction](../patterns/direct-instruction.md) — guided practice with high-frequency teacher questioning and checks for understanding
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — questioning provides the structure that keeps discussion productive
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — questioning provides the structure that keeps discussion productive
 
 ## Examples
 

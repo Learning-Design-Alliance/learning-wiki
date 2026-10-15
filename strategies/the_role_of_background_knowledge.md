@@ -70,9 +70,9 @@ Comprehension and learning depend far more on prior knowledge than on general ab
 - [Case Studies](../elements/case-studies.md) — supply rich, shared context so all learners work from common knowledge
 
 ## Patterns That Use This Strategy
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the "Engage" phase surfaces and activates background knowledge before explanation
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — the "Engage" phase surfaces and activates background knowledge before explanation
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — assumes learners bring everyday reasoning that instruction must connect to expert practice
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — instruction builds directly on the informal mathematical knowledge children bring
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — instruction builds directly on the informal mathematical knowledge children bring
 
 ## Examples
 - **Negative-number cubes**: red cubes as "hot" (positive) and blue cubes as "cold" (negative) numbers give learners a concrete experiential anchor for abstract integer operations.

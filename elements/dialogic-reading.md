@@ -67,7 +67,7 @@ Dialogic reading reliably improves expressive vocabulary and oral language in yo
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the adult models storytelling language, then fades support as the child takes over the narration
 - [Direct Instruction](../patterns/direct-instruction.md) — the structured prompt hierarchy gives the interaction an explicit, teachable script
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — an early-childhood instantiation of dialogue as the engine of learning
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — an early-childhood instantiation of dialogue as the engine of learning
 
 ## Examples
 

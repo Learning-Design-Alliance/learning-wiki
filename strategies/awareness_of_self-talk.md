@@ -81,7 +81,7 @@ Self-talk awareness is the entry point for most self-regulation and reframing in
 6. Follow-up — introduce reframing or instructional self-talk ("What do I do next?") so awareness converts into a usable strategy.
 
 ## Related Strategies
-- [Growth Mindset](../principles/growth-mindset.md) — self-talk awareness supplies the noticing step that makes reframing ability beliefs possible
+- [Growth Mindset](../principles/motivation.md) — self-talk awareness supplies the noticing step that makes reframing ability beliefs possible
 - [Check-In](../elements/check-in.md) — brief emotional check-ins surface the affective state that self-talk accompanies
 - [Journaling](journaling.md) — the log format is a journaling application aimed at inner dialogue
 - Growth mindset framing — pairs naturally, since awareness of fixed-ability self-talk is the trigger for revising it

@@ -37,7 +37,7 @@ Homework quality — not quantity — drives its contribution to achievement; ti
 #### Implementation Variability
 - **Practice homework** — exercises consolidating a skill taught in class
 - **Application homework** — real-world tasks (interviews, authentic language use, data collection) connecting content to life
-- **Preparation homework** — readings or questions completed before class, as in a [Flipped Classroom](../patterns/flipped-classroom.md)
+- **Preparation homework** — readings or questions completed before class, as in a [Flipped Classroom](../principles/flipped-learning.md)
 - **Choice-based homework** — menus or [Choice Boards](../elements/choice-boards.md) letting learners select tasks matching interest and level
 - **Interactive homework** — family-involved tasks (e.g., TIPS — Teachers Involve Parents in Schoolwork) designed by Epstein and colleagues
 
@@ -59,7 +59,7 @@ Homework quality — not quantity — drives its contribution to achievement; ti
 5. Review submissions and feed back into instruction; use completion as [Assessment](../elements/assessment.md) evidence, not just a grade [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 
 ## Related Strategies
-- [Flipped Classroom](../patterns/flipped-classroom.md) — preparation homework delivers first exposure so class time is freed for practice
+- [Flipped Classroom](../principles/flipped-learning.md) — preparation homework delivers first exposure so class time is freed for practice
 - [Direct Instruction](../patterns/direct-instruction.md) — homework functions as the independent-practice phase that follows guided instruction
 - [Cooperative Learning](../patterns/cooperative-learning.md) — some homework can be collaborative, with individual accountability
 

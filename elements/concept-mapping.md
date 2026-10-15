@@ -59,7 +59,7 @@ Concept mapping is the element in which learners represent concepts and their re
 
 ## Patterns That Use This Element
 - [Elaboration Theory](../patterns/elaboration-theory.md)
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
 - Learners map relationships among causes, effects, and stakeholders in a history unit.

@@ -65,7 +65,7 @@ Questioning that targets the *reasoning behind* an error converts a mistake into
 
 ## Examples
 - Instead of telling a student they cannot subtract a larger number from a smaller number, ask: "Do we have enough ones to take 7 ones from 3 ones?" Instead of directly correcting an incorrectly renamed minuend, ask: "Does 8 tens and 13 tens equal 83?"
-- **Cognitively Guided Instruction** ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)) — teachers elicit children's informal solution strategies through questioning before introducing formal procedures, treating incorrect strategies as windows into thinking
+- **Cognitively Guided Instruction** ([CGI for Math](../principles/responsive-teaching.md)) — teachers elicit children's informal solution strategies through questioning before introducing formal procedures, treating incorrect strategies as windows into thinking
 - **"My Favorite No"** — a widely used classroom routine in which an anonymous incorrect answer is displayed and the class is questioned to identify what is right about it and where the reasoning breaks down
 
 ## Key Sources

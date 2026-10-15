@@ -58,7 +58,7 @@ Ten frames leverage the visual system to offload counting and support subitizing
 5. Extend to double ten-frames for teen numbers, connecting to place value; fade the frame as learners internalize the structure and can reason with numerals alone.
 
 ## Related Strategies
-- [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — ten frames are a common representation within CGI's research-based progression of number strategies
+- [Cognitively Guided Instruction](../principles/responsive-teaching.md) — ten frames are a common representation within CGI's research-based progression of number strategies
 - [Direct Instruction](../patterns/direct-instruction.md) — teacher-modeled use of the frame follows a demonstration-then-practice structure
 
 ## Examples

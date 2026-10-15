@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: social-emotional-learning
+aliases: [responsive-classroom]
 title: Social Emotional Learning
 description: "For school-age learners, a sustained programme, delivered mainly by their own teachers, that explicitly teaches one named social or emotional skill at a time, rehearses it actively with feedback and cues it in daily routines and academic work is expected to improve those skills most, and conduct, distress and achievement by smaller amounts, with gains persisting at follow-up; meta-analyses test universal K–12 SEL programmes as a whole against controls, but no claim tests this sequence's steps, adult learners or one-off formats."
 canonical: true
@@ -15,7 +16,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 24 claims (15 for, 9 mixed) · 37 studies (12 causal, 11 quant-synthesis, 10 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 37 report an effect size · 13 claims rest on one study
+> **Evidence** · 27 claims (18 for, 9 mixed) · 43 studies (14 causal, 13 quant-synthesis, 12 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 43 report an effect size · 14 claims rest on one study
 
 ## Description and scope
 
@@ -117,6 +118,9 @@ Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which 
 - [In Guglielmo and Tryon (2001), social skills training plus reinforcement increased sharing behaviors significantly more than reinforcement alone, while effects on being in a group were positive but not significant](../claims/taking-part-training-increases-sharing-behaviors.md) [~W] — attached 2026-10-07 from Social Skills Training (2013), which proposed "Behavioral social skills lesson pattern: instruct, model, practice, reinforce".
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](../claims/sel-classroom-approaches-three-types.md) [+W] — attached 2026-10-09 from Collaborative for Academic et al. (2020), which proposed "SAFE: four elements of high-quality SEL instruction".
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](../claims/sel-effects-moderators-implementation-delivery.md) [~W] — attached 2026-10-10 from Greenberg (2023), which proposed "Use SAFE program design — Sequenced, Active, Focused, Explicit — for effective SEL programming"; tests this page's relationship.
+- Particularly beneficial for students at risk of exclusionary discipline or weak school belonging [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
+- [Students' success in school and beyond is inextricably linked to healthy social and emotional development](../claims/school-success-linked-social-emotional-development.md) [+W]
+- [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M] — RC's teacher language and goal-setting routines embed formative feedback into daily interaction
 
 ## Illustrative design instance and observation record
 
@@ -147,6 +151,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Formative Assessment](formative-assessment.md) — its feedback culture overlaps with SEL's self-management goal; both depend on students interpreting feedback as information, not judgment
 - [Self-Regulated Learning](self-regulated-learning.md) — owns planning, monitoring and acting on a learning task; SEL's self-management strand overlaps it and extends to emotion and conduct
 - [Direct Instruction](direct-instruction.md) — the format of the explicit skill lesson in step 2
+- [Community of Inquiry](../principles/community-of-inquiry.md) — both treat social presence as a precondition for deep engagement, though RC operates at classroom-routine grain rather than discourse grain
 
 ## Examples
 
@@ -157,6 +162,9 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 **RULER approach (Yale Center for Emotional Intelligence):** Teaches Recognizing, Understanding, Labeling, Expressing, and Regulating emotion through tools like the Mood Meter; implemented school-wide so adults and students use a shared emotional vocabulary.
 
 **Medical education — reflective practice seminars:** Residency programs use structured case discussions and Balint-style groups to develop self-awareness, empathy, and relationship skills with patients — SEL competencies reframed as professional formation.
+- **[Center for Responsive Schools](https://www.responsiveschool.org)** — the developer organization; publishes RC professional development, the *Responsive Classroom* course sequence, and implementation fidelity tools used in the evaluation studies below.
+- **Fairfield, Connecticut elementary schools (i3-scale RCT):** A large randomized controlled trial across 24 elementary schools found significant gains in math and reading achievement and improved teacher efficacy in schools implementing RC with fidelity (Ottmar et al., 2017).
+- **Morning Meeting in a 3rd-grade classroom:** 25-minute daily meeting — greeting around the circle, two student shares with peer questions, a quick cooperative game, and preview of the day's learning goals — followed by interactive modeling of the new math-station routine.
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
@@ -168,6 +176,11 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - Cipriano, C., Strambler, M. J., Naples, L. H., Ha, C., Kirk, M., Wood, M., Sehgal, K., Zieher, A. K., Eveleigh, A., McCarthy, M., Funaro, M., Ponnock, A., Chow, J. C., & Durlak, J. (2023). The state of evidence for social and emotional learning: A contemporary meta-analysis of universal school-based SEL interventions. *Child Development, 94*(5), 1181–1204. [doi:10.1111/cdev.13968](https://doi.org/10.1111/cdev.13968)
 - Zhao, Y., & Sang, B. (2025). The Effect of Social–Emotional Learning Programs on Elementary and Middle School Students' Academic Achievement: A Meta-Analytic Review. *Behavioral Sciences, 15*(11), 1527. [doi:10.3390/bs15111527](https://doi.org/10.3390/bs15111527)
 - Bierman, K. L., Heinrichs, B. S., Welsh, J. A., Jones, D. E., & Crowley, D. M. (2026). Promoting resilience with social–emotional learning: Young adult follow-up of a preschool randomized-controlled trial. *American Psychologist*. Advance online publication. [doi:10.1037/amp0001765](https://doi.org/10.1037/amp0001765)
+- Ottmar, E. R., Rimm-Kaufman, S. E., Larsen, R. A., & Merritt, E. G. (2017). Establishing classroom communities: What does it take to implement Responsive Classroom practices fully? *Journal of School Psychology, 62*, 1–16.
+- Rimm-Kaufman, S. E., & Chiu, Y.-J. (2007). Promoting social and academic competence in the classroom: An intervention study examining the contribution of the Responsive Classroom approach. *Psychology in the Schools, 44*(4), 397–413. [doi:10.1002/pits.20231](https://doi.org/10.1002/pits.20231)
+- Rimm-Kaufman, S. E., Larsen, R. A. A., Baroody, A. E., Curby, T. W., Ko, M., Thomas, J. B., Merritt, E. G., Abry, T., & DeCoster, J. (2014). Efficacy of the Responsive Classroom approach: Results from a 3-year, longitudinal randomized controlled trial. *American Educational Research Journal, 51*(3), 567–603. [doi:10.3102/0002831214523821](https://doi.org/10.3102/0002831214523821)
+- Center for Responsive Schools. (2016). *Responsive Classroom for middle school*. Center for Responsive Schools.
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -284,4 +297,115 @@ Program or course — durable effects require multi-year implementation with sus
 - Belfield, C., Bowden, A. B., Klapp, A., Levin, H., Shand, R., & Zander, S. (2015). The economic value of social and emotional learning. *Journal of Benefit-Cost Analysis, 6*(3), 508–544. [doi:10.1017/bca.2015.55](https://doi.org/10.1017/bca.2015.55)
 - Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Child Policy Nexus, 26*(4), 1-33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
 - Collaborative for Academic, Social, and Emotional Learning. (2020). *CASEL's SEL framework*. [https://casel.org/casel-sel-framework/](https://casel.org/casel-sel-framework/)
+-->
+
+<!-- merged 2026-10-15 from patterns/responsive-classroom ("Responsive Classroom"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Responsive Classroom
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 5 claims (5 for) · 12 studies (4 causal, 4 review, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 1 claim rests on one study
+
+## Description
+Responsive Classroom (RC) is a research- and evidence-based social-emotional learning (SEL) approach for K–8 classrooms developed by the Northeast Foundation for Children. It treats social skills and academic learning as inseparable: teachers use structured routines — most notably the daily [Morning Meeting](../elements/check-in.md), rule creation with students, interactive modeling, academic choice, and positive teacher language — to build a caring classroom community in which academic engagement can flourish. The approach solves the problem of treating behavior management and instruction as separate systems by embedding relationship-building and self-regulation into the same daily structures that deliver content.
+
+## Implications
+
+RC rests on the finding that students' sense of belonging and autonomy drives both motivation and achievement: students learn more when they feel known, have voice in classroom norms, and experience [choice](../elements/choice-boards.md) in their learning [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Belonging interventions and community-building routines produce measurable gains in outcomes, particularly for students at risk of disengagement [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]. Proactive, relationship-based discipline — teaching expectations explicitly through interactive modeling rather than reacting with punishment — reduces exclusionary discipline, with empathic relationship-building shown to cut suspensions [Brief empathic discipline intervention cuts suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M].
+
+### Context
+#### Requirements
+- Daily time protected for community routines (Morning Meeting, closing circle) — typically 20–30 minutes
+- Teacher training in RC practices; fidelity matters more than partial adoption
+- School-wide consistency for full effect; isolated classroom adoption yields weaker results
+- Small enough class sizes to give every student a voice in meetings and rule creation
+
+#### Constraints
+- Requires significant instructional time; schools under intense test-pressure regimes often cut meeting time first [~M]
+- Effects depend on implementation fidelity — low-fidelity adoption shows little benefit [~M]
+- Designed for K–8 developmental range; routines need substantial adaptation (and lose evidence support) at secondary level
+- Whole-school adoption demands sustained professional development; one-off workshops do not produce lasting practice change [-M]
+
+#### Grain Size
+Lesson-level routines (Morning Meeting, academic choice) nested within a school-wide program; strongest evidence comes from multi-year whole-school implementation.
+
+### Target Goals
+- Social-emotional competencies: cooperation, assertiveness, responsibility, empathy, self-control (CARES)
+- Academic engagement and on-task behavior
+- Positive school climate and reduced exclusionary discipline
+- Student voice and ownership of classroom norms [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
+
+### Target Learners
+- K–8 students, originally developed for elementary classrooms
+- Particularly beneficial for students at risk of exclusionary discipline or weak school belonging [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
+- Teachers seeking an integrated alternative to separate behavior-management and SEL curricula
+
+### Theory
+#### Supporting
+
+- [Self-Determination Theory](../theories/self-determination-theory.md) (Deci & Ryan) — student rule creation, academic choice, and positive teacher language support the autonomy, competence, and relatedness needs that drive intrinsic motivation
+- [Social Learning Theory](../theories/social-learning-theory.md) (Bandura) — interactive modeling teaches social and academic behaviors through observation and rehearsal rather than rules alone
+- [Constructivism](../theories/constructivism.md) — students co-construct classroom norms and learning goals rather than receiving them
+- [Students' success in school and beyond is inextricably linked to healthy social and emotional development](../claims/school-success-linked-social-emotional-development.md) [+W]
+
+#### Contradicting / Qualifying
+- [Behaviorism](../theories/behaviorism.md) — RC deliberately replaces reward/punishment contingency management with logical consequences and community accountability; strict behavioral systems conflict with its teacher-language practices
+
+### Claims
+#### Supporting
+- [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M] — community routines build the belonging that RC treats as a precondition for learning
+- [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S] — academic choice and student-generated rules operationalize autonomy support
+- [Brief empathic discipline intervention cuts suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M] — relationship-first discipline reduces exclusionary responses to misbehavior
+- [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M] — RC's teacher language and goal-setting routines embed formative feedback into daily interaction
+
+#### Contradicting
+- None identified — though implementation-fidelity studies show weak or null effects where adoption is partial [~M]
+
+## Design
+
+### Sequence
+A typical RC day/week follows this practice architecture:
+
+1. **Morning Meeting** — daily [check-in](../elements/check-in.md) with greeting, sharing, group activity, and news/announcement; builds community and sets academic purpose
+2. **Interactive Modeling** — teacher models a behavior or routine, students observe, then rehearse and give feedback ([demonstration](../elements/articulation.md) plus peer feedback rather than rule announcement)
+3. **Co-created Rules** — students generate hopes and dreams; class rules derive from them, giving students ownership of norms
+4. **Academic Choice** — lessons offer structured [choice](../elements/choice-boards.md) in how to practice or demonstrate learning (e.g., choice of product, partner, or problem set)
+5. **Positive Teacher Language** — reinforcing, reminding, and redirecting language that names specific behaviors rather than judging the child
+6. **Logical Consequences** — misbehavior met with repair-and-restore responses ("you break it, you fix it," loss of privilege tied to the behavior, take-a-break) instead of punitive sanctions
+7. **Closing Circle / Reflection** — end-of-day [reflection](../elements/reflection.md) consolidating learning and community
+
+### Affordances
+- [Collaborative Learning](../principles/collaborative-learning.md) — Morning Meeting sharing and group activity structures make peer interaction a daily, taught routine rather than an occasional activity
+- [Active Learning](../principles/active-learning.md) — academic choice and interactive modeling require students to do, rehearse, and respond rather than passively receive rules or content
+- [Assessment for Learning](../principles/assessment-for-learning.md) — teacher language and closing reflections give continuous, low-stakes feedback loops within the school day
+- [Belonging](../elements/belonging.md) — greetings by name, sharing, and co-created norms directly build each student's sense of being known and valued
+
+### Personalization
+
+**Young learners (K–2):** Shorten Morning Meeting to 10–15 minutes; use songs, movement, and props in greetings; make rules concrete and pictorial.
+
+**Upper elementary / middle grades (5–8):** Shift sharing toward academic discourse; let students lead meeting components; use advisory-style meetings to fit adolescent identity needs.
+
+**Students with behavioral challenges:** Use proactive [check-ins](../elements/check-in.md) and take-a-break spaces before escalation; pair logical consequences with explicit re-teaching of the expectation through interactive modeling.
+
+**Students with language differences or disabilities:** Provide visual schedules and sentence frames for sharing; allow nonverbal participation in greetings; apply [accommodations](../elements/accommodations.md) within, not instead of, the community routines.
+
+**Low-belonging or newcomer students:** Assign consistent greeting partners and structured sharing roles so every student is addressed by name daily — the routine itself functions as a belonging intervention [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
+
+## Related Patterns
+- [Cooperative Learning](cooperative-learning.md) — shares the premise that structured peer interaction drives both social and academic outcomes; RC supplies the community routines that make cooperative structures sustainable
+- [Direct Instruction](direct-instruction.md) — RC is complementary rather than opposed: interactive modeling applies explicit teaching to social skills, while academic content can still be delivered through direct instruction
+- [Community of Inquiry](../principles/community-of-inquiry.md) — both treat social presence as a precondition for deep engagement, though RC operates at classroom-routine grain rather than discourse grain
+
+## Examples
+- **[Center for Responsive Schools](https://www.responsiveschool.org)** — the developer organization; publishes RC professional development, the *Responsive Classroom* course sequence, and implementation fidelity tools used in the evaluation studies below.
+- **Fairfield, Connecticut elementary schools (i3-scale RCT):** A large randomized controlled trial across 24 elementary schools found significant gains in math and reading achievement and improved teacher efficacy in schools implementing RC with fidelity (Ottmar et al., 2017).
+- **Morning Meeting in a 3rd-grade classroom:** 25-minute daily meeting — greeting around the circle, two student shares with peer questions, a quick cooperative game, and preview of the day's learning goals — followed by interactive modeling of the new math-station routine.
+
+## Key Sources
+- Ottmar, E. R., Rimm-Kaufman, S. E., Larsen, R. A., & Merritt, E. G. (2017). Establishing classroom communities: What does it take to implement Responsive Classroom practices fully? *Journal of School Psychology, 62*, 1–16.
+- Rimm-Kaufman, S. E., & Chiu, Y.-J. (2007). Promoting social and academic competence in the classroom: An intervention study examining the contribution of the Responsive Classroom approach. *Psychology in the Schools, 44*(4), 397–413. [doi:10.1002/pits.20231](https://doi.org/10.1002/pits.20231)
+- Rimm-Kaufman, S. E., Larsen, R. A. A., Baroody, A. E., Curby, T. W., Ko, M., Thomas, J. B., Merritt, E. G., Abry, T., & DeCoster, J. (2014). Efficacy of the Responsive Classroom approach: Results from a 3-year, longitudinal randomized controlled trial. *American Educational Research Journal, 51*(3), 567–603. [doi:10.3102/0002831214523821](https://doi.org/10.3102/0002831214523821)
+- Center for Responsive Schools. (2016). *Responsive Classroom for middle school*. Center for Responsive Schools.
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 -->

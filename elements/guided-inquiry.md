@@ -34,7 +34,7 @@ Guided inquiry is the element in which learners investigate questions or problem
 ### Affordances
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 - [Scaffolding](../principles/scaffolding.md)
-- [Constructivist Learning](../principles/constructivism.md)
+- [Constructivist Learning](../principles/cognitive-activation.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

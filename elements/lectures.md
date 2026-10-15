@@ -84,7 +84,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 ## Patterns That Use This Element
 - [Direct Instruction](../patterns/direct-instruction.md) — lecture as the "present the content" phase
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" event
-- [Flipped Classroom](../patterns/flipped-classroom.md) — relocates the lecture to pre-class video, reserving class time for application
+- [Flipped Classroom](../principles/flipped-learning.md) — relocates the lecture to pre-class video, reserving class time for application
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — lecture used for the modeling phase, making expert reasoning visible
 
 ## Examples
@@ -168,7 +168,7 @@ Lectures are effective for introducing frameworks, modeling expert thinking, and
 
 ## Patterns That Use This Element
 - [Direct Instruction](../patterns/direct-instruction.md) — lecture as the explicit presentation phase within a tightly scripted sequence
-- [Flipped Classroom](../patterns/flipped-classroom.md) — relocates lecture to pre-class video so class time is freed for application
+- [Flipped Classroom](../principles/flipped-learning.md) — relocates lecture to pre-class video so class time is freed for application
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — lecture used for the modeling phase, making expert reasoning visible
 
 ## Examples

@@ -74,7 +74,7 @@ A Best Evidence Medical Education review of case-based learning in prequalificat
 
 ## Discussion
 
-**Why cases might help exam performance.** Cases situate abstract principles in concrete, realistic contexts, which is the core move of [situated learning](../theories/situated-learning.md) and [cognitive apprenticeship](../theories/cognitive-apprenticeship.md). Working through cases requires learners to activate prior knowledge, discriminate relevant from irrelevant detail, and apply concepts to messy situations — processes associated with deeper encoding than passive review. Structured case discussion formats such as the [Harvard method](../patterns/case-based-learning-harvard-method.md) add accountability and [argumentation](../elements/argumentation.md), which plausibly strengthens the retrieval routes that exams test.
+**Why cases might help exam performance.** Cases situate abstract principles in concrete, realistic contexts, which is the core move of [situated learning](../theories/situated-learning.md) and [cognitive apprenticeship](../theories/cognitive-apprenticeship.md). Working through cases requires learners to activate prior knowledge, discriminate relevant from irrelevant detail, and apply concepts to messy situations — processes associated with deeper encoding than passive review. Structured case discussion formats such as the [Harvard method](../patterns/case-based-learning.md) add accountability and [argumentation](../elements/argumentation.md), which plausibly strengthens the retrieval routes that exams test.
 
 **Boundary conditions to expect.** The effect is unlikely to be uniform. Plausible moderators include:
 

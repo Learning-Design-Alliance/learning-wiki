@@ -71,7 +71,7 @@ Brain dumps enact [Retrieval Practice](../principles/retrieval-practice.md) at n
 
 ## Patterns That Use This Strategy
 - [Formative Assessment](../patterns/formative-assessment.md) — brain dumps as an evidence-gathering routine
-- [Flipped Classroom](../patterns/flipped-classroom.md) — opening dumps verify that pre-class materials were processed
+- [Flipped Classroom](../principles/flipped-learning.md) — opening dumps verify that pre-class materials were processed
 
 ## Examples
 - **Retrieval practice routines (Agarwal & Bain, *Powerful Teaching*)** — "Brain Dump" is one of four named core routines; teachers use two-minute dumps at lesson start and end, then have students swap and compare.

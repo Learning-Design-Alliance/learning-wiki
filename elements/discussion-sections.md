@@ -61,7 +61,7 @@ Discussion sections convert passive exposure into generative engagement; learner
 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — discussion sections are the canonical classroom enactment of active learning; replacing lecture time with interactive formats measurably improves performance and reduces failure rates [Active learning improves exam performance and reduces failure rates.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [Constructivism](../principles/constructivism.md) — learners build understanding by negotiating meaning rather than receiving it; the facilitator probes rather than transmits
+- [Constructivism](../principles/cognitive-activation.md) — learners build understanding by negotiating meaning rather than receiving it; the facilitator probes rather than transmits
 - [Community of Inquiry](../principles/community-of-inquiry.md) — sustained dialogue builds the social and cognitive presence needed for deep inquiry
 - [Collaborative Learning](../principles/collaborative-learning.md) — peer-to-peer exchange during discussion lets learners encounter diverse perspectives and co-construct explanations
 
@@ -77,9 +77,9 @@ Discussion sections convert passive exposure into generative engagement; learner
 - [Coaching](coaching.md) — the facilitator role during small-group work within sections
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — sections as the primary instructional format
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — sections as the primary instructional format
 - [Case-Based Learning](../patterns/case-based-learning.md) — sections as the venue for case analysis and debate
-- [Flipped Classroom](../patterns/flipped-classroom.md) — content delivery moves to pre-work so section time is freed for discussion
+- [Flipped Classroom](../principles/flipped-learning.md) — content delivery moves to pre-work so section time is freed for discussion
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard University)** ([https://blog.peerinstruction.net](https://blog.peerinstruction.net)) — students answer a concept question individually, discuss with neighbors, then re-answer; peer discussion in the intervening step produces large gains [Peer discussion improves performance even without initial knowledge.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

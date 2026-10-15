@@ -44,7 +44,7 @@ The summer school organizes each day so that lectures prepare hands-on work: "In
 
 ## Related Patterns
 
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md)
+- [5E Learning Cycle](../principles/inquiry-based-learning.md)
 
 ## Examples
 -

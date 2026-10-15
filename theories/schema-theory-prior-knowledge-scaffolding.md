@@ -45,7 +45,7 @@ The article invokes schema theory and cognitive science to explain how the brain
 
 ## Examples
 
-- [Use VR tools to provide visual and experiential scaffolding that builds prior knowledge before reading](../principles/vr-visual-experiential-scaffolding-literacy.md)
+- [Use VR tools to provide visual and experiential scaffolding that builds prior knowledge before reading](../principles/simulations-immersive-virtual-environments.md)
 - [Activation](../principles/activation.md)
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)
 - [Recall prior knowledge](../elements/recall-prior-knowledge.md)

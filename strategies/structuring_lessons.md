@@ -38,7 +38,7 @@ Structured lessons reduce extraneous cognitive load by making the organization o
 #### Implementation Variability
 - **Direct instruction models** (e.g., [Explicit Teaching](../patterns/direct-instruction.md), [Direct Instruction](../patterns/direct-instruction.md)) use teacher-led, tightly sequenced structures: review, model, guided practice, independent practice
 - **Inquiry-oriented structures** (e.g., [Case-Based Learning](../patterns/case-based-learning.md)) open with a problem or case, then structure the lesson around investigation and debriefing rather than presentation-first sequencing
-- **Flipped structures** ([Flipped Classroom](../patterns/flipped-classroom.md)) move first exposure outside class so in-class structure can emphasize application and feedback
+- **Flipped structures** ([Flipped Classroom](../principles/flipped-learning.md)) move first exposure outside class so in-class structure can emphasize application and feedback
 - **Event-based templates** such as [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) provide a generic nine-phase skeleton adaptable to any content
 
 ### Target Learners

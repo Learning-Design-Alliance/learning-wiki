@@ -47,7 +47,7 @@ The article presents Bildung, rooted in Von Humboldt and extended by Gadamer, as
 
 ## Examples
 
-- [Dialogue in a safe environment is central to Bildung-oriented film education](../principles/dialogue-safe-environment-bildung-film-education.md)
+- [Dialogue in a safe environment is central to Bildung-oriented film education](../principles/talking-and-writing-means-to-learning.md)
 
 ## Key Sources
 - Koster, E. (2019). Bildung through films: How to discuss existential questions in academia. Film Education Journal. https://doi.org/10.18546/FEJ.02.2.04

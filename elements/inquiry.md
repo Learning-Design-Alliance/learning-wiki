@@ -67,7 +67,7 @@ Inquiry supports learning by engaging learners in knowledge construction, which 
 
 ## Patterns That Use This Element
 - [Case-Based Learning](../patterns/case-based-learning.md) — inquiry into an authentic case with instructor facilitation
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — groups jointly posing and investigating questions
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — groups jointly posing and investigating questions
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — exploration phase, where learners attempt investigations with coaching and fading support
 
 ## Examples

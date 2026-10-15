@@ -76,7 +76,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Assessment](assessment.md) — mastery judgments are only as valid as the assessments gating advancement
 
 ## Patterns That Use This Element
-- [Game-Based Mastery Learning (Duolingo Pattern)](../patterns/game-based-mastery-learning-duolingo-pattern.md) — level-based progression with adaptive review and streak mechanics
+- [Game-Based Mastery Learning (Duolingo Pattern)](../patterns/game-based-mastery-learning.md) — level-based progression with adaptive review and streak mechanics
 
 ## Examples
 

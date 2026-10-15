@@ -44,7 +44,7 @@ Self-paced learning is the element in which learners control the rate or sequenc
 - [Multimedia Learning](multimedia-learning.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](../patterns/flipped-classroom.md)
+- [Flipped Learning](../principles/flipped-learning.md)
 - [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md)
 
 ## Examples

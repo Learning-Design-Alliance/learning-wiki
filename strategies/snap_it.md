@@ -68,7 +68,7 @@ Snap It builds early number composition knowledge by making the "missing addend"
 - [Manipulatives](manipulatives.md) — the cubes are the concrete substrate; they should be faded toward drawings and symbols as fluency develops
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — Snap It is a missing-addend problem type enacted physically, consistent with CGI's use of children's informal strategies
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — Snap It is a missing-addend problem type enacted physically, consistent with CGI's use of children's informal strategies
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the think-aloud variant has children articulate their inference strategy, making reasoning visible to peers
 
 ## Examples

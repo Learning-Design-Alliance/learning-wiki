@@ -44,7 +44,7 @@ Undergraduate research falls into four categories: independent study, course-emb
 ## Related Patterns
 
 - [Research breadth taxonomy: six structure-focused elements, each at minimum Milestone 2 for high impact](../elements/ur-breadth-six-elements-milestone-2.md)
-- [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md)
+- [Interdisciplinary Course-Based Research Experience](../principles/inquiry-based-learning.md)
 
 ## Examples
 -

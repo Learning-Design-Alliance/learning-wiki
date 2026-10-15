@@ -62,7 +62,7 @@ Generating problems requires learners to analyze the deep structure of word prob
 - [Peer Discussion](peer-discussion.md) — the critique phase where structural awareness is made explicit
 
 ## Examples
-- **Cognitively Guided Instruction classrooms** use problem-posing extensions after children solve story problems, asking them to invent new problems for the same number relationship ([Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md))
+- **Cognitively Guided Instruction classrooms** use problem-posing extensions after children solve story problems, asking them to invent new problems for the same number relationship ([Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md))
 - A grade-4 class studying multiplication poses "shopping" problems (3 items at $1.25 each), swaps them, and the teacher selects several for the unit test — learners see their own problems become assessment items
 - **Illustrative Mathematics**-style curricula include "write your own problem" tasks as lesson warm-ups, often with a stem to complete
 

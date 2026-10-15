@@ -45,7 +45,7 @@ Rhetorical strategies are deliberate moves learners use to persuade, frame, emph
 
 ## Patterns That Use This Element
 - [Debate](../patterns/debate.md)
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
 - Learners revise the framing, evidence emphasis, or appeals in an argument for a specific audience.

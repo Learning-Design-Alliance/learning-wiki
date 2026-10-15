@@ -152,11 +152,10 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed](../claims/reflection-debriefing-time-underscheduled.md) [+W]
 
 ## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md) — debriefing is one of the most structured forms of reflection after action
+- [Purposeful Reflection](reflection.md) — debriefing is one of the most structured forms of reflection after action
 - [Error Analysis](error-analysis.md) — strong debriefs convert mistakes into inspectable evidence
 - [Check-ins](check-ins.md) — emotionally charged debriefs may need brief regulation or climate-setting before analytic discussion
-- [Explaining Their Thinking](self-explanation.md) — debriefing depends on making reasoning visible
-- [Reflection](reflection.md) — a learner examining their own past performance against a criterion; a debrief is its facilitated, shared-event form
+- [Explaining Their Thinking](cognitive-activation.md) — debriefing depends on making reasoning visible
 - [Experiential Learning](experiential-learning.md) — the debrief is the reflection step that turns an experience into a stated principle and a changed attempt
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how the facilitator's lead is handed to learners across sessions
 
@@ -229,10 +228,10 @@ Debriefing matters because experience by itself does not reliably produce learni
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debriefs benefit from process-focused reflection on strategies and cues, not only whether the outcome was correct
 
 ## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md) — debriefing is one of the most structured forms of reflection after action
+- [Purposeful Reflection](reflection.md) — debriefing is one of the most structured forms of reflection after action
 - [Error Analysis](error-analysis.md) — strong debriefs convert mistakes into inspectable evidence
 - [Check-ins](check-ins.md) — emotionally charged debriefs may need brief regulation or climate-setting before analytic discussion
-- [Explaining Their Thinking](self-explanation.md) — debriefing depends on making reasoning visible
+- [Explaining Their Thinking](cognitive-activation.md) — debriefing depends on making reasoning visible
 
 ## Examples
 --><!-- Links to elements or patterns that apply this principle --><!-- deprecated 2026-10-05 (continued):

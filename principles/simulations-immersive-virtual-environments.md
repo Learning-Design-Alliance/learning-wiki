@@ -1,6 +1,7 @@
 ---
 type: principle
 id: simulations-immersive-virtual-environments
+aliases: [vr-visual-experiential-scaffolding-literacy]
 title: "Simulations & Immersive Virtual Environments"
 description: "For a learner preparing for a risky, costly, rare or invisible performance, repeated runs in a simulation that keeps the task's decisions and cues, guided during exploration and followed by feedback or a debrief, are expected to improve performance on the represented task more than no simulated practice, with more immersion adding nothing by itself; claims test simulation against no intervention or non-game instruction and guided against free VR exploration, but not the debrief, dose or fidelity."
 canonical: true
@@ -21,12 +22,16 @@ sources:
     resource: "https://doi.org/10.19173/irrodl.v21i3.4752"
     title: "Shadiev, R., Xueying, W., & Huang, Y. M. (2020). Promoting intercultural competence in a learning activity supported by virtual reality technology. *International Review of Research in Open and Distributed Learning, 21*(3), 157-174"
     author: "Shadiev, R., Xueying, W., & Huang, Y. M"
+  - id: pilgrim-2016
+    resource: "https://portal.issn.org/resource/ISSN/2374-7404"
+    title: "Pilgrim, J. M., & Pilgrim, J. (2016). The use of virtual reality tools in the reading-language arts classroom. Texas Journal of Literacy Education, 4(2). https://portal.issn.org/resource/ISSN/2374-7404"
+    author: "Pilgrim, J. M., & Pilgrim, J"
 ---
 
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (16 for, 17 mixed, 1 against) · 28 studies (10 review, 6 causal, 5 quant-synthesis, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 5 of 28 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (17 for, 17 mixed, 1 against) · 29 studies (10 review, 6 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 5 of 29 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +136,7 @@ Read against this model on 2026-10-15; the claims below do not bear on the relat
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](../claims/xr-higher-agent-realism-than-non-immersive.md) [+W] — a conceptual argument from the same framework, no test; realism is not shown to matter for learning (see the fidelity claims above).
 - [Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments](../claims/agent-realism-predicts-social-presence-xr.md) [~W] — a conceptual prediction about social presence, not learning; no test.
 - [Teachers judged LLM-simulated student ideas realistic and most useful when the ideas sparked sensemaking about student thinking and suggested scaffolds](../claims/teachers-perceive-llm-ideas-realistic-sensemaking-useful.md) [+W] — six teachers' judgements of simulated students; bears on simulations for teacher education, not on learner outcomes.
+- [Prior Knowledge Impacts Text Understanding](../claims/prior-knowledge-impacts-text-understanding.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -163,12 +169,14 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Use AI-based simulations as low-risk environments for practising and making visible teacher noticing](../strategies/ai-simulations-low-risk-noticing-practice.md)
 - [Simulation](../elements/simulation.md) and [Debrief](../elements/debrief.md) — the elements this principle is built from.
 - [Simulation Based Learning](../strategies/simulation-based-learning.md)
+- [Teachers and students create their own 360-degree VR content using free apps like Google Street View](../strategies/create-own-360-images-street-view.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)
 - Merchant, Z., Goetz, E. T., Keeney-Kennicutt, W., Cifuentes, L., Kwok, O., & Davis, T. J. (2013). Exploring 3-D virtual reality technology for spatial ability and chemistry achievement. *Journal of Computer Assisted Learning, 29*(6), 579-590. [https://doi.org/10.1111/jcal.12018](https://doi.org/10.1111/jcal.12018)
 - Moyer, R., Snodgrass, J., Klein, S., & Tebben, C. (2017). *Simulated work-based learning: Instructional approaches and noteworthy practices*. Office of Career, Technical, and Adult Education, U.S. Department of Education.
 - Shadiev, R., Xueying, W., & Huang, Y. M. (2020). Promoting intercultural competence in a learning activity supported by virtual reality technology. *International Review of Research in Open and Distributed Learning, 21*(3), 157-174. [https://doi.org/10.19173/irrodl.v21i3.4752](https://doi.org/10.19173/irrodl.v21i3.4752)
+- Pilgrim, J. M., & Pilgrim, J. (2016). The use of virtual reality tools in the reading-language arts classroom. Texas Journal of Literacy Education, 4(2). https://portal.issn.org/resource/ISSN/2374-7404
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -255,4 +263,44 @@ Simulations and immersive environments work when they let learners rehearse mean
 - Moyer, R., Snodgrass, J., Klein, S., & Tebben, C. (2017). *Simulated work-based learning: Instructional approaches and noteworthy practices*. Office of Career, Technical, and Adult Education, U.S. Department of Education.
 - Shadiev, R., Xueying, W., & Huang, Y. M. (2020). Promoting intercultural competence in a learning activity supported by virtual reality technology. *International Review of Research in Open and Distributed Learning, 21*(3), 157-174. [https://doi.org/10.19173/irrodl.v21i3.4752](https://doi.org/10.19173/irrodl.v21i3.4752)
 
+-->
+
+<!-- merged 2026-10-15 from principles/vr-visual-experiential-scaffolding-literacy ("Use VR tools to provide visual and experiential scaffolding that builds prior knowledge before reading"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use VR tools to provide visual and experiential scaffolding that builds prior knowledge before reading
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The article's central recommendation is that reading-language arts teachers use VR as an affordable way to extend the traditional use of images as scaffolds for prior knowledge into "field trip"-like experiential experiences. VR tools may provide a way to support students through visual and experiential scaffolding, building background knowledge about content and motivating students through authentic and engaging experiences before they read related texts.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers need insight into how to gain access to the simulated experiences; the article notes data on the use of VR tools in K-12 education have yet to be gathered.
+#### Constraints
+- The article's support is argument and cited literature, not new empirical data; it states VR field trips have the potential to improve literacy instruction rather than demonstrating measured effects.
+
+### Target Learners
+- K-12 reading-language arts students, especially those lacking prior knowledge of a topic
+
+### Target Learning Objectives
+- Building background knowledge and motivation for comprehending new texts
+
+### Claims
+
+- [Prior Knowledge Impacts Text Understanding](../claims/prior-knowledge-impacts-text-understanding.md) [+M]
+- [Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR](../claims/cybersickness-prevalence-vr-ar-immersive-learning.md) [-W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Teachers and students create their own 360-degree VR content using free apps like Google Street View](../strategies/create-own-360-images-street-view.md)
+
+## Key Sources
+- Pilgrim, J. M., & Pilgrim, J. (2016). The use of virtual reality tools in the reading-language arts classroom. Texas Journal of Literacy Education, 4(2). https://portal.issn.org/resource/ISSN/2374-7404
 -->

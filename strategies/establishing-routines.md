@@ -88,7 +88,7 @@ Routines are a form of overlearned procedural knowledge: by automating the "chor
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — K–8 program built around "Responsive Classroom routines": morning meeting, consistent transitions, and teacher modeling of procedures; [https://www.responsiveclassroom.org](https://www.responsiveclassroom.org)
 - **Socratic Seminar protocols** — rehearsed discussion routines (inner/outer circle, speaking tokens) that let students self-manage text-based discussion without instructor turn-taking
-- **Flipped classroom course shells** — consistent weekly structure (pre-class video, in-class problem session, post-class quiz) so learners spend attention on content rather than decoding the week's format; see [Flipped Classroom](../patterns/flipped-classroom.md)
+- **Flipped classroom course shells** — consistent weekly structure (pre-class video, in-class problem session, post-class quiz) so learners spend attention on content rather than decoding the week's format; see [Flipped Classroom](../principles/flipped-learning.md)
 - **Lab safety routines in introductory chemistry** — modeled and rehearsed equipment and cleanup procedures that automate safety-critical steps before independent lab work
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — the "Interactive Modeling" routine has teachers model a procedure, learners notice its features, and the class rehearses it; widely implemented in US elementary schools.
 - **Harry Wong's *The First Days of School*** — the most widely used practitioner guide; its core prescription is teaching entry, attention-signal, and materials procedures in the first week.

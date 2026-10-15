@@ -59,7 +59,7 @@ Highlighting operational vocabulary directs attention to the linguistic cues tha
 
 ## Related Strategies
 - Schema-based problem-solving instruction — pairs vocabulary highlighting with problem-type schemas so cues connect to situation models, not just operations
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — grounds operation choice in learners' reasoning about problem situations rather than keywords
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — grounds operation choice in learners' reasoning about problem situations rather than keywords
 
 ## Related Elements
 - [Annotating](../principles/annotating.md) — the general marking routine this strategy specializes for math text

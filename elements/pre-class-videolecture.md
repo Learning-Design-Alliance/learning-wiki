@@ -16,7 +16,7 @@ generated:
 > **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 18 studies (5 review, 4 causal, 3 associational, 2 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 1 of 18 report an effect size · 6 claims rest on one study
 
 ## Description
-Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../patterns/flipped-classroom.md), shifting information transmission outside the group learning space.
+Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.
 
 ## Design Implications
 
@@ -69,7 +69,7 @@ Pre-class video works only when paired with accountability and application: stud
 - [Advance Organizers](advance-organizers.md) — a framing device that can precede the video to orient viewing
 
 ## Patterns That Use This Element
-- [Flipped Classroom](../patterns/flipped-classroom.md) — the defining element; first exposure via video, application in class
+- [Flipped Classroom](../principles/flipped-learning.md) — the defining element; first exposure via video, application in class
 - [Blended Learning](../patterns/blended-learning.md) — the online/in-person boundary the video marks
 
 ## Examples

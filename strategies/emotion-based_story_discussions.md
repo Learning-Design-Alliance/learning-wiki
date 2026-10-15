@@ -72,7 +72,7 @@ Narrative provides psychologically safe distance: learners can discuss a charact
 - [Check-In](../elements/check-in.md) — safe bridge from character emotions to personal reflection
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — emotion-based story discussion is a structured instance with an affective focus
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — emotion-based story discussion is a structured instance with an affective focus
 - [Case-Based Learning](../patterns/case-based-learning.md) — narratives as cases for reasoning about human situations
 
 ## Examples

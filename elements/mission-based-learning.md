@@ -48,7 +48,7 @@ Mission-based learning drives engagement by giving learners a compelling goal wh
 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — missions require learners to act, decide, and produce rather than receive; the mission structure is a vehicle for sustained active engagement
-- [Constructivism](../principles/constructivism.md) — learners build understanding through goal-directed activity and reflection on what worked, constructing knowledge in the context of use
+- [Constructivism](../principles/cognitive-activation.md) — learners build understanding through goal-directed activity and reflection on what worked, constructing knowledge in the context of use
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — a mission supplies the purpose that authentic tasks require; the goal is the audience's need made explicit
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-designed missions sequence sub-goals and provide just-in-time resources so the whole task does not overwhelm working memory
 - [Scaffolding](../principles/scaffolding.md) — missions can embed graduated support: hints, tools, and coaching delivered as the learner progresses

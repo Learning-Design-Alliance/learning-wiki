@@ -71,7 +71,7 @@ The strategy works because narrative supplies concrete, emotionally engaging cas
 - [Coaching](../elements/coaching.md) — extends story insights into real-time behavioral support
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — read-alouds supply the shared text that anchors productive discussion
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — read-alouds supply the shared text that anchors productive discussion
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — teacher think-alouds during reading model expert social interpretation
 
 ## Examples

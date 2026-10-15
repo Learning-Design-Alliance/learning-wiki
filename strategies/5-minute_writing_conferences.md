@@ -75,7 +75,7 @@ The conference converts feedback from a one-way written transmission into a dial
 
 ## Patterns That Use This Strategy
 - [Formative Assessment](../patterns/formative-assessment.md) — the conference is a high-resolution feedback loop embedded in the writing process
-- [Writing Workshop](../patterns/writing-workshop.md) — conferences are the individualized instruction component of workshop structures
+- [Writing Workshop](../patterns/workshop-model.md) — conferences are the individualized instruction component of workshop structures
 
 ## Examples
 - A middle school ELA teacher runs conference days during a personal narrative unit: students revise silently or peer-review while the teacher holds five-minute meetings, with each student leaving with one named revision move (e.g., "add dialogue to the turning-point scene").

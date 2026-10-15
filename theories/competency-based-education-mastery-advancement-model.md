@@ -59,7 +59,7 @@ The article defines competency-based education as a model in which "students mov
 - [Mastery Learning](../strategies/mastery-learning.md)
 - [Competency Based Learning](../strategies/competency-based-learning.md)
 - [Mastery Based Retesting](../strategies/mastery-based-retesting.md)
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning.md)
 
 ## Key Sources
 - Person, A. E., Thomas, J., & Goble, L. (2016). Implementation and Outcomes of Competency-Based Education in Three Community Colleges: Findings from the Comprehensive Evaluation of a TAACCCT Grant (Executive Summary). Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/implementation-and-outcomes-of-competencybased-education-in-three-community-colleges-findings

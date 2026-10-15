@@ -49,7 +49,7 @@ The report defines a feedback loop as an interaction between two or more parties
 ## Examples
 
 - [Identify feedback loops in your organization by sourcing, evaluating, and validating case studies](../strategies/identify-feedback-loops-process.md)
-- [Prefer feedback loops over one-directional feedback systems when direct benefits for all participants matter](../principles/prefer-feedback-loops-over-feedback-systems.md)
+- [Prefer feedback loops over one-directional feedback systems when direct benefits for all participants matter](../principles/feedback-loops.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](../strategies/co-design-feedback-loops-ai-evaluation.md)
 
 ## Key Sources

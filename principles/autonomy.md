@@ -1,7 +1,7 @@
 ---
 type: principle
 id: autonomy
-aliases: [learner-choice, structure-with-student-control-cross-cultural-tasks, student-choice-builds-ownership-maker-education]
+aliases: [learner-choice, structure-with-student-control-cross-cultural-tasks, student-choice-builds-ownership-maker-education, design-public-social-student-directed-tasks, persistent-autonomy-support-during-resistance, balanced-authoring-constraints, autonomy-goal-and-route-early-literacy]
 title: Autonomy
 description: "For a learner whose engagement is controlled by pressure or reward, meaningful choice within structure, a rationale for required work and non-controlling language are expected to sustain motivation and voluntary engagement; their effect on learning outcomes is small, inconsistent and depends on what the learner controls and when."
 canonical: true
@@ -26,12 +26,24 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1179517"
     title: "Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517"
     author: "Lundberg, M., & Rasmussen, J"
+  - id: pittaway-2014
+    resource: "http://ro.ecu.edu.au/ajte/vol39/iss7/8"
+    title: "Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8"
+    author: "Pittaway, S. M., & Moss, T"
+  - id: level-creation-tools-and-deep-gamification-in-the-bots-educational-game-2015
+    resource: "https://gameslearningsociety.org"
+    title: "Level Creation Tools and Deep Gamification in the BOTS Educational Game. (2015). https://gameslearningsociety.org"
+    author: Level Creation Tools and Deep Gamification in the BOTS Educational Game
+  - id: dombey-1999
+    resource: "https://eric.ed.gov/?id=ED434766"
+    title: "Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766"
+    author: Dombey, Henrietta; Formisano, Marina Pascucci
 ---
 
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (7 for, 18 mixed, 1 against) · 34 studies (11 review, 6 causal, 6 theoretical, 5 qualitative, 3 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 4 of 34 report an effect size · 18 claims rest on one study
+> **Evidence** · 33 claims (11 for, 21 mixed, 1 against) · 37 studies (11 review, 6 causal, 6 qualitative, 6 theoretical, 3 quant-synthesis, 3 design, 2 associational), `q1`–`q4` · 5 of 37 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +141,13 @@ Several statements on the earlier page carried evidence markers with no claim be
 - [External Mandate shows no significant direct relationship with Deep Revision Engagement](../claims/external-mandate-no-direct-effect-deep-revision.md) [~W] — attached 2026-10-10 from Li et al. (2026), which proposed "Cultivate AI prompting literacy and autonomy-supportive environments rather than relying on monitoring-based mandates".
 - [Both teachers and students preferred collaboration to begin when students signaled readiness rather than giving students full control over timing.](../claims/claim-collab-starts-when-students-ready.md) [~W] — attached 2026-10-12 from Kexin Bella Yang et al. (2026), which proposed "Design hybrid-control orchestration tools by starting with structured teacher guidance and progressively increasing student autonomy as activities unfold.".
 - [During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.](../claims/claim-shared-control-roles-and-content.md) [~W] — attached 2026-10-12 from Kexin Bella Yang et al. (2026), which proposed "Design hybrid-control orchestration tools by starting with structured teacher guidance and progressively increasing student autonomy as activities unfold.".
+- [Student Led Discussion Task Sustains Online Participation](../claims/student-led-discussion-task-sustains-online-participation.md) [+M]
+- [Redesigned Unit Engaged All Framework Elements](../claims/redesigned-unit-engaged-all-framework-elements.md) [+M]
+- [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](../claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) [~M]
+- [Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator](../claims/anvil-educators-instructor-control-editability.md) [~W]
+- [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](../claims/big-book-reading-cognitive-autonomy.md) [+W]
+- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W]
+- [Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system](../claims/orthographic-autonomy-requires-instruction.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -149,6 +168,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not](../claims/robot-adaptiveness-mixed-autonomy-effects.md) [~W]
 - [Students had little meaningful choice about participation in the student success information system, as they could not remove themselves from the system as a whole](../claims/limited-student-choice-opt-out-system.md) [-W]
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](../claims/aivaluate-thematic-advantages-and-limitations.md) [+W]
+- Constrained Authoring Improves Puzzle Quality [+M]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance
@@ -160,6 +180,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Competency-Based Learning & Assessment](competency-based-assessment.md) — learner choice often works well when outcomes are fixed but pathways vary.
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry often incorporates bounded choice around questions, methods, or products.
 - [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
+- [Scaffolding and Fading](scaffolding-and-fading.md) — this principle adds a temporal, relational dimension to scaffolding and fading: how a dyad's *pattern* of support and autonomy stabilizes over many sessions, not just how a single episode of support should be calibrated
 
 ## Examples
 
@@ -174,6 +195,10 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](../strategies/student-autonomy-default-access-edtech-supports.md)
 - [Offer instructional choices to students to increase engagement and agency](../strategies/offer-instructional-choices-engagement-agency.md)
 - [Promote student agency by letting students decide the pace of their work and whether to complete it independently or collaboratively](../strategies/student-agency-pace-and-work-mode.md)
+- [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](../strategies/student-led-rotating-discussion-leader-groups.md)
+- A cello teacher who continued offering choices and explanatory (rather than directive) framing despite a 5-year-old student's initial resistance (sighing, saying "no"); over five subsequent lessons the student's engagement increased and the dyad settled into a recurring high-engagement, high-contingency pattern.
+- [Require authors to solve their own created levels before publishing, as a quality filter and a learning act in itself.](../strategies/author-must-solve-own-level.md)
+- [Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe](../strategies/children-as-primary-knowers-dictation-co-construction.md)
 
 ### Illustrative
 
@@ -198,6 +223,10 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - Herbold, K. (2011). Giving student choice in online learning environments: Addressing adult learner needs. *International Journal of Technology, Knowledge & Society, 7*(5). [doi:10.18848/1832-3669/cgp/v07i05/56230](https://doi.org/10.18848/1832-3669/cgp/v07i05/56230)
 - Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
 - Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
+- Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
+- Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)
+- Level Creation Tools and Deep Gamification in the BOTS Educational Game. (2015). https://gameslearningsociety.org
+- Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -398,4 +427,174 @@ Student choice is identified as a common theme in maker education best practice:
 
 ## Key Sources
 - Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
+-->
+
+<!-- merged 2026-10-15 from principles/design-public-social-student-directed-tasks ("Design engagement into online units through tasks that are public, social, and student-directed, releasing responsibility and ownership of learning to students"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Design engagement into online units through tasks that are public, social, and student-directed, releasing responsibility and ownership of learning to students
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article found the discussion-group assessment effective because it "was public (meaning that students could access each other’s assessment work), social (directing students explicitly to engage with each other and to share their own experiences and beliefs), and student-directed". This provides evidence for releasing responsibility and ownership of learning to students, and supports Leong's proposal that engagement can be enhanced through greater student control. Unit designers should build these properties into tasks and assessment rather than blaming students for disengagement.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must release some control of their unit, which the article notes is potentially challenging for the teacher as well as students
+#### Constraints
+- Demonstrated in one small, final-year, experienced cohort; the authors question how results translate to larger units or newer students
+
+### Target Learners
+- undergraduate students in fully-online higher education units
+
+### Target Learning Objectives
+- sustained engagement, peer interaction, and responsibility for learning
+
+### Claims
+- [Student Led Discussion Task Sustains Online Participation](../claims/student-led-discussion-task-sustains-online-participation.md) [+M]
+- [Redesigned Unit Engaged All Framework Elements](../claims/redesigned-unit-engaged-all-framework-elements.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](../strategies/student-led-rotating-discussion-leader-groups.md)
+
+## Key Sources
+- Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
+-->
+
+<!-- merged 2026-10-15 from principles/persistent-autonomy-support-during-resistance ("Persistent Autonomy Support During Resistance"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Persistent Autonomy Support During Resistance
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 4 report an effect size · 1 claim rests on one study
+
+## Description
+A dynamic-systems analysis of one-on-one instrumental music lessons found that teacher-student pairs settle into self-reinforcing interaction patterns ("attractor states") over many sessions: a teacher who responds to a low-autonomy student by becoming more directive tends to see the student become even less autonomous, entrenching a suboptimal teacher-led pattern, while a teacher who keeps offering autonomy support even through early student resistance can — over many sessions, not immediately — see the dyad shift into a "flow" state combining high engagement, contingent scaffolding, and student initiative. A related finding sets a boundary condition: an abrupt, large increase in autonomy support (e.g., suddenly asking a previously low-autonomy student to make all the choices) tends to fail and the dyad reverts to its prior pattern, because the shift is too far outside the dyad's established zone of interaction to be sustained. The implication is that autonomy support should be offered persistently and incrementally, not withheld until a student demonstrates readiness, and not introduced as a sudden large change.
+
+## Implications
+
+### Context
+#### Requirements
+- A sustained one-on-one instructional relationship (weekly individual lessons in the source study) rather than a single session, since the shift documented took multiple months to emerge
+- A teacher able to maintain a consistent autonomy-supportive stance despite short-term student resistance or non-response
+#### Constraints
+- A sudden, large increase in autonomy support that is far outside the dyad's established interaction pattern tends to fail and the dyad reverts to its prior state — incremental persistence, not an abrupt style change, is what the evidence supports
+- Evidence is from three intensively-studied dyads (18 months, 28 lessons each); the pattern is theoretically grounded but the sample is too small to establish base rates or moderators
+
+### Target Learners
+- Students in sustained one-on-one instructional relationships, particularly those initially rated by their teacher as having low autonomy need or engagement
+
+### Target Learning Objectives
+- Shifting a teacher-student interaction pattern from teacher-directed toward a jointly engaged, contingently-scaffolded "flow" pattern over time
+
+### Theory
+#### Supporting
+- [Self-Determination Theory](../theories/self-determination-theory.md)
+- Complex Dynamic Systems theory (change occurs on interconnected timescales; systems develop self-reinforcing "attractor" states)
+
+### Claims
+
+- [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](../claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) [~M]
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+
+## Related Principles
+- [Scaffolding and Fading](scaffolding-and-fading.md) — this principle adds a temporal, relational dimension to scaffolding and fading: how a dyad's *pattern* of support and autonomy stabilizes over many sessions, not just how a single episode of support should be calibrated
+
+## Examples
+- A cello teacher who continued offering choices and explanatory (rather than directive) framing despite a 5-year-old student's initial resistance (sighing, saying "no"); over five subsequent lessons the student's engagement increased and the dyad settled into a recurring high-engagement, high-contingency pattern.
+
+## Key Sources
+- Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)
+-->
+
+<!-- merged 2026-10-15 from principles/balanced-authoring-constraints ("Authoring constraints should encourage goal-directed creation without being so restrictive that creators feel unable to make what they want."), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Authoring constraints should encourage goal-directed creation without being so restrictive that creators feel unable to make what they want.
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+This principle holds that constraints in level editors should steer creators toward operating with an end-goal in mind while preserving enough freedom to avoid disengagement. The article states the editor constraints "are meant to encourage players to operate" with an end-goal in mind, while cautioning that students may find constraints too restrictive, which risks disengagement.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Constraints must be posed so creators retain the sense they can make what they want.
+#### Constraints
+- Students may find constraints too restrictive, which risks disengagement.
+
+### Target Learners
+- students authoring game levels or problems for peers
+
+### Target Learning Objectives
+- goal-directed content creation
+- understanding of puzzle design quality
+
+### Claims
+
+- Constrained Authoring Improves Puzzle Quality [+M]
+- [Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator](../claims/anvil-educators-instructor-control-editability.md) [~W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Require authors to solve their own created levels before publishing, as a quality filter and a learning act in itself.](../strategies/author-must-solve-own-level.md)
+
+## Key Sources
+- Level Creation Tools and Deep Gamification in the BOTS Educational Game. (2015). https://gameslearningsociety.org
+-->
+
+<!-- merged 2026-10-15 from principles/autonomy-goal-and-route-early-literacy ("Treat autonomy as both the goal and the route of early literacy pedagogy"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Treat autonomy as both the goal and the route of early literacy pedagogy
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4` · 1 of 4 report an effect size · 4 claims rest on one study
+
+## Description
+The paper argues that if learning to read and write are seen as complex cognitive and meaning-making activities, classroom work must engage children's active mental participation rather than place them "on the receiving end of instructions". Children need richly significant contexts, a wide range of literacy experiences, and above all experience in putting literacy to their own use. The paper concludes that this "adds up to a pedagogy in which autonomy is not just the goal, but also in large part the route to that goal".
+
+## Design Implications
+
+### Context
+#### Requirements
+- Richly significant contexts and a wide range of different literacy experiences must be provided so children can choose to engage in literacy activities
+#### Constraints
+- The paper also holds that for orthographic mastery autonomy alone is never enough: the vast majority of children need instruction, and unfettered autonomy is less powerful than the negotiation of meaning
+
+### Target Learners
+- children aged four to six in pre-school and early primary classrooms, including those in danger of marginalisation
+
+### Target Learning Objectives
+- early literacy learning
+- personal significance in reading and writing
+
+### Claims
+
+- [Autonomy At One Level May Inhibit Another](../claims/autonomy-at-one-level-may-inhibit-another.md) [~W]
+- [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](../claims/big-book-reading-cognitive-autonomy.md) [+W]
+- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W]
+- [Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system](../claims/orthographic-autonomy-requires-instruction.md) [~W]
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe](../strategies/children-as-primary-knowers-dictation-co-construction.md)
+
+## Key Sources
+- Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766
 -->

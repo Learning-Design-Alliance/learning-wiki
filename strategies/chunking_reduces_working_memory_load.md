@@ -47,7 +47,7 @@ Chunking is a core mechanism of [Cognitive Load Management](../principles/cognit
 #### Constraints
 - Chunks must map to the learner's existing knowledge; a grouping that is meaningful to an expert may be several independent elements to a novice [~S]
 - Over-chunking or chunking at too coarse a grain can obscure the relationships *between* chunks, harming integration of the whole [~M]
-- Chunking reduces load but does not eliminate it; if element interactivity is inherently high, additional [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) measures are needed [-W]
+- Chunking reduces load but does not eliminate it; if element interactivity is inherently high, additional [Cognitive Load Reduction](../principles/cognitive-load-management.md) measures are needed [-W]
 - Expertise reversal: highly chunked, segmented presentation becomes redundant and slows learners who have already formed the chunks [~S]
 
 #### Implementation Variability

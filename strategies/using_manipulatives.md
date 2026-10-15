@@ -69,7 +69,7 @@ Manipulatives work as *symbols* for mathematical ideas, not as self-interpreting
 - **Base-10 blocks for regrouping**: learners trade ten units for one "long" while recording the symbolic exchange in the same step, then solve subtraction problems with blocks removed.
 - **Fraction strips for equivalence**: students fold and compare paper strips to establish 1/2 = 2/4, then generalize to a number line.
 - **[The Math Learning Center](https://www.mathlearningcenter.org/apps)** free virtual manipulative apps (Number Frames, Number Pieces) used in a CRA sequence.
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** classrooms, where children's own counting strategies with counters drive instruction.
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** classrooms, where children's own counting strategies with counters drive instruction.
 
 ## Key Sources
 - Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380–400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)

@@ -60,7 +60,7 @@ Technology-mediated reflection works because it lowers the transaction cost of w
 6. Provide instructor feedback on the *thinking*, not the polish, especially early on ([Coaching](../elements/coaching.md)).
 
 ## Related Strategies
-- [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class digital reflection on videos primes in-class discussion
+- [Flipped Classroom](../principles/flipped-learning.md) — pre-class digital reflection on videos primes in-class discussion
 - [Blended Learning](../patterns/blended-learning.md) — technology-mediated reflection is a common asynchronous component
 - [Check-In](../elements/check-in.md) — low-stakes digital check-ins are a lightweight form of the same function
 

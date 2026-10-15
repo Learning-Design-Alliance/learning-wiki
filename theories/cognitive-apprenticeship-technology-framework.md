@@ -47,7 +47,7 @@ Cognitive apprenticeship is Collins's framework for restoring the resource-inten
 
 ## Examples
 
-- [Four methods of reflection on performance: imitation, replay, abstracted replay, and spatial reification](../patterns/four-reflection-methods-reification.md)
+- [Four methods of reflection on performance: imitation, replay, abstracted replay, and spatial reification](../patterns/cognitive-apprenticeship.md)
 - [Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration](../principles/exploration-tools-fast-hypothesis-testing.md)
 - [Foster articulation by having students build testable artifacts and explain ideas to other students](../strategies/articulation-through-buildable-artifacts.md)
 

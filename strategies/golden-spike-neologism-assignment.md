@@ -38,7 +38,7 @@ In this assignment, students forward a unique neologism and advocate a placement
 - linking historical rupture to contemporary political concerns
 
 ### Affordances
-- [Critique Language Includes Critique Of Humanism](../principles/critique-language-includes-critique-of-humanism.md)
+- [Critique Language Includes Critique Of Humanism](../principles/epistemic-cognition.md)
 
 ## Related Strategies
 - 

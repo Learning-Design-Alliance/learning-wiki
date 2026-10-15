@@ -143,10 +143,9 @@ Accuracy of judgement, on-task behaviour, immediate task performance, delayed re
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — monitoring depends on having a target worth tracking.
 - [Formative Assessment](formative-assessment.md) — monitoring improves when learners receive evidence about current performance.
-- [Purposeful Reflection](purposeful-reflection.md) — reflection often uses self-monitoring data to plan next steps.
+- [Purposeful Reflection](reflection.md) — reflection often uses self-monitoring data to plan next steps.
 - [Guided Practice](guided-practice.md) — learners often need coached monitoring before doing it independently.
 - [Self-Regulated Learning](self-regulated-learning.md) — the whole plan–monitor–act cycle, of which this is the monitoring phase.
-- [Reflection](reflection.md) — examining a completed performance, after the task rather than during it.
 
 ## Examples
 
@@ -215,7 +214,7 @@ Self-monitoring improves learning because effort becomes more useful when learne
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — monitoring depends on having a target worth tracking.
 - [Formative Assessment](formative-assessment.md) — monitoring improves when learners receive evidence about current performance.
-- [Purposeful Reflection](purposeful-reflection.md) — reflection often uses self-monitoring data to plan next steps.
+- [Purposeful Reflection](reflection.md) — reflection often uses self-monitoring data to plan next steps.
 - [Guided Practice](guided-practice.md) — learners often need coached monitoring before doing it independently.
 
 ## Examples

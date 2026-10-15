@@ -73,7 +73,7 @@ The format combines two evidence-backed mechanisms: structured peer discussion a
 - [Class Discussion](../elements/class-discussion.md) — the parent element this structure formalizes
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — pinwheel is a highly structured instance
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — pinwheel is a highly structured instance
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the group preparation and rotation enact positive interdependence with individual accountability
 - [Debate](../patterns/debate.md) — a more adversarial cousin of the same multi-perspective structure
 

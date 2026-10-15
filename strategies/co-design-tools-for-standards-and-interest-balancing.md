@@ -38,7 +38,7 @@ Curriculum co-design teams often face two goals in tension: covering required st
 - [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](../claims/co-design-tools-support-balancing-standards-and-student-interests.md)
 
 ### Target Learning Goals
-- Producing curriculum units (see [Storyline Science Curriculum Design](../patterns/storyline-science-curriculum-design.md)) that are simultaneously standards-aligned and grounded in genuine student and community interest
+- Producing curriculum units (see [Storyline Science Curriculum Design](../patterns/anchored-instruction.md)) that are simultaneously standards-aligned and grounded in genuine student and community interest
 
 ### Instructions
 1. **Bundle standards**: a small team groups related performance expectations into a teachable unit.

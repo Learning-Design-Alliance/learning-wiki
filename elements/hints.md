@@ -66,7 +66,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 
 ## Patterns That Use This Element
 - [Mastery Learning](../patterns/mastery-learning.md)
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning.md)
 
 ## Examples
 - A tutoring system offers a first hint that points to the next subgoal, then a later hint that shows the relevant formula.

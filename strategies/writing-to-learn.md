@@ -39,7 +39,7 @@ Writing is generative: composing requires learners to retrieve knowledge, select
 - **Explaining in own words**: "explain X to a friend who missed class" — combines retrieval practice with elaboration
 - **Argumentative micro-essays**: short position pieces that pair with [Argumentation](../elements/argumentation.md) and [Argument Construction](../elements/argument-construction.md)
 - **Learning journals**: ongoing reflective logs with metacognitive prompts; strongest when prompts ask learners to connect content to prior knowledge and monitor their own understanding
-- **Writing before discussion**: brief writing primes richer [Discussion-Based Learning](../patterns/discussion-based-learning.md) by giving every learner a rehearsed position
+- **Writing before discussion**: brief writing primes richer [Discussion-Based Learning](../principles/collaborative-learning.md) by giving every learner a rehearsed position
 
 ### Target Learners
 - Adolescents through adults; benefits are weaker and harder to measure in young children whose transcription skills are still developing [~W]

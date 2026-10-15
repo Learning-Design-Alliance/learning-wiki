@@ -65,7 +65,7 @@ Summarizing is effective because it forces generative processing: learners must 
 
 ## Patterns That Use This Element
 - [Direct Instruction](../patterns/direct-instruction.md) — the review/closure portion of each lesson
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the "Evaluate" phase often takes the form of a summary
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — the "Evaluate" phase often takes the form of a summary
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "enhancing retention and transfer" event
 
 ## Examples

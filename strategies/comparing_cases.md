@@ -69,7 +69,7 @@ Comparison is one of the most reliable routes to schema abstraction, because var
 - **Rittle-Johnson & Star's algebra studies** — students compared pairs of worked problems using different solution methods (e.g., subtract first vs. distribute first), improving conceptual and procedural flexibility over studying the same examples sequentially.
 - **Schwartz & Bransford's "A Time for Telling"** — statistics students analyzed contrasting datasets before lecture; the comparison phase dramatically improved learning from subsequent instruction.
 - **[Khan Academy](https://www.khanacademy.org)** — worked example pairs showing alternative solution paths for the same problem, with prompts to identify which method is more efficient and why.
-- **Case-based business teaching ([Harvard Business School method](../patterns/case-based-learning-harvard-method.md))** — discussion sections explicitly juxtapose prior cases with the current one, prompting students to map structural similarities across contexts.
+- **Case-based business teaching ([Harvard Business School method](../patterns/case-based-learning.md))** — discussion sections explicitly juxtapose prior cases with the current one, prompting students to map structural similarities across contexts.
 
 ## Key Sources
 - Schwartz, D. L., & Bransford, J. D. (1998). A time for telling. *Cognition and Instruction, 16*(4), 475–522. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)

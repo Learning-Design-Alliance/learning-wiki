@@ -64,7 +64,7 @@ Requiring a written response from every student converts a passive listening mom
 
 ## Examples
 - **Middle-school math:** after solving ¾ + ⅚, every student completes "The common denominator is needed because…" before the teacher displays three anonymous sentences for comparison.
-- **Writing about math routines** in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) classrooms use sentence stems ("I know this because…") to make students' strategies visible to the teacher.
+- **Writing about math routines** in [Cognitively Guided Instruction](../principles/responsive-teaching.md) classrooms use sentence stems ("I know this because…") to make students' strategies visible to the teacher.
 - **[Writing Next](https://ies.ed.gov/ncee/edlabs/regions/southeast/pdf/REL_20074024.pdf)-informed ELA instruction:** Graham and Perin's meta-analysis found structured sentence-combining and strategy frames among the most effective writing practices for adolescents [+S].
 
 ## Key Sources

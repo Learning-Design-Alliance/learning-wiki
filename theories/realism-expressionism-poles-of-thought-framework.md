@@ -45,7 +45,7 @@ The course rationale organizes the study of modern cultural movements around two
 ## Examples
 
 - [Quinmester humanities course 'Ideas of Western Man: Expressionism and Realism' integrating literature, philosophy, art, and music](../elements/ideas-western-man-expressionism-realism-course.md)
-- [Present multiple open-ended definitions of contested concepts instead of asking students to apply single fixed labels](../principles/multiple-open-ended-definitions-over-fixed-labels.md)
+- [Present multiple open-ended definitions of contested concepts instead of asking students to apply single fixed labels](../principles/cognitive-flexibility.md)
 - [Performance-objective-driven curriculum pattern pairing each stated objective with matched student activities](../designs/objective-activity-matched-curriculum-guide-pattern.md)
 - [Brief lectures on intellectual history illustrated with films, records, and print excerpts](../strategies/brief-illustrated-lectures-with-media.md)
 

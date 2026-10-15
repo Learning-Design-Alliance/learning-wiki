@@ -67,7 +67,6 @@ Peer discussion improves conceptual understanding because verbalizing reasoning 
 - [Collaborative Learning](../principles/collaborative-learning.md) — peer discussion is the core mechanism of collaborative learning: jointly constructing explanations creates interdependence and distributes cognitive work across the group
 - [Active Learning](../principles/active-learning.md) — discussion replaces listening with generating, predicting, and defending, which produces deeper processing than reception
 - [Cognitive Activation](../principles/cognitive-activation.md) — well-designed discussion prompts ask learners to justify, contrast, and evaluate rather than recall, triggering elaborative processing
-- [Constructivism](../principles/constructivism.md) — learners actively build understanding by reconciling their existing conceptions with peers' alternative framings rather than receiving expert knowledge wholesale
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -81,15 +80,15 @@ Peer discussion improves conceptual understanding because verbalizing reasoning 
 - [Cognitive Conflict](cognitive-conflict.md) — the mechanism by which exposure to a peer's differing answer drives conceptual change
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — peer discussion as the primary vehicle for content
-- [Flipped Classroom](../patterns/flipped-classroom.md) — class time centers on peer discussion of concept questions after pre-class content exposure
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — peer discussion as the primary vehicle for content
+- [Flipped Classroom](../principles/flipped-learning.md) — class time centers on peer discussion of concept questions after pre-class content exposure
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and reflection phases are enacted through peer discussion
 
 ## Examples
 
 **[Peer Instruction](https://doi.org/10.1119/1.1367351)** (Crouch & Mazur, Harvard) — Concept question → individual vote → peer discussion → revote → instructor debrief. Documented gains of roughly two standard deviations on the Force Concept Inventory over lecture baselines.
 
-**[Think-Pair-Share](../patterns/discussion-based-learning.md)** — Individual thinking, paired discussion, then whole-group sharing; the minimal structured peer discussion protocol, usable at any level.
+**[Think-Pair-Share](../principles/collaborative-learning.md)** — Individual thinking, paired discussion, then whole-group sharing; the minimal structured peer discussion protocol, usable at any level.
 
 **[Peer Learning Assistant model in introductory physics](https://www.per-central.org)** — Trained undergraduates facilitate small-group discussion around clicker questions, combining peer-level explanation with expert oversight.
 

@@ -64,7 +64,7 @@ Sentence starters lower the barrier to productive academic language, particularl
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — articulation phase, where learners verbalize reasoning with linguistic support
 - [Direct Instruction](../patterns/direct-instruction.md) — scripted response frames during guided practice
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — talk moves and discussion frames that structure productive exchange
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — talk moves and discussion frames that structure productive exchange
 
 ## Examples
 

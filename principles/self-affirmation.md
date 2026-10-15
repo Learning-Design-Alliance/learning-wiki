@@ -125,7 +125,7 @@ Grades in the targeted course, overall GPA, persistence, test anxiety and long-t
 ## Related Principles
 - [Check-ins](check-ins.md) — low-stakes affective touchpoints that, like affirmation, surface and regulate learner emotional states before demanding tasks
 - [Assessment for Learning](assessment-for-learning.md) — affirmation pairs naturally with low-stakes, feedback-rich assessment cultures that reduce evaluative threat
-- [Purposeful Reflection](purposeful-reflection.md) — the values-writing exercise is a structured reflection activity; both rely on brief writing to reframe learner experience
+- [Purposeful Reflection](reflection.md) — the values-writing exercise is a structured reflection activity; both rely on brief writing to reframe learner experience
 - [Wise Feedback Across Difference](wise-feedback-across-difference.md) — framing critical feedback for learners who doubt the giver's intent; a different move on the same threat
 - [Motivation](motivation.md) — diagnosing which motivational component is low; belonging is the nearest relative of this page
 - [Positive Self-Talk](positive-self-talk.md) — the learner's own cues at a hard moment during a task, as distinct from values writing before it
@@ -203,7 +203,7 @@ Self affirmation works by decoupling self-worth from performance in the threaten
 ## Related Principles
 - [Check-ins](check-ins.md) — low-stakes affective touchpoints that, like affirmation, surface and regulate learner emotional states before demanding tasks
 - [Assessment for Learning](assessment-for-learning.md) — affirmation pairs naturally with low-stakes, feedback-rich assessment cultures that reduce evaluative threat
-- [Purposeful Reflection](purposeful-reflection.md) — the values-writing exercise is a structured reflection activity; both rely on brief writing to reframe learner experience
+- [Purposeful Reflection](reflection.md) — the values-writing exercise is a structured reflection activity; both rely on brief writing to reframe learner experience
 
 ## Examples
 

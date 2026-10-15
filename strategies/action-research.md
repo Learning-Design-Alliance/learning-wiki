@@ -57,7 +57,7 @@ Action research operationalizes formative evaluation at the level of one's own t
 2. **Gather baseline evidence** — collect student work, [Assessment](../elements/assessment.md) results, or observation notes before changing anything.
 3. **Plan an intervention** — design a concrete change, ideally drawing on an established principle (e.g., [Assessment for Learning](../principles/assessment-for-learning.md)) so the cycle also tests theory in context.
 4. **Act and observe** — implement the change over a defined period, documenting what happens through multiple data sources.
-5. **Reflect and analyze** — compare evidence to baseline; involve a colleague or [Collaborative Inquiry](../patterns/collaborative-inquiry.md) group to check interpretations against bias.
+5. **Reflect and analyze** — compare evidence to baseline; involve a colleague or [Collaborative Inquiry](../principles/inquiry-based-learning.md) group to check interpretations against bias.
 6. **Revise and re-cycle** — adjust the intervention based on findings and begin the next cycle; share results with a professional community.
 
 ## Related Strategies

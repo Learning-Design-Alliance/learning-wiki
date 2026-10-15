@@ -96,7 +96,7 @@ CBL situates learning in authentic problems, which raises perceived relevance an
 
 ## Patterns That Use This Strategy
 - [Anchored Instruction](../patterns/anchored-instruction.md) — like CBL, anchors learning in a realistic problem context that sustains inquiry
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — the investigation phase enacts this pattern's cycle of questioning, evidence gathering, and synthesis
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — the investigation phase enacts this pattern's cycle of questioning, evidence gathering, and synthesis
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the Act phase provides authentic practice with coaching and articulation in a real setting
 
 ## Tools

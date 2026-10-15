@@ -66,7 +66,7 @@ Pre-reading pictures work as a schema-activation device: they give learners a sh
 
 ## Patterns That Use This Strategy
 - [Collaborative Learning](../patterns/collaborative-learning.md) — the group prediction task is a structured cooperative activity
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — picture interpretation supplies a shared, low-stakes discussion prompt
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — picture interpretation supplies a shared, low-stakes discussion prompt
 
 ## Examples
 - Before reading a text on the Amazon rainforest, groups receive pictures of diverse species, deforestation, and indigenous communities; they predict the text's argument, then verify after reading.

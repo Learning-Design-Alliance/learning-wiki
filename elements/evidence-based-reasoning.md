@@ -62,7 +62,7 @@ Evidence-based reasoning supports conceptual change by requiring learners to con
 - Justification — the explicit articulation of why evidence supports one model over another; often scaffolded with claim–evidence–reasoning frames
 
 ## Patterns That Use This Element
-- [Model-Evidence Link (MEL) Reasoning Pattern](../patterns/model-evidence-link-mel-reasoning-pattern.md) — the canonical pattern: learners connect competing scientific models to lines of evidence and rate the strength of each link
+- [Model-Evidence Link (MEL) Reasoning Pattern](../principles/epistemic-cognition.md) — the canonical pattern: learners connect competing scientific models to lines of evidence and rate the strength of each link
 - [Case-Based Learning](../patterns/case-based-learning.md) — cases supply the realistic evidence base that competing explanations must account for
 
 ## Examples

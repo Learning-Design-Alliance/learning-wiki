@@ -48,7 +48,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md) — peer collaboration is the direct enactment of this principle: knowledge is built through social interaction rather than transmitted
-- [Constructivism](../principles/constructivism.md) — negotiation with peers surfaces and challenges naive conceptions, forcing reconstruction of understanding that solo work leaves unexamined
+- [Constructivism](../principles/cognitive-activation.md) — negotiation with peers surfaces and challenges naive conceptions, forcing reconstruction of understanding that solo work leaves unexamined
 - [Community of Inquiry](../principles/community-of-inquiry.md) — sustained peer dialogue builds the cognitive and social presence needed for deep, sustained inquiry
 - [Active Learning](../principles/active-learning.md) — collaboration converts passive reception into generative activity: explaining, questioning, and deciding together
 
@@ -67,8 +67,8 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 
 ## Patterns That Use This Element
 - [Collaborative Learning](../patterns/collaborative-learning.md) — the general pattern this element instantiates
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — peers jointly pose and investigate questions
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — structured discourse as the primary learning mechanism
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — peers jointly pose and investigate questions
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — structured discourse as the primary learning mechanism
 
 ## Examples
 

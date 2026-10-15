@@ -162,9 +162,9 @@ Graphic organizers reduce extraneous cognitive load by offloading problem struct
 - [Assessment](../elements/assessment.md) — completed organizers reveal learner reasoning for formative review
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — organizers can structure the problem-type analysis CGI centers on
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — organizers can structure the problem-type analysis CGI centers on
 - [Explicit Teaching](../patterns/direct-instruction.md) — the modeled organizer is the guided-practice artifact
-- [Cognitive Load Reduction](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md) — organizers are a canonical load-reduction scaffold
+- [Cognitive Load Reduction](../principles/cognitive-load-theory.md) — organizers are a canonical load-reduction scaffold
 
 ## Examples
 - **Schema-based instruction (Jitendra et al.)** — research-validated program using problem-type-specific graphic organizers for word-problem solving in grades 2–7; see overview at https://www.interventioncentral.org

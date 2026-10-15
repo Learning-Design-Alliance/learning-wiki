@@ -63,7 +63,7 @@ Well-structured lessons support learning because they manage the learner's cogni
 - [Backward Design](../methods/backward-design.md) — the curriculum-level planning method that lesson plans should serve
 - [Formative Assessment](../patterns/formative-assessment.md) — the checks-for-understanding segments that make a plan responsive
 - [Direct Instruction](../patterns/direct-instruction.md) — a highly structured lesson pattern embodying small-step sequencing and guided practice
-- [Flipped Classroom](../patterns/flipped-classroom.md) — relocates first exposure out of the lesson so class time can be planned around practice
+- [Flipped Classroom](../principles/flipped-learning.md) — relocates first exposure out of the lesson so class time can be planned around practice
 - [Pair each performance objective with a demonstration-based suggested activity and coded resource references](objective-activity-resource-alignment-strategy.md)
 - [Design science education materials through curriculum-aligned teaching-learning sequences specifying driving questions, competency-based objectives, scientific practices and student activities](curriculum-aligned-tls-design-recipe.md)
 

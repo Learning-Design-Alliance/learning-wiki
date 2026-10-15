@@ -143,7 +143,7 @@ Participation in the chat, the share of negotiated turns, self-correction, unaid
 ## Examples
 - [Peer Discussion](../elements/peer-discussion.md)
 - [Discussion Prompt](../elements/discussion-prompt.md)
-- [Discussion Group](../patterns/discussion-based-learning.md)
+- [Discussion Group](collaborative-learning.md)
 - **Backchannel during presentation**: Learners post questions, examples, and clarifications while a lesson is in progress.
 - [Text Chats in Instruction](../strategies/text_chats_in_instruction.md) — the strategy page for running a chat during instruction.
 - [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](../strategies/student-co-facilitation-via-shared-chat-typing.md)
@@ -212,7 +212,7 @@ Text chats are useful when they create a lower-stakes written channel for learne
 ## Examples
 - [Peer Discussion](../elements/peer-discussion.md)
 - [Discussion Prompt](../elements/discussion-prompt.md)
-- [Discussion Group](../patterns/discussion-based-learning.md)
+- [Discussion Group](collaborative-learning.md)
 - **Backchannel during presentation**: Learners post questions, examples, and clarifications while a lesson is in progress.
 
 ## Key Sources

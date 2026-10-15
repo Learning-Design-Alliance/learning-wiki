@@ -47,7 +47,7 @@ Commognition (Sfard) treats mathematical thinking as a discursive activity: numb
 - [Commognitive framework: thinking as communication and learning as participation in mathematical discourse](commognition-framework-thinking-as-communication.md)
 
 ## Examples
-- [Vertical and Horizontal Bonding in Numerical Routines](../principles/vertical-and-horizontal-bonding-in-numerical-routines.md)
+- [Vertical and Horizontal Bonding in Numerical Routines](../principles/cognitive-flexibility.md)
 
 ## Key Sources
 - Lavie, I., & Sfard, A. (2019). How Children Individualize Numerical Routines: Elements of a Discursive Theory in Making. *Journal of the Learning Sciences, 28*(4-5), 419-461. [https://doi.org/10.1080/10508406.2019.1646650](https://doi.org/10.1080/10508406.2019.1646650)

@@ -33,7 +33,7 @@ Summarization is one of the most consistently supported study strategies, but on
 - Untrained learners tend to summarize by deleting or copying verbatim rather than selecting and reorganizing, yielding little benefit [Summarization is effective when learners receive training in summarization strategy use.](../claims/summarization-improves-learning.md) [-M]
 - Summarizing during initial reading can overload working memory for learners with low prior knowledge; it is more effective after or between readings [~M]
 - Verbatim copying and underlining produce far weaker learning than generative restatement [Experimenter-provided underlining can aid review, but student-generated underlining is unreliable.](../claims/experimenter-underlining-effective-as-student-underlining.md) [~W]
-- Synthesis across many sources can exceed novice capacity without [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) supports
+- Synthesis across many sources can exceed novice capacity without [Cognitive Load Reduction](../principles/cognitive-load-management.md) supports
 
 ### Target Learners
 - Intermediate learners who already have enough prior knowledge to judge idea importance; complete novices struggle to distinguish central from peripheral ideas [~M]
@@ -48,7 +48,7 @@ Summarization is one of the most consistently supported study strategies, but on
 ### Affordances
 - [Retrieval Practice](../principles/retrieval-practice.md) — a summary written from memory is a free-recall retrieval event; the act of reconstructing the material strengthens the memory trace more than rereading
 - [Knowledge Organization](../principles/knowledge-organization.md) — deciding what is central and how ideas relate forces learners to build a coherent structure rather than an unorganized list of facts
-- [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) — a good summary is a reduced-load artifact: learners and instructors can work from a condensed representation instead of the full source
+- [Cognitive Load Reduction](../principles/cognitive-load-management.md) — a good summary is a reduced-load artifact: learners and instructors can work from a condensed representation instead of the full source
 - [Annotating](../principles/annotating.md) — annotation during reading supplies the raw selections from which a summary is later composed; the two activities chain naturally
 
 ### Claims
@@ -64,7 +64,7 @@ Summarization is one of the most consistently supported study strategies, but on
 
 ## Patterns That Use This Element
 - [Elaboration Theory](../patterns/elaboration-theory.md) — learners progressively condense and integrate the expanding content structure
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — closing a discussion with a synthesis consolidates its ideas
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — closing a discussion with a synthesis consolidates its ideas
 - Socratic Seminar — participants synthesize positions across multiple speakers and texts
 
 ## Examples

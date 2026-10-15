@@ -47,7 +47,7 @@ Structured in-class activities improve exam performance and reduce failure rates
 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — in-class activities are the primary vehicle for this principle, converting class time from reception to generation
-- [Constructivism](../principles/constructivism.md) — learners build understanding by working with content, testing predictions, and resolving discrepancies rather than receiving finished explanations
+- [Constructivism](../principles/cognitive-activation.md) — learners build understanding by working with content, testing predictions, and resolving discrepancies rather than receiving finished explanations
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — activities such as prediction tasks and case analysis enact inquiry by having learners pose, test, and revise ideas before or alongside instruction
 - [Collaborative Learning](../principles/collaborative-learning.md) — pair and small-group activities structure peer explanation and negotiation, which elicits elaboration
 - [Assessment for Learning](../principles/assessment-for-learning.md) — in-class tasks double as low-stakes formative assessment, surfacing misconceptions the instructor can address immediately
@@ -65,7 +65,7 @@ Structured in-class activities improve exam performance and reduce failure rates
 - [Check-In](check-in.md) — quick formative probes that punctuate and steer activities
 
 ## Patterns That Use This Element
-- [Flipped Classroom](../patterns/flipped-classroom.md) — class time is reserved for activities because content delivery moves to pre-class materials
+- [Flipped Classroom](../principles/flipped-learning.md) — class time is reserved for activities because content delivery moves to pre-class materials
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — the entire pattern is an extended, problem-anchored in-class activity cycle
 - [Peer Instruction](../patterns/peer-instruction.md) — a highly structured predict–discuss–revote activity cycle
 

@@ -83,7 +83,7 @@ Manipulatives work by grounding abstract symbols in perceptual, enactive experie
 - [Multiple Representations](../strategies/multiple-representations.md) — manipulatives are one representation in a representational sequence
 
 ## Examples
-- **Cognitively Guided Instruction** ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)) — children model word problems with counters and drawings; teachers use the children's own strategies, not a prescribed procedure, to connect actions to notation.
+- **Cognitively Guided Instruction** ([CGI for Math](../principles/responsive-teaching.md)) — children model word problems with counters and drawings; teachers use the children's own strategies, not a prescribed procedure, to connect actions to notation.
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — virtual manipulatives (e.g., fraction matcher, balancing chemical equations) with immediate, linked feedback between object state and symbolic representation.
 - **Montessori materials** (golden beads, stamp game) — a fully developed system in which each material's structure encodes the concept and a fixed sequence fades from material to abstraction.
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — virtual manipulatives (e.g., *Balancing Chemical Equations*, *Circuit Construction Kit*) that let learners vary parameters and observe consequences
@@ -157,7 +157,7 @@ Manipulatives support learning when they function as *representations of* a conc
 - [Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding](unplugged-printable-blocks-k2-introduction.md)
 
 ## Examples
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers use counters and drawings to model children's solution strategies for word problems, connecting informal strategies to formal arithmetic
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — teachers use counters and drawings to model children's solution strategies for word problems, connecting informal strategies to formal arithmetic
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — virtual manipulatives (e.g., *Balancing Chemical Equations*, *Circuit Construction Kit*) that let learners vary parameters and observe consequences
 - **Concrete-Representational-Abstract (CRA) intervention** — a scripted sequence used widely in special education mathematics, moving from base-ten blocks to drawings to numerals
 

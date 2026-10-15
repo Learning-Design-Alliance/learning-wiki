@@ -49,7 +49,7 @@ The paper proposes a taxonomy of autonomy in early literacy with two main axes. 
 
 ## Examples
 
-- [Treat autonomy as both the goal and the route of early literacy pedagogy](../principles/autonomy-goal-and-route-early-literacy.md)
+- [Treat autonomy as both the goal and the route of early literacy pedagogy](../principles/autonomy.md)
 - [Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe](../strategies/children-as-primary-knowers-dictation-co-construction.md)
 
 ## Key Sources

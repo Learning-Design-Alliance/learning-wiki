@@ -111,7 +111,7 @@ PBL situates learning in meaningful contexts, which supports motivation and know
 - [Case-Based Learning](../patterns/case-based-learning.md) — shares authenticity and complex problems but centers on analysis of given cases rather than producing an artifact
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the narrative-anchor precursor to PBL; provides the situational frame PBL projects extend
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — PBL enacts its coaching and articulation phases when teachers model and guide during project work
-- [Flipped Classroom](../patterns/flipped-classroom.md) — frees class time for project work by moving direct instruction outside
+- [Flipped Classroom](../principles/flipped-learning.md) — frees class time for project work by moving direct instruction outside
 - [Direct Instruction](../patterns/direct-instruction.md) — the complementary high-guidance approach; effective PBL blends both
 
 ## Examples
@@ -211,7 +211,7 @@ PBL situates learning in authentic contexts, which increases engagement and help
 ## Related Strategies
 - [Case-based Learning](../patterns/case-based-learning.md) — same authentic-problem logic with tighter, instructor-controlled scope
 - [Anchored Instruction](../patterns/anchored-instruction.md) — situates learning in a narrative problem context; a compressed PBL variant
-- [Flipped Classroom](../patterns/flipped-classroom.md) — frees class time for project work by moving direct instruction outside
+- [Flipped Classroom](../principles/flipped-learning.md) — frees class time for project work by moving direct instruction outside
 - [Direct Instruction](../patterns/direct-instruction.md) — the complementary high-guidance approach; effective PBL blends both
 
 ## Examples

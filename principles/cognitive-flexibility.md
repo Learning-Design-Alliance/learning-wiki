@@ -1,7 +1,7 @@
 ---
 type: principle
 id: cognitive-flexibility
-aliases: [represent-procedures-as-shared-resources-to-clarify-thinking]
+aliases: [represent-procedures-as-shared-resources-to-clarify-thinking, vertical-and-horizontal-bonding-in-numerical-routines, perspective-seekingmultiple-perspectives, multiple-open-ended-definitions-over-fixed-labels]
 title: Cognitive Flexibility
 description: "Revisiting the same concepts across several cases, perspectives or representations that differ in how the concept applies, with explicit prompts to compare them, is expected to help learners with some but rigid knowledge of an ill-structured domain transfer it to a new case at a short horizon; it may cost factual recall, novices may need a simpler start, and delayed effects are untested here."
 canonical: true
@@ -18,12 +18,28 @@ sources:
     resource: "https://perlnet.umaine.edu/imt/"
     title: "Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/"
     author: Black, K.E. and Wittmann, M.C
+  - id: brookfield-1997
+    resource: "https://doi.org/10.1002/ace.7503"
+    title: "Brookfield, S. D. (1997). Assessing critical thinking. *New Directions for Adult and Continuing Education, 1997*(75), 17-29"
+    author: Brookfield, S. D
+  - id: eyal-2018
+    resource: "https://doi.org/10.1037/pspa0000115"
+    title: "Eyal, T., Steffel, M., & Epley, N. (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective. *Journal of Personality and Social Psychology, 114*(4), 547-571"
+    author: "Eyal, T., Steffel, M., & Epley, N"
+  - id: larusso-2016
+    resource: "https://doi.org/10.1080/19345747.2015.1116035"
+    title: "LaRusso, M., Kim, H. Y., Selman, R., Uccelli, P., Dawson, T., Jones, S., Donovan, S., & Snow, C. (2016). Contributions of academic language, perspective taking, and complex reasoning to deep reading comprehension. *Journal of Research on Educational Effectiveness, 9*(2), 201-222"
+    author: "LaRusso, M., Kim, H. Y., Selman, R., Uccelli, P., Dawson, T., Jones, S., Donovan, S., & Snow, C"
+  - id: hall-1971
+    resource: "https://eric.ed.gov/?id=ED064728"
+    title: "Hall, Peggy; Knappe, Shirley. (1971). Ideas of Western Man: Expressionism and Realism. Dade County Public Schools. https://eric.ed.gov/?id=ED064728"
+    author: Hall, Peggy; Knappe, Shirley
 ---
 
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 15 report an effect size · 7 claims rest on one study
+> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 21 studies (7 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 3 of 21 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -113,6 +129,11 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Intermediate mechanics students start the semester more familiar with the integration constants (+C) method than with the limits method, and the +C method remains preferred by at least one student even after instruction modeling the limits method](../claims/students-start-semester-more-familiar-with-integration-constants-method-than-limits-method.md) [+W]
 - [Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign](../claims/students-choose-unphysical-limits-ignoring-functional-relationship-across-equal-sign.md) [+W]
 - [Students initially leave variables out of their integration limits, using only numerical values, suggesting that variable ('running') limits of integration are unfamiliar](../claims/students-initially-omit-variables-from-integration-limits.md) [+W]
+- [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](../claims/numerical-routines-individualize-through-bonding.md) [+M]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — multiple perspectives can prompt learners to notice limits in their first interpretation and revise it
+- [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](../claims/participant-feedback-diverse-perspectives.md) [+W]
+- [Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints](../claims/unstructured-llm-use-epistemic-narrowing.md) [+W]
+- [Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases](../claims/critical-technical-gap-k12-ml-activities.md) [-W]
 
 ## Objective and learner-valued goal
 
@@ -128,14 +149,25 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 
 ## Related Principles
 - [Perspective-Taking](perspective-taking.md) — multiple viewpoints often drive the need for flexible interpretation
-- [Constructivist Learning](constructivism.md) — cognitive flexibility assumes knowledge is actively reorganized, not merely stored
+- [Constructivist Learning](cognitive-activation.md) — cognitive flexibility assumes knowledge is actively reorganized, not merely stored
 - [Cognitive Disequilibrium](cognitive-disequilibrium.md) — contradiction and instability can sometimes trigger the need for more flexible models
 - [Two Facets Making Meaning Of Mathematics Epistemic Game](../theories/two-facets-making-meaning-of-mathematics-epistemic-game.md)
+- [Scaffolding](scaffolding.md) — vertical bonding is a specific, discourse-level form of scaffolding aimed at connecting procedure to product
+- [Building Empathy](building-empathy.md) — perspective seeking can deepen empathy when learners actively investigate how others understand a situation.
+- [Peer Discussion](peer-discussion.md) — structured discussion is one common vehicle for comparing perspectives.
+- [Discussing Race](discussing-race.md) — race-conscious dialogue often depends on careful perspective comparison and interpretation.
+- [Evaluating Sources](evaluating-sources.md) — comparing perspectives is stronger when learners also assess evidence quality and credibility.
 
 ## Examples
 - [Intermediate Mechanics Tutorials](../products/intermediate-mechanics-tutorials.md)
 - [Math Talks](../strategies/math-talks.md)
 - [Math Talks / Number Talks](../strategies/math-talks-number-talks.md)
+- A longitudinal teaching experiment in which a child ("Milo") was asked "Where Is There More?" using piles of blocks or snacks across five interview rounds; vertical bonding first appeared when the interviewer counted and aligned two piles and asked "What does it mean?", and horizontal bonding first appeared when the child spontaneously proposed an alignment check to confirm a visual estimate.
+- **Multiple-text comparison**: Learners read contrasting accounts of the same event and identify differences in framing, evidence, and implication.
+- **Stakeholder analysis**: Learners compare how different stakeholders would interpret or be affected by a decision.
+- **Perspective interview synthesis**: Learners interview others about an issue and compare their own assumptions to what they heard.
+- **Structured debate preparation**: Learners prepare to argue a position they do not initially hold in order to understand it more precisely.
+- [Quinmester humanities course 'Ideas of Western Man: Expressionism and Realism' integrating literature, philosophy, art, and music](../elements/ideas-western-man-expressionism-realism-course.md)
 
 ### Illustrative
 
@@ -149,6 +181,11 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 - Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1991). Cognitive flexibility, constructivism, and hypertext. *Educational Technology, 31*(5), 24-33.
 - Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge: An empirical investigation. *Journal of Educational Computing Research, 12*(4), 301-333. [https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn](https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn)
 - Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/
+- Lavie, I., & Sfard, A. (2019). How Children Individualize Numerical Routines: Elements of a Discursive Theory in Making. *Journal of the Learning Sciences, 28*(4-5), 419-461. [https://doi.org/10.1080/10508406.2019.1646650](https://doi.org/10.1080/10508406.2019.1646650)
+- Brookfield, S. D. (1997). Assessing critical thinking. *New Directions for Adult and Continuing Education, 1997*(75), 17-29. [https://doi.org/10.1002/ace.7502](https://doi.org/10.1002/ace.7502)
+- Eyal, T., Steffel, M., & Epley, N. (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective. *Journal of Personality and Social Psychology, 114*(4), 547-571. [https://doi.org/10.1037/pspa0000115](https://doi.org/10.1037/pspa0000115)
+- LaRusso, M., Kim, H. Y., Selman, R., Uccelli, P., Dawson, T., Jones, S., Donovan, S., & Snow, C. (2016). Contributions of academic language, perspective taking, and complex reasoning to deep reading comprehension. *Journal of Research on Educational Effectiveness, 9*(2), 201-222. [https://doi.org/10.1080/19345747.2015.1116035](https://doi.org/10.1080/19345747.2015.1116035)
+- Hall, Peggy; Knappe, Shirley. (1971). Ideas of Western Man: Expressionism and Realism. Dade County Public Schools. https://eric.ed.gov/?id=ED064728
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the previous body is kept verbatim.
 
@@ -235,4 +272,160 @@ The authors recommend modeling multiple valid solution procedures as pathways ov
 
 ## Key Sources
 - Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/
+-->
+
+<!-- merged 2026-10-15 from principles/vertical-and-horizontal-bonding-in-numerical-routines ("Vertical and Horizontal Bonding in Numerical Routines"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Vertical and Horizontal Bonding in Numerical Routines
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Under [Commognition](../theories/commognition.md), a numerical routine de-ritualizes (moves from rote performance to outcome-sensitive exploration) through two teaching moves. **Vertical bonding** demonstrates and scaffolds the connection between the first step of a procedure (e.g., counting a set) and how its result is used (e.g., choosing the larger set) — the child must see that what is counted matters for the decision that follows. **Horizontal bonding** makes explicit that different procedures (visual estimation, counting, physical alignment) applied to the same comparison task produce the same answer, so the child comes to recognize equivalence across methods rather than treating each as an unrelated ritual. The source study additionally found that embedding a numerical comparison within a purposeful, consequential action (e.g., choosing between piles of a desired snack) rather than presenting it as a decontextualized exercise accelerated a child's progress toward spontaneous, flexible counting.
+
+## Implications
+
+### Context
+#### Requirements
+- A comparison task genuinely ambiguous enough to invite more than one solution method (visual estimation, counting, alignment), so horizontal bonding has real equivalence to demonstrate
+- Consistent adult modeling across sessions that explicitly narrates the link between a procedure's steps and its result (vertical bonding) rather than only demonstrating the procedure
+#### Constraints
+- Evidence is from an intensive single-case teaching experiment (with 3 corroborating cases), tracing one child longitudinally over 18 months — the pacing, not the mechanism, may vary substantially across children
+
+### Target Learners
+- Young children (ages 2-4) in the earliest stages of numerical and quantitative discourse
+
+### Target Learning Objectives
+- Moving from ritualized, imitative numerical routines toward flexible, outcome-sensitive exploration
+- Coalescing separately-developed quantitative (comparison) and numerical (counting) discourses into a unified sense of cardinality
+
+### Theory
+#### Supporting
+- [Commognition](../theories/commognition.md)
+
+### Claims
+- [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](../claims/numerical-routines-individualize-through-bonding.md) [+M]
+
+## Related Principles
+- [Scaffolding](scaffolding.md) — vertical bonding is a specific, discourse-level form of scaffolding aimed at connecting procedure to product
+
+## Examples
+- A longitudinal teaching experiment in which a child ("Milo") was asked "Where Is There More?" using piles of blocks or snacks across five interview rounds; vertical bonding first appeared when the interviewer counted and aligned two piles and asked "What does it mean?", and horizontal bonding first appeared when the child spontaneously proposed an alignment check to confirm a visual estimate.
+
+## Key Sources
+- Lavie, I., & Sfard, A. (2019). How Children Individualize Numerical Routines: Elements of a Discursive Theory in Making. *Journal of the Learning Sciences, 28*(4-5), 419-461. [https://doi.org/10.1080/10508406.2019.1646650](https://doi.org/10.1080/10508406.2019.1646650)
+-->
+
+<!-- merged 2026-10-15 from principles/perspective-seekingmultiple-perspectives ("Perspective Seeking/Multiple Perspectives"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Perspective Seeking/Multiple Perspectives
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 9 studies (3 theoretical, 2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 design), `q1`–`q4` · 1 of 9 report an effect size · 3 claims rest on one study
+
+## Description
+Perspective seeking is the instructional principle of actively engaging with multiple viewpoints in order to better understand a topic, event, text, or problem. It differs from simple exposure because learners are asked to investigate how and why different people interpret the same issue differently. In educational settings, this can strengthen reasoning, critical reading, dialogue, and humility by showing that understanding often improves when learners compare interpretations instead of remaining inside a single frame.
+
+## Implications
+Perspective seeking improves reasoning when learners compare how different people frame the same issue and explain why those differences exist. That comparison can weaken premature certainty and deepen interpretation because explanation and comparison push learners to reorganize their own understanding [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. It can also support reflective revision as learners notice where their first interpretation was partial or overconfident [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]. The important design constraint is ethical and epistemic judgment: multiple perspectives are not the same as false balance, and the goal is not to flatten differences in evidence or harm. Strong perspective work helps learners analyze contrast more carefully, not treat every position as equally valid.
+
+### Context
+#### Requirements
+- **Access to genuinely different viewpoints**: Learners need texts, cases, voices, or participants that represent meaningful variation in perspective.
+- **A comparison task**: Learners should analyze how viewpoints differ, not just list that difference exists.
+- **Discussion and reflection structure**: Prompts, norms, and synthesis routines help learners compare perspectives productively.
+- **A topic worth interpreting**: Perspective seeking is strongest when the issue involves judgment, values, identity, or competing explanations.
+#### Constraints
+- **Tokenized difference**: Superficial inclusion of one contrasting view can flatten complexity instead of expanding it.
+- **False balance**: Not every issue requires treating all positions as equally supported or equally ethical.
+- **Identity strain**: Some learners may experience perspective work as invalidating if harmful or dehumanizing viewpoints are mishandled.
+- **Cognitive overload**: Too many perspectives at once can confuse learners if they lack structure for comparison.
+
+### Target Learners
+- **Learners developing critical reading and reasoning**: Strong fit when the goal is to interpret texts, cases, or claims more deeply.
+- **Learners in civic, historical, ethical, or social inquiry contexts**: Perspective seeking is especially useful where interpretation and disagreement matter.
+- **Learners building social understanding across difference**: Useful for dialogue, collaboration, and empathy-building.
+- **Multilingual and diverse learning groups**: Comparing perspectives can widen access to meaning when multiple voices and experiences are present.
+
+### Target Learning Objectives
+- **Comparative interpretation**: Understanding how different people frame the same issue.
+- **Critical reasoning**: Weighing evidence, assumptions, and implications across perspectives.
+- **Intellectual humility**: Reducing certainty that one's initial interpretation is the only reasonable one.
+- **Dialogue across difference**: Building capacity to engage with disagreement without collapsing into avoidance or defensiveness.
+
+### Theory
+#### Supporting
+- Constructivist views of learning — understanding deepens as learners actively interpret and reorganize meaning.
+- Social learning and social constructivist perspectives — interaction with others' reasoning supports new learning.
+- Transformative learning traditions — encountering other perspectives can challenge assumptions and reframe interpretation.
+#### Contradicting / Qualifying
+- Perspective seeking is not the same as requiring learners to validate harmful views.
+- More perspectives are not automatically better; quality, relevance, and ethical framing matter.
+
+### Claims
+
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — perspective comparison deepens reasoning when learners explain how and why interpretations differ
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — multiple perspectives can prompt learners to notice limits in their first interpretation and revise it
+
+The current claim inventory supports explanation and reflective revision mechanisms more directly than perspective-seeking as a standalone intervention.
+- [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](../claims/participant-feedback-diverse-perspectives.md) [+W]
+- [Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints](../claims/unstructured-llm-use-epistemic-narrowing.md) [+W]
+- [Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases](../claims/critical-technical-gap-k12-ml-activities.md) [-W]
+
+## Related Principles
+
+- [Building Empathy](building-empathy.md) — perspective seeking can deepen empathy when learners actively investigate how others understand a situation.
+- [Peer Discussion](peer-discussion.md) — structured discussion is one common vehicle for comparing perspectives.
+- [Discussing Race](discussing-race.md) — race-conscious dialogue often depends on careful perspective comparison and interpretation.
+- [Evaluating Sources](evaluating-sources.md) — comparing perspectives is stronger when learners also assess evidence quality and credibility.
+
+## Examples
+- **Multiple-text comparison**: Learners read contrasting accounts of the same event and identify differences in framing, evidence, and implication.
+- **Stakeholder analysis**: Learners compare how different stakeholders would interpret or be affected by a decision.
+- **Perspective interview synthesis**: Learners interview others about an issue and compare their own assumptions to what they heard.
+- **Structured debate preparation**: Learners prepare to argue a position they do not initially hold in order to understand it more precisely.
+
+## Key Sources
+- Brookfield, S. D. (1997). Assessing critical thinking. *New Directions for Adult and Continuing Education, 1997*(75), 17-29. [https://doi.org/10.1002/ace.7502](https://doi.org/10.1002/ace.7502)
+- Eyal, T., Steffel, M., & Epley, N. (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective. *Journal of Personality and Social Psychology, 114*(4), 547-571. [https://doi.org/10.1037/pspa0000115](https://doi.org/10.1037/pspa0000115)
+- LaRusso, M., Kim, H. Y., Selman, R., Uccelli, P., Dawson, T., Jones, S., Donovan, S., & Snow, C. (2016). Contributions of academic language, perspective taking, and complex reasoning to deep reading comprehension. *Journal of Research on Educational Effectiveness, 9*(2), 201-222. [https://doi.org/10.1080/19345747.2015.1116035](https://doi.org/10.1080/19345747.2015.1116035)
+-->
+
+<!-- merged 2026-10-15 from principles/multiple-open-ended-definitions-over-fixed-labels ("Present multiple open-ended definitions of contested concepts instead of asking students to apply single fixed labels"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Present multiple open-ended definitions of contested concepts instead of asking students to apply single fixed labels
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Because movement terms are imprecise, the guide avoids having students simply tag artists or works with labels. As the rationale states: "the course presentsseveral definitions ofmail= and Expressionism useful inopen-ended discussions." Through varied activities students explore and discover facets of the movements rather than memorize one canonical definition, and discussion activities repeatedly ask students to weigh competing definitions critically.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must supply several alternative definitions of each movement term
+#### Constraints
+- Applies to concepts the guide itself calls rather slimery terms
+
+### Target Learners
+- secondary school students
+
+### Target Learning Objectives
+- critical discussion of definitional distinctions in humanities content
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+
+- [Quinmester humanities course 'Ideas of Western Man: Expressionism and Realism' integrating literature, philosophy, art, and music](../elements/ideas-western-man-expressionism-realism-course.md)
+
+## Key Sources
+- Hall, Peggy; Knappe, Shirley. (1971). Ideas of Western Man: Expressionism and Realism. Dade County Public Schools. https://eric.ed.gov/?id=ED064728
 -->

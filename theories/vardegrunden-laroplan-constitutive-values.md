@@ -46,7 +46,7 @@ The Swedish läroplan is "a consensually constructed document and a symbol of br
 
 ## Examples
 
-- [Moral practice in schools must also be deliberative practice, with space for deliberation in teacher education and school](../principles/moral-practice-must-be-deliberative.md)
+- [Moral practice in schools must also be deliberative practice, with space for deliberation in teacher education and school](../principles/character-education.md)
 
 ## Key Sources
 - Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/

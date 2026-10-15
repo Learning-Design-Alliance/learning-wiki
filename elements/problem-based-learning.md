@@ -43,7 +43,7 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 ### Affordances
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Active Learning](../principles/active-learning.md)
-- [Constructivism](../principles/constructivism.md)
+- [Constructivism](../principles/cognitive-activation.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

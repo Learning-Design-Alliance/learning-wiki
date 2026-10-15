@@ -77,7 +77,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Provide Guidance](provide-guidance.md)
 
 ## Patterns That Use This Element
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning.md)
 
 ## Examples
 

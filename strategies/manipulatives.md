@@ -68,7 +68,7 @@ Manipulatives leverage embodied and dual-coding pathways: pairing a concept with
 - [Analogies](../elements/analogies.md) — the cognitive mechanism underlying why a concrete object can stand in for an abstract idea
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — children's concrete modeling of word problems drives instruction
+- [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — children's concrete modeling of word problems drives instruction
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — physical artifacts anchor modeling and coaching in observable activity
 
 ## Examples

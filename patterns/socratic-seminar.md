@@ -87,8 +87,8 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 
 ### Affordances
 - [Peer Discussion](../principles/peer-discussion.md)
-- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
-- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md)
+- [Purposeful Reflection](../principles/reflection.md)
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 
 ### Personalization
@@ -98,7 +98,7 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 
 ## Related Patterns
 
-- [Discussion Group](discussion-based-learning.md)
+- [Discussion Group](../principles/collaborative-learning.md)
 - [Debate Format](debate.md)
 - [Post-reading group work in small groups where individual efforts are pooled to interpret the text](../designs/post-reading-group-work-pooled-interpretation.md)
 

@@ -45,7 +45,7 @@ The relationship is conditional on five things, each from the evidence below:
 - **What is being learned.** For domain-general skills, such as the control-of-variables strategy, the instruction-first order did better.
 - **How long the intervention runs.** Packing the full design into a few hours reversed the fidelity benefit; it paid off over days.
 
-How this sits beside its neighbours: [Guided Discovery Learning](../patterns/guided-discovery-learning.md) and the evidence against minimal guidance concern learning *without* the instruction that follows; productive failure always ends with full instruction, and the question is only its order. [Worked Examples](worked-examples.md) and [Cognitive Load Management](cognitive-load-management.md) argue for teaching first, especially for novices learning procedures; the evidence here agrees for procedural outcomes and for young learners, and differs for conceptual outcomes in learners old enough to generate solutions. [Pretesting](../claims/pretesting-enhances-learning.md) is a smaller cousin: an attempt before study, without the generation of methods.
+How this sits beside its neighbours: [Guided Discovery Learning](inquiry-based-learning.md) and the evidence against minimal guidance concern learning *without* the instruction that follows; productive failure always ends with full instruction, and the question is only its order. [Worked Examples](worked-examples.md) and [Cognitive Load Management](cognitive-load-management.md) argue for teaching first, especially for novices learning procedures; the evidence here agrees for procedural outcomes and for young learners, and differs for conceptual outcomes in learners old enough to generate solutions. [Pretesting](../claims/pretesting-enhances-learning.md) is a smaller cousin: an attempt before study, without the generation of methods.
 
 ## Default design, while the dose is untested
 
@@ -130,7 +130,7 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)
 
-- [Guided Discovery Learning](../patterns/guided-discovery-learning.md) — learning by discovery, with guidance (a pattern)
+- [Guided Discovery Learning](inquiry-based-learning.md) — learning by discovery, with guidance (a pattern)
 - [Worked Examples](worked-examples.md) — the instruction-first counterpart for procedures and novices
 - [Cognitive Load Management](cognitive-load-management.md) — why teaching first suits novices
 - [Interleaving](interleaving.md) — another design that looks worse during practice than on the later test

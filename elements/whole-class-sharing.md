@@ -48,7 +48,7 @@ Whole-class sharing supports learning by requiring learners to articulate and or
 
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md) — sharing is the mechanism by which group work becomes collective knowledge; without a whole-class synthesis phase, small-group products stay fragmented
-- [Constructivism](../principles/constructivism.md) — learners build understanding by articulating, defending, and revising ideas in response to peer perspectives rather than receiving conclusions
+- [Constructivism](../principles/cognitive-activation.md) — learners build understanding by articulating, defending, and revising ideas in response to peer perspectives rather than receiving conclusions
 - [Active Learning](../principles/active-learning.md) — presenting and responding keeps learners producing ideas rather than receiving them, though only if protocols ensure broad participation
 - [Assessment for Learning](../principles/assessment-for-learning.md) — public sharing gives the instructor a real-time window into class-wide understanding and misconceptions to guide next moves
 - [Communities of Practice](../principles/communities-of-practice.md) — regular sharing rituals socialize learners into norms of public reasoning and mutual critique
@@ -67,8 +67,8 @@ Whole-class sharing supports learning by requiring learners to articulate and or
 ## Patterns That Use This Element
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the "share" phase is whole-class reporting of pair conclusions
 - [Jigsaw](../patterns/fostering-communities-of-learning-fcl.md) — expert groups report back so the class assembles the full picture
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — sharing structures the whole-class segment of discussion sequences
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — groups present findings for collective critique and synthesis
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — sharing structures the whole-class segment of discussion sequences
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — groups present findings for collective critique and synthesis
 
 ## Examples
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** — pairs rehearse ideas privately before public sharing, lowering the risk of the whole-class phase

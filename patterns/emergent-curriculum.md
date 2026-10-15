@@ -147,7 +147,7 @@ Limits: no claim in this wiki compares an emergent curriculum with a planned one
 ## Related Patterns
 - [Socratic Seminar](socratic-seminar.md) — the Hawkins (2006) high-school example channels emergent, student-generated interest into the kind of structured discussion this pattern describes
 - [Problem-Based Learning](problem-based-learning.md) — its conditional model of guidance for novices applies inside an emergent thread
-- [Scripted Personally Meaningful Inquiry](scripted-personally-meaningful-inquiry.md) — a structured sequence in which students frame a personally meaningful question and investigate it, close to the older-student route here
+- [Scripted Personally Meaningful Inquiry](../principles/inquiry-based-learning.md) — a structured sequence in which students frame a personally meaningful question and investigate it, close to the older-student route here
 - [Free-Choice Learning Environment Design](../principles/free-choice-learning-environment-design.md) (principle) — settings with no imposed curriculum at all
 
 ## Examples

@@ -63,7 +63,7 @@ Committing to a prediction before instruction activates prior conceptions and cr
 - [Comparing Cases](comparing-cases.md) — strengthens the discrimination learners draw from confirmatory and disconfirming evidence
 
 ## Patterns That Use This Element
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the Engage and Explore phases center on prediction and evidence
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — the Engage and Explore phases center on prediction and evidence
 - [Experiential Learning Cycle](../patterns/experiential-learning-cycle.md) — hypotheses formed before experience are tested during it and revised in reflection
 - [Case-Based Learning](../patterns/case-based-learning.md) — learners state diagnostic hypotheses early and revise them as case details emerge
 

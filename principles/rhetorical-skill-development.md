@@ -1,7 +1,7 @@
 ---
 type: principle
 id: rhetorical-skill-development
-aliases: [teach-rhetorical-choices-not-tools, flexible-congruence-context-appropriateness, style-as-consequential-choice-not-prescription]
+aliases: [teach-rhetorical-choices-not-tools, flexible-congruence-context-appropriateness, style-as-consequential-choice-not-prescription, teach-persuasive-standards-not-just-persuasive-skill, teach-canonicity-not-canon, teach-popular-culture-not-speech-making]
 title: Rhetorical Skill Development
 description: "For a learner who presents ideas the same way to every reader, teaching rhetorical moves as choices made for a stated audience, purpose and situation, with explicit criteria for evidence and for answering the other side, practice across contrasting situations, process goals first and learners saying why a move works, is expected to produce better arguments and better-fitted texts or talk than teaching fixed forms or style rules; no claim here tests that comparison, though argument practice, writing strategy instruction, real audiences and peer feedback are each tested."
 canonical: true
@@ -27,7 +27,7 @@ sources:
 # Rhetorical Skill Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 20 studies (6 causal, 6 quant-synthesis, 4 theoretical, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 21 studies (6 causal, 6 quant-synthesis, 4 theoretical, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 21 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Evidence the page cites or touches that is not part of the model above.
 
 - [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) — a theory page, not a claim (the folded Cyphert page cited it with `[+M]`): Giroux's critical pedagogy read as rhetorical education; its own page says it is one interpretation, not an empirically tested model. It is the framework behind steps 1 and 2.
 - [The PS-GenAI-PF group outperformed the PF group on rebuttal data and warrant and on addressing the opposing view](../claims/ps-genai-pf-improves-rebuttals-and-opposing-view.md) [~W] and [Most individual argument structure and quality dimensions showed no significant differences across the three peer feedback conditions](../claims/null-results-argument-dimensions-genai-peer-feedback.md) [~W] — one 2026 study of collaborative argumentation comparing peer feedback with and without generative-AI support: the AI-supported arms scored higher on rebuttals and on addressing the opposing view, and most other dimensions, persuasiveness among them, did not differ. It bears on how peer response on arguments is supported, not on rhetorical-choice teaching, and has not been read against step 8.
+- [Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants](../claims/llm-as-a-judge-twelve-bias-types.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -153,11 +154,8 @@ Argument quality on the taught task, adaptation to a new audience, use outside t
 - [Epistemic Cognition](epistemic-cognition.md) — strong rhetoric depends on how claims are justified, not just how they sound
 - [Perspective-Taking](perspective-taking.md) — audience adaptation is one of the main rhetorical demands
 - [Debate](../patterns/debate.md) — debate often provides a high-pressure environment for developing rhetorical strategy and rebuttal
-- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](teach-canonicity-not-canon.md)
 - [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
-- [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](teach-persuasive-standards-not-just-persuasive-skill.md)
 - [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
-- [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](teach-popular-culture-not-speech-making.md)
 - [Authentic Audiences and Purposes](authentic-audiences-purposes.md) — owns the relationship between who the work is for and its quality; this page uses a real audience as one condition
 - [Process-Based Writing](process-based-writing.md) — planning, drafting, response and revision, which the drafting steps here assume
 - [Self-Monitoring](self-monitoring.md) — checks of one's own work against a criterion, used in revision
@@ -246,11 +244,11 @@ Rhetorical skill development matters when learning requires more than having ide
 - [Epistemic Cognition](epistemic-cognition.md) — strong rhetoric depends on how claims are justified, not just how they sound
 - [Perspective-Taking](perspective-taking.md) — audience adaptation is one of the main rhetorical demands
 - [Debate](../patterns/debate.md) — debate often provides a high-pressure environment for developing rhetorical strategy and rebuttal
-- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](teach-canonicity-not-canon.md)
+- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
 - [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
-- [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](teach-persuasive-standards-not-just-persuasive-skill.md)
+- [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](rhetorical-skill-development.md)
 - [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
-- [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](teach-popular-culture-not-speech-making.md)
+- [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](rhetorical-skill-development.md)
 
 ## Examples
 
@@ -300,11 +298,11 @@ The second operationalization situates students within their rhetorical location
 
 ## Related Principles
 
-- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](teach-canonicity-not-canon.md)
+- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
 - [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
-- [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](teach-persuasive-standards-not-just-persuasive-skill.md)
+- [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](rhetorical-skill-development.md)
 - [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
-- [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](teach-popular-culture-not-speech-making.md)
+- [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](rhetorical-skill-development.md)
 
 ## Examples
 -
@@ -387,4 +385,130 @@ The article argues style should be taught as a viable element of writing instruc
 
 ## Key Sources
 - Pace, Tom. (2001). Composing and Community: The Teaching of Style as a Tool of Critical Pedagogy. https://eric.ed.gov/?id=ED451526
+-->
+
+<!-- merged 2026-10-15 from principles/teach-persuasive-standards-not-just-persuasive-skill ("The basic course should teach how audiences learn to be persuaded, not just persuasive technique"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# The basic course should teach how audiences learn to be persuaded, not just persuasive technique
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The first operationalization replaces instruction in the efficacy of persuasive techniques with explicit instruction in rhetorical theory and persuasive standards. The paper proposes that "in place of instruction and practice in the efficacy of certain persuasive techniques, the basic course addressed the ways in which an audience learns how to be persuaded." Students would not merely follow an acceptable persuasive format but would explain or justify to the audience the persuasiveness of their format choice, making both speaker and audience aware that a speech simultaneously teaches the audience how to evaluate it.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instructors must confront the social construction of epistemology and persuasive criteria, e.g., how source-citation requirements support the hegemony of the literate elite
+#### Constraints
+- The paper cautions this is not a justification for simply turning the performance course into a basic theory course
+
+### Target Learners
+- undergraduates in the basic public speaking course
+
+### Target Learning Objectives
+- evaluating persuasive standards, not just persuasion
+- understanding how discourse creates and maintains political power
+
+### Claims
+- [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) [+M]
+
+## Related Principles
+
+- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
+- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
+- [The basic course should teach students to make strategic rhetorical choices rather than use a fixed set of rhetorical tools](rhetorical-skill-development.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
+
+## Examples
+-
+
+## Key Sources
+- Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616
+-->
+
+<!-- merged 2026-10-15 from principles/teach-canonicity-not-canon ("The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The third operationalization shifts from studying canonical exemplars to studying how a culture accepts and exemplifies particular discourse. The paper states: "The aim is to teach the process by which any community decides how to standardize, judge, and enforce its own discourse." Rather than using Burke, Lincoln, or King as exemplars, the course would address how and why King is held up as excellent while Bob Dole is not, and could highlight the boundaries of the canon when students practice non-dominant rhetorical styles.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Assessment requires a community that has agreed on norms and standards for the behavior to be assessed
+#### Constraints
+- Teaching canonicity raises assessment difficulties and risks leaving minority and female students defenseless in a public sphere dominated by First World discourse; the aim is not a politically correct multicultural curriculum
+
+### Target Learners
+- undergraduates, including students desiring to learn and practice a non-dominant rhetorical style
+
+### Target Learning Objectives
+- understanding how communities create public spheres and standardize discourse
+
+### Claims
+
+- [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) [+M]
+- [Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants](../claims/llm-as-a-judge-twelve-bias-types.md) [+W]
+
+## Related Principles
+
+- [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](rhetorical-skill-development.md)
+- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
+- [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](rhetorical-skill-development.md)
+
+## Examples
+-
+
+## Key Sources
+- Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616
+-->
+
+<!-- merged 2026-10-15 from principles/teach-popular-culture-not-speech-making ("The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The sixth operationalization treats the discourse of popular media as students' actual public sphere. The paper argues that "critical pedagogy would view the discourse of popular culture as more salient and, thus, a more appropriate text through which to discern the rhetorical rules of a community." The instructor might look more like a teacher of media criticism while retaining oral discourse training, since electronic media are ushering in an age of secondary orality in which oral communication forms are gaining importance.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Assignments must place discourse in the context of mass media, e.g., videotape assignments, group discussion, symposium, and forum formats
+#### Constraints
+- Such a curriculum might not include three or four speeches to the class; it would be substantially different from the give-four-speeches paradigm
+
+### Target Learners
+- contemporary undergraduates whose social and ethical norms are shaped by television, film, and popular media
+
+### Target Learning Objectives
+- framing discourse within the post-literate public sphere of popular media
+- interrogating popular portrayals of youth, race, or gender
+
+### Claims
+- [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) [+M]
+
+## Related Principles
+
+- [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](rhetorical-skill-development.md)
+- [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
+- [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
+
+## Examples
+-
+
+## Key Sources
+- Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616
 -->

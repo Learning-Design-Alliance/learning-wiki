@@ -1,6 +1,7 @@
 ---
 type: principle
 id: systemic-understanding-guides-change-efforts
+aliases: [analyze-computer-use-as-activity-system, simultaneous-desegregation-choice-improvement]
 title: Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 description: "For a team introducing an innovation that others must adopt, mapping the system it enters, planning the other changes it needs as one coordinated bundle and working on whichever part blocks now is expected to produce more lasting use than introducing the innovation alone; no claim in the wiki tests this, and the evidence is mostly the change literature's own argument."
 canonical: true
@@ -13,12 +14,20 @@ sources:
     resource: "https://eric.ed.gov/?id=ED444597"
     title: "Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. https://eric.ed.gov/?id=ED444597"
     author: Ellsworth, James B
+  - id: gilbert-1999
+    resource: "https://eric.ed.gov/?id=ED436153"
+    title: "Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153"
+    author: Gilbert, L. S
+  - id: willie-1996
+    resource: "https://eric.ed.gov/?id=ED430265"
+    title: "Willie, Charles V.; Alves, Michael J. (1996). Controlled Choice: A New Approach to School Desegregated Education and School Improvement. Education Alliance Press. https://eric.ed.gov/?id=ED430265"
+    author: Willie, Charles V.; Alves, Michael J
 ---
 
 # Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (16 for, 6 mixed) · 18 studies (7 theoretical, 4 review, 2 causal, 2 associational, 2 qualitative, 1 design), `q1`–`q2` · 1 of 18 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (18 for, 7 mixed) · 20 studies (7 theoretical, 5 review, 2 causal, 2 associational, 2 qualitative, 2 design), `q1`–`q2` · 1 of 20 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -28,7 +37,7 @@ The relationship is conditional on four things. Someone must have time and acces
 
 **No claim in the wiki tests this relationship.** None compares a change effort planned from a systemic reading with one that was not. What the wiki holds is mostly authors' arguments: a review digest of the classic change models, practitioner guides and a handbook chapter, all `q1`–`q2` with no effect size. Alongside them are four findings closer to observation. In one quasi-experiment, achievement effects of personalized learning were larger where implementation was fuller and longer. In a set of district pilots, teachers who helped choose a tool used it more and with more fidelity. In an evaluation, follow-up contact by change agents related most strongly to adoption success. In a group-randomised trial, schools that adopted fastest had healthier organisations at the start, while later adopters improved most. The default design below keeps the old page's guidance as a labelled proposal.
 
-How this page sits beside its neighbours: [Match interventions to Stages of Concern](match-interventions-to-stages-of-concern.md) owns one part of the system in detail. It covers the adopters: what each person is concerned about and doing with the innovation, and which support fits. This page owns the wider decision about which part of the system to work on, and it hands the adopter part to that page. The [Professional Development pattern](../patterns/professional-development.md) and [Ongoing study teams and peer coaching](ongoing-study-teams-peer-coaching-in-service.md) own how one group of teachers is supported to change practice. [Field-test before full implementation](field-test-before-full-implementation.md) and the [Continuous Improvement of Learning Materials](../processes/continuous-improvement-of-learning-materials.md) process own trialling and revising the innovation itself. The methods that do the mapping are [Stakeholder Mapping](../methods/stakeholder-mapping.md), [Needs Analysis](../methods/needs-analysis.md), [Theory of Change](../methods/theory-of-change.md) and [Logic Model](../methods/logic-model.md).
+How this page sits beside its neighbours: [Match interventions to Stages of Concern](match-interventions-to-stages-of-concern.md) owns one part of the system in detail. It covers the adopters: what each person is concerned about and doing with the innovation, and which support fits. This page owns the wider decision about which part of the system to work on, and it hands the adopter part to that page. The [Professional Development pattern](../patterns/professional-development.md) and [Ongoing study teams and peer coaching](ongoing-study-teams-peer-coaching-in-service.md) own how one group of teachers is supported to change practice. [Field-test before full implementation](evidence-based-teaching-and-scientific-reasoning.md) and the [Continuous Improvement of Learning Materials](../processes/continuous-improvement-of-learning-materials.md) process own trialling and revising the innovation itself. The methods that do the mapping are [Stakeholder Mapping](../methods/stakeholder-mapping.md), [Needs Analysis](../methods/needs-analysis.md), [Theory of Change](../methods/theory-of-change.md) and [Logic Model](../methods/logic-model.md).
 
 ## Default design, while the relationship is untested
 
@@ -135,6 +144,9 @@ Claims bearing on the topic that have been read but are not part of the model ab
 
 - [Change is a specialized instance of the general communication model](../claims/change-as-specialized-communication-instance.md) [+W]: the framing behind the Ellsworth framework (Rogers, reported by the digest); background to the model's categories, not evidence about the relationship.
 - [School change efforts under the reform are classifiable as either systemic or unfocused](../claims/systemic-versus-unfocused-change-classification.md) [+W]: a classification from a study of Chicago school reform. The claim page gives the classification but no comparison of outcomes between the two types, so it does not test this page's relationship; a claim from that study comparing outcomes would.
+- [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](../claims/user-goals-contradict-educational-objectives.md) [+W]
+- [Boston Controlled Choice Most Students Get First Or Second Choice](../claims/boston-controlled-choice-most-students-get-first-or-second-choice.md) [+M]
+- [Policy design details are likely critical to the effects of school choice programs](../claims/choice-program-design-details-critical-to-effects.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -158,7 +170,8 @@ Adoption, fidelity of use, persistence of use and effects on learners are separa
 ## Related Principles
 - [Match the form and content of staff development interventions to clients' assessed Stages of Concern](match-interventions-to-stages-of-concern.md): the adopter part of the system, read person by person.
 - [Ongoing study teams and peer coaching for in-service teachers](ongoing-study-teams-peer-coaching-in-service.md): the support structure for one group of adopters.
-- [Field-test before full implementation](field-test-before-full-implementation.md): trialling the innovation before it goes system-wide.
+- [Field-test before full implementation](evidence-based-teaching-and-scientific-reasoning.md): trialling the innovation before it goes system-wide.
+- [Design large, contiguous, heterogeneous attendance zones with equivalent programs and limited transport time](../strategies/large-heterogeneous-attendance-zones.md)
 
 ## Examples
 
@@ -169,6 +182,8 @@ Adoption, fidelity of use, persistence of use and effects on learners are separa
 
 ## Key Sources
 - Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. https://eric.ed.gov/?id=ED444597
+- Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153
+- Willie, Charles V.; Alves, Michael J. (1996). Controlled Choice: A New Approach to School Desegregated Education and School Improvement. Education Alliance Press. https://eric.ed.gov/?id=ED430265
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -205,4 +220,83 @@ The digest's central recommendation is that practitioners "must strive to guide 
 
 ## Key Sources
 - Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. https://eric.ed.gov/?id=ED444597
+-->
+
+<!-- merged 2026-10-15 from principles/analyze-computer-use-as-activity-system ("Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The paper recommends using activity theory to analyze specific systems rather than only applying it abstractly: while activity theory is descriptive, not prescriptive, it has been used for both analysis and diagnosis, and the results of such an analysis can be used to consciously re-design the activity system. Explicitly identifying contradictions within a system can lead to positive changes, since tensions and disturbances are treated as the engine of change. The paper cautions that what constitutes a better activity system is always open to debate, involving individual and societal goals as much as capabilities of people and tools.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Analysis must consider the activity system as a whole, including the user's impact on the computer and contradictions between community objectives and individual objectives
+#### Constraints
+- The paper states what constitutes a better activity system is always open to debate, and that its example operated at a fairly abstract level
+
+### Target Learners
+- educational technologists, designers, and researchers analyzing technology-supported learning settings
+
+### Target Learning Objectives
+- diagnosing tensions in technology-supported learning and redesigning activity systems
+
+### Claims
+
+- [Tool Effectiveness Depends On Context Configuration](../claims/tool-effectiveness-depends-on-context-configuration.md) [+M]
+- [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](../claims/user-goals-contradict-educational-objectives.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153
+-->
+
+<!-- merged 2026-10-15 from principles/simultaneous-desegregation-choice-improvement ("Implement desegregation, choice, and school improvement simultaneously rather than incrementally"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Implement desegregation, choice, and school improvement simultaneously rather than incrementally
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The guide's central design recommendation is that the three components of Controlled Choice "should be implemented simultaneously and not incrementally." Citing Williams and Ryan, the authors report that "long-drawn out efforts and fluctuating policies appear to have maximized confusion and resistance," while a clear, resolved policy accomplished desegregation with minimal difficulty. Remedies applied singly or sequentially (desegregation alone, then magnets, then choice) each failed parts of the system.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A comprehensive planning process open to everyone; all three components enacted at once
+#### Constraints
+- Evidence for the simultaneity principle is drawn from the authors' reading of prior desegregation cases rather than a controlled test in this document
+
+### Target Learners
+- all students in a desegregating district
+
+### Target Learning Objectives
+- equitable access to quality schooling across racial, ethnic, and socioeconomic groups
+
+### Claims
+
+- [Boston Controlled Choice Most Students Get First Or Second Choice](../claims/boston-controlled-choice-most-students-get-first-or-second-choice.md) [+M]
+- [Policy design details are likely critical to the effects of school choice programs](../claims/choice-program-design-details-critical-to-effects.md) [~W]
+
+## Related Principles
+
+- [Design large, contiguous, heterogeneous attendance zones with equivalent programs and limited transport time](../strategies/large-heterogeneous-attendance-zones.md)
+
+## Examples
+-
+
+## Key Sources
+- Willie, Charles V.; Alves, Michael J. (1996). Controlled Choice: A New Approach to School Desegregated Education and School Improvement. Education Alliance Press. https://eric.ed.gov/?id=ED430265
 -->

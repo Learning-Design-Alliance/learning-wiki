@@ -143,11 +143,10 @@ Better entries, more entries, self-regulation questionnaire scores, course exams
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](../claims/journaling-system-improves-srl-all-groups.md) [~W]
 
 ## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md) — journaling is one concrete routine for structured reflection.
+- [Purposeful Reflection](reflection.md) — journaling is one concrete routine for structured reflection.
 - [Process-Based Writing](process-based-writing.md) — journals can support regular low-stakes writing and revision habits.
 - [Building Empathy](building-empathy.md) — some journal forms help learners reflect on perspective and lived experience.
 - [Positive Self-Talk](positive-self-talk.md) — reflective writing can reshape how learners narrate challenge and progress.
-- [Reflection](reflection.md) — owns the general relationship (examining a completed performance against a criterion to change the next one); a journal is a recurring written record of it.
 - [Self-Monitoring](self-monitoring.md) — checks made while a task is under way; a journal records what happens between tasks.
 - [Self-Regulated Learning](self-regulated-learning.md) — the plan–monitor–act cycle; a diary helped self-regulation measures only alongside taught self-regulation.
 
@@ -216,7 +215,7 @@ Journaling helps when writing is used to inspect thinking rather than just recor
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — journaling supports learners in noticing confusion, tracking progress, and planning next steps
 
 ## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md) — journaling is one concrete routine for structured reflection.
+- [Purposeful Reflection](reflection.md) — journaling is one concrete routine for structured reflection.
 - [Process-Based Writing](process-based-writing.md) — journals can support regular low-stakes writing and revision habits.
 - [Building Empathy](building-empathy.md) — some journal forms help learners reflect on perspective and lived experience.
 - [Positive Self-Talk](positive-self-talk.md) — reflective writing can reshape how learners narrate challenge and progress.

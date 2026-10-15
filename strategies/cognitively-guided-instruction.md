@@ -64,7 +64,7 @@ CGI rests on the constructivist premise that learners arrive with informal, mean
 - [Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words](multiple-strategies-modeling-problems.md)
 
 ## Patterns That Use This Strategy
-- [CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — the pattern-level articulation of this strategy in the mathematics classroom
+- [CGI for Math](../principles/responsive-teaching.md) — the pattern-level articulation of this strategy in the mathematics classroom
 
 ## Examples
 - **CGI professional development program** (Carpenter, Fennema, and colleagues, University of Wisconsin–Madison) — summer workshops plus yearlong support in which teachers analyze videos of children solving problems and plan instruction from student work.

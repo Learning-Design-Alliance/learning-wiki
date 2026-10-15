@@ -45,7 +45,7 @@ The curriculum is organized as five sequential units of roughly two to six hours
 ## Related Patterns
 
 - [Five core areas of classroom technology use as organizing units for assessment](../patterns/five-core-areas-classroom-technology-use.md)
-- [Pre-visit, on-site, post-visit field-trip activity arc](../patterns/pre-visit-onsite-post-visit-field-trip-arc.md)
+- [Pre-visit, on-site, post-visit field-trip activity arc](../patterns/experiential-learning-cycle.md)
 
 ## Examples
 

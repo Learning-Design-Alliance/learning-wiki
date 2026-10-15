@@ -1,7 +1,7 @@
 ---
 type: principle
 id: validity-reliability-and-bias-in-classroom-assessment
-aliases: [balance-situations-sources-control-items, dc-estimate-guideline-085, side-by-side-assessment-analysis-with-teachers]
+aliases: [balance-situations-sources-control-items, dc-estimate-guideline-085, side-by-side-assessment-analysis-with-teachers, use-oas-for-loa-research-and-counseling]
 title: Validity, Reliability, and Bias in Classroom Assessment
 description: "A classroom assessment score is expected to support a decision about a learner only as far as the tasks sample the intended capability without demands unrelated to it, the score is consistent across items, occasions and raters, and no group is disadvantaged by content or administration; no claim here tests that relationship in classrooms, and the claims that bear on it come mostly from large-scale testing and simulations."
 canonical: true
@@ -22,12 +22,20 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1059644"
     title: "Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644"
     author: Dozier, C. L
+  - id: haller-1963
+    resource: "https://eric.ed.gov/?id=ED016712"
+    title: "Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712"
+    author: Haller, Archibald O. and Miller, Irwin W
+  - id: frogner-1969
+    resource: "https://eric.ed.gov/?id=ED034768"
+    title: "Frogner, Ellen A. (1969). Using the Language Inquiry as a Teaching Device. Illinois State-Wide Curriculum Study Center in the Preparation of Secondary English Teachers (ISCPET). https://eric.ed.gov/?id=ED034768"
+    author: Frogner, Ellen A
 ---
 
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 150 claims (62 for, 75 mixed, 13 against) · 115 studies (38 associational, 28 design, 17 review, 15 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 115 report an effect size · 145 claims rest on one study
+> **Evidence** · 153 claims (65 for, 75 mixed, 13 against) · 117 studies (39 associational, 29 design, 17 review, 15 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 117 report an effect size · 148 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +161,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](../claims/early-ed-essentials-rasch-refined-measures.md) [+W]: describes how one set of early-education surveys was refined with Rasch criteria; a development record, not a test of a decision.
 - [Iar Cdr Factor Scores Low Intercorrelations](../claims/iar-cdr-factor-scores-low-intercorrelations.md) [+M]: two locus-of-control questionnaires with weakly related factor scores (188 ninth-graders); bears on construct validity of research instruments, not on classroom achievement assessment.
 - [Eleven Components Iar Cdr](../claims/eleven-components-iar-cdr.md) [+M]: the factor structure behind the line above; descriptive, same limit.
+- [Loa Correlates Predictions Borne Out](../claims/loa-correlates-predictions-borne-out.md) [+W]
+- [Free Response Loa High Nonresponse](../claims/free-response-loa-high-nonresponse.md) [+W]
+- [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](../claims/linguist-review-revealed-item-communication-problems.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -262,6 +273,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Route divergent or linguistically weak AI-scored explanations to teachers as diagnostic signals for mindful human review](../strategies/route-divergent-ai-scores-to-teacher-review.md)
 - [Select a DC estimation method based on score distribution shape, the user's measurement background, and the intended audience](../strategies/dc-method-selection-guidance.md)
 - [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Administer the Inquiry with classroom test procedures and interpret by item-by-item comparison with expert votes](../strategies/inquiry-item-by-item-expert-comparison-strategy.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.
@@ -270,6 +282,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - Thomas, Mollie B. (1975). Underlying Constructs of Locus of Control of Reinforcement. https://eric.ed.gov/?id=ED108039
 - Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6
 - Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+- Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712
+- Frogner, Ellen A. (1969). Using the Language Inquiry as a Teaching Device. Illinois State-Wide Curriculum Study Center in the Preparation of Secondary English Teachers (ISCPET). https://eric.ed.gov/?id=ED034768
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -445,4 +459,81 @@ The coach conducts and analyzes assessments together with teachers, looking for 
 
 ## Key Sources
 - Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+-->
+
+<!-- merged 2026-10-15 from principles/use-oas-for-loa-research-and-counseling ("Use a structured, multiple-item, complete LOA instrument such as the OAS for research and vocational counseling on occupational aspiration"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use a structured, multiple-item, complete LOA instrument such as the OAS for research and vocational counseling on occupational aspiration
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article recommends its easily administered, structured-response, multiple-item scale as the practical instrument for measuring level of occupational aspiration. The abstract concludes that "THE OCCUPATIONAL ASPIRATION SCALE IS A SATISFACTORY INSTRUMENT FOR RESEARCH ON LOA AND MAY BE ESPECIALLY USEFUL TO VOCATIONAL COUNSELORS." Structured response techniques overcome the coding and non-response difficulties of free-response questions, and multiple-item designs permit tests of internal consistency.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Further testing of predictive validity and safeguards against student faking before confident predictive use
+#### Constraints
+- The authors state more testing of predictive validity is required; direct techniques permit subjects to choose occupations they think a tester wants
+
+### Target Learners
+- secondary school students
+
+### Target Learning Objectives
+- vocational counseling and prediction of occupational choice
+
+### Claims
+- [Loa Correlates Predictions Borne Out](../claims/loa-correlates-predictions-borne-out.md) [+W]
+- [Free Response Loa High Nonresponse](../claims/free-response-loa-high-nonresponse.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712
+-->
+
+<!-- merged 2026-10-15 from patterns/expert-panel-consensus-item-selection-pattern ("Expert-panel item selection: statements drawn from real settings, winnowed by linguist votes to consensus items"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Expert-panel item selection: statements drawn from real settings, winnowed by linguist votes to consensus items
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The Inquiry's items were not invented: the attitudes tested were heard in methods classes, conventions, workshops, and printed sources such as newspaper editorials. Ten linguists first responded to 150 statements, then voted on 135 statements using Agree, Moderately agree, No opinion, and Disagree; the author generally kept items where at least seven out of ten linguists concurred, yielding 109 such items, of which 97 were used, with three added where Agree and Moderately agree totaled nine or ten for content balance.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A panel of expert judges must vote on candidate statements in two rounds, with wording fixed after the second round
+#### Constraints
+- Some linguists did not vote on certain items, so total responses for several statements fall below ten; wording of one item (96) was changed slightly without changing meaning
+
+### Target Learners
+- prospective and in-service secondary English teachers
+
+### Target Goals
+- valid measurement of language attitudes for instructional planning
+
+### Claims
+
+- [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](../claims/linguist-review-revealed-item-communication-problems.md) [+W]
+
+## Related Patterns
+- 
+
+## Examples
+
+- [Administer the Inquiry with classroom test procedures and interpret by item-by-item comparison with expert votes](../strategies/inquiry-item-by-item-expert-comparison-strategy.md)
+
+## Key Sources
+- Frogner, Ellen A. (1969). Using the Language Inquiry as a Teaching Device. Illinois State-Wide Curriculum Study Center in the Preparation of Secondary English Teachers (ISCPET). https://eric.ed.gov/?id=ED034768
 -->

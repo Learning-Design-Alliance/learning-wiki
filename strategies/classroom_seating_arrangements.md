@@ -87,12 +87,12 @@ Seating arrangement acts as an environmental scaffold for the intended interacti
 
 ## Patterns That Use This Strategy
 - [Cooperative Learning](../patterns/cooperative-learning.md) — pods are the physical substrate of team-based structures
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — circle and horseshoe layouts enable the required eye contact and turn-taking
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — circle and horseshoe layouts enable the required eye contact and turn-taking
 - [Direct Instruction](../patterns/direct-instruction.md) — rows minimize competing peer stimuli during teacher-led segments
 
 ## Examples
 - **Kagan Structures** ([kaganonline.com](https://www.kaganonline.com)) — specify quads (teams of four, shoulder partners and face partners) so that cooperative structures like RallyRobin and RoundTable are physically enabled by the seating geometry.
-- **Flipped classroom courses** — rows or pods for the in-class active-learning session, with pods reconfigured per activity; see the [Flipped Classroom](../patterns/flipped-classroom.md) pattern.
+- **Flipped classroom courses** — rows or pods for the in-class active-learning session, with pods reconfigured per activity; see the [Flipped Classroom](../principles/flipped-learning.md) pattern.
 - **Virtual seminars (Zoom/Teams)** — gallery view during whole-class discussion, breakout rooms of 3–4 for small-group tasks, mirroring the pod/horseshoe distinction online.
 
 ## Related Strategies

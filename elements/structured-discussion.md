@@ -56,7 +56,7 @@ Structured discussion is the element in which talk is guided by prompts, roles, 
 - [Socratic Questioning](socratic-questioning.md)
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Discussion-Based Learning](../principles/collaborative-learning.md)
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples

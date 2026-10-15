@@ -71,7 +71,7 @@ Reflection prompts improve learning when they are specific, structured, and tied
 
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and reflection phases depend on prompts that draw out reasoning
-- [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class reflection prompts surface prior conceptions before contact time
+- [Flipped Classroom](../principles/flipped-learning.md) — pre-class reflection prompts surface prior conceptions before contact time
 
 ## Examples
 - **World history closing** — after discussing an excerpt from *The Power of Myth*, students jot a one-sentence final thought, then several are shared aloud; the teacher uses the responses to open the next session.

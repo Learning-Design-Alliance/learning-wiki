@@ -105,7 +105,7 @@ An immediate change in a rating, a delayed change in attitude, more accurate inf
 - [Personas developed without care and empathy can create stereotypes](../claims/personas-risk-stereotypes-without-empathy.md) [~W]
 
 ## Related Principles
-- [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — empathy often grows when learners examine the same issue from more than one position.
+- [Perspective Seeking/Multiple Perspectives](cognitive-flexibility.md) — empathy often grows when learners examine the same issue from more than one position.
 - [Peer Discussion](peer-discussion.md) — dialogue is one of the most common vehicles for empathy-building.
 - [Communities of Practice](communities-of-practice.md) — recurring participation in a community can deepen understanding of others' roles and constraints.
 - [Debriefing](debriefing.md) — reflection after interaction helps convert experience into changed interpretation.

@@ -97,7 +97,7 @@ Requiring learners to explain and justify their steps triggers self-explanation,
 - **[Illustrative Mathematics](https://illustrativemathematics.org)** curriculum: tasks are structured around comparing student solution strategies and explaining reasoning, with answers treated as claims to justify
 - **Erroneous-example routine**: a teacher projects a solved equation with a sign error and asks, "Find the step where this went wrong, and convince your neighbor." Students must locate and justify the error before any correct solution appears.
 - **"My favorite no"**: a widely used middle-school routine (popularized by Levi & Teaching Channel) in which the teacher collects anonymous wrong answers, displays one, and has the class identify what is *right* about the reasoning before fixing the error.
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers elicit and build instruction around students' own solution strategies rather than demonstrating the canonical algorithm first.
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — teachers elicit and build instruction around students' own solution strategies rather than demonstrating the canonical algorithm first.
 - **[Case-Based Learning](../patterns/case-based-learning.md)** — in professional education, discussion of reasoning and diagnosis is the point; the "answer" is often deliberately withheld or contested.
 
 ## Key Sources
@@ -175,7 +175,7 @@ Attending to reasoning converts answer-checking into [Self-Explanation](../eleme
 ## Examples
 - **Erroneous-example routine**: a teacher projects a solved equation with a sign error and asks, "Find the step where this went wrong, and convince your neighbor." Students must locate and justify the error before any correct solution appears.
 - **"My favorite no"**: a widely used middle-school routine (popularized by Levi & Teaching Channel) in which the teacher collects anonymous wrong answers, displays one, and has the class identify what is *right* about the reasoning before fixing the error.
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers elicit and build instruction around students' own solution strategies rather than demonstrating the canonical algorithm first.
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — teachers elicit and build instruction around students' own solution strategies rather than demonstrating the canonical algorithm first.
 - **[Case-Based Learning](../patterns/case-based-learning.md)** — in professional education, discussion of reasoning and diagnosis is the point; the "answer" is often deliberately withheld or contested.
 
 ## Key Sources

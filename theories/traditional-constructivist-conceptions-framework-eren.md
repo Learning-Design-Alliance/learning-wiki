@@ -46,7 +46,7 @@ The article organizes prospective teachers' conceptions about teaching/learning 
 
 ## Examples
 
-- [Make Science Teaching Activity-Centered, with Pupils Learning by Doing](../principles/activity-centered-science-teaching.md)
+- [Make Science Teaching Activity-Centered, with Pupils Learning by Doing](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Key Sources
 - Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/

@@ -64,7 +64,7 @@ CBL operationalizes [mastery learning](../theories/behaviorism.md) logic: holdin
 - [Mastery Learning](../patterns/competency-based-learning.md) — the pattern-level treatment; CBL is its institutionalized, credential-bearing form
 - [Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md) — technology-delivered variant where the system routes learners based on assessment results
 - [Direct Instruction](../patterns/direct-instruction.md) — a common instructional engine inside CBL corrective loops
-- [Flipped Classroom](../patterns/flipped-classroom.md) — frees contact time for the differentiated practice CBL requires
+- [Flipped Classroom](../principles/flipped-learning.md) — frees contact time for the differentiated practice CBL requires
 - [Use external consulting and technical assistance to help colleges adapt programs to time-variant CBE models](external-consulting-ta-for-cbe-adaptation.md)
 - [Offer candidates multiple ways of demonstrating competence, crediting prior teaching experience and using performance-based alternative assessments](multiple-demonstration-competence-ec-credential.md)
 - [Shift attendance measurement from seat time to engagement, participation, and student outcomes in distance and hybrid learning](shift-attendance-from-seat-time-to-engagement.md)

@@ -1,7 +1,7 @@
 ---
 type: principle
 id: collaborative-learning
-aliases: [collaboration-paramount-pedagogy-collectivity, learners-as-learning-resources-principle]
+aliases: [collaboration-paramount-pedagogy-collectivity, learners-as-learning-resources-principle, create-social-situations-for-meaning, delegate-knowledge-creation-responsibility-to-learners]
 title: Collaborative Learning
 description: "For learners who can take part in the task, working jointly so that each member must engage with the others' reasoning is expected to raise individually measured understanding over working alone on the same task, for goals that gain from explaining and reconciling ideas; co-presence, equal participation or group satisfaction alone are not expected to show it."
 canonical: true
@@ -22,12 +22,31 @@ sources:
     resource: "http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html"
     title: "Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators. Inquiry, Volume 11, Number 1, Spring 2006, 55-64. http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html"
     author: Jim Reynolds
+  - id: mercer-2012
+    resource: "https://doi.org/10.1016/j.lcsi.2012.03.001"
+    title: "Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning: The value and potential of sociocultural theory. *Learning, Culture and Social Interaction, 1*(1), 12-21"
+    author: "Mercer, N., & Howe, C"
+  - id: mcandrew-2006
+    resource: "https://doi.org/10.1504/IJLT.2006.010632"
+    title: "McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. *International Journal of Learning Technology, 2*(2-3), 216-242"
+    author: "McAndrew, P., Goodyear, P., & Dalziel, J"
+  - id: biesta-1997
+    resource: "https://eric.ed.gov/?id=ED422199"
+    title: "Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199"
+    author: Biesta, Gert J. J
+  - id: reynolds-2010
+    title: "Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia."
+    author: "Reynolds, S., & Camilleri, A. F"
+  - id: jacobs-2000
+    resource: "https://eric.ed.gov/?id=ED444377"
+    title: "Jacobs, George M. (2000). Reading Alone Together: Enhancing Extensive Reading via Student-Student Cooperation in Second Language Instruction. Paper presented at the Malaysian International Conference on English Language Teaching, Malacca, Malaysia. https://eric.ed.gov/?id=ED444377"
+    author: Jacobs, George M
 ---
 
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (12 for, 12 mixed, 2 against) · 33 studies (7 causal, 6 quant-synthesis, 5 theoretical, 4 review, 4 associational, 4 qualitative, 3 design), `q1`–`q4` · 4 of 33 report an effect size · 21 claims rest on one study
+> **Evidence** · 34 claims (14 for, 18 mixed, 2 against) · 41 studies (8 causal, 7 theoretical, 6 quant-synthesis, 6 review, 6 associational, 5 qualitative, 3 design), `q1`–`q4` · 4 of 41 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -100,6 +119,14 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](../claims/dialogue-underpins-networked-learning.md) [+W]
 - [GenAI feedback limitations require students to exercise evaluative judgement](../claims/genai-limitations-require-evaluative-judgement.md) [+W] — attached 2026-10-12 from Ying Zhan et al. (2025), which proposed "Orchestrate GenAI feedback with student feedback literacy for positive alignment".
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](../claims/agentic-ai-invalidates-three-ai-literacy-assumptions.md) [-W]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](../claims/tna-chatbot-prompts-structure-user-interpretation.md) [~W]
+- [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](../claims/ai-agent-validation-rate-within-human-range.md) [~W]
+- [Human and AI discourse differ functionally: students lead invitations, connection, and regulation moves, while AI leads reasoning, coordination, and agreement](../claims/human-ai-discourse-functional-differences.md) [~W]
+- [Meanings Grow Out Of Social Intercourse](../claims/meanings-grow-out-of-social-intercourse.md) [+W]
+- [The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee](../claims/cl-not-magic-wand-for-er-motivation.md) [~W]
+- [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](../claims/er-peer-interaction-greater-achievement-gains.md) [+M]
+- [The article advances a five-part rationale for benefits of adding a peer element to extensive reading](../claims/five-rationales-peer-element-er.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -116,18 +143,26 @@ Group performance during the task, individual understanding straight after it, d
 ## Claims
 
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](../claims/students-report-peer-collaboration-supports-learning.md) [+W]
+- [Trialogical Learning Design Characteristics](../theories/trialogical-learning-design-characteristics.md) [+M]
+- [Kagan Pies Cooperative Learning Principles](../theories/kagan-pies-cooperative-learning-principles.md) [+M]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically
 - [Peer Discussion](peer-discussion.md) — structured talk is one of the main mechanisms through which collaborative learning produces understanding
-- [Perspective-Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — collaboration is especially valuable when disagreement and comparison sharpen thinking
+- [Perspective-Seeking/Multiple Perspectives](cognitive-flexibility.md) — collaboration is especially valuable when disagreement and comparison sharpen thinking
 - [Social Learning](../theories/sociocultural-theory.md) — provides the broader explanation for why interaction can itself be instructional
+- [Trialogical Pedagogical Scenarios](../strategies/trialogical-pedagogical-scenarios.md)
 
 ## Examples
 
 - [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](../strategies/individual-assessment-during-pair-work-robotics.md)
 - [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../products/chormmunity.md)
 - [Co-Creating Classroom Norms](../strategies/co-creating-classroom-norms.md)
+- Seminar-style text discussion with facilitator prompts and synthesis.
+- Structured peer discussion after a pre-reading question.
+- Online forum discussions tied to a case, reading, or weekly question.
+- Small-group problem discussion before whole-class synthesis.
+- Professional learning groups discussing a shared scenario or decision point.
 
 ### Illustrative
 
@@ -142,6 +177,12 @@ Group performance during the task, individual understanding straight after it, d
 - Webb, N. M. (2009). The teacher’s role in promoting collaborative dialogue in the classroom. *British Journal of Educational Psychology, 79*(1), 1-28. [https://doi.org/10.1348/000709908X380772](https://doi.org/10.1348/000709908X380772)
 - Loper, Paul. (2000). Chormmunity: Co-Creating Embodied Community. ERIC Document ED443009. https://eric.ed.gov/?id=ED443009
 - Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators. Inquiry, Volume 11, Number 1, Spring 2006, 55-64. http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html
+- Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning: The value and potential of sociocultural theory. *Learning, Culture and Social Interaction, 1*(1), 12-21. [https://doi.org/10.1016/j.lcsi.2012.03.001](https://doi.org/10.1016/j.lcsi.2012.03.001)
+- Resnick, L. B., Asterhan, C. S. C., & Clarke, S. N. (Eds.). (2015). *Socializing intelligence through academic talk and dialogue*. AERA. [doi:10.3102/978-0-935302-43-1](https://doi.org/10.3102/978-0-935302-43-1)
+- McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. *International Journal of Learning Technology, 2*(2-3), 216-242. [https://doi.org/10.1504/IJLT.2006.010632](https://doi.org/10.1504/IJLT.2006.010632)
+- Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199
+- Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.
+- Jacobs, George M. (2000). Reading Alone Together: Enhancing Extensive Reading via Student-Student Cooperation in Second Language Instruction. Paper presented at the Malaysian International Conference on English Language Teaching, Malacca, Malaysia. https://eric.ed.gov/?id=ED444377
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the earlier body is kept verbatim below.
 
@@ -274,4 +315,334 @@ The article's fifth assumption holds that other learners, teachers, family membe
 
 ## Key Sources
 - Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators. Inquiry, Volume 11, Number 1, Spring 2006, 55-64. http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html
+-->
+
+<!-- merged 2026-10-15 from patterns/discussion-based-learning ("Discussion-Based Learning"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Discussion-Based Learning
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 7 claims (1 for, 6 mixed) · 17 studies (4 causal, 4 review, 3 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 1 of 17 report an effect size · 3 claims rest on one study
+
+## Description
+Discussion-Based Learning is a pattern in which understanding is built through structured conversation rather than one-way presentation alone. Learners make claims, test interpretations, compare perspectives, and refine ideas through dialogue guided by prompts, norms, and facilitation moves.
+
+## Implications
+
+### Context
+#### Requirements
+- **A question or problem worth discussing**
+- **Norms for participation and disagreement**
+- **Facilitation that keeps the discussion evidence-based**
+- **A worthwhile prompt or problem**: Discussion needs a question that invites interpretation, reasoning, or comparison.
+- **Participation structure**: Learners need norms, roles, or routines that support broad contribution.
+- **Facilitation**: The instructor or moderator needs to steer toward evidence, clarification, and synthesis.
+- **Closure or synthesis**: Discussion should end with some form of consolidation, not just stop when time runs out.
+#### Constraints
+- **Dominance and silence problems**
+- **Weak prompts lead to shallow talk**
+- **Discussion without synthesis can feel inconclusive**
+- **Dominance and silence**: Some learners may over-contribute while others withdraw without structure.
+- **Off-topic drift**: Discussions easily lose focus when prompts are weak or facilitation is absent.
+- **Uneven preparation**: Poor preparation reduces depth quickly.
+- **Not every task needs discussion**: Sometimes explanation or practice is more efficient than talk.
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- Deepen understanding through explanation and comparison.
+- Build argumentation, listening, and interpretive judgment.
+- **Interpretation and explanation**: Learners articulate and refine understanding.
+- **Collaborative meaning-making**: Ideas are strengthened through response and comparison.
+- **Academic discussion habits**: Learners practice listening, responding, and building on others' contributions.
+
+### Target Learners
+- Learners who benefit from articulation, critique, and collaborative reasoning.
+- **Learners in online, blended, or discussion-rich environments**: Strong fit where shared interpretation matters.
+- **Adult learners drawing on experience**: Discussion lets learners connect content to existing knowledge and contexts.
+- **Groups working with texts, cases, or problems**: Useful when there is a common object to discuss.
+
+### Theory
+#### Supporting
+- [Social Learning](../theories/sociocultural-theory.md)
+- [Constructivism](cognitive-activation.md)
+- Social constructivist perspectives — knowledge is shaped through dialogue and shared interpretation.
+- Dialogic learning perspectives — structured discussion helps learners articulate and revise thinking.
+- Collaborative learning perspectives — peers can co-construct understanding through guided exchange.
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+#### Contradicting / Qualifying
+- Discussion needs structure; open talk alone does not ensure conceptual progress.
+- Discussion alone does not guarantee learning; prompt quality and facilitation determine depth.
+- Some learners need preparation scaffolds or alternative participation routes to engage equitably.
+
+### Claims
+
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](../claims/tna-chatbot-prompts-structure-user-interpretation.md) [~W]
+- [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](../claims/ai-agent-validation-rate-within-human-range.md) [~W]
+- [Human and AI discourse differ functionally: students lead invitations, connection, and regulation moves, while AI leads reasoning, coordination, and agreement](../claims/human-ai-discourse-functional-differences.md) [~W]
+
+## Design
+
+### Sequence
+1. Pose a discussable question or text.
+2. Give learners time to prepare an initial position.
+3. Use prompts to compare, probe, and challenge ideas.
+4. Synthesize what changed or what remains contested.
+
+### Elements Used
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Socratic Questioning](../elements/socratic-questioning.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Feedback](../elements/feedback.md)
+
+### Affordances
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
+- [Social Learning](../theories/sociocultural-theory.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Perspective-Seeking/Multiple Perspectives](cognitive-flexibility.md)
+- [Purposeful Reflection](../principles/reflection.md)
+
+## Related Patterns
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Structured Academic Controversy (SAC)](../patterns/structured-academic-controversy.md)
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md)
+
+## Examples
+- Seminar-style text discussion with facilitator prompts and synthesis.
+- Structured peer discussion after a pre-reading question.
+- Online forum discussions tied to a case, reading, or weekly question.
+- Small-group problem discussion before whole-class synthesis.
+- Professional learning groups discussing a shared scenario or decision point.
+
+## Key Sources
+- Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning: The value and potential of sociocultural theory. *Learning, Culture and Social Interaction, 1*(1), 12-21. [https://doi.org/10.1016/j.lcsi.2012.03.001](https://doi.org/10.1016/j.lcsi.2012.03.001)
+- Resnick, L. B., Asterhan, C. S. C., & Clarke, S. N. (Eds.). (2015). *Socializing intelligence through academic talk and dialogue*. AERA. [doi:10.3102/978-0-935302-43-1](https://doi.org/10.3102/978-0-935302-43-1)
+- McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. *International Journal of Learning Technology, 2*(2-3), 216-242. [https://doi.org/10.1504/IJLT.2006.010632](https://doi.org/10.1504/IJLT.2006.010632)
+
+<!- - merged 2026-10-02 from patterns/discussion-group ("Discussion Group"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Discussion Group
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (4 mixed) · 12 studies (4 review, 3 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 12 report an effect size
+
+## Description
+Discussion Group is a structured pattern for using small-group or whole-group talk to deepen understanding, surface interpretation, and test ideas in relation to a prompt or problem. It is more than "talk in groups"; the pattern works by giving discussion a clear purpose, enough preparation, and enough moderation that the conversation stays intellectually productive.
+
+The pattern is useful across in-person, online, synchronous, and asynchronous settings. Its main strength is that it lets learners build understanding socially while making thinking visible. Its main risk is drift: without structure, discussion often becomes uneven, shallow, or dominated by a few voices.
+
+## Implications
+
+### Context
+#### Requirements
+- **A worthwhile prompt or problem**: Discussion needs a question that invites interpretation, reasoning, or comparison.
+- **Participation structure**: Learners need norms, roles, or routines that support broad contribution.
+- **Facilitation**: The instructor or moderator needs to steer toward evidence, clarification, and synthesis.
+- **Closure or synthesis**: Discussion should end with some form of consolidation, not just stop when time runs out.
+#### Constraints
+- **Dominance and silence**: Some learners may over-contribute while others withdraw without structure.
+- **Off-topic drift**: Discussions easily lose focus when prompts are weak or facilitation is absent.
+- **Uneven preparation**: Poor preparation reduces depth quickly.
+- **Not every task needs discussion**: Sometimes explanation or practice is more efficient than talk.
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- **Interpretation and explanation**: Learners articulate and refine understanding.
+- **Collaborative meaning-making**: Ideas are strengthened through response and comparison.
+- **Academic discussion habits**: Learners practice listening, responding, and building on others' contributions.
+
+### Target Learners
+- **Learners in online, blended, or discussion-rich environments**: Strong fit where shared interpretation matters.
+- **Adult learners drawing on experience**: Discussion lets learners connect content to existing knowledge and contexts.
+- **Groups working with texts, cases, or problems**: Useful when there is a common object to discuss.
+
+### Theory
+#### Supporting
+- Social constructivist perspectives — knowledge is shaped through dialogue and shared interpretation.
+- Dialogic learning perspectives — structured discussion helps learners articulate and revise thinking.
+- Collaborative learning perspectives — peers can co-construct understanding through guided exchange.
+#### Contradicting / Qualifying
+- Discussion alone does not guarantee learning; prompt quality and facilitation determine depth.
+- Some learners need preparation scaffolds or alternative participation routes to engage equitably.
+
+### Claims
+#### Supporting
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+#### Contradicting
+
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+
+## Design
+
+### Sequence
+1. Present a discussion prompt, text, case, or problem.
+2. Give learners brief preparation time individually or in pairs.
+3. Run the discussion with moderation, turn structure, or roles.
+4. Press for clarification, evidence, and comparison of ideas.
+5. End with synthesis, reflection, or a written takeaway.
+
+### Elements Used
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Feedback](../elements/feedback.md)
+
+### Affordances
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Perspective-Seeking/Multiple Perspectives](cognitive-flexibility.md)
+- [Purposeful Reflection](../principles/reflection.md)
+
+### Personalization
+- Discussion can be synchronous or asynchronous, oral or text-based.
+- Roles such as summarizer, challenger, or evidence-checker can support different learner needs.
+- Prompts can be more scaffolded for novice groups and more open for experienced groups.
+
+## Related Patterns
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+
+## Examples
+- Online forum discussions tied to a case, reading, or weekly question.
+- Small-group problem discussion before whole-class synthesis.
+- Professional learning groups discussing a shared scenario or decision point.
+
+## Impact
+- Often increases engagement and makes thinking more visible.
+- Strongest when learners are accountable for building on one another's ideas rather than posting isolated comments.
+
+## Key Sources
+- McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. *International Journal of Learning Technology, 2*(2-3), 216-242. [https://doi.org/10.1504/IJLT.2006.010632](https://doi.org/10.1504/IJLT.2006.010632)
+- Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning: The value and potential of sociocultural theory. *Learning, Culture and Social Interaction, 1*(1), 12-21. [https://doi.org/10.1016/j.lcsi.2012.03.001](https://doi.org/10.1016/j.lcsi.2012.03.001)
+- ->
+-->
+
+<!-- merged 2026-10-15 from principles/create-social-situations-for-meaning ("Create social situations in which meaning arises through the learner's own response"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Create social situations in which meaning arises through the learner's own response
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+This principle, drawn from Mead's lectures as reconstructed in the article, holds that because meanings grow out of social intercourse, education must deliberately arrange social interaction rather than transmit definitions. The article reports Mead's view that "meaning must arise in the child's consciousness in some sort of intercourse with others", and that the child must get meaning through his own response to certain social situations. Mead accordingly concludes that if education is social, the social situation must be created; the article presents this as one of two pedagogically relevant consequences of the social origin of meaning.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Educational settings must be organized as genuine social interaction in which the learner responds, rather than as one-way transmission of language or definitions
+#### Constraints
+- The article reports Mead's warning that a dictionary definition cannot be given with the expectation that the child gets the meaning from it
+
+### Target Learners
+- children in formal schooling
+
+### Target Learning Objectives
+- construction of meanings through the learner's own response in social interaction
+
+### Claims
+- [Meanings Grow Out Of Social Intercourse](../claims/meanings-grow-out-of-social-intercourse.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199
+-->
+
+<!-- merged 2026-10-15 from principles/delegate-knowledge-creation-responsibility-to-learners ("Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The paper recommends organising learning so that learners, rather than teachers, carry high-level responsibility for knowledge creation, working collaboratively and iteratively on ill-defined problems and developing shared objects intended for re-use as artefacts or practices. This design recommendation follows directly from the trialogical characteristics and is operationalised in the project's pedagogical scenarios and in the Knowledge Practices Environment, which supports planning, versioning, commenting and annotating of shared objects. It integrates face-to-face and virtual activity and makes the evolution of shared objects visible to participants.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Activities must be organised around shared objects with re-usable outcomes
+- Participants need opportunities to re-produce ideas in representations others can build on
+- Technology should make object evolution and versioning visible
+#### Constraints
+- Stated for settings emphasising collaborative knowledge creation in higher education, teacher training and work organisations, not for all learning situations
+
+### Target Learners
+- higher education students
+- teacher trainees
+- workplace teams
+
+### Target Learning Objectives
+- collaborative knowledge creation
+- development of re-usable knowledge artefacts and practices
+
+### Claims
+- [Trialogical Learning Design Characteristics](../theories/trialogical-learning-design-characteristics.md) [+M]
+
+## Related Principles
+- [Trialogical Pedagogical Scenarios](../strategies/trialogical-pedagogical-scenarios.md)
+
+## Examples
+-
+
+## Key Sources
+- Reynolds, S., & Camilleri, A. F. (2010). KP-LAB: Breaking New Ground on How to Create Knowledge Through Learning. EDEN 2010 Conference, Valencia.
+-->
+
+<!-- merged 2026-10-15 from patterns/literature-circles-rotating-collaborative-roles ("Literature Circles with rotating collaborative-skill roles for small-group pleasure reading"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Literature Circles with rotating collaborative-skill roles for small-group pleasure reading
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+Midway between whole-class and individual reading, Literature Circles have "L2 students read for pleasure in small, self-selected groups that meet regularly to discuss books that the members themselves have chosen." The article recommends enhancing discussions with instruction in collaborative skills via rotating roles: Paraphraser, Praiser, Controversy kindler, and Connector, with teachers supplying role gambits such as "Have you ever thought about it this way?" Roles rotate so everyone practices the skills.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers still have roles: helping form groups, advising on books, assisting with comprehension, observing progress, and reassuring students that pleasure reading promotes acquisition.
+#### Constraints
+- The article acknowledges the objection that roles might make discussion artificial, responding that roles can increase awareness of group function; it also suggests roles may become unnecessary after repeated use.
+
+### Target Learners
+- L2 students reading in small self-selected groups
+
+### Target Goals
+- pleasure reading, discussion skills, and language functions such as disagreeing politely
+
+### Claims
+
+- [Kagan Pies Cooperative Learning Principles](../theories/kagan-pies-cooperative-learning-principles.md) [+M]
+- [The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee](../claims/cl-not-magic-wand-for-er-motivation.md) [~W]
+- [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](../claims/er-peer-interaction-greater-achievement-gains.md) [+M]
+- [The article advances a five-part rationale for benefits of adding a peer element to extensive reading](../claims/five-rationales-peer-element-er.md) [~W]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Jacobs, George M. (2000). Reading Alone Together: Enhancing Extensive Reading via Student-Student Cooperation in Second Language Instruction. Paper presented at the Malaysian International Conference on English Language Teaching, Malacca, Malaysia. https://eric.ed.gov/?id=ED444377
 -->

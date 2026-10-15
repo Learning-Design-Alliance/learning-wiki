@@ -62,7 +62,7 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 - [Feedback](feedback.md) — corrective information placed next to the learner's error is processed more readily than feedback in a separate panel
 
 ## Patterns That Use This Element
-- [Cognitive Load Reduction](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md) — proximity is a primary technique for eliminating split attention
+- [Cognitive Load Reduction](../principles/cognitive-load-theory.md) — proximity is a primary technique for eliminating split attention
 - [Multimedia Learning Design](../patterns/multimedia-learning.md) — one of the core contiguity principles governing word–image integration
 - [Direct Instruction](../patterns/direct-instruction.md) — tightly integrated presentation materials exemplify its emphasis on unambiguous, low-load exposition
 

@@ -38,7 +38,7 @@ Tiered seating is a physical-environment strategy: it works by improving mutual 
 #### Implementation Variability
 - **Built-in risers** (theater-style platforms) suit dedicated presentation spaces and [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) modeling phases where all eyes must reach a single demonstration
 - **Loose staggered furniture** (bean bags, floor cushions, low stools on carpet) suits early-childhood and primary settings, where the "cozy" enclosure supports circle-time discussion
-- **Semi-circular tiered benches** suit seminar-style [Discussion-Based Learning](../patterns/discussion-based-learning.md), keeping every face visible for peer-to-peer talk
+- **Semi-circular tiered benches** suit seminar-style [Discussion-Based Learning](../principles/collaborative-learning.md), keeping every face visible for peer-to-peer talk
 - **Movable tiered modules** (stackable foam platforms) offer a compromise between fixed construction and flat flexible rooms
 
 ### Target Learners
@@ -71,7 +71,7 @@ Tiered seating is a physical-environment strategy: it works by improving mutual 
 
 ## Patterns That Use This Strategy
 - [Collaborative Learning](../patterns/collaborative-learning.md) — the tiered area functions as a dedicated convening space for group work and share-outs
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — semi-circular tiers keep every participant visible, supporting accountable talk norms
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — semi-circular tiers keep every participant visible, supporting accountable talk norms
 
 ## Examples
 - **Reggio Emilia–inspired early childhood classrooms** commonly include a carpeted "gathering" tier or amphitheater corner used for morning meeting, story, and share-outs (see https://www.reggiochildren.it).

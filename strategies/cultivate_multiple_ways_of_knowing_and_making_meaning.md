@@ -175,7 +175,7 @@ Presenting concepts through multiple representations and inviting learners to co
 ## Patterns That Use This Strategy
 - [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — multiple representations and cases as the core mechanism for ill-structured domains
 - [Community-Based Learning](../principles/community-based-learning.md) — community knowledge as a legitimate instructional source
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — structured exchange of differing ways of making meaning
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — structured exchange of differing ways of making meaning
 
 ## Examples
 - **[Zaretta Hammond, *Culturally Responsive Teaching and the Brain* (2015)](https://us.corwin.com/books/culturally-responsive-teaching-244838)** — a widely used practitioner framework for building learning partnerships on students' cultural funds of knowledge.

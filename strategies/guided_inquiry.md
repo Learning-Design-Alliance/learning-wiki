@@ -72,7 +72,7 @@ Guided inquiry outperforms unguided discovery because learners lack the prior kn
 ## Examples
 - **[IQWST (Investigating and Questioning our World through Science and Technology)](https://iqwst.org)** — a middle-school science curriculum in which lessons are organized around guided investigations of canonical phenomena, with embedded question prompts and reading scaffolds.
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — inquiry-based science simulations; teachers typically pair them with structured activity sheets that guide variable manipulation, illustrating the guidance layer over open exploration.
-- **[Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)** — business and medical education where learners analyze cases in discussion, with the instructor steering rather than lecturing.
+- **[Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md)** — business and medical education where learners analyze cases in discussion, with the instructor steering rather than lecturing.
 
 ## Key Sources
 - Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C. (2012). Experimental and quasi-experimental studies of inquiry-based science teaching: A meta-analysis. *Review of Educational Research, 82*(3), 300–329. [doi:10.3102/0034654312457206](https://doi.org/10.3102/0034654312457206)

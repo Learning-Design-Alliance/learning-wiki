@@ -48,8 +48,8 @@ Kolb's Learning Style Inventory, derived from experiential learning theory, meas
 
 ## Examples
 
-- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](../principles/four-factor-teaching-compatibility.md)
-- [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/kolb-derived-curriculum-guidelines.md)
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](../principles/personalization.md)
+- [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/experiential-learning.md)
 
 ## Key Sources
 - Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635

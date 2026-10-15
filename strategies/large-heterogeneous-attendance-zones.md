@@ -47,7 +47,7 @@ The guide specifies zone design rules: "Zones should be large enough to encompas
 ## Related Principles
 
 - [Use choice data as a referendum to identify and improve least-chosen schools rather than magnetizing only the best](improve-least-chosen-schools-via-choice-data.md)
-- [Implement desegregation, choice, and school improvement simultaneously rather than incrementally](../principles/simultaneous-desegregation-choice-improvement.md)
+- [Implement desegregation, choice, and school improvement simultaneously rather than incrementally](../principles/systemic-understanding-guides-change-efforts.md)
 
 ## Examples
 -

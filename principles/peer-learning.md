@@ -1,6 +1,7 @@
 ---
 type: principle
 id: peer-learning
+aliases: [peer-feedbackpeer-review, peer-feedback]
 title: Peer Learning
 description: "For learners who have already studied the material, a structured exchange in which each must explain to a peer and answer that peer's questions (tutoring, teaching a peer, reciprocal roles, peer assessment) is expected to raise each learner's individually measured achievement over studying alone, for explainer and helped alike; meta-analyses test peer tutoring against no tutoring and teaching against studying, while no claim tests the doses, role rotation or hand-over points."
 canonical: true
@@ -17,12 +18,24 @@ sources:
     resource: "https://doi.org/10.1016/j.cedpsych.2013.06.001"
     title: "Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching and teaching expectancy. *Contemporary Educational Psychology, 38*(4), 281-288"
     author: "Fiorella, L., & Mayer, R. E"
+  - id: leijen-2017
+    resource: "https://doi.org/10.1016/j.compcom.2016.11.005"
+    title: "Leijen, D. A. J. (2017). A novel approach to examine the impact of web-based peer review on the revisions of L2 writers. *Computers and Composition, 43*, 35-54"
+    author: Leijen, D. A. J
+  - id: lin-2018
+    resource: "https://doi.org/10.1016/j.compedu.2017.08.010"
+    title: "Lin, G. Y. (2018). Anonymous versus identified peer assessment via a Facebook-based learning application: Effects on quality of peer feedback, perceived learning, perceived fairness, and attitude toward the system. *Computers & Education, 116*, 81-92"
+    author: Lin, G. Y
+  - id: wu-2020
+    resource: "https://doi.org/10.1016/j.cedpsych.2020.101897"
+    title: "Wu, Y., & Schunn, C. D. (2020). When peers agree, do students listen? The central role of feedback quality and feedback frequency in determining uptake of feedback. *Contemporary Educational Psychology, 62*, 101897"
+    author: "Wu, Y., & Schunn, C. D"
 ---
 
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (10 for, 7 mixed) · 26 studies (12 quant-synthesis, 3 causal, 3 review, 3 qualitative, 2 associational, 2 design, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 10 claims rest on one study
+> **Evidence** · 30 claims (15 for, 15 mixed) · 37 studies (12 quant-synthesis, 8 causal, 5 qualitative, 4 associational, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 10 of 37 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +140,19 @@ Claims that bear on peer learning but are not part of the model above, each with
 - [Tutoring benefits both tutors and tutees](../claims/peer-tutoring-improves-achievement.md) [+S]: carries the same two meta-analyses as Peer Tutoring Improves Achievement; a duplicate of it in substance, linked here rather than counted twice.
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](../claims/peer-assisted-learning-improves-learning-outcomes.md) [+W]: a definition of peer-assisted learning and its forms from a descriptive report; the effectiveness statement is the report's own framing, not a tested result.
 - [An ICAP article reports, second-hand, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W]: the one comparison in the wiki of the same task done with a peer against alone, but reported without its design.
+- [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](../claims/ai-and-peer-feedback-complementary.md) [~W]
+- [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](../claims/business-writing-students-value-ai-feedback-but-find-it-general.md) [+W]
+- [Counter rises in both revision conditions, Endorse rises in peer-feedback revisions but declines in AI revisions, and Pronounce declines in both](../claims/counter-endorse-pronounce-subcategory-patterns.md) [~W]
+- [AI-generated revisions employ significantly more appraisal resources than peer-feedback revisions, which exceed first drafts](../claims/ai-revisions-most-appraisal-resources.md) [+W]
+- [Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback](../claims/feedback-focus-shift-across-tasks.md) [~W]
+- [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](../claims/ai-peer-feedback-writing-gains-differential.md) [+M]
+- [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](../claims/pairr-reflections-show-critical-interrogation-of-ai-feedback.md) [+W]
+- [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](../claims/student-perceptions-human-contextual-ai-objective-structured.md) [~W]
+- [Peer-feedback revisions shift toward a more contractive dialogic stance while AI-generated revisions keep a relatively balanced Contract–Expand distribution](../claims/peer-revisions-contractive-ai-balanced.md) [~W]
+- [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
+- [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](../claims/feedback-source-no-effect-on-revision-outcomes.md) [~W]
+- [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](../claims/collaborative-writing-methods-predate-the-collaborative-learning-movement.md) [~W]
+- [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](../claims/stage1-no-significant-difference-peer-ai-feedback-quality.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -146,11 +172,17 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [Collaborative Learning](collaborative-learning.md) — peer learning is a narrower principle focused on learner-to-learner explanation and response
 - [Cooperative Learning](cooperative-learning.md) — group goals with individual accountability; this page's individual check borrows its accountability model
 - [Social Interdependence](social-interdependence.md) — why helping and holding peers to account follows from a shared goal
-- [Peer Feedback](peer-feedback.md) — learners judging one another's work against shared criteria
 - [Guided Practice](guided-practice.md) — support during practice, here given by a peer
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how a peer helper's support should be raised and withdrawn
+- [Formative Assessment](formative-assessment.md) — peer feedback is often a low-stakes formative mechanism before final evaluation.
+- [Process-Based Writing](process-based-writing.md) — drafting and revision make peer review especially useful.
+- [Building Empathy](building-empathy.md) — constructive peer review depends on understanding audience, tone, and the impact of feedback.
 
 ## Examples
+- **Structured draft review**: Learners use a rubric and sentence stems to comment on a peer's draft before revision.
+- **Gallery walk critique**: Learners review several products and leave targeted feedback linked to criteria.
+- **Real-time digital peer response**: Learners respond to classmates' work in a shared platform while the task is still revisable.
+- **Two-stage review**: Learners first identify strengths and evidence, then suggest one or two specific next moves.
 
 ### Illustrative
 
@@ -169,6 +201,9 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 ## Key Sources
 - Topping, K. J. (2005). Trends in peer learning. *Educational Psychology, 25*(6), 631-645. [https://doi.org/10.1080/01443410500345172](https://doi.org/10.1080/01443410500345172)
 - Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching and teaching expectancy. *Contemporary Educational Psychology, 38*(4), 281-288. [https://doi.org/10.1016/j.cedpsych.2013.06.001](https://doi.org/10.1016/j.cedpsych.2013.06.001)
+- Leijen, D. A. J. (2017). A novel approach to examine the impact of web-based peer review on the revisions of L2 writers. *Computers and Composition, 43*, 35-54. [https://doi.org/10.1016/j.compcom.2016.11.005](https://doi.org/10.1016/j.compcom.2016.11.005)
+- Lin, G. Y. (2018). Anonymous versus identified peer assessment via a Facebook-based learning application: Effects on quality of peer feedback, perceived learning, perceived fairness, and attitude toward the system. *Computers & Education, 116*, 81-92. [https://doi.org/10.1016/j.compedu.2017.08.010](https://doi.org/10.1016/j.compedu.2017.08.010)
+- Wu, Y., & Schunn, C. D. (2020). When peers agree, do students listen? The central role of feedback quality and feedback frequency in determining uptake of feedback. *Contemporary Educational Psychology, 62*, 101897. [https://doi.org/10.1016/j.cedpsych.2020.101897](https://doi.org/10.1016/j.cedpsych.2020.101897)
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -234,4 +269,87 @@ Peer learning is strongest when learners are asked to do real intellectual work 
 - Topping, K. J. (2005). Trends in peer learning. *Educational Psychology, 25*(6), 631-645. [https://doi.org/10.1080/01443410500345172](https://doi.org/10.1080/01443410500345172)
 - Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching and teaching expectancy. *Contemporary Educational Psychology, 38*(4), 281-288. [https://doi.org/10.1016/j.cedpsych.2013.06.001](https://doi.org/10.1016/j.cedpsych.2013.06.001)
 
+-->
+
+<!-- merged 2026-10-15 from principles/peer-feedback ("Peer Feedback/Peer Review"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Peer Feedback/Peer Review
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 16 claims (7 for, 9 mixed) · 22 studies (8 causal, 3 quant-synthesis, 3 associational, 3 qualitative, 2 review, 2 theoretical, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 12 claims rest on one study
+
+## Description
+Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding. The learning benefit is reciprocal: reviewers practice noticing quality, naming evidence, and proposing revisions, while recipients receive more perspectives and revision cues than instructor-only feedback can usually provide. Peer review is not automatically effective, however; learners need preparation, clear criteria, and protocols that keep the feedback specific, respectful, and usable.
+
+## Implications
+Peer feedback improves learning when it teaches learners to recognize quality and act on revision cues, not just receive more comments. Reviewing a peer’s work can sharpen evaluative judgment because learners must explain what is working, what is weak, and why [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], while recipients gain additional information they can use to monitor and revise their own work [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]. The design challenge is credibility and specificity: peer review collapses quickly into vague praise, surface correction, or distrust unless learners share criteria, practice giving feedback, and have time to revise in response. In practice, peer review often needs modeled prompts and structured protocols before it becomes reliably useful [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
+
+### Context
+#### Requirements
+- **Shared criteria or rubric**: Learners need a common standard for what to look for and comment on.
+- **Preparation for giving feedback**: Strong peer review usually requires modeling, examples, and sentence frames or protocols.
+- **Time for revision**: Feedback matters most when the recipient can act on it.
+- **A psychologically safe climate**: Learners need norms that make critique about the work rather than the person.
+#### Constraints
+- **Vague praise or vague criticism**: Feedback that is non-specific is rarely useful.
+- **Reviewer inexperience**: Learners may miss important issues or focus only on surface errors unless coached.
+- **Trust and status issues**: Learners may discount peer comments if the process lacks credibility or safety.
+- **Misalignment with the task**: Peer review is weaker when learners do not understand the genre, content, or criteria well enough to respond meaningfully.
+
+### Target Learners
+- **Learners engaged in drafting and revision**: Especially useful for writing, design, presentations, and project work.
+- **Learners building evaluative judgment**: Reviewing peer work helps learners notice quality and criteria more explicitly.
+- **Learners who benefit from multiple perspectives**: Peer review can diversify the feedback a learner receives.
+- **Learners developing communication and critique skills**: The process builds both giving and receiving feedback productively.
+
+### Target Learning Objectives
+- **Improved revision quality**: Using external feedback to strengthen a draft, product, or performance.
+- **Metacognitive monitoring**: Learning to recognize quality, gaps, and next steps in one's own work.
+- **Constructive critique skills**: Practicing evidence-based, actionable feedback.
+- **Agency and participation in assessment**: Involving learners more actively in the improvement process.
+
+### Theory
+#### Supporting
+- Social constructivist perspectives — learners build understanding through interaction and shared criteria.
+- Self-regulated learning — peer feedback supports monitoring, revision, and strategic adjustment.
+- Reflective and evaluative learning traditions — reviewing others' work sharpens one's own sense of quality.
+#### Contradicting / Qualifying
+- Peer review should complement, not automatically replace, expert feedback where technical accuracy or domain nuance matters.
+- Anonymous peer review can reduce some social friction, but it can also reduce accountability or relational learning depending on the context.
+
+### Claims
+
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — reviewing peer work deepens learning when learners explain what is strong, weak, and why
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — peer review helps recipients and reviewers monitor quality and identify concrete next steps
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — peer feedback improves when the process includes modeled prompts, protocols, and responsive support
+- [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](../claims/ai-and-peer-feedback-complementary.md) [~W]
+- [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](../claims/business-writing-students-value-ai-feedback-but-find-it-general.md) [+W]
+- [Counter rises in both revision conditions, Endorse rises in peer-feedback revisions but declines in AI revisions, and Pronounce declines in both](../claims/counter-endorse-pronounce-subcategory-patterns.md) [~W]
+- [AI-generated revisions employ significantly more appraisal resources than peer-feedback revisions, which exceed first drafts](../claims/ai-revisions-most-appraisal-resources.md) [+W]
+- [Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback](../claims/feedback-focus-shift-across-tasks.md) [~W]
+- [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](../claims/ai-peer-feedback-writing-gains-differential.md) [+M]
+- [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](../claims/pairr-reflections-show-critical-interrogation-of-ai-feedback.md) [+W]
+- [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](../claims/student-perceptions-human-contextual-ai-objective-structured.md) [~W]
+- [Peer-feedback revisions shift toward a more contractive dialogic stance while AI-generated revisions keep a relatively balanced Contract–Expand distribution](../claims/peer-revisions-contractive-ai-balanced.md) [~W]
+- [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
+- [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](../claims/feedback-source-no-effect-on-revision-outcomes.md) [~W]
+- [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](../claims/collaborative-writing-methods-predate-the-collaborative-learning-movement.md) [~W]
+- [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](../claims/stage1-no-significant-difference-peer-ai-feedback-quality.md) [~W]
+
+## Related Principles
+- [Peer Discussion](peer-discussion.md) — peer review is a more criteria-driven form of peer discussion centered on improvement.
+- [Formative Assessment](formative-assessment.md) — peer feedback is often a low-stakes formative mechanism before final evaluation.
+- [Process-Based Writing](process-based-writing.md) — drafting and revision make peer review especially useful.
+- [Building Empathy](building-empathy.md) — constructive peer review depends on understanding audience, tone, and the impact of feedback.
+
+## Examples
+- **Structured draft review**: Learners use a rubric and sentence stems to comment on a peer's draft before revision.
+- **Gallery walk critique**: Learners review several products and leave targeted feedback linked to criteria.
+- **Real-time digital peer response**: Learners respond to classmates' work in a shared platform while the task is still revisable.
+- **Two-stage review**: Learners first identify strengths and evidence, then suggest one or two specific next moves.
+
+## Key Sources
+- Leijen, D. A. J. (2017). A novel approach to examine the impact of web-based peer review on the revisions of L2 writers. *Computers and Composition, 43*, 35-54. [https://doi.org/10.1016/j.compcom.2016.11.005](https://doi.org/10.1016/j.compcom.2016.11.005)
+- Lin, G. Y. (2018). Anonymous versus identified peer assessment via a Facebook-based learning application: Effects on quality of peer feedback, perceived learning, perceived fairness, and attitude toward the system. *Computers & Education, 116*, 81-92. [https://doi.org/10.1016/j.compedu.2017.08.010](https://doi.org/10.1016/j.compedu.2017.08.010)
+- Wu, Y., & Schunn, C. D. (2020). When peers agree, do students listen? The central role of feedback quality and feedback frequency in determining uptake of feedback. *Contemporary Educational Psychology, 62*, 101897. [https://doi.org/10.1016/j.cedpsych.2020.101897](https://doi.org/10.1016/j.cedpsych.2020.101897)
 -->

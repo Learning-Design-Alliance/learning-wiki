@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: cognitive-apprenticeship
+aliases: [four-reflection-methods-reification, guided-equation-appropriation]
 title: Cognitive Apprenticeship
 description: "A reusable modeling, coaching, scaffolding, fading, articulation and exploration policy for complex cognitive skills, whose phase transitions depend on observed unaided performance and remain an untested design proposal."
 canonical: true
@@ -21,6 +22,14 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ1059644"
     title: "Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644"
     author: Dozier, C. L
+  - id: collins-1988
+    resource: "https://eric.ed.gov/?id=ED331465"
+    title: "Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465"
+    author: Collins, Allan
+  - id: kapon-schvartzer-2024
+    resource: "https://doi.org/10.1080/07370008.2023.2197232"
+    title: "Kapon, S., & Schvartzer, M. (2024). Guided Inquiry into a Physics Equation. Cognition and Instruction, 42(1), 159-206."
+    author: "Kapon, S., & Schvartzer, M."
 author: "Collins, Brown, & Newman (1989)"
 grain_size: course, unit
 ---
@@ -28,7 +37,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (9 for, 4 mixed, 2 against) · 17 studies (7 causal, 3 quant-synthesis, 3 review, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 1 of 17 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (9 for, 5 mixed, 2 against, 1 unmarked) · 19 studies (7 causal, 4 qualitative, 3 quant-synthesis, 3 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 19 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -105,6 +114,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — not settled: the text available could not confirm the entries (abstract)
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md)
+- [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](../claims/network-of-intuitive-ideas-stabilizes-thinking.md) [~W]
 
 ## Illustrative design instance and observation record
 
@@ -114,7 +125,7 @@ Record: **task and conditions → model shown (what was narrated) → learner at
 
 ## Elements and limits
 
-[Modeling](../elements/modeling.md), [think-aloud](../elements/think-aloud.md), [demonstration](../elements/demonstration.md), [worked examples](../elements/worked-examples.md), [coaching](../elements/coaching.md), [eliciting student thinking](../elements/eliciting-student-thinking.md), [feedback](../elements/feedback.md), [hints](../elements/hints.md), [scaffolding](../elements/scaffolding.md), [fading](../elements/fading.md), [articulation](../elements/articulation.md), [reflection](../elements/reflection.md) and [practice](../elements/practice.md). Principles the sequence draws on: [worked examples](../principles/worked-examples.md), [scaffolding](../principles/scaffolding.md), [guided practice](../principles/guided-practice.md) and [purposeful reflection](../principles/purposeful-reflection.md).
+[Modeling](../elements/modeling.md), [think-aloud](../elements/think-aloud.md), [demonstration](../elements/demonstration.md), [worked examples](../elements/worked-examples.md), [coaching](../elements/coaching.md), [eliciting student thinking](../elements/eliciting-student-thinking.md), [feedback](../elements/feedback.md), [hints](../elements/hints.md), [scaffolding](../elements/scaffolding.md), [fading](../elements/fading.md), [articulation](../elements/articulation.md), [reflection](../elements/reflection.md) and [practice](../elements/practice.md). Principles the sequence draws on: [worked examples](../principles/worked-examples.md), [scaffolding](../principles/scaffolding.md), [guided practice](../principles/guided-practice.md) and [purposeful reflection](../principles/reflection.md).
 
 This pattern is general across domains; a clinical round, a writing workshop or a design studio is a design that uses it, not a separate pattern. It depends on someone being able to make their reasoning explicit, and contingent coaching is hard to sustain for many learners at once. The evidence for contingency comes mostly from one-to-one tutoring. Whether the full sequence improves independent performance more than explicit strategy instruction, or more than its parts used alone, has not been tested here, and neither has its diagnostic policy.
 
@@ -127,7 +138,9 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — shares the principle of worked examples fading to full tasks; provides more formal scaffolding design rules for complex learning
-- [Guided Discovery Learning](guided-discovery-learning.md) — similar progression from support to independence, but begins with learner exploration rather than expert modeling
+- [Guided Discovery Learning](../principles/inquiry-based-learning.md) — similar progression from support to independence, but begins with learner exploration rather than expert modeling
+- [Three fading-based scaffolding approaches: supportive, intrinsic and reflective scaffolding](../principles/scaffolding-and-fading.md)
+- (none yet linked)
 
 ## Examples
 
@@ -142,6 +155,7 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - [Model Empathy and Explain](../strategies/model_empathy_and_explain.md)
 - [Connecting Struggles to Strategies](../strategies/connecting_struggles_to_strategies.md)
 - [Mentor Text Analysis](../strategies/mentor-text-analysis.md)
+- A high-school student researching wave velocity in liquids spent under 10 minutes deriving the phase-velocity equation v = (gλ/2π + σ/2πλρ)tanh(2πh/λ), but "hours and days" across three mentoring sessions working through what each term meant, why surface tension was negligible in his experimental conditions, and why velocity increased with depth — moving over the course of the year from "classic ADHD" disengagement (his 10th-grade teacher's description) to sustained, self-directed inquiry.
 
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)
@@ -149,6 +163,8 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315113210](https://doi.org/10.4324/9781315113210)
 - Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+- Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465
+- Kapon, S., & Schvartzer, M. (2024). Guided Inquiry into a Physics Equation. *Cognition and Instruction, 42*(1), 159-206. [https://doi.org/10.1080/07370008.2023.2197232](https://doi.org/10.1080/07370008.2023.2197232)
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The former body, kept verbatim:
 
@@ -219,7 +235,7 @@ Course or unit — the full modeling → coaching → fading arc typically unfol
 - [Worked Examples](../principles/worked-examples.md) — enacts this principle by making the modeling phase a narrated, annotated demonstration of expert problem-solving, giving learners a complete cognitive model to study before attempting tasks themselves
 - [Scaffolding](../principles/scaffolding.md) — applies this principle by calibrating support (hints, partial solutions, checklists) to exactly where the learner struggles, providing just enough assistance to keep them progressing without removing the cognitive work that drives learning
 - [Guided Practice](../principles/guided-practice.md) — implements this principle through the coaching phase, where learners attempt authentic tasks with expert observation and targeted feedback rather than practicing in isolation or receiving only after-the-fact grades
-- [Purposeful Reflection](../principles/purposeful-reflection.md) — builds this principle directly into the sequence: the articulation and reflection phases require learners to compare their own performance to the expert model and name specific gaps, turning implicit self-assessment into deliberate metacognitive work
+- [Purposeful Reflection](../principles/reflection.md) — builds this principle directly into the sequence: the articulation and reflection phases require learners to compare their own performance to the expert model and name specific gaps, turning implicit self-assessment into deliberate metacognitive work
 
 ### Personalization
 
@@ -274,4 +290,111 @@ Drawing on Johnston (2004), the author names for teachers the practices enacted 
 
 ## Key Sources
 - Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+-->
+
+<!-- merged 2026-10-15 from patterns/four-reflection-methods-reification ("Four methods of reflection on performance: imitation, replay, abstracted replay, and spatial reification"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Four methods of reflection on performance: imitation, replay, abstracted replay, and spatial reification
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The paper enumerates four ways of permitting students to reflect on their performance: "(1) imitation, (2) replay, (3) abstracted replay and (4) spatial reification," illustrated via tennis coaching. Technology makes the last three forms possible, which the authors call "a genuinely new teaching method emerging out of technology." Reflection turns the student's performance into an object of study, lets students compare their performance to others', supports characterizing strategies abstractly, and permits comparison of multiple performances to form abstractions about expert versus novice performance.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Multiple views of performance and the ability to compare one's performance to expert performance
+#### Constraints
+- 
+
+### Target Learners
+- Students learning cognitive skills such as geometry proof construction
+
+### Target Goals
+- Analyzing one's own problem-solving processes and forming hypotheses about what makes performance successful
+
+### Claims
+- 
+
+## Related Patterns
+
+- [Three fading-based scaffolding approaches: supportive, intrinsic and reflective scaffolding](../principles/scaffolding-and-fading.md)
+
+## Examples
+-
+
+## Key Sources
+- Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465
+-->
+
+<!-- merged 2026-10-15 from patterns/guided-equation-appropriation ("Guided Equation Appropriation"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Guided Equation Appropriation
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+When a student encounters a physics equation directly (e.g., looked up or given), they can often derive or apply it long before they understand what it means or implies. This pattern sequences instruction to build understanding in the other direction: mechanistic, intuitive reasoning first, formal equation second, deep interpretive reading of the equation third — with a mentor making seven specific kinds of moves throughout to keep the student's own reasoning central rather than substituting the mentor's expertise for it.
+
+## Implications
+
+### Context
+#### Requirements
+- An authentic, extended inquiry context (the source case was a year-long student research project) rather than a single lesson, since deep interpretive reading of an equation took "hours and days" even after derivation took minutes
+- A mentor willing to withhold explanation until the student has attempted mechanistic reasoning and dimensional/qualitative hypothesizing on their own
+#### Constraints
+- This is evidence from a single mentored student over one year; the specific pacing (weeks between sessions) may not transfer to a standard classroom period structure
+- Depends on a mentor skilled at anticipating student difficulties well enough to sequence the seven instructional moves responsively, rather than following a fixed script
+#### Grain Size
+Unit (the source study analyzed an equation-focused sequence unfolding across multiple 3-hour sessions over several weeks, within a year-long project)
+
+### Target Goals
+- Reading comprehension of a physics equation at the textually-explicit, textually-implicit, and scriptally-implicit levels
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md)
+
+### Target Learners
+- Students engaged in an extended, equation-centered research inquiry with access to sustained one-on-one or small-group mentoring
+
+### Theory
+#### Supporting
+- [Equations as Language](../theories/equations-as-language.md)
+#### Contradicting / Qualifying
+- (none yet linked)
+
+### Claims
+#### Supporting
+#### Contradicting
+
+- (none yet linked)
+- [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](../claims/network-of-intuitive-ideas-stabilizes-thinking.md) [~W]
+
+## Design
+
+### Sequence
+1. **Anticipating the formalism**: before the equation is introduced, the student crafts a mechanistic explanation of the phenomenon (identifying relevant entities, variables, and relations), generates qualitative predictions ("if X increases, Y decreases"), and hypothesizes a crude mathematical form (e.g., via dimensional analysis) — all without being given the actual equation.
+2. **Introducing the equation**: the formal equation is introduced once the student has an intuitive stance to compare it against.
+3. **Reading through the equation — textually explicit**: identify what each variable and parameter in the equation means.
+4. **Reading through the equation — textually implicit**: mentally simulate how changing one variable affects another; test special cases; run numerical simulations to check inferred relationships.
+5. **Reading through the equation — scriptally implicit**: identify compound terms as meaningful conceptual units (not just symbols), substitute real values, and explicate the equation's meaning in words, connecting it back to the mechanistic explanation from step 1.
+
+Throughout, the mentor makes seven kinds of moves: disciplining perception (directing attention to relevant features), telling (re-explaining when needed), explicating continuity (connecting new work to prior steps), deliberate attentiveness (examining student work and asking clarifying questions), capitalizing on student ideas (elaborating and re-voicing rather than replacing them), responsive sequencing (timing new activities to the student's progress), and encouraging autonomy (framing the work as joint inquiry and inviting self-correction).
+
+### Affordances
+- (none yet linked)
+
+### Personalization
+- The specific phenomenon and equation are interchangeable; what matters structurally is that the student's own mechanistic reasoning precedes the formal equation, and that all three reading-comprehension levels are explicitly worked through rather than assumed once derivation succeeds.
+
+## Related Patterns
+- (none yet linked)
+
+## Examples
+- A high-school student researching wave velocity in liquids spent under 10 minutes deriving the phase-velocity equation v = (gλ/2π + σ/2πλρ)tanh(2πh/λ), but "hours and days" across three mentoring sessions working through what each term meant, why surface tension was negligible in his experimental conditions, and why velocity increased with depth — moving over the course of the year from "classic ADHD" disengagement (his 10th-grade teacher's description) to sustained, self-directed inquiry.
+
+## Key Sources
+- Kapon, S., & Schvartzer, M. (2024). Guided Inquiry into a Physics Equation. *Cognition and Instruction, 42*(1), 159-206. [https://doi.org/10.1080/07370008.2023.2197232](https://doi.org/10.1080/07370008.2023.2197232)
 -->

@@ -105,7 +105,7 @@ Personal relevance raises situational interest and engagement, which supports pe
 
 ## Examples
 - **[Teaching to Interests with Adaptive Platforms](https://doi.org/10.1037/a0031882)** — Walkington's algebra studies personalized word problems to students' interests (sports, music, gaming) and found improved performance and learning relative to generic contexts.
-- **[Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — builds instruction on the strategies students already bring to problems, treating their informal strengths as the foundation for formal mathematics.
+- **[Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md)** — builds instruction on the strategies students already bring to problems, treating their informal strengths as the foundation for formal mathematics.
 - **[Youcubed](https://www.youcubed.org)** (Stanford) — publishes open math tasks anchored in art, data science, and real-world contexts designed to connect diverse strengths to deep mathematical ideas.
 - **[Rethinking Schools — "Rethinking Mathematics"](https://rethinkingschools.org/books/rethinking-mathematics/)** — Published curriculum using social-justice and community contexts (sweatshop economics, gentrification data) where students' lived knowledge is the entry point for algebra and statistics.
 - **[YouCubed](https://www.youcubed.org)** (Stanford, Jo Boaler) — Low-floor, high-ceiling tasks and mindset materials designed so students enter through visual and pattern strengths before formal notation.
@@ -207,7 +207,7 @@ Connecting new content to well-developed prior knowledge reduces the working-mem
 - **[Rethinking Schools — "Rethinking Mathematics"](https://rethinkingschools.org/books/rethinking-mathematics/)** — Published curriculum using social-justice and community contexts (sweatshop economics, gentrification data) where students' lived knowledge is the entry point for algebra and statistics.
 - **[YouCubed](https://www.youcubed.org)** (Stanford, Jo Boaler) — Low-floor, high-ceiling tasks and mindset materials designed so students enter through visual and pattern strengths before formal notation.
 - **[Funds of Knowledge for Teaching project](https://www.sonoma.edu/users/f/fonseca/funds_of_knowledge.html)** (Moll, Amanti, & González, Tucson) — Teacher ethnography of household competencies used to design math and literacy instruction from student assets.
-- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — Teachers build instruction from students' informal problem-solving strategies, treating those strategies as mathematical strengths to be extended.
+- **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — Teachers build instruction from students' informal problem-solving strategies, treating those strategies as mathematical strengths to be extended.
 - **Personalized algebra at scale**: Walkington's research with adaptive algebra platforms rewrote word problems to match individual students' reported interests (e.g., basketball, fashion, gaming) and found faster solving and higher accuracy, especially among previously low-performing students.
 - **Basketball percentages**: a class that follows the NBA computes field-goal percentages, plus/minus, and shooting splits — the statistics students already read become the dataset for percentage and ratio instruction.
 - **Geometry through art and design**: learners apply similarity, symmetry, and area to logo design or mural planning, with the artistic product as an [authentic audience](../principles/authentic-audiences-purposes.md) for the math.
@@ -286,7 +286,7 @@ Personal relevance increases situational interest, and interest in turn supports
 - [Choice-Boards](../elements/choice-boards.md) — letting learners select the context through which they engage a shared math concept
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — builds problems from learners' own thinking and informal knowledge
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — builds problems from learners' own thinking and informal knowledge
 - [Anchored Instruction](../patterns/anchored-instruction.md) — situates math in a rich, meaningful context that motivates problem solving
 
 ## Examples

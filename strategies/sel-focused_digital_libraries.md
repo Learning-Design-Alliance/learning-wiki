@@ -71,7 +71,7 @@ Literature-based SEL works because narrative provides safe, vicarious contexts f
 
 ## Patterns That Use This Strategy
 - [Blended Learning](../patterns/blended-learning.md) — the digital library is the online content layer for SEL-integrated literacy blocks
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — SEL texts supply authentic, emotionally rich material for structured discussion
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — SEL texts supply authentic, emotionally rich material for structured discussion
 
 ## Examples
 - **[Epic!](https://www.getepic.com)** — K–6 digital library with curated collections and search by topic, including emotion- and friendship-themed shelves teachers can assign.

@@ -61,7 +61,7 @@ Small groups multiply opportunities for learners to respond, be observed, and re
 
 ## Related Strategies
 - [Cooperative Learning](../patterns/cooperative-learning.md) — peer-facilitated variant where structure and accountability replace teacher facilitation
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — small groups are the natural scale for genuine discussion
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — small groups are the natural scale for genuine discussion
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — coaching phase works best at small-group scale where the expert can observe and correct
 
 ## Examples

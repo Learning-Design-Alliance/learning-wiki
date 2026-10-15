@@ -1,7 +1,7 @@
 ---
 type: principle
 id: adaptive-learning
-aliases: [adaptive-learning-consistent-with-cognitive-structure, gain-then-time-constant-adaptive-progression, multi-objective-exercise-recommendation-objectives, sequential-noisy-estimation-principle, avoid-student-intercepts-for-transfer]
+aliases: [adaptive-learning-consistent-with-cognitive-structure, gain-then-time-constant-adaptive-progression, multi-objective-exercise-recommendation-objectives, sequential-noisy-estimation-principle, avoid-student-intercepts-for-transfer, uncertainty-aware-knowledge-states-for-adaptive-decisions]
 title: Adaptive Learning
 description: "When learners on a cumulative, decomposable task start from different observed responses, choosing each next task, hint or check from the learner's own recent responses (rather than one fixed path) may improve aligned achievement, conditional on how well the responses diagnose the learner, what the adaptation changes, and whether support is withdrawn as performance grows."
 canonical: true
@@ -26,12 +26,16 @@ sources:
     resource: "https://doi.org/10.1109/TLT.2021.3128569"
     title: "Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569"
     author: Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams
+  - id: jia-nan-2026
+    resource: "https://doi.org/10.1038/s41598-026-50711-y"
+    title: "Jia Nan, Su Weitao, Xian Junrui, Zou Shijia, Xia Yixue. (2026). Adaptive G-UKT: a unified probabilistic framework for knowledge tracing via adaptive graph topology learning and uncertainty-aware Gaussian embeddings. Scientific Reports. https://doi.org/10.1038/s41598-026-50711-y"
+    author: Jia Nan, Su Weitao, Xian Junrui, Zou Shijia, Xia Yixue
 ---
 
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (27 for, 22 mixed, 4 against) · 54 studies (22 causal, 13 review, 6 quant-synthesis, 5 design, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 54 report an effect size · 46 claims rest on one study
+> **Evidence** · 55 claims (29 for, 22 mixed, 4 against) · 55 studies (22 causal, 13 review, 6 quant-synthesis, 6 design, 4 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 55 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +128,8 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Diminishing step sizes in stochastic approximation induce implicit averaging that eliminates noise effects in the long run](../claims/robbins-monro-diminishing-step-sizes-implicit-averaging.md) [+W] — read 2026-10-15, bears only on the estimation machinery behind an adaptive rule (a mathematical result about noisy sequential estimation), not on learners.
 - [Iterate averaging with step sizes decreasing slower than O(1/n) converges at an optimal rate](../claims/polyak-juditsky-iterate-averaging-optimal-rate.md) [+W] — read 2026-10-15, as above: a convergence result for sequential estimation, no learners.
 - [Propdec Colinear With Student Intercept](../claims/propdec-colinear-with-student-intercept.md) [+M] — read 2026-10-15, bears only on how a learner model represents individual differences (model fit across datasets); no routing decision or learner outcome, so it does not test the diagnostic step.
+- [Kt Encoders Entity Isolated Deterministic Limits](../claims/kt-encoders-entity-isolated-deterministic-limits.md) [+W]
+- [Adaptive G Ukt Competitive Performance Sparse Regimes](../claims/adaptive-g-ukt-competitive-performance-sparse-regimes.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -193,6 +199,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Use traced error causes as personalized intervention recommendations in online learning systems](../strategies/error-cause-tracing-for-personalized-recommendations.md)
 - [Select iteration coefficients according to the proved convergence condition when implementing stochastic approximation](../strategies/coefficient-selection-strategy.md)
 - [Iteration-coefficient sequences as the controllable design element of stochastic approximation](../elements/iteration-coefficient-sequence.md)
+- [Design AI learning systems for inspectable, contestable use: provenance, represented uncertainty, user control and epistemic plurality](../strategies/design-contestable-ai-provenance-plurality.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).
@@ -215,6 +222,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
 - Wolff, Hans. (1970). On Stochastic Approximation. https://eric.ed.gov/?id=ED051258
 - Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
+- Jia Nan, Su Weitao, Xian Junrui, Zou Shijia, Xia Yixue. (2026). Adaptive G-UKT: a unified probabilistic framework for knowledge tracing via adaptive graph topology learning and uncertainty-aware Gaussian embeddings. Scientific Reports. https://doi.org/10.1038/s41598-026-50711-y
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the earlier Description and Implications, verbatim.
 
@@ -493,4 +501,43 @@ The article argues that to be maximally applicable, a learner model needs to ada
 
 ## Key Sources
 - Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
+-->
+
+<!-- merged 2026-10-15 from principles/uncertainty-aware-knowledge-states-for-adaptive-decisions ("Model learner knowledge states as distributions with explicit uncertainty so downstream systems can perform confidence-aware inference and adaptive decision-making"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Model learner knowledge states as distributions with explicit uncertainty so downstream systems can perform confidence-aware inference and adaptive decision-making
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article argues that representing latent learner states probabilistically, rather than as deterministic point vectors, lets adaptive systems act on both the state estimate and its reliability: modeling latent state updates over concept graphs means "downstream systems can perform confidence-aware inference and adaptive decision-making". In Adaptive G-UKT this is realized through Gaussian embeddings whose diagonal covariance encodes epistemic uncertainty and gates augmentation during contrastive training.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A sequential latent state estimation model that outputs both a posterior mean and an uncertainty estimate for each concept
+#### Constraints
+- The article presents this as a design rationale for knowledge tracing systems; it does not report a controlled study of downstream adaptive decisions
+
+### Target Learners
+- learners interacting with online learning platforms and adaptive inference systems
+
+### Target Learning Objectives
+- reliable estimation of evolving learner competency to guide adaptive item selection and inference
+
+### Claims
+- [Kt Encoders Entity Isolated Deterministic Limits](../claims/kt-encoders-entity-isolated-deterministic-limits.md) [+M]
+- [Adaptive G Ukt Competitive Performance Sparse Regimes](../claims/adaptive-g-ukt-competitive-performance-sparse-regimes.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Design AI learning systems for inspectable, contestable use: provenance, represented uncertainty, user control and epistemic plurality](../strategies/design-contestable-ai-provenance-plurality.md)
+
+## Key Sources
+- Jia Nan, Su Weitao, Xian Junrui, Zou Shijia, Xia Yixue. (2026). Adaptive G-UKT: a unified probabilistic framework for knowledge tracing via adaptive graph topology learning and uncertainty-aware Gaussian embeddings. Scientific Reports. https://doi.org/10.1038/s41598-026-50711-y
 -->

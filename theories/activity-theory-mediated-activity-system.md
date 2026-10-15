@@ -57,7 +57,7 @@ The paper presents activity theory, originating with Leont'ev and extended by Co
 
 ## Examples
 
-- [Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign](../principles/analyze-computer-use-as-activity-system.md)
+- [Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign](../principles/systemic-understanding-guides-change-efforts.md)
 - [Use activity-system analysis (objectives, rules, norms, artifacts, division of labour) as a reflection tool for CSL participants](../strategies/activity-system-analysis-as-csl-reflection-tool.md)
 - [Computer roles as division of labor: expert, partner, and servant, each with goals, concerns, and contradictions](computer-roles-expert-partner-servant.md)
 

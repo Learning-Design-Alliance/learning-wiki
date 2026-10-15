@@ -68,7 +68,7 @@ Connecting content to personal interest raises situational interest, which suppo
 - [Belonging](../elements/belonging.md) — seeing one's identity valued in math class counters stereotype threat and disengagement
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — builds problems from learners' own thinking and informal knowledge
+- [Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md) — builds problems from learners' own thinking and informal knowledge
 - [Anchored Instruction](../patterns/anchored-instruction.md) — situates math in a rich, meaningful context (e.g., The Adventures of Jasper Woodbury)
 
 ## Examples

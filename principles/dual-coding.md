@@ -142,8 +142,8 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Retrieval Practice](retrieval-practice.md) — redrawing or explaining a visual from memory is the recall step of the default design
 - [Dual Coding Theory](../theories/dual-coding-theory.md) — Paivio's account, which the page's advice does not depend on
 - [Graphic Organizers](graphic-organizers.md) — one common implementation of visual representation for organizing and comparing ideas.
-- [Metaphors & Analogies](metaphors-analogies.md) — visual representations often help concretize analogical relationships.
-- [Explaining Their Thinking](self-explanation.md) — the strongest visual tasks usually require verbal or written explanation alongside the artifact.
+- [Metaphors & Analogies](analogical-reasoning.md) — visual representations often help concretize analogical relationships.
+- [Explaining Their Thinking](cognitive-activation.md) — the strongest visual tasks usually require verbal or written explanation alongside the artifact.
 
 ## Examples
 
@@ -262,9 +262,9 @@ Creating visual representations helps when the structure of an idea is hard to h
 
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — one common implementation of visual representation for organizing and comparing ideas.
-- [Metaphors & Analogies](metaphors-analogies.md) — visual representations often help concretize analogical relationships.
+- [Metaphors & Analogies](analogical-reasoning.md) — visual representations often help concretize analogical relationships.
 - [Multimodal Instruction](multimodal-instruction.md) — creating visuals complements learning across multiple modes.
-- [Explaining Their Thinking](self-explanation.md) — the strongest visual tasks usually require verbal or written explanation alongside the artifact.
+- [Explaining Their Thinking](cognitive-activation.md) — the strongest visual tasks usually require verbal or written explanation alongside the artifact.
 
 ## Examples
 - **Concept maps**: Learners diagram how ideas, causes, or terms connect, then explain the map to a peer.

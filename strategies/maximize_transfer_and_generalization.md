@@ -90,11 +90,10 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 
 ## Examples
 - **Gick & Holyoak's radiation problem** — learners who first compared two analogous stories (the fortress and the general) were far more likely to solve Duncker's radiation problem than those given the stories without comparison prompts ([doi:10.1016/0010-0285(83)90003-0](https://doi.org/10.1016/0010-0285(83)90003-0))
-- **[Case-Based Learning, Harvard Business School method](../patterns/case-based-learning-harvard-method.md)** — students apply frameworks to a new business case each session, forcing repeated transfer of the same analytical principles across industries
+- **[Case-Based Learning, Harvard Business School method](../patterns/case-based-learning.md)** — students apply frameworks to a new business case each session, forcing repeated transfer of the same analytical principles across industries
 - **[Anchored Instruction (The Jasper Woodbury Project)](../patterns/anchored-instruction.md)** — video-based mathematical problem solving designed so that sub-skills learned in one adventure must be recombined in novel situations
 - **Physics instruction with varied problem sets** — presenting the same principle (e.g., conservation of energy) across ramps, springs, and pendulums before testing on an unseen apparatus
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based practice items vary numbers and contexts within a skill, requiring learners to apply the same procedure across surface variations before moving on.
-- **Harvard Business School case method** — students analyze successive cases sharing managerial principles but differing in industry and context, then must apply those principles to a new case under discussion; see [Case-Based Learning](../patterns/case-based-learning.md).
 - **[Jasper Woodbury Problem Solving series](https://peabody.vanderbilt.edu/research/legacy_projects/jasper/)** (Vanderbilt) — anchored video adventures in which students apply mathematical planning skills to novel "extension" problems deliberately designed to test transfer.
 - **Physics by Inquiry** (McDermott, University of Washington) — students derive principles from varied experiments and must apply them to unfamiliar phenomena, with transfer tasks built into the curriculum.
 

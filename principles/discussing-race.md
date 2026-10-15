@@ -147,7 +147,7 @@ Analysis of a case, attitudes toward a group, willingness to raise race later, p
 ## Related Principles
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need reflective preparation before facilitating race-conscious dialogue well.
 - [Building Empathy](building-empathy.md) — discussion about race often requires careful perspective-taking without demanding agreement.
-- [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — structured comparison of perspectives can deepen racial and social analysis.
+- [Perspective Seeking/Multiple Perspectives](cognitive-flexibility.md) — structured comparison of perspectives can deepen racial and social analysis.
 - [Peer Discussion](peer-discussion.md) — race discussion is one high-stakes form of structured peer dialogue.
 - [Wise Feedback Across Difference](wise-feedback-across-difference.md) — how critique is framed when it crosses a racial difference.
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — widening the classroom's norms of talk before discussion.
@@ -219,7 +219,7 @@ Discussing race productively requires more than openness or good intentions. Lea
 ## Related Principles
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need reflective preparation before facilitating race-conscious dialogue well.
 - [Building Empathy](building-empathy.md) — discussion about race often requires careful perspective-taking without demanding agreement.
-- [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — structured comparison of perspectives can deepen racial and social analysis.
+- [Perspective Seeking/Multiple Perspectives](cognitive-flexibility.md) — structured comparison of perspectives can deepen racial and social analysis.
 - [Peer Discussion](peer-discussion.md) — race discussion is one high-stakes form of structured peer dialogue.
 
 ## Examples

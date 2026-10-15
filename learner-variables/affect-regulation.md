@@ -139,7 +139,6 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Mindfulness Techniques for Emotional Regulation](../strategies/mindfulness_techniques_for_emotional_regulation.md) — an in-the-moment down-regulation option
 - [Explicate, Validate, and Address Negative Emotions](../strategies/explicate-validate-and-address-negative-emotions.md) — treats the emotion as information rather than as noise
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — the programme-level pattern
-- [Responsive Classroom](../patterns/responsive-classroom.md) — the environment-level pattern
 
 ## Key Sources
 - The evidence is carried by the claim pages linked above, each holding its own `## Evidence` entries with `q`/`i` codes and DOIs checked against Crossref. Citations are deliberately not duplicated here — a second copy is a second thing to keep correct.

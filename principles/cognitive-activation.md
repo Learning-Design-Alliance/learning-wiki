@@ -1,6 +1,7 @@
 ---
 type: principle
 id: cognitive-activation
+aliases: [constructivist-learning, constructivism, explaining-their-thinking, self-explanation]
 title: Cognitive Activation
 description: "For learners working toward a concept or principle, tasks that require them to explain, compare, predict or justify beyond what was presented, with enough guidance to produce something correct, are expected to improve immediate understanding and near transfer more than tasks completed by recall or copying, with weak evidence for classroom and delayed outcomes and no claim testing cognitive activation as a dimension of teaching quality."
 canonical: true
@@ -13,12 +14,24 @@ sources:
     resource: "https://doi.org/10.1016/j.learninstruc.2008.11.001"
     title: "Lipowsky, F., Rakoczy, K., Pauli, C., Reusser, K., & Klieme, E. (2009). Quality of geometry instruction and its short-term impact on students’ understanding. *Learning and Instruction, 19*(6), 527-537"
     author: "Lipowsky, F., Rakoczy, K., Pauli, C., Reusser, K., & Klieme, E"
+  - id: chi-1989
+    resource: "https://doi.org/10.1207/s15516709cog1302_1"
+    title: "Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182"
+    author: "Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R"
+  - id: rittle-johnson-2017
+    resource: "https://doi.org/10.1007/s11858-017-0834-z"
+    title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611"
+    author: Rittle-Johnson, B
+  - id: mcnamara-2004
+    resource: "https://doi.org/10.1207/s15326977dp3801_1"
+    title: "McNamara, D. S. (2004). SERT: Self-explanation reading training. *Discourse Processes, 38*(1), 1–30"
+    author: McNamara, D. S
 ---
 
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (7 for, 5 mixed) · 20 studies (8 causal, 4 quant-synthesis, 4 review, 2 associational, 1 design, 1 theoretical), `q2`–`q4` · 3 of 20 report an effect size · 6 claims rest on one study
+> **Evidence** · 19 claims (9 for, 10 mixed) · 25 studies (9 causal, 4 quant-synthesis, 4 review, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 4 of 25 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -26,7 +39,7 @@ For a learner working toward a `concept` or `principle` (a relation to be unders
 
 Three conditions bound it. The learner must have enough knowledge of the relation to generate something correct: a `novice` asked to explain or discover with no prior explanation or example is expected to do worse, not better (see the minimal-guidance claim below). The generated output must point at the target relation; a comparison or explanation aimed at surface features consumes effort without the expected gain. And the challenge has to be supported: the gains on record are larger where learners were helped toward high-quality explanations. "Cognitive activation" as a rated dimension of teaching quality, the sense used in the classroom-observation studies listed under Key Sources, has **no claim page in this wiki**: nothing here tests whether lessons rated as more activating produce more learning. This page therefore states the task-level relationship and labels everything beyond it.
 
-[Active Learning](active-learning.md) holds the broader, format-level model: replacing listening time with tasks in which learners generate, explain or apply, with feedback, raises course-end performance. That page treats the kind of engagement as one qualification among four; this page owns it as the main relationship, and it cuts across format. A lecture paused for one well-chosen "why" question can be activating; an active-format worksheet that can be completed by copying is not. [Explaining Their Thinking](self-explanation.md) and [Analogical Reasoning](analogical-reasoning.md) cover single kinds of activating task; [Cognitive Disequilibrium](cognitive-disequilibrium.md) holds the narrower model for confronting a confident wrong explanation; [Worked Examples](worked-examples.md) and [Scaffolding and Fading](scaffolding-and-fading.md) hold the guidance that makes activation productive for novices. No pattern page instantiates this principle.
+[Active Learning](active-learning.md) holds the broader, format-level model: replacing listening time with tasks in which learners generate, explain or apply, with feedback, raises course-end performance. That page treats the kind of engagement as one qualification among four; this page owns it as the main relationship, and it cuts across format. A lecture paused for one well-chosen "why" question can be activating; an active-format worksheet that can be completed by copying is not. [Explaining Their Thinking](cognitive-activation.md) and [Analogical Reasoning](analogical-reasoning.md) cover single kinds of activating task; [Cognitive Disequilibrium](cognitive-disequilibrium.md) holds the narrower model for confronting a confident wrong explanation; [Worked Examples](worked-examples.md) and [Scaffolding and Fading](scaffolding-and-fading.md) hold the guidance that makes activation productive for novices. No pattern page instantiates this principle.
 
 ## Default design, while the relationship is untested
 
@@ -111,6 +124,13 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching](../claims/hots-teaching-enhances-critical-thinking.md) [+W] — attached 2026-10-14 from Miri et al. (2007), which proposed "Teach higher order thinking purposely and persistently to develop students' critical thinking capabilities"; tests this page's relationship.
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](../claims/hots-teaching-improves-ct-dispositions.md) [+W] — attached 2026-10-14 from Miri et al. (2007), which proposed "Teach higher order thinking purposely and persistently to develop students' critical thinking capabilities"; tests this page's relationship.
+- [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](../claims/ai-answers-bypass-effortful-meaning-making.md) [~W]
+- [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](../claims/constructivist-syllabus-beats-knowledge-based-culture-teaching.md) [+W]
+- [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](../claims/constructivist-valued-but-not-applicable-person-level.md) [~W]
+- [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](../claims/computer-generated-self-explanation-prompts-recommendation.md) [~W]
+- [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](../claims/faded-steps-hypothesized-trigger-self-explanations.md) [~W]
+- [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](../claims/genai-offloading-bypasses-desirable-difficulties.md) [~W]
+- [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -126,10 +146,23 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 
 ## Related Principles
 - [Active Learning](active-learning.md) — active learning becomes more valuable when the activity is cognitively demanding rather than merely participatory
-- [Explaining Their Thinking](self-explanation.md) — one of the strongest practical realizations of cognitive activation
 - [Activation](activation.md) — activation of prior knowledge often serves as the entry point into deeper cognitive work
+- [Creating Visual Representations](dual-coding.md)
+- [Error Analysis](error-analysis.md)
+- [In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning](teacher-as-mediator-not-content-disseminator.md)
+- [Worked Examples](worked-examples.md) — self-explanation is most effective when applied to the study of worked solutions.
+- [Modeling](modeling.md) — instructors can model self-explanation through think-aloud protocols.
+- [Scaffolding and Fading](scaffolding-and-fading.md) — prompts for self-explanation should fade as learner expertise grows.
 
 ## Examples
+- Learners explain and revise a model after seeing conflicting evidence.
+- Students compare multiple solutions and defend which one best fits the criteria.
+- After a physics demonstration, learners explain why two objects accelerated differently, compare explanations with peers, and revise them after seeing force diagrams.
+- In literature, students generate an interpretation of a passage, test it against textual evidence, and then refine it in response to alternative readings.
+- **[Khan Academy Think-Alouds](https://www.khanacademy.org)** — Instructors model the self-explanation process by verbalizing their reasoning while solving problems.
+- **[Codecademy Debugging Exercises](https://www.codecademy.com)** — Requires learners to explain why a piece of code is incorrect and how to fix it, promoting conceptual understanding of programming principles.
+- **Prompted Self-Explanation in Math**: Asking a student, "Why can we divide both sides of this equation by 3?" after they perform the step.
+- [Induce self-explanation by prompting learners during study and problem solving](../strategies/prompt-learners-to-self-explain-during-study.md)
 
 ### Illustrative
 
@@ -142,6 +175,11 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 ## Key Sources
 - Kunter, M., & Baumert, J. (2006). Who is the expert? *Teaching and Teacher Education, 22*(4), 429-440.
 - Lipowsky, F., Rakoczy, K., Pauli, C., Reusser, K., & Klieme, E. (2009). Quality of geometry instruction and its short-term impact on students’ understanding. *Learning and Instruction, 19*(6), 527-537. [https://doi.org/10.1016/j.learninstruc.2008.11.001](https://doi.org/10.1016/j.learninstruc.2008.11.001)
+- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press. [doi:10.17226/9853](https://doi.org/10.17226/9853)
+- Fosnot, C. T. (2013). *Constructivism: Theory, perspectives, and practice* (2nd ed.). Teachers College Press.
+- Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [https://doi.org/10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)
+- Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
+- McNamara, D. S. (2004). SERT: Self-explanation reading training. *Discourse Processes, 38*(1), 1–30. [https://doi.org/10.1207/s15326950dp3801_1](https://doi.org/10.1207/s15326950dp3801_1)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous Description and Implications sections, verbatim.
 
@@ -173,7 +211,7 @@ Cognitive activation is strongest when instruction asks learners to interpret, c
 
 ### Theory
 #### Supporting
-- [Constructivist Learning](constructivism.md) — learners build stronger understanding when they actively process and connect ideas
+- [Constructivist Learning](cognitive-activation.md) — learners build stronger understanding when they actively process and connect ideas
 - [Metacognition](self-regulated-learning.md) — cognitively activating tasks often require learners to notice and explain their own reasoning
 - [Information Processing Theory](../theories/information-processing-theory.md) — deeper processing and organization improve learning quality
 
@@ -189,3 +227,174 @@ Cognitive activation is strongest when instruction asks learners to interpret, c
 -->
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [+W]
 - [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/generative-processing-improves-learning.md) [+W]
+
+<!-- merged 2026-10-15 from principles/constructivism ("Constructivism"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Constructivism
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (2 for, 3 mixed) · 9 studies (2 causal, 2 quant-synthesis, 2 associational, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size · 3 claims rest on one study
+
+## Description
+Constructivism, as an instructional principle, emphasizes that learners build understanding by connecting new information to prior knowledge through active interpretation, explanation, and application. In practice, the principle pushes design toward tasks that make thinking visible, surface misconceptions, and require learners to organize meaning rather than passively receive it.
+
+## Implications
+Constructivism implies that learning strengthens when learners have to make sense of ideas for themselves rather than only receive finished explanations. Explaining, testing, revising, and comparing interpretations help learners connect new information to what they already know and expose misconceptions that would otherwise remain hidden [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Those same meaning-making opportunities can be especially powerful when they surface confident but inaccurate models that are then revised explicitly [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S]. The practical consequence is that instruction should create active meaning-making opportunities, but with enough modeling, feedback, and structure that learners do not simply construct stable misunderstandings.
+
+### Context
+#### Requirements
+- **Active meaning-making tasks**
+- **Connections to prior knowledge**
+- **Opportunities to explain, test, and revise ideas**
+- **Opportunities to connect to prior knowledge**
+- **Feedback or comparison that supports revision**
+#### Constraints
+- **Under-guidance risk**: Active learning does not mean unsupported discovery for novices.
+- **Misconceptions can stabilize**: Learners need feedback and comparison with stronger models.
+- **Unguided activity can leave misconceptions untouched**
+
+### Target Learners
+- Learners who benefit from explanation, inquiry, application, and concept building.
+
+### Target Learning Objectives
+- Build conceptual understanding and transferable mental models.
+
+### Theory
+#### Supporting
+- [Constructivism](../theories/constructivism.md) as a theory base for active meaning-making.
+- [Information Processing Theory](../theories/information-processing-theory.md) supports connecting and organizing new information into existing schema.
+#### Contradicting / Qualifying
+- Constructivist activity still benefits from guidance, modeling, and scaffolded inquiry.
+
+### Claims
+
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — constructivist tasks work best when learners explain and connect ideas rather than only encounter them
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — conceptual change can deepen when learners revise confidently held misconceptions after evidence or feedback
+- [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](../claims/ai-answers-bypass-effortful-meaning-making.md) [~W]
+- [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](../claims/constructivist-syllabus-beats-knowledge-based-culture-teaching.md) [+W]
+- [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](../claims/constructivist-valued-but-not-applicable-person-level.md) [~W]
+
+## Related Principles
+
+- [Explaining Their Thinking](cognitive-activation.md)
+- [Creating Visual Representations](dual-coding.md)
+- [Error Analysis](error-analysis.md)
+- [In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning](teacher-as-mediator-not-content-disseminator.md)
+
+## Examples
+- Learners explain and revise a model after seeing conflicting evidence.
+- Students compare multiple solutions and defend which one best fits the criteria.
+- After a physics demonstration, learners explain why two objects accelerated differently, compare explanations with peers, and revise them after seeing force diagrams.
+- In literature, students generate an interpretation of a passage, test it against textual evidence, and then refine it in response to alternative readings.
+
+## Key Sources
+- Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academies Press. [doi:10.17226/9853](https://doi.org/10.17226/9853)
+- Fosnot, C. T. (2013). *Constructivism: Theory, perspectives, and practice* (2nd ed.). Teachers College Press.
+
+<!- - merged 2026-10-02 from principles/constructivist-learning ("Constructivist Learning"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Constructivist Learning
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+
+## Description
+Constructivist learning is the short-form canonical target for instructional links that emphasize learners actively building meaning through explanation, comparison, inquiry, and revision.
+
+## Implications
+Constructivist learning implies that understanding strengthens when learners do more than receive information: they explain, compare, test, and revise their ideas against evidence or feedback. Self-explanation in particular often improves conceptual understanding because it forces learners to make relationships and assumptions explicit [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The practical design consequence is that activity alone is not enough; tasks need comparison, feedback, or social checking so misconceptions are surfaced rather than simply rehearsed.
+
+### Context
+#### Requirements
+- **Active meaning-making tasks**
+- **Opportunities to connect to prior knowledge**
+- **Feedback or comparison that supports revision**
+#### Constraints
+- **Unguided activity can leave misconceptions untouched**
+
+### Target Learning Objectives
+- Build conceptual understanding and transferable mental models.
+
+### Theory
+#### Supporting
+- [Constructivism](../theories/constructivism.md)
+
+### Claims
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — active meaning-making is strongest when learners explain the relationships and assumptions inside their own understanding
+
+## Related Principles
+- [Constructivism](cognitive-activation.md)
+
+## Examples
+- After a physics demonstration, learners explain why two objects accelerated differently, compare explanations with peers, and revise them after seeing force diagrams.
+- In literature, students generate an interpretation of a passage, test it against textual evidence, and then refine it in response to alternative readings.
+
+## Key Sources
+- Fosnot, C. T. (2013). *Constructivism: Theory, perspectives, and practice* (2nd ed.). Teachers College Press.
+- ->
+-->
+
+<!-- merged 2026-10-15 from principles/self-explanation ("Self-Explanation"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Self-Explanation
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (2 for, 3 mixed) · 6 studies (2 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 4 claims rest on one study
+
+## Description
+Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples. This process requires learners to make their internal reasoning explicit, helping them to bridge gaps in understanding, integrate new information with prior knowledge, and monitor their own comprehension [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+
+## Implications
+Explaining their thinking improves learning because it forces learners to make relationships, assumptions, and decision points explicit instead of leaving them tacit [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. That usually deepens conceptual understanding, supports transfer, and exposes gaps in reasoning that would remain hidden if learners only produced answers. The design constraint is that self-explanation is not spontaneous for many learners: prompts, comparisons, and worked examples are often necessary at first so explanation becomes a disciplined habit rather than an empty request to “show your work.”
+
+### Context
+#### Requirements
+- **Conceptual Prompts**: Prompts should focus on "why" a particular step or principle was applied, rather than just "what" was done [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+- **Comparison Opportunities**: Encouraging learners to compare different solution methods and explain their relative advantages can deepen understanding.
+- **Scaffolded Practice**: For novices, self-explanation should be supported with hints or menus of possible explanations to prevent cognitive overload.
+
+#### Constraints
+- **Prior Knowledge Dependence**: Learners must have sufficient background knowledge to generate correct and meaningful explanations; otherwise, they may reinforce misconceptions [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~M].
+- **Implementation Difficulty**: Spontaneous self-explanation is rare; learners often require explicit training or structured prompts to engage in the process.
+
+### Target Learners
+- **Intermediate to Advanced Learners**: Most effective for those with enough domain background to bridge conceptual gaps.
+- **Learners in Mathematics and Science**: Particularly effective for domains with highly structured procedural and conceptual relationships [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+- **Self-Directed Learners**: Helps develop metacognitive monitoring and independent study habits.
+
+### Target Learning Objectives
+- **Conceptual Understanding**: Developing a deep grasp of the underlying principles of a domain.
+- **Procedural Transfer**: Applying a learned method to a new, unfamiliar type of problem.
+- **Metacognitive Monitoring**: Recognizing and correcting errors in one's own thinking.
+
+### Theory
+#### Supporting
+- [Self-Regulated Learning (Zimmerman)](../theories/self-regulated-learning.md) — self-explanation is a key strategy for metacognitive monitoring and regulation.
+- [Information Processing Theory](../theories/information-processing-theory.md) — identifies self-explanation as a method for deep processing and schema formation.
+- **Constructivism** — emphasizes that knowledge is actively built by the learner through meaningful interaction with the content.
+
+### Claims
+
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — making reasoning explicit helps learners connect steps, principles, and assumptions instead of leaving them implicit
+- [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](../claims/computer-generated-self-explanation-prompts-recommendation.md) [~W]
+- [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](../claims/faded-steps-hypothesized-trigger-self-explanations.md) [~W]
+- [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](../claims/genai-offloading-bypasses-desirable-difficulties.md) [~W]
+- [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [+W]
+
+## Related Principles
+- [Worked Examples](worked-examples.md) — self-explanation is most effective when applied to the study of worked solutions.
+- [Modeling](modeling.md) — instructors can model self-explanation through think-aloud protocols.
+- [Scaffolding and Fading](scaffolding-and-fading.md) — prompts for self-explanation should fade as learner expertise grows.
+
+## Examples
+
+- **[Khan Academy Think-Alouds](https://www.khanacademy.org)** — Instructors model the self-explanation process by verbalizing their reasoning while solving problems.
+- **[Codecademy Debugging Exercises](https://www.codecademy.com)** — Requires learners to explain why a piece of code is incorrect and how to fix it, promoting conceptual understanding of programming principles.
+- **Prompted Self-Explanation in Math**: Asking a student, "Why can we divide both sides of this equation by 3?" after they perform the step.
+- [Induce self-explanation by prompting learners during study and problem solving](../strategies/prompt-learners-to-self-explain-during-study.md)
+
+## Key Sources
+- Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [https://doi.org/10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)
+- Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
+- McNamara, D. S. (2004). SERT: Self-explanation reading training. *Discourse Processes, 38*(1), 1–30. [https://doi.org/10.1207/s15326950dp3801_1](https://doi.org/10.1207/s15326950dp3801_1)
+-->

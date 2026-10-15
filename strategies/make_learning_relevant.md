@@ -66,7 +66,7 @@ Relevance works primarily through task value: when learners perceive that conten
 
 ## Examples
 - **[Anchored Instruction (Jasper Woodbury Project)](https://peabody.vanderbilt.edu/research/legacy_projects.php)** — Vanderbilt's Jasper Adventure series anchors mathematics problem solving in extended video narratives, giving abstract math a compelling story context.
-- **[Case-Based Learning (Harvard Business School method)](../patterns/case-based-learning-harvard-method.md)** — every concept is taught through a real organizational dilemma, so relevance is built into the curriculum rather than added on.
+- **[Case-Based Learning (Harvard Business School method)](../patterns/case-based-learning.md)** — every concept is taught through a real organizational dilemma, so relevance is built into the curriculum rather than added on.
 - **Classroom example** — A statistics teacher lets students choose a dataset from their own lives (music streaming, sports, local transit) for the same regression unit, preserving identical learning goals while varying the context.
 
 ## Key Sources

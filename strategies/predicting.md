@@ -72,7 +72,7 @@ Prediction functions as a form of pretesting: even when predictions are wrong, g
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — learners predict expert moves before observing the modeled performance
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — prediction is one of the four cycled comprehension strategies
-- [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class prediction prompts prepare learners to check their expectations against instruction
+- [Flipped Classroom](../principles/flipped-learning.md) — pre-class prediction prompts prepare learners to check their expectations against instruction
 
 ## Examples
 - **Reciprocal teaching (Palincsar & Brown)** — small reading groups predict upcoming content at designated points before summarizing, questioning, and clarifying; the routine raised sixth-graders' comprehension substantially in the original studies.

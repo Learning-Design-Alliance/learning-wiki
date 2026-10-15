@@ -1,6 +1,7 @@
 ---
 type: principle
 id: productive-instructor-learner-relationships
+aliases: [separate-assistance-from-assessment]
 title: Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 description: "For adult learners, deliberate early relationship work by the instructor (learning about each learner, greeting by name, stated working terms, a brief one-to-one, low-exposure participation before public, non-punitive responses to conflict) is expected to raise willingness to participate, raise needs and engage opposing arguments, but no claim in the wiki tests this for adults: the evidence is correlational syntheses and randomised tests of single moves in middle schools."
 canonical: true
@@ -13,12 +14,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED536865"
     title: "Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865"
     author: Ellis, M. L
+  - id: feiman-nemser-1994
+    resource: "https://eric.ed.gov/?id=ED377169"
+    title: "Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169"
+    author: Feiman-Nemser, Sharon, et al
 ---
 
 # Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (12 for, 5 mixed) · 23 studies (7 causal, 5 associational, 4 review, 3 qualitative, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 2 of 23 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 24 studies (7 causal, 5 associational, 4 review, 3 qualitative, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 24 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +131,7 @@ Claims bearing on the page that are not part of the model above, each with how f
 - [Positive teacher–student relationships are associated with higher student engagement and math achievement, with stronger associations for minority, lower-income, and secondary students](../claims/teacher-student-relationships-improve-engagement.md) [+W] — a policy review's report of a meta-analysis of more than 90 PreK–12 studies; it appears to be the Roorda et al. (2011) synthesis already counted in the engagement claim above, so it adds a moderator (stronger for minority, lower-income and secondary students), not a second study.
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](../claims/student-educator-relationship-builds-self-efficacy-and-belonging.md) [+W] — a theoretical argument about university students, no data; it proposes a mechanism (self-efficacy and belonging) for the adult case.
 - [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](../claims/strong-student-tutor-relationships-key-to-tutoring-success.md) [+W] — a cross-programme association across eight tutoring evaluations; used above only for the scarce-facilitator row.
+- [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](../claims/judgement-bearing-assistance-central-pivot.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -156,6 +162,7 @@ A good reported relationship, participation, persistence, openness to opposing a
 
 ## Key Sources
 - Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865
+- Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -192,4 +199,43 @@ The article argues that relationship-building is among the most important buildi
 
 ## Key Sources
 - Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865
+-->
+
+<!-- merged 2026-10-15 from principles/separate-assistance-from-assessment ("Separate assistance from assessment so beginning teachers trust their guides and take risks"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Separate assistance from assessment so beginning teachers trust their guides and take risks
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The paper reports that many induction programs deliberately locate the functions of assistance and assessment in different individuals, on the assumption that "beginning teachers will develop greater trust and be more willing to take risks and ask for help in non-evaluative relationships." The principle holds that a guide without formal evaluative responsibility fosters norms of inquiry and collegiality more readily. However, judgement cannot be eliminated entirely: judgements inevitably enter any effort to understand teaching, so the guide must still decide whether and how to act on the judgements formed.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Programs must be able to assign assistance and assessment functions to different individuals
+#### Constraints
+- In preservice programs, university supervisors often must both evaluate student teachers and foster inquiry and collegiality; judgements inevitably enter any effort to understand teaching
+
+### Target Learners
+- beginning teachers in induction programs
+
+### Target Learning Objectives
+- willingness to take risks and ask for help
+- developing norms of inquiry and collegiality
+
+### Claims
+
+- [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](../claims/judgement-bearing-assistance-central-pivot.md) [~W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169
 -->

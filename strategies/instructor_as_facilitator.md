@@ -65,8 +65,8 @@ Facilitation works because it supports learners' basic psychological needs for a
 
 ## Related Strategies
 
-- [Flipped Classroom](../patterns/flipped-classroom.md) — frees class time for the facilitation-driven activity that defines this stance
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the primary vehicle through which facilitation is enacted
+- [Flipped Classroom](../principles/flipped-learning.md) — frees class time for the facilitation-driven activity that defines this stance
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — the primary vehicle through which facilitation is enacted
 - [Collaborative Learning](../patterns/collaborative-learning.md) — peer structures that let the instructor step back without leaving learners unsupported
 - [Tutor–student co-enactment: distribute or co-operate the control devices, negotiate leadership silently, and progressively hand over agency until the student solo-enacts](tutor-coenactment-fading-dynamical-scaffold.md)
 

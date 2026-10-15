@@ -71,7 +71,7 @@ Discussion alone risks producing awareness without agency; follow-up activities 
 - [Check-In](../elements/check-in.md) — structured emotional processing before and after action
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — follow-up is the action phase that prevents discussion from ending in abstraction
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — follow-up is the action phase that prevents discussion from ending in abstraction
 - [Community-Based Learning](../principles/community-based-learning.md) — follow-up actions enact community engagement by directing learning outward
 
 ## Examples

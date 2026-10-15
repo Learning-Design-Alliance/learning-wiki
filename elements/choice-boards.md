@@ -76,7 +76,7 @@ Choice boards support learning primarily through motivation: perceived autonomy 
 - [Check-In](check-in.md) — brief conferences verify that choices match readiness and keep plans on track
 
 ## Patterns That Use This Element
-- [Flipped Classroom](../patterns/flipped-classroom.md) — boards structure the in-class application time with learner-selected practice paths
+- [Flipped Classroom](../principles/flipped-learning.md) — boards structure the in-class application time with learner-selected practice paths
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — multiple demonstration options let learners evidence the same competency in different ways
 - [Blended Learning](../patterns/blended-learning.md) — digital boards (linked slides or docs) organize station and online options in one place
 

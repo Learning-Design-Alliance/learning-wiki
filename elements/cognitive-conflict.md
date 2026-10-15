@@ -46,7 +46,7 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 - Argumentation: articulating and defending positions under challenge
 
 ### Affordances
-- [Constructivism](../principles/constructivism.md) — cognitive conflict enacts constructivist learning by forcing learners to actively restructure their own schemas rather than receive corrected content; the contradiction creates the need for construction
+- [Constructivism](../principles/cognitive-activation.md) — cognitive conflict enacts constructivist learning by forcing learners to actively restructure their own schemas rather than receive corrected content; the contradiction creates the need for construction
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — the element is the operationalization of this principle: it manufactures the disequilibrium state that Piagetian theory identifies as the engine of development
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — confronting multiple contradictory framings of the same phenomenon trains learners to represent knowledge from more than one perspective, the core goal of [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 - [Active Learning](../principles/active-learning.md) — conflict demands a response (prediction, argument, revision), making it a reliable generator of the engagement active learning requires

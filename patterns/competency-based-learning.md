@@ -15,12 +15,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED298122"
     title: "Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122"
     author: Berliner, David C
+  - id: alfonso-cuervo-2008
+    resource: "http://www.journal.lapen.org.mx"
+    title: "Alfonso Cuervo, César Mora y R. García-Salcedo. (2008). Analysis of the Educative Reform in the Secondary School Education in Mexico and its implications in Science II in the new curriculum. http://www.journal.lapen.org.mx"
+    author: Alfonso Cuervo, César Mora y R. García-Salcedo
 ---
 
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 16 claims (3 for, 10 mixed, 3 against) · 21 studies (7 causal, 4 theoretical, 3 quant-synthesis, 2 review, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 4 of 21 report an effect size · 12 claims rest on one study
+> **Evidence** · 18 claims (3 for, 10 mixed, 5 against) · 22 studies (7 causal, 5 theoretical, 3 quant-synthesis, 2 review, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 14 claims rest on one study
 
 ## Description and scope
 
@@ -101,6 +105,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](../claims/cbe-gatekeeper-completion-lower-than-comparison.md) [-W] — attached 2026-10-09 from Person et al. (2016), which proposed "Offer competency-based education models as one of multiple options, since they appear best suited for mature, academically well-prepared students"; tests this page's relationship.
 - [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](../claims/experts-predict-student-errors-and-classroom-events.md) [+M]
+- [The SEP Ciencias II work guide packs many expected learnings into few class hours (e.g., 5 learnings in 6 hours for Block 1 and 8 in 5 hours for Block 2), which teachers find hard to cover](../claims/ciencias-ii-guide-overloaded-sequences.md) [-W]
+- [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](../claims/reform-teacher-training-insufficient.md) [-W]
 
 ## Illustrative design instance and observation record
 
@@ -133,6 +139,7 @@ This pattern is scoped to a course organised around a competency map with criter
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.
 - Sturgis, C., & Casey, K. (2018). *Designing for equity: Leveraging competency-based education to ensure all students succeed*. CompetencyWorks.
 - Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
+- Alfonso Cuervo, César Mora y R. García-Salcedo. (2008). Analysis of the Educative Reform in the Secondary School Education in Mexico and its implications in Science II in the new curriculum. http://www.journal.lapen.org.mx
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The page's earlier body, kept verbatim:
 
@@ -232,4 +239,44 @@ The article argues that teacher education should aim to prepare novices and help
 
 ## Key Sources
 - Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
+-->
+
+<!-- merged 2026-10-15 from principles/expected-learnings-backbone-of-planning ("Plan instruction around SEP-dictated expected learnings (aprendizajes esperados), which the reform makes the backbone of all teaching activity and the performance indicators supporting competencies"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Plan instruction around SEP-dictated expected learnings (aprendizajes esperados), which the reform makes the backbone of all teaching activity and the performance indicators supporting competencies
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 against) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+Under the RES, planning must center on the aprendizajes esperados dictated by the SEP for each subject; the article states that "los aprendizajes esperados son la columna vertebral de la planeación dado que son los indicadores de desempeño que sustentan a las competencias". Teachers may decide strategies and resources — the how and with what — but the expected learnings anchor every in-class and out-of-class teaching-learning activity. The reform pursues interdisciplinary project work and competency development through this planning structure.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers use the SEP planning format with sections for inicio, desarrollo and cierre activities per subtopic
+- Expected learnings are dictated by the SEP for each subject
+#### Constraints
+- The article notes format diversity across subjects and inspectors generated confusion and discomfort among teachers, with no universal pattern
+
+### Target Learners
+- secondary school teachers in Mexico implementing the 2006 reform
+
+### Target Learning Objectives
+- competency development through interdisciplinary project work
+
+### Claims
+
+- [The SEP Ciencias II work guide packs many expected learnings into few class hours (e.g., 5 learnings in 6 hours for Block 1 and 8 in 5 hours for Block 2), which teachers find hard to cover](../claims/ciencias-ii-guide-overloaded-sequences.md) [-W]
+- [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](../claims/reform-teacher-training-insufficient.md) [-W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Alfonso Cuervo, César Mora y R. García-Salcedo. (2008). Analysis of the Educative Reform in the Secondary School Education in Mexico and its implications in Science II in the new curriculum. http://www.journal.lapen.org.mx
 -->

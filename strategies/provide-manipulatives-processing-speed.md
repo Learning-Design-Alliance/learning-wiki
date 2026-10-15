@@ -63,7 +63,7 @@ Manipulatives reduce the representational burden of abstract content by groundin
 - [Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding](unplugged-printable-blocks-k2-introduction.md)
 
 ## Examples
-- **[CGI (Cognitively Guided Instruction)](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — elementary math instruction in which students model word problems with counters and drawings while teachers interpret their strategies.
+- **[CGI (Cognitively Guided Instruction)](../principles/responsive-teaching.md)** — elementary math instruction in which students model word problems with counters and drawings while teachers interpret their strategies.
 - **[Khan Academy](https://www.khanacademy.org)** — virtual manipulative exercises (fraction strips, place-value blocks) embedded in practice sets.
 - **[Numicon](https://global.oup.com/education/content/children/series/numicon/)** — structured tile system for number sense used widely in UK primary classrooms, including for learners with slower processing.
 

@@ -50,7 +50,7 @@ The article organizes the two motivation theories along a shared internalization
 
 ## Examples
 
-- [Foster learners' enjoyment and accumulated L2 learning experience to motivate effort](../principles/foster-enjoyment-and-l2-learning-experience.md)
+- [Foster learners' enjoyment and accumulated L2 learning experience to motivate effort](../principles/motivation.md)
 
 ## Key Sources
 - Takahashi, C., & Im, S. (2020). Comparing self-determination theory and the L2 motivational self system and their relationships to L2 proficiency. Studies in Second Language Learning and Teaching, 10(4), 673-696. https://doi.org/10.14746/ssllt.2020.10.4.2

@@ -47,7 +47,7 @@ Drawing on Kuutti (1996) and Kaptelinin (1996a), the paper sketches a three-leve
 
 ## Examples
 
-- [Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign](../principles/analyze-computer-use-as-activity-system.md)
+- [Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign](../principles/systemic-understanding-guides-change-efforts.md)
 
 ## Key Sources
 - Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153

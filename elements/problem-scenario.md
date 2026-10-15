@@ -59,7 +59,7 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — a scenario makes learners the decision-makers rather than recipients, requiring them to generate, test, and defend solutions
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a *structured* scenario controls what information is available and when, letting designers release complexity gradually instead of exposing learners to the full messiness of reality at once
-- [Constructivism](../principles/constructivism.md) — scenarios create the conditions for learners to construct workable models through experience and feedback rather than transmission
+- [Constructivism](../principles/cognitive-activation.md) — scenarios create the conditions for learners to construct workable models through experience and feedback rather than transmission
 - [Collaborative Learning](../principles/collaborative-learning.md) — realistic problems are naturally too large for one perspective, making team roles and negotiated decisions authentic rather than artificial
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Situated Learning](../theories/situated-learning.md)

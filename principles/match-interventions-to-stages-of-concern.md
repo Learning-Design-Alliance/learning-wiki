@@ -1,7 +1,7 @@
 ---
 type: principle
 id: match-interventions-to-stages-of-concern
-aliases: [diagnostic-prescriptive-change-facilitation]
+aliases: [diagnostic-prescriptive-change-facilitation, stage-matched-therapist-complementarity, supportive-community-before-collaborative-self-report]
 title: "Match the form and content of staff development interventions to clients' assessed Stages of Concern"
 description: "For adults adopting an innovation in their work, support whose form and content are matched to each person's assessed Stages of Concern and Levels of Use, and kept up after use begins, is expected to move concerns and use forward more than uniform support, though no claim in this wiki tests matched against unmatched support."
 canonical: true
@@ -18,12 +18,20 @@ sources:
     resource: "https://eric.ed.gov/?id=ED190626"
     title: "Hall, Gene E. (1978). Implications for Planned Dissemination, Implementation, and Evaluation Revealed in the SRI/NDN Evaluation and Levels of Use of the Innovation Studies. Procedures for Adopting Educational Innovations Project. https://eric.ed.gov/?id=ED190626"
     author: Hall, Gene E
+  - id: dietzel-1974
+    resource: "https://eric.ed.gov/?id=ED091646"
+    title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646"
+    author: Dietzel, C. S.; Abeles, Norman
+  - id: orr-2009
+    resource: "https://www.cjlt.ca"
+    title: "Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca"
+    author: "Orr, D., & Mrazek, R"
 ---
 
 # Match the form and content of staff development interventions to clients' assessed Stages of Concern
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (10 for, 7 mixed) · 7 studies (2 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 0 of 7 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (14 for, 8 mixed) · 10 studies (3 associational, 2 review, 2 qualitative, 2 design, 1 theoretical), `q1`–`q2` · 1 of 10 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +147,11 @@ Claims this page cited before it was rewritten, and others on the same studies. 
 - [Teachers' voluntary individual adoption activities fall into two categories — investigating new computer resources and experimenting with altered teaching methods and classroom arrangements — associated with informational through consequence stages of concern](../claims/voluntary-investigation-and-experimentation-adoption-activities.md) [+M] — four teachers with the most advanced profiles; describes what advanced adopters do on their own, relevant to refocusing-stage support.
 - [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](../claims/unmentored-first-year-task-concerns-flat.md) [~M] — eight teachers; the subclaim reports impact concerns *rising* from 0% to 25%, which the title contradicts.
 - [LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols](../claims/lou-interview-validated-against-ethnography.md) [+M] — validity of the use diagnosis, tempered by second-hand information.
+- [Middle Stage Lower Complementarity Successful Therapists](../claims/middle-stage-lower-complementarity-successful-therapists.md) [+M]
+- [Early And Later Stage Complementarity Null By Outcome](../claims/early-and-later-stage-complementarity-null-by-outcome.md) [~M]
+- [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](../claims/overall-therapist-complementarity-not-related-to-therapy-outcome.md) [+W]
+- [Loa Pilot Self Reported Increase All 20 Technologies](../claims/loa-pilot-self-reported-increase-all-20-technologies.md) [+M]
+- [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](../claims/honours-community-safe-supportive-learning-environment.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -170,6 +183,8 @@ Changes in concerns, changes in use, fidelity of use and effects on students are
 ## Key Sources
 - Hall, Gene E.; Rutherford, William L. (1983). Client Concerns: A Guide to Facilitating Institutional Change. Research and Development Center for Teacher Education, The University of Texas at Austin. https://eric.ed.gov/?id=ED251728
 - Hall, Gene E. (1978). Implications for Planned Dissemination, Implementation, and Evaluation Revealed in the SRI/NDN Evaluation and Levels of Use of the Innovation Studies. Procedures for Adopting Educational Innovations Project. https://eric.ed.gov/?id=ED190626
+- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+- Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
 
 <!-- deprecated 2026-10-07: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -253,4 +268,83 @@ The article argues change facilitators should constantly assess where users are 
 
 ## Key Sources
 - Hall, Gene E. (1978). Implications for Planned Dissemination, Implementation, and Evaluation Revealed in the SRI/NDN Evaluation and Levels of Use of the Innovation Studies. Procedures for Adopting Educational Innovations Project. https://eric.ed.gov/?id=ED190626
+-->
+
+<!-- merged 2026-10-15 from principles/stage-matched-therapist-complementarity ("Match therapist complementarity to the stage of the relationship rather than holding a single posture throughout"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Match therapist complementarity to the stage of the relationship rather than holding a single posture throughout
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The article's central design recommendation is that the helpfulness of a confirming, complementary response style depends on when it is used. Its two stated conclusions are that "No single level of therapist complementarity is associated with successful, as opposed to unsuccessful, outcome" and that "The therapeutic timing of complementarity levels is crucial to facilitate constrective client change." Early in a relationship, moderately high complementarity builds rapport, trust, and security; in the middle work stage, successful therapists shift toward an anti-complementary stance that disconfirms constricted behavior patterns and prompts a search for new behaviors.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Requires the therapist to complete relationship-building tasks before shifting to a lower-complementarity stance, since premature anti-complementarity risks early termination, defensiveness, and resistance.
+#### Constraints
+- The predicted return to high complementarity in the later stage was not supported; the middle-stage pattern prevailed into later sessions in this short-term therapy setting.
+
+### Target Learners
+- therapists and counselors in training and practice
+
+### Target Learning Objectives
+- timing interpersonal responses to support client change across relationship stages
+
+### Claims
+
+- [Middle Stage Lower Complementarity Successful Therapists](../claims/middle-stage-lower-complementarity-successful-therapists.md) [+M]
+- [Early And Later Stage Complementarity Null By Outcome](../claims/early-and-later-stage-complementarity-null-by-outcome.md) [~M]
+- [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](../claims/overall-therapist-complementarity-not-related-to-therapy-outcome.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+-->
+
+<!-- merged 2026-10-15 from principles/supportive-community-before-collaborative-self-report ("Establish a supportive, anonymous, non-evaluative professional community before using collaborative self-report adoption data"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Establish a supportive, anonymous, non-evaluative professional community before using collaborative self-report adoption data
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The article recommends that before asking participants to use a self-reporting, self-reflective tool like the LoA, facilitators should create a supportive, collaborative, intellectually and emotionally secure professional community, ensure anonymity, and stress that the tool informs programs rather than evaluates people. Stems and responses should be "clear, well‐articulated, appropriate, non‐judgmental, and non‐evaluative", and no status should attach to high reported levels.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Respondents must know responses are anonymous and that it is acceptable to be at whatever level they are at
+#### Constraints
+- The small number of participants in the pilot limited the ability to establish effect-size changes or explore reliability questions
+
+### Target Learners
+- members of professional learning communities and communities of professional practice
+
+### Target Learning Objectives
+- valid collaborative self-assessment of professional growth and technology adoption
+
+### Claims
+
+- [Loa Pilot Self Reported Increase All 20 Technologies](../claims/loa-pilot-self-reported-increase-all-20-technologies.md) [+M]
+- [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](../claims/honours-community-safe-supportive-learning-environment.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
 -->

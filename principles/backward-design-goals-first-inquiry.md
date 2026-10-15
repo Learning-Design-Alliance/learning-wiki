@@ -44,7 +44,7 @@ The article recommends designing inquiry activities by specifying goals first an
 
 ## Related Principles
 
-- [Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention](metacognition-prompts-in-inquiry-introduction.md)
+- [Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention](self-regulated-learning.md)
 
 ## Examples
 

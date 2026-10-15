@@ -53,7 +53,7 @@ The forum presents Poehner's (2014) account of dynamic assessment (DA) within Vy
 
 ## Examples
 
-- [Mediation typology of implicit-to-explicit moves in SCMC DA](../patterns/scmc-da-mediation-typology.md)
+- [Mediation typology of implicit-to-explicit moves in SCMC DA](../principles/teacher-as-mediator-not-content-disseminator.md)
 - [Use interactionist DA to give learners more opportunities to interact and improve writing accuracy](../strategies/use-interactionist-da-for-writing-accuracy.md)
 - [Pursue SCT-L2 research on L2 as a psychological tool, the teaching-learning dialectic, Dynamic Assessment, and comparative theory work](../strategies/sct-l2-research-avenues-strategy.md)
 

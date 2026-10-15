@@ -73,7 +73,7 @@ Social interaction around text is a core driver of reading engagement and volume
 - [Application](../elements/application.md) — book commercials and recommendations apply reading to a communicative purpose
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — sharing sessions are a text-anchored instance
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — sharing sessions are a text-anchored instance
 - [Collaborative Learning](../patterns/collaborative-learning.md) — book clubs enact peer collaboration around authentic material
 
 ## Examples

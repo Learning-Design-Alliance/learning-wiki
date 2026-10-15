@@ -55,7 +55,7 @@ Fading is the element in which instructional support is deliberately reduced as 
 
 ## Patterns That Use This Element
 - [Mastery Learning](../patterns/mastery-learning.md)
-- [Merrill's First Principles (Demonstration)](../patterns/merrills-first-principles-demonstration.md)
+- [Merrill's First Principles (Demonstration)](../principles/modeling.md)
 
 ## Examples
 - Moving from full worked examples to partial examples to independent problem solving.

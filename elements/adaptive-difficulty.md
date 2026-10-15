@@ -66,8 +66,8 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Quizzes](quizzes.md)
 
 ## Patterns That Use This Element
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
-- [Cognitive Load Reduction (CLT + Scaffolding Approach)](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning.md)
+- [Cognitive Load Reduction (CLT + Scaffolding Approach)](../principles/cognitive-load-theory.md)
 
 ## Examples
 

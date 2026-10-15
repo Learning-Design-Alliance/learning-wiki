@@ -61,7 +61,7 @@ The physical environment functions as a channel of [instruction](../principles/c
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the sensory precondition that determines whether simultaneous activities can coexist
-- [Flipped Classroom](../patterns/flipped-classroom.md) — in-class time shifts to interactive work, raising demand for reconfigurable space
+- [Flipped Classroom](../principles/flipped-learning.md) — in-class time shifts to interactive work, raising demand for reconfigurable space
 
 ## Examples
 - **SCALE-UP (North Carolina State University)** — purpose-built rooms with round tables for nine students, shared laptops, and whiteboards on the walls; replicated at hundreds of institutions ([https://www.ncsu.edu/per/scaleup.html](https://www.ncsu.edu/per/scaleup.html)).

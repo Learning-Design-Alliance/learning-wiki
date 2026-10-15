@@ -35,7 +35,7 @@ The strategy rests on a well-documented reciprocal relationship: growth in one k
 - The benefit reverses with expertise: advanced learners often gain little from re-deriving concepts they have already integrated [Guidance becomes less effective as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
 
 #### Implementation Variability
-- **Concepts-first:** develop the conceptual model, then formalize the procedure (common in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md))
+- **Concepts-first:** develop the conceptual model, then formalize the procedure (common in [Cognitively Guided Instruction](../principles/responsive-teaching.md))
 - **Procedures-first with retroactive connection:** teach the algorithm, then unpack why it works — efficient when the procedure is simple but the concept is abstract
 - **Interleaved/iterative:** alternate between the two across a unit, the design most consistent with the bidirectional-development evidence [+M]
 - **Comparison-based:** present two procedures side by side and ask what conceptual difference explains their difference [Comparing multiple cases supports abstraction of the underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
@@ -70,7 +70,7 @@ The strategy rests on a well-documented reciprocal relationship: growth in one k
 - [Case Studies](../elements/case-studies.md) — contextualize procedures within meaningful conceptual problems
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — builds procedures from learners' conceptual problem models
+- [Cognitively Guided Instruction](../principles/responsive-teaching.md) — builds procedures from learners' conceptual problem models
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — pairs supportive (conceptual) information with procedural information on learning tasks
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — expert narration makes the conceptual basis of procedures visible
 

@@ -88,7 +88,7 @@ Explicitly comparing perspectives supports abstraction and transfer, because lea
 
 ## Examples
 - **Constructive controversy in teacher education** (Johnson & Johnson): pre-service teachers are assigned positions on tracking vs. mixed-ability grouping, argue, switch sides, then synthesize a personal position — reliably improving achievement and attitude change over debate and individual study.
-- **Stakeholder analysis in case teaching** ([Harvard Business School case method](../patterns/case-based-learning-harvard-method.md)): learners discuss a business case by articulating the distinct interests and reasoning of managers, employees, customers, and shareholders before evaluating decisions.
+- **Stakeholder analysis in case teaching** ([Harvard Business School case method](../patterns/case-based-learning.md)): learners discuss a business case by articulating the distinct interests and reasoning of managers, employees, customers, and shareholders before evaluating decisions.
 - **History classrooms using document-based perspective work**: learners compare primary sources from opposing sides of an event (e.g., Reading Like a Historian, Stanford History Education Group, https://sheg.stanford.edu), explicitly discussing how each author's position shaped the account.
 - **Facing History and Ourselves** (https://www.facinghistory.org) — published curriculum using historical cases in which students analyze how victims, perpetrators, bystanders, and resisters experienced the same events, followed by structured reflection.
 - **Structured Academic Controversy in cooperative learning** — Johnson & Johnson's format in which pairs argue one side of an issue, switch sides, and then drop roles to seek consensus, explicitly building perspective-taking into the procedure.
@@ -172,7 +172,7 @@ Perspective-taking does not reliably emerge from exposure to diverse material al
 ## Patterns That Use This Strategy
 - [Debate](../patterns/debate.md) — perspective-taking under formal argument conditions
 - [Case-Based Learning](../patterns/case-based-learning.md) — multiple stakeholder perspectives embedded in case analysis
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — discussion as the primary learning mechanism
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — discussion as the primary learning mechanism
 
 ## Examples
 - **Facing History and Ourselves** (https://www.facinghistory.org) — published curriculum using historical cases in which students analyze how victims, perpetrators, bystanders, and resisters experienced the same events, followed by structured reflection.

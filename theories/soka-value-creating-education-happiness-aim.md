@@ -49,7 +49,7 @@ Value-creating pedagogy, outlined by Tsunesaburo Makiguchi, holds that creating 
 
 ## Examples
 
-- [Nurture the ubuntu spirit in students because it aligns with global citizenship and embodies a humanistic ethos](../principles/nurture-ubuntu-spirit-students.md)
+- [Nurture the ubuntu spirit in students because it aligns with global citizenship and embodies a humanistic ethos](../principles/character-education.md)
 - [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](../strategies/value-creating-curriculum-africana-youth.md)
 - [Six transformative indices for evaluating value-creating education, from self-centeredness toward well-being in the greater social good](makiguchi-six-transformative-indices.md)
 

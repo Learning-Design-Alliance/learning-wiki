@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: self-regulated-learning
+aliases: [explicit-versus-inferred-compliance-prompt-taxonomy]
 title: Self-Regulated Learning
 description: "A reusable plan–monitor–act policy that makes regulation explicit with task-specific prompts, modelled self-assessment and a usable next action, then reads the response before handing regulation to the learner."
 canonical: true
@@ -13,6 +14,10 @@ sources:
     resource: "https://doi.org/10.1207/s15430421tip4102_2"
     title: "Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70"
     author: Zimmerman, B. J
+  - id: lallé-2017
+    resource: "https://educationaldatamining.org/EDM2017/"
+    title: "Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R. (2017). On the Influence on Learning of Student Compliance with Prompts Fostering Self-Regulated Learning. Proceedings of the 10th International Conference on Educational Data Mining. https://educationaldatamining.org/EDM2017/"
+    author: Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R
 author: self-regulated learning tradition
 grain_size: unit
 ---
@@ -20,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (14 for, 13 mixed) · 26 studies (8 causal, 6 quant-synthesis, 5 theoretical, 4 review, 3 associational), `q1`–`q4` · 7 of 26 report an effect size · 20 claims rest on one study
+> **Evidence** · 29 claims (14 for, 15 mixed) · 26 studies (8 causal, 6 quant-synthesis, 5 theoretical, 4 review, 3 associational), `q1`–`q4` · 7 of 26 report an effect size · 22 claims rest on one study
 
 ## Description and scope
 
@@ -99,6 +104,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](../claims/suggest-subgoal-compliance-predicts-learning-gains.md) [+W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](../claims/feedback-effects-on-offloading-mixed.md) [+W] — attached 2026-10-10 from Yufei Guo et al. (2026), which proposed "Match feedback type to metacognitive component and task phase: calibrate beliefs before tasks, provide task-specific feedback during tasks".
 - [No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions](../claims/no-trace-format-supported-calibrated-self-evaluation.md) [~W] — attached 2026-10-11 from Fernandes et al. (2026), which proposed "Scaffold metacognitive support by eliciting users' own reasoning before exposing the model's reasoning traces or answer".
+- [No Learning Effect For Metacognitive Monitoring Prompts](../claims/no-learning-effect-for-metacognitive-monitoring-prompts.md) [~M]
+- [More fixations on the learning content after an add-subgoal prompt are associated with higher learning gains, suggesting complying with that prompt may not be effective](../claims/add-subgoal-prompt-compliance-may-not-help-learning.md) [~M]
 
 ## Illustrative design instance and observation record
 
@@ -125,6 +132,7 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
+- Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R. (2017). On the Influence on Learning of Student Compliance with Prompts Fostering Self-Regulated Learning. Proceedings of the 10th International Conference on Educational Data Mining. https://educationaldatamining.org/EDM2017/
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The original body follows verbatim.
 
@@ -165,4 +173,47 @@ Self-Regulated Learning is the pattern-level target for designs that explicitly 
 - [Metacognitive Strategies](../elements/metacognitive-strategies.md)
 - [Self-Assessment](../elements/self-assessment.md)
 - [Reflection](../elements/reflection.md)
+-->
+
+<!-- merged 2026-10-15 from patterns/explicit-versus-inferred-compliance-prompt-taxonomy ("Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 6 claims (3 for, 3 mixed) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+
+## Description
+The article classifies MetaTutor's SRL prompts into two categories based on how compliance can be evaluated. "Explicit compliance prompts" are those for which compliance "can be explicitly assessed from students subsequent responses", e.g. prompts requiring a yes/no answer or a specific action within a time frame. "Inferred compliance prompts" are those for which "compliance needs to be inferred by mining a variety of behaviors", such as staying on or moving from a page. The article mines window length, number of fixations, and number of SRL strategies to evaluate the latter.
+
+## Design Implications
+
+### Context
+#### Requirements
+- For inferred prompts, the system must log interaction and eye-tracking behaviors in data windows following each prompt delivery
+#### Constraints
+- Explicit compliance prompts require additional interactions that "might not always be possible, or might even be intrusive for some students"; for inferred prompts "there is no clear definition of what compliance means"
+
+### Target Learners
+- college students learning with an intelligent tutoring system
+
+### Target Goals
+- self-regulated learning strategy use
+
+### Claims
+
+- [No Learning Effect For Metacognitive Monitoring Prompts](../claims/no-learning-effect-for-metacognitive-monitoring-prompts.md) [~M]
+- [More fixations on the learning content after an add-subgoal prompt are associated with higher learning gains, suggesting complying with that prompt may not be effective](../claims/add-subgoal-prompt-compliance-may-not-help-learning.md) [~M]
+- [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-diagram prompts shows no significant effect on learning gains](../claims/no-learning-effect-for-four-explicit-srl-prompts.md) [~W]
+- [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](../claims/review-notes-compliance-predicts-learning-gains.md) [+W]
+- [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](../claims/revise-summary-compliance-predicts-learning-gains.md) [+W]
+- [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](../claims/suggest-subgoal-compliance-predicts-learning-gains.md) [+W]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R. (2017). On the Influence on Learning of Student Compliance with Prompts Fostering Self-Regulated Learning. Proceedings of the 10th International Conference on Educational Data Mining. https://educationaldatamining.org/EDM2017/
 -->

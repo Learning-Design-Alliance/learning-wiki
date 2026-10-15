@@ -65,7 +65,7 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [Assessment](assessment.md) — probes are a diagnostic subtype, distinguished by targeting known errors rather than broad coverage
 
 ## Patterns That Use This Element
-- [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the Engage phase typically opens with a probe that elicits predictions before explanation
+- [5E Learning Cycle](../principles/inquiry-based-learning.md) — the Engage phase typically opens with a probe that elicits predictions before explanation
 - [Concept Attainment](../patterns/concept-attainment.md) — positive and negative examples function as probes of learners' current category boundaries
 - [Direct Instruction](../patterns/direct-instruction.md) — diagnostic probes at the start determine whether the misconception must be addressed before new content
 

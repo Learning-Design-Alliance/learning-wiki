@@ -135,7 +135,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - **Socrative / Google Forms in university courses** — a two-question digital ticket auto-plots the class distribution, letting the instructor decide within minutes whether to reteach or advance.
 - **Muddiest Point in college lectures** — Mosteller (1989) reported using a one-question end-of-class card in a Harvard statistics course, reviewing responses before the next session and opening class by addressing the confusion.
 - **[Khan Academy](https://www.khanacademy.org)** — end-of-unit mastery checks function as digital exit tickets, feeding dashboards that tell teachers which concepts to reteach.
-- **Elementary math classrooms using daily quick-checks** — teachers sort sticky-note responses into piles on a board to decide whether to advance or reteach, a routine consistent with [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) practices.
+- **Elementary math classrooms using daily quick-checks** — teachers sort sticky-note responses into piles on a board to decide whether to advance or reteach, a routine consistent with [Cognitively Guided Instruction](../principles/responsive-teaching.md) practices.
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
@@ -295,7 +295,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - **Socrative / Google Forms in university courses** — a two-question digital ticket auto-plots the class distribution, letting the instructor decide within minutes whether to reteach or advance.
 - **Muddiest Point in college lectures** — Mosteller (1989) reported using a one-question end-of-class card in a Harvard statistics course, reviewing responses before the next session and opening class by addressing the confusion.
 - **[Khan Academy](https://www.khanacademy.org)** — end-of-unit mastery checks function as digital exit tickets, feeding dashboards that tell teachers which concepts to reteach.
-- **Elementary math classrooms using daily quick-checks** — teachers sort sticky-note responses into piles on a board to decide whether to advance or reteach, a routine consistent with [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) practices.
+- **Elementary math classrooms using daily quick-checks** — teachers sort sticky-note responses into piles on a board to decide whether to advance or reteach, a routine consistent with [Cognitively Guided Instruction](../principles/responsive-teaching.md) practices.
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
@@ -368,7 +368,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 ## Examples
 - **Muddiest Point in college lectures** — Mosteller (1989) reported using a one-question end-of-class card in a Harvard statistics course, reviewing responses before the next session and opening class by addressing the confusion.
 - **[Khan Academy](https://www.khanacademy.org)** — end-of-unit mastery checks function as digital exit tickets, feeding dashboards that tell teachers which concepts to reteach.
-- **Elementary math classrooms using daily quick-checks** — teachers sort sticky-note responses into piles on a board to decide whether to advance or reteach, a routine consistent with [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) practices.
+- **Elementary math classrooms using daily quick-checks** — teachers sort sticky-note responses into piles on a board to decide whether to advance or reteach, a routine consistent with [Cognitively Guided Instruction](../principles/responsive-teaching.md) practices.
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

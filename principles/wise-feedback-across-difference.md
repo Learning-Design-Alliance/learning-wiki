@@ -128,7 +128,7 @@ The expectation should weaken if studies that vary only the standard-and-assuran
 - [Feedback Loops](feedback-loops.md) — holds whether a critique reaches a checked next attempt; this page changes only how the critique is framed
 - [Assessment for Learning](assessment-for-learning.md) — shared criteria are what the "standard" in wise feedback should name
 - [Strengths-Based Approach](strengths-based-approach.md) — the positive comment in wise feedback is one way of naming a strength
-- [Foster Growth Mindset](growth-mindset.md) — learners' beliefs about ability, which the assurance should not turn into praise of talent
+- [Foster Growth Mindset](motivation.md) — learners' beliefs about ability, which the assurance should not turn into praise of talent
 - [Self Affirmation](self-affirmation.md) — a neighbouring brief intervention aimed at identity threat
 
 ## Examples

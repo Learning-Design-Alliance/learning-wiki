@@ -38,7 +38,7 @@ Comparing cases is the element in which learners inspect two or more examples, s
 - Build conceptual understanding, pattern detection, and transfer.
 
 ### Affordances
-- [Metaphors & Analogies](../principles/metaphors-analogies.md)
+- [Metaphors & Analogies](../principles/analogical-reasoning.md)
 - [Worked Examples](../principles/worked-examples.md)
 - [Error Analysis](../principles/error-analysis.md)
 
@@ -52,7 +52,7 @@ Comparing cases is the element in which learners inspect two or more examples, s
 - [Demonstration](demonstration.md)
 
 ## Patterns That Use This Element
-- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 - [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples

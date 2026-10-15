@@ -1,7 +1,7 @@
 ---
 type: principle
 id: community-based-learning
-aliases: [weave-diversity-into-community-based-learning]
+aliases: [weave-diversity-into-community-based-learning, embed-local-indigenous-knowledge-community-experts, reciprocal-bidirectional-knowledge-exchange-international-courses, partner-voice-in-reporting-as-normative-csl-practice, prepare-students-before-challenge-agent-engagement]
 title: Community-Based Learning
 description: "For a learner whose coursework stays school-internal, giving the work a real role in a community is associated with civic attitudes, self-reported growth and deeper reflection when the work is tied to course concepts, reflection is structured and relationships are supported; no claim here tests its effect on content learning."
 canonical: true
@@ -14,12 +14,24 @@ sources:
     resource: "https://www.proquest.com/docview/3468983"
     title: "Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983"
     author: Stokamer, S
+  - id: mcgloin-2009
+    resource: "https://ro.uow.edu.au/jutlp/"
+    title: "McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/"
+    author: "McGloin, C., Marshall, A. & Adams, M"
+  - id: addison-2025
+    resource: "https://openjournals.uga.edu/jheoe"
+    title: "Addison, J., Mangnus, E., Cunanan, D. J., Downward, G. S., de Jong, L., van de Kamp, J., Llamas, C. A., Guinto, R. R., & Browne, J. L. (2025). Advancing Societally Engaged and International Planetary Health Education: Innovations, Lessons, and Recommendations for Educators. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.uga.edu/jheoe"
+    author: "Addison, J., Mangnus, E., Cunanan, D. J., Downward, G. S., de Jong, L., van de Kamp, J., Llamas, C. A., Guinto, R. R., & Browne, J. L"
+  - id: warren-gordon-2019
+    resource: "https://portal.issn.org/resource/ISSN/1934-5283"
+    title: "Warren-Gordon, K., Hudson, K., & Scott, F. (2019). Voices of Partnerships Within the Critical Service-Learning Framework. Journal of Community Engagement and Higher Education, 12(2). https://portal.issn.org/resource/ISSN/1934-5283"
+    author: "Warren-Gordon, K., Hudson, K., & Scott, F"
 ---
 
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 8 mixed) · 17 studies (4 causal, 3 review, 3 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 2 of 17 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 21 studies (5 qualitative, 4 causal, 4 review, 3 associational, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 2 of 21 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -99,6 +111,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Diversity Enhances All Civic Competence Outcomes](../claims/diversity-enhances-all-civic-competence-outcomes.md) [+M]
 - [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](../claims/planetary-health-course-three-key-lessons.md) [+W] — attached 2026-10-07 from Addison et al. (2025), which proposed "Prepare students with the skills and competencies to effectively and ethically complete societal-engagement investigations before meeting the challenge agent".
 - [Service learning and in-class civic learning opportunities are more strongly associated with high school students' later commitment to civic participation than the other school, family and community factors studied](../claims/service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) [+W] — attached 2026-10-08 from Susan E. Sporte et al. (2007), which proposed "Embed civic best practices across the curriculum rather than relying on required civics courses"; tests this page's relationship.
+- [Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught](../claims/local-indigenous-culture-student-interest.md) [+W]
+- [SAIL embeds Indigenous and cultural perspectives as integral competencies across all domains and levels rather than as add-ons](../claims/indigenous-perspectives-integral-across-sail-levels.md) [+W]
+- [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](../claims/culture-based-programs-flourish-engagement.md) [+W]
+- [Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding](../claims/research-barters-foster-reciprocity-icel.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -116,8 +132,19 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 - [Communities of Practice](communities-of-practice.md) — emphasizes learning through increasing participation in a practice community
 - [Situated Learning](../theories/situated-learning.md) — explains why community context can improve transfer and meaning
 - [Collaborative Learning](collaborative-learning.md) — community-based learning often depends on well-structured shared work
+- [Developing Your Cultural Awareness](developing-your-cultural-awareness.md)
+- [Leave flexibility within the curriculum so student coaches can respond to emerging student needs in CEL/CBL courses](responsive-teaching.md)
 
 ## Examples
+- [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](../strategies/indigenous-non-indigenous-collaborative-pedagogy.md)
+- [On-country visits where students interact with Aboriginal Elders as experiential learning](../strategies/on-country-elder-visits-experiential-learning.md)
+- [Holistic, place-based, time-bound Indigenous teaching pattern](../designs/holistic-place-based-time-bound-indigenous-teaching.md)
+- [Invite local Elders into classrooms as co-teachers of Indigenous Knowledge](../strategies/invite-local-elders-as-co-teachers.md)
+- [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](../strategies/place-based-culturally-harmonious-ccss-instruction.md)
+- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../designs/cbl-cel-coil-cuc-integrated-course-pattern.md)
+- [Cultural Exchange Kits](../strategies/cultural_exchange_kits.md)
+- [Incorporate structured reflective exercises on equality, reciprocity, positionality and bias into any (I)CEL exercise for staff and students](../strategies/structured-reflection-equality-reciprocity-icel.md)
+- [SPIRaL (Students Partners for Information Research and Literacy)](../products/spiral-students-partners-for-information-research-and-literacy.md)
 
 ### Illustrative
 
@@ -134,6 +161,9 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 - Bringle, R. G., & Hatcher, J. A. (1995). A service-learning curriculum for faculty. *Michigan Journal of Community Service Learning, 2*(1), 112-122.
 - Engeström, R., & Käyhkö, L. (2021). A critical search for the learning object across school and out-of-school contexts: A case of entrepreneurship education. *Journal of the Learning Sciences, 30*(3), 401-432. [https://doi.org/10.1080/10508406.2021.1908296](https://doi.org/10.1080/10508406.2021.1908296)
 - Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983
+- McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/
+- Addison, J., Mangnus, E., Cunanan, D. J., Downward, G. S., de Jong, L., van de Kamp, J., Llamas, C. A., Guinto, R. R., & Browne, J. L. (2025). Advancing Societally Engaged and International Planetary Health Education: Innovations, Lessons, and Recommendations for Educators. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.uga.edu/jheoe
+- Warren-Gordon, K., Hudson, K., & Scott, F. (2019). Voices of Partnerships Within the Critical Service-Learning Framework. Journal of Community Engagement and Higher Education, 12(2). https://portal.issn.org/resource/ISSN/1934-5283
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -218,4 +248,175 @@ Because exploration of diversity was associated with all civic competence outcom
 
 ## Key Sources
 - Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983
+-->
+
+<!-- merged 2026-10-15 from principles/embed-local-indigenous-knowledge-community-experts ("Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+
+## Description
+The paper argues that Indigenous knowledge should be incorporated into curricula with Indigenous people holding the right to teach their own ways of knowing, and that universities should recognise community expertise formally. It states that "many Elders and knowledgeable people already have the equivalent of a PhD in cultural knowledge in their own communities" and can be employed through adjunct or associate positions, with locally-based teaching and programs proliferating local histories and stories.
+
+## Design Implications
+
+### Context
+#### Requirements
+- University recognition of Elders' community-based cultural expertise, including employment through "adjunct or associate positions" and staff development assistance
+#### Constraints
+- The paper notes local communities may not be 'traditional' in the tourism sense, and educators must stay aware of local cultural revival and political change
+
+### Target Learners
+- Indigenous and non-Indigenous university students
+
+### Target Learning Objectives
+- Understanding local Indigenous cultures, histories and ways of knowing
+
+### Claims
+
+- Indigenous Ways Of Knowing Transformative Student Learning [+M]
+- [Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught](../claims/local-indigenous-culture-student-interest.md) [+W]
+- [SAIL embeds Indigenous and cultural perspectives as integral competencies across all domains and levels rather than as add-ons](../claims/indigenous-perspectives-integral-across-sail-levels.md) [+W]
+- [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](../claims/culture-based-programs-flourish-engagement.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](../strategies/indigenous-non-indigenous-collaborative-pedagogy.md)
+- [On-country visits where students interact with Aboriginal Elders as experiential learning](../strategies/on-country-elder-visits-experiential-learning.md)
+- [Holistic, place-based, time-bound Indigenous teaching pattern](../designs/holistic-place-based-time-bound-indigenous-teaching.md)
+- [Invite local Elders into classrooms as co-teachers of Indigenous Knowledge](../strategies/invite-local-elders-as-co-teachers.md)
+- [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](../strategies/place-based-culturally-harmonious-ccss-instruction.md)
+
+## Key Sources
+- McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/
+-->
+
+<!-- merged 2026-10-15 from principles/reciprocal-bidirectional-knowledge-exchange-international-courses ("Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+For equitable international education, institutions should ensure that partners from different cultural backgrounds contribute and learn equally, extending bidirectional exchange to the institutional level. In the course, the Philippine colleague shaped the content focus while Dutch colleagues contributed CEL/CBL experience. As the article reports, "The incorporation of a COIL component en - abled students from the Netherlands and the Philippines to jointly learn from each other's unique perspectives on global planetary health challenges."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Transparent discussions around reciprocal benefits, roles, responsibilities, and expectations, supported by mutual trust and respect from a sustainable partnership
+#### Constraints
+- Funders often fail to promote fair international partnerships, leaving collaborators to either engage in inequitable arrangements or devise creative ways to uphold fairness
+
+### Target Learners
+- higher education students and educators in international collaborations
+
+### Target Learning Objectives
+- intercultural collaboration and locally tailored solutions to global planetary health challenges
+
+### Claims
+
+- [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](../claims/planetary-health-course-three-key-lessons.md) [+W]
+- [Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding](../claims/research-barters-foster-reciprocity-icel.md) [+W]
+
+## Related Principles
+
+- [Developing Your Cultural Awareness](developing-your-cultural-awareness.md)
+
+## Examples
+
+- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../designs/cbl-cel-coil-cuc-integrated-course-pattern.md)
+- [Cultural Exchange Kits](../strategies/cultural_exchange_kits.md)
+- [Incorporate structured reflective exercises on equality, reciprocity, positionality and bias into any (I)CEL exercise for staff and students](../strategies/structured-reflection-equality-reciprocity-icel.md)
+
+## Key Sources
+- Addison, J., Mangnus, E., Cunanan, D. J., Downward, G. S., de Jong, L., van de Kamp, J., Llamas, C. A., Guinto, R. R., & Browne, J. L. (2025). Advancing Societally Engaged and International Planetary Health Education: Innovations, Lessons, and Recommendations for Educators. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.uga.edu/jheoe
+-->
+
+<!-- merged 2026-10-15 from principles/partner-voice-in-reporting-as-normative-csl-practice ("Community partner voice in reporting CSL outcomes, including co-authorship, should be a normative aspect of critical service learning"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Community partner voice in reporting CSL outcomes, including co-authorship, should be a normative aspect of critical service learning
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The article argues that power redistribution in CSL must extend beyond the project itself to the reporting of findings and sharing of artifacts. As printed, "Allowing the community partner(s) to articulate their voice(s) within the reporting of the outcomes of the project should be seen as a normative aspect of CSL." The degree of partner participation in research output should be left open for partners to decide, and in some cases may include co-authoring research on the service-learning process.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Faculty and community partners discuss research protocols, research agendas, and writing plans beyond the service-learning component
+#### Constraints
+- Participation in research output is left open for the community partner to decide; the partnership requires partner synergy built on open communication so partners never feel overburdened
+
+### Target Learners
+- community partners
+- higher education faculty
+- higher education students
+
+### Target Learning Objectives
+- redistribution of power in research
+- collaborative scholarship
+- authentic partnership
+
+### Claims
+- [Autoethnography For Community Partner Voice](../strategies/autoethnography-for-community-partner-voice.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Warren-Gordon, K., Hudson, K., & Scott, F. (2019). Voices of Partnerships Within the Critical Service-Learning Framework. Journal of Community Engagement and Higher Education, 12(2). https://portal.issn.org/resource/ISSN/1934-5283
+-->
+
+<!-- merged 2026-10-15 from principles/prepare-students-before-challenge-agent-engagement ("Prepare students with the skills and competencies to effectively and ethically complete societal-engagement investigations before meeting the challenge agent"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Prepare students with the skills and competencies to effectively and ethically complete societal-engagement investigations before meeting the challenge agent
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Because CBL/CEL students tackle complex real-world problems and interact with societal stakeholders, educators should equip them with interdisciplinary and transdisciplinary collaboration, international teamwork, problem-definition, research methods and ethics competencies beforehand. The authors' experience showed "that it is essential that sufficient time and attention is paid to prepare stu - dents to navigate stakeholder engagement and transdisciplinary collaborations before meeting with their challenge agent for the first time."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Sufficient time and attention for preparation, including tailored workshops on research methods, positionality mapping, and research ethics and equity
+#### Constraints
+- Specific ethical considerations are needed to protect autonomy, ensure informed consent, respectful engagement, and transparency, and reduce risks of harm when engaging (vulnerable) communities
+
+### Target Learners
+- higher education students working with societal stakeholders
+
+### Target Learning Objectives
+- ethical transdisciplinary investigation and stakeholder engagement skills
+
+### Claims
+
+- [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](../claims/planetary-health-course-three-key-lessons.md) [~W]
+
+## Related Principles
+
+- [Leave flexibility within the curriculum so student coaches can respond to emerging student needs in CEL/CBL courses](responsive-teaching.md)
+
+## Examples
+
+- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../designs/cbl-cel-coil-cuc-integrated-course-pattern.md)
+- [SPIRaL (Students Partners for Information Research and Literacy)](../products/spiral-students-partners-for-information-research-and-literacy.md)
+
+## Key Sources
+- Addison, J., Mangnus, E., Cunanan, D. J., Downward, G. S., de Jong, L., van de Kamp, J., Llamas, C. A., Guinto, R. R., & Browne, J. L. (2025). Advancing Societally Engaged and International Planetary Health Education: Innovations, Lessons, and Recommendations for Educators. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.uga.edu/jheoe
 -->

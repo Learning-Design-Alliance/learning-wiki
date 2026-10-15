@@ -53,7 +53,7 @@ The paper presents Feuerstein's theory of mediated learning as filling a gap in 
 
 ## Examples
 
-- [Prepare teachers of young children to enhance each child's learning potential rather than just cover curriculum](../principles/teacher-preparation-enhance-learning-potential.md)
+- [Prepare teachers of young children to enhance each child's learning potential rather than just cover curriculum](../principles/teacher-as-mediator-not-content-disseminator.md)
 - [Instrumental Enrichment program](../products/instrumental-enrichment.md)
 
 ## Key Sources

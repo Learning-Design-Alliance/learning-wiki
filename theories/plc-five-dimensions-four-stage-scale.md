@@ -53,7 +53,7 @@ The article adopts the PLC construct as "a group of teachers who share a common 
 ## Examples
 
 - [Transfer strategy for building PLCs through innovation projects: common interests, communication systems, and peer learning of practices](../strategies/plc-building-transfer-strategy-common-interests-communication.md)
-- [PLC facets that catalyze scholarship epistemology: trust, common goal, reflection opportunity, dialogue, and accountability for results](../patterns/plc-facets-catalyze-scholarship-epistemology.md)
+- [PLC facets that catalyze scholarship epistemology: trust, common goal, reflection opportunity, dialogue, and accountability for results](../patterns/fostering-communities-of-learning-fcl.md)
 
 ## Key Sources
 - Layton-Jaramillo, S.E., Duarte-Velasco, O.G., Aguaded-Ramírez, E.M., & Carrillo-Rosúa, F.J. (2025). Innovation in university science teaching through professional learning communities. Journal of Technology and Science Education, 15(1), 142-161. https://doi.org/10.3926/jotse.3115

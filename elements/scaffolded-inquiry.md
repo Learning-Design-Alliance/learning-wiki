@@ -47,7 +47,7 @@ Scaffolded inquiry resolves the central tension of inquiry learning: open explor
 
 ### Affordances
 - [Scaffolding](../principles/scaffolding.md) — scaffolded inquiry is scaffolding applied to the inquiry process itself; the fading schedule is the core design variable
-- [Constructivism](../principles/constructivism.md) — learners build understanding through active investigation rather than transmission, but within a structure that keeps construction productive
+- [Constructivism](../principles/cognitive-activation.md) — learners build understanding through active investigation rather than transmission, but within a structure that keeps construction productive
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — scaffolded inquiry is the guided variant of this principle, addressing its documented failure modes for novices
 - [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — the progression from modeling through coaching to independent exploration mirrors the apprenticeship sequence
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — early scaffolds offload task-structuring demands so working memory is spent on the science or reasoning itself
@@ -66,7 +66,7 @@ Scaffolded inquiry resolves the central tension of inquiry learning: open explor
 ## Patterns That Use This Element
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — structured problem investigation with progressive release of responsibility
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling → coaching → fading arc
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — group investigation supported by role assignments and prompts that fade over time
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — group investigation supported by role assignments and prompts that fade over time
 
 ## Examples
 

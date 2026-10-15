@@ -95,7 +95,7 @@ The eight steps, grouped in three phases:
 ### Affordances
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the entire cycle reorients assessment from summative judgment to evidence for improving instruction, with the "plan to assess" step building measurement of impact into every action plan
 - [Collaborative Learning](../principles/collaborative-learning.md) — the process is designed for teams, not individuals; protocols distribute airtime and force shared sense-making rather than individual interpretation
-- [Purposeful Reflection](../principles/purposeful-reflection.md) — the Inquire phase institutionalizes structured reflection on the relationship between teaching and learning before action is taken
+- [Purposeful Reflection](../principles/reflection.md) — the Inquire phase institutionalizes structured reflection on the relationship between teaching and learning before action is taken
 
 ### Personalization
 
@@ -108,7 +108,7 @@ The eight steps, grouped in three phases:
 **Higher education adaptation:** Use course-level learning analytics and program assessment data in place of K–12 test data; the "examine instruction" step requires curricular rather than pedagogical framing.
 
 ## Related Processes
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — Data Wise is a highly specified instance of collaborative inquiry; the broader pattern applies when teams lack the full Data Wise infrastructure
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — Data Wise is a highly specified instance of collaborative inquiry; the broader pattern applies when teams lack the full Data Wise infrastructure
 - [Constructive Alignment](../patterns/constructive-alignment.md) — the "examine instruction" and "plan to assess" steps push teams toward aligning assessments, instruction, and intended learning outcomes
 - [Authentic Assessment](../patterns/authentic-assessment.md) — data overviews are only as trustworthy as the assessments feeding them; authentic tasks often yield the richest evidence for the Inquire phase
 

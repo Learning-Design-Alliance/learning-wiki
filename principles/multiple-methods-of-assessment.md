@@ -1,7 +1,7 @@
 ---
 type: principle
 id: multiple-methods-of-assessment
-aliases: [assess-alone-and-assisted-performance]
+aliases: [assess-alone-and-assisted-performance, test-based-retention-multiple-promotion-options]
 title: Multiple Methods of Assessment
 description: "When one assessment method can mislead about a learner (through reading load, an unfamiliar symbol system, anxiety or a capability that shows only with help), a judgement drawn from two or more methods sampling the same goal under common, calibrated criteria is expected to be more accurate than one drawn from a single method, and bounded choice of format to raise motivation rather than achievement; no claim here tests the relationship as a whole."
 canonical: true
@@ -26,12 +26,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED529565"
     title: "Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565"
     author: Costley, K. C
+  - id: comprehensive-early-literacy-policy-fundamental-principles-2024
+    resource: "https://www.excelined.org"
+    title: "Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org"
+    author: "Comprehensive Early Literacy Policy: Fundamental Principles"
 ---
 
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (17 for, 7 mixed, 1 against) · 34 studies (8 review, 7 causal, 6 theoretical, 5 quant-synthesis, 4 qualitative, 3 design, 1 associational), `q1`–`q4` · 4 of 34 report an effect size · 19 claims rest on one study
+> **Evidence** · 35 claims (19 for, 13 mixed, 3 against) · 41 studies (12 causal, 8 review, 7 theoretical, 5 quant-synthesis, 4 qualitative, 3 design, 2 associational), `q1`–`q4` · 4 of 41 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +143,16 @@ Claims this page cited before it was rewritten as a conditional model. None test
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — about support during tutoring (fourth and fifth graders, one-to-one, long division; a meta-analysis of dynamic assessment). It bears on this page only through dynamic assessment, where help given during the assessment is itself evidence; the old page cited it for "the next instructional move".
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W] — a design argument about practice, not assessment, with no study behind it here; the old page cited it [+M] for judging complex outcomes through integrated performances. Lowered to W because the claim records no test.
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — two syntheses (a review and a theoretical synthesis) on self-monitoring against criteria; bears on self-assessment as one of the methods, not on combining methods. The converted [Self-Monitoring](self-monitoring.md) principle holds its model.
+- [Mississippi Retention Sustained Ela Gains](../claims/mississippi-retention-sustained-ela-gains.md) [+M]
+- [Retention Threat Raises Grade 3 Performance](../claims/retention-threat-raises-grade-3-performance.md) [+M]
+- [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](../claims/retention-associated-smaller-gains-than-promotion-chicago.md) [-M]
+- [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](../claims/retained-students-smaller-gains-than-social-promotes.md) [~W]
+- [Third-grade retention under the Chicago policy produced no sustained academic benefits or substantial negative effects](../claims/third-grade-retention-no-sustained-benefit.md) [-M]
+- [Educators reported the promotion policy increased parental concern about student progress](../claims/promotion-policy-increased-parental-concern.md) [~W]
+- [Students who met the promotional cutoffs, including after Summer Bridge, maintained positive test trajectories two years after promotion](../claims/promoted-students-maintained-gains-two-years.md) [~W]
+- [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](../claims/waivers-promoted-failing-students-1997.md) [~W]
+- [Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers](../claims/higher-passing-rates-did-not-lower-retention.md) [~W]
+- [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](../claims/postpolicy-retention-effect-smaller-but-larger-impact.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -174,7 +188,8 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Validity, Reliability and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) — the measurement properties each single method needs.
 - [Assessment for Learning](assessment-for-learning.md) — shared criteria and a revision step around the evidence each method yields.
 - [Self-Monitoring](self-monitoring.md) — learners checking their work against criteria, one of the methods combined here.
-- [Adult help should promote children as active agents of their own learning, not only subject-matter assimilation](adult-help-promotes-active-agents-learning.md)
+- [Adult help should promote children as active agents of their own learning, not only subject-matter assimilation](scaffolding-and-fading.md)
+- [Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches](ongoing-study-teams-peer-coaching-in-service.md)
 
 ## Examples
 
@@ -190,12 +205,14 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Combine observational measures with other methods in formative evaluation of preschool-through-third-grade programs, keeping them free of high stakes.](../strategies/multimethod-formative-evaluation-early-childhood-strategy.md)
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 - [Scaffolding](../strategies/scaffolding.md)
+- [Run summer reading camps with the attributes of high-gain summer learning programs](../strategies/summer-reading-camps-design-attributes.md)
 
 ## Key Sources
 - Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. *Assessment in Education: Principles, Policy & Practice, 27*(4), 350-372. [https://doi.org/10.1080/0969594X.2019.1571992](https://doi.org/10.1080/0969594X.2019.1571992)
 - Shepard, L. A., Penuel, W. R., & Pellegrino, J. W. (2018). Using learning and motivation theories to coherently link formative assessment, grading practices, and large-scale assessment. *Educational Measurement: Issues and Practice, 37*(1), 21-34. [https://doi.org/10.1111/emip.12189](https://doi.org/10.1111/emip.12189)
 - Rao, K. (2021). Inclusive instructional design: Applying UDL to online learning. *The Journal of Applied Instructional Design, 10*(1). [https://doi.org/10.51869/101/kr](https://doi.org/10.51869/101/kr)
 - Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565
+- Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -294,7 +311,7 @@ The article reports Vygotsky's assessment principle that a true picture of cogni
 
 ## Related Principles
 
-- [Adult help should promote children as active agents of their own learning, not only subject-matter assimilation](adult-help-promotes-active-agents-learning.md)
+- [Adult help should promote children as active agents of their own learning, not only subject-matter assimilation](scaffolding-and-fading.md)
 
 ## Examples
 
@@ -303,4 +320,57 @@ The article reports Vygotsky's assessment principle that a true picture of cogni
 
 ## Key Sources
 - Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565
+-->
+
+<!-- merged 2026-10-15 from principles/test-based-retention-multiple-promotion-options ("Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 10 claims (2 for, 6 mixed, 2 against) · 7 studies (5 causal, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 10 claims rest on one study
+
+## Description
+The toolkit's retention principle holds that students unable to demonstrate sufficient reading skills for promotion be retained and given "more intensive interventions and a highly effective teacher." To ensure "one test on one day is not the sole determining factor," students get multiple demonstration options (state test, alternative test, portfolio), and good cause exemptions cover specified students with disabilities, English Language Learners, and previously retained students.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Retained students must receive more intensive interventions including daily reading intervention time, tutoring, summer camps, more frequent progress monitoring, a reading mentor, and a read-at-home plan.
+- Promoted good-cause-exempt students must receive intensive individualized reading intervention until assessment data show the deficiency is remedied.
+#### Constraints
+- No student should be retained twice in 3rd grade.
+
+### Target Learners
+- 3rd-grade students severely below grade level
+- Students with disabilities
+- English Language Learners
+
+### Target Learning Objectives
+- Grade-level reading by end of 3rd grade
+- Intensive reading intervention
+
+### Claims
+
+- [Mississippi Retention Sustained Ela Gains](../claims/mississippi-retention-sustained-ela-gains.md) [+M]
+- [Retention Threat Raises Grade 3 Performance](../claims/retention-threat-raises-grade-3-performance.md) [+M]
+- [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](../claims/retention-associated-smaller-gains-than-promotion-chicago.md) [-M]
+- [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](../claims/retained-students-smaller-gains-than-social-promotes.md) [~W]
+- [Third-grade retention under the Chicago policy produced no sustained academic benefits or substantial negative effects](../claims/third-grade-retention-no-sustained-benefit.md) [-M]
+- [Educators reported the promotion policy increased parental concern about student progress](../claims/promotion-policy-increased-parental-concern.md) [~W]
+- [Students who met the promotional cutoffs, including after Summer Bridge, maintained positive test trajectories two years after promotion](../claims/promoted-students-maintained-gains-two-years.md) [~W]
+- [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](../claims/waivers-promoted-failing-students-1997.md) [~W]
+- [Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers](../claims/higher-passing-rates-did-not-lower-retention.md) [~W]
+- [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](../claims/postpolicy-retention-effect-smaller-but-larger-impact.md) [~W]
+
+## Related Principles
+
+- [Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches](ongoing-study-teams-peer-coaching-in-service.md)
+
+## Examples
+
+- [Run summer reading camps with the attributes of high-gain summer learning programs](../strategies/summer-reading-camps-design-attributes.md)
+
+## Key Sources
+- Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
 -->

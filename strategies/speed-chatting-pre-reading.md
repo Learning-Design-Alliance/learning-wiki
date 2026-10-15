@@ -71,7 +71,7 @@ Speed chatting works as a [Activation](../elements/activation.md) activity: retr
 - [Advance Organizers](../elements/advance-organizers.md) — a structure the debrief can feed into before reading
 
 ## Patterns That Use This Strategy
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — speed chatting as a warm-up that seeds later full-class discussion
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — speed chatting as a warm-up that seeds later full-class discussion
 - [Experiential Learning Cycle](../patterns/experiential-learning-cycle.md) — the rotations function as concrete experience preceding reflective reading
 
 ## Examples

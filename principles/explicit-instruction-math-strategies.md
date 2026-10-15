@@ -148,8 +148,8 @@ Choosing a method, writing a correct equation, solving correctly, explaining why
 ## Related Principles
 - [Worked Examples](worked-examples.md) — strategy instruction often begins with explicit modeled solutions
 - [Error Analysis](error-analysis.md) — comparing failed and successful strategies can sharpen strategic judgment
-- [Real-World Math](real-world-math.md) — strategy flexibility matters most when problems are varied and contextualized
-- [Explaining Their Thinking](self-explanation.md) — strategy use becomes durable when learners justify choices aloud or in writing
+- [Real-World Math](cultural-life-experiences-connections.md) — strategy flexibility matters most when problems are varied and contextualized
+- [Explaining Their Thinking](cognitive-activation.md) — strategy use becomes durable when learners justify choices aloud or in writing
 - [Direct Instruction](direct-instruction.md) — the general model this page applies to mathematical strategies (explain, model, guide practice; qualified by expertise, age, outcome and horizon)
 - [Productive Failure](productive-failure.md) — decides whether learners attempt a problem before the strategy is taught
 - [Cognitive Flexibility](cognitive-flexibility.md) — comparing methods is one way to hold the same knowledge in several forms
@@ -232,8 +232,8 @@ Explicit instruction in math strategies works best when learners are shown not o
 ## Related Principles
 - [Worked Examples](worked-examples.md) — strategy instruction often begins with explicit modeled solutions
 - [Error Analysis](error-analysis.md) — comparing failed and successful strategies can sharpen strategic judgment
-- [Real-World Math](real-world-math.md) — strategy flexibility matters most when problems are varied and contextualized
-- [Explaining Their Thinking](self-explanation.md) — strategy use becomes durable when learners justify choices aloud or in writing
+- [Real-World Math](cultural-life-experiences-connections.md) — strategy flexibility matters most when problems are varied and contextualized
+- [Explaining Their Thinking](cognitive-activation.md) — strategy use becomes durable when learners justify choices aloud or in writing
 
 ## Examples
 -->

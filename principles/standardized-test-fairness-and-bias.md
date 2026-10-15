@@ -1,7 +1,7 @@
 ---
 type: principle
 id: standardized-test-fairness-and-bias
-aliases: [similar-item-positions-across-booklets]
+aliases: [similar-item-positions-across-booklets, multiple-criteria-gifted-identification, tests-capitalizing-on-cultural-strengths]
 title: Standardized Test Fairness and Bias
 description: "A standardized test score is expected to support a selection or placement decision equally well across groups only where its items do not depend on group background, it predicts the later outcome equally accurately for each group, and the testing conditions do not depress one group's scores; no claim tests this relationship, and the claims bearing on it are second-hand testimony, narrative reviews, psychometric studies of item-bias methods and a values-affirmation intervention that did not replicate."
 canonical: true
@@ -14,6 +14,14 @@ sources:
     resource: "https://doi.org/10.21449/ijate.779963"
     title: "Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963"
     author: "Soysal, S., & Yilmaz Kogar, E"
+  - id: gifted-and-talented-students-at-risk-for-underachievement-2008
+    resource: "https://www.centerforcsri.org"
+    title: "Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org"
+    author: Gifted and talented students at risk for underachievement
+  - id: shavelson-1986
+    resource: "https://eric.ed.gov/?id=ED338680"
+    title: "Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny. (1986). The Role of Symbol Systems in Problem Solving: A Literature Review. CSE Report No. 269. https://eric.ed.gov/?id=ED338680"
+    author: Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny
 ---
 
 # Standardized Test Fairness and Bias
@@ -78,7 +86,7 @@ The three facts that most change the decision:
 | One teacher or tutor prepares many learners, or facilitator time is scarce (volunteers, a short weekly session) | Use one full practice sitting under real conditions, self-marked against an answer key with worked reasons, and spend the scarce contact time only on the three items most learners missed; move demographic forms after the test, which needs no time | untested proposal |
 | Only a single session is available before the real test | Use it for one timed practice in the real format with immediate feedback and a walk-through of the instructions; do not add new content | untested proposal |
 | The brief names its own routine (its own admissions rubric, test-prep programme, identification checklist) | Keep it; change only what the evidence here says matters: no single-score cut without a second look near it, demographics after the test, and a by-group check of who is selected and how they later do | untested; the three changes follow the three mechanisms above |
-| Results are reported publicly or drive accountability (school league tables, programme funding) | Report by group with the number of test-takers and the uncertainty; do not compare groups on a score whose prediction has not been checked for them; link the use to [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) | untested proposal |
+| Results are reported publicly or drive accountability (school league tables, programme funding) | Report by group with the number of test-takers and the uncertainty; do not compare groups on a score whose prediction has not been checked for them; link the use to [High-Stakes Testing and Accountability Effects](summative-assessment.md) | untested proposal |
 
 Eight of the fifteen rows cite a claim; none of those claims tests the move in its row. They come from congressional testimony reporting figures second-hand, an issue brief and narrative reviews on gifted identification, psychometric studies of one examination or simulations, a correlational meta-analysis of anxiety, and field experiments on term grades, and each is carried to the decision in its row. The small-groups row is an untested proposal that cites a claim only for its limit; the young-children, mixed-mode, work-setting, scarce-time, single-session, named-routine and public-reporting rows are untested proposals.
 
@@ -166,10 +174,11 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here
-- [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) — stereotype threat's dependence on high-stakes framing connects directly to this principle's broader account of high-stakes testing's side effects
+- [High-Stakes Testing and Accountability Effects](summative-assessment.md) — stereotype threat's dependence on high-stakes framing connects directly to this principle's broader account of high-stakes testing's side effects
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — a parallel treatment of cultural bias specifically in cognitive-ability/IQ testing
 - [Validity, Reliability, and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) — owns the quality of inferences from classroom assessments, including content-bias review of teacher-made items; this page holds what is specific to standardized tests used for selection across groups
 - [Self Affirmation](self-affirmation.md) — the values-affirmation exercise the default design treats as a measured trial
+- [Provide a continuum of gifted services and ensure teachers can differentiate instruction](supporting-gifted-and-talented-students.md)
 
 ## Examples
 
@@ -178,6 +187,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [Value Affirmation Before Assessment](../strategies/value-affirmation-before-assessment.md) — the affirmation exercise placed before a test, whose evidence is mixed
 - [Reducing Test Anxiety](../strategies/reducing-test-anxiety.md) — preparation and sitting conditions aimed at the anxiety source of construct-irrelevant variance
 - [Accommodations](../elements/accommodations.md) — changes to test conditions for learners whose access needs would otherwise be measured instead of the construct
+- [Use multiple criteria and non-traditional measures to identify diverse gifted learners](../strategies/multiple-criteria-nontraditional-identification.md)
 
 ## Key Sources
 - Popham, W. J. (2004). *America's "failing" schools: How parents and teachers can cope with No Child Left Behind*. RoutledgeFalmer.
@@ -189,6 +199,8 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - Arduini-Van Hoose, N. (2020). Issues with standardized tests. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary, House of Representatives, One Hundredth Congress, First Session. (1989). https://eric.ed.gov/?id=ED312276
 - Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963
+- Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org
+- Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny. (1986). The Role of Symbol Systems in Problem Solving: A Literature Review. CSE Report No. 269. https://eric.ed.gov/?id=ED338680
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -231,7 +243,7 @@ Whether standardized tests are biased against particular social class, racial, o
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here
-- [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) — stereotype threat's dependence on high-stakes framing connects directly to this principle's broader account of high-stakes testing's side effects
+- [High-Stakes Testing and Accountability Effects](summative-assessment.md) — stereotype threat's dependence on high-stakes framing connects directly to this principle's broader account of high-stakes testing's side effects
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — a parallel treatment of cultural bias specifically in cognitive-ability/IQ testing
 
 ## Examples
@@ -283,4 +295,86 @@ This test-assembly principle holds that when multiple booklets are formed from t
 
 ## Key Sources
 - Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963
+-->
+
+<!-- merged 2026-10-15 from principles/multiple-criteria-gifted-identification ("Use multiple, culturally responsive assessment criteria rather than a single test cutoff to identify gifted students"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Use multiple, culturally responsive assessment criteria rather than a single test cutoff to identify gifted students
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+
+## Description
+The brief advocates identifying gifted students from culturally and linguistically diverse groups through comprehensive, culturally responsive definitions and multiple assessment measures rather than intelligence or achievement tests alone, which "often ignore the strengths of students who are culturally diverse, are linguistically diverse, live in poverty, or are poor test takers." Castellano's multiple criteria include teacher observation, behavioral checklists, parent interviews, portfolios, dynamic and ethnographic assessment, and nonverbal intelligence tests.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Culturally responsive definitions that allow multiple criteria rather than a cutoff score on a particular test
+- Assessment policies and procedures that are fair and accessible to students from diverse cultural and linguistic backgrounds
+#### Constraints
+- Intelligence or achievement tests used alone are frequently ineffective for identifying culturally and linguistically diverse gifted students
+
+### Target Learners
+- Gifted and talented students from culturally and linguistically diverse backgrounds and low-SES families
+
+### Target Learning Objectives
+- Accurate identification of giftedness and access to gifted services
+
+### Claims
+
+- [Teacher Underreferral Diverse Gifted](../claims/teacher-underreferral-diverse-gifted.md) [+M]
+- [Gifted Underrepresentation Diverse Students](../claims/gifted-underrepresentation-diverse-students.md) [+M]
+- [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](../claims/traditional-identification-tests-fail-learning-potential.md) [+W]
+
+## Related Principles
+
+- [Provide a continuum of gifted services and ensure teachers can differentiate instruction](supporting-gifted-and-talented-students.md)
+
+## Examples
+
+- [Use multiple criteria and non-traditional measures to identify diverse gifted learners](../strategies/multiple-criteria-nontraditional-identification.md)
+
+## Key Sources
+- Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org
+-->
+
+<!-- merged 2026-10-15 from principles/tests-capitalizing-on-cultural-strengths ("Develop tests that capitalize on the strengths of students from different cultural backgrounds rather than eliminating cultural factors"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Develop tests that capitalize on the strengths of students from different cultural backgrounds rather than eliminating cultural factors
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The review argues that culture-fair tests, which minimize language and reading requirements and avoid culture-specific content, move toward a lowest common denominator and away from identifying what an examinee knows or can do. Because each culture fosters certain abilities and suppresses others, the authors recommend developing tests that "capitalize on the strengths of students from different cultural backgrounds" so ability can be measured accurately, including via alternative symbolic representations.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Knowledge of the strengths of particular cultural and language groups, which the review says has rarely been determined
+#### Constraints
+- The review notes even nonverbal culture-fair tests may be heavily culturally loaded, since pictures and nonverbal symbols mean different things across cultures
+
+### Target Learners
+- minority students and students from non-majority cultural or language backgrounds
+
+### Target Learning Objectives
+- accurate measurement of subject-matter knowledge and ability
+
+### Claims
+
+- [Minority Testing Research Neglects Alternative Symbolic Forms](../claims/minority-testing-research-neglects-alternative-symbolic-forms.md) [+M]
+- [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](../claims/verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny. (1986). The Role of Symbol Systems in Problem Solving: A Literature Review. CSE Report No. 269. https://eric.ed.gov/?id=ED338680
 -->

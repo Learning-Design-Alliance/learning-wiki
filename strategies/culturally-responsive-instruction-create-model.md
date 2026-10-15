@@ -72,7 +72,7 @@ Culturally responsive instruction works by connecting new content to existing kn
 
 ## Patterns That Use This Strategy
 - [Community-Based Learning](../principles/community-based-learning.md) — extends cultural responsiveness into community settings
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — discourse structures that honor home communication norms
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — discourse structures that honor home communication norms
 
 ## Examples
 - **Hip-hop pedagogy in ELA:** analyzing Kendrick Lamar or Lauryn Hill lyrics for poetic devices alongside canonical poems, then having students write and perform their own verses applying the same devices

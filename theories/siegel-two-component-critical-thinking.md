@@ -47,7 +47,7 @@ The paper adopts Harvey Siegel's definition of the critical thinker as one who i
 
 ## Examples
 
-- [Use an impersonal, procedure-driven critique format so challenges to students' basic assumptions come from the method, not the instructor](../principles/impersonal-critique-provides-emotional-space.md)
+- [Use an impersonal, procedure-driven critique format so challenges to students' basic assumptions come from the method, not the instructor](../principles/understanding-cultivated-not-described.md)
 - [CRITO: a five-step method for critically assessing one's own arguments (Conclusion, Reasons, Inference, Truth, Objections)](../strategies/crito-five-step-argument-assessment.md)
 
 ## Key Sources

@@ -70,7 +70,7 @@ Talk moves operationalize "accountable talk" — classroom discourse that is acc
 - [Coaching](../elements/coaching.md) — in-the-moment prompting of moves during discussion
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](../patterns/discussion-based-learning.md) — talk moves supply the discourse structure that makes discussion productive rather than merely participatory
+- [Discussion-Based Learning](../principles/collaborative-learning.md) — talk moves supply the discourse structure that makes discussion productive rather than merely participatory
 - [Collaborative Learning](../patterns/collaborative-learning.md) — frames govern how group members respond to and build on each other's ideas
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and reflection methods, enacted socially through structured talk
 

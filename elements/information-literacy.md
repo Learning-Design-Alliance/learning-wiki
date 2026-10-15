@@ -49,7 +49,7 @@ Information literacy is the element in which learners identify information needs
 - [Question Formulation](question-formulation.md)
 
 ## Patterns That Use This Element
-- [Research-Based Learning](../patterns/research-based-learning.md)
+- [Research-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Key Sources
 - Association of College and Research Libraries. (2016). *Framework for information literacy for higher education*.

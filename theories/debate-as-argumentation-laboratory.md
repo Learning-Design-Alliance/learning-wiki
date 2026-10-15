@@ -47,7 +47,7 @@ The paper's organizing framework is that any debate format is legitimate as educ
 
 ## Examples
 
-- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](../patterns/debate-laboratory-for-argumentation.md)
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](../patterns/debate.md)
 
 ## Key Sources
 - Jensen, Scott. (1996). Point of Information: Practical and Theoretical Concerns in Parliamentary Debate. https://eric.ed.gov/?id=ED421730

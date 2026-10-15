@@ -38,7 +38,7 @@ Solving the task first converts the instructor's tacit expertise into usable ped
 - **Solve as a novice:** deliberately restrict yourself to the resources and prior knowledge learners will have
 - **Solve multiple ways:** generate two or three solution paths to broaden anticipation
 - **Solve with errors:** intentionally make plausible errors to map the misconception space
-- **Collaborative solving:** a teaching team solves the task together and pools anticipations (common in lesson study and [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md))
+- **Collaborative solving:** a teaching team solves the task together and pools anticipations (common in lesson study and [Cognitively Guided Instruction](../principles/responsive-teaching.md))
 - **Solve then compare with student work:** after teaching, compare anticipations against actual learner responses to calibrate future planning
 
 ### Target Learners

@@ -73,7 +73,7 @@ Collective analysis converts interpretation from a private expert task into a [c
 - [Check-In](../elements/check-in.md) — norms and trust-building that keep analysis from being dominated by a few voices
 
 ## Patterns That Use This Strategy
-- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — the analysis phase of a group inquiry cycle
+- [Collaborative Inquiry](../principles/inquiry-based-learning.md) — the analysis phase of a group inquiry cycle
 - [Community of Inquiry](../principles/community-of-inquiry.md) — collective analysis enacts the cognitive presence dimension through shared exploration and integration of ideas
 - [Communities of Practice](../principles/communities-of-practice.md) — joint sense-making of shared data is a signature practice of professional learning communities
 

@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: direct-instruction
-aliases: [explicit-teaching]
+aliases: [explicit-teaching, direct-instruction-distinctive-teaching-practices, hunters-effective-teaching-model]
 title: Direct Instruction
 description: "A reusable explicit-teaching policy for a structured target (elicit, explain and model, guide practice with checks, hand over on unaided success), qualified by task-specific expertise, outcome type and horizon."
 canonical: true
@@ -10,6 +10,15 @@ generated:
   by: claude/unspecified
   at: 2026-10-01
 grain_size: lesson
+sources:
+  - id: mosley-1997
+    resource: "https://eric.ed.gov/?id=ED402553"
+    title: "Mosley, Allen M. (1997). The Effectiveness of \"Direct Instruction\" on Reading Achievement. ERIC Document ED402553. https://eric.ed.gov/?id=ED402553"
+    author: Mosley, Allen M
+  - id: üstündağ-algın-2025
+    resource: "https://www.mextesol.net/journal/"
+    title: "Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/"
+    author: Üstündağ-Algın, P
 ---
 
 # Direct Instruction
@@ -163,9 +172,15 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
 
 ## Related Patterns
+- [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction. *American Educator, 36*(1), 12-19.
+- Mosley, Allen M. (1997). The Effectiveness of "Direct Instruction" on Reading Achievement. ERIC Document ED402553. https://eric.ed.gov/?id=ED402553
+- Hunter, M. (1982). *Mastery teaching*. TIP Publications.
+- Hunter, R. (2004). *Madeline Hunter's mastery teaching: Increasing instructional effectiveness in elementary and secondary schools* (Rev. ed.). Corwin Press.
+- Arduini-Van Hoose, N. (2020). Instructional strategies that stimulate complex thinking. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above (old Description, Design and Claims sections, kept verbatim)
 
@@ -217,4 +232,161 @@ Explicit teaching is the short-form canonical pattern for clearly stating goals,
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction. *American Educator, 36*(1), 12-19.
+-->
+
+<!-- merged 2026-10-15 from patterns/direct-instruction-distinctive-teaching-practices ("Direct Instruction's distinctive teaching practices: scripted presentation, small groups, unison responding, signals, pacing, correction procedures, and oral reading"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Direct Instruction's distinctive teaching practices: scripted presentation, small groups, unison responding, signals, pacing, correction procedures, and oral reading
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+According to the article, Watkins (1988) identified the practices that distinguish Direct Instruction from more traditional approaches. The article lists them as "scripted presentation, small groups,unisonresponding,signals,pacing,correction procedures and oral reading." These lesson-level routines structure how teachers present material, how students respond, and how errors are corrected during instruction.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers deliver scripted presentations with specified signals, pacing, and correction procedures
+#### Constraints
+- 
+
+### Target Learners
+- elementary school students in reading and mathematics programs
+
+### Target Goals
+- basic skills achievement in reading and mathematics
+
+### Claims
+- 
+
+## Related Patterns
+- 
+
+## Examples
+
+- [Choral Responding](../strategies/choral-responding.md)
+- [Effective Presentation for Errorless Learning](../strategies/effective-presentation-for-errorless-learning.md)
+- [Direct Instruction Patterning](../strategies/direct_instruction-patterning.md)
+
+## Key Sources
+- Mosley, Allen M. (1997). The Effectiveness of "Direct Instruction" on Reading Achievement. ERIC Document ED402553. https://eric.ed.gov/?id=ED402553
+-->
+
+<!-- merged 2026-10-15 from patterns/hunters-effective-teaching-model ("Hunter's Effective Teaching Model"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Hunter's Effective Teaching Model
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Madeline Hunter combined a number of direct-instruction techniques into a single, comprehensive approach she called **mastery teaching** (distinct from the separate term "mastery learning") or the **effective teaching model** (M. Hunter, 1982; R. Hunter, 2004). Its features span before, during, and after a lesson.
+
+**Before the lesson**, the curriculum is analyzed into its basic elements and how they relate to each other, expressed at a level appropriate to the students (e.g., teaching photosynthesis to advanced students as chemical reactions involving chlorophyll and carbon dioxide, versus to first-graders as a process akin to breathing).
+
+**Preparing students to learn** makes the most of the moment when attention is highest: creating an **anticipatory set** — an activity that focuses students' attention on the upcoming content, often a question drawing on everyday knowledge or a prior lesson (e.g., "If you are making a salad strictly of fruit, which of these would be OK to use: apple, tomato, cucumber, or orange?") — directing attention to what lies ahead (e.g., via [advance organizers](../elements/advance-organizers.md)), and explicitly stating lesson objectives.
+
+**Presenting information clearly and explicitly** means setting a basic lesson structure and staying with it, using familiar language, staying concise, and offering plentiful, varied examples — models and analogies can help (e.g., "think of a fruit as a decoration on the plant, since picking it doesn't kill the plant"), but can also mislead if used carelessly, since an analogy's features may diverge from the real concept in ways students overgeneralize.
+
+**Checking for understanding and guided practice** asks questions that require active thinking from everyone, not just volunteers: a full-class choral response, a non-verbal signal (raising hands), or brief individual written or verbal responses, supplemented by individually-addressed questions. This gives the teacher a rough read on overall understanding even though some students may let more knowledgeable peers carry the response.
+
+**Independent practice** consolidates rather than introduces new material: the teacher works through the first few problems together with students before turning practice over to them, but keeps independent-practice stretches brief and interspersed with feedback rather than assigning one long, unsupervised block.
+
+## Implications
+
+### Context
+#### Requirements
+- Curricula and learning goals that are tightly organized and divisible into small, clearly related parts
+#### Constraints
+#### Grain Size
+lesson
+
+### Target Goals
+- Consolidated mastery of clearly defined content and skills, verified through frequent, whole-class checks for understanding
+
+### Target Learners
+- Learners in subjects or topics well-suited to teacher-directed, tightly sequenced instruction (see [Direct Instruction](direct-instruction.md) for where this fit is and is not appropriate)
+
+### Theory
+#### Supporting
+- [Direct Instruction](direct-instruction.md) — Hunter's model is an integration of several direct-instruction techniques into one lesson-length sequence
+#### Contradicting / Qualifying
+
+### Claims
+#### Supporting
+#### Contradicting
+
+- [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement](../claims/itip-lacks-empirical-evidence-achievement.md) [~W]
+
+## Design
+
+### Sequence
+1. Analyze the curriculum into its basic elements and their relationships, at a level appropriate to the learners.
+2. Open with an anticipatory set that orients attention to the upcoming content, plus explicit lesson objectives.
+3. Present information in short, logical pieces, using familiar language and plentiful varied examples.
+4. Check for understanding throughout via whole-class response (choral or non-verbal signal) supplemented by individual questioning.
+5. Transition to brief, interspersed independent practice with frequent feedback, rather than one long unsupervised block.
+
+### Affordances
+- [Advance Organizers](../elements/advance-organizers.md) — used to build the anticipatory set and orient attention before new content
+- [Guided Practice](../elements/guided-practice.md) — the "work through the first few together" step before independent practice
+
+### Personalization
+- The level at which curriculum elements are expressed (e.g., photosynthesis as chemistry vs. as breathing) can be adjusted to student age and prior knowledge
+
+## Related Patterns
+- [Direct Instruction](direct-instruction.md) — the broader teacher-directed tradition this model draws its component techniques from
+- [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from
+
+## Examples
+- Teaching fruits vs. vegetables: an anticipatory-set question about a fruit salad, examples presented one feature at a time, whole-class raise-hands or choral checks ("say 'fruit' or 'vegetable' as I point"), then brief practice sorting additional examples with feedback.
+
+## Key Sources
+- Hunter, M. (1982). *Mastery teaching*. TIP Publications.
+- Hunter, R. (2004). *Madeline Hunter's mastery teaching: Increasing instructional effectiveness in elementary and secondary schools* (Rev. ed.). Corwin Press.
+- Arduini-Van Hoose, N. (2020). Instructional strategies that stimulate complex thinking. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-15 from principles/explicit-strategy-instruction-in-preparatory-curricula ("Include explicit reading comprehension strategy instruction in university preparatory program curricula"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Include explicit reading comprehension strategy instruction in university preparatory program curricula
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The article recommends that university preparatory programs explicitly teach reading comprehension strategies because students must later comprehend long, linguistically challenging academic texts in departmental courses. The author states "it is recommended that practitioners include explicit reading comprehension strategies instruction in their curriculum," arguing such a curriculum raises awareness and builds knowledge of how to use the strategies. Strategy selection should accommodate diverse learner needs and support critical and creative thinking.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instruction should take into account the needs, strengths, and weaknesses of students
+- syllabuses should be equipped with appropriate reading strategies to cover all learning styles
+#### Constraints
+- Supported by a small-sample quasi-experiment at A2+/B1 level; the author notes limited statistical power and generalizability
+
+### Target Learners
+- EFL university preparatory students at elementary (A2) to pre-intermediate (B1) CEFR levels
+
+### Target Learning Objectives
+- L2 reading comprehension of academic texts
+
+### Claims
+
+- [Explicit Strategy Instruction Short Stories Improve Efl Reading Comprehension](../claims/explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) [+M]
+- [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](../claims/efl-students-positive-views-explicit-strategy-instruction.md) [+W]
+- [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](../claims/teacher-modeling-internalizes-reading-strategies.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Short-story-based explicit strategy instruction package (strategy presentations, in-class examples, and student products)](../elements/short-story-explicit-strategy-instruction-package.md)
+
+## Key Sources
+- Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/
 -->

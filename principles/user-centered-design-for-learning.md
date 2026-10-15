@@ -1,6 +1,7 @@
 ---
 type: principle
 id: user-centered-design-for-learning
+aliases: [design-with-students-empathy-interviews]
 title: User-Centered Design for Learning
 description: "For learners who reach instruction through a digital interface, revising that interface against what representative users actually do on the real learning tasks (finding, reading, submitting, interpreting) is expected to remove avoidable effort and failed attempts that compete with the content, though no claim in the wiki compares a user-tested interface with an untested one on a learning outcome."
 canonical: true
@@ -8,12 +9,17 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-10-15
+sources:
+  - id: coenraad-2021
+    resource: "https://dschool.stanford.edu/resources/liberatory-design-cards"
+    title: "Coenraad, M., Hodge, M., Ruiz, P., Mills, K., & Burke, Q. (2021). Empathy Interviews for Developing Inclusive Computing Pathways. Washington, D.C.: Center for Inclusive Innovation, Digital Promise. https://dschool.stanford.edu/resources/liberatory-design-cards"
+    author: "Coenraad, M., Hodge, M., Ruiz, P., Mills, K., & Burke, Q"
 ---
 
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (12 for, 6 mixed, 1 against) · 16 studies (6 causal, 6 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 16 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (15 for, 6 mixed, 1 against) · 19 studies (7 design, 6 causal, 4 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 19 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +124,9 @@ Claims the earlier page cited, and two found for this rewrite, that are not used
 - [System usability was rated low in both conditions, with no significant difference between them](../claims/low-usability-both-conditions.md) [~M]: 42 students using two versions of an LLM mathematics support tool both rated usability low; the difference between versions was not significant. Found for this rewrite; a reminder that changing what a tool says does not fix how it is operated.
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](../claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) [+M]: correlations in one algebra study; bears on the load mechanism, not on interfaces. Found for this rewrite.
 - [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](../claims/ai-helper-usability-obstacles.md) [~W]: one think-aloud case study of an AI feedback tool; used in the situation table for low-literacy learners.
+- [Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems](../claims/empathy-interviews-adopted-by-improvement-teams.md) [+W]
+- [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](../claims/empathy-interviews-central-equity-practice.md) [+W]
+- [The authors argue partnership in course design is a promising avenue for LIS educators to begin decolonizing classroom hierarchies](../claims/partnership-decolonizing-classroom-hierarchies.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -146,11 +155,21 @@ Rated usability, task success, understanding of what a screen shows, and learnin
 - [Use a design thinking process with Empathize, Define, Ideate, Prototype, and Test stages to reimagine school safety](../strategies/design-thinking-reimagining-school-safety.md)
 - [Learner Experience Design (LXD)](../processes/learner-experience-design.md) — the user-centred course design process this principle supports
 - [Distinguish learner research from user research and choose success metrics tied to educational outcomes rather than engagement](../strategies/distinguish-learner-research-from-user-research.md)
+- [Begin inclusive design work with teacher self-reflection on intersecting identities](../designs/identity-reflection-before-empathy-interviews.md)
+- [Extend empathy interviews to students' caregivers for an additional perspective](../strategies/caregiver-empathy-interview-extension.md)
+- [Observe the classroom for dissonance between what students say and what teachers see](../strategies/classroom-observation-dissonance-inclusive-design.md)
+- [Close the empathy exercise by reflecting on surprises, systemic oppression, and short- and long-term design goals](../strategies/empathy-exercise-reflection-and-forward-planning.md)
+- [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](../strategies/empathy-interview-conduct-practices.md)
+- [Five-step empathy interview exercise for teachers designing inclusive computing pathways](../strategies/empathy-interview-five-step-exercise.md)
+- [Inclusive Innovation Process](../strategies/inclusive_innovation_process.md)
+- [Empathy Interview Protocol for inclusive computing pathways](../elements/empathy-interview-protocol-ct-pathways.md)
+- [Conduct empathy interviews to understand user experiences with technology](../strategies/empathy-interviews-for-ai-policy-development.md)
 
 ## Key Sources
 - Earnshaw, Y., Tawfik, A. A., & Schmidt, M. (2018). User experience design. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/user_experience_design](https://edtechbooks.org/lidtfoundations/user_experience_design)
 - Nielsen, J. (1994). Heuristic evaluation. In J. Nielsen & R. L. Mack (Eds.), *Usability inspection methods* (pp. 25–62). Wiley.
 - International Organization for Standardization. (2010). *Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems* (ISO 9241).
+- Coenraad, M., Hodge, M., Ruiz, P., Mills, K., & Burke, Q. (2021). Empathy Interviews for Developing Inclusive Computing Pathways. Washington, D.C.: Center for Inclusive Innovation, Digital Promise. https://dschool.stanford.edu/resources/liberatory-design-cards
 
 <!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -210,4 +229,53 @@ UCD proceeds iteratively: identifying user needs (often via **personas** — det
 - Earnshaw, Y., Tawfik, A. A., & Schmidt, M. (2018). User experience design. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/user_experience_design](https://edtechbooks.org/lidtfoundations/user_experience_design)
 - Nielsen, J. (1994). Heuristic evaluation. In J. Nielsen & R. L. Mack (Eds.), *Usability inspection methods* (pp. 25–62). Wiley.
 - International Organization for Standardization. (2010). *Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems* (ISO 9241).
+-->
+
+<!-- merged 2026-10-15 from principles/design-with-students-empathy-interviews ("Design with students rather than for them by interviewing the actual users of the curriculum"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Design with students rather than for them by interviewing the actual users of the curriculum
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+
+## Description
+The article argues that designers "tend to unconsciously default to imagined users whose experiences are similar to their own", producing what Costanza-Chock calls "a spiral of exclusion". Empathy interviews counter this by having teachers hear the stories of the students who will actually use what they design. The guide invokes the disability rights mantra "Nothing about us without us" as the rationale for designing with rather than designing for marginalized learners.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must select students whose experiences differ from their own and from the dominant society, and must attend to power dynamics so the selected student does not feel othered.
+#### Constraints
+- 
+
+### Target Learners
+- K-12 students in computing courses, particularly those from marginalized or non-dominant backgrounds
+
+### Target Learning Objectives
+- Inclusive computing curriculum design responsive to students' identities and experiences
+
+### Claims
+
+- [Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems](../claims/empathy-interviews-adopted-by-improvement-teams.md) [+W]
+- [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](../claims/empathy-interviews-central-equity-practice.md) [+W]
+- [The authors argue partnership in course design is a promising avenue for LIS educators to begin decolonizing classroom hierarchies](../claims/partnership-decolonizing-classroom-hierarchies.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Begin inclusive design work with teacher self-reflection on intersecting identities](../designs/identity-reflection-before-empathy-interviews.md)
+- [Extend empathy interviews to students' caregivers for an additional perspective](../strategies/caregiver-empathy-interview-extension.md)
+- [Observe the classroom for dissonance between what students say and what teachers see](../strategies/classroom-observation-dissonance-inclusive-design.md)
+- [Close the empathy exercise by reflecting on surprises, systemic oppression, and short- and long-term design goals](../strategies/empathy-exercise-reflection-and-forward-planning.md)
+- [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](../strategies/empathy-interview-conduct-practices.md)
+- [Five-step empathy interview exercise for teachers designing inclusive computing pathways](../strategies/empathy-interview-five-step-exercise.md)
+- [Inclusive Innovation Process](../strategies/inclusive_innovation_process.md)
+- [Empathy Interview Protocol for inclusive computing pathways](../elements/empathy-interview-protocol-ct-pathways.md)
+- [Conduct empathy interviews to understand user experiences with technology](../strategies/empathy-interviews-for-ai-policy-development.md)
+
+## Key Sources
+- Coenraad, M., Hodge, M., Ruiz, P., Mills, K., & Burke, Q. (2021). Empathy Interviews for Developing Inclusive Computing Pathways. Washington, D.C.: Center for Inclusive Innovation, Digital Promise. https://dschool.stanford.edu/resources/liberatory-design-cards
 -->

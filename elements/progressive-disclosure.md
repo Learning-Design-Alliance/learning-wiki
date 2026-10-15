@@ -62,7 +62,7 @@ Progressive disclosure manages intrinsic load by preventing the simultaneous pre
 - [Analogies](analogies.md) — a simplified first-stage representation often takes the form of an analogy to familiar material
 
 ## Patterns That Use This Element
-- [Cognitive Load Reduction (CLT Scaffolding Approach)](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md) — sequencing is a primary load-reduction lever
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](../principles/cognitive-load-theory.md) — sequencing is a primary load-reduction lever
 - [4C/ID (Four-Component Instructional Design)](../patterns/4cid-four-component-instructional-design.md) — learning tasks are ordered from simple to complex with supportive information staged accordingly
 - [Elaboration Theory](../patterns/elaboration-theory.md) — epitome-first, increasingly detailed elaborations are a canonical progressive-disclosure structure
 

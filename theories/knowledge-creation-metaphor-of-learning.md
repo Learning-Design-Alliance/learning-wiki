@@ -43,7 +43,7 @@ The paper reports that the Trialogical Approach emerged in response to the disti
 
 ## Examples
 
-- [Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners](../principles/delegate-knowledge-creation-responsibility-to-learners.md)
+- [Design learning for knowledge creation by delegating responsibility for developing shared, re-usable knowledge objects to learners](../principles/collaborative-learning.md)
 - [Pedagogical scenarios that organise learning around knowledge creation with shared objects](../strategies/trialogical-pedagogical-scenarios.md)
 - [Seven basic characteristics of trialogical learning processes](trialogical-learning-design-characteristics.md)
 - [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../products/kpe.md)

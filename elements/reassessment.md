@@ -48,7 +48,7 @@ Reassessment leverages the testing effect a second time: the initial response fu
 ### Affordances
 - [Assessment for Learning](../principles/assessment-for-learning.md) — reassessment enacts this principle by treating the first answer as diagnostic information for the learner, not just the instructor; the revision cycle is the "learning" half of formative assessment
 - [Active Learning](../principles/active-learning.md) — the revise-and-justify step requires learners to actively reconstruct their reasoning rather than passively receive the correct answer
-- [Constructivism](../principles/constructivism.md) — learners revise their own mental models in light of new evidence rather than overwriting them with transmitted answers
+- [Constructivism](../principles/cognitive-activation.md) — learners revise their own mental models in light of new evidence rather than overwriting them with transmitted answers
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

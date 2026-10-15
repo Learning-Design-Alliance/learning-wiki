@@ -48,7 +48,7 @@ The article organizes classification of school-age children into three approache
 
 ## Examples
 
-- [Gather comprehensive information about students' functioning rather than relying solely on categorical placement eligibility](../principles/gather-comprehensive-information-not-solely-categorical-eligibility.md)
+- [Gather comprehensive information about students' functioning rather than relying solely on categorical placement eligibility](../principles/least-restrictive-environment.md)
 
 ## Key Sources
 - Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649

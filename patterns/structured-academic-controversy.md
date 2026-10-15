@@ -119,14 +119,13 @@ Record: **question and intended target → each learner's starting position and 
 
 ## Elements and limits
 
-[Structured academic controversy](../elements/structured-academic-controversy.md), [assigned positions](../elements/assigned-positions.md), [role reversal](../elements/role-reversal.md), [perspective-taking](../elements/perspective-taking.md), [structured discussion](../elements/structured-discussion.md), [rebuttals](../elements/rebuttals.md), [argumentation](../elements/argumentation.md), [sentence starters](../elements/sentence-starters.md), [consensus building](../elements/consensus-building.md), [knowledge synthesis](../elements/knowledge-synthesis.md), [group roles](../elements/group-roles.md), [peer discussion](../elements/peer-discussion.md), [rubric](../elements/rubrics.md), [feedback](../elements/feedback.md), [reflection](../elements/reflection.md) and [assessment](../elements/assessment.md). Principles the pattern draws on: [Perspective-Taking](../principles/perspective-taking.md), [Social Learning](../theories/sociocultural-theory.md), [Debate](debate.md), [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md), [Peer Discussion](../principles/peer-discussion.md) and [Purposeful Reflection](../principles/purposeful-reflection.md).
+[Structured academic controversy](../elements/structured-academic-controversy.md), [assigned positions](../elements/assigned-positions.md), [role reversal](../elements/role-reversal.md), [perspective-taking](../elements/perspective-taking.md), [structured discussion](../elements/structured-discussion.md), [rebuttals](../elements/rebuttals.md), [argumentation](../elements/argumentation.md), [sentence starters](../elements/sentence-starters.md), [consensus building](../elements/consensus-building.md), [knowledge synthesis](../elements/knowledge-synthesis.md), [group roles](../elements/group-roles.md), [peer discussion](../elements/peer-discussion.md), [rubric](../elements/rubrics.md), [feedback](../elements/feedback.md), [reflection](../elements/reflection.md) and [assessment](../elements/assessment.md). Principles the pattern draws on: [Perspective-Taking](../principles/perspective-taking.md), [Social Learning](../theories/sociocultural-theory.md), [Debate](debate.md), [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md), [Peer Discussion](../principles/peer-discussion.md) and [Purposeful Reflection](../principles/reflection.md).
 
 This pattern is scoped to cooperative argument on a question that admits more than one defensible, evidence-bearing answer, with an integrated position as the target. Questions with one correct answer, topics where a two-sided frame would create a false equivalence, and goals of winning or defending a case under challenge (see [Debate](debate.md)) need other configurations. The policy supports observation and design reasoning. It remains to be tested whether SAC improves individual argument, perspective-taking, topic understanding or attitudes more than debate or discussion, for which learners and at what horizon. The same is true of whether the reversal or the synthesis carries any effect.
 
 ## Related Patterns
 - [Debate Format](debate.md)
 - [Socratic Seminar](socratic-seminar.md)
-- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md)
 
 ## Examples
 - Students debate a policy question, switch sides, and then produce a joint synthesis.
@@ -213,9 +212,9 @@ Structured Academic Controversy is a discussion pattern in which learners examin
 - [Perspective-Taking](../principles/perspective-taking.md)
 - [Social Learning](../theories/sociocultural-theory.md)
 - [Debate](debate.md)
-- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md)
 - [Peer Discussion](../principles/peer-discussion.md)
-- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Purposeful Reflection](../principles/reflection.md)
 -->
 
 <!-- merged 2026-10-02 from patterns/structured-academic-controversy-sac ("Structured Academic Controversy (SAC)"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
@@ -291,9 +290,9 @@ SAC is particularly useful when the topic involves legitimate disagreement and l
 
 ### Affordances
 - [Debate](debate.md)
-- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md)
 - [Peer Discussion](../principles/peer-discussion.md)
-- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Purposeful Reflection](../principles/reflection.md)
 
 ### Personalization
 - Topics can be chosen to match learner maturity and domain relevance.
@@ -304,7 +303,7 @@ SAC is particularly useful when the topic involves legitimate disagreement and l
 
 - [Debate Format](debate.md)
 - [Socratic Seminar](socratic-seminar.md)
-- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md)
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate.md)
 
 ## Examples
 - Civics learners examining competing policy responses and then writing a synthesis recommendation.

@@ -59,7 +59,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 
 ## Patterns That Use This Element
 - [Multimedia Learning](../patterns/multimedia-learning.md)
-- [Flipped Learning](../patterns/flipped-classroom.md)
+- [Flipped Learning](../principles/flipped-learning.md)
 
 ## Examples
 - Interactive lessons that combine diagrams, narration, and practice prompts.

@@ -73,9 +73,9 @@ Social constructivism is strongest when learning depends on language, comparison
 
 ### Illustrative
 
-**[Discussion Group](../patterns/discussion-based-learning.md)** — Learners build understanding through structured exchange around a shared prompt, text, or problem.
+**[Discussion Group](collaborative-learning.md)** — Learners build understanding through structured exchange around a shared prompt, text, or problem.
 
-**[Collaborative Inquiry](../patterns/collaborative-inquiry.md)** — Groups investigate a question together and co-construct an explanation from evidence.
+**[Collaborative Inquiry](inquiry-based-learning.md)** — Groups investigate a question together and co-construct an explanation from evidence.
 
 **Seminar dialogue with instructor facilitation** — Learners interpret a concept or case publicly, respond to one another, and revise ideas through guided discourse.
 

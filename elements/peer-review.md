@@ -46,7 +46,7 @@ Peer review is the element in which learners examine and respond to one another'
 - Improve drafts, strengthen criteria use, and develop feedback literacy.
 
 ### Affordances
-- [Peer Feedback/Peer Review](../principles/peer-feedback.md)
+- [Peer Feedback/Peer Review](../principles/peer-learning.md)
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Feedback Loops](../principles/feedback-loops.md)
 

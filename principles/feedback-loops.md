@@ -1,7 +1,7 @@
 ---
 type: principle
 id: feedback-loops
-aliases: [design-feedback-on-external-outputs-asynchronous]
+aliases: [design-feedback-on-external-outputs-asynchronous, prefer-feedback-loops-over-feedback-systems, dl2f-continuous-improvement-principle]
 title: Feedback Loops
 description: "For a learner whose performance can be observed, information about it is expected to improve later performance only when the loop closes (the information says what to change, a next attempt uses it, and that attempt is checked again on a new item); corrective feedback and correct-and-recheck programmes are supported on average, but no claim here tests a closed loop against the same feedback without a next attempt."
 canonical: true
@@ -22,12 +22,19 @@ sources:
     resource: "https://doi.org/10.24059/olj.v29i3.4555"
     title: "Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555"
     author: "Pollard, V. & Armatas, C"
+  - id: baker-a-weisgrau-j
+    resource: "https://doi.org/10.51388/20.500.12265/155"
+    title: "Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155"
+  - id: merueña-2023
+    resource: "https://doi.org/10.36713/epra2016"
+    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016"
+    author: Merueña, J. A. A
 ---
 
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (16 for, 9 mixed, 2 against) · 41 studies (11 causal, 9 quant-synthesis, 9 review, 4 qualitative, 4 design, 2 associational, 2 theoretical), `q1`–`q4` · 7 of 41 report an effect size · 18 claims rest on one study
+> **Evidence** · 28 claims (17 for, 9 mixed, 2 against) · 42 studies (11 causal, 9 quant-synthesis, 9 review, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 7 of 42 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,7 +144,8 @@ Learners, tasks, settings and outcomes differ across these claims, so do not ran
 
 Claims this page has read and does not use in the model above, with how far each bears on it.
 
-- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need](../claims/lvn-generator-feedback-loop-case.md) [+W]: read; a design case about feedback loops between organisations in product development, a different sense of "feedback loop"; it does not bear on learners' loops. The principle [Prefer feedback loops over one-directional feedback systems](prefer-feedback-loops-over-feedback-systems.md) holds that sense.
+- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need](../claims/lvn-generator-feedback-loop-case.md) [+W]: read; a design case about feedback loops between organisations in product development, a different sense of "feedback loop"; it does not bear on learners' loops. The principle [Prefer feedback loops over one-directional feedback systems](feedback-loops.md) holds that sense.
+- [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -160,6 +168,7 @@ Following the information on the corrected item, unaided performance on a new it
 - [Attempt-reduction patterns differed across course parts: Diagnostic and General Feedback were associated with fewer attempts for New Content, Single-Issue for Old Content](../claims/attempt-reduction-varies-by-course-part.md) [~W]
 - [Valid test case feedback improves correctness without reducing subsequent submission counts](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](../claims/students-recognize-writing-improvement-ai-feedback.md) [+W]
+- [Dl2F Dynamic Language Learning Framework](../theories/dl2f-dynamic-language-learning-framework.md) [+M]
 
 ## Related Principles
 - [Immediate Feedback](immediate-feedback.md)
@@ -169,8 +178,7 @@ Following the information on the corrected item, unaided performance on a new it
 - [Assessment for Learning](assessment-for-learning.md) — shared criteria and the stakes that keep loop evidence honest
 - [Mastery Learning](mastery-learning.md) — the criterion-gated correct-and-recheck loop between units
 - [Self-Regulated Learning](self-regulated-learning.md) — the learner-run loop this page hands over to
-- [Peer Feedback](peer-feedback.md) — peers as the source of information in a loop
-- [Prefer feedback loops over one-directional feedback systems](prefer-feedback-loops-over-feedback-systems.md) — the same words used for loops between organisations in product development
+- [Peer Feedback](peer-learning.md) — peers as the source of information in a loop
 
 ## Examples
 
@@ -179,11 +187,14 @@ Following the information on the corrected item, unaided performance on a new it
 - A writing conference identifies one revision target that the learner applies in the next draft.
 - The [feedback element](../elements/feedback.md) and the [formative assessment pattern](../patterns/formative-assessment.md) and [mastery learning pattern](../patterns/mastery-learning.md) carry loops as reusable components and policies.
 - [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
+- [Identify feedback loops in your organization by sourcing, evaluating, and validating case studies](../strategies/identify-feedback-loops-process.md)
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81-112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249. [https://doi.org/10.1007/s10648-011-9191-6](https://doi.org/10.1007/s10648-011-9191-6)
 - Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
+- Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -283,4 +294,87 @@ The article recommends explicitly designing task-based formative feedback into a
 
 ## Key Sources
 - Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
+-->
+
+<!-- merged 2026-10-15 from principles/prefer-feedback-loops-over-feedback-systems ("Prefer feedback loops over one-directional feedback systems when direct benefits for all participants matter"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Prefer feedback loops over one-directional feedback systems when direct benefits for all participants matter
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The report argues that while simple feedback systems such as surveys are valuable and can lead to significant increases in the impact of a product, feedback loops as conceived here result in not only improvement in outputs, but create direct benefits for all participants. Organizations should therefore assess whether a scenario calls for mere sentiment-gathering or for a bidirectional, iterative, transformative interaction, and reserve feedback loops for cases where mutual transformation and partnership-building are the goal.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Willingness to invest in iterative, multi-round engagement rather than a single collection point
+#### Constraints
+- Not every scenario or goal requires a feedback loop; simple feedback systems remain valuable approaches for establishing sentiment about a product or process
+
+### Target Learners
+- School districts, education nonprofits, and research-practice partnerships
+
+### Target Learning Objectives
+- Designing stakeholder engagement that builds partnership and belonging while improving outputs
+
+### Claims
+
+- [Lvn Generator Feedback Loop Case](../claims/lvn-generator-feedback-loop-case.md) [+M]
+- [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Identify feedback loops in your organization by sourcing, evaluating, and validating case studies](../strategies/identify-feedback-loops-process.md)
+
+## Key Sources
+- Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
+-->
+
+<!-- merged 2026-10-15 from principles/dl2f-continuous-improvement-principle ("Build continuous improvement into language instruction through regular feedback, self-assessment, and revision opportunities"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Build continuous improvement into language instruction through regular feedback, self-assessment, and revision opportunities
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
+
+## Description
+DL2F treats language proficiency as an ongoing journey rather than a fixed destination by embedding continuous learning mechanisms into instruction. The article states the framework 'incorporat[es] regular feedback, self-assessment, and opportunities for revision to foster a growth mindset among learners', supported by reflection and discussion sessions and continuous monitoring with adjustments based on student feedback.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Regular feedback mechanisms
+- reflection and discussion sessions
+- ongoing monitoring and adaptation based on student feedback
+#### Constraints
+- 
+
+### Target Learners
+- language learners in student-centered programs
+
+### Target Learning Objectives
+- growth mindset
+- ongoing language proficiency development
+- self-assessment skills
+
+### Claims
+
+- [Dl2F Dynamic Language Learning Framework](../theories/dl2f-dynamic-language-learning-framework.md) [+M]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
 -->

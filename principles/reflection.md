@@ -1,7 +1,7 @@
 ---
 type: principle
 id: reflection
-aliases: [reflective-practice, guided-prompts-and-faculty-involvement-encourage-integrative-reflection]
+aliases: [reflective-practice, guided-prompts-and-faculty-involvement-encourage-integrative-reflection, purposeful-reflection, trust-environment-context-for-reflection]
 title: Reflection
 description: "For a learner who has just performed a task or acted in a practice setting, structured prompts to examine that performance against a stated criterion and commit to a change are expected to improve later performance more than unguided reflection, qualified by the learner's ability to judge their own work, access to feedback, and whether the planned change is acted on."
 canonical: true
@@ -14,12 +14,32 @@ sources:
     resource: "https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning"
     title: "Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning"
     author: "Sturgill, A., & Motley, P"
+  - id: barrett-2005
+    resource: "http://google.electronicportfolios.com/reflect/whitepaper.pdf"
+    title: Barrett, H. (2005). Researching electronic portfolios and learner engagement. Retrieved from
+    author: Barrett, H
+  - id: brown-2002
+    resource: "https://doi.org/10.1177/0741713602052003005"
+    title: "Brown, J. O. (2002). Know thyself: The impact of portfolio development on adult learning. *Adult Education Quarterly, 52*(3), 228-245"
+    author: Brown, J. O
+  - id: sage-2015
+    resource: "https://doi.org/10.1080/10437797.2015.1076264"
+    title: "Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681"
+    author: "Sage, M., & Sele, P"
+  - id: tailab-2020
+    resource: "https://doi.org/10.5539/hes.v10n1p16"
+    title: "Tailab, M., & Marsh, N. (2020). Use of self-assessment of video recording to raise students' awareness of development of their oral presentation skills. *Higher Education Studies, 10*(1)"
+    author: "Tailab, M., & Marsh, N"
+  - id: ferraro-2000
+    resource: "https://eric.ed.gov/?id=ED449120"
+    title: "Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120"
+    author: Ferraro, Joan M
 ---
 
 # Reflection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 19 studies (6 causal, 5 quant-synthesis, 3 theoretical, 2 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 19 report an effect size · 9 claims rest on one study
+> **Evidence** · 21 claims (12 for, 9 mixed) · 25 studies (7 causal, 5 quant-synthesis, 5 theoretical, 3 review, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 5 of 25 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -105,6 +125,13 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](../claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) [+M] — reflective practice that explicitly targets how a problem of practice is *framed* (see [Designerly Stances](../theories/designerly-stances.md)), not just what happened, moved pre-service teachers toward more systemic and stakeholder-centered responses
 - [Guided Reflection Produces Longer Reflections](../claims/guided-reflection-produces-longer-reflections.md) [+M]
 - [Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions](../claims/teacher-educator-coaching-reflective-practice-methods.md) [+W] — attached 2026-10-07 from Ferraro (2000), which proposed "Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation".
+- [Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection](../claims/constructive-conflict-guidance-increases-reconsideration.md) [~W]
+- [In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed](../claims/reflection-debriefing-time-underscheduled.md) [+W]
+- [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](../claims/reflective-methods-overanalysis-limits.md) [~W]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
+- [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](../claims/peer-reflective-groups-challenge-student-teacher-views.md) [+W]
+- [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](../claims/reflective-practice-deeper-understanding-effectiveness.md) [+W]
+- [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](../claims/personalized-coaching-coherence-fit.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -123,9 +150,12 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](../claims/synthesizer-expected-support-uptake-action-planning.md) [+W]
 
 ## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md)
 - [Metacognition](self-regulated-learning.md)
-- [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
+- [Journaling](journaling.md) — journaling is one common routine for structured reflection over time.
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — reflection helps learners interpret progress and set next steps.
+- [Formative Assessment](formative-assessment.md) — reflection helps learners make use of feedback and evidence about current performance.
+- [Experiential Learning](experiential-learning.md) — experience becomes more educative when learners analyze and reinterpret it.
+- [Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions](ongoing-study-teams-peer-coaching-in-service.md)
 
 ## Examples
 
@@ -136,11 +166,28 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - [Reflective Journaling](../strategies/reflective-journals.md)
 - [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
 - [Use pre-action reviews and structured sentence starters to support high-integrity CoBi reflection](../strategies/pre-action-review-and-sentence-starters-for-cobi.md)
+- [Reflection](../elements/reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Vary reflection timing between in-the-moment and future-focused reflections](../strategies/vary-in-the-moment-and-future-focused-reflections.md)
+- [Use metacognitive activities and process evidence to help students monitor the purpose of their AI use](../strategies/metacognitive-ai-use-monitoring-strategies.md)
+- End-of-lesson exit reflection focused on one success, one challenge, and one next step.
+- Post-simulation debrief where learners identify a key decision and what they would change.
+- Brief reflection after a peer discussion or collaborative task before the class synthesizes learning.
+- [Use teaching portfolios with a reflective component so beginning teachers document competencies and reflect on which practices worked](../strategies/reflective-teaching-portfolios.md)
+- [Context-Specific Journaling](../strategies/context-specific_journaling.md)
+- [Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making](../strategies/action-research-reflective-teacher-education.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
 - Boud, D., Keogh, R., & Walker, D. (Eds.). (1985). *Reflection: Turning experience into learning*. Kogan Page.
 - Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)
+- Barrett, H. (2005). Researching electronic portfolios and learner engagement. Retrieved from [http://google.electronicportfolios.com/reflect/whitepaper.pdf](http://google.electronicportfolios.com/reflect/whitepaper.pdf)
+- Brown, J. O. (2002). Know thyself: The impact of portfolio development on adult learning. *Adult Education Quarterly, 52*(3), 228-245. [https://doi.org/10.1177/0741713602052003005](https://doi.org/10.1177/0741713602052003005)
+- Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681. [https://doi.org/10.1080/10437797.2015.1076274](https://doi.org/10.1080/10437797.2015.1076274)
+- Tailab, M., & Marsh, N. (2020). Use of self-assessment of video recording to raise students' awareness of development of their oral presentation skills. *Higher Education Studies, 10*(1). [https://doi.org/10.5539/hes.v10n1p16](https://doi.org/10.5539/hes.v10n1p16)
+- Boud, D., Keogh, R., & Walker, D. (1985). *Reflection: Turning experience into learning*. Kogan Page.
+- Schön, D. A. (1983). *The reflective practitioner*. Basic Books.
+- Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The original body follows verbatim.
 
@@ -240,13 +287,13 @@ Reflective practice matters most in domains where improvement depends on interpr
 ## Related Principles
 
 - [Reflection](reflection.md) — reflective practice is a performance-anchored form of reflection
-- [Purposeful Reflection](purposeful-reflection.md) — emphasizes that reflection should be directed toward usable insight and next steps
+- [Purposeful Reflection](reflection.md) — emphasizes that reflection should be directed toward usable insight and next steps
 - [Self-Regulated Learning](self-regulated-learning.md) — supplies the mechanism by which reflection informs future action
-- [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
+- [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](reflection.md)
 
 ## Related Patterns
 - [Reflective Practice](reflection.md)
-- [LDA Reflection](../patterns/lda-reflection.md)
+- [LDA Reflection](reflection.md)
 
 ## Examples
 
@@ -367,4 +414,231 @@ The article recommends structuring written reflection with instructor prompts ra
 
 ## Key Sources
 - Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)
+-->
+
+<!-- merged 2026-10-15 from principles/purposeful-reflection ("Purposeful Reflection"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Purposeful Reflection
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (2 for, 4 mixed) · 11 studies (3 causal, 3 theoretical, 2 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 3 claims rest on one study
+
+## Description
+Purposeful reflection is structured time for learners to examine what they did, what they understood, where they struggled, and what they should do next. The key distinction is intention: reflection is tied to a learning goal, experience, product, or decision rather than being a generic request to "think about it." Well-designed reflection helps learners consolidate meaning, monitor progress, and connect present learning to future action.
+
+Purposeful reflection can happen before, during, or after a task. It is especially useful after complex work, feedback, discussion, or practice because it helps learners interpret experience instead of merely having it. Reflection is strongest when prompts are specific, evidence-based, and revisited over time so learners can compare earlier and later thinking.
+
+## Implications
+Purposeful reflection works when learners revisit a specific performance, decision, or experience closely enough to interpret it rather than merely remember it. Reflection can strengthen monitoring and strategic adjustment [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M], and explanatory reflection often deepens conceptual understanding by making reasoning and misconceptions explicit [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]. For novices, reflection is most useful when prompts direct attention toward evidence, process, and next steps rather than asking for vague introspection [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. Reflection without action, however, quickly becomes compliance.
+
+### Context
+#### Requirements
+- **A defined reflection target**: Learners should reflect on a specific task, goal, misconception, experience, or product.
+- **Structured prompts or protocols**: Questions should direct attention toward evidence, strategy, and next steps rather than invite vague summary.
+- **Time close to the learning event**: Reflection is most useful when learners can still recall the reasoning, difficulty, or feedback they are analyzing.
+- **Some follow-through**: Reflection should feed later revision, discussion, goal-setting, or planning so it affects future learning.
+#### Constraints
+- **Unstructured reflection drifts**: Broad prompts often produce superficial recap instead of analysis.
+- **Reflection without action stalls**: If learners never use reflection to revise work or strategy, it becomes compliance writing.
+- **Emotional overreach**: Reflection should not require personal disclosure beyond what is instructionally relevant and psychologically safe.
+- **Novice ambiguity**: Learners new to reflection may need examples, sentence stems, or modeling to reflect productively.
+
+### Target Learners
+- **Learners developing metacognition**: Reflection helps learners name strategies, obstacles, and patterns in their own learning.
+- **Adult learners connecting learning to experience**: Reflection is well suited to integrating coursework with prior work, family, or community contexts.
+- **Learners engaged in complex tasks**: Strong fit after inquiry, projects, performances, fieldwork, or revision cycles.
+- **Learners rebuilding academic confidence**: Structured reflection can make growth visible and counter all-or-nothing interpretations of success and failure.
+
+### Target Learning Objectives
+- **Metacognitive awareness**: Monitoring understanding, effort, and strategy use.
+- **Transfer and application**: Connecting what was learned in one context to future tasks or settings.
+- **Revision and improvement**: Using reflection to plan concrete changes in approach or product quality.
+- **Identity and agency development**: Helping learners see themselves as capable participants in learning.
+
+### Theory
+#### Supporting
+- Reflective practice traditions — reflection supports sense-making from action and experience.
+- Self-regulated learning — learners use reflection to evaluate progress and choose next strategies.
+- Constructivist perspectives — meaning deepens when learners reinterpret experience and connect ideas across contexts.
+#### Contradicting / Qualifying
+- Reflection is not inherently effective; it becomes useful when prompts are disciplined enough to focus attention on evidence, strategy, and change.
+- Reflection should complement, not replace, direct practice, feedback, and explicit instruction.
+
+### Claims
+
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — reflection is strongest when it helps learners evaluate progress and choose a better next move
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — putting reasoning into words can deepen understanding of what happened and why
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — beginners usually reflect better when prompts focus on process, cues, and next actions
+- [Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection](../claims/constructive-conflict-guidance-increases-reconsideration.md) [~W]
+- [In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed](../claims/reflection-debriefing-time-underscheduled.md) [+W]
+- [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](../claims/reflective-methods-overanalysis-limits.md) [~W]
+
+## Related Principles
+- [Journaling](journaling.md) — journaling is one common routine for structured reflection over time.
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — reflection helps learners interpret progress and set next steps.
+- [Formative Assessment](formative-assessment.md) — reflection helps learners make use of feedback and evidence about current performance.
+- [Experiential Learning](experiential-learning.md) — experience becomes more educative when learners analyze and reinterpret it.
+
+## Examples
+
+- [Reflection](../elements/reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [LDA Reflection](reflection.md)
+- [Vary reflection timing between in-the-moment and future-focused reflections](../strategies/vary-in-the-moment-and-future-focused-reflections.md)
+- [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
+- [Use pre-action reviews and structured sentence starters to support high-integrity CoBi reflection](../strategies/pre-action-review-and-sentence-starters-for-cobi.md)
+- [Use metacognitive activities and process evidence to help students monitor the purpose of their AI use](../strategies/metacognitive-ai-use-monitoring-strategies.md)
+
+## Key Sources
+- Barrett, H. (2005). Researching electronic portfolios and learner engagement. Retrieved from [http://google.electronicportfolios.com/reflect/whitepaper.pdf](http://google.electronicportfolios.com/reflect/whitepaper.pdf)
+- Brown, J. O. (2002). Know thyself: The impact of portfolio development on adult learning. *Adult Education Quarterly, 52*(3), 228-245. [https://doi.org/10.1177/0741713602052003005](https://doi.org/10.1177/0741713602052003005)
+- Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681. [https://doi.org/10.1080/10437797.2015.1076274](https://doi.org/10.1080/10437797.2015.1076274)
+- Tailab, M., & Marsh, N. (2020). Use of self-assessment of video recording to raise students' awareness of development of their oral presentation skills. *Higher Education Studies, 10*(1). [https://doi.org/10.5539/hes.v10n1p16](https://doi.org/10.5539/hes.v10n1p16)
+-->
+
+<!-- merged 2026-10-15 from patterns/lda-reflection ("LDA Reflection"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# LDA Reflection
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 10 studies (3 theoretical, 2 causal, 2 quant-synthesis, 2 review, 1 associational), `q1`–`q4` · 1 of 10 report an effect size
+
+## Description
+LDA Reflection is a lightweight reflection pattern used to help learners pause after an activity, analyze what happened, and identify what to carry forward. In this wiki, the pattern functions as a practical debrief routine rather than a named external theory model. Its value is in turning experience, discussion, or performance into something learners can interpret and reuse.
+
+The pattern is especially useful at the end of a lesson, discussion, simulation, sprint, or practice cycle. It gives instructors a compact structure for surfacing what learners noticed, what they still need, and how they will apply or revise their understanding.
+
+## Implications
+
+### Context
+#### Requirements
+- **A completed learning episode**: Reflection needs a concrete experience, task, or artifact to look back on.
+- **Focused prompts**: Learners need questions that direct attention to evidence, strategy, and next steps.
+- **Psychological safety**: Reflection is stronger when learners can identify struggle without penalty.
+- **A path forward**: The pattern should connect reflection to revision, planning, or future application.
+#### Constraints
+- **Vagueness risk**: General prompts often produce shallow recap instead of useful reflection.
+- **Time compression**: Reflection gets cut easily unless it is treated as part of the learning design.
+- **Compliance writing**: If nothing is done with the reflection, the pattern loses value quickly.
+- **Not a substitute for feedback**: Reflection supports learning best when paired with discussion, evidence, or coaching.
+#### Grain Size
+- Lesson
+
+### Target Goals
+- **Metacognitive awareness**: Helping learners notice what they understood and where they struggled.
+- **Transfer of learning**: Identifying what should be used again in a future context.
+- **Revision planning**: Turning reflection into a next step rather than a summary only.
+
+### Target Learners
+- **Learners in practice-heavy or discussion-heavy settings**: Strong fit after activities that generate rich experience.
+- **Adult learners connecting learning to context**: Useful when learners need to link content to work, life, or prior experience.
+- **Learners building reflective habits**: A compact routine can normalize reflection without requiring long journaling tasks.
+
+### Theory
+#### Supporting
+- Reflective practice traditions — learning deepens when action is examined after the fact.
+- Self-regulated learning perspectives — reflection supports monitoring, evaluation, and next-step planning.
+- Experiential learning perspectives — experience becomes more educative when it is interpreted and connected to later action.
+#### Contradicting / Qualifying
+- Reflection should be specific and actionable; generic feelings checks alone rarely produce much instructional value.
+- Some learners need examples or sentence stems before short reflection routines become substantive.
+
+### Claims
+#### Supporting
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
+#### Contradicting
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
+
+## Design
+
+### Sequence
+1. Prompt learners to recall the task, decision, or key moment they are reflecting on.
+2. Ask them to identify what worked, what was difficult, and why.
+3. Have learners connect the experience to a concept, strategy, or future situation.
+4. End with a concrete next step, revision target, or transfer commitment.
+
+### Elements Used
+- [Reflection](../elements/reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Feedback](../elements/feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+
+### Affordances
+- [Purposeful Reflection](../principles/reflection.md)
+- [Self-monitoring](../principles/self-monitoring.md)
+- [Experiential Learning](../principles/experiential-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+
+### Personalization
+- Reflection can be written, spoken, paired, or shared with the whole group.
+- Prompts can emphasize strategy, emotion, evidence, or transfer depending on the lesson.
+- The pattern can be very brief or expanded into longer journaling or conferencing.
+
+## Related Patterns
+- [Discussion Group](collaborative-learning.md)
+- [Structured Peer Review](../patterns/structured-peer-review.md)
+
+## Examples
+- End-of-lesson exit reflection focused on one success, one challenge, and one next step.
+- Post-simulation debrief where learners identify a key decision and what they would change.
+- Brief reflection after a peer discussion or collaborative task before the class synthesizes learning.
+
+## Impact
+- Converts experience into interpretable evidence for learners.
+- Particularly useful as a low-overhead routine that keeps reflection embedded in instruction.
+
+## Key Sources
+- Boud, D., Keogh, R., & Walker, D. (1985). *Reflection: Turning experience into learning*. Kogan Page.
+- Schön, D. A. (1983). *The reflective practitioner*. Basic Books.
+-->
+
+<!-- merged 2026-10-15 from principles/trust-environment-context-for-reflection ("Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+
+## Description
+Boud and Walker (1998) identified weaknesses in how schools of education applied reflective practice: a "checklist" or "reflection on demand" mentality, reflection processes with no link to conceptual frameworks, failure to encourage students to challenge teaching practices, and personal disclosure demands beyond some young teachers' capacity. The digest reports their suggestion "that these weaknesses can be addressed when the teacher-coaches create an environment of trust and build a context for reflection unique to every learning situation."
+
+## Design Implications
+
+### Context
+#### Requirements
+- An environment of trust created by teacher-coaches
+- A context for reflection built uniquely for every learning situation
+#### Constraints
+- Reflection imposed on demand or as a checklist, without links to conceptual frameworks, is identified as a failing application
+
+### Target Learners
+- Pre-service teachers
+- In-service teachers
+
+### Target Learning Objectives
+- Meaningful reflection connected to conceptual frameworks
+- Challenging existing teaching practices
+
+### Claims
+
+- [Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions](../claims/teacher-educator-coaching-reflective-practice-methods.md) [+W]
+- [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](../claims/peer-reflective-groups-challenge-student-teacher-views.md) [+W]
+- [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](../claims/reflective-practice-deeper-understanding-effectiveness.md) [+W]
+- [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](../claims/personalized-coaching-coherence-fit.md) [+W]
+
+## Related Principles
+
+- [Reflective Practice](reflection.md)
+- [Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions](ongoing-study-teams-peer-coaching-in-service.md)
+
+## Examples
+
+- [Use teaching portfolios with a reflective component so beginning teachers document competencies and reflect on which practices worked](../strategies/reflective-teaching-portfolios.md)
+- [Context-Specific Journaling](../strategies/context-specific_journaling.md)
+- [Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making](../strategies/action-research-reflective-teacher-education.md)
+
+## Key Sources
+- Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120
 -->

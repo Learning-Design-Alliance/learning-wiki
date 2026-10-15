@@ -1,7 +1,7 @@
 ---
 type: principle
 id: universal-design-for-learning
-aliases: [diverse-exercise-types-learning-styles]
+aliases: [diverse-exercise-types-learning-styles, comprehensible-training-benefits-all-workers]
 title: Universal Design For Learning
 description: "For a class whose learners vary in access, language, prior knowledge and motivation, planning several routes into content, engagement and expression while the goal and criteria stay fixed is expected to let more learners reach the goal than a single-route design; no claim here tests UDL as a framework, only its parts."
 canonical: true
@@ -26,12 +26,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED296585"
     title: "Robinson, Peter J. (1988). Procedural and Declarative Knowledge in Vocabulary Learning: Communication and the Language Learner's Lexicon. Paper presented at the 22nd Annual TESOL Convention, Chicago. https://eric.ed.gov/?id=ED296585"
     author: Robinson, Peter J
+  - id: dyer-1992
+    resource: "https://eric.ed.gov/?id=ED378844"
+    title: "Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844"
+    author: Dyer, Penny
 ---
 
 # Universal Design For Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (11 for, 6 mixed) · 28 studies (11 review, 6 causal, 5 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 6 of 28 report an effect size · 9 claims rest on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 29 studies (11 review, 6 causal, 5 quant-synthesis, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 6 of 29 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +130,7 @@ Learners, tasks and outcomes differ across these claims (memory experiments, phy
 - Capp (2017), the meta-analysis of UDL studies cited by the earlier page, has no claim page in the wiki; its findings are not used above.
 - [Teachers reacted unanimously positively to new audio supports on the ReadWorks platform and offered them to all students, not only struggling readers](../claims/teachers-positive-reactions-readworks-audio-supports.md) [+W] — attached 2026-10-09 from Tare et al. (2018), which proposed "Design features to the edges of learner variability to support all students".
 - [Teachers reported that audio supports promoted inclusivity by letting all students access the same content and discuss it together](../claims/audio-supports-inclusivity-shared-discussion.md) [+W] — attached 2026-10-09 from Tare et al. (2018), which proposed "Design features to the edges of learner variability to support all students".
+- [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -184,6 +189,7 @@ The expectation should weaken if comparisons of a design with several routes aga
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal design for learning*. ASCD. [https://www.cast.org/products-teaching-every-student](https://www.cast.org/products-teaching-every-student)
 - U.S. Office of Educational Technology. (2016). *United States National Educational Technology Plan*. U.S. Department of Education. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/us_national_ed_tech_plan](https://edtechbooks.org/lidtfoundations/us_national_ed_tech_plan)
 - Robinson, Peter J. (1988). Procedural and Declarative Knowledge in Vocabulary Learning: Communication and the Language Learner's Lexicon. Paper presented at the 22nd Annual TESOL Convention, Chicago. https://eric.ed.gov/?id=ED296585
+- Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -312,4 +318,42 @@ Robinson argues there is no single way of learning vocabulary suitable to all le
 
 ## Key Sources
 - Robinson, Peter J. (1988). Procedural and Declarative Knowledge in Vocabulary Learning: Communication and the Language Learner's Lexicon. Paper presented at the 22nd Annual TESOL Convention, Chicago. https://eric.ed.gov/?id=ED296585
+-->
+
+<!-- merged 2026-10-15 from principles/comprehensible-training-benefits-all-workers ("Strategies that make training comprehensible for NESB workers benefit all trainees"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.
+
+# Strategies that make training comprehensible for NESB workers benefit all trainees
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The package argues that adjusting industrial training for workers of non-English-speaking backgrounds is not a niche accommodation. It states that "The very strategies whichcan make training more comprehensible for nesb workers will also ensure optimum learning by all other workers in training", so trainers should treat clear communication as universal good practice rather than special provision.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Trainers who understand the issues affecting workplace communication
+#### Constraints
+- Framed for multicultural workplaces with NESB workers
+
+### Target Learners
+- Workplace supervisors and industrial trainers
+
+### Target Learning Objectives
+- Effective delivery of industrial training to diverse workforces
+
+### Claims
+
+- [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844
 -->

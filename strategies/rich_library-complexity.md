@@ -59,7 +59,7 @@ Complex, ill-structured domains (medicine, history, literary interpretation, man
 ## Related Strategies
 - [Case-Based Learning](../patterns/case-based-learning.md) — the case corpus that supplies the library's content
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — provides the modeling and coaching that scaffold navigation of complex material
-- [Flipped Classroom](../patterns/flipped-classroom.md) — one way to free class time for cross-case comparison work
+- [Flipped Classroom](../principles/flipped-learning.md) — one way to free class time for cross-case comparison work
 
 ## Examples
 - **Spiro's "Kane, Krampe, and Britannica" hypertexts** — the original Cognitive Flexibility Theory environments, in which learners studied complex biographical/historical material via a concept-indexed case library and showed superior transfer on ill-structured assessment tasks.
